@@ -2,7 +2,7 @@ import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import { locales, isLocale } from "@/lib/locales";
 import { stories, categories } from "@/lib/data";
-import Home from "@/app/page";
+import Home from "@/app/home-client";
 import Category from "@/app/category/[slug]/view";
 import Post from "@/app/post/[slug]/view";
 import Tag from "@/app/tag/[slug]/view";
