@@ -1,5 +1,4 @@
 "use client";
-import { LanguageSelect } from "@/components/language-select";
 import { HeaderClock } from "@/components/header-clock";
 
 import { Text, useI18n } from "@/lib/i18n";
@@ -285,7 +284,6 @@ export function SiteHeader() {
 
   return (
     <header className="bg-surface">
-      <div className="layout-wide flex items-center justify-end gap-3 px-5 py-2 lg:px-8"><Link href="/issues/" className="header-text-link"><Text value="Issues"/></Link><LanguageSelect/></div>
       <div className="leader-bar" />
       <div className="wire-ticker border-b border-border bg-background-wash">
         <div className="layout-wide flex min-h-8 items-center gap-4 overflow-hidden px-5 lg:px-8">
@@ -303,24 +301,25 @@ export function SiteHeader() {
         </div>
       </div>
       <div className="layout-wide px-5 lg:px-8">
-        <div className="flex items-center justify-between gap-4 py-5 lg:py-7">
+        <div className="site-brand-row flex items-center justify-between gap-4 py-5 lg:py-7">
           <Link href="/" className="min-w-0">
             <span className="block font-display text-[clamp(1.5rem,4.3vw,4rem)] font-black leading-none tracking-normal">
               <Text value="全球伯乐"/> <span className="brand-accent">News</span>
             </span>
             <span className="mt-2 hidden text-xs uppercase tracking-[0.18em] text-muted-foreground sm:block"><Text value="Power, policy, and the people who move them"/></span>
           </Link>
-          <div className="hidden items-center gap-8 text-right lg:flex">
+          <div className="header-actions hidden items-center gap-6 text-right lg:flex">
             <div>
               <HeaderClock />
             </div>
-            <Link href="/rss.xml" className="inline-flex min-h-11 items-center whitespace-nowrap rounded-full bg-foreground px-4 py-2 text-sm font-bold text-background transition hover:bg-accent"><Text value="RSS feed"/></Link>
+            <Link href="/rss.xml" className="header-action-link">RSS</Link>
+            <Link href="/rss.xml" className="header-action-link"><Text value="Subscribe"/></Link>
           </div>
           <MobileMenu />
         </div>
       </div>
       <div className="desktop-edition-nav hidden bg-foreground text-background lg:block">
-        <div className="layout-wide flex min-h-14 items-center justify-between gap-8 px-5 lg:px-8">
+        <div className="layout-wide flex min-h-11 items-center justify-between gap-8 px-5 lg:px-8">
           <nav className="flex min-w-0 items-center gap-5">
             {navItems.map((item) => (
               <Link key={item.href} href={item.href} className="theme-select-nav story-link whitespace-nowrap text-background">

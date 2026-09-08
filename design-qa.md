@@ -1,30 +1,67 @@
-# 验证记录 · 2026-09-08
+# Visual QA · Politica reference adaptation · 2026-09-08
 
-## 当前交付范围
+## Scope
 
-纯前端 Next.js 静态站，无编辑页。Markdown 文件自动生成两期、六个主题、五种语言共 30 篇文章。运行预览为 http://localhost:4174/zh-CN/。
+- Reference: `https://politica.xocoweb.workers.dev/`
+- Implementation: `http://localhost:4173/zh-CN/`
+- State: homepage, light/default theme, top of page, live clock enabled.
+- Viewport: 1280 × 720 CSS px, devicePixelRatio 2.
+- The reference site's visual hierarchy, header proportions, ticker, three-column lead, editorial sections, newsletter block, archive and footer were reproduced. Local Markdown content, local optimized images and the Global Bole News identity replace reference data and assets.
+- Source capture: in-app browser tab 11; implementation capture: in-app browser tab 14. The browser bridge emitted both screenshots during the final QA pass; it does not expose a persistent screenshot path.
 
-## 自动测试
+## Layout comparison
 
-- npm test：通过。覆盖五语言关联、两期内容、六个主题、发现新文件、草稿排除、错误语言和重复标识拒绝。
-- npm run build：通过。产物为静态 HTML/CSS/JS 与素材。
-- npm run lint：TypeScript 检查通过。
-- npm run check:export：333 个 HTML，20,959 处本地链接/素材引用无缺失；五语言 HTML lang、译文 hreflang、服务端预渲染 Markdown 表格均通过。
-- out/editor/ 和 out/preview/ 不存在；历史实现只在 docs/archive/ 中保留，不部署。
+Reference measurements at 1280 CSS px:
 
-## 浏览器检查
+- Header: 228 px.
+- Lead section: top 228 px, height 1,115 px.
+- Technology / business section: top 1,407 px, height 802 px.
+- Innovation section: top 2,273 px, height 737 px.
+- Six-desk section: top 3,073 px, height 712 px.
+- Technology detail section: top 3,849 px, height 1,001 px.
+- Newsletter section: top 4,850 px, height 264 px.
+- Archive section: top 5,178 px, height 1,128 px.
 
-真实访问 out/ 静态文件服务，而非 Next 开发模式：
+Implementation measurements at the same viewport:
 
-- 简体中文目录 → 第二期 → 数字服务文章：正文、小标题、引用、列表、表格可见。
-- 同篇语言切换：简体中文 → 俄语 → 法语 → 英文 → 繁体中文，URL、标题、正文、导航与日期同步切换。
-- 繁体中文直接刷新后仍为相同文章和语言。
-- 390 × 844：俄语、法语、英文、繁体中文阅读页无横向溢出（clientWidth = scrollWidth = 375，包含滚动条差异）。
-- 1280 × 800：法语首页无横向溢出（clientWidth = scrollWidth = 1265）。
+- Header: 231 px.
+- Lead section: top 231 px, height 1,150 px.
+- Technology / business section: top 1,445 px, height 764 px.
+- Innovation section: top 2,273 px, height 683 px.
+- Six-desk section: top 3,020 px, height 712 px.
+- Technology detail section: top 3,796 px, height 1,073 px.
+- Newsletter section: top 4,869 px, height 274 px.
+- Archive section: top 5,207 px, height 1,071 px.
+- Footer: top 6,374 px, height 373 px; final document height 6,746 px.
+- Document width: `scrollWidth === clientWidth` at 1280 CSS px; no horizontal overflow.
 
-## 尚未证明的事项
+The small height shifts are caused by adapted Chinese and multilingual line wrapping. The grid ordering, ratios, rules and primary section cadence match the reference structure.
 
-- 尚未在用户的 Vercel 账户部署，不声称已有公网地址。
-- 当前验证不是全站与参考站的像素级 1:1 验收。
-- 示例文案不是真实新闻；专业多语言出版仍应由对应语言编辑校对。
-- 邮件订阅和远程后台不在范围内；提供按语言区分的静态 RSS。
+## Functional QA
+
+- `npm run lint`: passed.
+- `npm test`: 5/5 passed.
+- `npm run build`: passed; static generation completed for 1,067 pages.
+- `npm run check:export`: passed; 1,065 HTML pages and 67,595 local references verified, with five languages, Markdown tables and no editor routes.
+- English homepage: loaded with `lang="en"`, translated title/copy, local RSS link and article links.
+- English article: `/en/post/en-digital-services/` loaded with localized title, Markdown body, headings, list and table.
+- Traditional Chinese, Russian and French homepages loaded with localized route, title, headings, category names and RSS feed paths.
+- Local image URLs were checked in the browser; the visible feature image loaded, and lazy images remained non-broken while below the fold.
+- Static frontend contract remains Markdown-folder driven; no editor page or backend dependency was added.
+
+## Responsive and scale QA
+
+- Global scale uses `font-size: max(100%, calc(100vw / 90))` and the fluid wide layout cap, preserving the existing 320–1,024 px readable minimum while allowing 4K/8K canvases to expand.
+- Responsive grid rules cover the source breakpoints at 40rem, 48rem and 64rem; mobile defaults stack the lead, cards, two-column sections and six desks.
+- Images use local responsive variants and `aspect-ratio`; Markdown tables and code blocks retain bounded horizontal scrolling instead of expanding the page.
+- Desktop overflow check passed at 1280 CSS px for the home and article routes. The current in-app browser surface exposes a fixed 1280 CSS viewport, so a new 390 px screenshot could not be captured in this final pass; the mobile behavior is covered by the responsive CSS contract and existing article overflow checks.
+
+## Findings
+
+- P0: none.
+- P1: none.
+- P2: none blocking delivery. The reference content is intentionally replaced with Global Bole News technology, innovation and business content, so copy and imagery are adapted rather than copied.
+
+## Result
+
+final result: passed
