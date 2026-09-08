@@ -1,8 +1,10 @@
 "use client";
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
+import { useParams } from 'next/navigation';
 import { stories, type Story } from './data';
 import { useI18n } from './i18n';
 import { fetchArticles } from './article-client';
+import { isLocale } from './locales';
 
 type ArticleState = {allArticles:Story[]; status:'loading'|'ready'|'fallback'; retry:()=>void};
 const ArticleContext = createContext<ArticleState>({allArticles:stories,status:'loading',retry:()=>{}});
@@ -15,11 +17,17 @@ const notices = {
 };
 export function ArticleDataProvider({children}:{children:React.ReactNode}) {
   const {locale}=useI18n();
+  const params=useParams();
+  const hasLocaleRoute=isLocale(params?.locale);
   const [allArticles,setArticles]=useState(stories);
-  const [status,setStatus]=useState<ArticleState['status']>('loading');
+  const [status,setStatus]=useState<ArticleState['status']>(hasLocaleRoute?'loading':'ready');
   const [attempt,setAttempt]=useState(0);
   const retry=useCallback(()=>setAttempt(n=>n+1),[]);
   useEffect(()=>{
+    if(!hasLocaleRoute){
+      setStatus('ready');
+      return;
+    }
     const controller=new AbortController();
     let active=true;
     setStatus('loading');
@@ -28,7 +36,7 @@ export function ArticleDataProvider({children}:{children:React.ReactNode}) {
       if(active){setArticles(data);setStatus('ready');}
     }).catch(()=>{if(active)setStatus('fallback');}).finally(()=>clearTimeout(timeout));
     return ()=>{active=false;clearTimeout(timeout);controller.abort();};
-  },[attempt]);
+  },[attempt,hasLocaleRoute]);
   const value=useMemo(()=>({allArticles,status,retry}),[allArticles,status,retry]);
   return <ArticleContext.Provider value={value}>
     <span hidden data-article-status={status}/>
