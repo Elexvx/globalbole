@@ -1,0 +1,787 @@
+{
+  "Long reads": {"zh-CN":"深度阅读","zh-TW":"深度閱讀","en":"Long reads","ru":"Большое чтение","fr":"Grand format"},
+  "World": {
+    "zh-CN": "国际",
+    "zh-TW": "國際",
+    "en": "World",
+    "ru": "Мир",
+    "fr": "Monde"
+  },
+  "Politics": {
+    "zh-CN": "政治",
+    "zh-TW": "政治",
+    "en": "Politics",
+    "ru": "Политика",
+    "fr": "Politique"
+  },
+  "Business": {
+    "zh-CN": "商业",
+    "zh-TW": "商業",
+    "en": "Business",
+    "ru": "Экономика",
+    "fr": "Économie"
+  },
+  "Culture": {
+    "zh-CN": "文化",
+    "zh-TW": "文化",
+    "en": "Culture",
+    "ru": "Культура",
+    "fr": "Culture"
+  },
+  "Technology": {
+    "zh-CN": "科技",
+    "zh-TW": "科技",
+    "en": "Technology",
+    "ru": "Технологии",
+    "fr": "Technologie"
+  },
+  "Cities": {
+    "zh-CN": "城市",
+    "zh-TW": "城市",
+    "en": "Cities",
+    "ru": "Города",
+    "fr": "Villes"
+  },
+  "The Latest": {
+    "zh-CN": "最新报道",
+    "zh-TW": "最新報導",
+    "en": "The Latest",
+    "ru": "Последние новости",
+    "fr": "À la une"
+  },
+  "Curated": {
+    "zh-CN": "精选",
+    "zh-TW": "精選",
+    "en": "Curated",
+    "ru": "Подборка",
+    "fr": "Sélection"
+  },
+  "Editor's Picks": {
+    "zh-CN": "编辑推荐",
+    "zh-TW": "編輯推薦",
+    "en": "Editor's Picks",
+    "ru": "Выбор редакции",
+    "fr": "Choix de la rédaction"
+  },
+  "All News": {
+    "zh-CN": "全部文章",
+    "zh-TW": "全部文章",
+    "en": "All News",
+    "ru": "Все статьи",
+    "fr": "Tous les articles"
+  },
+  "Issues": {
+    "zh-CN": "各期目录",
+    "zh-TW": "各期目錄",
+    "en": "Issues",
+    "ru": "Все выпуски",
+    "fr": "Les éditions"
+  },
+  "Issue": {
+    "zh-CN": "期号",
+    "zh-TW": "期號",
+    "en": "Issue",
+    "ru": "Выпуск",
+    "fr": "Édition"
+  },
+  "Read issue": {
+    "zh-CN": "阅读本期",
+    "zh-TW": "閱讀本期",
+    "en": "Read issue",
+    "ru": "Читать выпуск",
+    "fr": "Lire cette édition"
+  },
+  "Read the complete edition →": {
+    "zh-CN": "阅读全部文章 →",
+    "zh-TW": "閱讀全部文章 →",
+    "en": "Read the complete edition →",
+    "ru": "Читать все статьи →",
+    "fr": "Lire tous les articles →"
+  },
+  "Search headlines, desks, or keywords.": {
+    "zh-CN": "搜索标题、栏目或关键词。",
+    "zh-TW": "搜尋標題、欄目或關鍵字。",
+    "en": "Search headlines, desks, or keywords.",
+    "ru": "Поиск по заголовкам, разделам и словам.",
+    "fr": "Rechercher un titre, une rubrique ou un mot-clé."
+  },
+  "Searching…": {
+    "zh-CN": "搜索中…",
+    "zh-TW": "搜尋中…",
+    "en": "Searching…",
+    "ru": "Поиск…",
+    "fr": "Recherche…"
+  },
+  "No stories found.": {
+    "zh-CN": "没有找到文章。",
+    "zh-TW": "沒有找到文章。",
+    "en": "No stories found.",
+    "ru": "Статьи не найдены.",
+    "fr": "Aucun article trouvé."
+  },
+  "Search": {
+    "zh-CN": "搜索",
+    "zh-TW": "搜尋",
+    "en": "Search",
+    "ru": "Поиск",
+    "fr": "Rechercher"
+  },
+  "Search the edition": {
+    "zh-CN": "搜索本站文章",
+    "zh-TW": "搜尋本站文章",
+    "en": "Search the edition",
+    "ru": "Поиск по изданию",
+    "fr": "Rechercher dans l’édition"
+  },
+  "全球伯乐 News navigation": {
+    "zh-CN": "网站导航",
+    "zh-TW": "網站導覽",
+    "en": "Global Bole News navigation",
+    "ru": "Навигация Global Bole News",
+    "fr": "Navigation Global Bole News"
+  },
+  "Visual edition": {
+    "zh-CN": "视觉主题",
+    "zh-TW": "視覺主題",
+    "en": "Visual edition",
+    "ru": "Оформление",
+    "fr": "Thème visuel"
+  },
+  "The Wire": {
+    "zh-CN": "即时资讯",
+    "zh-TW": "即時資訊",
+    "en": "The Wire",
+    "ru": "Лента",
+    "fr": "Le fil"
+  },
+  "Power, policy, and the people who move them": {
+    "zh-CN": "专注科技、创新、商业领域",
+    "zh-TW": "專注科技、創新、商業領域",
+    "en": "Focused on technology, innovation and business",
+    "ru": "Технологии, инновации и бизнес",
+    "fr": "Technologie, innovation et économie"
+  },
+  "Independent political daily": {
+    "zh-CN": "专注科技、创新、商业领域",
+    "zh-TW": "專注科技、創新、商業領域",
+    "en": "Focused on technology, innovation and business",
+    "ru": "Технологии, инновации и бизнес",
+    "fr": "Technologie, innovation et économie"
+  },
+  "Subscribe": {
+    "zh-CN": "订阅",
+    "zh-TW": "訂閱",
+    "en": "Subscribe",
+    "ru": "Подписаться",
+    "fr": "S’abonner"
+  },
+  "An independent political daily for the decisions behind the headlines.": {
+    "zh-CN": "专注科技、创新、商业领域",
+    "zh-TW": "專注科技、創新、商業領域",
+    "en": "Focused on technology, innovation and business",
+    "ru": "Технологии, инновации и бизнес",
+    "fr": "Technologie, innovation et économie"
+  },
+  "Copyright 2026 全球伯乐 News. Filed from the press gallery.": {
+    "zh-CN": "© 2026 全球伯乐 News · 保留所有权利",
+    "zh-TW": "© 2026 全球伯樂 News · 保留所有權利",
+    "en": "Copyright 2026 Global Bole News. Filed from the press gallery.",
+    "ru": "© 2026 Global Bole News. Все права защищены.",
+    "fr": "© 2026 Global Bole News. Tous droits réservés."
+  },
+  "Sections": {
+    "zh-CN": "文章分类",
+    "zh-TW": "文章分類",
+    "en": "Sections",
+    "ru": "Разделы",
+    "fr": "Rubriques"
+  },
+  "About": {
+    "zh-CN": "关于",
+    "zh-TW": "關於",
+    "en": "About",
+    "ru": "О нас",
+    "fr": "À propos"
+  },
+  "About 全球伯乐 News": {
+    "zh-CN": "关于本站",
+    "zh-TW": "關於本站",
+    "en": "About Global Bole News",
+    "ru": "О Global Bole News",
+    "fr": "À propos de Global Bole News"
+  },
+  "Authors": {
+    "zh-CN": "作者",
+    "zh-TW": "作者",
+    "en": "Authors",
+    "ru": "Авторы",
+    "fr": "Auteurs"
+  },
+  "Contact": {
+    "zh-CN": "联系我们",
+    "zh-TW": "聯絡我們",
+    "en": "Contact",
+    "ru": "Контакты",
+    "fr": "Contact"
+  },
+  "Privacy": {
+    "zh-CN": "隐私说明",
+    "zh-TW": "隱私說明",
+    "en": "Privacy",
+    "ru": "Конфиденциальность",
+    "fr": "Confidentialité"
+  },
+  "Resources": {
+    "zh-CN": "资源",
+    "zh-TW": "資源",
+    "en": "Resources",
+    "ru": "Ресурсы",
+    "fr": "Ressources"
+  },
+  "RSS feed": {
+    "zh-CN": "RSS 订阅",
+    "zh-TW": "RSS 訂閱",
+    "en": "RSS feed",
+    "ru": "Лента RSS",
+    "fr": "Flux RSS"
+  },
+  "Read-only Markdown publication.": {
+    "zh-CN": "基于 Markdown 的只读阅读站。",
+    "zh-TW": "基於 Markdown 的唯讀閱讀站。",
+    "en": "Read-only Markdown publication.",
+    "ru": "Издание на основе Markdown, только для чтения.",
+    "fr": "Une publication Markdown en lecture seule."
+  },
+  "View all": {
+    "zh-CN": "查看全部",
+    "zh-TW": "查看全部",
+    "en": "View all",
+    "ru": "Смотреть всё",
+    "fr": "Tout voir"
+  },
+  "The Daily Whip": {
+    "zh-CN": "每日阅读",
+    "zh-TW": "每日閱讀",
+    "en": "The Daily Whip",
+    "ru": "Ежедневное чтение",
+    "fr": "La lecture du jour"
+  },
+  "The sharpest read in your feed.": {
+    "zh-CN": "在阅读器中订阅更新。",
+    "zh-TW": "在閱讀器中訂閱更新。",
+    "en": "The sharpest read in your feed.",
+    "ru": "Читайте обновления в своей ленте.",
+    "fr": "Les nouveautés dans votre lecteur."
+  },
+  "A concise briefing on the decisions, alliances, and pressure points moving public life.": {
+    "zh-CN": "持续关注影响公共生活的重要议题。",
+    "zh-TW": "持續關注影響公共生活的重要議題。",
+    "en": "A concise briefing on the decisions, alliances, and pressure points moving public life.",
+    "ru": "Следите за вопросами, важными для общества.",
+    "fr": "Suivez les sujets qui comptent pour la vie publique."
+  },
+  "Subscribe via RSS →": {
+    "zh-CN": "通过 RSS 订阅 →",
+    "zh-TW": "透過 RSS 訂閱 →",
+    "en": "Subscribe via RSS →",
+    "ru": "Подписаться через RSS →",
+    "fr": "S’abonner par RSS →"
+  },
+  "Free RSS feed · No email collection": {
+    "zh-CN": "免费 RSS · 不收集邮箱",
+    "zh-TW": "免費 RSS · 不收集信箱",
+    "en": "Free RSS feed · No email collection",
+    "ru": "Бесплатный RSS · Без сбора адресов",
+    "fr": "RSS gratuit · Aucune collecte d’e-mails"
+  },
+  "← Previous": {
+    "zh-CN": "← 上一页",
+    "zh-TW": "← 上一頁",
+    "en": "← Previous",
+    "ru": "← Назад",
+    "fr": "← Précédent"
+  },
+  "Next →": {
+    "zh-CN": "下一页 →",
+    "zh-TW": "下一頁 →",
+    "en": "Next →",
+    "ru": "Далее →",
+    "fr": "Suivant →"
+  },
+  "End of edition": {
+    "zh-CN": "已到最后一页",
+    "zh-TW": "已到最後一頁",
+    "en": "End of edition",
+    "ru": "Конец выпуска",
+    "fr": "Fin de l’édition"
+  },
+  "Page": {
+    "zh-CN": "页",
+    "zh-TW": "頁",
+    "en": "Page",
+    "ru": "Страница",
+    "fr": "Page"
+  },
+  "of": {
+    "zh-CN": "/",
+    "zh-TW": "/",
+    "en": "of",
+    "ru": "из",
+    "fr": "sur"
+  },
+  "stories": {
+    "zh-CN": "篇文章",
+    "zh-TW": "篇文章",
+    "en": "stories",
+    "ru": "статей",
+    "fr": "articles"
+  },
+  "Share": {
+    "zh-CN": "分享",
+    "zh-TW": "分享",
+    "en": "Share",
+    "ru": "Поделиться",
+    "fr": "Partager"
+  },
+  "Copy link": {
+    "zh-CN": "复制链接",
+    "zh-TW": "複製連結",
+    "en": "Copy link",
+    "ru": "Скопировать ссылку",
+    "fr": "Copier le lien"
+  },
+  "Link copied": {
+    "zh-CN": "链接已复制",
+    "zh-TW": "連結已複製",
+    "en": "Link copied",
+    "ru": "Ссылка скопирована",
+    "fr": "Lien copié"
+  },
+  "Loading the edition": {
+    "zh-CN": "正在加载",
+    "zh-TW": "正在載入",
+    "en": "Loading the edition",
+    "ru": "Загрузка выпуска",
+    "fr": "Chargement de l’édition"
+  },
+  "Opening the story file…": {
+    "zh-CN": "正在打开文章…",
+    "zh-TW": "正在開啟文章…",
+    "en": "Opening the story file…",
+    "ru": "Открываем статью…",
+    "fr": "Ouverture de l’article…"
+  },
+  "404 / Story not found": {
+    "zh-CN": "404 / 文章不存在",
+    "zh-TW": "404 / 文章不存在",
+    "en": "404 / Story not found",
+    "ru": "404 / Статья не найдена",
+    "fr": "404 / Article introuvable"
+  },
+  "This story is not in the filing cabinet.": {
+    "zh-CN": "暂时没有这篇文章。",
+    "zh-TW": "暫時沒有這篇文章。",
+    "en": "This story is not in the filing cabinet.",
+    "ru": "Этой статьи пока нет.",
+    "fr": "Cet article n’est pas disponible."
+  },
+  "Browse all news →": {
+    "zh-CN": "浏览全部文章 →",
+    "zh-TW": "瀏覽全部文章 →",
+    "en": "Browse all news →",
+    "ru": "Все статьи →",
+    "fr": "Tous les articles →"
+  },
+  "Image file / 全球伯乐 News reference desk": {
+    "zh-CN": "配图 / 全球伯乐 News 示例素材",
+    "zh-TW": "配圖 / 全球伯樂 News 範例素材",
+    "en": "Image file / Global Bole News reference desk",
+    "ru": "Иллюстрация / Материалы Global Bole News",
+    "fr": "Illustration / Documentation Global Bole News"
+  },
+  "Tags": {
+    "zh-CN": "标签",
+    "zh-TW": "標籤",
+    "en": "Tags",
+    "ru": "Метки",
+    "fr": "Étiquettes"
+  },
+  "Filed under": {
+    "zh-CN": "所属栏目",
+    "zh-TW": "所屬欄目",
+    "en": "Filed under",
+    "ru": "Раздел",
+    "fr": "Rubrique"
+  },
+  "Reporting from the independent political daily.": {
+    "zh-CN": "专注科技、创新、商业领域",
+    "zh-TW": "專注科技、創新、商業領域",
+    "en": "Focused on technology, innovation and business",
+    "ru": "Технологии, инновации и бизнес",
+    "fr": "Technologie, innovation et économie"
+  },
+  "Keep reading": {
+    "zh-CN": "继续阅读",
+    "zh-TW": "繼續閱讀",
+    "en": "Keep reading",
+    "ru": "Продолжить чтение",
+    "fr": "Poursuivre la lecture"
+  },
+  "More from the desk": {
+    "zh-CN": "同栏目的更多文章",
+    "zh-TW": "同欄目的更多文章",
+    "en": "More from the desk",
+    "ru": "Другие статьи раздела",
+    "fr": "Autres articles de la rubrique"
+  },
+  "View section →": {
+    "zh-CN": "查看栏目 →",
+    "zh-TW": "查看欄目 →",
+    "en": "View section →",
+    "ru": "Открыть раздел →",
+    "fr": "Voir la rubrique →"
+  },
+  "404 / Desk not found": {
+    "zh-CN": "404 / 栏目不存在",
+    "zh-TW": "404 / 欄目不存在",
+    "en": "404 / Desk not found",
+    "ru": "404 / Раздел не найден",
+    "fr": "404 / Rubrique introuvable"
+  },
+  "That section is off the record.": {
+    "zh-CN": "暂时没有这个栏目。",
+    "zh-TW": "暫時沒有這個欄目。",
+    "en": "That section is off the record.",
+    "ru": "Такого раздела пока нет.",
+    "fr": "Cette rubrique n’est pas disponible."
+  },
+  "Desk notes": {
+    "zh-CN": "栏目说明",
+    "zh-TW": "欄目說明",
+    "en": "Desk notes",
+    "ru": "О разделе",
+    "fr": "À propos de la rubrique"
+  },
+  "The story behind the headline is usually found in the meeting notes, implementation calendar, and people asked to carry it out.": {
+    "zh-CN": "从原始记录和实施过程，理解新闻背后的故事。",
+    "zh-TW": "從原始紀錄和實施過程，理解新聞背後的故事。",
+    "en": "The story behind the headline is usually found in the meeting notes, implementation calendar, and people asked to carry it out.",
+    "ru": "История за заголовком раскрывается в документах и процессе реализации.",
+    "fr": "Les documents et la mise en œuvre éclairent ce qui se cache derrière le titre."
+  },
+  "The complete edition": {
+    "zh-CN": "完整目录",
+    "zh-TW": "完整目錄",
+    "en": "The complete edition",
+    "ru": "Полное издание",
+    "fr": "L’édition complète"
+  },
+  "Every desk, every beat, one clean archive for the stories making the political weather.": {
+    "zh-CN": "按日期浏览所有栏目，查找你关心的报道。",
+    "zh-TW": "按日期瀏覽所有欄目，查找你關心的報導。",
+    "en": "Every desk, every beat, one clean archive for the stories making the political weather.",
+    "ru": "Все разделы по дате: находите интересующие вас материалы.",
+    "fr": "Parcourez toutes les rubriques par date."
+  },
+  "Tag archive": {
+    "zh-CN": "标签归档",
+    "zh-TW": "標籤歸檔",
+    "en": "Tag archive",
+    "ru": "Архив по метке",
+    "fr": "Archives par étiquette"
+  },
+  "No stories have been filed under this tag yet.": {
+    "zh-CN": "此标签下暂无文章。",
+    "zh-TW": "此標籤下暫無文章。",
+    "en": "No stories have been filed under this tag yet.",
+    "ru": "Статей с этой меткой пока нет.",
+    "fr": "Aucun article ne porte encore cette étiquette."
+  },
+  "The Power Index": {
+    "zh-CN": "国际观察",
+    "zh-TW": "國際觀察",
+    "en": "The Power Index",
+    "ru": "Международный обзор",
+    "fr": "Regards sur le monde"
+  },
+  "Where authority is moving": {
+    "zh-CN": "公共决策的变化",
+    "zh-TW": "公共決策的變化",
+    "en": "Where authority is moving",
+    "ru": "Как меняются решения",
+    "fr": "Les décisions en mouvement"
+  },
+  "A quick read across institutions, money, and the public systems carrying the next political story.": {
+    "zh-CN": "观察机构、资源与公共服务的联系。",
+    "zh-TW": "觀察機構、資源與公共服務的聯繫。",
+    "en": "A quick read across institutions, money, and the public systems carrying the next political story.",
+    "ru": "Об институтах, ресурсах и общественных услугах.",
+    "fr": "Observer les liens entre institutions, ressources et services publics."
+  },
+  "Money & Influence": {
+    "zh-CN": "商业与社会",
+    "zh-TW": "商業與社會",
+    "en": "Money & Influence",
+    "ru": "Экономика и общество",
+    "fr": "Économie et société"
+  },
+  "The Culture File": {
+    "zh-CN": "文化档案",
+    "zh-TW": "文化檔案",
+    "en": "The Culture File",
+    "ru": "Культурный архив",
+    "fr": "Le dossier culturel"
+  },
+  "The Beats": {
+    "zh-CN": "六大栏目",
+    "zh-TW": "六大欄目",
+    "en": "The Beats",
+    "ru": "Наши разделы",
+    "fr": "Nos rubriques"
+  },
+  "The whole edition, at a glance": {
+    "zh-CN": "一览本期内容",
+    "zh-TW": "一覽本期內容",
+    "en": "The whole edition, at a glance",
+    "ru": "Выпуск одним взглядом",
+    "fr": "L’édition en un regard"
+  },
+  "Six desks tracking the forces that shape the daily news cycle.": {
+    "zh-CN": "从六个角度理解公共生活。",
+    "zh-TW": "從六個角度理解公共生活。",
+    "en": "Six desks tracking the forces that shape the daily news cycle.",
+    "ru": "Шесть взглядов на общественную жизнь.",
+    "fr": "Six regards sur la vie publique."
+  },
+  "Tech & Policy": {
+    "zh-CN": "科技与政策",
+    "zh-TW": "科技與政策",
+    "en": "Tech & Policy",
+    "ru": "Технологии и политика",
+    "fr": "Technologie et politiques"
+  },
+  "The rules around platforms, procurement, privacy, and infrastructure are becoming the policy story.": {
+    "zh-CN": "关注数字平台、隐私保护和基础设施。",
+    "zh-TW": "關注數位平台、隱私保護和基礎設施。",
+    "en": "The rules around platforms, procurement, privacy, and infrastructure are becoming the policy story.",
+    "ru": "О цифровых платформах, приватности и инфраструктуре.",
+    "fr": "Plateformes numériques, vie privée et infrastructures."
+  },
+  "The Archive": {
+    "zh-CN": "文章档案",
+    "zh-TW": "文章檔案",
+    "en": "The Archive",
+    "ru": "Архив",
+    "fr": "Les archives"
+  },
+  "Latest stories": {
+    "zh-CN": "最新文章",
+    "zh-TW": "最新文章",
+    "en": "Latest stories",
+    "ru": "Новые статьи",
+    "fr": "Derniers articles"
+  },
+  "Across the site": {
+    "zh-CN": "更多栏目",
+    "zh-TW": "更多欄目",
+    "en": "Across the site",
+    "ru": "Другие разделы",
+    "fr": "Ailleurs sur le site"
+  },
+  "The rest of the edition": {
+    "zh-CN": "阅读更多内容",
+    "zh-TW": "閱讀更多內容",
+    "en": "The rest of the edition",
+    "ru": "Другие материалы",
+    "fr": "D’autres lectures"
+  },
+  "Section": {
+    "zh-CN": "栏目",
+    "zh-TW": "欄目",
+    "en": "Section",
+    "ru": "Раздел",
+    "fr": "Rubrique"
+  },
+  "By": {
+    "zh-CN": "作者",
+    "zh-TW": "作者",
+    "en": "By",
+    "ru": "Автор",
+    "fr": "Par"
+  },
+  "min read": {
+    "zh-CN": "分钟阅读",
+    "zh-TW": "分鐘閱讀",
+    "en": "min read",
+    "ru": "мин чтения",
+    "fr": "min de lecture"
+  },
+  "min": {
+    "zh-CN": "分钟",
+    "zh-TW": "分鐘",
+    "en": "min",
+    "ru": "мин",
+    "fr": "min"
+  },
+  "Default": {
+    "zh-CN": "默认",
+    "zh-TW": "預設",
+    "en": "Default",
+    "ru": "По умолчанию",
+    "fr": "Par défaut"
+  },
+  "Civic Paper": {
+    "zh-CN": "纸质阅读",
+    "zh-TW": "紙本閱讀",
+    "en": "Civic Paper",
+    "ru": "Бумажное издание",
+    "fr": "Édition papier"
+  },
+  "Capitol Night": {
+    "zh-CN": "夜间阅读",
+    "zh-TW": "夜間閱讀",
+    "en": "Capitol Night",
+    "ru": "Ночное чтение",
+    "fr": "Lecture nocturne"
+  },
+  "Campaign Trail": {
+    "zh-CN": "田野绿",
+    "zh-TW": "田野綠",
+    "en": "Campaign Trail",
+    "ru": "Зелёная тема",
+    "fr": "Thème vert"
+  },
+  "Broadcast Pop": {
+    "zh-CN": "鲜明配色",
+    "zh-TW": "鮮明配色",
+    "en": "Broadcast Pop",
+    "ru": "Яркая тема",
+    "fr": "Couleurs vives"
+  },
+  "Choose visual theme": {
+    "zh-CN": "选择视觉主题",
+    "zh-TW": "選擇視覺主題",
+    "en": "Choose visual theme",
+    "ru": "Выбрать оформление",
+    "fr": "Choisir un thème"
+  },
+  "Language": {
+    "zh-CN": "语言",
+    "zh-TW": "語言",
+    "en": "Language",
+    "ru": "Язык",
+    "fr": "Langue"
+  },
+  "Translation unavailable": {
+    "zh-CN": "此文章暂无当前语言译文，显示原文。",
+    "zh-TW": "此文章暫無目前語言譯文，顯示原文。",
+    "en": "Translation unavailable",
+    "ru": "Перевод недоступен. Показан оригинал.",
+    "fr": "Traduction indisponible. Le texte original est affiché."
+  },
+  "Sample edition": {
+    "zh-CN": "示例刊期",
+    "zh-TW": "範例刊期",
+    "en": "Sample edition",
+    "ru": "Демонстрационный выпуск",
+    "fr": "Édition de démonstration"
+  },
+  "Stories in this thread": {
+    "zh-CN": "相关主题文章",
+    "zh-TW": "相關主題文章",
+    "en": "Stories in this thread",
+    "ru": "Статьи по теме",
+    "fr": "Articles sur ce thème"
+  },
+  "World desk": {
+    "zh-CN": "国际栏目",
+    "zh-TW": "國際欄目",
+    "en": "World desk",
+    "ru": "Международный раздел",
+    "fr": "Rubrique Monde"
+  },
+  "Open menu": {
+    "zh-CN": "打开菜单",
+    "zh-TW": "開啟選單",
+    "en": "Open menu",
+    "ru": "Открыть меню",
+    "fr": "Ouvrir le menu"
+  },
+  "Close menu": {
+    "zh-CN": "关闭菜单",
+    "zh-TW": "關閉選單",
+    "en": "Close menu",
+    "ru": "Закрыть меню",
+    "fr": "Fermer le menu"
+  },
+  "全球伯乐": {
+    "zh-CN": "全球伯乐",
+    "zh-TW": "全球伯樂",
+    "en": "Global Bole",
+    "ru": "Global Bole",
+    "fr": "Global Bole"
+  },
+  "全球伯乐 News": {
+    "zh-CN": "全球伯乐 News",
+    "zh-TW": "全球伯樂 News",
+    "en": "Global Bole News",
+    "ru": "Global Bole News",
+    "fr": "Global Bole News"
+  },
+  "Innovation": {
+    "zh-CN": "创新",
+    "zh-TW": "創新",
+    "en": "Innovation",
+    "ru": "Инновации",
+    "fr": "Innovation"
+  },
+  "Technology & Applications": {
+    "zh-CN": "科技与应用",
+    "zh-TW": "科技與應用",
+    "en": "Technology & Applications",
+    "ru": "Технологии и применение",
+    "fr": "Technologies et applications"
+  },
+  "New Ideas in Practice": {
+    "zh-CN": "创新实践",
+    "zh-TW": "創新實踐",
+    "en": "New Ideas in Practice",
+    "ru": "Инновации на практике",
+    "fr": "L’innovation en pratique"
+  },
+  "Business & Operations": {
+    "zh-CN": "商业与经营",
+    "zh-TW": "商業與經營",
+    "en": "Business & Operations",
+    "ru": "Бизнес и управление",
+    "fr": "Économie et gestion"
+  },
+  "Tools, data and digital infrastructure.": {
+    "zh-CN": "关注工具、数据与数字基础设施。",
+    "zh-TW": "關注工具、資料與數位基礎設施。",
+    "en": "Tools, data and digital infrastructure.",
+    "ru": "Инструменты, данные и цифровая инфраструктура.",
+    "fr": "Outils, données et infrastructures numériques."
+  },
+  "Better services, design and collaboration.": {
+    "zh-CN": "关注服务、设计与协作方式的改进。",
+    "zh-TW": "關注服務、設計與協作方式的改進。",
+    "en": "Better services, design and collaboration.",
+    "ru": "Улучшение услуг, дизайна и сотрудничества.",
+    "fr": "Améliorer les services, la conception et la coopération."
+  },
+  "Operations, costs and supply chains.": {
+    "zh-CN": "关注经营、成本与供应链。",
+    "zh-TW": "關注經營、成本與供應鏈。",
+    "en": "Operations, costs and supply chains.",
+    "ru": "Управление, затраты и цепочки поставок.",
+    "fr": "Gestion, coûts et chaînes d’approvisionnement."
+  },
+  "Three perspectives: technology, innovation and business.": {
+    "zh-CN": "科技、创新、商业，三个方向读懂变化。",
+    "zh-TW": "科技、創新、商業，三個方向讀懂變化。",
+    "en": "Three perspectives: technology, innovation and business.",
+    "ru": "Три направления: технологии, инновации и бизнес.",
+    "fr": "Trois perspectives : technologie, innovation et économie."
+  }
+}

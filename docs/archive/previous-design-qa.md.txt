@@ -1,0 +1,85 @@
+# Design QA
+
+## Comparison target
+
+- Source visual truth: https://politica.xocoweb.workers.dev/
+- Implementation: http://localhost:4173/
+- Source route: home
+- Implementation route: home
+- Theme: default
+- Content state: clean initial edition; temporary QA-published stories removed
+- Source and implementation screenshot evidence: browser-rendered CUA captures were taken inline at the same viewport and state immediately before this report. The CUA screenshot API exposes in-memory PNG bytes to the QA session rather than a stable host filesystem path, so the local URL above is the durable implementation reference.
+
+## Normalization
+
+- Desktop viewport: 1280 × 720 CSS pixels
+- Mobile viewport: 390 × 844 CSS pixels
+- Browser screenshot density: 1 CSS pixel to 1 captured pixel
+- Body layout width: 1265 CSS pixels on desktop and 375 CSS pixels on mobile because of the scrollbar
+- Horizontal overflow check: document scroll width stayed at or below the body/client width in both viewports
+- Compared states: default theme, top of home, same Capitol hero image and captured story set
+
+## Full-view comparison evidence
+
+The source and local implementation were each opened and captured at 1280 × 720. The masthead, animated wire strip, three-column lead grid, hero crop, side rails, spacing rhythm, dark navigation band, and visible typography hierarchy align closely. The same check at 390 × 844 confirmed the mobile order: ticker, masthead/menu, hero, story metadata, byline, then The Latest.
+
+## Focused-region comparison evidence
+
+The header/lead region was compared closely because it contains the strongest fidelity signals: logo, ticker label, navigation band, three-column rules, hero crop, Latest list, and curated thumbnails. The mobile header/hero region was also compared for menu geometry, crop, title wrapping, byline placement, and first list rule.
+
+## Required fidelity surfaces
+
+- Fonts and typography: the default edition uses the system Helvetica-style display/sans stack captured by the reference behavior; civic-paper switches display to local Source Serif 4, while IBM Plex Mono handles metadata. Headline scale, condensed tracking, serif dek contrast, and mobile wrapping were checked.
+- Spacing and layout rhythm: max-width, 3-column desktop lead tracks, 16:10 image frames, border rules, full-width nav band, and mobile single-column order were checked at both target viewports.
+- Colors and visual tokens: reference oklch-derived background, surface, ink, border, accent, wash, and dark-edition tokens are centralized in app/globals.css and exercised through all five theme options.
+- Image quality and asset fidelity: the Capitol hero, curated thumbnails, desk images, and font files are locally bundled under public/reference-assets and public/fonts. No visible source image is hotlinked or replaced with a hand-drawn logo/SVG approximation.
+- Copy and content: the captured section labels, desk taxonomy, headline/dek treatment, article structure, pagination language, and editorial footer content are represented in typed local data.
+
+## Interaction verification
+
+- Desktop search opens an inline panel; searching budget resolves to the Capitol committee story.
+- Mobile menu opens a full-screen Radix Dialog, locks body scrolling, and exposes search, six desks, All News, theme selection, and the Editorial desk.
+- Mobile budget search resolves to one matching headline.
+- Radix theme selection was exercised through Civic Paper, Capitol Night, Campaign Trail, Broadcast Pop, and Default; selection persists through the browser theme key.
+- Article detail renders Why it matters, What to watch, quote, tags, related stories, share buttons, and Copy link; Copy link showed Link copied.
+- Archive routes render page 1, page 2, and page 3 with previous/next state.
+- Editorial desk accepted a headline, dek, body split by blank lines, and cover selection; Publish locally created a story, surfaced the article link and local file, and Remove cleared the temporary fixture.
+- Console error check after final reload returned no error or warning entries.
+
+## Comparison history
+
+### Iteration 1
+
+- Finding: the first local desktop capture had a light navigation row, no source-like The Wire color block, compact Latest content in the wrong order, and text-only Editor’s Picks.
+- Fix: switched the nav to a full-width ink band, added the accent ticker block, matched title-then-meta ordering and rule lines, added the Curated heading, and used the captured curated thumbnails.
+- Evidence after fix: revised 1280 × 720 local capture matched the source lead grid and visible source imagery; desktop overflow remained clear.
+
+### Iteration 2
+
+- Finding: article share URLs were built from window state during the first client render, producing a hydration mismatch.
+- Fix: changed share actions to generate the current URL only when the user clicks the social button, then reloaded and rechecked the article.
+- Evidence after fix: console error check was empty and the Copy link control visibly changed to Link copied.
+
+## Findings
+
+Earlier checks cover selected routes and viewports only. Pixel-perfect equivalence across the full reference site has not been established; typography, section composition and sample article copy still need a dedicated fidelity pass.
+
+## Open questions
+
+- The wire ticker is time-based, so the exact visible headline offset differs between two captures; its structure, speed class, color block, and content are aligned.
+- The Editorial desk intentionally uses browser localStorage for this prototype. A production CMS, auth, database, media pipeline, review state, and cross-device sync are outside this local delivery.
+
+## Implementation checklist
+
+- [x] Source and implementation captured at desktop and mobile target sizes
+- [x] Fonts, spacing, colors, imagery, and copy checked
+- [x] Search, menu, theme, archive, article, share, and publishing interactions checked
+- [x] Desktop and mobile overflow checked
+- [x] TypeScript check and Next production build pass
+- [x] Browser console error check clear
+
+## Follow-up polish
+
+The current delivery is intentionally pure frontend. Local content is exported into content/articles.json and published by rebuilding the static site; no server persistence is planned within this scope.
+
+Static-export verification (2026-09-08): production build and TypeScript checks passed. Vercel deployment itself has not been executed. This is not a blanket 1:1 visual acceptance claim.

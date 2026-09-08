@@ -1,0 +1,21 @@
+import { readFileSync, existsSync } from "node:fs";
+import { resolve } from "node:path";
+const articles = JSON.parse(readFileSync(new URL("../content/articles.json", import.meta.url), "utf8"));
+if (!Array.isArray(articles)) throw new Error("content/articles.json must contain an array.");
+const slugs = new Set();
+for (const article of articles) {
+  const fail = message => { throw new Error(`${article?.slug || "Unknown article"}: ${message}`); };
+  if (!article || typeof article !== "object") fail("invalid article");
+  for (const key of ["slug","title","category","categoryLabel","author","authorRole","date","displayDate","dek","image","imageAlt"]) {
+    if (typeof article[key] !== "string" || !article[key].trim()) fail(`${key} is required`);
+  }
+  if (!/^[\p{L}\p{N}-]+$/u.test(article.slug) || slugs.has(article.slug)) fail("slug must be unique and contain only letters, numbers and hyphens");
+  slugs.add(article.slug);
+  if (!["world","politics","business","culture","technology","cities"].includes(article.category)) fail("unknown category");
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(article.date) || !Number.isFinite(Date.parse(article.date))) fail("invalid date");
+  if (!Number.isInteger(article.readTime) || article.readTime < 1 || article.readTime > 90) fail("invalid reading time");
+  if (!Array.isArray(article.tags) || article.tags.some(tag => typeof tag !== "string" || !/^[\p{L}\p{N} -]+$/u.test(tag))) fail("tags must contain letters, numbers, spaces or hyphens");
+  if (!Array.isArray(article.body) || !article.body.length || article.body.some(section => typeof section.heading !== "string" || typeof section.body !== "string" || !section.body.trim())) fail("invalid body sections");
+  if (!article.image.startsWith("/") || article.image.includes("..") || !existsSync(resolve("public", article.image.slice(1)))) fail("cover must reference a file inside public/");
+}
+console.log(`Validated ${articles.length} published content articles.`);

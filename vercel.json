@@ -1,0 +1,250 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/category/world",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/category/world",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/category/world",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/category/world",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/category/world",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/category/world",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/category/politics",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/category/politics",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/category/politics",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/category/politics",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/category/politics",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/category/politics",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/category/culture",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/category/culture",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/category/culture",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/category/culture",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/category/culture",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/category/culture",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/category/cities",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/category/cities",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/category/cities",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/category/cities",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/category/cities",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/category/cities",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/world",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/tag/world",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/tag/world",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/tag/world",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/tag/world",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/tag/world",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/politics",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/tag/politics",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/tag/politics",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/tag/politics",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/tag/politics",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/tag/politics",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/culture",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/tag/culture",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/tag/culture",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/tag/culture",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/tag/culture",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/tag/culture",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/cities",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-CN/tag/cities",
+      "destination": "/zh-CN/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-TW/tag/cities",
+      "destination": "/zh-TW/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/en/tag/cities",
+      "destination": "/en/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/tag/cities",
+      "destination": "/ru/all-news/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/tag/cities",
+      "destination": "/fr/all-news/",
+      "permanent": true
+    }
+  ]
+}

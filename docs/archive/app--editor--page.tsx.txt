@@ -1,0 +1,218 @@
+"use client";
+
+import { storyHref } from "@/lib/links";
+
+import * as Select from "@radix-ui/react-select";
+import { Check, ChevronDown, ExternalLink, Trash2 } from "lucide-react";
+import Link from "next/link";
+import { useMemo, useState } from "react";
+import { useArticles } from "@/lib/article-store";
+import { categories, stories, type CategorySlug, type Story } from "@/lib/data";
+
+type EditorForm = {
+  title: string;
+  category: CategorySlug;
+  author: string;
+  authorRole: string;
+  date: string;
+  readTime: string;
+  cover: string;
+  dek: string;
+  tags: string;
+  body: string;
+};
+
+const today = new Date().toISOString().slice(0, 10);
+
+const initialForm: EditorForm = {
+  title: "",
+  category: "politics",
+  author: "Mara Voss",
+  authorRole: "Congress editor",
+  date: today,
+  readTime: "6",
+  cover: stories[0].slug,
+  dek: "",
+  tags: "politics, public life",
+  body: "",
+};
+
+const fieldClass = "w-full rounded-xl border border-border bg-card px-4 py-3 text-sm outline-none transition placeholder:text-muted-foreground focus:border-border-strong focus:ring-2 focus:ring-accent/20";
+
+function slugify(value: string) {
+  const slug = value
+    .toLowerCase()
+    .trim()
+    .replace(/[^\p{L}\p{N}\s-]/gu, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-");
+  return slug || "untitled-dispatch-" + Date.now();
+}
+
+function EditorSelect({
+  value,
+  onValueChange,
+  items,
+  label,
+}: {
+  value: string;
+  onValueChange: (value: string) => void;
+  items: { value: string; label: string }[];
+  label: string;
+}) {
+  return (
+    <Select.Root value={value} onValueChange={onValueChange}>
+      <Select.Trigger aria-label={label} className={fieldClass + " inline-flex items-center justify-between text-left"}>
+        <Select.Value />
+        <Select.Icon><ChevronDown size={16} /></Select.Icon>
+      </Select.Trigger>
+      <Select.Portal>
+        <Select.Content position="popper" sideOffset={6} className="z-50 min-w-[14rem] overflow-hidden rounded-xl border border-border bg-card p-1 shadow-2xl">
+          <Select.Viewport>
+            {items.map((item) => (
+              <Select.Item key={item.value} value={item.value} className="flex cursor-pointer items-center gap-2 rounded-lg px-3 py-2 text-sm outline-none data-[highlighted]:bg-muted">
+                <Select.ItemText>{item.label}</Select.ItemText>
+                <Select.ItemIndicator><Check size={14} /></Select.ItemIndicator>
+              </Select.Item>
+            ))}
+          </Select.Viewport>
+        </Select.Content>
+      </Select.Portal>
+    </Select.Root>
+  );
+}
+
+export default function EditorialDeskPage() {
+  const { localArticles, publishArticle, removeLocalArticle } = useArticles();
+  const [form, setForm] = useState<EditorForm>(initialForm);
+  const [publishedSlug, setPublishedSlug] = useState("");
+  const [showPreview, setShowPreview] = useState(true);
+  const [error, setError] = useState("");
+
+  const exportArticles = () => {
+    const merged = [...localArticles, ...stories.filter(story => !localArticles.some(item => item.slug === story.slug))];
+    const file = new Blob([JSON.stringify(merged.map(({local: _local, ...story}) => story), null, 2) + "\n"], {type:"application/json"});
+    const url = URL.createObjectURL(file);
+    const link = document.createElement("a");
+    link.href = url; link.download = "articles.json"; link.click();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+  };
+
+  const selectedCover = useMemo(() => stories.find((story) => story.slug === form.cover) || stories[0], [form.cover]);
+  const selectedCategory = categories.find((category) => category.slug === form.category) || categories[1];
+
+  const update = <K extends keyof EditorForm>(key: K, value: EditorForm[K]) => {
+    setForm((current) => ({ ...current, [key]: value }));
+    setPublishedSlug("");
+  };
+
+  const publish = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    const title = form.title.trim() || "Untitled dispatch";
+    const date = form.date || today;
+    const sections = form.body.split(/\n\s*\n/).map((body) => body.trim()).filter(Boolean).map((body, index) => ({
+      heading: index === 0 ? "Why it matters" : index === 1 ? "What to watch" : "The dispatch",
+      body,
+    }));
+    const article: Omit<Story, "local"> = {
+      slug: slugify(title),
+      title,
+      category: form.category,
+      categoryLabel: selectedCategory.label,
+      author: form.author.trim() || "Politica desk",
+      authorRole: form.authorRole.trim() || "Staff writer",
+      date,
+      displayDate: new Date(date + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }).toUpperCase(),
+      readTime: Number(form.readTime) || 5,
+      dek: form.dek.trim() || "A new dispatch from the Politica editorial desk.",
+      image: selectedCover.image,
+      imageAlt: selectedCover.imageAlt,
+      tags: form.tags.split(",").map((tag) => tag.trim()).filter(Boolean),
+      body: sections.length ? sections : [{ heading: "Why it matters", body: "Add the body of the story from the editorial desk." }],
+    };
+    try {
+      const result = publishArticle(article);
+      setPublishedSlug(result.slug);
+      setError("");
+    } catch { setError("Unable to save. Browser storage may be full or unavailable. Export your existing articles before clearing any data."); }
+  };
+
+  return (
+    <main>
+      <section className="layout-wide px-5 pb-10 pt-10 lg:px-8 lg:pb-14 lg:pt-14">
+        <div className="border-b-[3px] border-border-strong pb-7">
+          <p className="kicker">Editorial desk / Static site publishing</p>
+          <div className="mt-3 flex flex-wrap items-end justify-between gap-5">
+            <div>
+              <h1 className="headline text-[clamp(3rem,8vw,7rem)] font-black leading-[0.88] tracking-[-0.08em]">Write the edition.</h1>
+              <p className="dek mt-5 max-w-2xl text-lg leading-8">Write and preview in this browser. Export articles.json, replace content/articles.json in your project, then redeploy to make the edition public.</p>
+            </div>
+            <Link href="/all-news/" className="text-xs font-bold uppercase tracking-[0.14em] underline decoration-accent underline-offset-4">View published edition →</Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="layout-wide grid gap-10 px-5 pb-16 lg:grid-cols-[minmax(0,1fr)_minmax(22rem,0.72fr)] lg:px-8">
+        <form onSubmit={publish} className="space-y-8">
+          <div className="flex items-center justify-between border-b border-border pb-4">
+            <div><p className="kicker">01 / Story file</p><h2 className="headline mt-2 text-3xl font-black tracking-[-0.055em]">The reporting</h2></div>
+            <span className="font-mono text-[10px] uppercase tracking-[0.12em] text-muted-foreground">Autosaved on publish</span>
+          </div>
+          <div className="grid gap-5 sm:grid-cols-2">
+            <label className="sm:col-span-2"><span className="kicker mb-2 block">Headline</span><input required value={form.title} onChange={(event) => update("title", event.target.value)} className={fieldClass} placeholder="A headline that carries the argument" /></label>
+            <label className="sm:col-span-2"><span className="kicker mb-2 block">Dek / standfirst</span><textarea value={form.dek} onChange={(event) => update("dek", event.target.value)} className={fieldClass + " min-h-24 resize-y"} placeholder="One or two sentences that tell readers why this matters." /></label>
+            <label><span className="kicker mb-2 block">Desk</span><EditorSelect label="Desk" value={form.category} onValueChange={(value) => update("category", value as CategorySlug)} items={categories.map((category) => ({ value: category.slug, label: category.label }))} /></label>
+            <label><span className="kicker mb-2 block">Cover image</span><EditorSelect label="Cover image" value={form.cover} onValueChange={(value) => update("cover", value)} items={stories.slice(0, 20).map((story) => ({ value: story.slug, label: story.title }))} /></label>
+          </div>
+
+          <div className="border-b border-border pb-4 pt-2"><p className="kicker">02 / Byline</p><h2 className="headline mt-2 text-3xl font-black tracking-[-0.055em]">The desk note</h2></div>
+          <div className="grid gap-5 sm:grid-cols-2">
+            <label><span className="kicker mb-2 block">Author</span><input value={form.author} onChange={(event) => update("author", event.target.value)} className={fieldClass} /></label>
+            <label><span className="kicker mb-2 block">Role</span><input value={form.authorRole} onChange={(event) => update("authorRole", event.target.value)} className={fieldClass} /></label>
+            <label><span className="kicker mb-2 block">Publish date</span><input type="date" value={form.date} onChange={(event) => update("date", event.target.value)} className={fieldClass} /></label>
+            <label><span className="kicker mb-2 block">Read time (minutes)</span><input type="number" min="1" max="90" value={form.readTime} onChange={(event) => update("readTime", event.target.value)} className={fieldClass} /></label>
+            <label className="sm:col-span-2"><span className="kicker mb-2 block">Tags / comma separated</span><input value={form.tags} onChange={(event) => update("tags", event.target.value)} className={fieldClass} /></label>
+          </div>
+
+          <div className="border-b border-border pb-4 pt-2"><p className="kicker">03 / Copy desk</p><h2 className="headline mt-2 text-3xl font-black tracking-[-0.055em]">The body</h2></div>
+          <label><span className="kicker mb-2 block">Story copy</span><textarea value={form.body} onChange={(event) => update("body", event.target.value)} className={fieldClass + " min-h-72 resize-y font-serif text-lg leading-8"} placeholder={"Write the body here. Separate sections with a blank line.\n\nThe second paragraph becomes “What to watch” in the article view."} /></label>
+          <div className="flex flex-wrap items-center gap-3 border-t-[3px] border-border-strong pt-5">
+            <button type="submit" className="rounded-full bg-foreground px-5 py-3 text-xs font-bold uppercase tracking-[0.14em] text-background transition hover:bg-accent">Save locally</button>
+            <button type="button" onClick={exportArticles} className="rounded-full border border-border px-5 py-3 text-xs font-bold uppercase tracking-[0.14em]">Export articles.json</button>
+            <button type="button" onClick={() => setShowPreview((value) => !value)} className="rounded-full border border-border px-5 py-3 text-xs font-bold uppercase tracking-[0.14em] transition hover:border-border-strong">{showPreview ? "Hide preview" : "Show preview"}</button>
+            {publishedSlug ? <Link href={storyHref({slug:publishedSlug})} className="inline-flex items-center gap-2 text-xs font-bold underline decoration-accent underline-offset-4">Open published story <ExternalLink size={13} /></Link> : null}
+          </div>
+          {publishedSlug ? <p role="status" className="flex items-center gap-2 text-sm text-accent"><Check size={16} /> Saved in this browser only. Export and redeploy to publish for everyone.</p> : null}
+          {error ? <p role="alert" className="text-sm text-red-700">{error}</p> : null}
+        </form>
+
+        {showPreview ? (
+          <aside className="self-start rounded-2xl border border-border bg-card p-5 lg:sticky lg:top-5 lg:p-7">
+            <p className="kicker">Live preview / {selectedCategory.label}</p>
+            <div className="mt-5 overflow-hidden border-2 border-foreground bg-muted"><img src={selectedCover.image} alt={selectedCover.imageAlt} className="aspect-[16/10] w-full object-cover" /></div>
+            <p className="mt-5 font-mono text-[10px] uppercase tracking-[0.1em] text-muted-foreground">{form.date || today} / {form.readTime} min read</p>
+            <h2 className="headline mt-3 text-4xl font-black leading-[0.92] tracking-[-0.07em]">{form.title || "Your headline will appear here."}</h2>
+            <p className="dek mt-4 text-lg leading-7">{form.dek || "The standfirst will show readers why this dispatch matters."}</p>
+            <div className="mt-6 border-t border-border pt-4"><p className="text-xs font-bold uppercase tracking-[0.08em]">By {form.author || "Politica desk"}</p><p className="mt-1 text-xs text-muted-foreground">{form.authorRole || "Staff writer"}</p></div>
+          </aside>
+        ) : null}
+      </section>
+
+      <section className="border-y border-border bg-background-wash">
+        <div className="layout-wide px-5 py-12 lg:px-8">
+          <div className="flex flex-wrap items-end justify-between gap-4 border-b border-border pb-4"><div><p className="kicker">Local desk files</p><h2 className="headline mt-2 text-4xl font-black tracking-[-0.06em]">Published in this browser</h2></div><span className="font-mono text-[10px] uppercase tracking-[0.12em] text-muted-foreground">{localArticles.length} local {localArticles.length === 1 ? "story" : "stories"}</span></div>
+          {localArticles.length ? (
+            <div className="mt-6 divide-y divide-border">
+              {localArticles.map((article) => (
+                <div key={article.slug} className="flex flex-wrap items-center justify-between gap-4 py-4">
+                  <div><p className="kicker">{article.categoryLabel} / {article.displayDate}</p><Link href={storyHref(article)} className="story-link mt-1 block font-display text-xl font-extrabold">{article.title}</Link></div>
+                  <button type="button" onClick={() => removeLocalArticle(article.slug)} className="inline-flex items-center gap-2 rounded-full border border-border px-3 py-2 text-[10px] font-bold uppercase tracking-[0.12em] transition hover:border-accent hover:text-accent"><Trash2 size={13} /> Remove</button>
+                </div>
+              ))}
+            </div>
+          ) : <p className="dek mt-6 text-lg">No local stories yet. Your first publish will appear here.</p>}
+        </div>
+      </section>
+    </main>
+  );
+}

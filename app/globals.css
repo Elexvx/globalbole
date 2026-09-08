@@ -1,0 +1,358 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--site-background);
+  --color-surface: var(--site-surface);
+  --color-card: var(--site-card);
+  --color-foreground: var(--site-foreground);
+  --color-muted: var(--site-muted);
+  --color-muted-foreground: var(--site-muted-foreground);
+  --color-accent: var(--site-accent);
+  --color-accent-foreground: var(--site-accent-foreground);
+  --color-border: var(--site-border);
+  --color-border-strong: var(--site-border-strong);
+  --color-background-wash: var(--site-background-wash);
+  --font-display: var(--site-font-display);
+  --font-sans: var(--site-font-sans);
+  --font-serif: var(--site-font-serif);
+  --font-mono: var(--site-font-mono);
+}
+
+@font-face {
+  font-family: "Libre Franklin";
+  src: url("/fonts/libre-franklin/LibreFranklin-Variable-latin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("/fonts/source-serif-4/SourceSerif4-Variable-latin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("/fonts/ibm-plex-mono/IBMPlexMono-400-latin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+  --site-background: oklch(97.7% 0.003 250);
+  --site-surface: oklch(99.5% 0.002 250);
+  --site-card: oklch(99.5% 0.002 250);
+  --site-foreground: oklch(27% 0.05 270);
+  --site-muted: oklch(94% 0.008 255);
+  --site-muted-foreground: oklch(47% 0.035 265);
+  --site-accent: oklch(50% 0.19 20);
+  --site-accent-foreground: oklch(98.5% 0.003 250);
+  --site-border: oklch(85% 0.015 260);
+  --site-border-strong: oklch(27% 0.05 270);
+  --site-background-wash: oklch(96% 0.005 250);
+  --site-font-display: "Helvetica Neue", "Arial Nova", "Segoe UI", Inter, Arial, sans-serif;
+  --site-font-sans: "Helvetica Neue", "Arial Nova", "Segoe UI", Inter, Arial, sans-serif;
+  --site-font-serif: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
+  --site-font-mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+}
+
+:root[data-theme="civic-paper"] {
+  --site-background: oklch(98.5% 0.006 230);
+  --site-surface: oklch(99.6% 0.003 230);
+  --site-card: oklch(99.6% 0.003 230);
+  --site-foreground: oklch(22% 0.04 248);
+  --site-muted: oklch(93.5% 0.012 230);
+  --site-muted-foreground: oklch(45% 0.035 248);
+  --site-accent: oklch(48% 0.17 28);
+  --site-accent-foreground: oklch(98.5% 0.006 230);
+  --site-border: oklch(82% 0.018 230);
+  --site-border-strong: oklch(22% 0.04 248);
+  --site-background-wash: oklch(96% 0.008 230);
+  --site-font-display: "Source Serif 4", Georgia, serif;
+  --site-font-sans: "Libre Franklin", Arial, sans-serif;
+  --site-font-mono: "IBM Plex Mono", monospace;
+}
+
+:root[data-theme="capitol-night"] {
+  color-scheme: dark;
+  --site-background: oklch(18% 0.045 252);
+  --site-surface: oklch(21% 0.04 252);
+  --site-card: oklch(24% 0.038 252);
+  --site-foreground: oklch(96% 0.01 92);
+  --site-muted: oklch(29% 0.04 252);
+  --site-muted-foreground: oklch(75% 0.025 92);
+  --site-accent: oklch(76% 0.14 78);
+  --site-accent-foreground: oklch(18% 0.045 252);
+  --site-border: rgba(239, 241, 235, 0.22);
+  --site-border-strong: oklch(96% 0.01 92);
+  --site-background-wash: oklch(20% 0.04 252);
+  --site-font-display: "Libre Franklin", Arial, sans-serif;
+  --site-font-sans: "Libre Franklin", Arial, sans-serif;
+  --site-font-serif: Georgia, serif;
+  --site-font-mono: "IBM Plex Mono", monospace;
+}
+
+:root[data-theme="campaign-trail"] {
+  --site-background: oklch(98.4% 0.01 78);
+  --site-surface: oklch(99.7% 0.004 78);
+  --site-card: oklch(99.7% 0.004 78);
+  --site-foreground: oklch(22% 0.055 245);
+  --site-muted: oklch(93.8% 0.02 78);
+  --site-muted-foreground: oklch(46% 0.04 245);
+  --site-accent: oklch(64% 0.17 58);
+  --site-accent-foreground: oklch(18% 0.04 245);
+  --site-border: oklch(82% 0.025 78);
+  --site-border-strong: oklch(22% 0.055 245);
+  --site-background-wash: oklch(96.5% 0.014 78);
+  --site-font-display: "Libre Franklin", Arial, sans-serif;
+  --site-font-sans: "Libre Franklin", Arial, sans-serif;
+  --site-font-serif: Georgia, serif;
+  --site-font-mono: "IBM Plex Mono", monospace;
+}
+
+:root[data-theme="broadcast-pop"] {
+  --site-background: oklch(98% 0.006 105);
+  --site-surface: oklch(99.6% 0.003 105);
+  --site-card: oklch(99.6% 0.003 105);
+  --site-foreground: oklch(17% 0.02 260);
+  --site-muted: oklch(93% 0.018 105);
+  --site-muted-foreground: oklch(43% 0.025 260);
+  --site-accent: oklch(62% 0.2 245);
+  --site-accent-foreground: oklch(98% 0.006 105);
+  --site-border: oklch(78% 0.025 260);
+  --site-border-strong: oklch(17% 0.02 260);
+  --site-background-wash: oklch(96% 0.012 105);
+  --site-font-display: "Libre Franklin", Arial, sans-serif;
+  --site-font-sans: "Libre Franklin", Arial, sans-serif;
+  --site-font-serif: Georgia, serif;
+  --site-font-mono: "IBM Plex Mono", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* A 1440px editorial canvas scales continuously above desktop size.
+     rem keeps containers, typography and spacing on the same scale;
+     100% preserves the user's minimum default font size on small screens. */
+  font-size: max(100%, calc(100vw / 90));
+}
+
+body {
+  min-width: 0;
+  margin: 0;
+  background: var(--site-background);
+  color: var(--site-foreground);
+  font-family: var(--site-font-sans);
+  text-rendering: optimizeLegibility;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+::selection {
+  background: var(--site-accent);
+  color: var(--site-accent-foreground);
+}
+
+.layout-wide {
+  width: 100%;
+  max-width: 84rem;
+  margin-inline: auto;
+}
+
+/* Shared typography overrides the global button font reset for both links. */
+.header-text-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--site-foreground);
+  font-family: inherit;
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration: none;
+  text-underline-offset: .25rem;
+  cursor: pointer;
+}
+.header-text-link:hover { text-decoration: underline; }
+.header-text-link:focus-visible { outline: .125rem solid var(--site-accent); outline-offset: .25rem; }
+
+.leader-bar {
+  height: 0.3125rem;
+  background: var(--site-accent);
+}
+
+.headline {
+  font-family: var(--site-font-display);
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+}
+
+.story-link .headline {
+  line-height: 1.4;
+}
+
+.dek {
+  color: var(--site-muted-foreground);
+  font-family: var(--site-font-serif);
+  line-height: 1.85;
+}
+
+.kicker {
+  color: var(--site-accent);
+  font-family: var(--site-font-sans);
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.theme-select-nav {
+  font-size: .875rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.desktop-edition-nav a,
+.desktop-edition-nav button {
+  font-family: inherit;
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: .04em;
+  min-height: 2.75rem;
+}
+.desktop-edition-nav nav a { display: inline-flex; align-items: center; }
+.home-lead .image-frame { aspect-ratio: 16 / 9; }
+.home-lead h3 { font-size: clamp(1.75rem, 2.7vw, 2.75rem); line-height: 1.4; }
+
+.story-link {
+  text-decoration: none;
+}
+
+.story-link:hover h3,
+.story-link:hover .story-link {
+  text-decoration: underline;
+  text-decoration-color: var(--site-accent);
+  text-decoration-thickness: 0.1em;
+  text-underline-offset: 0.12em;
+}
+
+.image-frame {
+  overflow: hidden;
+}
+
+.image-frame img {
+  height: 100%;
+  width: 100%;
+}
+
+.wire-ticker {
+  min-height: 2.25rem;
+}
+
+.wire-ticker .kicker {
+  color: var(--site-accent-foreground);
+}
+
+.wire-ticker-viewport {
+  flex: 1 1 auto;
+  overflow: hidden;
+}
+
+.wire-ticker-loop {
+  animation: ticker 60s linear infinite;
+}
+
+.mobile-menu-panel {
+  overscroll-behavior: contain;
+}
+
+.newspaper-rule {
+  border-bottom-width: 0.0625rem;
+}
+
+@keyframes ticker {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 1023px) {
+  .wire-ticker-loop {
+    animation-duration: 42s;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+/* Native-script typography and Markdown reading surfaces. */
+html[lang^="zh"] .headline { letter-spacing: .015em; line-height: 1.45; }
+html[lang^="zh"] .dek { letter-spacing: .02em; }
+html[lang^="zh"] { font-family: "PingFang SC", "PingFang TC", "Microsoft YaHei", sans-serif; }
+html[lang="ru"] .headline, html[lang="fr"] .headline { overflow-wrap: anywhere; letter-spacing: -.01em; }
+.markdown-body { font-size: 1.125rem; line-height: 1.95; overflow-wrap: anywhere; }
+html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
+.markdown-body h2 { margin: 2.5rem 0 1.25rem; font-size: 1.65rem; font-weight: 800; line-height: 1.5; }
+.markdown-body h3 { margin: 1.5rem 0 .75rem; font-size: 1.25rem; font-weight: 700; }
+.markdown-body p, .markdown-body ul, .markdown-body ol { margin-bottom: 1.5rem; }
+.markdown-body li + li { margin-top: .4rem; }
+.markdown-body ul { list-style: disc; padding-left: 1.5rem; }
+.markdown-body ol { list-style: decimal; padding-left: 1.5rem; }
+.markdown-body blockquote { border-left: 3px solid var(--site-accent); padding: .75rem 1.25rem; background: var(--site-background-wash); margin: 1.5rem 0; }
+.markdown-body table { display:block; max-width:100%; overflow-x:auto; border-collapse:collapse; margin:1.5rem 0; }
+.markdown-body th,.markdown-body td { padding:.65rem 1rem; border:1px solid var(--site-border); text-align:start; }
+.markdown-body pre { max-width:100%; overflow:auto; padding:1rem; background:var(--site-background-wash); }
+.markdown-body a { text-decoration:underline; }
+.markdown-body img { max-width:100%; height:auto; }
+.markdown-body table { overscroll-behavior-x: contain; }
+.markdown-body th, .markdown-body td { min-width: 8rem; }
+.mobile-menu-panel { padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); }
+@media (max-width: 639px) {
+  .markdown-body { font-size: 1.0625rem; line-height: 1.95; }
+  .markdown-body h2 { font-size: 1.4rem; }
+  .markdown-body pre { font-size: .875rem; }
+  button[role="combobox"], [role="option"] { min-height: 44px; }
+}
