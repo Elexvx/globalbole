@@ -1,9 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { SiteFooter } from "@/components/site-footer";
-import { SiteHeader } from "@/components/site-header";
-import { I18nProvider } from "@/lib/i18n";
-import { ArticleDataProvider } from "@/lib/articles";
 import { siteUrl } from "@/lib/site-url";
 
 export const metadata: Metadata = {
@@ -39,15 +35,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="zh-CN" suppressHydrationWarning>
-      <body>
-        <I18nProvider>
-          <ArticleDataProvider>
-          <SiteHeader />
-          {children}
-          <SiteFooter />
-          </ArticleDataProvider>
-        </I18nProvider>
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

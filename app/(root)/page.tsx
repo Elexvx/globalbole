@@ -1,5 +1,6 @@
 import { categories, stories, type Category, type Story } from "@/lib/data";
 import { responsiveImageProps } from "@/lib/image-assets";
+import { StaticSiteFooter, StaticSiteHeader } from "@/components/static-site-chrome";
 
 const localePrefix = "/zh-CN";
 const categoryLabels: Record<Category["slug"], string> = {
@@ -107,7 +108,9 @@ export default function HomePage() {
   if (!hero) return null;
 
   return (
-    <main className="home-edition">
+    <>
+      <StaticSiteHeader />
+      <main className="home-edition">
       <section className="layout-wide px-5 py-8 lg:px-8 lg:py-10"><div className="grid items-start gap-8 md:grid-cols-[minmax(0,1.65fr)_minmax(0,1fr)] lg:gap-10"><div className="home-lead min-w-0"><StaticStoryCard story={hero} variant="feature"/></div><aside className="min-w-0 border-t-[0.1875rem] border-border-strong pt-4 md:border-t-0 md:border-l md:border-border md:pl-7"><h2 className="mb-5 text-xl font-bold">最新报道</h2>{latest.map((story) => <StaticStoryCard key={story.slug} story={story} variant="compact"/>)}<a href={rootHref("/all-news/")} className="mt-5 inline-flex min-h-11 items-center text-sm font-semibold underline underline-offset-4">全部文章 →</a></aside></div></section>
       {picks.length ? <section className="bg-background-wash"><div className="layout-wide px-5 py-8 lg:px-8"><StaticSectionHeading eyebrow="精选" title="编辑推荐"/><div className="mt-6 grid gap-7 md:grid-cols-3">{picks.map((story) => <StaticStoryCard key={story.slug} story={story} variant="rail"/>)}</div></div></section> : null}
       {sections.map((section) => section.articles.length ? <section key={section.slug} className="layout-wide px-5 py-9 lg:px-8 lg:py-12" aria-label={categoryLabels[section.slug]}><div className="pt-6"><StaticSectionHeading title={categoryLabels[section.slug]} href={`/category/${section.slug}/`} linkLabel={categoryLabels[section.slug]}/><div className="mt-7 grid items-start gap-8 md:grid-cols-2 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)]"><StaticStoryCard story={section.articles[0]}/><div className="min-w-0 md:border-l md:border-border md:pl-7">{section.articles.slice(1).map((story) => <StaticStoryCard key={story.slug} story={story} variant="compact"/>)}</div></div></div></section> : null)}
@@ -115,6 +118,8 @@ export default function HomePage() {
       <section className="layout-wide px-5 pt-8 lg:px-8"><StaticSectionHeading title="完整目录" href="/issues/"/><div className="mt-5 grid gap-4 sm:grid-cols-3">{[...new Set(ordered.map((story) => story.issue).filter(Boolean))].sort().reverse().slice(0, 3).map((issue) => <a key={issue} href={rootHref(`/issue/${issue}/`)} className="border-y border-border py-5"><p className="text-sm text-muted-foreground">各期目录</p><p className="my-3 text-xl font-bold">{issue}</p><span className="text-sm underline underline-offset-4">阅读本期 →</span></a>)}</div></section>
       <StaticNewsletter/>
       <div className="layout-wide px-5 py-8 text-center lg:px-8"><a href={rootHref("/all-news/")} className="inline-flex min-h-11 items-center border border-border-strong px-6 py-3 text-base font-semibold hover:bg-background-wash">阅读全部文章 →</a></div>
-    </main>
+      </main>
+      <StaticSiteFooter />
+    </>
   );
 }
