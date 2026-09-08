@@ -120,7 +120,7 @@ export function StoryCard({
 
 export function Newsletter({ compact = false }: { compact?: boolean }) {
   return (
-    <section className={"w-full border-y-[0.1875rem] border-border-strong bg-accent text-accent-foreground " + (compact ? "my-8" : "my-12")}>
+    <section className={"subscription-banner w-full border-y-[0.1875rem] border-border-strong bg-accent text-accent-foreground " + (compact ? "my-8" : "my-12")}>
       <div className="layout-wide px-5 py-8 text-accent-foreground sm:flex sm:items-center sm:justify-between sm:gap-8 lg:px-8">
         <div>
           <p className="kicker text-accent-foreground"><Text value="The Daily Whip"/></p>

@@ -828,6 +828,12 @@ a:hover .ref-image {
   margin-top: 2.25rem;
 }
 
+.subscription-banner,
+.ref-newsletter-inner {
+  --site-accent: oklch(44% 0.18 20);
+  --site-accent-foreground: oklch(98.5% 0.003 250);
+}
+
 .ref-newsletter-inner {
   display: grid;
   gap: 2rem;
