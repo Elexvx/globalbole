@@ -8,11 +8,12 @@ export function responsiveImageProps(image: string, variant: ImageVariant = "car
 
   const stem = match[1];
   const small = `/optimized-assets/${stem}-480.webp`;
+  const retina = `/optimized-assets/${stem}-832.webp`;
   const medium = `/optimized-assets/${stem}-960.webp`;
 
   return {
     src: variant === "feature" ? medium : small,
-    srcSet: `${small} 480w, ${medium} 960w`,
+    srcSet: `${small} 480w, ${retina} 832w, ${medium} 960w`,
     sizes: variant === "feature"
       ? "(max-width: 767px) 100vw, (max-width: 1279px) 58vw, 960px"
       : "(max-width: 767px) 100vw, (max-width: 1023px) 50vw, 480px",

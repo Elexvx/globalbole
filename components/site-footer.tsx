@@ -15,7 +15,7 @@ export function SiteFooter() {
           <p className="mt-8 font-mono text-[0.625rem] uppercase tracking-[0.12em] text-background/50"><Text value="Copyright 2026 全球伯乐 News. Filed from the press gallery."/></p>
         </div>
         <div>
-          <p className="kicker text-background"><Text value="Sections"/></p>
+          <p className="kicker kicker-on-dark"><Text value="Sections"/></p>
           <div className="mt-4 grid gap-2 text-sm">
             {categories.map((category) => (
               <Link key={category.slug} href={"/category/" + category.slug + "/"} className="text-background/80 transition hover:text-accent">{<Text value={category.label}/>}</Link>
@@ -24,7 +24,7 @@ export function SiteFooter() {
           </div>
         </div>
         <div>
-          <p className="kicker text-background"><Text value="About"/></p>
+          <p className="kicker kicker-on-dark"><Text value="About"/></p>
           <div className="mt-4 grid gap-2 text-sm">
             <Link href="/about/" className="text-background/80 transition hover:text-accent"><Text value="About 全球伯乐 News"/></Link>
             <Link href="/authors/" className="text-background/80 transition hover:text-accent"><Text value="Authors"/></Link>
@@ -33,7 +33,7 @@ export function SiteFooter() {
           </div>
         </div>
         <div>
-          <p className="kicker text-background"><Text value="Resources"/></p>
+          <p className="kicker kicker-on-dark"><Text value="Resources"/></p>
           <div className="mt-4 grid gap-3 text-sm">
             <Link href="/issues/" className="text-background/80 transition hover:text-accent"><Text value="Issues"/></Link>
             <Link href="/rss.xml" className="inline-flex items-center gap-2 text-background/80 transition hover:text-accent"><Rss size="0.875rem" /><Text value="RSS feed"/></Link>

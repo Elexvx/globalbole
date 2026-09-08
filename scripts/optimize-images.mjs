@@ -21,8 +21,9 @@ export async function optimizeImages() {
   await Promise.all(covers.flatMap((input) => {
     const stem = path.basename(input, ".webp");
     return [
-      { width: 480, quality: 72 },
-      { width: 960, quality: 75 },
+      { width: 480, quality: 68 },
+      { width: 832, quality: 70 },
+      { width: 960, quality: 72 },
     ].map(({ width, quality }) =>
       sharp(input)
         .resize({ width, withoutEnlargement: true, fit: "inside" })
@@ -31,7 +32,7 @@ export async function optimizeImages() {
     );
   }));
 
-  console.log(`Responsive images: ${covers.length} source covers / ${covers.length * 2} variants generated.`);
+  console.log(`Responsive images: ${covers.length} source covers / ${covers.length * 3} variants generated.`);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve("scripts/optimize-images.mjs")) {

@@ -241,6 +241,10 @@ img {
   text-transform: uppercase;
 }
 
+.kicker-on-dark {
+  color: var(--site-background);
+}
+
 .theme-select-nav {
   font-size: .875rem;
   font-weight: 600;
