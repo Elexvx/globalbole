@@ -833,25 +833,25 @@ a:hover .ref-image {
   gap: 2rem;
   padding: 2.5rem 2rem;
   border-top: .25rem solid var(--site-accent);
-  background: var(--site-foreground);
-  color: var(--site-background);
+  background: var(--site-accent);
+  color: var(--site-accent-foreground);
 }
 
 .ref-newsletter-inner .ref-kicker {
-  color: var(--site-accent);
+  color: var(--site-accent-foreground);
 }
 
 .ref-newsletter-title {
   max-width: 38rem;
   margin: .7rem 0 0;
-  color: var(--site-background);
+  color: var(--site-accent-foreground);
   font-size: clamp(2rem, 3.5vw, 3.2rem);
   line-height: 1.03;
 }
 
 .ref-newsletter-action p {
   margin: 0;
-  color: color-mix(in oklab, var(--site-background) 82%, transparent);
+  color: var(--site-accent-foreground);
   font-family: var(--site-font-serif);
   font-size: 1rem;
   line-height: 1.6;
@@ -864,8 +864,8 @@ a:hover .ref-image {
   min-height: 3rem;
   margin-top: 1.5rem;
   padding: .75rem 1.4rem;
-  background: var(--site-accent);
-  color: var(--site-accent-foreground);
+  background: var(--site-accent-foreground);
+  color: var(--site-accent);
   font-size: .6875rem;
   font-weight: 900;
   letter-spacing: .13em;
@@ -874,14 +874,14 @@ a:hover .ref-image {
 }
 
 .ref-newsletter-button:hover {
-  background: var(--site-accent-foreground);
-  color: var(--site-foreground);
+  background: color-mix(in oklab, var(--site-accent-foreground) 90%, var(--site-accent));
+  color: var(--site-accent);
 }
 
 .ref-newsletter-action small {
   display: block;
   margin-top: .75rem;
-  color: color-mix(in oklab, var(--site-background) 65%, transparent);
+  color: var(--site-accent-foreground);
   font-size: .6875rem;
 }
 
