@@ -110,7 +110,7 @@ function SearchResults({
   );
 
   if (!query.trim()) {
-    return <p className="text-sm text-muted-foreground"><Text value="Search headlines, desks, or keywords."/></p>;
+    return null;
   }
   if (searching) return <p className="text-sm text-muted-foreground"><Text value="Searching…"/></p>;
   if (!results.length) return <p className="text-sm text-muted-foreground"><Text value="No stories found."/></p>;
@@ -154,10 +154,12 @@ function DesktopSearch() {
   }, [query]);
 
   return (
-    <div className="relative hidden lg:block">
+    <div className="relative hidden lg:block" onKeyDown={(event) => { if (event.key === "Escape") setOpen(false); }}>
       <button
         type="button"
         aria-label={t("Search")}
+        aria-expanded={open}
+        aria-controls="desktop-search-panel"
         className="inline-flex h-11 items-center justify-center rounded-none border-0 px-2 text-background transition hover:bg-background/10"
         onClick={() => setOpen((value) => !value)}
       >
@@ -165,17 +167,17 @@ function DesktopSearch() {
         <span className="sr-only"><Text value="Search"/></span>
       </button>
       {open ? (
-        <div className="absolute right-0 top-[calc(100%+0.75rem)] z-40 w-[min(32rem,calc(100vw-2rem))] rounded-2xl border border-border bg-card p-4 shadow-2xl">
+        <div id="desktop-search-panel" className="absolute right-0 top-full z-40 max-h-[70vh] w-[min(22rem,calc(100vw-2rem))] overflow-y-auto border border-border bg-card p-3 text-foreground shadow-md">
           <label className="kicker mb-2 block" htmlFor="desktop-site-search"><Text value="Search the edition"/></label>
-          <div className="flex items-center gap-3 rounded-xl border border-border bg-background px-3">
-            <Search size="1.0625rem" className="text-muted-foreground" />
+          <div className="flex items-center gap-2 border border-border bg-background px-2 focus-within:border-foreground">
+            <Search size="0.875rem" className="shrink-0 text-muted-foreground" />
             <input
               id="desktop-site-search"
               autoFocus
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               placeholder={t("Search headlines, desks, or keywords.")}
-              className="min-w-0 flex-1 bg-transparent py-3 text-base outline-none placeholder:text-muted-foreground"
+              className="h-9 min-w-0 flex-1 bg-transparent text-sm outline-none placeholder:text-muted-foreground"
             />
           </div>
           <SearchResults query={query} searching={searching} />
@@ -234,7 +236,7 @@ function MobileMenu() {
             </div>
             <div className="mt-8">
               <label className="kicker mb-2 block" htmlFor="mobile-site-search"><Text value="Search the edition"/></label>
-              <div className="flex items-center gap-3 rounded-xl border border-border bg-card px-3">
+              <div className="flex items-center gap-3 border border-border bg-card px-3 focus-within:border-foreground">
                 <Search size="1.0625rem" className="text-muted-foreground" />
                 <input
                   id="mobile-site-search"
