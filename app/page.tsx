@@ -49,8 +49,8 @@ export default function HomePage() {
       </section>:null}
       {sections.map(section=>section.articles.length ? (
         <section key={section.slug} className="layout-wide px-5 py-9 lg:px-8 lg:py-12" aria-label={section.label}>
-          <div className="border-t-[0.1875rem] border-border-strong pt-6">
-            <SectionHeading title={section.label} description={section.slug === "business" ? undefined : section.description} href={"/category/"+section.slug+"/"}/>
+          <div className="pt-6">
+            <SectionHeading title={section.label} href={"/category/"+section.slug+"/"} divider={false}/>
             <div className="mt-7 grid items-start gap-8 md:grid-cols-2 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)]">
               <StoryCard story={section.articles[0]}/>
               <div className="min-w-0 md:border-l md:border-border md:pl-7">
