@@ -29,10 +29,10 @@ Implementation measurements at the same viewport:
 - Technology / business section: top 1,445 px, height 764 px.
 - Innovation section: top 2,273 px, height 683 px.
 - Six-desk section: top 3,020 px, height 712 px.
-- Technology detail section: top 3,796 px, height 1,073 px.
-- Newsletter section: top 4,869 px, height 274 px.
-- Archive section: top 5,207 px, height 1,071 px.
-- Footer: top 6,374 px, height 373 px; final document height 6,746 px.
+- Technology detail section: top 3,636 px, height 1,073 px.
+- Newsletter section: top 4,708 px, height 274 px.
+- Archive section: top 5,047 px, height 1,071 px.
+- Footer: top 6,213 px, height 373 px; final document height 6,586 px.
 - Document width: `scrollWidth === clientWidth` at 1280 CSS px; no horizontal overflow.
 
 The small height shifts are caused by adapted Chinese and multilingual line wrapping. The grid ordering, ratios, rules and primary section cadence match the reference structure.
@@ -61,6 +61,12 @@ The small height shifts are caused by adapted Chinese and multilingual line wrap
 - P0: none.
 - P1: none.
 - P2: none blocking delivery. The reference content is intentionally replaced with Global Bole News technology, innovation and business content, so copy and imagery are adapted rather than copied.
+
+## Comparison history · empty-space refinement
+
+- Earlier finding: the desktop `.ref-beats` section had a fixed `min-height: 44.5rem`, while the adapted Chinese content finished much earlier; the remaining lower half of the section was visible blank space.
+- Fix: removed the fixed desktop minimum so the section follows its six content columns and retains only its normal content padding.
+- Revised evidence: at the same 1280 × 720 CSS px viewport, the section changed from 712 px to 552 px; the following Technology section moved from top 3,796 px to 3,636 px, with `scrollWidth === clientWidth` still true. The new public deployment uses the same CSS after the final build.
 
 ## Result
 

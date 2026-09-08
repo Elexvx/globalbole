@@ -1001,9 +1001,6 @@ a:hover .ref-image {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
-  .ref-beats {
-    min-height: 44.5rem;
-  }
 }
 
 @media (max-width: 639px) {
