@@ -50,7 +50,7 @@
   --site-foreground: oklch(27% 0.05 270);
   --site-muted: oklch(94% 0.008 255);
   --site-muted-foreground: oklch(47% 0.035 265);
-  --site-accent: oklch(50% 0.19 20);
+  --site-accent: oklch(44% 0.18 20);
   --site-accent-foreground: oklch(98.5% 0.003 250);
   --site-border: oklch(85% 0.015 260);
   --site-border-strong: oklch(27% 0.05 270);
@@ -180,6 +180,14 @@ img {
   width: 100%;
   max-width: 84rem;
   margin-inline: auto;
+}
+
+.brand-accent {
+  color: oklch(42% 0.18 20);
+}
+
+.brand-accent-inverse {
+  color: oklch(80% 0.15 20);
 }
 
 /* Shared typography overrides the global button font reset for both links. */

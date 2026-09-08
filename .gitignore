@@ -8,5 +8,6 @@ dist
 .vercel
 content/generated/
 public/data/v1/
+public/optimized-assets/
 .env*
 !.env.example

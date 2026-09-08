@@ -9,12 +9,14 @@ import { ArrowRight, Check, Clock3, Link2 } from "lucide-react";
 import Link from "@/components/localized-link";
 import { useState } from "react";
 import type { Story } from "@/lib/data";
+import { responsiveImageProps } from "@/lib/image-assets";
 
 export function SectionHeading({
   eyebrow,
   title,
   description,
   href,
+  linkLabel,
   inverse = false,
   divider = true,
 }: {
@@ -22,6 +24,7 @@ export function SectionHeading({
   title: string;
   description?: string;
   href?: string;
+  linkLabel?: string;
   inverse?: boolean;
   divider?: boolean;
 }) {
@@ -33,7 +36,7 @@ export function SectionHeading({
       </div>
       {description ? <p className={"max-w-md text-sm leading-6 " + (inverse ? "text-background/70" : "text-muted-foreground")}>{<Text value={description}/>}</p> : null}
       {href ? (
-        <Link href={href} className={"inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em] underline decoration-accent underline-offset-4 " + (inverse ? "text-background" : "")}><Text value="View all"/><ArrowRight size="0.875rem" />
+        <Link href={href} className={"inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em] underline decoration-accent underline-offset-4 " + (inverse ? "text-background" : "")}><Text value="View all"/>{linkLabel ? <> <Text value={linkLabel}/></> : null}<ArrowRight size="0.875rem" />
         </Link>
       ) : null}
     </div>
@@ -82,10 +85,11 @@ export function StoryCard({
   }
 
   if (variant === "feature") {
+    const imageProps = responsiveImageProps(story.image, "feature");
     return (
       <Link href={storyHref(story)} className="story-link group block">
         <div className="image-frame aspect-[16/10] border-2 border-foreground bg-muted">
-          <img src={story.image} alt={story.imageAlt} loading="eager" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+          <img {...imageProps} alt={story.imageAlt} loading="eager" fetchPriority="high" decoding="async" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
         </div>
         <div className="mt-6">
           <StoryMeta story={story} />
@@ -99,10 +103,11 @@ export function StoryCard({
     );
   }
 
+  const imageProps = responsiveImageProps(story.image);
   return (
     <Link href={storyHref(story)} className="story-link group block">
       <div className="image-frame aspect-[16/10] overflow-hidden border border-border bg-muted">
-        <img src={story.image} alt={story.imageAlt} loading="lazy" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+        <img {...imageProps} alt={story.imageAlt} loading="lazy" decoding="async" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
       </div>
       <div className="mt-4">
         <StoryMeta story={story} compact />
@@ -118,9 +123,9 @@ export function Newsletter({ compact = false }: { compact?: boolean }) {
     <section className={"w-full border-y-[0.1875rem] border-border-strong bg-accent text-accent-foreground " + (compact ? "my-8" : "my-12")}>
       <div className="layout-wide px-5 py-8 text-accent-foreground sm:flex sm:items-center sm:justify-between sm:gap-8 lg:px-8">
         <div>
-          <p className="kicker text-accent-foreground/70"><Text value="The Daily Whip"/></p>
+          <p className="kicker text-accent-foreground"><Text value="The Daily Whip"/></p>
           <h2 className="headline mt-2 text-3xl font-black leading-none tracking-[-0.055em]"><Text value="The sharpest read in your feed."/></h2>
-          <p className="mt-3 max-w-xl text-sm leading-6 text-accent-foreground/80"><Text value="Three perspectives: technology, innovation and business."/></p>
+          <p className="mt-3 max-w-xl text-sm leading-6 text-accent-foreground"><Text value="Three perspectives: technology, innovation and business."/></p>
         </div>
         <div className="mt-6 sm:mt-0"><Link href="/rss.xml" className="inline-flex rounded-full bg-accent-foreground px-5 py-3 text-xs font-bold uppercase tracking-[0.1em] text-accent"><Text value="Subscribe via RSS →"/></Link><p className="mt-3 text-xs"><Text value="Free RSS feed · No email collection"/></p></div>
       </div>

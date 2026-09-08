@@ -7,5 +7,6 @@ export default function Link(props:React.ComponentProps<typeof NextLink>) {
   let href = props.href;
   if(href === "/rss.xml") href = `/feeds/${locale}.xml`;
   if(typeof href === "string" && href.startsWith("/") && !href.startsWith("//") && !isLocale(href.split("/")[1]) && !/\.(xml|txt|webp|png|jpg|svg)(?:[?#]|$)/.test(href)) href = "/" + locale + href;
-  return <NextLink {...props} href={href} />;
+  const isStaticDocument = typeof href === "string" && /\.(xml|txt)(?:[?#]|$)/.test(href);
+  return <NextLink {...props} href={href} prefetch={isStaticDocument ? false : props.prefetch} />;
 }

@@ -221,7 +221,7 @@ function MobileMenu() {
           <div className="mx-auto flex min-h-full max-w-7xl flex-col px-5 pb-8 pt-5">
             <div className="flex items-center justify-between border-b border-border pb-5">
               <Link href="/" onClick={() => setOpen(false)} className="font-display text-2xl font-black tracking-normal">
-                <Text value="全球伯乐"/> <span className="text-accent">News</span>
+                <Text value="全球伯乐"/> <span className="brand-accent">News</span>
               </Link>
               <Dialog.Close asChild>
                 <button
@@ -306,7 +306,7 @@ export function SiteHeader() {
         <div className="flex items-center justify-between gap-4 py-5 lg:py-7">
           <Link href="/" className="min-w-0">
             <span className="block font-display text-[clamp(1.5rem,4.3vw,4rem)] font-black leading-none tracking-normal">
-              <Text value="全球伯乐"/> <span className="text-accent">News</span>
+              <Text value="全球伯乐"/> <span className="brand-accent">News</span>
             </span>
             <span className="mt-2 hidden text-xs uppercase tracking-[0.18em] text-muted-foreground sm:block"><Text value="Power, policy, and the people who move them"/></span>
           </Link>

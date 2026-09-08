@@ -6,6 +6,7 @@ import { SectionHeading, StoryCard, Newsletter } from "@/components/story-compon
 import { storyHref } from "@/lib/links";
 import { useArticles } from "@/lib/articles";
 import { categories } from "@/lib/data";
+import { responsiveImageProps } from "@/lib/image-assets";
 
 export default function HomePage() {
   const { articles } = useArticles();
@@ -50,7 +51,7 @@ export default function HomePage() {
       {sections.map(section=>section.articles.length ? (
         <section key={section.slug} className="layout-wide px-5 py-9 lg:px-8 lg:py-12" aria-label={section.label}>
           <div className="pt-6">
-            <SectionHeading title={section.label} href={"/category/"+section.slug+"/"} divider={false}/>
+            <SectionHeading title={section.label} href={"/category/"+section.slug+"/"} linkLabel={section.label} divider={false}/>
             <div className="mt-7 grid items-start gap-8 md:grid-cols-2 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)]">
               <StoryCard story={section.articles[0]}/>
               <div className="min-w-0 md:border-l md:border-border md:pl-7">
@@ -62,7 +63,7 @@ export default function HomePage() {
       ):null)}
       {deep?<section className="my-6 bg-foreground text-background">
         <div className="layout-wide grid items-center gap-8 px-5 py-10 md:grid-cols-2 lg:px-8 lg:py-14">
-          <div className="overflow-hidden"><img src={deep.image} alt={deep.imageAlt} loading="lazy" className="aspect-[16/10] w-full object-cover"/></div>
+          <div className="overflow-hidden"><img {...responsiveImageProps(deep.image)} alt={deep.imageAlt} loading="lazy" decoding="async" className="aspect-[16/10] w-full object-cover"/></div>
           <div className="min-w-0">
             <p className="text-sm font-semibold tracking-wider"><Text value="Long reads"/></p>
             <h2 className="mt-5 text-3xl font-bold leading-relaxed"><Link href={storyHref(deep)}>{deep.title}</Link></h2>
