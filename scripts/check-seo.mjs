@@ -19,10 +19,15 @@ for(const a of articles){
  assert.ok(html.includes('id="section-'));
  count++;
 }
-const duplicate=readFileSync(`out/fr/post/${articles.find(a=>a.lang==='zh-CN').slug}/index.html`,'utf8').split('</head>')[0];
-assert.ok(duplicate.includes('noindex'));
 const sitemap=readFileSync('out/sitemap.xml','utf8');
-assert.ok(sitemap.includes('/all-news/2/'));
-assert.ok(sitemap.includes('xhtml:link'));
-assert.ok(sitemap.includes('<lastmod>'));
+if (articles.length) {
+ const duplicate=readFileSync(`out/fr/post/${articles.find(a=>a.lang==='zh-CN').slug}/index.html`,'utf8').split('</head>')[0];
+ assert.ok(duplicate.includes('noindex'));
+ assert.ok(sitemap.includes('/all-news/2/'));
+ assert.ok(sitemap.includes('xhtml:link'));
+ assert.ok(sitemap.includes('<lastmod>'));
+} else {
+ assert.ok(sitemap.includes('/all-news/'));
+ assert.ok(!sitemap.includes('/post/'));
+}
 console.log(`SEO: ${count} article HTML documents verified; multilingual metadata, JSON-LD, content anchors, duplicate noindex and sitemap passed.`);

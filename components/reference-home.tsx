@@ -31,6 +31,8 @@ type HomeCopy = {
   newsletterTitle: string;
   newsletterDescription: string;
   rssNote: string;
+  emptyTitle: string;
+  emptyDescription: string;
   archive: string;
   latestStories: string;
   viewAll: string;
@@ -73,6 +75,8 @@ const copy: Record<LocaleKey, HomeCopy> = {
     newsletterTitle: "把重要变化送进你的阅读器。",
     newsletterDescription: "科技、创新、商业，三个方向读懂变化。",
     rssNote: "免费 RSS · 不收集邮箱",
+    emptyTitle: "暂时还没有文章。",
+    emptyDescription: "文章会从 Markdown 内容目录自动生成并显示在这里。",
     archive: "档案",
     latestStories: "最新文章",
     viewAll: "查看全部",
@@ -113,6 +117,8 @@ const copy: Record<LocaleKey, HomeCopy> = {
     newsletterTitle: "把重要變化送進你的閱讀器。",
     newsletterDescription: "科技、創新、商業，三個方向讀懂變化。",
     rssNote: "免費 RSS · 不收集信箱",
+    emptyTitle: "暫時還沒有文章。",
+    emptyDescription: "文章會從 Markdown 內容目錄自動生成並顯示在這裡。",
     archive: "檔案",
     latestStories: "最新文章",
     viewAll: "查看全部",
@@ -153,6 +159,8 @@ const copy: Record<LocaleKey, HomeCopy> = {
     newsletterTitle: "The sharpest read in your feed.",
     newsletterDescription: "Three perspectives: technology, innovation, and business.",
     rssNote: "Free RSS feed · No email collection",
+    emptyTitle: "No stories have been filed yet.",
+    emptyDescription: "Stories added to the Markdown content directory will appear here automatically.",
     archive: "ARCHIVE",
     latestStories: "LATEST STORIES",
     viewAll: "VIEW ALL",
@@ -193,6 +201,8 @@ const copy: Record<LocaleKey, HomeCopy> = {
     newsletterTitle: "Главное — прямо в вашей ленте.",
     newsletterDescription: "Три перспективы: технологии, инновации и бизнес.",
     rssNote: "Бесплатный RSS · Без сбора адресов",
+    emptyTitle: "Статей пока нет.",
+    emptyDescription: "Статьи из каталога Markdown будут автоматически появляться здесь.",
     archive: "АРХИВ",
     latestStories: "ПОСЛЕДНИЕ СТАТЬИ",
     viewAll: "СМОТРЕТЬ ВСЕ",
@@ -233,6 +243,8 @@ const copy: Record<LocaleKey, HomeCopy> = {
     newsletterTitle: "Le meilleur de la lecture, dans votre fil.",
     newsletterDescription: "Trois regards : technologie, innovation et commerce.",
     rssNote: "Flux RSS gratuit · Aucun e-mail collecté",
+    emptyTitle: "Aucun article pour le moment.",
+    emptyDescription: "Les articles ajoutés au dossier Markdown apparaîtront automatiquement ici.",
     archive: "ARCHIVES",
     latestStories: "DERNIERS ARTICLES",
     viewAll: "VOIR TOUT",
@@ -304,7 +316,17 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
   const text = copy[language];
   const ordered = sortStories(stories);
   const hero = ordered[0];
-  if (!hero) return null;
+  if (!hero) return <main className="reference-home">
+    <h1 className="sr-only">{text.brandName} — {text.latestStories}</h1>
+    <section className="ref-empty layout-wide px-5 pt-8 lg:px-8">
+      <div className="ref-empty-inner">
+        <p className="ref-kicker">{text.archive}</p>
+        <h2 className="ref-feature-title">{text.emptyTitle}</h2>
+        <p className="ref-empty-description">{text.emptyDescription}</p>
+      </div>
+    </section>
+    <section className="ref-newsletter layout-wide px-5 pt-[var(--space-section)] lg:px-8" aria-labelledby="newsletter-heading"><div className="ref-newsletter-inner"><div><p className="ref-kicker">{text.newsletter}</p><h2 id="newsletter-heading" className="ref-newsletter-title">{text.newsletterTitle}</h2></div><div className="ref-newsletter-action"><p>{text.newsletterDescription}</p><a href={withPrefix(prefix, "/rss.xml")} className="ref-newsletter-button">{text.subscribe} <span aria-hidden="true">→</span></a><small>{text.rssNote}</small></div></div></section>
+  </main>;
 
   const used = new Set<string>([hero.slug]);
   const latest = takeRemaining(ordered, used, 6);

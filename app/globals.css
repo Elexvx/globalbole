@@ -644,6 +644,25 @@ a:hover .ref-image {
   margin-top: var(--space-section);
 }
 
+.ref-empty {
+  padding-bottom: var(--space-section);
+}
+
+.ref-empty-inner {
+  padding: 3rem 0;
+  border-top: .1875rem solid var(--site-border-strong);
+  border-bottom: 1px solid var(--site-border);
+}
+
+.ref-empty-description {
+  max-width: 38rem;
+  margin-top: 1rem;
+  color: var(--site-muted-foreground);
+  font-family: var(--site-font-serif);
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
 .ref-section-bar {
   display: flex;
   align-items: flex-end;
