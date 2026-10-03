@@ -285,7 +285,7 @@ function sortStories(items: Story[]) {
 
 function ImageStory({ story, variant = "card", className = "" }: { story: Story; variant?: "card" | "feature"; className?: string }) {
   const props = responsiveImageProps(story.image, variant === "feature" ? "feature" : "card");
-  return <img {...props} src={props.src} alt={story.imageAlt} loading={variant === "feature" ? "eager" : "lazy"} fetchPriority={variant === "feature" ? "high" : undefined} decoding={variant === "feature" ? "sync" : "async"} className={`ref-image ${className}`} />;
+  return <img {...props} src={props.src} alt={story.imageAlt} loading={variant === "feature" ? "eager" : "lazy"} fetchPriority={variant === "feature" ? "high" : undefined} decoding={variant === "feature" ? "sync" : "async"} className={`story-cover ref-image ${className}`} />;
 }
 
 function Meta({ story, category, copy, compact = false }: { story: Story; category: string; copy: HomeCopy; compact?: boolean }) {

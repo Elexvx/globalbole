@@ -58,7 +58,7 @@ export default function PostPage({slugOverride}: {slugOverride?:string} = {}) {
             </div>
           </div>
           <div className="mt-8 overflow-hidden border-2 border-foreground bg-muted">
-            <img src={story.image} alt={story.imageAlt} className="aspect-[16/9] h-full w-full object-cover" />
+            <img src={story.image} alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" />
           </div>
           <p className="mt-2 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground"><Text value="Image file / 全球伯乐 News reference desk"/></p>
           <div className="mt-7"><ShareBar story={story} /></div>

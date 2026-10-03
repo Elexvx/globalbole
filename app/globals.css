@@ -1118,10 +1118,15 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   button[role="combobox"], [role="option"] { min-height: 44px; }
 }
 
-/* Display complete licensed photographs and chart labels in their existing cover frames. */
-img[src^="/news-media/"] {
-  object-fit: contain !important;
-  transform: none !important;
+/* Covers fill every frame proportionally; full-size body images keep their natural ratio. */
+.story-cover {
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+/* Keep the speaker's face comfortably inside both landscape and square covers. */
+.story-cover[src="/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg"] {
+  object-position: 50% 35%;
 }
 
 /* Keep source notes visually separate while retaining readable links and backreferences. */

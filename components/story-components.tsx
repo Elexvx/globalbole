@@ -89,7 +89,7 @@ export function StoryCard({
     return (
       <Link href={storyHref(story)} className="story-link group block">
         <div className="image-frame aspect-[16/10] border-2 border-foreground bg-muted">
-          <img {...imageProps} alt={story.imageAlt} loading="eager" fetchPriority="high" decoding="async" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+          <img {...imageProps} alt={story.imageAlt} loading="eager" fetchPriority="high" decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
         </div>
         <div className="mt-6">
           <StoryMeta story={story} />
@@ -107,7 +107,7 @@ export function StoryCard({
   return (
     <Link href={storyHref(story)} className="story-link group block">
       <div className="image-frame aspect-[16/10] overflow-hidden border border-border bg-muted">
-        <img {...imageProps} alt={story.imageAlt} loading="lazy" decoding="async" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+        <img {...imageProps} alt={story.imageAlt} loading="lazy" decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
       </div>
       <div className="mt-4">
         <StoryMeta story={story} compact />

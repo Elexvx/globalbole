@@ -1,6 +1,6 @@
 {
   "issue": "2026-10-03",
-  "usage": "Each article cover reuses its in-body image; all local assets; display the complete image and preserve attribution and license links. Captions include only verified time, place, people, photographer, licensor and license terms; omit unavailable fields.",
+  "usage": "Each article cover reuses its in-body image. Covers scale proportionally to fill their frame, with an appropriate focal point; body images retain their complete natural proportions. Source image files are preserved. Attribution and license links remain visible. Captions include only verified time, place, people, photographer, licensor and license terms; omit unavailable fields.",
   "checkedAt": "2026-10-03",
   "assets": [
     {
