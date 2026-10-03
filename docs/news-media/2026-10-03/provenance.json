@@ -1,6 +1,6 @@
 {
   "issue": "2026-10-03",
-  "usage": "One in-body visual per news article; all local assets; preserve adjacent captions, credits and licenses",
+  "usage": "Each article cover reuses its in-body image; all local assets; preserve adjacent captions, credits and licenses. Photograph covers may be cropped by CSS; source files are unchanged. The statistical chart uses contain rendering to preserve all axes and labels.",
   "checkedAt": "2026-10-03",
   "assets": [
     {

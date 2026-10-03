@@ -1,5 +1,11 @@
 {
-  "Long reads": {"zh-CN":"深度阅读","zh-TW":"深度閱讀","en":"Long reads","ru":"Большое чтение","fr":"Grand format"},
+  "Long reads": {
+    "zh-CN": "深度阅读",
+    "zh-TW": "深度閱讀",
+    "en": "Long reads",
+    "ru": "Большое чтение",
+    "fr": "Grand format"
+  },
   "World": {
     "zh-CN": "国际",
     "zh-TW": "國際",
@@ -393,11 +399,11 @@
     "fr": "Tous les articles →"
   },
   "Image file / 全球伯乐 News reference desk": {
-    "zh-CN": "配图 / 全球伯乐 News 示例素材",
-    "zh-TW": "配圖 / 全球伯樂 News 範例素材",
-    "en": "Image file / Global Bole News reference desk",
-    "ru": "Иллюстрация / Материалы Global Bole News",
-    "fr": "Illustration / Documentation Global Bole News"
+    "zh-CN": "图片来源、署名与许可见正文图注",
+    "zh-TW": "圖片來源、署名與許可見正文圖註",
+    "en": "Image source, credit and license are listed in the article caption",
+    "ru": "Источник, автор и лицензия указаны в подписи к изображению",
+    "fr": "Source, crédit et licence figurent dans la légende de l’article"
   },
   "Tags": {
     "zh-CN": "标签",

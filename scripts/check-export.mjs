@@ -22,6 +22,14 @@ for(const lang of languages){
     if (/^\|[^\n]+\|\s*\n\|[ :|\-]+\|/m.test(article.markdown)) {
       assert.ok(html.includes("<table>"),"Markdown source tables must be present in exported HTML");
     }
+    if (/^\[\^[^\]]+\]:/m.test(article.markdown)) {
+      assert.ok(html.includes('class="footnotes"'),"Source notes must be rendered in a footnote section");
+      assert.match(html,/<h2[^>]*id="footnote-label"[^>]*>/,"Footnote label ID must be preserved");
+      assert.ok(!html.includes('id="section-undefined"'),"Generated source-note headings need valid IDs");
+      for (const match of html.matchAll(/href="#(user-content-fn[^\"]*)"/g)) {
+        assert.ok(html.includes(`id="${match[1]}"`),`Footnote target must exist: ${match[1]}`);
+      }
+    }
     const translations=articles.filter(candidate=>candidate.translationKey===article.translationKey);
     for (const translation of translations) {
       assert.ok(html.toLowerCase().includes(`hreflang="${translation.lang.toLowerCase()}"`),"Available language alternatives required");

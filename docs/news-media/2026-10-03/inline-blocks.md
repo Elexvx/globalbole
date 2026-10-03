@@ -6,7 +6,7 @@ All image URLs below point to local public assets. Keep the credit and license l
 
 ![Anthropic联合创始人Dario Amodei在2023年TechCrunch Disrupt大会上发言的资料照片](/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg)
 
-*图：Dario Amodei于2023年9月20日在TechCrunch Disrupt大会发言，资料照片，非此次IPO报道现场。© 2023 Getty Images；摄影：Kimberly White / Getty Images for TechCrunch。[原图与授权：TechCrunch](https://www.flickr.com/photos/techcrunch/53202070940/)，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。使用缩图，未裁切或改动内容。*
+*图：Dario Amodei于2023年9月20日在TechCrunch Disrupt大会发言，资料照片，非此次IPO报道现场。© 2023 Getty Images；摄影：Kimberly White / Getty Images for TechCrunch。[原图与授权：TechCrunch](https://www.flickr.com/photos/techcrunch/53202070940/)，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。使用缩图，原始文件未改动；封面按版式裁切显示。*
 
 ## US employment: after the core-data section or the revisions paragraph
 
@@ -18,7 +18,7 @@ All image URLs below point to local public assets. Keep the credit and license l
 
 ![夜间公共充电桩通过充电线连接电动汽车的资料照片](/news-media/2026-10-03/ev-charging-2020.jpg)
 
-*图：公共充电桩与充电中的电动汽车，2020年资料照片。照片用于展示充电场景，不表示图中设备具有双向送电功能或属于MiSpeL项目。摄影：Ivan Radic，作品“Electric car charging”；[图片来源](https://commons.wikimedia.org/wiki/File:Electric_car_charging_(9213).jpg)，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。使用缩图，未裁切或改动内容。*
+*图：公共充电桩与充电中的电动汽车，2020年资料照片。照片用于展示充电场景，不表示图中设备具有双向送电功能或属于MiSpeL项目。摄影：Ivan Radic，作品“Electric car charging”；[图片来源](https://commons.wikimedia.org/wiki/File:Electric_car_charging_(9213).jpg)，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。使用缩图，原始文件未改动；封面按版式裁切显示。*
 
 ## G7 energy: after explaining reserves must be released and transported, rather than already in market
 
@@ -30,4 +30,4 @@ All image URLs below point to local public assets. Keep the credit and license l
 
 ![德国汉堡Tollerort集装箱码头的货船与装卸起重机，2019年资料照片](/news-media/2026-10-03/hamburg-container-terminal-2019.jpg)
 
-*图：德国汉堡Tollerort集装箱码头，摄于2019年4月27日，用于说明国际贸易物流场景，非本次G20会议现场。摄影：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。使用缩图，未裁切或改动内容，图片继续适用同一许可。*
+*图：德国汉堡Tollerort集装箱码头，摄于2019年4月27日，用于说明国际贸易物流场景，非本次G20会议现场。摄影：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。使用缩图，原始文件未改动；封面按版式裁切显示，图片继续适用同一许可。*

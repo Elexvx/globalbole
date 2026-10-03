@@ -1117,3 +1117,22 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   .markdown-body pre { font-size: .875rem; }
   button[role="combobox"], [role="option"] { min-height: 44px; }
 }
+
+/* Preserve the full axes and labels when this article chart is reused as a cover. */
+img[src="/news-media/2026-10-03/us-employment-september-2026.png"] {
+  object-fit: contain !important;
+  transform: none !important;
+}
+
+/* Keep source notes visually separate while retaining readable links and backreferences. */
+.markdown-body .footnotes {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--site-border);
+  font-size: .9375rem;
+  line-height: 1.85;
+  color: var(--site-muted-foreground);
+}
+.markdown-body .footnotes h2 { margin-top: 0; font-size: 1.125rem; }
+.markdown-body .footnotes li p { margin-bottom: .75rem; }
+.markdown-body [data-footnote-ref] { font-size: .75em; }
