@@ -44,7 +44,7 @@ export default function CategoryPage() {
       {featured ? (
         <section className="layout-wide px-5 pb-14 lg:px-8">
           <div className="grid gap-10 lg:grid-cols-[minmax(0,1.25fr)_minmax(18rem,0.75fr)]">
-            <StoryCard story={featured} variant="feature" />
+            <StoryCard story={featured} variant="feature" headingLevel={2} />
             <div className="border-t-[0.1875rem] border-border-strong pt-5 lg:border-l lg:border-t-0 lg:pl-8">
               <p className="kicker"><Text value="Desk notes"/></p>
               <p className="dek mt-5 text-xl leading-8"><Text value="The story behind the headline is usually found in the meeting notes, implementation calendar, and people asked to carry it out."/></p>

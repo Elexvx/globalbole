@@ -4,20 +4,19 @@ import { siteUrl } from "@/lib/site-url";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  alternates: { canonical: siteUrl + "/" },
+  verification: { other: { "msvalidate.01": "85D64C4838DBA44D1E08BFEA2268C749" } },
   robots: {
-    index: true,
     follow: true,
-    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
+    googleBot: { follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
   },
   title: {
-    default: "全球伯乐 News — 专注科技、创新、商业领域",
+    default: "全球伯乐 News — 关注科技、财经、职场生活、国内外要闻与能源产业",
     template: "%s — 全球伯乐 News",
   },
-  description: "全球伯乐 News，专注科技、创新、商业领域。",
+  description: "全球伯乐 News，关注科技、财经、职场生活、国内外要闻与能源产业。",
   openGraph: {
     title: "全球伯乐 News",
-    description: "全球伯乐 News，专注科技、创新、商业领域。",
+    description: "全球伯乐 News，关注科技、财经、职场生活、国内外要闻与能源产业。",
     url: siteUrl + "/",
     siteName: "全球伯乐 News",
     type: "website",
@@ -25,7 +24,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "全球伯乐 News",
-    description: "全球伯乐 News，专注科技、创新、商业领域。",
+    description: "全球伯乐 News，关注科技、财经、职场生活、国内外要闻与能源产业。",
   },
   icons: {
     icon: "/reference-assets/51321e5a444f1575.webp",

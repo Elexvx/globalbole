@@ -11,3 +11,6 @@ public/data/v1/
 public/optimized-assets/
 .env*
 !.env.example
+
+# Raw audit evidence stays local; public summaries live in docs/.
+qa-evidence/

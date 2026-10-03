@@ -1,6 +1,8 @@
 "use client";
 
 import { Text } from "@/lib/i18n";
+import type { ReactNode } from "react";
+import type { Locale } from "@/lib/locales";
 
 
 import Link from "@/components/localized-link";
@@ -10,9 +12,10 @@ import { ShareBar, StoryCard, StoryMeta } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
 import { categories } from "@/lib/data";
 import { useI18n } from "@/lib/i18n";
-import { ArticleMarkdown } from "@/components/article-markdown";
+import { responsiveImageProps } from "@/lib/image-assets";
+import { ClientMarkdown } from "@/components/client-markdown";
 
-export default function PostPage({slugOverride}: {slugOverride?:string} = {}) {
+export default function PostPage({slugOverride,initialMarkdown,initialLocale,children}: {slugOverride?:string;initialMarkdown?:string;initialLocale?:Locale;children?:ReactNode} = {}) {
   const params = useParams<{ slug: string; path?:string[] }>();
   const {locale,t}=useI18n();
   const slug = slugOverride || params.path?.[1] || (Array.isArray(params.slug) ? params.slug[0] : params.slug);
@@ -58,13 +61,13 @@ export default function PostPage({slugOverride}: {slugOverride?:string} = {}) {
             </div>
           </div>
           <div className="mt-8 overflow-hidden border-2 border-foreground bg-muted">
-            <img src={story.image} alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" />
+            <img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="async" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" />
           </div>
           <p className="mt-2 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground"><Text value="Image file / 全球伯乐 News reference desk"/></p>
           <div className="mt-7"><ShareBar story={story} /></div>
           <div className="mx-auto mt-10 grid gap-12 lg:grid-cols-[minmax(0,46rem)_15rem]">
             <div className="article-copy min-w-0">
-              {story.markdown ? <ArticleMarkdown markdown={story.markdown}/> : null}
+              {story.markdown ? <ClientMarkdown markdown={story.markdown} locale={locale} initialMarkdown={initialMarkdown} initialLocale={initialLocale}>{children}</ClientMarkdown> : null}
               {story.body.map((section, index) => (
                 <section key={index} className="mb-10">
                   <h2 className="headline text-3xl font-black leading-none tracking-[-0.055em]">{section.heading}</h2>

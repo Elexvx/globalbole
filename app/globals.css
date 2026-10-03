@@ -1125,7 +1125,8 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 }
 
 /* Keep the speaker's face comfortably inside both landscape and square covers. */
-.story-cover[src="/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg"] {
+.story-cover[src="/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg"],
+.story-cover[data-source-image="/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg"] {
   object-position: 50% 35%;
 }
 
@@ -1141,3 +1142,11 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 .markdown-body .footnotes h2 { margin-top: 0; font-size: 1.125rem; }
 .markdown-body .footnotes li p { margin-bottom: .75rem; }
 .markdown-body [data-footnote-ref] { font-size: .75em; }
+
+/* Small section names remain readable and provide a real touch target. */
+.ref-beat-column > .ref-kicker > a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  min-width: 24px;
+}

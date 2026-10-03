@@ -1,3 +1,7 @@
+import { legacyMetadata } from "@/lib/seo";
+export async function generateMetadata({params}:{params:Promise<{page?:string[]}>}) {
+  return legacyMetadata(["all-news", ...((await params).page || [])]);
+}
 import { Suspense } from "react";
 import View from "./view";
 import { categories, stories } from "@/lib/data";

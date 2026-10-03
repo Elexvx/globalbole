@@ -41,7 +41,7 @@ function TagResults({slug}: {slug: string}) {
         {matching.length ? (
           <>
             <SectionHeading eyebrow="Filed together" title="Stories in this thread" />
-            <div className="mt-8 grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">{matching.map((story) => <StoryCard key={story.slug} story={story} />)}</div>
+            <div className="mt-8 grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">{matching.map((story, index) => <StoryCard key={story.slug} story={story} priority={index === 0} />)}</div>
           </>
         ) : (
           <div className="border-y border-border py-12"><p className="dek text-xl"><Text value="No stories have been filed under this tag yet."/></p><Link href="/all-news/" className="mt-6 inline-flex text-sm font-bold underline decoration-accent underline-offset-4"><Text value="Browse all news →"/></Link></div>

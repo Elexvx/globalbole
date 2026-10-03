@@ -7,15 +7,15 @@ export function GET() {
   const items = [...stories].sort((a,b) => b.date.localeCompare(a.date)).slice(0, 50).map((story) => (
     "<item>" +
     "<title>" + xmlEscape(story.title) + "</title>" +
-    "<link>" + baseUrl + "/post/" + encodeURIComponent(story.slug) + "/</link>" +
-    "<guid>" + baseUrl + "/post/" + encodeURIComponent(story.slug) + "/</guid>" +
+    "<link>" + baseUrl + "/" + (story.lang || "en") + "/post/" + encodeURIComponent(story.slug) + "/</link>" +
+    "<guid>" + baseUrl + "/" + (story.lang || "en") + "/post/" + encodeURIComponent(story.slug) + "/</guid>" +
     "<pubDate>" + new Date(story.date + "T12:00:00Z").toUTCString() + "</pubDate>" +
     "<description>" + xmlEscape(story.dek) + "</description>" +
     "</item>"
   )).join("");
   const xml = '<?xml version="1.0" encoding="UTF-8"?>' +
     '<rss version="2.0"><channel>' +
-    "<title>全球伯乐 News</title><link>" + baseUrl + "</link><description>An independent political daily.</description>" +
+    "<title>全球伯乐 News</title><link>" + baseUrl + "</link><description>关注科技、财经、职场生活、国内外要闻与能源产业</description>" +
     items +
     "</channel></rss>";
   return new Response(xml, { headers: { "Content-Type": "application/rss+xml; charset=utf-8" } });

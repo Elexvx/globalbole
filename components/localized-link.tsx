@@ -8,5 +8,7 @@ export default function Link(props:React.ComponentProps<typeof NextLink>) {
   if(href === "/rss.xml") href = `/feeds/${locale}.xml`;
   if(typeof href === "string" && href.startsWith("/") && !href.startsWith("//") && !isLocale(href.split("/")[1]) && !/\.(xml|txt|webp|png|jpg|svg)(?:[?#]|$)/.test(href)) href = "/" + locale + href;
   const isStaticDocument = typeof href === "string" && /\.(xml|txt)(?:[?#]|$)/.test(href);
-  return <NextLink {...props} href={href} prefetch={isStaticDocument ? false : props.prefetch} />;
+  // A news page contains many repeated links. Avoid downloading whole article
+  // routes before a reader chooses one; navigation still loads them on demand.
+  return <NextLink {...props} href={href} prefetch={isStaticDocument ? false : (props.prefetch ?? false)} />;
 }

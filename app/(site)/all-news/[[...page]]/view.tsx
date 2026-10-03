@@ -3,16 +3,26 @@
 import { Text } from "@/lib/i18n";
 
 
+import { Suspense, useEffect, useState } from "react";
 import { useParams, useSearchParams } from "next/navigation";
 import { Newsletter, Pagination, SectionHeading, StoryCard } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
 
 const pageSize = 12;
 
+// Query-string compatibility is an isolated client enhancement. The canonical
+// path archive (heading, cards and links) stays present in exported HTML.
+function QueryPage({onPage}: {onPage:(page:string|null)=>void}) {
+  const query = useSearchParams();
+  const value = query.get("page");
+  useEffect(()=>{ onPage(value); },[value,onPage]);
+  return null;
+}
+
 export default function AllNewsPage() {
   const params = useParams<{ page?: string | string[]; path?:string[] }>();
-  const query = useSearchParams();
-  const rawPage = query.get("page") || params.path?.[1] || params.page;
+  const [queryPage, setQueryPage] = useState<string|null>(null);
+  const rawPage = queryPage || params.path?.[1] || params.page;
   const page = Math.max(1, Number(Array.isArray(rawPage) ? rawPage[0] : rawPage) || 1);
   const { articles } = useArticles();
   const ordered = [...articles].sort((a, b) => b.date.localeCompare(a.date));
@@ -22,6 +32,7 @@ export default function AllNewsPage() {
 
   return (
     <main>
+      <Suspense fallback={null}><QueryPage onPage={setQueryPage}/></Suspense>
       <section className="layout-wide px-5 pb-10 pt-10 lg:px-8 lg:pb-14 lg:pt-14">
         <div className="border-b-[0.1875rem] border-border-strong pb-7">
           <p className="kicker"><Text value="The complete edition"/></p>
@@ -32,7 +43,7 @@ export default function AllNewsPage() {
       </section>
       <section className="layout-wide px-5 pb-16 lg:px-8">
         <div className="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
-          {visible.map((story) => <StoryCard key={story.slug} story={story} />)}
+          {visible.map((story, index) => <StoryCard key={story.slug} story={story} headingLevel={2} priority={index === 0} />)}
         </div>
         <Pagination page={currentPage} totalPages={totalPages} />
       </section>

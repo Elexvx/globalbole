@@ -62,17 +62,22 @@ export function StoryMeta({ story, compact = false }: { story: Story; compact?: 
 export function StoryCard({
   story,
   variant = "grid",
+  headingLevel = 3,
+  priority = false,
 }: {
   story: Story;
   variant?: "grid" | "compact" | "feature" | "rail";
+  headingLevel?: 2 | 3;
+  priority?: boolean;
 }) {
+  const Heading = headingLevel === 2 ? "h2" : "h3";
   if (variant === "compact") {
     return (
       <Link href={storyHref(story)} className="story-link group block border-b border-border py-4 first:pt-0 last:border-b-0">
         <div className="flex gap-3">
           <span className="mt-1.5 size-1.5 shrink-0 bg-accent" />
           <div className="min-w-0">
-            <h3 className="headline text-lg font-extrabold leading-[1.05] tracking-[-0.035em]">{story.title}</h3>
+            <Heading className="headline text-lg font-extrabold leading-[1.05] tracking-[-0.035em]">{story.title}</Heading>
             <div className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground">
               <span>{story.displayDate}</span>
               <span>/</span>
@@ -93,7 +98,7 @@ export function StoryCard({
         </div>
         <div className="mt-6">
           <StoryMeta story={story} />
-          <h3 className="headline mt-3 text-[clamp(2rem,4.6vw,4rem)] font-black leading-[0.96] tracking-[-0.065em]">{story.title}</h3>
+          <Heading className="headline mt-3 text-[clamp(2rem,4.6vw,4rem)] font-black leading-[0.96] tracking-[-0.065em]">{story.title}</Heading>
           <p className="dek mt-4 max-w-2xl text-base leading-7">{story.dek}</p>
           <p className="mt-5 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground">
             <span className="font-sans font-bold text-foreground"><Text value="By"/> {story.author}</span> / {story.displayDate} / {story.readTime} <Text value="min"/>
@@ -107,11 +112,11 @@ export function StoryCard({
   return (
     <Link href={storyHref(story)} className="story-link group block">
       <div className="image-frame aspect-[16/10] overflow-hidden border border-border bg-muted">
-        <img {...imageProps} alt={story.imageAlt} loading="lazy" decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+        <img {...imageProps} alt={story.imageAlt} loading={priority ? "eager" : "lazy"} fetchPriority={priority ? "high" : undefined} decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
       </div>
       <div className="mt-4">
         <StoryMeta story={story} compact />
-        <h3 className={"headline mt-3 font-extrabold " + (variant === "rail" ? "text-xl" : "text-[1.45rem]")}>{story.title}</h3>
+        <Heading className={"headline mt-3 font-extrabold " + (variant === "rail" ? "text-xl" : "text-[1.45rem]")}>{story.title}</Heading>
         <p className="dek mt-3 line-clamp-3 text-sm">{story.dek}</p>
       </div>
     </Link>

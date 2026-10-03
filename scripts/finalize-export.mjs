@@ -2,7 +2,7 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
 import { languages } from "./content.mjs";
 const articles=JSON.parse(readFileSync("content/generated/articles.json","utf8"));
-const base=(process.env.NEXT_PUBLIC_SITE_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : undefined) || (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:4173")).replace(/\/$/,"");
+const base=(process.env.NEXT_PUBLIC_SITE_URL || "https://www.globalbole.com").replace(/\/$/,"");
 const escape=value=>String(value).replace(/[<>&"']/g,char=>({"<":"&lt;",">":"&gt;","&":"&amp;",'"':"&quot;","'":"&apos;"})[char]);
 // Static output only: give crawlers the same language that React uses after hydration.
 for(const file of readdirSync("out",{recursive:true}).filter(file=>file.endsWith(".html"))) {
@@ -17,3 +17,7 @@ for(const lang of languages){
   writeFileSync(`out/feeds/${lang}.xml`,`<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>${brand} · ${lang}</title><language>${lang}</language><link>${escape(base+"/"+lang+"/")}</link><description>${brand}</description>${items}</channel></rss>`);
 }
 console.log("Static HTML languages and five RSS feeds generated.");
+// Public commit identity lets deployment checks distinguish READY from live serving.
+// This repository is public; do not include environment values or credentials.
+const commit = process.env.VERCEL_GIT_COMMIT_SHA;
+writeFileSync("out/build-info.json", JSON.stringify({commit: /^[a-f0-9]{40}$/.test(commit || "") ? commit : null}) + "\n");

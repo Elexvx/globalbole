@@ -19,6 +19,11 @@ assert.deepEqual([...missing],[],"Missing static assets or routes");
 for(const lang of languages){
   assert.match(readFileSync(`out/${lang}/index.html`,"utf8"),new RegExp(`<html[^>]*lang="${lang}"`));
   assert.ok(existsSync(`out/feeds/${lang}.xml`));
+  const archive = readFileSync(`out/${lang}/all-news/index.html`, "utf8");
+  assert.match(archive, /<h1\b[^>]*>/, "Archive heading must be prerendered without JavaScript");
+  for (const article of articles.filter(item=>item.lang===lang).slice(0,12)) {
+    assert.ok(archive.includes(article.title), "Archive card titles must be prerendered");
+  }
   for(const article of articles.filter(a=>a.lang===lang)){
     const html=readFileSync(`out/${lang}/post/${article.slug}/index.html`,"utf8");
     if (/^\|[^\n]+\|\s*\n\|[ :|\-]+\|/m.test(article.markdown)) {
@@ -44,3 +49,7 @@ assert.equal(existsSync("out/preview/index.html"),false);
 checkCategoryExport(articles);
 checkTagExport(articles);
 console.log(`Verified ${files.length} HTML pages and ${checks} local references, five languages, available translations, source tables and no editor routes.`);
+
+const buildInfo = JSON.parse(readFileSync("out/build-info.json", "utf8"));
+assert.ok(buildInfo.commit === null || /^[a-f0-9]{40}$/.test(buildInfo.commit), "Build marker contains only a public commit SHA or null");
+assert.deepEqual(Object.keys(buildInfo), ["commit"], "Do not publish other build environment values");

@@ -29,8 +29,9 @@ export function checkTagExport(articles) {
     const canonical = head.match(/<link rel="canonical" href="([^"]+)"/)[1];
     assert.equal(new URL(canonical).pathname, `/${lang}/tag/${encodeURIComponent(slug)}/`, `${route}: exactly one URL encoding`);
     for (const alternative of articleLanguages) {
-      const encodedPath = `/${alternative}/tag/${encodeURIComponent(slug)}/`;
-      assert.ok(head.includes(encodedPath), `${route}: ${alternative} language alternate`);
+      const hasArticles = articles.some(article => article.lang === alternative && article.tags.some(tag => tagMatchesSlug(tag, slug)));
+      const hasAlternate = head.toLowerCase().includes(`hreflang="${alternative.toLowerCase()}"`);
+      assert.equal(hasAlternate, expected.length > 0 && hasArticles, `${route}: only populated language alternatives`);
     }
     const graph = [...html.matchAll(/<script type="application\/ld\+json">([^<]*)<\/script>/g)].flatMap(match => JSON.parse(match[1])['@graph'] || []);
     const page = graph.find(item => item['@type'] === 'WebPage');

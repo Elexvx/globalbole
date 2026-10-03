@@ -2,14 +2,8 @@ import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import { locales, isLocale } from "@/lib/locales";
 import { stories, categories } from "@/lib/data";
-import Home from "@/app/home-client";
-import Category from "@/app/(site)/category/[slug]/view";
-import Post from "@/app/(site)/post/[slug]/view";
-import Tag from "@/app/(site)/tag/[slug]/view";
-import Archive from "@/app/(site)/all-news/[[...page]]/view";
-import Issues from "@/app/(site)/issues/page";
-import Issue from "@/components/issue-view";
-import Info from "@/components/info-view";
+import { RouteView } from "@/components/route-view";
+import { ArticleMarkdown } from "@/components/article-markdown";
 import { brandNames } from "@/lib/site-brand";
 import { routeSeo, JsonLd } from "@/lib/seo";
 export const dynamicParams=false;
@@ -27,17 +21,7 @@ export async function generateMetadata({params}:{params:Promise<{locale:string;p
 export default async function Page({params}:{params:Promise<{locale:string;path?:string[]}>}) {
   const {locale,path=[]}=await params;
   if(!isLocale(locale))notFound();
-  let view;
-  switch(path[0]){
-    case undefined:view=<Home/>;break;
-    case "category":view=<Category/>;break;
-    case "post":view=<Post/>;break;
-    case "tag":view=<Tag/>;break;
-    case "all-news":view=<Archive/>;break;
-    case "issues":view=<Issues/>;break;
-    case "issue":view=<Issue issue={path[1]}/>;break;
-    case "about":case "authors":case "contact":case "privacy":view=<Info page={path[0]}/>;break;
-    default:notFound();
-  }
-  return <><JsonLd data={routeSeo(locale,path).schema}/><Suspense fallback={<main className="p-12">{brandNames[locale]}…</main>}>{view}</Suspense></>;
+  if(path[0] && !["category","post","tag","all-news","issues","issue","about","authors","contact","privacy"].includes(path[0])) notFound();
+  const initialMarkdown=path[0]==="post" ? stories.find(story=>story.slug===path[1])?.markdown : undefined;
+  return <><JsonLd data={routeSeo(locale,path).schema}/><Suspense fallback={<main className="p-12">{brandNames[locale]}…</main>}><RouteView path={path} initialMarkdown={initialMarkdown} initialLocale={locale}>{initialMarkdown ? <ArticleMarkdown markdown={initialMarkdown} locale={locale}/> : null}</RouteView></Suspense></>;
 }
