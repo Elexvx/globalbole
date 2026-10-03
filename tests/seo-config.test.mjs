@@ -7,7 +7,9 @@ const { match, compile } = require('next/dist/compiled/path-to-regexp');
 const redirects = JSON.parse(readFileSync('vercel.json', 'utf8')).redirects;
 const resolveRedirect = pathname => {
   for (const redirect of redirects) {
-    const result = match(redirect.source, { decode: decodeURIComponent })(pathname);
+    // Vercel normalizes extensionless URLs first, then matches redirects strictly.
+    const normalized = pathname.endsWith('/') ? pathname : pathname + '/';
+    const result = match(redirect.source, { decode: decodeURIComponent, strict: true })(normalized);
     if (result) return { destination: compile(redirect.destination, { encode: encodeURIComponent })(result.params), permanent: redirect.permanent };
   }
 };
@@ -51,4 +53,9 @@ test('long-lived caching applies only to content-hashed derivatives', () => {
   const fonts = headers.find(rule => rule.source === '/fonts/:path*');
   assert.equal(fonts.headers.find(header => header.key === 'Cache-Control').value, 'public, max-age=604800');
   assert.ok(!headers.some(rule => ['/news-media/:path*', '/:path*'].includes(rule.source)));
+});
+
+
+test('redirect sources include the slash that Vercel enforces before matching', () => {
+  assert.ok(redirects.every(redirect=>redirect.source.endsWith('/')));
 });

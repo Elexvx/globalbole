@@ -37,10 +37,10 @@ test('category pools never borrow another desk, including empty innovation and b
 test('new category routes do not collide with legacy redirects',()=>{
   const redirects=JSON.parse(readFileSync('vercel.json','utf8')).redirects;
   for(const slug of slugs) for(const prefix of ['',...articleLanguages.map(lang=>`/${lang}`)]) {
-    assert.ok(!redirects.some(redirect=>redirect.source===`${prefix}/category/${slug}`));
+    assert.ok(!redirects.some(redirect=>redirect.source.replace(/\/$/,'')===`${prefix}/category/${slug}`));
   }
   for(const slug of ['world','politics','culture','cities']) {
-    assert.ok(redirects.some(redirect=>redirect.source===`/category/${slug}` && redirect.destination==='/zh-CN/all-news/' && redirect.permanent));
+    assert.ok(redirects.some(redirect=>redirect.source.replace(/\/$/,'')===`/category/${slug}` && redirect.destination==='/zh-CN/all-news/' && redirect.permanent));
   }
 });
 

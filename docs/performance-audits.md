@@ -2,7 +2,7 @@
 
 ## Acceptance and limits
 
-The requested acceptance service is [Google PageSpeed Insights](https://pagespeed.web.dev/), using the live `https://www.globalbole.com` origin. Test mobile and desktop separately on the homepage, the Chinese archive and at least one full news article. Record all four Lighthouse categories: Performance, Accessibility, Best Practices and SEO. Do not silently substitute localhost scores for official PSI results.
+The requested acceptance service is [Google PageSpeed Insights](https://pagespeed.web.dev/), using the live `https://www.globalbole.com` origin. Test mobile and desktop separately on the homepage, the Chinese archive and at least one full news article. Record all four scored Lighthouse categories: Performance, Accessibility, Best Practices and SEO, plus the agentic-browsing check results. Do not silently substitute localhost scores for official PSI results.
 
 Scores are observations of a particular run, not a permanent service guarantee. PSI lab data is distinct from its CrUX real-user data; field data reflects a rolling 28-day period and may be unavailable for low-traffic pages. Automated accessibility scores do not replace keyboard, screen-reader and visual checks. See [Google's PSI explanation](https://developers.google.com/speed/docs/insights/v5/about) and [Lighthouse scoring](https://developer.chrome.com/docs/lighthouse/performance/performance-scoring).
 
@@ -81,3 +81,7 @@ PSI reports no available real-user data. Its additional agentic-browsing categor
 | Article | Desktop | 100 | 100 | 100 | 100 |
 
 Same local server/tool configuration as the baseline. All three mobile pages have CLS 0; desktop reports 0.001. These measurements establish improvements and catch regressions, but the production PSI after-report remains the acceptance result.
+
+### Live redirect verification
+
+The first live deployment exposed a hosting-specific difference from permissive local route matching: Vercel normalizes extensionless requests to a trailing slash before applying custom redirects. Sources must include that slash. The redirect regression tests now use strict matching after normalization, and final acceptance includes real 308 responses on the production host. Static compatibility pages also retain correct canonical/noindex metadata as a fallback.

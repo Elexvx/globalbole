@@ -16,7 +16,7 @@ for(const [routeIndex, route] of routes.entries()) {
     const endpoint = new URL('https://www.googleapis.com/pagespeedonline/v5/runPagespeed');
     endpoint.searchParams.set('url',target);
     endpoint.searchParams.set('strategy',strategy);
-    for(const category of ['performance','accessibility','best-practices','seo']) endpoint.searchParams.append('category',category);
+    for(const category of ['PERFORMANCE','ACCESSIBILITY','BEST_PRACTICES','SEO','AGENTIC_BROWSING']) endpoint.searchParams.append('category',category);
     if (process.env.PAGESPEED_API_KEY) endpoint.searchParams.set('key',process.env.PAGESPEED_API_KEY);
     const response = await fetch(endpoint, {signal:AbortSignal.timeout(180000)});
     const report = await response.json();
