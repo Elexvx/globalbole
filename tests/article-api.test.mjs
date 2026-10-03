@@ -6,9 +6,10 @@ import { buildContent } from '../scripts/content.mjs';
 const articles=buildContent();
 test('public contract serializes every language without internal fields',()=>{
   const response=createArticleResponse(articles);
-  assert.equal(response.total,0);
+  assert.equal(response.total,articles.length);
   assert.equal(response.schemaVersion,1);
-  assert.deepEqual(response.data,[]);
+  assert.equal(response.data.length,articles.length);
+  for (const article of response.data) assert.equal(Object.hasOwn(article,"source"),false);
   assert.deepEqual(parseArticleResponse(JSON.parse(JSON.stringify(response))),response);
   assert.deepEqual(parseArticleResponse({schemaVersion:1,total:0,data:[]}).data,[]);
 });

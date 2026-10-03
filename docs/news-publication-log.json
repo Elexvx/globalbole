@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "batches": [
+    {
+      "id": "2026-10-03-zh-CN",
+      "publicationDate": "2026-10-03",
+      "language": "zh-CN",
+      "articles": [
+        {
+          "translationKey": "anthropic-ipo-government-policy-risk-2026-10-03",
+          "path": "content/issues/2026-10-03/zh-CN/anthropic-ipo-government-policy-risk-2026-10-03.md",
+          "eventDate": "2026-10-02",
+          "sourceDate": "2026-10-02",
+          "sources": [
+            {
+              "title": "路透社报道（MarketScreener刊载）",
+              "url": "https://www.marketscreener.com/news/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows-ce785ddade88ff2c",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-september-jobs-report-2026-10-03",
+          "path": "content/issues/2026-10-03/zh-CN/us-september-jobs-report-2026-10-03.md",
+          "eventDate": "2026-09",
+          "sourceDate": "2026-10-02",
+          "sources": [
+            {
+              "title": "美国劳工统计局：2026年9月就业形势",
+              "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "germany-mispel-storage-bidirectional-charging-2026-10-03",
+          "path": "content/issues/2026-10-03/zh-CN/germany-mispel-storage-bidirectional-charging-2026-10-03.md",
+          "eventDate": "2026-10-01",
+          "sourceDate": "2026-10-01",
+          "sources": [
+            {
+              "title": "德国联邦网络局：MiSpeL决定公告",
+              "url": "https://www.bundesnetzagentur.de/1116876",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "g7-energy-reserve-release-diesel-2026-10-03",
+          "path": "content/issues/2026-10-03/zh-CN/g7-energy-reserve-release-diesel-2026-10-03.md",
+          "eventDate": "2026-10-02",
+          "sourceDate": "2026-10-02",
+          "sources": [
+            {
+              "title": "法国总统府：G7全球能源安全与市场稳定声明",
+              "url": "https://www.elysee.fr/emmanuel-macron/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "g20-trade-ministerial-capacity-discussions-2026-10-03",
+          "path": "content/issues/2026-10-03/zh-CN/g20-trade-ministerial-capacity-discussions-2026-10-03.md",
+          "eventDate": "2026-09-30/2026-10-01",
+          "sourceDate": "2026-10-02",
+          "sources": [
+            {
+              "title": "美国贸易代表办公室：G20贸易部长会议主席声明公告",
+              "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/chairs-statement-g20-trade-ministerial",
+              "type": "primary"
+            },
+            {
+              "title": "G20贸易部长会议主席声明全文",
+              "url": "https://ustr.gov/sites/default/files/files/Press/Releases/G20%20Chair%27s%20Statement.pdf",
+              "type": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

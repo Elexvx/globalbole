@@ -9,13 +9,14 @@ for(const a of articles){
  assert.ok(head.includes('rel="canonical"'));
  assert.ok(head.includes(`/${a.lang}/post/${a.slug}/`));
  assert.ok(head.includes('property="og:type" content="article"'));
- for(const lang of languages)assert.ok(head.toLowerCase().includes(`hreflang="${lang.toLowerCase()}"`));
+ const translations=articles.filter(other=>other.translationKey===a.translationKey);
+ for(const {lang} of translations)assert.ok(head.toLowerCase().includes(`hreflang="${lang.toLowerCase()}"`));
  const schemas=[...html.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/gs)].map(m=>JSON.parse(m[1]));
  const article=schemas.flatMap(s=>s['@graph']).find(s=>s['@type']==='Article');
  assert.equal(article.headline,a.title);
  assert.equal(article.datePublished,a.date);
  assert.equal(article.author.name,a.author);
- assert.ok(html.includes('<table>'));
+ if (/^\|[^\n]+\|\s*\n\|[ :|\-]+\|/m.test(a.markdown)) assert.ok(html.includes('<table>'));
  assert.ok(html.includes('id="section-'));
  count++;
 }
@@ -23,7 +24,7 @@ const sitemap=readFileSync('out/sitemap.xml','utf8');
 if (articles.length) {
  const duplicate=readFileSync(`out/fr/post/${articles.find(a=>a.lang==='zh-CN').slug}/index.html`,'utf8').split('</head>')[0];
  assert.ok(duplicate.includes('noindex'));
- assert.ok(sitemap.includes('/all-news/2/'));
+ assert.ok(sitemap.includes('/all-news/'));
  assert.ok(sitemap.includes('xhtml:link'));
  assert.ok(sitemap.includes('<lastmod>'));
 } else {

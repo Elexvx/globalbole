@@ -62,7 +62,7 @@ draft: false
 
 开发：npm run dev 自动监听 Markdown。
 验证：npm test、npm run build、npm run check:export。
-发布：提交文件与图片，Vercel 自动重建 out/。
+发布：提交文件与图片，再按 [生产部署说明](production-deployment.md) 部署。当前项目仅推送 GitHub 不会自动上线。日更选题、来源核验与去重见 [日更发布流程](daily-news-publishing.md)。
 
 正文支持标题、段落、引用、列表、链接、代码块和 GFM 表格。原始 HTML 被忽略，不执行脚本或 JSX。推荐图片和链接使用站点绝对路径，避免依赖 Markdown 所在目录。
 

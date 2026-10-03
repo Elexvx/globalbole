@@ -6,9 +6,13 @@ import path from "node:path";
 import { buildContent, languages } from "../scripts/content.mjs";
 
 test("empty content stays a valid zero-article edition",()=>{
-  const articles=buildContent();
-  assert.deepEqual(articles,[]);
-  assert.deepEqual(languages,["zh-CN","zh-TW","en","ru","fr"]);
+  const original=process.cwd();
+  const directory=mkdtempSync(path.join(tmpdir(),"globalbole-empty-content-test-"));
+  try {
+    process.chdir(directory);
+    assert.deepEqual(buildContent(),[]);
+    assert.deepEqual(languages,["zh-CN","zh-TW","en","ru","fr"]);
+  } finally { process.chdir(original); rmSync(directory,{recursive:true,force:true}); }
 });
 
 test("draft exclusion, new-file discovery and invalid content rejection",()=>{

@@ -41,11 +41,11 @@ content/issues/
 1. 复制 docs/templates/article.md 到新的期号/语言目录。
 2. 填写文件开头的 YAML 参数，在下方写 Markdown 正文。
 3. 同一篇的不同译文使用相同 translationKey；lang 分别填写 zh-CN、zh-TW、en、ru、fr。
-4. 提交 Markdown 和所用图片到 Git，Vercel 自动重新构建。
+4. 提交 Markdown 和所用图片到 Git，再按 [生产部署说明](docs/production-deployment.md) 发布。当前项目使用 Vercel CLI；仅推送 GitHub 不会自动部署。
 
 无需手动维护文章列表、路由、分类、期刊目录、标签或 RSS。构建时读取文件，自动生成所有内容；draft: true 的文章不发布。部署后不会自行扫描你电脑上的新增文件，必须通过 Git 更新触发一次构建。
 
-详细字段说明见 [发文指南](docs/editorial-guide.md)。当前包含 **六期、30 个主题、五种语言、150 篇 Markdown 示例（每种语言 30 篇，科技 8 篇、创新 15 篇、商业 7 篇）**，均标注为测试示例，不是真实新闻。
+详细字段说明见 [发文指南](docs/editorial-guide.md)。旧排版示例已从文章目录移除。日更新闻从 `2026-10-03` 期开始，首批为五篇简体中文稿件；来源和去重记录见 [日更发布流程](docs/daily-news-publishing.md)。
 
 ## 五种语言
 
@@ -70,7 +70,7 @@ content/issues/
 
 不需要后端密钥、数据库或 Functions。建议设置 NEXT_PUBLIC_SITE_URL 为最终域名；未设置时自动使用 Vercel 项目域名。本地构建回退为 http://localhost:4173。
 
-参考：[Vercel 官方构建配置](https://vercel.com/docs/builds/configure-a-build)。本次已验证本地静态产物，尚未在你的 Vercel 账户执行实际部署。
+参考：[Vercel 官方构建配置](https://vercel.com/docs/builds/configure-a-build)。项目已部署至 <https://www.globalbole.com>；准确的生产项目与更新方式见 [生产部署说明](docs/production-deployment.md)。每次内容提交仍需独立验证本次部署是否成功。
 
 ## 目录结构
 

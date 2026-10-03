@@ -19,10 +19,16 @@ for(const lang of languages){
   assert.ok(existsSync(`out/feeds/${lang}.xml`));
   for(const article of articles.filter(a=>a.lang===lang)){
     const html=readFileSync(`out/${lang}/post/${article.slug}/index.html`,"utf8");
-    assert.ok(html.includes("<table>"),"Markdown table must be present in exported HTML");
-    assert.ok(html.includes('hreflang="en"') || html.includes('hrefLang="en"'),"Language alternatives required");
+    if (/^\|[^\n]+\|\s*\n\|[ :|\-]+\|/m.test(article.markdown)) {
+      assert.ok(html.includes("<table>"),"Markdown source tables must be present in exported HTML");
+    }
+    const translations=articles.filter(candidate=>candidate.translationKey===article.translationKey);
+    for (const translation of translations) {
+      assert.ok(html.toLowerCase().includes(`hreflang="${translation.lang.toLowerCase()}"`),"Available language alternatives required");
+    }
+    assert.ok(html.includes('rel="canonical"'),"Article canonical URL required");
   }
 }
 assert.equal(existsSync("out/editor/index.html"),false);
 assert.equal(existsSync("out/preview/index.html"),false);
-console.log(`Verified ${files.length} HTML pages and ${checks} local references, five languages, Markdown tables and no editor routes.`);
+console.log(`Verified ${files.length} HTML pages and ${checks} local references, five languages, available translations, source tables and no editor routes.`);
