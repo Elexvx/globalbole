@@ -3,8 +3,8 @@ import path from "node:path";
 import matter from "gray-matter";
 import { fileURLToPath } from "node:url";
 import { createArticleResponse } from "../lib/article-contract.mjs";
+import { categoryLabels as categories } from "../lib/categories.mjs";
 export const languages = ["zh-CN", "zh-TW", "en", "ru", "fr"];
-const categories = {technology:"Technology",innovation:"Innovation",business:"Business"};
 function walk(dir) { return readdirSync(dir,{withFileTypes:true}).flatMap(entry => entry.isDirectory() ? walk(path.join(dir,entry.name)) : entry.name.endsWith(".md") ? [path.join(dir,entry.name)] : []); }
 export function buildContent() {
   const root = path.resolve("content/issues");
@@ -31,6 +31,12 @@ export function buildContent() {
     if(!Number.isInteger(readTime)||readTime<1||readTime>90)fail("readTime must be 1–90");
     return [{slug,title:data.title,lang:data.lang,translationKey:data.translationKey,issue:data.issue,category:data.category,categoryLabel:categories[data.category],author:data.author,authorRole:data.authorRole || (data.lang==="zh-CN"?"全球伯乐 News":data.lang==="zh-TW"?"全球伯樂 News":"Global Bole News"),date:data.date,displayDate:new Date(data.date+"T12:00:00Z").toLocaleDateString(data.lang,{year:"numeric",month:"short",day:"numeric",timeZone:"UTC"}),readTime,dek:data.description,image:data.cover,imageAlt:data.coverAlt,tags:data.tags,body:[],markdown:content.trim(),source:path.relative(process.cwd(),file)}];
   });
+  const translationCategories = new Map();
+  for (const article of articles) {
+    const category = translationCategories.get(article.translationKey);
+    if (category && category !== article.category) throw new Error(`${article.translationKey}: translations must use the same category`);
+    translationCategories.set(article.translationKey,article.category);
+  }
   mkdirSync("content/generated",{recursive:true});
   writeFileSync("content/generated/articles.json", JSON.stringify(articles,null,2)+"\n");
   mkdirSync("public/data/v1",{recursive:true});

@@ -4,7 +4,7 @@ slug: "g20-trade-ministerial-capacity-discussions-2026-10-03"
 translationKey: "g20-trade-ministerial-capacity-discussions-2026-10-03"
 issue: "2026-10-03"
 lang: "zh-CN"
-category: "business"
+category: "current-affairs"
 author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
@@ -38,7 +38,7 @@ G20贸易部长会议在粮食贸易问题上取得共识，但产能与供应�
 
 ![德国汉堡Tollerort集装箱码头的货船与装卸起重机，2019年资料照片](/news-media/2026-10-03/hamburg-container-terminal-2019.jpg)
 
-*图：德国汉堡Tollerort集装箱码头，摄于2019年4月27日，用于说明国际贸易物流场景，非本次G20会议现场。摄影：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。使用缩图，原始文件未改动；封面按版式裁切显示，图片继续适用同一许可。*
+*图：2019年4月27日，德国汉堡Tollerort集装箱码头。摄影及授权：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0（署名、相同方式共享）](https://creativecommons.org/licenses/by-sa/4.0/)。*
 
 ## 最惠国待遇进入议程，距离规则改变还有多远
 

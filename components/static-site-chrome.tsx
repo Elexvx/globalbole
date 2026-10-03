@@ -1,9 +1,11 @@
 import { categories, stories } from "@/lib/data";
 import { RootClock } from "@/components/root-clock";
 import { Globe2, Mail, Rss } from "lucide-react";
+import { referenceCopy } from "@/components/reference-home";
+import { positioning } from "@/lib/site-brand";
 
 const localePrefix = "/zh-CN";
-const categoryLabels = { technology: "科技", innovation: "创新", business: "商业" } as const;
+const categoryLabels = referenceCopy("zh-CN").categoryNames;
 
 function rootHref(path: string) {
   return path === "/" ? `${localePrefix}/` : `${localePrefix}${path}`;
@@ -36,7 +38,7 @@ export function StaticSiteHeader() {
         <div className="relative site-brand-row flex items-center justify-between gap-4 py-5 lg:py-7">
           <a href={rootHref("/")} className="min-w-0">
             <span className="block font-display text-[clamp(1.5rem,4.3vw,4rem)] font-black leading-none tracking-normal">全球伯乐 <span className="brand-accent">News</span></span>
-            <span className="mt-2 hidden text-xs uppercase tracking-[0.18em] text-muted-foreground sm:block">专注科技、创新、商业领域</span>
+            <span className="mt-2 hidden text-xs uppercase tracking-[0.18em] text-muted-foreground sm:block">{positioning["zh-CN"]}</span>
           </a>
           <div className="header-actions hidden items-center gap-6 text-right lg:flex">
             <RootClock />
@@ -56,8 +58,8 @@ export function StaticSiteHeader() {
         </div>
       </div>
       <div className="desktop-edition-nav hidden bg-foreground text-background lg:block">
-        <div className="layout-wide flex min-h-11 items-center justify-between gap-8 px-5 lg:px-8">
-          <nav className="flex min-w-0 items-center gap-5">
+        <div className="layout-wide flex min-h-11 flex-wrap items-center justify-between gap-x-5 gap-y-1 px-5 lg:px-8">
+          <nav className="flex min-w-0 flex-wrap items-center gap-x-5 gap-y-1 py-2">
             {categories.map((category) => <a key={category.slug} href={rootHref(`/category/${category.slug}/`)} className="theme-select-nav story-link whitespace-nowrap text-background">{categoryLabels[category.slug]}</a>)}
           </nav>
           <div className="flex shrink-0 items-center gap-3">
@@ -75,7 +77,7 @@ export function StaticSiteFooter() {
       <div className="site-footer-main layout-wide grid gap-12 px-5 py-14 md:grid-cols-[1.5fr_1fr_1fr_1fr] lg:px-8">
         <div>
           <a href={rootHref("/")} className="font-display text-3xl font-black tracking-normal">全球伯乐 <span className="brand-accent-inverse">News</span></a>
-          <p className="mt-4 max-w-xs text-sm leading-7 text-background/70">专注科技、创新、商业领域。</p>
+          <p className="mt-4 max-w-xs text-sm leading-7 text-background/70">{positioning["zh-CN"]}。</p>
           <div className="site-footer-social mt-7 flex gap-2">
             <a href={rootHref("/about/")} aria-label="关于本站" className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Globe2 size="1rem" /></a>
             <a href={rootHref("/contact/")} aria-label="联系我们" className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Mail size="1rem" /></a>

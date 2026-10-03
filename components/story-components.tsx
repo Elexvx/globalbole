@@ -125,7 +125,7 @@ export function Newsletter({ compact = false }: { compact?: boolean }) {
         <div>
           <p className="kicker text-accent-foreground"><Text value="The Daily Whip"/></p>
           <h2 className="headline mt-2 text-3xl font-black leading-none tracking-[-0.055em]"><Text value="The sharpest read in your feed."/></h2>
-          <p className="mt-3 max-w-xl text-sm leading-6 text-accent-foreground"><Text value="Three perspectives: technology, innovation and business."/></p>
+          <p className="mt-3 max-w-xl text-sm leading-6 text-accent-foreground"><Text value="Reporting across technology, finance, work, current affairs and energy."/></p>
         </div>
         <div className="mt-6 sm:mt-0"><Link href="/rss.xml" className="inline-flex rounded-full bg-accent-foreground px-5 py-3 text-xs font-bold uppercase tracking-[0.1em] text-accent"><Text value="Subscribe via RSS →"/></Link><p className="mt-3 text-xs"><Text value="Free RSS feed · No email collection"/></p></div>
       </div>

@@ -11,7 +11,7 @@ export function SiteFooter() {
           <Link href="/" className="font-display text-3xl font-black tracking-normal">
             <Text value="全球伯乐"/> <span className="brand-accent-inverse">News</span>
           </Link>
-          <p className="mt-4 max-w-xs text-sm leading-7 text-background/70"><Text value="Technology, innovation, and business reporting for people who move ideas forward."/></p>
+          <p className="mt-4 max-w-xs text-sm leading-7 text-background/70"><Text value="Reporting across technology, finance, work, current affairs and energy."/></p>
           <div className="site-footer-social mt-7 flex gap-2">
             <Link href="/about/" aria-label="About" className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Globe2 size="1rem" /></Link>
             <Link href="/contact/" aria-label="Contact" className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Mail size="1rem" /></Link>

@@ -1118,8 +1118,8 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   button[role="combobox"], [role="option"] { min-height: 44px; }
 }
 
-/* Preserve the full axes and labels when this article chart is reused as a cover. */
-img[src="/news-media/2026-10-03/us-employment-september-2026.png"] {
+/* Display complete licensed photographs and chart labels in their existing cover frames. */
+img[src^="/news-media/"] {
   object-fit: contain !important;
   transform: none !important;
 }

@@ -22,11 +22,7 @@ const themes = [
   { value: "broadcast-pop", label: "Broadcast Pop" },
 ];
 
-const navItems = [
-  { href: "/category/technology/", label: "Technology" },
-  { href: "/category/innovation/", label: "Innovation" },
-  { href: "/category/business/", label: "Business" },
-];
+const navItems = categories.map(category => ({href:`/category/${category.slug}/`,label:category.label}));
 
 const matchesSearch = (story: Story, query: string) => {
   const haystack = [
@@ -308,7 +304,7 @@ export function SiteHeader() {
             <span className="block font-display text-[clamp(1.5rem,4.3vw,4rem)] font-black leading-none tracking-normal">
               <Text value="全球伯乐"/> <span className="brand-accent">News</span>
             </span>
-            <span className="mt-2 hidden text-xs uppercase tracking-[0.18em] text-muted-foreground sm:block"><Text value="Power, policy, and the people who move them"/></span>
+            <span className="mt-2 hidden max-w-3xl text-xs uppercase tracking-[0.12em] text-muted-foreground sm:block"><Text value="Reporting across technology, finance, work, current affairs and energy."/></span>
           </Link>
           <div className="header-actions hidden items-center gap-6 text-right lg:flex">
             <div>
@@ -321,8 +317,8 @@ export function SiteHeader() {
         </div>
       </div>
       <div className="desktop-edition-nav hidden bg-foreground text-background lg:block">
-        <div className="layout-wide flex min-h-11 items-center justify-between gap-8 px-5 lg:px-8">
-          <nav className="flex min-w-0 items-center gap-5">
+        <div className="layout-wide flex min-h-11 flex-wrap items-center justify-between gap-x-5 gap-y-1 px-5 lg:px-8">
+          <nav className="flex min-w-0 flex-wrap items-center gap-x-5 gap-y-1 py-2">
             {navItems.map((item) => (
               <Link key={item.href} href={item.href} className="theme-select-nav story-link whitespace-nowrap text-background">
                 {<Text value={item.label}/>}

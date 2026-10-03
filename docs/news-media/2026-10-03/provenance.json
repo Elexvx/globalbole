@@ -1,6 +1,6 @@
 {
   "issue": "2026-10-03",
-  "usage": "Each article cover reuses its in-body image; all local assets; preserve adjacent captions, credits and licenses. Photograph covers may be cropped by CSS; source files are unchanged. The statistical chart uses contain rendering to preserve all axes and labels.",
+  "usage": "Each article cover reuses its in-body image; all local assets; display the complete image and preserve attribution and license links. Captions include only verified time, place, people, photographer, licensor and license terms; omit unavailable fields.",
   "checkedAt": "2026-10-03",
   "assets": [
     {
@@ -24,7 +24,9 @@
       "sha256": "3cb51b4c66a109b5b1d33a20ed6e9ea46efa720dd260c218cc6d4165265ed00a",
       "byteSize": 133453,
       "width": 1280,
-      "height": 853
+      "height": 853,
+      "caption": "*图：2023年9月20日，美国旧金山Moscone Center，Dario Amodei在TechCrunch Disrupt大会发言。摄影：Kimberly White / Getty Images for TechCrunch（© 2023 Getty Images）。[《TechCrunch Disrupt 2023 - Day 2》及授权：TechCrunch](https://www.flickr.com/photos/techcrunch/53202070940/)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*",
+      "location": "Moscone Center, San Francisco, California, USA"
     },
     {
       "filename": "ev-charging-2020.jpg",
@@ -46,7 +48,10 @@
       "sha256": "0cfdb9c8fb5390379756a8fdee7372667b3fb5fa9659573d65446e14471f28da",
       "byteSize": 370010,
       "width": 1280,
-      "height": 959
+      "height": 959,
+      "caption": "*图：2020年12月10日，德国，电动汽车充电。摄影及授权：Ivan Radic；[《Electric car charging》](https://commons.wikimedia.org/wiki/File:Electric_car_charging_(9213).jpg)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*",
+      "country": "Germany",
+      "locationEvidence": "Country shown in Wikimedia source image metadata; no city specified"
     },
     {
       "filename": "us-strategic-petroleum-reserve-big-hill.jpg",
@@ -68,7 +73,8 @@
       "sha256": "570df28deae539bae79203b70faa30b5f6f46d628040238764a2ed68548956bd",
       "byteSize": 479434,
       "width": 1280,
-      "height": 1024
+      "height": 1024,
+      "caption": "*图：美国得克萨斯州Big Hill战略石油储备设施，2014年7月29日发布。图片：[美国能源部](https://www.flickr.com/photos/departmentofenergy/14774972431)，美国联邦政府作品，公有领域。*"
     },
     {
       "filename": "hamburg-container-terminal-2019.jpg",
@@ -89,7 +95,8 @@
       "sha256": "f51a60eaa07e15d00ae98a55b47793b1c667911c7e2a3374980a61e28c4638f6",
       "byteSize": 257264,
       "width": 1280,
-      "height": 960
+      "height": 960,
+      "caption": "*图：2019年4月27日，德国汉堡Tollerort集装箱码头。摄影及授权：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0（署名、相同方式共享）](https://creativecommons.org/licenses/by-sa/4.0/)。*"
     },
     {
       "filename": "us-employment-september-2026.png",
@@ -124,7 +131,8 @@
       "sha256": "d14f4b8f2bcb95590ff31276d23194b0cfd780794f70693f8294324c940b0e29",
       "byteSize": 144905,
       "width": 1980,
-      "height": 1275
+      "height": 1275,
+      "caption": "*图：美国2026年7至9月非农就业月度变化。数据：美国劳工统计局（2026年10月2日发布）；制图：全球伯乐 News。*"
     }
   ],
   "captionBlocks": "docs/news-media/2026-10-03/inline-blocks.md"

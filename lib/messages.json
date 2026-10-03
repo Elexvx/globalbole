@@ -161,11 +161,11 @@
     "fr": "Le fil"
   },
   "Power, policy, and the people who move them": {
-    "zh-CN": "专注科技、创新、商业领域",
-    "zh-TW": "專注科技、創新、商業領域",
-    "en": "Focused on technology, innovation and business",
-    "ru": "Технологии, инновации и бизнес",
-    "fr": "Technologie, innovation et économie"
+    "zh-CN": "关注科技、财经、职场生活、国内外要闻与能源产业。",
+    "zh-TW": "關注科技、財經、職場生活、國內外要聞與能源產業。",
+    "en": "Reporting across technology, finance, work, current affairs and energy.",
+    "ru": "Технологии, экономика, работа и городская жизнь, главные новости, энергетика и промышленность.",
+    "fr": "Technologie, économie, emploi et vie urbaine, actualités, énergie et industrie."
   },
   "Independent political daily": {
     "zh-CN": "专注科技、创新、商业领域",
@@ -784,10 +784,115 @@
     "fr": "Gestion, coûts et chaînes d’approvisionnement."
   },
   "Three perspectives: technology, innovation and business.": {
-    "zh-CN": "科技、创新、商业，三个方向读懂变化。",
-    "zh-TW": "科技、創新、商業，三個方向讀懂變化。",
-    "en": "Three perspectives: technology, innovation and business.",
-    "ru": "Три направления: технологии, инновации и бизнес.",
-    "fr": "Trois perspectives : technologie, innovation et économie."
+    "zh-CN": "关注科技、财经、职场生活、国内外要闻与能源产业。",
+    "zh-TW": "關注科技、財經、職場生活、國內外要聞與能源產業。",
+    "en": "Reporting across technology, finance, work, current affairs and energy.",
+    "ru": "Технологии, экономика, работа и городская жизнь, главные новости, энергетика и промышленность.",
+    "fr": "Technologie, économie, emploi et vie urbaine, actualités, énergie et industrie."
+  },
+  "Work & City Life": {
+    "zh-CN": "就业与城市生活",
+    "zh-TW": "就業與城市生活",
+    "en": "Work & City Life",
+    "ru": "Работа и городская жизнь",
+    "fr": "Emploi et vie urbaine"
+  },
+  "Current Affairs": {
+    "zh-CN": "国内外要闻",
+    "zh-TW": "國內外要聞",
+    "en": "Current Affairs",
+    "ru": "Главные новости",
+    "fr": "Actualités"
+  },
+  "Energy & Industry": {
+    "zh-CN": "能源与产业",
+    "zh-TW": "能源與產業",
+    "en": "Energy & Industry",
+    "ru": "Энергетика и промышленность",
+    "fr": "Énergie et industrie"
+  },
+  "AI & Frontier Technology": {
+    "zh-CN": "AI与前沿技术",
+    "zh-TW": "AI與前沿技術",
+    "en": "AI & Frontier Technology",
+    "ru": "ИИ и передовые технологии",
+    "fr": "IA et technologies de pointe"
+  },
+  "Innovation in Practice": {
+    "zh-CN": "创新实践",
+    "zh-TW": "創新實踐",
+    "en": "Innovation in Practice",
+    "ru": "Инновации на практике",
+    "fr": "Innovation en pratique"
+  },
+  "Finance & Business": {
+    "zh-CN": "财经与商业",
+    "zh-TW": "財經與商業",
+    "en": "Finance & Business",
+    "ru": "Финансы и бизнес",
+    "fr": "Finance et économie"
+  },
+  "Artificial intelligence, frontier technology, digital tools and infrastructure.": {
+    "zh-CN": "人工智能、前沿技术、数字工具与基础设施。",
+    "zh-TW": "人工智慧、前沿技術、數位工具與基礎設施。",
+    "en": "Artificial intelligence, frontier technology, digital tools and infrastructure.",
+    "ru": "Искусственный интеллект, передовые технологии, цифровые инструменты и инфраструктура.",
+    "fr": "Intelligence artificielle, technologies de pointe, outils et infrastructures numériques."
+  },
+  "New services, design methods and practical collaboration.": {
+    "zh-CN": "新服务、设计方法与协作实践。",
+    "zh-TW": "新服務、設計方法與協作實踐。",
+    "en": "New services, design methods and practical collaboration.",
+    "ru": "Новые услуги, методы проектирования и практики сотрудничества.",
+    "fr": "Nouveaux services, méthodes de conception et pratiques de collaboration."
+  },
+  "Economics, investment, companies, markets and supply chains.": {
+    "zh-CN": "经济、投资、企业、市场与供应链。",
+    "zh-TW": "經濟、投資、企業、市場與供應鏈。",
+    "en": "Economics, investment, companies, markets and supply chains.",
+    "ru": "Экономика, инвестиции, компании, рынки и цепочки поставок.",
+    "fr": "Économie, investissement, entreprises, marchés et chaînes d’approvisionnement."
+  },
+  "Employment, careers, urban services and everyday city life.": {
+    "zh-CN": "就业、职场发展、城市服务与日常生活。",
+    "zh-TW": "就業、職場發展、城市服務與日常生活。",
+    "en": "Employment, careers, urban services and everyday city life.",
+    "ru": "Занятость, карьера, городские услуги и повседневная жизнь.",
+    "fr": "Emploi, carrières, services urbains et vie quotidienne."
+  },
+  "Major domestic and international news, diplomacy and public policy.": {
+    "zh-CN": "国内外重要新闻、外交与公共政策。",
+    "zh-TW": "國內外重要新聞、外交與公共政策。",
+    "en": "Major domestic and international news, diplomacy and public policy.",
+    "ru": "Главные внутренние и международные новости, дипломатия и государственная политика.",
+    "fr": "Grandes actualités nationales et internationales, diplomatie et politiques publiques."
+  },
+  "New energy, storage, industrial developments and energy supply.": {
+    "zh-CN": "新能源、储能、产业动态与能源供应。",
+    "zh-TW": "新能源、儲能、產業動態與能源供應。",
+    "en": "New energy, storage, industrial developments and energy supply.",
+    "ru": "Новая энергетика, накопители, развитие промышленности и энергоснабжение.",
+    "fr": "Nouvelles énergies, stockage, évolutions industrielles et approvisionnement énergétique."
+  },
+  "No stories in this section yet.": {
+    "zh-CN": "本栏目暂时还没有文章。",
+    "zh-TW": "本欄目暫時還沒有文章。",
+    "en": "No stories in this section yet.",
+    "ru": "В этом разделе пока нет статей.",
+    "fr": "Aucun article dans cette rubrique pour le moment."
+  },
+  "Reporting across technology, finance, work, current affairs and energy.": {
+    "zh-CN": "关注科技、财经、职场生活、国内外要闻与能源产业。",
+    "zh-TW": "關注科技、財經、職場生活、國內外要聞與能源產業。",
+    "en": "Reporting across technology, finance, work, current affairs and energy.",
+    "ru": "Технологии, экономика, работа и городская жизнь, главные новости, энергетика и промышленность.",
+    "fr": "Technologie, économie, emploi et vie urbaine, actualités, énergie et industrie."
+  },
+  "Technology, innovation, and business reporting for people who move ideas forward.": {
+    "zh-CN": "关注科技、财经、职场生活、国内外要闻与能源产业。",
+    "zh-TW": "關注科技、財經、職場生活、國內外要聞與能源產業。",
+    "en": "Reporting across technology, finance, work, current affairs and energy.",
+    "ru": "Технологии, экономика, работа и городская жизнь, главные новости, энергетика и промышленность.",
+    "fr": "Technologie, économie, emploi et vie urbaine, actualités, énergie et industrie."
   }
 }

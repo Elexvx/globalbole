@@ -47,6 +47,10 @@ content/issues/
 
 详细字段说明见 [发文指南](docs/editorial-guide.md)。旧排版示例已从文章目录移除。日更新闻从 `2026-10-03` 期开始，首批为五篇简体中文稿件；来源和去重记录见 [日更发布流程](docs/daily-news-publishing.md)。
 
+## 新闻栏目
+
+保留科技（technology）、创新（innovation）、商业（business），新增就业与城市生活（work-life）、国内外要闻（current-affairs）、能源与产业（energy）。科技覆盖 AI 与前沿技术，商业覆盖财经与投资；既有栏目和文章 URL 不变。栏目清单统一维护于 `lib/categories.mjs`，五语言显示名称由词典提供。每篇文章只选一个主栏目，译文保持同一栏目，细分主题使用标签。无稿栏目保留入口并显示空态，首页不借用其他栏目稿件填充。详见 [栏目规则](docs/article-taxonomy.md)。
+
 ## 五种语言
 
 | 语言 | 入口 |

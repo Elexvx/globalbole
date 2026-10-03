@@ -2,6 +2,7 @@ import { readdirSync,readFileSync,existsSync } from "node:fs";
 import path from "node:path";
 import assert from "node:assert/strict";
 import { languages } from "./content.mjs";
+import { checkCategoryExport } from "./check-category-export.mjs";
 const articles=JSON.parse(readFileSync("content/generated/articles.json","utf8"));
 const files=readdirSync("out",{recursive:true}).filter(file=>file.endsWith(".html"));
 const missing=new Set();let checks=0;
@@ -39,4 +40,5 @@ for(const lang of languages){
 }
 assert.equal(existsSync("out/editor/index.html"),false);
 assert.equal(existsSync("out/preview/index.html"),false);
+checkCategoryExport(articles);
 console.log(`Verified ${files.length} HTML pages and ${checks} local references, five languages, available translations, source tables and no editor routes.`);

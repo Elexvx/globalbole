@@ -4,7 +4,7 @@ slug: "germany-mispel-storage-bidirectional-charging-2026-10-03"
 translationKey: "germany-mispel-storage-bidirectional-charging-2026-10-03"
 issue: "2026-10-03"
 lang: "zh-CN"
-category: "innovation"
+category: "energy"
 author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
@@ -20,7 +20,7 @@ draft: false
 
 ![夜间公共充电桩通过充电线连接电动汽车的资料照片](/news-media/2026-10-03/ev-charging-2020.jpg)
 
-*图：公共充电桩与充电中的电动汽车，2020年资料照片。照片用于展示充电场景，不表示图中设备具有双向送电功能或属于MiSpeL项目。摄影：Ivan Radic，作品“Electric car charging”；[图片来源](https://commons.wikimedia.org/wiki/File:Electric_car_charging_(9213).jpg)，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。使用缩图，原始文件未改动；封面按版式裁切显示。*
+*图：2020年12月10日，德国，电动汽车充电。摄影及授权：Ivan Radic；[《Electric car charging》](https://commons.wikimedia.org/wiki/File:Electric_car_charging_(9213).jpg)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*
 
 ## 混合储电，终于有了更清楚的核算办法
 

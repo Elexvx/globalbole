@@ -1,4 +1,7 @@
-import type { CategorySlug, Story } from "@/lib/data";
+import { categories, type CategorySlug, type Story } from "@/lib/data";
+import { categoryPool } from "@/lib/categories.mjs";
+import messages from "@/lib/messages.json";
+import { positioning } from "@/lib/site-brand";
 import { responsiveImageProps } from "@/lib/image-assets";
 
 type LocaleKey = "zh-CN" | "zh-TW" | "en" | "ru" | "fr";
@@ -43,8 +46,12 @@ type HomeCopy = {
   issues: string;
   privacy: string;
   categoryNames: Record<CategorySlug, string>;
-  beatLabels: [string, string, string, string, string, string];
+  sectionEmpty: string;
 };
+
+function localizedCategoryNames(locale: LocaleKey): Record<CategorySlug,string> {
+  return Object.fromEntries(categories.map(category => [category.slug,(messages as Record<string,Record<string,string>>)[category.label][locale]])) as Record<CategorySlug,string>;
+}
 
 const copy: Record<LocaleKey, HomeCopy> = {
   "zh-CN": {
@@ -66,28 +73,28 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "创新",
     innovationTitle: "创新现场",
     quickScan: "快速浏览",
-    beats: "三大方向",
+    beats: "新闻方向",
     beatsTitle: "每个方向，一眼读懂。",
-    beatsDescription: "从技术底座、创新方法到商业现场，快速找到今天值得读的变化。",
+    beatsDescription: positioning["zh-CN"],
     technology: "科技",
     business: "商业",
     newsletter: "每日简报",
     newsletterTitle: "把重要变化送进你的阅读器。",
-    newsletterDescription: "科技、创新、商业，三个方向读懂变化。",
+    newsletterDescription: positioning["zh-CN"],
     rssNote: "免费 RSS · 不收集邮箱",
     emptyTitle: "暂时还没有文章。",
     emptyDescription: "文章会从 Markdown 内容目录自动生成并显示在这里。",
     archive: "档案",
     latestStories: "最新文章",
     viewAll: "查看全部",
-    footerDescription: "专注科技、创新、商业领域。",
+    footerDescription: positioning["zh-CN"],
     sections: "文章分类",
     about: "关于",
     resources: "资源",
     issues: "各期目录",
     privacy: "隐私说明",
-    categoryNames: { technology: "科技", innovation: "创新", business: "商业" },
-    beatLabels: ["基础设施", "产品与数据", "社区与协作", "方法与文化", "运营与成本", "市场与供应链"],
+    categoryNames: localizedCategoryNames("zh-CN"),
+    sectionEmpty: "本栏目暂时还没有文章。",
   },
   "zh-TW": {
     brandName: "全球伯樂 News",
@@ -108,28 +115,28 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "創新",
     innovationTitle: "創新現場",
     quickScan: "快速瀏覽",
-    beats: "三大方向",
+    beats: "新聞方向",
     beatsTitle: "每個方向，一眼讀懂。",
-    beatsDescription: "從技術底座、創新方法到商業現場，快速找到今天值得讀的變化。",
+    beatsDescription: positioning["zh-TW"],
     technology: "科技",
     business: "商業",
     newsletter: "每日簡報",
     newsletterTitle: "把重要變化送進你的閱讀器。",
-    newsletterDescription: "科技、創新、商業，三個方向讀懂變化。",
+    newsletterDescription: positioning["zh-TW"],
     rssNote: "免費 RSS · 不收集信箱",
     emptyTitle: "暫時還沒有文章。",
     emptyDescription: "文章會從 Markdown 內容目錄自動生成並顯示在這裡。",
     archive: "檔案",
     latestStories: "最新文章",
     viewAll: "查看全部",
-    footerDescription: "專注科技、創新、商業領域。",
+    footerDescription: positioning["zh-TW"],
     sections: "文章分類",
     about: "關於",
     resources: "資源",
     issues: "各期目錄",
     privacy: "隱私說明",
-    categoryNames: { technology: "科技", innovation: "創新", business: "商業" },
-    beatLabels: ["基礎設施", "產品與數據", "社區與協作", "方法與文化", "營運與成本", "市場與供應鏈"],
+    categoryNames: localizedCategoryNames("zh-TW"),
+    sectionEmpty: "本欄目暫時還沒有文章。",
   },
   en: {
     brandName: "Global Bole News",
@@ -152,26 +159,26 @@ const copy: Record<LocaleKey, HomeCopy> = {
     quickScan: "QUICK SCAN",
     beats: "THE BEATS",
     beatsTitle: "EVERY DESK, AT A GLANCE.",
-    beatsDescription: "Fast routes through technology, innovation, business, and the decisions behind the headlines.",
+    beatsDescription: positioning["en"],
     technology: "TECHNOLOGY",
     business: "BUSINESS",
     newsletter: "THE DAILY BRIEF",
     newsletterTitle: "The sharpest read in your feed.",
-    newsletterDescription: "Three perspectives: technology, innovation, and business.",
+    newsletterDescription: positioning["en"],
     rssNote: "Free RSS feed · No email collection",
     emptyTitle: "No stories have been filed yet.",
     emptyDescription: "Stories added to the Markdown content directory will appear here automatically.",
     archive: "ARCHIVE",
     latestStories: "LATEST STORIES",
     viewAll: "VIEW ALL",
-    footerDescription: "Technology, innovation, and business reporting for people who move ideas forward.",
+    footerDescription: positioning["en"],
     sections: "SECTIONS",
     about: "ABOUT",
     resources: "RESOURCES",
     issues: "ISSUES",
     privacy: "PRIVACY",
-    categoryNames: { technology: "TECHNOLOGY", innovation: "INNOVATION", business: "BUSINESS" },
-    beatLabels: ["INFRASTRUCTURE", "PRODUCT & DATA", "COMMUNITY & COLLABORATION", "METHOD & CULTURE", "OPERATIONS & COSTS", "MARKETS & SUPPLY CHAINS"],
+    categoryNames: localizedCategoryNames("en"),
+    sectionEmpty: "No stories in this section yet.",
   },
   ru: {
     brandName: "Global Bole News",
@@ -192,28 +199,28 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "ИННОВАЦИИ",
     innovationTitle: "ПОЛЕ ИННОВАЦИЙ",
     quickScan: "БЫСТРЫЙ ОБЗОР",
-    beats: "ТРИ НАПРАВЛЕНИЯ",
+    beats: "НАПРАВЛЕНИЯ",
     beatsTitle: "КАЖДОЕ НАПРАВЛЕНИЕ — С ПЕРВОГО ВЗГЛЯДА.",
-    beatsDescription: "Быстрый маршрут через технологии, инновации и бизнес, чтобы видеть главное за заголовками.",
+    beatsDescription: positioning["ru"],
     technology: "ТЕХНОЛОГИИ",
     business: "БИЗНЕС",
     newsletter: "ЕЖЕДНЕВНАЯ СВОДКА",
     newsletterTitle: "Главное — прямо в вашей ленте.",
-    newsletterDescription: "Три перспективы: технологии, инновации и бизнес.",
+    newsletterDescription: positioning["ru"],
     rssNote: "Бесплатный RSS · Без сбора адресов",
     emptyTitle: "Статей пока нет.",
     emptyDescription: "Статьи из каталога Markdown будут автоматически появляться здесь.",
     archive: "АРХИВ",
     latestStories: "ПОСЛЕДНИЕ СТАТЬИ",
     viewAll: "СМОТРЕТЬ ВСЕ",
-    footerDescription: "Новости технологий, инноваций и бизнеса для тех, кто двигает идеи вперёд.",
+    footerDescription: positioning["ru"],
     sections: "РАЗДЕЛЫ",
     about: "О НАС",
     resources: "РЕСУРСЫ",
     issues: "ВЫПУСКИ",
     privacy: "КОНФИДЕНЦИАЛЬНОСТЬ",
-    categoryNames: { technology: "ТЕХНОЛОГИИ", innovation: "ИННОВАЦИИ", business: "БИЗНЕС" },
-    beatLabels: ["ИНФРАСТРУКТУРА", "ПРОДУКТ И ДАННЫЕ", "СООБЩЕСТВА И СОТРУДНИЧЕСТВО", "МЕТОД И КУЛЬТУРА", "ОПЕРАЦИИ И ЗАТРАТЫ", "РЫНКИ И ЦЕПОЧКИ ПОСТАВОК"],
+    categoryNames: localizedCategoryNames("ru"),
+    sectionEmpty: "В этом разделе пока нет статей.",
   },
   fr: {
     brandName: "Global Bole News",
@@ -234,28 +241,28 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "INNOVATION",
     innovationTitle: "LE CARNET DE L'INNOVATION",
     quickScan: "EN UN COUP D'ŒIL",
-    beats: "LES TROIS AXES",
+    beats: "LES RUBRIQUES",
     beatsTitle: "CHAQUE AXE, EN UN COUP D'ŒIL.",
-    beatsDescription: "Un parcours rapide à travers la technologie, l'innovation et le commerce pour voir ce qui change.",
+    beatsDescription: positioning["fr"],
     technology: "TECHNOLOGIE",
     business: "COMMERCE",
     newsletter: "LA BRÈVE DU JOUR",
     newsletterTitle: "Le meilleur de la lecture, dans votre fil.",
-    newsletterDescription: "Trois regards : technologie, innovation et commerce.",
+    newsletterDescription: positioning["fr"],
     rssNote: "Flux RSS gratuit · Aucun e-mail collecté",
     emptyTitle: "Aucun article pour le moment.",
     emptyDescription: "Les articles ajoutés au dossier Markdown apparaîtront automatiquement ici.",
     archive: "ARCHIVES",
     latestStories: "DERNIERS ARTICLES",
     viewAll: "VOIR TOUT",
-    footerDescription: "L'actualité de la technologie, de l'innovation et du commerce pour faire avancer les idées.",
+    footerDescription: positioning["fr"],
     sections: "RUBRIQUES",
     about: "À PROPOS",
     resources: "RESSOURCES",
     issues: "ÉDITIONS",
     privacy: "CONFIDENTIALITÉ",
-    categoryNames: { technology: "TECHNOLOGIE", innovation: "INNOVATION", business: "COMMERCE" },
-    beatLabels: ["INFRASTRUCTURES", "PRODUIT & DONNÉES", "COMMUNAUTÉ & COLLABORATION", "MÉTHODE & CULTURE", "OPÉRATIONS & COÛTS", "MARCHÉS & CHAÎNES D’APPROVISIONNEMENT"],
+    categoryNames: localizedCategoryNames("fr"),
+    sectionEmpty: "Aucun article dans cette rubrique pour le moment.",
   },
 };
 
@@ -307,10 +314,6 @@ function takeRemaining(ordered: Story[], used: Set<string>, count: number, categ
   return selected;
 }
 
-function categoryPool(ordered: Story[], category: CategorySlug, count: number) {
-  return ordered.filter((story) => story.category === category).slice(0, count);
-}
-
 export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories: Story[]; locale: string; prefix?: string }) {
   const language = localeKey(locale);
   const text = copy[language];
@@ -330,28 +333,17 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
 
   const used = new Set<string>([hero.slug]);
   const latest = takeRemaining(ordered, used, 6);
-  const picks = [
-    ...takeRemaining(ordered, used, 1, "innovation"),
-    ...takeRemaining(ordered, used, 1, "technology"),
-    ...takeRemaining(ordered, used, 1, "business"),
-    ...takeRemaining(ordered, used, 1),
-  ];
-  const techIndex = takeRemaining(ordered, used, 5, "technology");
-  const businessStories = takeRemaining(ordered, used, 4, "business");
-  const innovationStories = takeRemaining(ordered, used, 5, "innovation");
-  const deep = takeRemaining(ordered, used, 1)[0] || ordered.find((story) => story.slug !== hero.slug) || hero;
+  const picks = categories.flatMap(category => takeRemaining(ordered, used, 1, category.slug)).slice(0,4);
+  const techIndex = categoryPool(ordered, "technology", 5);
+  const businessStories = categoryPool(ordered, "business", 4);
+  const innovationStories = categoryPool(ordered, "innovation", 5);
+  const deep = innovationStories[0];
   const techDetails = categoryPool(ordered, "technology", 8);
-  const beatColumns = [
-    { category: "technology" as CategorySlug, title: `${text.technology} · ${text.beatLabels[0]}`, stories: categoryPool(ordered, "technology", 3) },
-    { category: "technology" as CategorySlug, title: `${text.technology} · ${text.beatLabels[1]}`, stories: categoryPool(ordered, "technology", 6).slice(3, 6) },
-    { category: "innovation" as CategorySlug, title: `${text.innovation} · ${text.beatLabels[2]}`, stories: categoryPool(ordered, "innovation", 3) },
-    { category: "innovation" as CategorySlug, title: `${text.innovation} · ${text.beatLabels[3]}`, stories: categoryPool(ordered, "innovation", 6).slice(3, 6) },
-    { category: "business" as CategorySlug, title: `${text.business} · ${text.beatLabels[4]}`, stories: categoryPool(ordered, "business", 3) },
-    { category: "business" as CategorySlug, title: `${text.business} · ${text.beatLabels[5]}`, stories: categoryPool(ordered, "business", 6).slice(3, 6) },
-  ];
+  const beatColumns = categories.map(category => ({category:category.slug,title:text.categoryNames[category.slug],stories:categoryPool(ordered,category.slug,3)}));
+  const additionalDesks = beatColumns.filter(({category}) => ["work-life","current-affairs","energy"].includes(category));
 
   return <main className="reference-home">
-    <h1 className="sr-only">{text.brandName} — {text.technology}, {text.innovation}, {text.business}</h1>
+    <h1 className="sr-only">{text.brandName} — {positioning[language]}</h1>
 
     <section className="ref-home-hero layout-wide px-5 pt-8 lg:px-8" aria-labelledby="latest-heading">
       <div className="ref-hero-grid">
@@ -384,37 +376,42 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
       </div>
     </section>
 
-    <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby="tech-index-heading">
+    {techIndex.length || businessStories.length ? <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby={techIndex.length ? "tech-index-heading" : "business-heading"}>
       <div className="ref-two-column">
-        <div>
+        {techIndex.length ? <div data-category-section="technology">
           <SectionBar eyebrow={text.techIndex} title={text.techIndexTitle} href="/category/technology/" copy={text} prefix={prefix}/>
-          <div className="ref-rank-list" id="tech-index-heading">{[...techIndex, ...categoryPool(ordered, "technology", 5)].slice(0, 5).map((story, index) => <a key={`rank-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-rank-story"><span className="ref-rank-number">{String(index + 1).padStart(2, "0")}</span><span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</div>
-        </div>
-        <div>
+          <div className="ref-rank-list" id="tech-index-heading">{techIndex.map((story, index) => <a key={`rank-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-rank-story"><span className="ref-rank-number">{String(index + 1).padStart(2, "0")}</span><span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</div>
+        </div> : null}
+        {businessStories.length ? <div id="business-heading" data-category-section="business">
           <SectionBar eyebrow={text.business} title={text.businessTitle} href="/category/business/" copy={text} prefix={prefix}/>
-          <div className="ref-business-grid">{[...businessStories, ...categoryPool(ordered, "business", 4)].slice(0, 4).map((story) => <CardStory key={`business-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
-        </div>
+          <div className="ref-business-grid">{businessStories.map((story) => <CardStory key={`business-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
+        </div> : null}
       </div>
-    </section>
+    </section> : null}
 
-    <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby="innovation-heading">
+    {deep ? <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby="innovation-heading" data-category-section="innovation">
       <SectionBar eyebrow={text.innovation} title={text.innovationTitle} href="/category/innovation/" copy={text} prefix={prefix}/>
       <div className="ref-innovation-grid">
         <article className="ref-innovation-feature"><a href={withPrefix(prefix, `/post/${encodeURIComponent(deep.slug)}/`)}><div className="ref-innovation-image"><ImageStory story={deep} variant="feature"/></div><Meta story={deep} category={text.categoryNames[deep.category]} copy={text}/><h3 id="innovation-heading" className="ref-feature-title">{deep.title}</h3><p className="ref-feature-dek">{deep.dek}</p></a></article>
-        <aside className="ref-quick-scan"><p className="ref-kicker">{text.quickScan}</p><div className="ref-rule"/>{[...innovationStories, ...categoryPool(ordered, "innovation", 5)].slice(0, 4).map((story) => <a key={`scan-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-scan-story"><div className="ref-scan-image"><ImageStory story={story}/></div><span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</aside>
+        <aside className="ref-quick-scan"><p className="ref-kicker">{text.quickScan}</p><div className="ref-rule"/>{innovationStories.slice(1, 5).map((story) => <a key={`scan-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-scan-story"><div className="ref-scan-image"><ImageStory story={story}/></div><span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</aside>
       </div>
-    </section>
+    </section> : null}
+
+    {additionalDesks.filter(desk => desk.stories.length).map(({category,title,stories:categoryStories}) => <section key={category} className="ref-section layout-wide px-5 lg:px-8" aria-label={title} data-category-section={category}>
+      <SectionBar eyebrow={text.beats} title={title} href={`/category/${category}/`} copy={text} prefix={prefix}/>
+      <div className="ref-archive-grid">{categoryStories.map(story => <CardStory key={story.slug} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
+    </section>)}
 
     <section className="ref-section ref-beats layout-wide px-5 lg:px-8" aria-labelledby="beats-heading">
       <p className="ref-kicker">{text.beats}</p><h2 id="beats-heading" className="ref-feature-title ref-beats-title">{text.beatsTitle}</h2><p className="ref-beats-description">{text.beatsDescription}</p>
-      <div className="ref-beats-grid">{beatColumns.map(({ category, title, stories: categoryStories }, index) => <div key={`${category}-${index}`} className="ref-beat-column"><h3 className="ref-kicker">{title}</h3>{categoryStories.map((story) => <a key={`${index}-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-beat-story"><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></a>)}</div>)}</div>
+      <div className="ref-beats-grid">{beatColumns.map(({ category, title, stories: categoryStories }) => <div key={category} className="ref-beat-column" data-category-section={category}><h3 className="ref-kicker"><a href={withPrefix(prefix, `/category/${category}/`)}>{title}</a></h3>{categoryStories.length ? categoryStories.map((story) => <a key={story.slug} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-beat-story"><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></a>) : <p className="mt-3 text-sm leading-6 text-muted-foreground">{text.sectionEmpty}</p>}</div>)}</div>
     </section>
 
-    <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby="technology-heading">
+    {techDetails.length > 1 ? <section className="ref-section layout-wide px-5 lg:px-8" aria-label={text.techIndexTitle} data-category-section="technology">
       <SectionBar eyebrow={text.techIndex} title={text.techIndexTitle} href="/category/technology/" copy={text} prefix={prefix}/>
       <div className="ref-tech-feature-grid">{techDetails.slice(0, 2).map((story) => <article key={`tech-feature-${story.slug}`} className="ref-tech-feature"><a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)}><div className="ref-tech-feature-image"><ImageStory story={story} variant="feature"/></div><Meta story={story} category={text.categoryNames[story.category]} copy={text}/><h3 className="ref-feature-title">{story.title}</h3><p className="ref-feature-dek">{story.dek}</p><p className="ref-byline"><strong>{text.by} {story.author}</strong><span>{story.displayDate} / {story.readTime} {text.minutes}</span></p></a></article>)}<aside className="ref-tech-side">{techDetails.slice(2, 4).map((story) => <CardStory key={`tech-side-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</aside></div>
       <div className="ref-five-up">{techDetails.slice(4, 9).map((story) => <CardStory key={`tech-grid-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
-    </section>
+    </section> : null}
 
     <section className="ref-newsletter layout-wide px-5 pt-[var(--space-section)] lg:px-8" aria-labelledby="newsletter-heading"><div className="ref-newsletter-inner"><div><p className="ref-kicker">{text.newsletter}</p><h2 id="newsletter-heading" className="ref-newsletter-title">{text.newsletterTitle}</h2></div><div className="ref-newsletter-action"><p>{text.newsletterDescription}</p><a href={withPrefix(prefix, "/rss.xml")} className="ref-newsletter-button">{text.subscribe} <span aria-hidden="true">→</span></a><small>{text.rssNote}</small></div></div></section>
 

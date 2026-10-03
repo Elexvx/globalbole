@@ -20,7 +20,7 @@ Anthropic的政府合同收入占比不到1%，政府关系却可能影响它更
 
 ![Anthropic联合创始人Dario Amodei在2023年TechCrunch Disrupt大会上发言的资料照片](/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg)
 
-*图：Dario Amodei于2023年9月20日在TechCrunch Disrupt大会发言，资料照片，非此次IPO报道现场。© 2023 Getty Images；摄影：Kimberly White / Getty Images for TechCrunch。[原图与授权：TechCrunch](https://www.flickr.com/photos/techcrunch/53202070940/)，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。使用缩图，原始文件未改动；封面按版式裁切显示。*
+*图：2023年9月20日，美国旧金山Moscone Center，Dario Amodei在TechCrunch Disrupt大会发言。摄影：Kimberly White / Getty Images for TechCrunch（© 2023 Getty Images）。[《TechCrunch Disrupt 2023 - Day 2》及授权：TechCrunch](https://www.flickr.com/photos/techcrunch/53202070940/)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*
 
 ## 收入占比小，影响未必止于政府订单
 

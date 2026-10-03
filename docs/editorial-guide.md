@@ -39,7 +39,7 @@ draft: false
 | translationKey | 是 | 同一篇所有译文共享的稳定标识 |
 | issue | 是 | 期号标识，小写字母、数字、连字符；建议年月-序号 |
 | lang | 是 | zh-CN / zh-TW / en / ru / fr |
-| category | 是 | technology / innovation / business |
+| category | 是 | technology / innovation / business / work-life / current-affairs / energy |
 | author | 是 | 作者名称 |
 | authorRole | 否 | 默认 Politica |
 | date | 是 | 带引号的 YYYY-MM-DD，不使用 YAML 自动日期类型 |
@@ -79,3 +79,9 @@ draft: false
 
 [^1]: 2026-10-02 · [原文完整标题](https://example.com/original-report) · 发布机构
 ```
+
+## 图注格式
+
+图注只写已知的时间、地点、人物、摄影者、授权方与许可原则；缺少的字段直接省略。保留许可要求的作品题名、版权署名、来源和许可链接。不加入图片处理流程或版式说明。数据图注明数据期、数据来源与制图者，不编造摄影或授权信息。
+
+默认在现有封面框内完整显示授权照片和数据图；若确实制作了改编作品，应先检查具体许可义务，不能为简化图注而省略必要通知。

@@ -4,7 +4,7 @@ slug: "g7-energy-reserve-release-diesel-2026-10-03"
 translationKey: "g7-energy-reserve-release-diesel-2026-10-03"
 issue: "2026-10-03"
 lang: "zh-CN"
-category: "business"
+category: "energy"
 author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
@@ -38,7 +38,7 @@ IEA在3月11日曾宣布，32个成员国同意向市场提供4亿桶紧急储�
 
 ![美国得克萨斯州Big Hill战略石油储备设施的历史航拍资料照片](/news-media/2026-10-03/us-strategic-petroleum-reserve-big-hill.jpg)
 
-*图：美国得克萨斯州Big Hill战略石油储备设施的地面配套，资料照片，由美国能源部于2014年发布；非本轮储备释放现场。图片：[美国能源部](https://www.flickr.com/photos/departmentofenergy/14774972431)，美国联邦政府作品，公有领域。*
+*图：美国得克萨斯州Big Hill战略石油储备设施，2014年7月29日发布。图片：[美国能源部](https://www.flickr.com/photos/departmentofenergy/14774972431)，美国联邦政府作品，公有领域。*
 
 ## 储备争取时间，效果仍取决于执行
 

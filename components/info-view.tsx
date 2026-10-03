@@ -2,33 +2,33 @@
 import { Text, useI18n } from "@/lib/i18n";
 const content={
   "zh-CN": {
-    "about": "全球伯乐 News 专注科技、创新、商业领域，是一个按期整理的多语言阅读站。文章来自项目内的 Markdown 文件，分类、标签和目录在构建时自动生成。当前内容为功能测试示例，并非实时新闻。",
-    "authors": "示例编辑部负责本次测试文章。每篇文章均在开头列出作者、日期和所属栏目；五种语言通过统一的文章标识关联。",
-    "contact": "这是演示站点，尚未配置公开联系邮箱。正式上线时，请在项目内容中填写经过确认的编辑部联系方式。",
+    about: "全球伯乐 News 按期整理科技、财经、就业与城市生活、国内外要闻、能源产业及创新实践，提供五种语言的阅读界面。文章注明日期、栏目与资料来源；已发布译文通过共同标识关联，尚无译文时保留原文。",
+    authors: "文章由署名作者或资料整理团队编写。每篇文章列出作者、日期和所属栏目，文末来源说明可用于查阅原始资料。",
+    contact: "本站尚未配置公开联系邮箱。经过确认的编辑部联系方式将在此公布。",
     "privacy": "本网站没有编辑后台、账号系统或邮件收集表单。浏览器只保存视觉主题偏好；语言由网址决定。文章公开托管，阅读时托管平台可能记录基本访问日志。"
   },
   "zh-TW": {
-    "about": "全球伯樂 News 專注科技、創新、商業領域，是一個按期整理的多語言閱讀站。文章來自專案內的 Markdown 檔案，分類、標籤和目錄在建置時自動產生。目前內容為功能測試範例，並非即時新聞。",
-    "authors": "範例編輯部負責本次測試文章。每篇文章均在開頭列出作者、日期和所屬欄目；五種語言透過統一的文章識別碼關聯。",
-    "contact": "這是展示網站，尚未設定公開聯絡信箱。正式上線時，請在專案內容中填寫經過確認的編輯部聯絡方式。",
+    about: "全球伯樂 News 按期整理科技、財經、就業與城市生活、國內外要聞、能源產業及創新實踐，提供五種語言的閱讀介面。文章註明日期、欄目與資料來源；已發布譯文透過共同識別碼關聯，尚無譯文時保留原文。",
+    authors: "文章由署名作者或資料整理團隊編寫。每篇文章列出作者、日期和所屬欄目，文末來源說明可用於查閱原始資料。",
+    contact: "本站尚未設定公開聯絡信箱。經過確認的編輯部聯絡方式將在此公布。",
     "privacy": "本網站沒有編輯後台、帳號系統或信箱收集表單。瀏覽器只儲存視覺主題偏好；語言由網址決定。文章公開託管，閱讀時託管平台可能記錄基本存取日誌。"
   },
   "en": {
-    "about": "Global Bole News focuses on technology, innovation and business. A multilingual reading site organized by issue. Markdown files in the project generate categories, tags and archives at build time. The current issues contain testing examples, not live news.",
-    "authors": "The sample editorial desk prepared these test articles. Each article lists its author, date and section. A shared translation key connects the five language versions.",
-    "contact": "This demonstration has no public contact mailbox configured. Before launch, add verified editorial contact details to the project.",
+    about: "Global Bole News organizes coverage of technology, finance, work and city life, current affairs, energy and industry, and practical innovation by issue. The reading interface supports five languages. Articles identify their date, section and sources. Available translations are linked; otherwise the original remains available.",
+    authors: "Articles credit their author or research desk and identify their date and section. Source notes at the end of each article link to the original materials.",
+    contact: "No public contact mailbox is currently configured. Verified editorial contact details will be published here.",
     "privacy": "There is no editor, account system or email collection form. The browser stores only visual theme preferences; the URL determines the language. The hosting provider may retain basic access logs when serving public articles."
   },
   "ru": {
-    "about": "Global Bole News — технологии, инновации и бизнес. Многоязычный сайт для чтения, организованный по выпускам. Файлы Markdown формируют разделы, метки и архивы при сборке. Текущие выпуски содержат тестовые примеры, а не актуальные новости.",
-    "authors": "Тестовая редакция подготовила эти материалы. У каждой статьи указаны автор, дата и раздел. Общий ключ связывает версии на пяти языках.",
-    "contact": "У демонстрационного сайта пока нет публичного контактного адреса. Перед запуском добавьте проверенные контакты редакции в проект.",
+    about: "Global Bole News объединяет по выпускам материалы о технологиях, экономике, работе и городской жизни, главных новостях, энергетике, промышленности и практических инновациях. Интерфейс доступен на пяти языках. У статей указаны дата, раздел и источники. Доступные переводы связаны между собой; при отсутствии перевода остаётся оригинал.",
+    authors: "В статьях указаны автор или группа подготовки материалов, дата и раздел. Примечания в конце статьи ведут к первоисточникам.",
+    contact: "Публичный контактный адрес пока не указан. Проверенные контакты редакции будут опубликованы здесь.",
     "privacy": "На сайте нет редактора, учётных записей и форм сбора почты. Браузер сохраняет только тему оформления; язык определяется адресом страницы. Хостинг может хранить базовые журналы доступа к открытым статьям."
   },
   "fr": {
-    "about": "Global Bole News : technologie, innovation et économie. Un site de lecture multilingue organisé par édition. Les fichiers Markdown génèrent les rubriques, les étiquettes et les archives lors de la compilation. Les éditions actuelles sont des exemples de test, pas des actualités.",
-    "authors": "La rédaction de démonstration a préparé ces articles. Chaque texte indique son auteur, sa date et sa rubrique. Une clé commune relie les versions dans les cinq langues.",
-    "contact": "Aucune adresse publique de contact n’est configurée pour cette démonstration. Avant la mise en ligne, ajoutez les coordonnées vérifiées de la rédaction.",
+    about: "Global Bole News rassemble par édition des articles sur la technologie, la finance, l’emploi et la vie urbaine, l’actualité, l’énergie, l’industrie et l’innovation pratique. L’interface est disponible en cinq langues. Les articles indiquent leur date, leur rubrique et leurs sources. Les traductions disponibles sont reliées entre elles ; sinon, le texte original reste accessible.",
+    authors: "Les articles indiquent leur auteur ou leur équipe de recherche, leur date et leur rubrique. Les notes de sources en fin d’article renvoient aux documents originaux.",
+    contact: "Aucune adresse publique de contact n’est actuellement renseignée. Les coordonnées vérifiées de la rédaction seront publiées ici.",
     "privacy": "Le site ne comporte ni éditeur, ni comptes, ni collecte d’adresses e-mail. Le navigateur conserve seulement le thème visuel ; l’URL détermine la langue. L’hébergeur peut conserver des journaux d’accès élémentaires aux articles publics."
   }
 };

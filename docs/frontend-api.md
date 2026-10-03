@@ -72,10 +72,10 @@
 | lang | `zh-CN` / `zh-TW` / `en` / `ru` / `fr` | 语言过滤、HTML语言；`lang` |
 | translationKey | 非空string；同语言下唯一 | 同篇文章各语言共享标识；`translationKey` |
 | issue | 小写ASCII字母、数字、短横线 | 各期目录和筛选；`issue`，不是日期格式约束 |
-| category | 下表三个枚举之一 | 分类筛选；`category` |
+| category | 下表六个枚举之一 | 分类筛选；`category` |
 | categoryLabel | 非空string，固定英文键 | 前端词典翻译；由分类映射生成 |
 | author | 非空string，按语言提供 | 作者和搜索；`author` |
-| authorRole | 非空string | 作者说明；`authorRole`，Markdown未填时默认Politica |
+| authorRole | 非空string | 作者说明；`authorRole`，Markdown未填时按语言默认全球伯乐 News / 全球伯樂 News / Global Bole News |
 | date | 合法日历日期 `YYYY-MM-DD` | 倒序排序；`date`，不传时间戳 |
 | displayDate | 非空string，按lang本地化 | 卡片日期；从date按UTC生成，避免客户端时区偏移 |
 | readTime | integer，1–90 | 阅读分钟数；`readTime`，缺省由转换器估计 |
@@ -93,14 +93,17 @@
 | business | Business |
 | technology | Technology |
 | innovation | Innovation |
+| work-life | Work & City Life |
+| current-affairs | Current Affairs |
+| energy | Energy & Industry |
 
-分类名称、栏目说明、导航和站点固定文案目前由前端五语言词典维护，不需要后端接口。期刊目录由 `issue` 去重生成，标签目录由 `tags` 生成，译文关联由 `translationKey` 生成。没有作者主页资料、期刊封面或期刊简介的需求；后续增加时再扩展契约。
+栏目清单来自 `lib/categories.mjs`，转换器与公共契约共享该清单。`categoryLabel` 必须与对应的固定英文键相同，错误键会被拒绝。同一 `translationKey` 的译文必须使用相同栏目，构建时校验。原三个栏目与文章 URL 保留，新栏目避开旧重定向 slug；字段结构与 schemaVersion 不变。分类名称、栏目说明、导航和站点固定文案目前由前端五语言词典维护，不需要后端接口。期刊目录由 `issue` 去重生成，标签目录由 `tags` 生成，译文关联由 `translationKey` 生成。没有作者主页资料、期刊封面或期刊简介的需求；后续增加时再扩展契约。
 
 ## 4. 渲染规则与失败处理
 
 - 列表按当前语言过滤，按 `date` 降序；首页同日期再按issue降序。正文保持Markdown顺序。
 - 搜索在前端执行，匹配标题、分类名、作者和标签，不搜索正文，最多显示5项。
-- 各期、分类和标签筛选都使用同一份运行时数据，不各自请求。
+- 各期、分类和标签筛选都使用同一份运行时数据，不各自请求。分类结果只包含当前语言、同一栏目稿件；没有稿件时显示本地化空态。首页栏目不使用其他栏目稿件回填。
 - 缺少某种译文时保留原文并显示“译文不可用”提示，不自动机器翻译。
 - API错误、非JSON、版本不符、任一字段不合法或超时：整批拒绝，保留当前快照，显示五语言提示及重试按钮；不将半份数据混入列表。
 - 首次失败保留构建快照；若之前已成功，则保留最近成功的数据。刷新页面将重新请求，不写入localStorage。

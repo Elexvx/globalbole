@@ -1,6 +1,7 @@
 import publishedArticles from "@/content/generated/articles.json";
-
-export type CategorySlug = "technology" | "innovation" | "business";
+import { categories, type CategorySlug } from "./categories.mjs";
+export { categories } from "./categories.mjs";
+export type { Category, CategorySlug } from "./categories.mjs";
 
 export type StorySection = {
   heading: string;
@@ -28,19 +29,6 @@ export type Story = {
   issue?: string;
   markdown?: string;
 };
-
-export type Category = {
-  slug: CategorySlug;
-  label: string;
-  title: string;
-  description: string;
-};
-
-export const categories: Category[] = [
-  {slug:"technology",label:"Technology",title:"Technology & Applications",description:"Tools, data and digital infrastructure."},
-  {slug:"innovation",label:"Innovation",title:"New Ideas in Practice",description:"Better services, design and collaboration."},
-  {slug:"business",label:"Business",title:"Business & Operations",description:"Operations, costs and supply chains."},
-];
 
 export const stories: Story[] = publishedArticles as Story[];
 export const tickerStories = stories.slice(0,8);
