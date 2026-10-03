@@ -1,19 +1,19 @@
 "use client";
 
-import dynamic from "next/dynamic";
 import type { ReactNode } from "react";
 import type { Locale } from "@/lib/locales";
 
-// Split each view at the client boundary while retaining static HTML prerendering.
-// In particular, archive/home pages do not need the Markdown parser or share tools.
-const Home = dynamic(() => import("@/app/home-client"));
-const Category = dynamic(() => import("@/app/(site)/category/[slug]/view"));
-const Post = dynamic(() => import("@/app/(site)/post/[slug]/view"));
-const Tag = dynamic(() => import("@/app/(site)/tag/[slug]/view"));
-const Archive = dynamic(() => import("@/app/(site)/all-news/[[...page]]/view"));
-const Issues = dynamic(() => import("@/app/(site)/issues/page"));
-const Issue = dynamic(() => import("@/components/issue-view"));
-const Info = dynamic(() => import("@/components/info-view"));
+// Keep route content synchronous during static export. An async view can leave
+// the entire main section in a hidden streaming slot until client script runs.
+// Article parsing is still separately deferred for changed API content only.
+import Home from "@/app/home-client";
+import Category from "@/app/(site)/category/[slug]/view";
+import Post from "@/app/(site)/post/[slug]/view";
+import Tag from "@/app/(site)/tag/[slug]/view";
+import Archive from "@/app/(site)/all-news/[[...page]]/view";
+import Issues from "@/app/(site)/issues/page";
+import Issue from "@/components/issue-view";
+import Info from "@/components/info-view";
 
 export function RouteView({path,initialMarkdown,initialLocale,children}: {path:string[];initialMarkdown?:string;initialLocale?:Locale;children?:ReactNode}) {
   switch(path[0]) {

@@ -30,7 +30,7 @@ Before/after audits must use the same target route and strategy. Repeat unusual 
 - Archive headings and story cards are prerendered in HTML, with query pagination isolated as a client enhancement to avoid shifting the entire page after load
 - Body images reserve known dimensions and load lazily below the article header
 - News links load their target route on navigation instead of eagerly prefetching every visible archive/header/footer link; explicit prefetch overrides remain available
-- Locale route views are split at a client boundary with server prerendering retained. Article Markdown is prerendered on the server; the browser loads the parser only if the optional public API supplies a changed body or locale
+- Route views render synchronously during static export, avoiding hidden streaming shells that can reveal the whole main section after the footer has painted. Article Markdown is prerendered on the server; the browser loads the parser only if the optional public API supplies a changed body or locale
 - Canonicals, structured data and crawlable source notes are checked independently of Lighthouse scores
 
 ## Pre-publication observations, 2026-10-03
@@ -85,3 +85,11 @@ Same local server/tool configuration as the baseline. All three mobile pages hav
 ### Live redirect verification
 
 The first live deployment exposed a hosting-specific difference from permissive local route matching: Vercel normalizes extensionless requests to a trailing slash before applying custom redirects. Sources must include that slash. The redirect regression tests now use strict matching after normalization, and final acceptance includes real 308 responses on the production host. Static compatibility pages also retain correct canonical/noindex metadata as a fallback.
+
+The first live after-run exposed an additional static-export edge: an asynchronous route view placed prerendered archive content in a hidden React streaming slot. Presence of headings in source HTML alone was insufficient. Canonical export checks now reject hidden streaming slots and client-rendering bailouts across every localized page; route views are synchronous and legacy query pagination is handled after mounting without suspending the archive.
+
+### Root entry: progressive enhancement rather than full hydration
+
+The canonical `/` document is a static reading/navigation surface. Its only active widget is the clock; links, the mobile details/summary menu, ticker animation, images, RSS and footer icons are native HTML/CSS. Its exported document now keeps all content, styles, metadata, JSON-LD and image preloads while using a small deferred clock script instead of bootstrapping the entire Next/React runtime. The clock uses cached Intl formatters, the visitor's local timezone, immediate updates and visibility/history restoration. The React clock and RSC route remain available for any client-side navigation to `/`; localized routes retain the full application and its search/language/theme controls.
+
+This is the same delivery path for every visitor and user agent. It does not hide or omit content to change audit results. The export step checks an exact client-module allowlist and rejects pending streaming content or unknown scripts, so adding a new interactive root feature requires deliberate review instead of silently breaking it. Root HTML fell from approximately 265 KB to 93 KB, with one small application script. Public PageSpeed and browser interaction checks remain required after deployment.

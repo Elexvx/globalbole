@@ -1,3 +1,4 @@
+import { finalizeStaticHome } from "./finalize-static-home.mjs";
 import { readdirSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
 import { languages } from "./content.mjs";
@@ -21,3 +22,5 @@ console.log("Static HTML languages and five RSS feeds generated.");
 // This repository is public; do not include environment values or credentials.
 const commit = process.env.VERCEL_GIT_COMMIT_SHA;
 writeFileSync("out/build-info.json", JSON.stringify({commit: /^[a-f0-9]{40}$/.test(commit || "") ? commit : null}) + "\n");
+
+finalizeStaticHome();

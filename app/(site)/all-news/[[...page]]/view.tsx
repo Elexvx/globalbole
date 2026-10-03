@@ -3,25 +3,24 @@
 import { Text } from "@/lib/i18n";
 
 
-import { Suspense, useEffect, useState } from "react";
-import { useParams, useSearchParams } from "next/navigation";
+import { useEffect, useState } from "react";
+import { useParams } from "next/navigation";
 import { Newsletter, Pagination, SectionHeading, StoryCard } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
 
 const pageSize = 12;
 
-// Query-string compatibility is an isolated client enhancement. The canonical
-// path archive (heading, cards and links) stays present in exported HTML.
-function QueryPage({onPage}: {onPage:(page:string|null)=>void}) {
-  const query = useSearchParams();
-  const value = query.get("page");
-  useEffect(()=>{ onPage(value); },[value,onPage]);
-  return null;
-}
-
+// Compatibility query pagination is read after mounting, without suspending
+// the static archive. Published canonical pagination uses path segments.
 export default function AllNewsPage() {
   const params = useParams<{ page?: string | string[]; path?:string[] }>();
   const [queryPage, setQueryPage] = useState<string|null>(null);
+  useEffect(() => {
+    const update = () => setQueryPage(new URLSearchParams(window.location.search).get("page"));
+    update();
+    window.addEventListener("popstate", update);
+    return () => window.removeEventListener("popstate", update);
+  }, [params.path, params.page]);
   const rawPage = queryPage || params.path?.[1] || params.page;
   const page = Math.max(1, Number(Array.isArray(rawPage) ? rawPage[0] : rawPage) || 1);
   const { articles } = useArticles();
@@ -32,7 +31,6 @@ export default function AllNewsPage() {
 
   return (
     <main>
-      <Suspense fallback={null}><QueryPage onPage={setQueryPage}/></Suspense>
       <section className="layout-wide px-5 pb-10 pt-10 lg:px-8 lg:pb-14 lg:pt-14">
         <div className="border-b-[0.1875rem] border-border-strong pb-7">
           <p className="kicker"><Text value="The complete edition"/></p>

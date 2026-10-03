@@ -19,6 +19,11 @@ assert.deepEqual([...missing],[],"Missing static assets or routes");
 for(const lang of languages){
   assert.match(readFileSync(`out/${lang}/index.html`,"utf8"),new RegExp(`<html[^>]*lang="${lang}"`));
   assert.ok(existsSync(`out/feeds/${lang}.xml`));
+  for (const file of files.filter(file=>file.startsWith(lang + path.sep))) {
+    const localized = readFileSync(path.join("out",file),"utf8");
+    assert.ok(!localized.includes('BAILOUT_TO_CLIENT_SIDE_RENDERING'), `${file}: canonical content must not bail out to client rendering`);
+    assert.ok(!/<div hidden id="S:/.test(localized), `${file}: static main content must not wait inside a hidden streaming slot`);
+  }
   const archive = readFileSync(`out/${lang}/all-news/index.html`, "utf8");
   assert.match(archive, /<h1\b[^>]*>/, "Archive heading must be prerendered without JavaScript");
   for (const article of articles.filter(item=>item.lang===lang).slice(0,12)) {
