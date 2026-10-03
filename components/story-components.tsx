@@ -9,7 +9,7 @@ import { ArrowRight, Check, Clock3, Link2 } from "lucide-react";
 import Link from "@/components/localized-link";
 import { useState } from "react";
 import type { Story } from "@/lib/data";
-import { responsiveImageProps } from "@/lib/image-assets";
+import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
 
 export function SectionHeading({
   eyebrow,
@@ -91,10 +91,11 @@ export function StoryCard({
 
   if (variant === "feature") {
     const imageProps = responsiveImageProps(story.image, "feature");
+    const avif = responsiveAvifSourceProps(story.image, "feature");
     return (
       <Link href={storyHref(story)} className="story-link group block">
         <div className="image-frame aspect-[16/10] border-2 border-foreground bg-muted">
-          <img {...imageProps} alt={story.imageAlt} loading="eager" fetchPriority="high" decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+          <picture>{avif ? <source {...avif}/> : null}<img {...imageProps} alt={story.imageAlt} loading="eager" fetchPriority="high" decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" /></picture>
         </div>
         <div className="mt-6">
           <StoryMeta story={story} />
@@ -109,10 +110,11 @@ export function StoryCard({
   }
 
   const imageProps = responsiveImageProps(story.image);
+  const avif = responsiveAvifSourceProps(story.image);
   return (
     <Link href={storyHref(story)} className="story-link group block">
       <div className="image-frame aspect-[16/10] overflow-hidden border border-border bg-muted">
-        <img {...imageProps} alt={story.imageAlt} loading={priority ? "eager" : "lazy"} fetchPriority={priority ? "high" : undefined} decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+        <picture>{avif ? <source {...avif}/> : null}<img {...imageProps} alt={story.imageAlt} loading={priority ? "eager" : "lazy"} fetchPriority={priority ? "high" : undefined} decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" /></picture>
       </div>
       <div className="mt-4">
         <StoryMeta story={story} compact />

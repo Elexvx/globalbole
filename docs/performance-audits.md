@@ -93,3 +93,30 @@ The first live after-run exposed an additional static-export edge: an asynchrono
 The canonical `/` document is a static reading/navigation surface. Its only active widget is the clock; links, the mobile details/summary menu, ticker animation, images, RSS and footer icons are native HTML/CSS. Its exported document now keeps all content, styles, metadata, JSON-LD and image preloads while using a small deferred clock script instead of bootstrapping the entire Next/React runtime. The clock uses cached Intl formatters, the visitor's local timezone, immediate updates and visibility/history restoration. The React clock and RSC route remain available for any client-side navigation to `/`; localized routes retain the full application and its search/language/theme controls.
 
 This is the same delivery path for every visitor and user agent. It does not hide or omit content to change audit results. The export step checks an exact client-module allowlist and rejects pending streaming content or unknown scripts, so adding a new interactive root feature requires deliberate review instead of silently breaking it. Root HTML fell from approximately 265 KB to 93 KB, with one small application script. Public PageSpeed and browser interaction checks remain required after deployment.
+
+## Verified production checkpoint: 2026-10-03, commit 0123ac0
+
+Vercel's native Git deployment was READY and the production `build-info.json` served commit `0123ac00b74082f5ea145fd97489760e0519482f` before these reports were started. All results below come from Google's saved PSI reports, Lighthouse 13.5.0 / HeadlessChromium 153.0.8010.36, captured at 20:23 UTC. The homepage job initially displayed a loading state for several minutes but the original report subsequently completed; it was not replaced with a higher-scoring sample.
+
+| Route | Device | Performance | Accessibility | Best practices | SEO | LCP | TBT | CLS |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| Homepage | Mobile | 100 | 100 | 100 | 100 | 1.2 s | 0 ms | 0 |
+| Homepage | Desktop | 100 | 100 | 100 | 100 | 0.4 s | 0 ms | 0 |
+| Archive | Mobile | 99 | 100 | 100 | 100 | 2.3 s | 10 ms | 0 |
+| Archive | Desktop | 100 | 100 | 100 | 100 | 0.5 s | 50 ms | 0.001 |
+| Article | Mobile | 99 | 100 | 100 | 100 | 2.3 s | 0 ms | 0 |
+| Article | Desktop | 100 | 100 | 100 | 100 | 0.4 s | 30 ms | 0.001 |
+
+- [Homepage report](https://pagespeed.web.dev/analysis/https-www-globalbole-com/h89sxzocw0?form_factor=mobile)
+- [Archive report](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-all-news/k9ta4ofdxe?form_factor=mobile)
+- [Article report](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-post-zh-cn-anthropic-ipo-government-policy-risk-2026-10-03/rrvho63iqo?form_factor=mobile)
+
+Both agentic-browsing checks pass for all six observations. No CrUX data is available. The original production archive baseline was 56 mobile / 79 desktop with CLS 0.586 / 0.445 ([report](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-all-news/hal6feqqju?form_factor=mobile)); the original article was 94 mobile / 88 desktop ([report](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-post-zh-cn-anthropic-ipo-government-policy-risk-2026-10-03/7cwq9dg995?form_factor=mobile)). These are representative routes, not a claim that every exported page has been audited or that future runs must remain 100.
+
+Functional checks on the deployed checkpoint covered the root clock's browser-local timezone and history restoration; desktop search, matching-result navigation, Back, and theme change/restoration on localized routes; narrow-window homepage menu opening/closing via Enter, visible keyboard focus, archive navigation and working mobile search. The canonical root retains its existing native menu/clock surface; localized application controls remain available.
+
+### Further image-transfer improvement
+
+Photographs now offer an AVIF source with WebP fallback; existing crop/focal-point CSS stays on the actual image. Original licensed files are unchanged. Per-photo quality checks retain fine texture: AVIF SSIM exceeds the existing WebP at 480, 832, 960 and 1280 pixels. At 832 pixels, Dario falls from 23.3 to 17.9 KB, Hamburg 57.5 to 38.8 KB, petroleum 136.9 to 124.3 KB and EV charging 92.4 to 78.6 KB. These are file-byte comparisons, not PSI scores.
+
+Body photographs use responsive candidates with the original URL retained as the fallback. The employment chart uses a full-resolution, lossless WebP candidate (144.9 to 46.9 KB) verified pixel-identical to the original PNG. No lossy AVIF is applied to charts. Picture sources and fallbacks have identical sizes hints, and tests reject duplicate image preload markup. A final production browser/source-selection check and PSI audit are required after publication of this additional image change.

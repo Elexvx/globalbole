@@ -1,6 +1,6 @@
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { imageDimensions } from "@/lib/image-assets";
+import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
 import type { Locale } from "@/lib/locales";
 
 // Source line anchors remain unique even when headings repeat.
@@ -16,5 +16,9 @@ export function ArticleMarkdown({markdown,locale}:{markdown:string;locale:Locale
     const heading=!fence && line.match(/^ {0,3}##\s+(.+?)\s*#*$/);
     if(heading)headings.push({text:heading[1],line:index+1});
   });
-  return <>{headings.length>1?<nav aria-label={title} className="mb-8 border-y border-border py-5"><p className="mb-3 font-semibold">{title}</p><ul className="space-y-2">{headings.map(h=><li key={h.line}><a href={`#section-${h.line}`} className="underline underline-offset-4">{h.text}</a></li>)}</ul></nav>:null}<div className="markdown-body"><ReactMarkdown remarkPlugins={[remarkGfm]} remarkRehypeOptions={{footnoteLabel,footnoteLabelProperties:{className:[]}}} skipHtml components={{img:({node,src,...props})=><img {...props} src={src} {...imageDimensions(typeof src === "string" ? src : "")} loading="lazy" decoding="async"/>,h2:({node,children,...props})=><h2 {...props} id={node?.position?`section-${node.position.start.line}`:props.id} className="scroll-mt-8">{children}</h2>,h3:({node,children,...props})=><h3 {...props} id={node?.position?`section-${node.position.start.line}`:props.id} className="scroll-mt-8">{children}</h3>}}>{markdown}</ReactMarkdown></div></>;
+  return <>{headings.length>1?<nav aria-label={title} className="mb-8 border-y border-border py-5"><p className="mb-3 font-semibold">{title}</p><ul className="space-y-2">{headings.map(h=><li key={h.line}><a href={`#section-${h.line}`} className="underline underline-offset-4">{h.text}</a></li>)}</ul></nav>:null}<div className="markdown-body"><ReactMarkdown remarkPlugins={[remarkGfm]} remarkRehypeOptions={{footnoteLabel,footnoteLabelProperties:{className:[]}}} skipHtml components={{img:({node,src,...props})=>{
+    const image = typeof src === "string" ? src : "";
+    const avif = responsiveAvifSourceProps(image, "body");
+    return <picture>{avif ? <source {...avif}/> : null}<img {...props} {...responsiveImageProps(image, "body")} loading="lazy" decoding="async"/></picture>;
+  },h2:({node,children,...props})=><h2 {...props} id={node?.position?`section-${node.position.start.line}`:props.id} className="scroll-mt-8">{children}</h2>,h3:({node,children,...props})=><h3 {...props} id={node?.position?`section-${node.position.start.line}`:props.id} className="scroll-mt-8">{children}</h3>}}>{markdown}</ReactMarkdown></div></>;
 }

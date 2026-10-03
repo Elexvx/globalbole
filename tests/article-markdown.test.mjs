@@ -128,6 +128,10 @@ test('server and refreshed bodies retain GFM, unique anchors, footnotes, licensi
     assert.ok(html.includes(`src="${image}"`));
     assert.ok(html.includes(`width="${dimensions.width}" height="${dimensions.height}"`));
     assert.match(html, /loading="lazy" decoding="async"/);
+    assert.match(html, /<picture><source type="image\/avif" srcSet="[^"]+\.avif \d+w/);
+    assert.match(html, /<img[^>]*srcSet="[^"]+\.webp \d+w/);
+    assert.match(html, /sizes="\(max-width: 1023px\) calc\(100vw - 2\.5rem\), min\(46rem, calc\(100vw - 22rem\)\)"/);
+    assert.doesNotMatch(html, /rel="preload"/, 'Lazy body images must not preload a fallback format');
     assert.doesNotMatch(html, /object-cover|<script|javascript:/);
     const refreshed = await renderResolved(createElement(ClientMarkdown, { markdown, locale }));
     // Streaming SSR adds React's text separators and Suspense boundary comments.
@@ -151,4 +155,61 @@ test('both article route families pass server-rendered Markdown through the clie
   const boundary = readFileSync(path.join(root, 'components/client-markdown.tsx'), 'utf8');
   assert.match(boundary, /lazy\(\(\) => import\("\.\/article-markdown"\)/);
   assert.doesNotMatch(boundary, /ssr:\s*false|dangerouslySetInnerHTML/);
+});
+
+
+test('body charts retain original fallbacks and lossless sources without photo-specific encoding', async () => {
+  const { ArticleMarkdown } = await import('../components/article-markdown.tsx');
+  const manifest = JSON.parse(readFileSync(path.join(root, 'content/generated/image-manifest.json'), 'utf8'));
+  const [image, asset] = Object.entries(manifest).find(([image])=>image.endsWith('.png'));
+  const html = renderToStaticMarkup(createElement(ArticleMarkdown, {markdown:`![Employment chart](${image})`, locale:'en'}));
+  assert.ok(html.includes(`src="${image}"`));
+  assert.ok(html.includes(`srcSet="${asset.bodyVariants[0].src} ${asset.width}w"`));
+  assert.ok(html.includes(`width="${asset.width}" height="${asset.height}"`));
+  assert.match(html, /alt="Employment chart"/);
+  assert.doesNotMatch(html, /<source|object-cover|rel="preload"/);
+});
+
+test('unknown image sources retain normal fallback rendering and alternative text', async () => {
+  const { ArticleMarkdown } = await import('../components/article-markdown.tsx');
+  const html = renderToStaticMarkup(createElement(ArticleMarkdown, {markdown:'![External diagram](https://example.com/diagram.png "Diagram title")', locale:'en'}));
+  assert.match(html, /src="https:\/\/example.com\/diagram.png"/);
+  assert.match(html, /alt="External diagram"/);
+  assert.match(html, /title="Diagram title"/);
+  assert.doesNotMatch(html, /<source|srcSet|object-cover/);
+});
+
+test('responsive sources share sizes and body fallbacks stay original', async () => {
+  const { responsiveImageProps, responsiveAvifSourceProps } = await import('../lib/image-assets.ts');
+  const manifest = JSON.parse(readFileSync(path.join(root, 'content/generated/image-manifest.json'), 'utf8'));
+  const [image, asset] = Object.entries(manifest).find(([image])=>image.endsWith('.jpg'));
+  for (const variant of ['card','feature','thumbnail','article','body']) {
+    const fallback = responsiveImageProps(image, variant);
+    const avif = responsiveAvifSourceProps(image, variant);
+    assert.equal(fallback.sizes, avif.sizes);
+    assert.equal(fallback.width, asset.width);
+    assert.equal(fallback.height, asset.height);
+    assert.equal(avif.type, 'image/avif');
+    if (variant === 'body') assert.equal(fallback.src, image);
+  }
+  assert.deepEqual(responsiveImageProps('/unlisted.svg', 'body'), {src:'/unlisted.svg'});
+  assert.equal(responsiveAvifSourceProps('/unlisted.svg', 'body'), undefined);
+});
+
+test('cover pictures expose one preferred format without preloading the fallback as a second image', async () => {
+  const { ReferenceHome } = await import('../components/reference-home.tsx');
+  const stories = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8'));
+  const html = renderToStaticMarkup(createElement(ReferenceHome, {stories, locale:'zh-CN', prefix:'/zh-CN'}));
+  assert.match(html, /<picture><source type="image\/avif" srcSet="[^\"]+\.avif \d+w/);
+  assert.match(html, /<img[^>]*class="story-cover ref-image /);
+  assert.match(html, /fetchPriority="high"/);
+  assert.doesNotMatch(html, /<link[^>]*rel="preload"[^>]*as="image"/, 'Picture sources should be discovered normally without separately preloading WebP');
+  for (const [,contents] of html.matchAll(/<picture>([\s\S]*?)<\/picture>/g)) {
+    assert.equal((contents.match(/<img\b/g)||[]).length, 1, 'One fallback image per picture');
+    if (contents.includes('<source')) {
+      const sizes = [...contents.matchAll(/sizes="([^\"]+)"/g)].map(match=>match[1]);
+      assert.equal(sizes.length, 2);
+      assert.equal(sizes[0], sizes[1], 'AVIF and fallback must describe the same layout');
+    }
+  }
 });

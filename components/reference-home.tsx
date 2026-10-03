@@ -2,7 +2,7 @@ import { categories, type CategorySlug, type Story } from "@/lib/data";
 import { categoryPool } from "@/lib/categories.mjs";
 import messages from "@/lib/messages.json";
 import { positioning } from "@/lib/site-brand";
-import { responsiveImageProps } from "@/lib/image-assets";
+import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
 
 type LocaleKey = "zh-CN" | "zh-TW" | "en" | "ru" | "fr";
 
@@ -285,7 +285,8 @@ function sortStories(items: Story[]) {
 
 function ImageStory({ story, variant = "card", className = "" }: { story: Story; variant?: "card" | "feature" | "thumbnail"; className?: string }) {
   const props = responsiveImageProps(story.image, variant);
-  return <img {...props} src={props.src} alt={story.imageAlt} loading={variant === "feature" ? "eager" : "lazy"} fetchPriority={variant === "feature" ? "high" : undefined} decoding={variant === "feature" ? "sync" : "async"} className={`story-cover ref-image ${className}`} />;
+  const avif = responsiveAvifSourceProps(story.image, variant);
+  return <picture>{avif ? <source {...avif}/> : null}<img {...props} src={props.src} alt={story.imageAlt} loading={variant === "feature" ? "eager" : "lazy"} fetchPriority={variant === "feature" ? "high" : undefined} decoding={variant === "feature" ? "sync" : "async"} className={`story-cover ref-image ${className}`} /></picture>;
 }
 
 function Meta({ story, category, copy, compact = false }: { story: Story; category: string; copy: HomeCopy; compact?: boolean }) {
