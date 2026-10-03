@@ -36,9 +36,11 @@ test('body images use responsive delivery, reserve dimensions, and keep natural 
   assert.doesNotMatch(body, /object-cover|story-cover/);
 });
 
-test('the critical article cover paints with content while body image decoding stays asynchronous', () => {
+test('the critical article cover retains the measured WebP delivery path while body images stay lazy', () => {
   const cover = readFileSync('app/(site)/post/[slug]/view.tsx', 'utf8');
-  assert.match(cover, /loading="eager" fetchPriority="high" decoding="sync"/);
+  assert.match(cover, /responsiveImageProps\(story.image, "article"\)/);
+  assert.match(cover, /loading="eager" fetchPriority="high" decoding="async"/);
+  assert.doesNotMatch(cover, /responsiveAvifSourceProps|<picture>/);
   const body = readFileSync('components/article-markdown.tsx', 'utf8');
   assert.match(body, /loading="lazy" decoding="async"/);
 });

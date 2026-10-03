@@ -34,7 +34,9 @@ export async function optimizeImages() {
     if (!width || !height) throw new Error(`Missing dimensions: ${image}`);
     const bytes = readFileSync(input);
     const stem = path.basename(image, path.extname(image));
-    const widths = [...new Set([160, 320, 480, 832, 960, 1280, Math.min(width, 1920)].filter(w => w <= width))].sort((a,b)=>a-b);
+    // 704px avoids a large 480 -> 832 jump for common 350–400px mobile
+    // content widths at 1.75–2x density, without reducing visual resolution.
+    const widths = [...new Set([160, 320, 480, 704, 832, 960, 1280, Math.min(width, 1920)].filter(w => w <= width))].sort((a,b)=>a-b);
 
     async function derivatives(format, options, targetWidths, encoder) {
       const hash = createHash("sha256").update(bytes).update(JSON.stringify(encoder)).digest("hex").slice(0, 12);

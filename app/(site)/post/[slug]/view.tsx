@@ -12,7 +12,7 @@ import { ShareBar, StoryCard, StoryMeta } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
 import { categories } from "@/lib/data";
 import { useI18n } from "@/lib/i18n";
-import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
+import { responsiveImageProps } from "@/lib/image-assets";
 import { ClientMarkdown } from "@/components/client-markdown";
 
 export default function PostPage({slugOverride,initialMarkdown,initialLocale,children}: {slugOverride?:string;initialMarkdown?:string;initialLocale?:Locale;children?:ReactNode} = {}) {
@@ -36,7 +36,6 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
     );
   }
 
-  const avif = responsiveAvifSourceProps(story.image, "article");
   const related = articles
     .filter((item) => item.slug !== story.slug && (item.category === story.category || item.tags.some((tag) => story.tags.includes(tag))))
     .sort((a, b) => b.date.localeCompare(a.date))
@@ -62,7 +61,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
             </div>
           </div>
           <div className="mt-8 overflow-hidden border-2 border-foreground bg-muted">
-            <picture>{avif ? <source {...avif}/> : null}<img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="sync" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" /></picture>
+            <img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="async" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" />
           </div>
           <p className="mt-2 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground"><Text value="Image file / 全球伯乐 News reference desk"/></p>
           <div className="mt-7"><ShareBar story={story} /></div>

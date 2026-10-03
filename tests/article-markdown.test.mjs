@@ -140,7 +140,7 @@ test('server and refreshed bodies retain GFM, unique anchors, footnotes, licensi
 });
 
 test('both article route families pass server-rendered Markdown through the client boundary', () => {
-  for (const file of ['app/(site)/[locale]/[[...path]]/page.tsx', 'app/(site)/post/[slug]/page.tsx']) {
+  for (const file of ['app/(site)/[locale]/post/[slug]/page.tsx', 'app/(site)/post/[slug]/page.tsx']) {
     const source = readFileSync(path.join(root, file), 'utf8');
     assert.doesNotMatch(source, /^["']use client["']/);
     assert.match(source, /<ArticleMarkdown markdown=\{initialMarkdown\} locale=/);
