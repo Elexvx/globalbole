@@ -90,7 +90,7 @@ The first live after-run exposed an additional static-export edge: an asynchrono
 
 ### Root entry: progressive enhancement rather than full hydration
 
-The canonical `/` document is a static reading/navigation surface. Its only active widget is the clock; links, the mobile details/summary menu, ticker animation, images, RSS and footer icons are native HTML/CSS. Its exported document now keeps all content, styles, metadata, JSON-LD and image preloads while using a small deferred clock script instead of bootstrapping the entire Next/React runtime. The clock uses cached Intl formatters, the visitor's local timezone, immediate updates and visibility/history restoration. The React clock and RSC route remain available for any client-side navigation to `/`; localized routes retain the full application and its search/language/theme controls.
+The canonical `/` document is a static reading/navigation surface. Its only active widget is the clock; links, the mobile details/summary menu, ticker animation, images, RSS and footer icons are native HTML/CSS. Its exported document now keeps all content, styles, metadata, JSON-LD and image preloads while using a small deferred clock script instead of bootstrapping the entire Next/React runtime. The clock uses cached Intl formatters, the visitor's local timezone, immediate updates and visibility/history restoration. The React clock and RSC route remain available for any client-side navigation to `/`; localized routes retain the full application, its localized navigation, search and theme controls.
 
 This is the same delivery path for every visitor and user agent. It does not hide or omit content to change audit results. The export step checks an exact client-module allowlist and rejects pending streaming content or unknown scripts, so adding a new interactive root feature requires deliberate review instead of silently breaking it. Root HTML fell from approximately 265 KB to 93 KB, with one small application script. Public PageSpeed and browser interaction checks remain required after deployment.
 
@@ -120,3 +120,31 @@ Functional checks on the deployed checkpoint covered the root clock's browser-lo
 Photographs now offer an AVIF source with WebP fallback; existing crop/focal-point CSS stays on the actual image. Original licensed files are unchanged. Per-photo quality checks retain fine texture: AVIF SSIM exceeds the existing WebP at 480, 832, 960 and 1280 pixels. At 832 pixels, Dario falls from 23.3 to 17.9 KB, Hamburg 57.5 to 38.8 KB, petroleum 136.9 to 124.3 KB and EV charging 92.4 to 78.6 KB. These are file-byte comparisons, not PSI scores.
 
 Body photographs use responsive candidates with the original URL retained as the fallback. The employment chart uses a full-resolution, lossless WebP candidate (144.9 to 46.9 KB) verified pixel-identical to the original PNG. No lossy AVIF is applied to charts. Picture sources and fallbacks have identical sizes hints, and tests reject duplicate image preload markup. A final production browser/source-selection check and PSI audit are required after publication of this additional image change.
+
+## Production image-delivery checkpoint: commit 94925be
+
+Native Git deployment `dpl_9o7QhwvreEC7gWqAVN4fdt31cToz` reached READY, its production aliases were assigned, and `build-info.json` returned `94925bec4d418b5285620820cf9a222b5757517b`. Live AVIF responses have `image/avif` content type and content-hashed immutable caching. Browser checks confirm selected AVIF sources, unchanged proportional cover geometry, complete body images, preserved original body fallback URLs, and the full-resolution chart's source notes. There are no duplicate fallback image preload tags.
+
+Official PSI, captured 20:51 UTC with the same Lighthouse/browser versions:
+
+| Route | Mobile P/A/BP/SEO | Desktop P/A/BP/SEO | Mobile LCP | Mobile TBT | Mobile CLS |
+|---|---|---|---:|---:|---:|
+| `/` | 100/100/100/100 | 100/100/100/100 | 1.1 s | 0 ms | 0 |
+| `/zh-CN/all-news/` | 100/100/100/100 | 100/100/100/100 | 1.8 s | 10 ms | 0 |
+| Anthropic article | 97/100/100/100 | 100/100/100/100 | 2.5 s | 40 ms | 0 |
+| `/zh-CN/` | 97/100/100/92 | 100/100/100/92 | 2.5 s | 0 ms | 0 |
+| `/en/` | 100/100/100/100 | 100/100/100/100 | 1.4 s | 50 ms | 0 |
+
+- [Homepage](https://pagespeed.web.dev/analysis/https-www-globalbole-com/c5l0l4y44o?form_factor=mobile)
+- [Archive](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-all-news/gazbm7e3re?form_factor=mobile)
+- [Article](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-post-zh-cn-anthropic-ipo-government-policy-risk-2026-10-03/v7e7yw5opd?form_factor=mobile)
+- [Localized Chinese home](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN/4ifrwcm5pb?form_factor=mobile)
+- [English home](https://pagespeed.web.dev/analysis/https-www-globalbole-com-en/7l8g7je8w9?form_factor=mobile)
+
+All ten observations pass both agentic-browsing checks. There is no CrUX data. One bounded [repeat article run at 20:56 UTC](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-post-zh-cn-anthropic-ipo-government-policy-risk-2026-10-03/z4ngxo5qod?form_factor=mobile) also scored 97, with LCP 2.6 s, TBT 60 ms and CLS 0. The image fetched in 40–60 ms, but the actual element-render-delay breakdown was 1.08–1.11 s. This is a repeatable regression from the preceding 99 result, not a claim of universal improvement. The next narrow diagnostic changes only the critical article cover's decoding hint to synchronous presentation; below-fold body images remain lazy/asynchronous. Its effect must be checked in a new production report.
+
+### Deliberate canonical exception
+
+The `/zh-CN/` SEO score of 92 is caused solely by Lighthouse's root-target canonical heuristic. The canonical `/` and localized homepage have identical editorial main content (173 text chunks and 33 main links). Canonical, sitemap and hreflang agree on one preferred URL rather than competing duplicate self-canonicals. [Chrome's canonical audit documentation](https://developer.chrome.com/docs/lighthouse/seo/canonical) explicitly acknowledges valid root-target cases can fail this check; [its implementation](https://github.com/GoogleChrome/lighthouse/blob/main/core/audits/seo/canonical.js) tests URL shape, not content equivalence. [Google allows equivalent-content consolidation](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls).
+
+The correct response is to preserve valid consolidation and disclose this audit exception, not alter indexing semantics purely to make a score green. Existing localized internal navigation favors `/zh-CN/`; selecting it instead as the preferred search landing page would require a deliberate coordinated canonical/sitemap/hreflang decision, not duplicate self-canonicals. Check Google-selected canonicals in Search Console once access is available.

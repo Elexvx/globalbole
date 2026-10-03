@@ -36,6 +36,13 @@ test('body images use responsive delivery, reserve dimensions, and keep natural 
   assert.doesNotMatch(body, /object-cover|story-cover/);
 });
 
+test('the critical article cover paints with content while body image decoding stays asynchronous', () => {
+  const cover = readFileSync('app/(site)/post/[slug]/view.tsx', 'utf8');
+  assert.match(cover, /loading="eager" fetchPriority="high" decoding="sync"/);
+  const body = readFileSync('components/article-markdown.tsx', 'utf8');
+  assert.match(body, /loading="lazy" decoding="async"/);
+});
+
 
 test('news links do not prefetch every visible article by default', () => {
   const links = readFileSync('components/localized-link.tsx', 'utf8');

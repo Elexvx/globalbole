@@ -62,7 +62,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
             </div>
           </div>
           <div className="mt-8 overflow-hidden border-2 border-foreground bg-muted">
-            <picture>{avif ? <source {...avif}/> : null}<img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="async" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" /></picture>
+            <picture>{avif ? <source {...avif}/> : null}<img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="sync" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" /></picture>
           </div>
           <p className="mt-2 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground"><Text value="Image file / 全球伯乐 News reference desk"/></p>
           <div className="mt-7"><ShareBar story={story} /></div>
