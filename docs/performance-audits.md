@@ -162,3 +162,20 @@ The isolated synchronous-decoding change (`5f5aae6`) did not remove the article'
 Because the decoding hint showed no benefit, it is reverted. The critical article cover returns to its previously measured direct responsive WebP image/preload delivery instead of the AVIF picture path. Body AVIF, lossless charts, and the successful homepage/archive image improvements remain. This is a scoped recovery of the demonstrated article regression; further performance claims require a new report.
 
 The populated [energy category audit](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-category-energy/cyc3rgcy76?form_factor=mobile), captured at 21:07 UTC on `5f5aae6`, scored 95/100/100/100 mobile with LCP 2.9 s, TBT 90 ms and CLS 0. Its image diagnostics identified 832px candidates where roughly 650px was sufficient. A 704px derivative fills the gap between 480 and 832 pixels for common mobile widths and densities, preserving the existing quality and full image rather than lowering fidelity to reach a score. This also benefits archive and article candidates.
+
+## Post-recovery verification: commit a7ec4e3
+
+Vercel Git deployment `dpl_EosyZikht3NxWxtXNDyMzEUWhbb4` reached READY and production `build-info.json` confirmed `a7ec4e34ab3d423d722bc580421a849ab8b38f09`. All 44 tests, build, typecheck and 208-page / 10,108-reference export checks pass. Live navigation was verified from localized home to archive, article, Unicode tag and category; Back/Forward preserved the correct story/tag. Search found MiSpeL and opened its article. Theme selection changed to night mode and restored default; English home/archive rendered their correct empty edition. Article source notes, original body image fallback and the direct WebP cover remain present.
+
+The 21:18 UTC PSI batch records every outcome, including transient failures:
+
+| Route | Mobile P/A/BP/SEO | Desktop P/A/BP/SEO | Mobile LCP | Mobile TBT | Mobile CLS |
+|---|---|---|---:|---:|---:|
+| [Homepage](https://pagespeed.web.dev/analysis/https-www-globalbole-com/9tkge77982?form_factor=mobile) | 100/100/100/100 | 100/100/96/100 | 1.2 s | 0 ms | 0 |
+| [Archive](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-all-news/v5wm5osnc0?form_factor=mobile) | 99/100/100/92 | 100/100/100/100 | 2.3 s | 10 ms | 0 |
+| [Article](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-post-zh-cn-anthropic-ipo-government-policy-risk-2026-10-03/nn1q47g8is?form_factor=mobile) | 100/100/100/100 | 99/100/100/100 | 1.7 s | 0 ms | 0 |
+| [Energy category](https://pagespeed.web.dev/analysis/https-www-globalbole-com-zh-CN-category-energy/imkd7hf1ot?form_factor=mobile) | 98/100/96/100 | 100/100/100/100 | 2.3 s | 70 ms | 0 |
+
+The non-100 Best Practices results identify `net::ERR_TIMED_OUT` on one AVIF image (homepage desktop) and one JavaScript chunk (category mobile). Archive mobile's SEO failure identifies a robots.txt fetch timeout, and its additional agentic check reports a timeout fetching the optional, absent llms.txt. Independent production checks return 200 for robots.txt and the exact JS chunk, and 404 for absent llms.txt. These failures are retained rather than silently replaced. One sequential recovery audit per affected route is appropriate to separate network failure from deterministic page defects; scores must not be selectively presented as a permanent guarantee.
+
+Header inspection also found that the custom static-export hosting configuration did not give versioned Next build assets a long browser cache lifetime. A scoped `/_next/static/:path*` immutable header restores that standard behavior. Chunk filenames and manifest directories are build-versioned; HTML, article JSON, source images, robots.txt and other unversioned resources are deliberately excluded. This improves repeat navigation and visits; it does not claim to eliminate every independent network timeout during a cold PSI run.

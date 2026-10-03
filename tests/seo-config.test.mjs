@@ -46,10 +46,12 @@ test('canonical defaults do not silently change to preview deployment origins', 
 });
 
 
-test('long-lived caching applies only to content-hashed derivatives', () => {
+test('long-lived caching applies only to versioned build assets and content-hashed derivatives', () => {
   const { headers } = JSON.parse(readFileSync('vercel.json', 'utf8'));
   const images = headers.find(rule => rule.source === '/optimized-assets/:path*');
   assert.equal(images.headers.find(header => header.key === 'Cache-Control').value, 'public, max-age=31536000, immutable');
+  const buildAssets = headers.find(rule => rule.source === '/_next/static/:path*');
+  assert.equal(buildAssets.headers.find(header => header.key === 'Cache-Control').value, 'public, max-age=31536000, immutable');
   const fonts = headers.find(rule => rule.source === '/fonts/:path*');
   assert.equal(fonts.headers.find(header => header.key === 'Cache-Control').value, 'public, max-age=604800');
   assert.ok(!headers.some(rule => ['/news-media/:path*', '/:path*'].includes(rule.source)));
