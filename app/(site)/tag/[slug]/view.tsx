@@ -7,14 +7,26 @@ import Link from "@/components/localized-link";
 import { useParams, useSearchParams } from "next/navigation";
 import { Newsletter, SectionHeading, StoryCard } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
+import { decodeTagRouteSegment, tagLabel, tagMatchesSlug } from "@/lib/tag-routes.mjs";
 
 export default function TagPage() {
   const params = useParams<{ slug: string; path?:string[] }>();
+  if (params.path?.[1]) return <TagResults slug={decodeTagRouteSegment(params.path[1])} />;
+  const legacySlug = Array.isArray(params.slug) ? params.slug[0] : params.slug;
+  return <LegacyTagPage legacySlug={legacySlug || ""} />;
+}
+
+// Keep query compatibility isolated so localized static tag pages can prerender.
+function LegacyTagPage({legacySlug}: {legacySlug: string}) {
   const query = useSearchParams();
-  const rawSlug = params.path?.[1] || query.get("tag") || (Array.isArray(params.slug) ? params.slug[0] : params.slug) || "";
-  const label = rawSlug.replace(/-/g, " ");
-  const { articles } = useArticles();
-  const matching = articles.filter((story) => story.tags.some((tag) => tag.toLowerCase() === label.toLowerCase() || tag.toLowerCase().replace(/\s+/g, "-") === rawSlug)).sort((a, b) => b.date.localeCompare(a.date));
+  const queryTag = query.get("tag");
+  return <TagResults slug={queryTag || decodeTagRouteSegment(legacySlug)} />;
+}
+
+function TagResults({slug}: {slug: string}) {
+  const { articles, allArticles } = useArticles();
+  const label = tagLabel(slug, allArticles.flatMap(story => story.tags));
+  const matching = articles.filter((story) => story.tags.some((tag) => tagMatchesSlug(tag, slug))).sort((a, b) => b.date.localeCompare(a.date));
 
   return (
     <main>
@@ -25,7 +37,7 @@ export default function TagPage() {
           <p className="mt-6 font-mono text-[0.625rem] uppercase tracking-[0.12em] text-muted-foreground">{matching.length} <Text value="stories"/> · {label}</p>
         </div>
       </section>
-      <section className="layout-wide px-5 pb-16 lg:px-8">
+      <section data-tag-results={slug} className="layout-wide px-5 pb-16 lg:px-8">
         {matching.length ? (
           <>
             <SectionHeading eyebrow="Filed together" title="Stories in this thread" />

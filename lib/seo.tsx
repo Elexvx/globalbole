@@ -4,17 +4,19 @@ import { locales, type Locale } from "./locales";
 import { siteUrl } from "./site-url";
 import { positioning, brandNames } from "./site-brand";
 import messages from "./messages.json";
+import { decodeTagRouteSegment, tagLabel } from "./tag-routes.mjs";
 
 const absolute = (path: string) => new URL(path, siteUrl + "/").href;
 const translate = (key: string, locale: Locale) => (messages as Record<string, Record<string,string>>)[key]?.[locale] || key;
 export function routeSeo(locale: Locale, path: string[] = []) {
+  if (path[0] === "tag" && path[1]) path = [path[0], decodeTagRouteSegment(path[1]), ...path.slice(2)];
   const siteName = brandNames[locale];
   const article = path[0] === "post" ? stories.find(s => s.slug === path[1]) : undefined;
   const translations = article ? stories.filter(s => s.translationKey === article.translationKey) : [];
   const canonical = article ? `/${article.lang}/post/${article.slug}/` : `/${locale}/${path.length ? path.join("/") + "/" : ""}`;
   const labels: Record<string,string> = {"all-news":"All news",issues:"Issues",issue:"Issues",about:"About 全球伯乐 News",authors:"Authors",contact:"Contact",privacy:"Privacy"};
   const category = categories.find(c => c.slug === path[1]);
-  const section = path[0] === "category" ? translate(category?.label || path[1],locale) : path[0] === "tag" ? path[1] : translate(labels[path[0]] || "",locale);
+  const section = path[0] === "category" ? translate(category?.label || path[1],locale) : path[0] === "tag" ? tagLabel(path[1], stories.flatMap(story => story.tags)) : translate(labels[path[0]] || "",locale);
   const title = article?.title || (path.length ? `${section}${path[1] && path[0] !== "category" && path[0] !== "tag" ? ` · ${path[1]}` : ""}` : positioning[locale]);
   const description = article?.dek || `${siteName} · ${positioning[locale]}${section ? `。${section}` : ""}`;
   const languages = Object.fromEntries(article ? translations.map(s=>[s.lang,absolute(`/${s.lang}/post/${s.slug}/`)]) : locales.map(l=>[l,absolute(`/${l}/${path.length ? path.join("/")+"/" : ""}`)]));

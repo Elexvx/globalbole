@@ -4,11 +4,13 @@ import { useParams, useRouter } from "next/navigation";
 import { locales, localeNames } from "@/lib/locales";
 import { useI18n } from "@/lib/i18n";
 import { useArticleData } from "@/lib/articles";
+import { decodeTagRouteSegment } from "@/lib/tag-routes.mjs";
 export function LanguageSelect() {
   const {allArticles:stories}=useArticleData();
   const {locale,t}=useI18n(); const params=useParams(); const router=useRouter();
   const change=(next:string)=>{
     const segments=Array.isArray(params.path)?[...params.path]:[];
+    if(segments[0]==="tag" && segments[1]) segments[1]=decodeTagRouteSegment(segments[1]);
     if(segments[0]==="post") {
       const current=stories.find(story=>story.slug===segments[1]);
       const translated=current?.translationKey && stories.find(story=>story.translationKey===current.translationKey && story.lang===next);
