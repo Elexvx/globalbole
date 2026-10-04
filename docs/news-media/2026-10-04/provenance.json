@@ -1,0 +1,173 @@
+{
+  "issue": "2026-10-04",
+  "checkedAt": "2026-10-04",
+  "assets": [
+    {
+      "filename": "ai-data-centre-capex.png",
+      "localPath": "/news-media/2026-10-04/ai-data-centre-capex.png",
+      "article": "ai-infrastructure-revenue-gap-2026-10-04",
+      "width": 1980,
+      "height": 1275,
+      "byteSize": 144903,
+      "sha256": "08104a4b3d9af50eec7b908d29b92d7a581b1660dbae9ce482692a641f5cb92c",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "caption": "*图：2026、2030及2050年全球数据中心年度资本开支，中性情景预测。数据：PwC（2026年9月2日发布）；建模：Oxford Economics；制图：全球伯乐 News。*[^2]",
+      "kind": "original_data_chart",
+      "creator": "全球伯乐 News",
+      "license": "Original site chart; reported numerical facts, no source artwork copied",
+      "vectorAlternative": "/news-media/2026-10-04/ai-data-centre-capex.svg",
+      "sourceURL": "https://www.pwc.com/gx/en/1/services/consulting/technology/data-centre-outlook.html",
+      "sourceReleaseDate": "2026-09-02",
+      "sourceAuthority": "PwC / Oxford Economics",
+      "data": {
+        "source": "PwC / Oxford Economics",
+        "release_date": "2026-09-02",
+        "metric": "Global data-centre annual capital expenditure, central scenario",
+        "unit": "USD trillions; real US dollars at 2025 exchange rates",
+        "values": [
+          {
+            "year": 2026,
+            "value": 0.8
+          },
+          {
+            "year": 2030,
+            "value": 1.1
+          },
+          {
+            "year": 2050,
+            "value": 1.8
+          }
+        ],
+        "rights": "Original chart using reported numerical facts; no source chart artwork copied",
+        "caption": "数据期：2026、2030及2050年，中性情景预测。来源：PwC《Global Data Centre Outlook 2026–50》，2026年9月2日发布，建模：Oxford Economics；制图：全球伯乐 News。"
+      },
+      "rebuildScript": "docs/news-media/2026-10-04/render-ai-capex-chart.py"
+    },
+    {
+      "filename": "india-green-energy-corridor-investment.png",
+      "localPath": "/news-media/2026-10-04/india-green-energy-corridor-investment.png",
+      "article": "india-green-energy-corridor-storage-2026-10-04",
+      "width": 1980,
+      "height": 1275,
+      "byteSize": 147018,
+      "sha256": "f77b9a889f44d62372ed83e2b2ac0f76746d14247d8c381311fb63783c6914cc",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "caption": "*图：2026年9月30日批准的印度绿色能源走廊三期投资分项与规划规模。数据：印度总理府；制图：全球伯乐 News。*[^1]",
+      "kind": "original_data_chart",
+      "creator": "全球伯乐 News",
+      "license": "Original site chart; reported numerical facts, no source artwork copied",
+      "vectorAlternative": "/news-media/2026-10-04/india-green-energy-corridor-investment.svg",
+      "sourceURL": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-green-energy-corridor-phase-iii-scheme-for-development-of-intra-state-transmission-system-with-battery-energy-storage-systems/",
+      "sourceReleaseDate": "2026-09-30",
+      "sourceAuthority": "Prime Minister of India",
+      "data": {
+        "unit": "crore INR (1 crore = 10 million INR)",
+        "intraStateTransmission": 136378,
+        "batteryStorage": 50000,
+        "renewableEvacuationGW": 135,
+        "batteryEnergyGWh": 50,
+        "type": "planned investment and capacity, not commissioned assets",
+        "officialTotalCrore": 186405,
+        "componentSumCrore": 186378,
+        "unexplainedDifferenceCrore": 27
+      },
+      "rebuildScript": "docs/news-media/2026-10-04/render-india-investment-chart.py"
+    },
+    {
+      "filename": "korean-peninsula-2014.jpg",
+      "localPath": "/news-media/2026-10-04/korean-peninsula-2014.jpg",
+      "article": "north-korea-missile-drill-2026-10-04",
+      "width": 1440,
+      "height": 960,
+      "byteSize": 620591,
+      "sha256": "2d68cd0947aa9049547bf3e264ed195953f8af381bb56474467476cf4338fc34",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "caption": "*图：2014年1月30日，国际空间站拍摄的朝鲜半岛夜景，资料照片。图片及授权：NASA Goddard Space Flight Center；[《South Korea》](https://commons.wikimedia.org/wiki/File:South_Korea_(14214097408).jpg)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*",
+      "kind": "archival_documentary_photo",
+      "creator": "NASA Goddard Space Flight Center",
+      "licensor": "NASA Goddard Space Flight Center",
+      "date": "2014-01-30",
+      "location": "Korean Peninsula, photographed from the International Space Station",
+      "title": "South Korea (14214097408)",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:South_Korea_(14214097408).jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/w/index.php?title=File:South_Korea_(14214097408).jpg&oldid=928307535",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/South_Korea_%2814214097408%29.jpg",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0); file page also identifies the NASA-created work as public domain in the United States",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsNote": "Commons file page explicitly provides CC BY 2.0 and records a successful Flickr license review on 2016-09-17; it also carries a NASA public-domain declaration.",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and other non-visual metadata",
+        "pixelsIdenticalToLicensedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "28d31abe7237d537d00d1366e5e243162d82834621014c385b7582210307f9d5"
+      },
+      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record."
+    },
+    {
+      "filename": "moscow-refinery-2012-1280.jpg",
+      "localPath": "/news-media/2026-10-04/moscow-refinery-2012-1280.jpg",
+      "article": "ukraine-russian-refineries-infrastructure-2026-10-04",
+      "width": 1280,
+      "height": 853,
+      "byteSize": 288692,
+      "sha256": "504b9bc2480e44ab332d8f7910360b474a60e5b0046279fa0a682948d729032a",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "caption": "*图：2012年4月26日，莫斯科炼油厂，资料照片。摄影及授权：Retired electrician；[《Moscow Oil Refinery, 2012 03》](https://commons.wikimedia.org/wiki/File:Moscow_Oil_Refinery,_2012_03.jpg)，[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。*",
+      "kind": "archival_documentary_photo",
+      "creator": "Retired electrician",
+      "licensor": "Retired electrician",
+      "date": "2012-04-26",
+      "location": "Moscow Oil Refinery, Kapotnya, Moscow, Russia",
+      "title": "Moscow Oil Refinery, 2012 03",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Moscow_Oil_Refinery,_2012_03.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/w/index.php?title=File:Moscow_Oil_Refinery,_2012_03.jpg&oldid=1130919713",
+      "downloadURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Moscow_Oil_Refinery%2C_2012_03.jpg/1280px-Moscow_Oil_Refinery%2C_2012_03.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsNote": "The creator uploaded the photo as own work and expressly dedicated it under CC0 1.0 on the file page. Older embedded EXIF mentions CC BY 3.0, while the current page explicitly supplies CC0; attribution is retained anyway.",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and other non-visual metadata",
+        "pixelsIdenticalToLicensedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "ef9e109c5927bc67adc7477e3bc7c4e21a1474ddb86c41210120369974c7a5e4"
+      },
+      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record."
+    },
+    {
+      "filename": "whitehouse-ai-luncheon-20260929.jpg",
+      "localPath": "/news-media/2026-10-04/whitehouse-ai-luncheon-20260929.jpg",
+      "article": "us-ai-voluntary-safety-accord-2026-10-04",
+      "width": 1200,
+      "height": 800,
+      "byteSize": 171653,
+      "sha256": "add29587db7d8458da7e1dc3e9f45a0ed7d6f189e972a894337c76757045be4f",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "caption": "*图：2026年9月29日，美国华盛顿白宫东厅，特朗普主持人工智能主题午宴。摄影：Daniel Torok／白宫；[官方图片及授权](https://www.flickr.com/photos/whitehouse/55560393477/)，[美国政府作品](https://www.usa.gov/government-copyright)。*[^3]",
+      "kind": "documentary_photo",
+      "creator": "Daniel Torok",
+      "licensor": "The White House",
+      "date": "2026-09-29",
+      "location": "East Room, White House, Washington, D.C., United States",
+      "title": "President Donald J. Trump hosts a luncheon on Super Intelligence, September 29, 2026",
+      "sourceURL": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
+      "downloadURL": "https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929DT-1520.jpg?w=1200",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/whitehouse/55560393477/",
+      "corroboratingRightsURL": "https://commons.wikimedia.org/wiki/File:P20260929DT-1520_(55560393477).jpg",
+      "license": "United States government work / public domain in the United States",
+      "licenseURL": "https://www.usa.gov/government-copyright",
+      "rightsNote": "Commons original-file metadata also contains personal-use-only boilerplate. Current first-party Flickr visible license and JSON-LD identify United States government work; this discrepancy is retained as asset provenance rather than ignored.",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and other non-visual metadata",
+        "pixelsIdenticalToLicensedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "a05f758767201dd64481801500f053246cd5c3d12266a3ccab6f0e7355566058"
+      },
+      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record."
+    }
+  ]
+}

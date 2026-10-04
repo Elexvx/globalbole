@@ -77,6 +77,191 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-04-zh-CN",
+      "publicationDate": "2026-10-04",
+      "language": "zh-CN",
+      "articles": [
+        {
+          "translationKey": "ai-infrastructure-revenue-gap-2026-10-04",
+          "path": "content/issues/2026-10-04/zh-CN/ai-infrastructure-revenue-gap-2026-10-04.md",
+          "eventDate": "2026-10-03 (analysis); 2026-09-02/2026-09-29/2026-08-12 (underlying research)",
+          "sourceDate": "2026-10-03",
+          "sources": [
+            {
+              "title": "Analysis: AI's race to transform the world before the money runs out",
+              "url": "https://www.channelnewsasia.com/business/analysisais-race-transform-world-money-runs-out-6428746",
+              "date": "2026-10-03",
+              "type": "original_reporting"
+            },
+            {
+              "title": "Where $31.6 trillion of capex flows in the era-defining AI build-out",
+              "url": "https://www.pwc.com/gx/en/1/services/consulting/technology/data-centre-outlook.html",
+              "date": "2026-09-02",
+              "type": "primary"
+            },
+            {
+              "title": "Global AI market could hit $6 trillion annually by 2031 through unlocking value and innovation – Bain & Co's 7th Global Technology Report",
+              "url": "https://www.prnewswire.com/news-releases/global-ai-market-could-hit-6-trillion-annually-by-2031-through-unlocking-value-and-innovation--bain--cos-7th-global-technology-report-302891178.html",
+              "date": "2026-09-29",
+              "type": "primary"
+            },
+            {
+              "title": "No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%",
+              "url": "https://digitaleconomy.stanford.edu/news/canariesaug26/",
+              "date": "2026-08-12",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "india-green-energy-corridor-storage-2026-10-04",
+          "path": "content/issues/2026-10-04/zh-CN/india-green-energy-corridor-storage-2026-10-04.md",
+          "eventDate": "2026-09-30",
+          "sourceDate": "2026-09-30",
+          "sources": [
+            {
+              "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
+              "url": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2316948&lang=1&reg=48",
+              "date": "2026年9月30",
+              "type": "primary"
+            },
+            {
+              "title": "India’s electricity demand grows at night: Managing rising cooling demand",
+              "url": "https://www.iea.org/commentaries/india-s-electricity-demand-grows-at-night-managing-rising-cooling-demand",
+              "date": "2026年6月3",
+              "type": "primary"
+            },
+            {
+              "title": "Electricity 2026",
+              "url": "https://www.iea.org/reports/electricity-2026/demand",
+              "date": "2026年2月6",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "north-korea-missile-drill-2026-10-04",
+          "path": "content/issues/2026-10-04/zh-CN/north-korea-missile-drill-2026-10-04.md",
+          "eventDate": "2026-10-03",
+          "sourceDate": "2026-10-04",
+          "sources": [
+            {
+              "title": "North Korea says it conducted intermediate-range strategic missile drill",
+              "url": "https://www.gmanetwork.com/news/topstories/world/1004670/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill/story/",
+              "date": "2026年10月4",
+              "type": "original_reporting"
+            },
+            {
+              "title": "(2nd LD) N. Korea fires ballistic missile amid tensions over DMZ mine blast",
+              "url": "https://en.yna.co.kr/view/AEN20261003000551315",
+              "date": "2026年10月3",
+              "type": "original_reporting"
+            },
+            {
+              "title": "Japan-U.S.-ROK Foreign Ministries’ Official Telephone Meeting on North Korea",
+              "url": "https://www.mofa.go.jp/press/release/pressite_000001_02703.html",
+              "date": "2026年10月3",
+              "type": "primary"
+            },
+            {
+              "title": "Exploring Options for Missile Verification",
+              "url": "https://unidir.org/files/2022-03/UNIDIR_Exloring_Options_Missile_Verification.pdf",
+              "date": "2022-03",
+              "type": "primary"
+            },
+            {
+              "title": "Hypersonic Weapons: A Challenge and Opportunity for Strategic Arms Control",
+              "url": "https://unidir.org/publication/hypersonic-weapons-a-challenge-and-opportunity-for-strategic-arms-control/",
+              "date": "2019年2月14",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "ukraine-russian-refineries-infrastructure-2026-10-04",
+          "path": "content/issues/2026-10-04/zh-CN/ukraine-russian-refineries-infrastructure-2026-10-04.md",
+          "eventDate": "2026-10-03",
+          "sourceDate": "2026-10-03",
+          "sources": [
+            {
+              "title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says",
+              "url": "https://www.marketscreener.com/news/ukraine-will-hit-russian-refineries-in-response-to-moscow-s-new-doctrine-of-airstrikes-ce785ddbdd80f727",
+              "date": "2026年10月3",
+              "type": "original_reporting"
+            },
+            {
+              "title": "Russia strikes second Kyiv bridge during 3rd straight day of infrastructure attacks",
+              "url": "https://kyivindependent.com/russia-strikes-key-kyiv-bridge-for-3rd-straight-day-as-attacks-intensify/",
+              "date": "2026年10月3",
+              "type": "original_reporting"
+            },
+            {
+              "title": "СБУ спільно із іншими складовими Сил оборони уразила важливі нафтоб’єкти рф: НПЗ, нафтоперекачувальні та нафтозмішувальні станції",
+              "url": "https://ssu.gov.ua/novyny/sbu-spilno-iz-inshymy-skladovymy-syl-oborony-urazyla-vazhlyvi-naftobiekty-rf-npz-naftoperekachuvalni-ta-naftozmishuvalni-stantsii",
+              "date": "2026年10月2",
+              "type": "primary"
+            },
+            {
+              "title": "When the lights go out: the protection of energy infrastructure in armed conflict",
+              "url": "https://blogs.icrc.org/law-and-policy/2023/04/20/protection-energy-infrastructure-armed-conflict/",
+              "date": "2023年4月20",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-ai-voluntary-safety-accord-2026-10-04",
+          "path": "content/issues/2026-10-04/zh-CN/us-ai-voluntary-safety-accord-2026-10-04.md",
+          "eventDate": "2026-09-29",
+          "sourceDate": "2026-10-03",
+          "sources": [
+            {
+              "title": "White House Accord on Super Intelligence",
+              "url": "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence",
+              "date": "2026-09-29",
+              "type": "primary"
+            },
+            {
+              "title": "签署文件扫描件",
+              "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/accord.pdf",
+              "date": "2026-09-29",
+              "type": "primary"
+            },
+            {
+              "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
+              "url": "https://www.aol.com/articles/public-fears-ai-grow-trump-100531000.html",
+              "date": "2026-10-03",
+              "type": "original_reporting"
+            },
+            {
+              "title": "President Donald J. Trump hosts a luncheon on Super Intelligence, September 29, 2026",
+              "url": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
+              "date": "2026-09-29",
+              "type": "primary"
+            },
+            {
+              "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+              "url": "https://www.streetinsider.com/Reuters/Three%2Bout%2Bof%2Bfour%2BAmericans%2Bsay%2BAI%2Bfirms%2Bnot%2Bdoing%2Benough%2Bto%2Bprevent%2Bdisaster%2C%2BReutersIpsos%2Bpoll%2Bfinds/27087010.html",
+              "date": "2026-09-22",
+              "type": "original_reporting"
+            },
+            {
+              "title": "Inaugurating the Era of Super Intelligence",
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+              "date": "2026-09-29",
+              "type": "primary"
+            },
+            {
+              "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+              "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+              "date": "2023-01-26",
+              "type": "primary"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

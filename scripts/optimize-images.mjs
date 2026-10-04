@@ -12,6 +12,7 @@ const photoAvifQuality = {
   "dario-amodei-techcrunch-2023": 55,
   "hamburg-container-terminal-2019": 55,
   "ev-charging-2020": 60,
+  "korean-peninsula-2014": 60,
 };
 const localRaster = /^\/(?:reference-assets|news-media)\/.+\.(?:webp|jpe?g|png)$/i;
 
