@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs';
 import assert from 'node:assert/strict';
+import { translatedTagSlug } from '../lib/language-routes.mjs';
 import { articleLanguages } from '../lib/article-contract.mjs';
 import { tagLabel, tagMatchesSlug } from '../lib/tag-routes.mjs';
 
@@ -29,7 +30,7 @@ export function checkTagExport(articles) {
     const canonical = head.match(/<link rel="canonical" href="([^"]+)"/)[1];
     assert.equal(new URL(canonical).pathname, `/${lang}/tag/${encodeURIComponent(slug)}/`, `${route}: exactly one URL encoding`);
     for (const alternative of articleLanguages) {
-      const hasArticles = articles.some(article => article.lang === alternative && article.tags.some(tag => tagMatchesSlug(tag, slug)));
+      const hasArticles = Boolean(translatedTagSlug({slug,locale:lang,next:alternative,stories:articles}));
       const hasAlternate = head.toLowerCase().includes(`hreflang="${alternative.toLowerCase()}"`);
       assert.equal(hasAlternate, expected.length > 0 && hasArticles, `${route}: only populated language alternatives`);
     }

@@ -20,7 +20,7 @@ export function buildContent() {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(data.date) || !Number.isFinite(Date.parse(data.date))) fail("invalid date");
     if (typeof data.cover !== "string" || typeof data.coverAlt !== "string" || Boolean(data.cover.trim()) !== Boolean(data.coverAlt.trim())) fail("cover and coverAlt must be nonempty strings together, or both empty for a text-only article");
     if (data.cover && (!data.cover.startsWith("/") || data.cover.includes("..") || !existsSync(path.resolve("public",data.cover.slice(1))))) fail("cover file is missing from public/");
-    if (!Array.isArray(data.tags) || !data.tags.length || data.tags.some(tag=>typeof tag!=="string" || !/^[\p{L}\p{N} -]+$/u.test(tag))) fail("tags must contain letters, numbers, spaces or hyphens");
+    if (!Array.isArray(data.tags) || !data.tags.length || data.tags.some(tag=>typeof tag!=="string" || !/^[\p{L}\p{N} ’'-]+$/u.test(tag))) fail("tags must contain letters, numbers, spaces, apostrophes or hyphens");
     if(!content.trim()) fail("article body is empty");
     if(data.draft !== undefined && typeof data.draft !== "boolean") fail("draft must be true or false");
     if(data.draft) return [];

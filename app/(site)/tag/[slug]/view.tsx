@@ -33,8 +33,8 @@ function TagResults({slug}: {slug: string}) {
       <section className="layout-wide px-5 pb-12 pt-10 lg:px-8 lg:pb-16 lg:pt-14">
         <div className="border-b-[0.1875rem] border-border-strong pb-7">
           <p className="kicker"><Text value="Tag archive"/></p>
-          <h1 className="headline mt-3 text-[clamp(3rem,8vw,7rem)] font-black leading-[0.88] tracking-[-0.08em]">{label}</h1>
-          <p className="mt-6 font-mono text-[0.625rem] uppercase tracking-[0.12em] text-muted-foreground">{matching.length} <Text value="stories"/> · {label}</p>
+          <h1 className="headline mt-3 font-black ">{label}</h1>
+          <p className="mt-6 font-mono type-caption uppercase tracking-[0.12em] text-muted-foreground">{matching.length} <Text value="stories"/> · {label}</p>
         </div>
       </section>
       <section data-tag-results={slug} className="layout-wide px-5 pb-16 lg:px-8">

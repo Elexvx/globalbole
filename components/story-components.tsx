@@ -32,7 +32,7 @@ export function SectionHeading({
     <div className={"flex flex-wrap items-end justify-between gap-5 pb-4 " + (divider ? "newspaper-rule border-b " : "") + (inverse ? "border-background/30" : "border-border")}>
       <div>
         {eyebrow ? <p className={"kicker " + (inverse ? "text-background/60" : "")}>{<Text value={eyebrow}/>}</p> : null}
-        <h2 className={"headline mt-2 text-[clamp(1.8rem,3.5vw,3.3rem)] font-black leading-none tracking-[-0.055em] " + (inverse ? "text-background" : "")}>{<Text value={title}/>}</h2>
+        <h2 className={"headline mt-2 font-black " + (inverse ? "text-background" : "")}>{<Text value={title}/>}</h2>
       </div>
       {description ? <p className={"max-w-md text-sm leading-6 " + (inverse ? "text-background/70" : "text-muted-foreground")}>{<Text value={description}/>}</p> : null}
       {href ? (
@@ -45,7 +45,7 @@ export function SectionHeading({
 
 export function StoryMeta({ story, compact = false }: { story: Story; compact?: boolean }) {
   return (
-    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground">
+    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 font-mono type-caption uppercase tracking-[0.1em] text-muted-foreground">
       <span className="text-accent">{story.categoryLabel}</span>
       <span>/</span>
       <span>{story.displayDate}</span>
@@ -77,8 +77,8 @@ export function StoryCard({
         <div className="flex gap-3">
           <span className="mt-1.5 size-1.5 shrink-0 bg-accent" />
           <div className="min-w-0">
-            <Heading className="headline text-lg font-extrabold leading-[1.05] tracking-[-0.035em]">{story.title}</Heading>
-            <div className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground">
+            <Heading className="headline font-extrabold leading-[1.05] tracking-[-0.035em]">{story.title}</Heading>
+            <div className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5 font-mono type-caption uppercase tracking-[0.1em] text-muted-foreground">
               <span>{story.displayDate}</span>
               <span>/</span>
               <span className="text-accent">{story.categoryLabel}</span>
@@ -99,9 +99,9 @@ export function StoryCard({
         </div> : null}
         <div className={story.image ? "mt-6" : "border-t-2 border-foreground pt-5"}>
           <StoryMeta story={story} />
-          <Heading className="headline mt-3 text-[clamp(2rem,4.6vw,4rem)] font-black leading-[0.96] tracking-[-0.065em]">{story.title}</Heading>
+          <Heading className="headline mt-3 font-black leading-[0.96] tracking-[-0.065em]">{story.title}</Heading>
           <p className="dek mt-4 max-w-2xl text-base leading-7">{story.dek}</p>
-          <p className="mt-5 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground">
+          <p className="mt-5 font-mono type-caption uppercase tracking-[0.1em] text-muted-foreground">
             <span className="font-sans font-bold text-foreground"><Text value="By"/> {story.author}</span> / {story.displayDate} / {story.readTime} <Text value="min"/>
           </p>
         </div>
@@ -118,7 +118,7 @@ export function StoryCard({
       </div> : null}
       <div className={story.image ? "mt-4" : "border-t border-border pt-4"}>
         <StoryMeta story={story} compact />
-        <Heading className={"headline mt-3 font-extrabold " + (variant === "rail" ? "text-xl" : "text-[1.45rem]")}>{story.title}</Heading>
+        <Heading className="headline mt-3 font-extrabold">{story.title}</Heading>
         <p className="dek mt-3 line-clamp-3 text-sm">{story.dek}</p>
       </div>
     </Link>
@@ -131,7 +131,7 @@ export function Newsletter({ compact = false }: { compact?: boolean }) {
       <div className="layout-wide px-5 py-8 text-accent-foreground sm:flex sm:items-center sm:justify-between sm:gap-8 lg:px-8">
         <div>
           <p className="kicker text-accent-foreground"><Text value="The Daily Whip"/></p>
-          <h2 className="headline mt-2 text-3xl font-black leading-none tracking-[-0.055em]"><Text value="The sharpest read in your feed."/></h2>
+          <h2 className="headline mt-2 font-black "><Text value="The sharpest read in your feed."/></h2>
           <p className="mt-3 max-w-xl text-sm leading-6 text-accent-foreground"><Text value="Reporting across technology, finance, work, current affairs and energy."/></p>
         </div>
         <div className="mt-6 sm:mt-0"><Link href="/rss.xml" className="inline-flex rounded-full bg-accent-foreground px-5 py-3 text-xs font-bold uppercase tracking-[0.1em] text-accent"><Text value="Subscribe via RSS →"/></Link><p className="mt-3 text-xs"><Text value="Free RSS feed · No email collection"/></p></div>
@@ -173,10 +173,10 @@ export function ShareBar({ story }: { story: Story }) {
   return (
     <div className="flex flex-wrap items-center gap-2 border-y border-border py-4">
       <span className="kicker mr-2"><Text value="Share"/></span>
-      <button type="button" onClick={() => window.open("https://x.com/intent/post?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent(story.title), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 text-[0.625rem] font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">X</button>
-      <button type="button" onClick={() => window.open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 text-[0.625rem] font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">Facebook</button>
-      <button type="button" onClick={() => window.open("https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 text-[0.625rem] font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">LinkedIn</button>
-      <button type="button" onClick={copyLink} className="inline-flex items-center gap-1.5 rounded-full border border-border px-3 py-2 text-[0.625rem] font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">
+      <button type="button" onClick={() => window.open("https://x.com/intent/post?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent(story.title), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">X</button>
+      <button type="button" onClick={() => window.open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">Facebook</button>
+      <button type="button" onClick={() => window.open("https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">LinkedIn</button>
+      <button type="button" onClick={copyLink} className="inline-flex items-center gap-1.5 rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">
         {copied ? <Check size="0.75rem" /> : <Link2 size="0.75rem" />}
         <Text value={copied ? "Link copied" : "Copy link"}/>
       </button>

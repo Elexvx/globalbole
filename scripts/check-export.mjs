@@ -4,6 +4,7 @@ import assert from "node:assert/strict";
 import { languages } from "./content.mjs";
 import { checkCategoryExport } from "./check-category-export.mjs";
 import { checkTagExport } from "./check-tag-export.mjs";
+const escapeHtml=value=>value.replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;", "'":"&#x27;"}[char]));
 const articles=JSON.parse(readFileSync("content/generated/articles.json","utf8"));
 const files=readdirSync("out",{recursive:true}).filter(file=>file.endsWith(".html"));
 const missing=new Set();let checks=0;
@@ -27,7 +28,7 @@ for(const lang of languages){
   const archive = readFileSync(`out/${lang}/all-news/index.html`, "utf8");
   assert.match(archive, /<h1\b[^>]*>/, "Archive heading must be prerendered without JavaScript");
   for (const article of articles.filter(item=>item.lang===lang).slice(0,12)) {
-    assert.ok(archive.includes(article.title), "Archive card titles must be prerendered");
+    assert.ok(archive.includes(escapeHtml(article.title)), "Archive card titles must be prerendered");
   }
   for(const article of articles.filter(a=>a.lang===lang)){
     const html=readFileSync(`out/${lang}/post/${article.slug}/index.html`,"utf8");

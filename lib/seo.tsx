@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { stories, categories, type Story } from "./data";
 import { locales, isLocale, type Locale } from "./locales";
+import { translatedTagSlug } from "./language-routes.mjs";
 import { siteUrl } from "./site-url";
 import { positioning, brandNames, siteName as publisherName } from "./site-brand";
 import messages from "./messages.json";
@@ -32,7 +33,7 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   const contentLocale = article ? articleLocale(article) : locale;
   const canonicalPath = article ? localizedCanonicalPath(contentLocale, ["post", article.slug]) : localizedCanonicalPath(locale, path);
   const canonical = absolute(canonicalPath);
-  const labels: Record<string, string> = { "all-news": "All news", issues: "Issues", issue: "Issues", about: "About 全球伯乐 News", authors: "Authors", contact: "Contact", privacy: "Privacy" };
+  const labels: Record<string, string> = { "all-news": "All News", issues: "Issues", issue: "Issues", about: "About 全球伯乐 News", authors: "Authors", contact: "Contact", privacy: "Privacy" };
   const category = categories.find(item => item.slug === path[1]);
   const section = path[0] === "category" ? translate(category?.label || path[1], locale)
     : path[0] === "tag" ? tagLabel(path[1], stories.flatMap(story => story.tags))
@@ -45,12 +46,12 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   let alternateLocales: readonly Locale[] = locales;
   // Only advertise a matching content collection where that content exists.
   // Keep the translated homepage/category interfaces available and indexable.
-  if (path[0] === "tag") alternateLocales = locales.filter(lang => stories.some(story => story.lang === lang && story.tags.some(tag => tagMatchesSlug(tag, path[1]))));
+  if (path[0] === "tag") alternateLocales = locales.filter(lang => Boolean(translatedTagSlug({slug:path[1],locale,next:lang,stories})));
   if (path[0] === "issue") alternateLocales = locales.filter(lang => stories.some(story => story.lang === lang && story.issue === path[1]));
   if (path[0] === "all-news" && path[1]) alternateLocales = locales.filter(lang => Math.ceil(stories.filter(story => story.lang === lang).length / 12) >= Number(path[1]));
   const languages: Record<string, string> = Object.fromEntries(article
     ? stories.filter(story => story.translationKey === article.translationKey).map(story => [articleLocale(story), absolute(localizedCanonicalPath(articleLocale(story), ["post", story.slug]))])
-    : alternateLocales.map(lang => [lang, absolute(localizedCanonicalPath(lang, path))]));
+    : alternateLocales.map(lang => [lang, absolute(localizedCanonicalPath(lang, path[0]==="tag" ? ["tag",translatedTagSlug({slug:path[1],locale,next:lang,stories})!] : path))]));
   // An empty collection must not claim to be the translation of a populated one.
   const pageHasAlternate = Boolean(languages[contentLocale]);
   // Choose one fallback for the whole cluster, including when no Chinese translation exists.

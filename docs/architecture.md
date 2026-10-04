@@ -10,9 +10,9 @@ scripts/dev.mjs 在启动 Next 之前生成索引，并监听 Markdown 文件变
 
 React Markdown + remark-gfm 在构建和浏览器阅读视图中渲染正文，不启用原始 HTML。所有内容是只读文本，无数据库、表单、用户账号或运行时 API。
 
-app/[locale]/[[...path]] 预生成五语言首页、分类、文章、标签、期刊目录和辅助页面。I18nProvider 从 URL 取语言；lib/messages.json 存储界面词典。LanguageSelect 根据 translationKey 查找对应译文，没有则展示原文提示。
+app/(site)/[locale] 中的显式首页、档案、文章路由与 [...path] 预生成五语言首页、分类、文章、标签、期刊目录和辅助页面。I18nProvider 从 URL 取语言；lib/messages.json 存储界面词典。LanguageSelect 根据 translationKey 查找对应译文；原生菜单链接在水合前也可使用。发布测试要求当前新闻具有五种完整译文。
 
-LocalizedLink 为站内链接添加语言前缀。每种语言只在首页、列表和搜索中展示自己的文章。主题偏好可存浏览器，其余内容不依赖 localStorage。
+LocalizedLink 为站内链接添加语言前缀。每种语言只在首页、列表和搜索中展示自己的文章。浏览器可保存主题和语言偏好；显式语言网址决定页面内容，存储不可用时也可直接访问全部内容。
 
 ## 静态导出
 

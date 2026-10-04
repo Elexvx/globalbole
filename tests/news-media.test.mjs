@@ -20,7 +20,7 @@ test('published news has documented covers reused in body and labels generated e
       if(asset.kind==='ai_generated_editorial_illustration') {
         assert.equal(asset.generationTool,'OpenAI image_gen');
         assert.ok(asset.prompt && asset.rightsBasis);
-        assert.match(article.markdown,/AI生成示意(?:图|圖)|AI.generated illustration|illustration générée par (?:l['’])?IA|(?:иллюстрация.{0,40}ИИ|ИИ.{0,40}иллюстрация)/iu,'Generated illustrations must be visibly identified');
+        assert.match(article.markdown,/AI生成(?:概念)?示意(?:图|圖)|AI.generated (?:conceptual |editorial )?illustration|(?:illustration|image)(?: conceptuelle)? générée par (?:l['’])?IA|(?:иллюстрация.{0,40}ИИ|ИИ.{0,40}иллюстрация)/iu,'Generated illustrations must be visibly identified');
       } else {
         assert.ok(asset.sourceURL && asset.rightsEvidenceURL && asset.license);
         assert.ok(article.markdown.includes(asset.licenseURL || asset.rightsEvidenceURL),'Visible source license must be retained');

@@ -6,7 +6,7 @@ import { createArticleResponse } from '../lib/article-contract.mjs';
 import { buildContent } from '../scripts/content.mjs';
 
 test('tag route decoding accepts Unicode and one encoded segment without decoding twice', () => {
-  for (const tag of ['储能', '儲能', '人工智能', 'Anthropic', 'New York', 'AI-powered', 'Énergie', 'Работа']) {
+  for (const tag of ['储能', '儲能', '人工智能', 'Anthropic', 'New York', 'AI-powered', 'Énergie', 'Travail de l’IA', "L'emploi", 'Работа']) {
     const slug = tag.replace(/\s+/g, '-');
     assert.equal(decodeTagRouteSegment(slug), slug);
     assert.equal(decodeTagRouteSegment(encodeURIComponent(slug)), slug);

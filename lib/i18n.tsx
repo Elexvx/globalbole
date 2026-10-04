@@ -7,7 +7,12 @@ const Context = createContext<Locale>("zh-CN");
 export function I18nProvider({children}:{children:React.ReactNode}) {
   const params = useParams();
   const locale = isLocale(params?.locale) ? params.locale : "zh-CN";
-  useEffect(()=>{document.documentElement.lang=locale;document.documentElement.dataset.locale=locale;},[locale]);
+  useEffect(()=>{
+    document.documentElement.lang=locale;
+    document.documentElement.dataset.locale=locale;
+    // Explicit locale URLs take priority over a previous preference.
+    if(isLocale(params?.locale)) { try { localStorage.setItem("globalbole-locale",locale); } catch {} }
+  },[locale,params?.locale]);
   return <Context.Provider value={locale}>{children}</Context.Provider>;
 }
 export function useI18n() {

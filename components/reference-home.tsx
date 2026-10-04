@@ -319,7 +319,7 @@ function takeRemaining(ordered: Story[], used: Set<string>, count: number, categ
 export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories: Story[]; locale: string; prefix?: string }) {
   const language = localeKey(locale);
   const text = copy[language];
-  const ordered = sortStories(stories);
+  const ordered = sortStories(stories.filter(story=>(story.lang || "en")===language));
   const hero = ordered[0];
   if (!hero) return <main className="reference-home">
     <h1 className="sr-only">{text.brandName} — {text.latestStories}</h1>

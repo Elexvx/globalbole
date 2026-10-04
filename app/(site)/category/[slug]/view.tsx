@@ -19,7 +19,7 @@ export default function CategoryPage() {
     return (
       <main className="layout-wide px-5 py-24 lg:px-8">
         <p className="kicker"><Text value="404 / Desk not found"/></p>
-        <h1 className="headline mt-3 text-5xl font-black tracking-[-0.06em]"><Text value="That section is off the record."/></h1>
+        <h1 className="headline mt-3 font-black "><Text value="That section is off the record."/></h1>
         <Link href="/all-news/" className="mt-8 inline-flex text-sm font-bold underline decoration-accent underline-offset-4"><Text value="Browse all news →"/></Link>
       </main>
     );
@@ -35,9 +35,9 @@ export default function CategoryPage() {
       <section className="layout-wide px-5 pb-12 pt-10 lg:px-8 lg:pb-16 lg:pt-14">
         <div className="border-b-[0.1875rem] border-border-strong pb-7">
           <p className="kicker"><Text value="Section"/> / {<Text value={category.label}/>}</p>
-          <h1 className="headline mt-3 text-[clamp(3rem,8vw,7rem)] font-black leading-[0.88] tracking-[-0.08em]">{<Text value={category.label}/>}</h1>
+          <h1 className="headline mt-3 font-black ">{<Text value={category.label}/>}</h1>
           <p className="dek mt-5 max-w-2xl text-lg leading-8"><Text value={category.description}/></p>
-          <p className="mt-6 font-mono text-[0.625rem] uppercase tracking-[0.12em] text-muted-foreground">{categoryStories.length} <Text value="stories"/> / <Text value={category.label}/></p>
+          <p className="mt-6 font-mono type-caption uppercase tracking-[0.12em] text-muted-foreground">{categoryStories.length} <Text value="stories"/> / <Text value={category.label}/></p>
         </div>
       </section>
       <div data-category-results={category.slug}>

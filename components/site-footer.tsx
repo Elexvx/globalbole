@@ -1,20 +1,22 @@
-import { Text } from "@/lib/i18n";
+"use client";
+import { Text, useI18n } from "@/lib/i18n";
 import { Globe2, Mail, Rss } from "lucide-react";
 import Link from "@/components/localized-link";
 import { categories } from "@/lib/data";
 
 export function SiteFooter() {
+  const {t}=useI18n();
   return (
     <footer className="site-footer mt-24 border-t-4 border-accent bg-foreground text-background">
       <div className="site-footer-main layout-wide grid gap-12 px-5 py-14 md:grid-cols-[1.5fr_1fr_1fr_1fr] lg:px-8">
         <div>
-          <Link href="/" className="font-display text-3xl font-black tracking-normal">
+          <Link href="/" className="font-display site-brand-title font-black tracking-normal">
             <Text value="全球伯乐"/> <span className="brand-accent-inverse">News</span>
           </Link>
           <p className="mt-4 max-w-xs text-sm leading-7 text-background/70"><Text value="Reporting across technology, finance, work, current affairs and energy."/></p>
           <div className="site-footer-social mt-7 flex gap-2">
-            <Link href="/about/" aria-label="About" className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Globe2 size="1rem" /></Link>
-            <Link href="/contact/" aria-label="Contact" className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Mail size="1rem" /></Link>
+            <Link href="/about/" aria-label={t("About")} className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Globe2 size="1rem" /></Link>
+            <Link href="/contact/" aria-label={t("Contact")} className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Mail size="1rem" /></Link>
             <Link href="/rss.xml" aria-label="RSS" className="inline-flex size-10 items-center justify-center border border-background/30 text-background/80"><Rss size="1rem" /></Link>
           </div>
         </div>
@@ -44,7 +46,7 @@ export function SiteFooter() {
           </div>
         </div>
       </div>
-      <div className="site-footer-bottom border-t border-background/20"><div className="layout-wide flex flex-wrap justify-between gap-3 px-5 py-4 lg:px-8"><p className="font-mono text-[0.625rem] uppercase tracking-[0.12em] text-background/50"><Text value="Copyright 2026 全球伯乐 News."/></p><p className="font-mono text-[0.625rem] uppercase tracking-[0.12em] text-background/50">Filed from the global tech desk</p></div></div>
+      <div className="site-footer-bottom border-t border-background/20"><div className="layout-wide flex flex-wrap justify-between gap-3 px-5 py-4 lg:px-8"><p className="font-mono type-caption uppercase tracking-[0.12em] text-background/50"><Text value="Copyright 2026 全球伯乐 News."/></p><p className="font-mono type-caption uppercase tracking-[0.12em] text-background/50"><Text value="Filed from the global tech desk"/></p></div></div>
     </footer>
   );
 }

@@ -1,4 +1,5 @@
 "use client";
+import { LanguageSelect } from "@/components/language-select";
 import { HeaderClock } from "@/components/header-clock";
 
 import { Text, useI18n } from "@/lib/i18n";
@@ -124,7 +125,7 @@ function SearchResults({
             <span className="kicker block">{story.categoryLabel}</span>
             <span className="story-link mt-1 block text-lg font-bold leading-tight">{story.title}</span>
           </span>
-          <span className="shrink-0 pt-1 font-mono text-[0.625rem] uppercase tracking-[0.12em] text-muted-foreground">
+          <span className="shrink-0 pt-1 font-mono type-caption uppercase tracking-[0.12em] text-muted-foreground">
             {story.displayDate}
           </span>
         </Link>
@@ -211,13 +212,13 @@ function MobileMenu() {
         </button>
       </Dialog.Trigger>
       <Dialog.Portal>
-        <Dialog.Overlay className="fixed inset-0 z-50 bg-foreground/20 backdrop-blur-sm" />
-        <Dialog.Content aria-describedby={undefined} className="mobile-menu-panel fixed inset-0 z-50 overflow-y-auto bg-background text-foreground outline-none">
+        <Dialog.Overlay className="fixed inset-0 z-[70] bg-foreground/20 backdrop-blur-sm" />
+        <Dialog.Content aria-describedby={undefined} className="mobile-menu-panel fixed inset-0 z-[70] overflow-y-auto bg-background text-foreground outline-none">
           <Dialog.Title className="sr-only"><Text value="全球伯乐 News navigation"/></Dialog.Title>
           <div className="leader-bar" />
           <div className="mx-auto flex min-h-full max-w-7xl flex-col px-5 pb-8 pt-5">
             <div className="flex items-center justify-between border-b border-border pb-5">
-              <Link href="/" onClick={() => setOpen(false)} className="font-display text-2xl font-black tracking-normal">
+              <Link href="/" onClick={() => setOpen(false)} className="font-display site-brand-title font-black tracking-normal">
                 <Text value="全球伯乐"/> <span className="brand-accent">News</span>
               </Link>
               <Dialog.Close asChild>
@@ -290,7 +291,7 @@ export function SiteHeader() {
             <div className="wire-ticker-loop flex min-w-max items-center gap-10 whitespace-nowrap">
               {[...tickerStories, ...tickerStories].map((story, index) => (
                 <Link key={story.slug + "-" + index} href={storyHref(story)} className="text-xs font-semibold text-muted-foreground transition hover:text-foreground">
-                  <span className="mr-2 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-accent">{story.categoryLabel}</span>
+                  <span className="mr-2 font-mono type-caption uppercase tracking-[0.1em] text-accent">{story.categoryLabel}</span>
                   {story.title}
                 </Link>
               ))}
@@ -301,7 +302,7 @@ export function SiteHeader() {
       <div className="layout-wide px-5 lg:px-8">
         <div className="site-brand-row flex items-center justify-between gap-4 py-5 lg:py-7">
           <Link href="/" className="min-w-0">
-            <span className="block font-display text-[clamp(1.5rem,4.3vw,4rem)] font-black leading-none tracking-normal">
+            <span className="block font-display site-brand-title font-black leading-none tracking-normal">
               <Text value="全球伯乐"/> <span className="brand-accent">News</span>
             </span>
             <span className="mt-2 hidden max-w-3xl text-xs uppercase tracking-[0.12em] text-muted-foreground sm:block"><Text value="Reporting across technology, finance, work, current affairs and energy."/></span>
@@ -313,6 +314,7 @@ export function SiteHeader() {
             <Link href="/rss.xml" className="header-action-link">RSS</Link>
             <Link href="/rss.xml" className="header-action-link"><Text value="Subscribe"/></Link>
           </div>
+          <LanguageSelect />
           <MobileMenu />
         </div>
       </div>
@@ -328,7 +330,7 @@ export function SiteHeader() {
           <div className="flex shrink-0 items-center gap-3">
             <ThemeSelect dark />
             <DesktopSearch />
-            <Link href="/all-news/" className="inline-flex h-11 items-center px-2 text-[0.6875rem] font-bold uppercase tracking-[0.14em] text-background transition hover:text-accent"><Text value="All News"/></Link>
+            <Link href="/all-news/" className="inline-flex h-11 items-center px-2 type-caption font-bold uppercase tracking-[0.14em] text-background transition hover:text-accent"><Text value="All News"/></Link>
           </div>
         </div>
       </div>

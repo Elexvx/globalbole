@@ -215,11 +215,19 @@ test('cover pictures expose one preferred format without preloading the fallback
 });
 
 
-test('text-only home cards keep titles and links without empty images or media frames', async () => {
+test('text-only home cards keep each edition’s titles and links without empty image frames', async () => {
   const { ReferenceHome } = await import('../components/reference-home.tsx');
-  const stories = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8')).map(story=>({...story,image:'',imageAlt:''}));
-  const html = renderToStaticMarkup(createElement(ReferenceHome,{stories,locale:'zh-CN',prefix:'/zh-CN'}));
-  assert.doesNotMatch(html, /<img|<picture|class="ref-(?:hero|card|archive|pick|scan|tech-feature)-image/);
-  assert.match(html, /ref-story-text-only/);
-  for (const story of stories) assert.ok(html.includes(story.title));
+  const all = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8')).map(story=>({...story,image:'',imageAlt:''}));
+  for(const locale of ['zh-CN','zh-TW','en','ru','fr']) {
+    const stories=all.filter(story=>story.lang===locale);
+    const html=renderToStaticMarkup(createElement(ReferenceHome,{stories:all,locale,prefix:`/${locale}`}));
+    assert.doesNotMatch(html, /<img|<picture|class="ref-(?:hero|card|archive|pick|scan|tech-feature)-image/);
+    assert.match(html, /ref-story-text-only/);
+    for(const story of stories) {
+      const title=renderToStaticMarkup(createElement('span',null,story.title)).slice(6,-7);
+      assert.ok(html.includes(title));
+      assert.ok(html.includes(`/${locale}/post/${story.slug}/`));
+    }
+    for(const story of all.filter(story=>story.lang!==locale)) assert.ok(!html.includes(`/post/${story.slug}/`),'Home must not leak another edition');
+  }
 });

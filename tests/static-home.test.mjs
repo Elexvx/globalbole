@@ -8,7 +8,7 @@ const html = '<html><head><meta name="msvalidate.01" content="proof"><link rel="
 test('static entry preserves all content, schema, native controls and image preload while dropping only unused hydration',()=>{
   const result = staticHomeHtml(html);
   assert.ok(result.includes('<main><h1>News</h1><img src="/cover.webp" alt="Photo"></main>'));
-  for(const value of ['<details>','application/ld+json','msvalidate.01','as="image"','<style>.keep','data-live-clock','/site-clock.js']) assert.ok(result.includes(value));
+  for(const value of ['<details>','application/ld+json','msvalidate.01','as="image"','<style>.keep','data-live-clock','/site-clock.js','/site-preferences.js']) assert.ok(result.includes(value));
   assert.ok(!result.includes('/_next/'));
   assert.ok(!result.includes('__next_f'));
   assert.equal(staticHomeHtml(result),result);

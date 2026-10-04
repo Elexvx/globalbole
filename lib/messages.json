@@ -686,11 +686,11 @@
     "fr": "Traduction indisponible. Le texte original est affiché."
   },
   "Sample edition": {
-    "zh-CN": "示例刊期",
-    "zh-TW": "範例刊期",
-    "en": "Sample edition",
-    "ru": "Демонстрационный выпуск",
-    "fr": "Édition de démonstration"
+    "zh-CN": "新闻刊期",
+    "zh-TW": "新聞刊期",
+    "en": "News edition",
+    "ru": "Новостной выпуск",
+    "fr": "Édition d’actualité"
   },
   "Stories in this thread": {
     "zh-CN": "相关主题文章",
@@ -894,5 +894,26 @@
     "en": "Reporting across technology, finance, work, current affairs and energy.",
     "ru": "Технологии, экономика, работа и городская жизнь, главные новости, энергетика и промышленность.",
     "fr": "Technologie, économie, emploi et vie urbaine, actualités, énergie et industrie."
+  },
+  "Copyright 2026 全球伯乐 News.": {
+    "zh-CN": "© 2026 全球伯乐 News",
+    "zh-TW": "© 2026 全球伯樂 News",
+    "en": "© 2026 Global Bole News",
+    "ru": "© 2026 Global Bole News",
+    "fr": "© 2026 Global Bole News"
+  },
+  "Filed from the global tech desk": {
+    "zh-CN": "全球视野，关注重要变化",
+    "zh-TW": "全球視野，關注重要變化",
+    "en": "A global perspective on what matters",
+    "ru": "Глобальный взгляд на важные события",
+    "fr": "Un regard mondial sur l’essentiel"
+  },
+  "Filed together": {
+    "zh-CN": "相关报道",
+    "zh-TW": "相關報導",
+    "en": "Filed together",
+    "ru": "Связанные материалы",
+    "fr": "Articles associés"
   }
 }

@@ -16,6 +16,10 @@
   --font-sans: var(--site-font-sans);
   --font-serif: var(--site-font-serif);
   --font-mono: var(--site-font-mono);
+  --text-xs: var(--type-caption);
+  --text-sm: var(--type-ui);
+  --text-base: var(--type-summary);
+  --text-lg: var(--type-body);
 }
 
 @font-face {
@@ -60,6 +64,17 @@
   --site-font-serif: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
   --site-font-mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
   --space-section: clamp(3rem, 5vw, 5rem);
+  /* One role = one size, independent of page, feature prominence or language. */
+  --type-brand: 2rem;
+  --type-h1: 2rem;
+  --type-h2: 1.5rem;
+  --type-h3: 1.25rem;
+  --type-body: 1.125rem;
+  --type-summary: 1rem;
+  --type-ui: .875rem;
+  --type-caption: .8125rem;
+  --type-heading-leading: 1.4;
+  --type-body-leading: 1.85;
 }
 
 :root[data-theme="civic-paper"] {
@@ -140,9 +155,8 @@
 
 html {
   scroll-behavior: smooth;
-  /* Keep the source site's compact editorial scale while allowing large canvases
-     to breathe instead of trapping every desktop view in a narrow column. */
-  font-size: max(100%, calc(100vw / 90));
+  /* Respect the browser text-size preference; wide screens must not enlarge type. */
+  font-size: 100%;
 }
 
 body {
@@ -179,9 +193,7 @@ img {
 
 .layout-wide {
   width: 100%;
-  /* Reference baseline: max-width: 84rem. The fluid cap below keeps that
-     editorial proportion while allowing 4K/8K canvases to use their width. */
-  max-width: min(120rem, 100%);
+  max-width: min(96rem, 100%);
   margin-inline: auto;
 }
 
@@ -203,7 +215,7 @@ img {
   background: transparent;
   color: var(--site-foreground);
   font-family: inherit;
-  font-size: .875rem;
+  font-size: var(--type-ui);
   font-weight: 600;
   line-height: 1.5;
   text-decoration: none;
@@ -220,12 +232,9 @@ img {
 
 .headline {
   font-family: var(--site-font-display);
-  letter-spacing: -0.015em;
-  line-height: 1.25;
 }
 
 .story-link .headline {
-  line-height: 1.4;
 }
 
 .dek {
@@ -237,7 +246,7 @@ img {
 .kicker {
   color: var(--site-accent);
   font-family: var(--site-font-sans);
-  font-size: 0.65rem;
+  font-size: var(--type-caption);
   font-weight: 800;
   letter-spacing: 0.18em;
   line-height: 1.5;
@@ -249,7 +258,7 @@ img {
 }
 
 .theme-select-nav {
-  font-size: .875rem;
+  font-size: var(--type-ui);
   font-weight: 600;
   letter-spacing: .04em;
   line-height: 1.5;
@@ -259,7 +268,7 @@ img {
 .desktop-edition-nav a,
 .desktop-edition-nav button {
   font-family: inherit;
-  font-size: .6875rem;
+  font-size: var(--type-ui);
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: .14em;
@@ -267,7 +276,7 @@ img {
 }
 .desktop-edition-nav nav a { display: inline-flex; align-items: center; }
 .home-lead .image-frame { aspect-ratio: 16 / 9; }
-.home-lead h3 { font-size: clamp(1.75rem, 2.7vw, 2.75rem); line-height: 1.4; }
+.home-lead h3 { }
 
 .story-link {
   text-decoration: none;
@@ -326,7 +335,7 @@ img {
   align-items: center;
   min-height: 2.75rem;
   color: inherit;
-  font-size: .6875rem;
+  font-size: var(--type-ui);
   font-weight: 800;
   letter-spacing: .12em;
   text-transform: uppercase;
@@ -370,9 +379,7 @@ img {
 .ref-heading-small {
   font-family: var(--site-font-display);
   color: var(--site-foreground);
-  font-size: 1rem;
   font-weight: 900;
-  line-height: 1.1;
 }
 
 .ref-rule {
@@ -384,7 +391,7 @@ img {
 .ref-kicker {
   margin: 0;
   color: var(--site-accent);
-  font-size: .625rem;
+  font-size: var(--type-caption);
   font-weight: 800;
   letter-spacing: .18em;
   line-height: 1.5;
@@ -399,7 +406,7 @@ img {
   margin: 1rem 0 0;
   color: var(--site-muted-foreground);
   font-family: var(--site-font-mono);
-  font-size: .625rem;
+  font-size: var(--type-caption);
   line-height: 1.45;
   text-transform: uppercase;
   letter-spacing: .1em;
@@ -437,7 +444,7 @@ img {
   display: block;
   color: var(--site-foreground);
   font-family: var(--site-font-display);
-  font-size: 1.05rem;
+  font-size: var(--type-summary);
   font-weight: 800;
   line-height: 1.15;
   letter-spacing: -.02em;
@@ -461,7 +468,7 @@ img {
 
 .ref-compact-body .ref-meta {
   margin-top: .45rem;
-  font-size: .5625rem;
+  font-size: var(--type-caption);
 }
 
 .ref-hero-story {
@@ -499,13 +506,10 @@ a:hover .ref-image {
   font-family: var(--site-font-display);
   color: var(--site-foreground);
   font-weight: 900;
-  letter-spacing: -.035em;
 }
 
 .ref-hero-title {
   margin: .85rem 0 0;
-  font-size: clamp(2.5rem, 5vw, 4rem);
-  line-height: .98;
 }
 
 .ref-hero-dek,
@@ -514,7 +518,7 @@ a:hover .ref-image {
   margin: 1rem 0 0;
   color: var(--site-muted-foreground);
   font-family: var(--site-font-serif);
-  font-size: 1rem;
+  font-size: var(--type-summary);
   line-height: 1.7;
 }
 
@@ -525,7 +529,7 @@ a:hover .ref-image {
   margin: 1.25rem 0 0;
   color: var(--site-muted-foreground);
   font-family: var(--site-font-mono);
-  font-size: .625rem;
+  font-size: var(--type-caption);
   letter-spacing: .08em;
   text-transform: uppercase;
 }
@@ -567,7 +571,7 @@ a:hover .ref-image {
   margin-top: .35rem;
   color: var(--site-foreground);
   font-family: var(--site-font-display);
-  font-size: 1rem;
+  font-size: var(--type-summary);
   font-weight: 800;
   line-height: 1.2;
 }
@@ -575,7 +579,7 @@ a:hover .ref-image {
 .ref-pick-body .ref-meta,
 .ref-scan-story .ref-meta {
   margin-top: 0;
-  font-size: .5625rem;
+  font-size: var(--type-caption);
 }
 
 .ref-pick-time,
@@ -586,7 +590,7 @@ a:hover .ref-image {
   margin-top: .4rem;
   color: var(--site-muted-foreground);
   font-family: var(--site-font-mono);
-  font-size: .5625rem;
+  font-size: var(--type-caption);
   letter-spacing: .08em;
   text-transform: uppercase;
 }
@@ -620,23 +624,20 @@ a:hover .ref-image {
   margin: .5rem 0 0;
   color: var(--site-foreground);
   font-family: var(--site-font-display);
-  font-size: 1.2rem;
   font-weight: 800;
-  line-height: 1.17;
-  letter-spacing: -.02em;
   transition: color .15s ease;
 }
 
 .ref-card-story .ref-meta {
   margin-top: .75rem;
-  font-size: .5625rem;
+  font-size: var(--type-caption);
 }
 
 .ref-card-dek {
   margin: .7rem 0 0;
   color: var(--site-muted-foreground);
   font-family: var(--site-font-serif);
-  font-size: .88rem;
+  font-size: var(--type-summary);
   line-height: 1.6;
 }
 
@@ -659,7 +660,7 @@ a:hover .ref-image {
   margin-top: 1rem;
   color: var(--site-muted-foreground);
   font-family: var(--site-font-serif);
-  font-size: 1.05rem;
+  font-size: var(--type-summary);
   line-height: 1.7;
 }
 
@@ -674,14 +675,12 @@ a:hover .ref-image {
 
 .ref-section-title {
   margin: .35rem 0 0;
-  font-size: clamp(2rem, 3.2vw, 3rem);
-  line-height: .98;
 }
 
 .ref-see-all {
   flex: 0 0 auto;
   color: var(--site-foreground);
-  font-size: .625rem;
+  font-size: var(--type-caption);
   font-weight: 800;
   letter-spacing: .1em;
   text-transform: uppercase;
@@ -725,7 +724,7 @@ a:hover .ref-image {
   margin-top: .35rem;
   color: var(--site-foreground);
   font-family: var(--site-font-display);
-  font-size: 1.05rem;
+  font-size: var(--type-summary);
   font-weight: 800;
   line-height: 1.2;
   transition: color .15s ease;
@@ -733,7 +732,7 @@ a:hover .ref-image {
 
 .ref-rank-story .ref-meta {
   margin: 0;
-  font-size: .5625rem;
+  font-size: var(--type-caption);
 }
 
 .ref-business-grid {
@@ -760,8 +759,6 @@ a:hover .ref-image {
 
 .ref-feature-title {
   margin: .7rem 0 0;
-  font-size: clamp(2.25rem, 4vw, 3.6rem);
-  line-height: 1.02;
   transition: color .15s ease;
 }
 
@@ -786,7 +783,6 @@ a:hover .ref-image {
 
 .ref-beats-title {
   margin-top: .45rem;
-  font-size: clamp(2rem, 3.3vw, 3rem);
 }
 
 .ref-beats-description {
@@ -819,7 +815,7 @@ a:hover .ref-image {
   display: block;
   color: var(--site-foreground);
   font-family: var(--site-font-display);
-  font-size: 1rem;
+  font-size: var(--type-summary);
   font-weight: 800;
   line-height: 1.2;
   transition: color .15s ease;
@@ -870,15 +866,13 @@ a:hover .ref-image {
   max-width: 38rem;
   margin: .7rem 0 0;
   color: var(--site-accent-foreground);
-  font-size: clamp(2rem, 3.5vw, 3.2rem);
-  line-height: 1.03;
 }
 
 .ref-newsletter-action p {
   margin: 0;
   color: var(--site-accent-foreground);
   font-family: var(--site-font-serif);
-  font-size: 1rem;
+  font-size: var(--type-summary);
   line-height: 1.6;
 }
 
@@ -891,7 +885,7 @@ a:hover .ref-image {
   padding: .75rem 1.4rem;
   background: var(--site-accent-foreground);
   color: var(--site-accent);
-  font-size: .6875rem;
+  font-size: var(--type-ui);
   font-weight: 900;
   letter-spacing: .13em;
   text-transform: uppercase;
@@ -907,7 +901,7 @@ a:hover .ref-image {
   display: block;
   margin-top: .75rem;
   color: var(--site-accent-foreground);
-  font-size: .6875rem;
+  font-size: var(--type-ui);
 }
 
 .ref-archive {
@@ -932,14 +926,13 @@ a:hover .ref-image {
 }
 
 .ref-archive-title {
-  font-size: 1.1rem;
 }
 
 .ref-archive-time {
   margin: .65rem 0 0;
   color: var(--site-muted-foreground);
   font-family: var(--site-font-mono);
-  font-size: .5625rem;
+  font-size: var(--type-caption);
   letter-spacing: .08em;
   text-transform: uppercase;
 }
@@ -1036,12 +1029,10 @@ a:hover .ref-image {
   }
 
   .ref-section-title {
-    font-size: 2.15rem;
   }
 
   .ref-hero-title,
   .ref-feature-title {
-    font-size: 2.35rem;
   }
 
   .ref-pick-story {
@@ -1053,7 +1044,6 @@ a:hover .ref-image {
   }
 
   .ref-card-title {
-    font-size: 1.05rem;
   }
 
   .ref-newsletter-inner {
@@ -1090,14 +1080,12 @@ a:hover .ref-image {
   }
 }
 /* Native-script typography and Markdown reading surfaces. */
-html[lang^="zh"] .headline { letter-spacing: .015em; line-height: 1.45; }
 html[lang^="zh"] .dek { letter-spacing: .02em; }
 html[lang^="zh"] { font-family: "PingFang SC", "PingFang TC", "Microsoft YaHei", sans-serif; }
-html[lang="ru"] .headline, html[lang="fr"] .headline { overflow-wrap: anywhere; letter-spacing: -.01em; }
-.markdown-body { font-size: 1.125rem; line-height: 1.95; overflow-wrap: anywhere; }
+.markdown-body { font-size: var(--type-body); line-height: 1.95; overflow-wrap: anywhere; }
 html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
-.markdown-body h2 { margin: 2.5rem 0 1.25rem; font-size: 1.65rem; font-weight: 800; line-height: 1.5; }
-.markdown-body h3 { margin: 1.5rem 0 .75rem; font-size: 1.25rem; font-weight: 700; }
+.markdown-body h2 { margin: 2.5rem 0 1.25rem; font-weight: 800; }
+.markdown-body h3 { margin: 1.5rem 0 .75rem; font-weight: 700; }
 .markdown-body p, .markdown-body ul, .markdown-body ol { margin-bottom: 1.5rem; }
 .markdown-body li + li { margin-top: .4rem; }
 .markdown-body ul { list-style: disc; padding-left: 1.5rem; }
@@ -1112,9 +1100,9 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 .markdown-body th, .markdown-body td { min-width: 8rem; }
 .mobile-menu-panel { padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); }
 @media (max-width: 639px) {
-  .markdown-body { font-size: 1.0625rem; line-height: 1.95; }
-  .markdown-body h2 { font-size: 1.4rem; }
-  .markdown-body pre { font-size: .875rem; }
+  .markdown-body { font-size: var(--type-body); line-height: 1.95; }
+  .markdown-body h2 { }
+  .markdown-body pre { font-size: var(--type-ui); }
   button[role="combobox"], [role="option"] { min-height: 44px; }
 }
 
@@ -1131,11 +1119,11 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   margin-top: 3rem;
   padding-top: 1.25rem;
   border-top: 1px solid var(--site-border);
-  font-size: .9375rem;
+  font-size: var(--type-caption);
   line-height: 1.85;
   color: var(--site-muted-foreground);
 }
-.markdown-body .footnotes h2 { margin-top: 0; font-size: 1.125rem; }
+.markdown-body .footnotes h2 { margin-top: 0; }
 .markdown-body .footnotes li p { margin-bottom: .75rem; }
 .markdown-body [data-footnote-ref] { font-size: .75em; }
 
@@ -1152,3 +1140,79 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 .ref-scan-story.ref-story-text-only {
   grid-template-columns: minmax(0, 1fr);
 }
+
+
+/* Editorial type system. These semantic selectors intentionally take precedence
+   over legacy feature/card classes: headings never change size by page or locale. */
+:root main h1 { font-size: var(--type-h1); }
+:root main h2 { font-size: var(--type-h2); }
+:root main h3 { font-size: var(--type-h3); }
+:root main :is(h1, h2, h3) {
+  font-family: var(--site-font-display);
+  font-weight: 800;
+  line-height: var(--type-heading-leading);
+  letter-spacing: 0;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+:root main .sr-only { font-size: inherit; }
+.type-body, .markdown-body {
+  font-size: var(--type-body);
+  line-height: var(--type-body-leading);
+}
+.ref-hero-dek, .ref-feature-dek, .ref-beats-description, .ref-card-dek,
+.ref-empty-description, .dek:not(.type-body) {
+  font-size: var(--type-summary);
+  line-height: 1.75;
+}
+.ref-compact-body strong, .ref-pick-body strong, .ref-scan-story strong,
+.ref-rank-story strong, .ref-beat-story strong {
+  font-size: var(--type-summary);
+  line-height: 1.6;
+  letter-spacing: 0;
+  overflow-wrap: anywhere;
+}
+.ref-meta, .ref-compact-body .ref-meta, .ref-pick-body .ref-meta,
+.ref-scan-story .ref-meta, .ref-card-story .ref-meta, .ref-rank-story .ref-meta,
+.ref-byline, .ref-pick-time, .ref-scan-story small, .ref-rank-story small,
+.ref-beat-story small, .ref-archive-time, .kicker, .ref-kicker,
+.ref-see-all, .ref-newsletter-action small {
+  font-size: var(--type-caption);
+  line-height: 1.6;
+  letter-spacing: .035em;
+}
+.markdown-body .footnotes { font-size: var(--type-caption); }
+.markdown-body p:has(> em:only-child) { font-size: var(--type-caption); }
+.site-brand-title { font-size: var(--type-brand); line-height: 1.25; }
+.header-actions { flex-shrink: 0; }
+.language-menu { position: relative; flex-shrink: 0; }
+.language-menu > summary {
+  display: inline-flex; align-items: center; gap: .4rem; min-height: 2.75rem;
+  padding: .5rem .65rem; border: 1px solid var(--site-border);
+  font-size: var(--type-ui); font-weight: 600; line-height: 1.4;
+  cursor: pointer; list-style: none; white-space: nowrap;
+}
+.language-menu > summary::-webkit-details-marker { display: none; }
+.language-menu > summary::after { content: "⌄"; }
+.language-menu[open] > summary { border-color: var(--site-accent); }
+.language-menu nav {
+  position: absolute; top: calc(100% + .35rem); right: 0; z-index: 60;
+  min-width: 10rem; padding: .35rem; background: var(--site-card);
+  border: 1px solid var(--site-border); box-shadow: 0 .5rem 1.25rem #0002;
+}
+.language-menu nav a {
+  display: flex; align-items: center; min-height: 2.75rem; padding: .5rem .7rem;
+  font-size: var(--type-ui); color: var(--site-foreground); text-decoration: none;
+}
+.language-menu nav a:hover, .language-menu nav a[aria-current="true"] { background: var(--site-muted); }
+.language-menu a:focus-visible, .language-menu summary:focus-visible { outline: 2px solid var(--site-accent); outline-offset: 2px; }
+@media (max-width: 639px) {
+  :root { --type-brand: 1.5rem; --type-h1: 1.75rem; --type-h2: 1.375rem; --type-h3: 1.125rem; --type-body: 1.0625rem; }
+  .site-brand-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .65rem; }
+  .site-brand-row > a { grid-column: 1 / -1; }
+  .site-brand-row > .language-menu { justify-self: start; }
+  .language-menu nav { left: 0; right: auto; }
+  .site-brand-row > button, .site-brand-row > details:not(.language-menu) { justify-self: end; }
+}
+
+.type-caption { font-size: var(--type-caption); line-height: 1.6; }

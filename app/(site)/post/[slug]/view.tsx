@@ -30,7 +30,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
     return (
       <main className="layout-wide px-5 py-24 lg:px-8">
         <p className="kicker"><Text value="404 / Story not found"/></p>
-        <h1 className="headline mt-3 text-5xl font-black tracking-[-0.06em]"><Text value="This story is not in the filing cabinet."/></h1>
+        <h1 className="headline mt-3 font-black "><Text value="This story is not in the filing cabinet."/></h1>
         <Link href="/all-news/" className="mt-8 inline-flex text-sm font-bold underline decoration-accent underline-offset-4"><Text value="Browse all news →"/></Link>
       </main>
     );
@@ -49,14 +49,14 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
           <Link href={"/category/" + story.category + "/"} className="kicker inline-flex items-center gap-2 underline decoration-accent underline-offset-4">
             {t(story.categoryLabel)} / {story.displayDate} / {story.readTime} {t("min read")}
           </Link>
-          <h1 className="headline mt-5 max-w-5xl text-[clamp(2rem,7.4vw,7rem)] font-black">{story.title}</h1>
-          <p className="dek mt-6 max-w-3xl text-xl leading-8 sm:text-2xl">{story.dek}</p>
+          <h1 className="headline mt-5 max-w-5xl font-black">{story.title}</h1>
+          <p className="dek mt-6 max-w-3xl type-body">{story.dek}</p>
           <div className="mt-8 grid gap-8 border-y border-border py-5 sm:grid-cols-[1fr_auto] sm:items-center">
             <div className="flex items-center gap-3">
               <div className="flex size-11 items-center justify-center rounded-full bg-foreground text-sm font-black text-background">{story.author.split(" ").map((word) => word[0]).join("")}</div>
               <div>
                 <p className="text-sm font-bold uppercase tracking-[0.08em]"><Text value="By"/> {story.author}</p>
-                <p className="mt-1 font-mono text-[0.625rem] uppercase tracking-[0.12em] text-muted-foreground">{story.authorRole}</p>
+                <p className="mt-1 font-mono type-caption uppercase tracking-[0.12em] text-muted-foreground">{story.authorRole}</p>
               </div>
             </div>
           </div>
@@ -69,7 +69,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
               {story.markdown ? <ClientMarkdown markdown={story.markdown} locale={locale} initialMarkdown={initialMarkdown} initialLocale={initialLocale}>{children}</ClientMarkdown> : null}
               {story.body.map((section, index) => (
                 <section key={index} className="mb-10">
-                  <h2 className="headline text-3xl font-black leading-none tracking-[-0.055em]">{section.heading}</h2>
+                  <h2 className="headline font-black ">{section.heading}</h2>
                   <p className="mt-4 text-lg leading-8 text-foreground/85">{section.body}</p>
                 </section>
               ))}
@@ -92,7 +92,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
         <section className="border-y border-border bg-background-wash">
           <div className="layout-wide px-5 py-12 lg:px-8 lg:py-16">
             <div className="flex items-end justify-between gap-4 border-b border-border pb-4">
-              <div><p className="kicker"><Text value="Keep reading"/></p><h2 className="headline mt-2 text-4xl font-black leading-none tracking-[-0.06em]"><Text value="More from the desk"/></h2></div>
+              <div><p className="kicker"><Text value="Keep reading"/></p><h2 className="headline mt-2 font-black "><Text value="More from the desk"/></h2></div>
               <Link href={"/category/" + story.category + "/"} className="hidden text-xs font-bold uppercase tracking-[0.14em] underline decoration-accent underline-offset-4 sm:block"><Text value="View section →"/></Link>
             </div>
             <div className="mt-8 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">{related.map((item) => <StoryCard key={item.slug} story={item} />)}</div>

@@ -41,12 +41,12 @@ draft: false
 | lang | 是 | zh-CN / zh-TW / en / ru / fr |
 | category | 是 | technology / innovation / business / work-life / current-affairs / energy |
 | author | 是 | 作者名称 |
-| authorRole | 否 | 默认 Politica |
+| authorRole | 否 | 使用当前语言的作者说明；新闻整理稿注明资料整理 |
 | date | 是 | 带引号的 YYYY-MM-DD，不使用 YAML 自动日期类型 |
 | description | 是 | 当前语言的摘要 |
 | cover | 是 | public/ 中的合适图片，发布稿必填；优先获准转载原图，缺图时用标注的AI示意图或相关授权照片 |
 | coverAlt | 是 | 当前语言的准确图片说明；生成图片须标明AI示意图，草稿的 cover 与 coverAlt 可同时为空 |
-| tags | 是 | 非空数组，文字/数字/空格/连字符 |
+| tags | 是 | 非空数组，文字/数字/空格/连字符/撇号；同一标签的译名全站一致，译文保留标签顺序 |
 | readTime | 否 | 1–90 分钟，省略则按正文长度估算 |
 | draft | 否 | true 不进入网站；默认 false |
 
@@ -56,7 +56,7 @@ draft: false
 
 复制同篇文件到其他语言目录，保留 slug、translationKey、issue、category。修改 lang，并翻译标题、摘要、作者说明、图片说明和 Markdown 正文。URL 自动添加语言和唯一前缀，例如 /fr/post/fr-digital-services/。
 
-不要求一次提供五种译文。缺少译文时，该语言首页不展示未翻译文章；从文章页切换到缺失语言时保留原文并明确提示。不要只修改 lang 而保留未翻译正文。
+发布新闻须同时提供五种完整语言版本，防止某种语言首页、刊期或文章再次缺失。标题、摘要、正文、图片说明、标签与来源注释都须翻译；不要只修改 lang 而保留未翻译正文。译文按原文顺序维护标签以关联对应主题，复用同一图片资产，保留所有事实、数字与来源链接。`tests/multilingual.test.mjs` 会检查五语言完整性。
 
 ## 发布与校验
 
