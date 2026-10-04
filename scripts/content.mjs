@@ -13,12 +13,13 @@ export function buildContent() {
   const articles = walk(root).sort().flatMap(file => {
     const {data,content} = matter(readFileSync(file,"utf8"));
     const fail = message => {throw new Error(`${file}: ${message}`);};
-    for(const key of ["title","slug","translationKey","issue","lang","category","author","date","description","cover","coverAlt"]) if(typeof data[key] !== "string" || !data[key].trim()) fail(`${key} must be a nonempty quoted string`);
+    for(const key of ["title","slug","translationKey","issue","lang","category","author","date","description"]) if(typeof data[key] !== "string" || !data[key].trim()) fail(`${key} must be a nonempty quoted string`);
     if (!languages.includes(data.lang)) fail("unsupported lang");
     if (!/^[a-z0-9-]+$/.test(data.slug) || !/^[a-z0-9-]+$/.test(data.issue)) fail("slug and issue must use lowercase ASCII letters, numbers and hyphens");
     if (!Object.hasOwn(categories,data.category)) fail("unknown category");
     if (!/^\d{4}-\d{2}-\d{2}$/.test(data.date) || !Number.isFinite(Date.parse(data.date))) fail("invalid date");
-    if (!data.cover.startsWith("/") || data.cover.includes("..") || !existsSync(path.resolve("public",data.cover.slice(1)))) fail("cover file is missing from public/");
+    if (typeof data.cover !== "string" || typeof data.coverAlt !== "string" || Boolean(data.cover.trim()) !== Boolean(data.coverAlt.trim())) fail("cover and coverAlt must be nonempty strings together, or both empty for a text-only article");
+    if (data.cover && (!data.cover.startsWith("/") || data.cover.includes("..") || !existsSync(path.resolve("public",data.cover.slice(1))))) fail("cover file is missing from public/");
     if (!Array.isArray(data.tags) || !data.tags.length || data.tags.some(tag=>typeof tag!=="string" || !/^[\p{L}\p{N} -]+$/u.test(tag))) fail("tags must contain letters, numbers, spaces or hyphens");
     if(!content.trim()) fail("article body is empty");
     if(data.draft !== undefined && typeof data.draft !== "boolean") fail("draft must be true or false");

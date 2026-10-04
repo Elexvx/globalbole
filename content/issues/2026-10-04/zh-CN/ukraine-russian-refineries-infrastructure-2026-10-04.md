@@ -9,18 +9,14 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-04"
 description: "泽连斯基称将加强对俄炼油设施的打击，基辅桥梁连续遇袭。公开声明、实际损坏与民用影响需要分别核实，尚不能直接推算产能或油价变化。"
-cover: "/news-media/2026-10-04/moscow-refinery-2012-1280.jpg"
-coverAlt: "2012年4月26日莫斯科炼油厂及前方池塘的日间资料照片"
+cover: "/news-media/2026-10-04/ssu-oil-sites-20261002.jpg"
+coverAlt: "乌克兰国家安全局2026年10月2日发布的公告配图，宣布与其他部队打击俄罗斯石油设施"
 tags: ["乌克兰", "俄罗斯", "能源安全", "基础设施"]
 readTime: 5
 draft: false
 ---
 
 乌克兰总统泽连斯基10月3日接受路透社采访时表示，乌方将加强对俄罗斯炼油设施的打击，回应他所称俄方扩大空袭乌克兰城市的行动，同时强调不会无差别攻击民用目标。他说，乌克兰情报部门掌握了有关俄方新攻击方针的文件；这一文件及其内容，尚未在公开报道中得到独立验证。[^1]
-
-![2012年4月26日莫斯科炼油厂及前方池塘的日间资料照片](/news-media/2026-10-04/moscow-refinery-2012-1280.jpg)
-
-*图：2012年4月26日，莫斯科炼油厂，资料照片。摄影及授权：Retired electrician；[《Moscow Oil Refinery, 2012 03》](https://commons.wikimedia.org/wiki/File:Moscow_Oil_Refinery,_2012_03.jpg)，[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。*
 
 ## 桥梁受损影响城市运行
 
@@ -33,6 +29,10 @@ draft: false
 泽连斯基把拟加强的炼油设施打击与俄方战争资金来源相联系。路透社报道，克里姆林宫当天未能提供评论；俄罗斯外交部则在敦促外国人离开基辅的声明中，称将继续实施其所谓报复性打击。俄乌双方均否认故意以平民为目标。[^1] 因而，“新方针”“报复”及目标选择的理由，都需要保留各自发言者的明确归属。
 
 乌方对俄石油设施的攻击也并非停留在新表态。乌克兰国家安全局10月2日发布公告，称与其他部队共同打击了萨马拉州及伏尔加格勒州的四处石油基础设施，包括泵站及伏尔加格勒炼油厂，并报告现场起火。[^3] 这份公告能够证明乌方公开宣称实施了相关行动，但不能单独证明所有设施的实际损坏程度、停产时间或产量损失。
+
+![乌克兰国家安全局2026年10月2日发布的公告配图，宣布与其他部队打击俄罗斯石油设施](/news-media/2026-10-04/ssu-oil-sites-20261002.jpg)
+
+*图：乌克兰国家安全局2026年10月2日发布的公告配图，宣布与其他部队打击俄罗斯石油设施。图中文字为乌方声明，不是现场损毁照片。来源及授权：乌克兰国家安全局（SBU），[原始公告](https://ssu.gov.ua/novyny/sbu-spilno-iz-inshymy-skladovymy-syl-oborony-urazyla-vazhlyvi-naftobiekty-rf-npz-naftoperekachuvalni-ta-naftozmishuvalni-stantsii)，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。*[^3]
 
 ## 能源设施的民用影响不能忽视
 

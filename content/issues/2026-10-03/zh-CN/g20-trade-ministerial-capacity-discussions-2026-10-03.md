@@ -9,8 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
 description: "粮食贸易形成共识，强迫劳动与结构性产能议题仍有分歧。读懂G20主席声明，要分清共同决定、少数成员行动和改革设想。"
-cover: "/news-media/2026-10-03/hamburg-container-terminal-2019.jpg"
-coverAlt: "德国汉堡Tollerort集装箱码头的货船与装卸起重机，2019年资料照片"
+cover: ""
+coverAlt: ""
 tags: ["国际贸易", "G20", "供应链"]
 readTime: 5
 draft: false
@@ -35,10 +35,6 @@ G20贸易部长会议在粮食贸易问题上取得共识，但产能与供应�
 文件称，大多数成员支持拟议声明，但少数成员拒绝这一合作路径，最终未能一致通过。声明没有点名这些成员，也没有列出可供逐国核对的完整立场。能够确认的是，谈判在共同的行动方式上存在分歧；至于每个成员反对什么、愿意接受哪些替代办法，这份材料还不足以回答。
 
 对相关行业而言，分歧的具体内容很重要。支持研究某类产能问题，与接受新的限制措施，影响企业的程度明显不同。在行业平台、参与方和措施清单明确之前，政策方向仍需要继续观察。
-
-![德国汉堡Tollerort集装箱码头的货船与装卸起重机，2019年资料照片](/news-media/2026-10-03/hamburg-container-terminal-2019.jpg)
-
-*图：2019年4月27日，德国汉堡Tollerort集装箱码头。摄影及授权：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0（署名、相同方式共享）](https://creativecommons.org/licenses/by-sa/4.0/)。*
 
 ## 最惠国待遇进入议程，距离规则改变还有多远
 

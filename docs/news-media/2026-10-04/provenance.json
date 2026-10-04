@@ -1,7 +1,232 @@
 {
   "issue": "2026-10-04",
   "checkedAt": "2026-10-04",
+  "usage": "Use only licensed/public-domain original-source-article images. Covers reuse in-body images. Body images retain complete proportions. Empty image and alt fields select text-only layouts. No self-created news illustrations or data charts.",
   "assets": [
+    {
+      "filename": "whitehouse-ai-luncheon-20260929.jpg",
+      "localPath": "/news-media/2026-10-04/whitehouse-ai-luncheon-20260929.jpg",
+      "article": "us-ai-voluntary-safety-accord-2026-10-04",
+      "width": 1200,
+      "height": 800,
+      "byteSize": 171653,
+      "sha256": "add29587db7d8458da7e1dc3e9f45a0ed7d6f189e972a894337c76757045be4f",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "caption": "*图：2026年9月29日，美国华盛顿白宫东厅，特朗普主持人工智能主题午宴。摄影：Daniel Torok／白宫；[官方图片及授权](https://www.flickr.com/photos/whitehouse/55560393477/)，[美国政府作品](https://www.usa.gov/government-copyright)。*[^3]",
+      "kind": "documentary_photo",
+      "creator": "Daniel Torok",
+      "licensor": "The White House",
+      "date": "2026-09-29",
+      "location": "East Room, White House, Washington, D.C., United States",
+      "title": "President Donald J. Trump hosts a luncheon on Super Intelligence, September 29, 2026",
+      "sourceURL": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
+      "downloadURL": "https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929DT-1520.jpg?w=1200",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/whitehouse/55560393477/",
+      "corroboratingRightsURL": "https://commons.wikimedia.org/wiki/File:P20260929DT-1520_(55560393477).jpg",
+      "license": "United States government work / public domain in the United States",
+      "licenseURL": "https://www.usa.gov/government-copyright",
+      "rightsNote": "Commons original-file metadata also contains personal-use-only boilerplate. Current first-party Flickr visible license and JSON-LD identify United States government work; this discrepancy is retained as asset provenance rather than ignored.",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and other non-visual metadata",
+        "pixelsIdenticalToLicensedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "a05f758767201dd64481801500f053246cd5c3d12266a3ccab6f0e7355566058"
+      },
+      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record."
+    },
+    {
+      "article": "us-ai-voluntary-safety-accord-2026-10-04",
+      "creator": "Daniel Torok",
+      "date": "2026-09-29",
+      "kind": "official_event_photo",
+      "license": "Public domain — United States federal government work",
+      "filename": "P20260929DT-1750-1200.jpg",
+      "localPath": "/news-media/2026-10-04/P20260929DT-1750-1200.jpg",
+      "sourceURL": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
+      "downloadURL": "https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929DT-1750.jpg?w=1200",
+      "rightsEvidenceURL": "https://www.whitehouse.gov/copyright/",
+      "rightsNote": "Government-produced materials appearing on this site are not copyright protected. Gallery identifies each asset as Official White House Photo.",
+      "licenseURL": "https://www.whitehouse.gov/copyright/",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "retrieval": "Downloaded exact responsive src exposed in original White House gallery; no local resizing.",
+      "caption": "*图：2026年9月29日，白宫东厅人工智能主题午宴的长桌会谈现场。摄影：Daniel Torok／白宫；[官方相册](https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/)，[美国政府作品](https://www.whitehouse.gov/copyright/)。*[^3]",
+      "alt": "2026年9月29日，白宫东厅人工智能主题午宴的长桌会谈现场",
+      "width": 1200,
+      "height": 800,
+      "byteSize": 149465,
+      "sha256": "d91911ebc801f4b1acf92359af6d804a4b70d709dd6d681b87f16aa98d9793d5",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and nonessential text metadata",
+        "pixelsIdenticalToDownloadedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "324eb990ab2c8530fcab5b55673b6cdc0b52c8d179759eb81ca3d619c067fb16"
+      },
+      "metadataCaveat": "Full-resolution file contains legacy personal-use-only boilerplate plus an XMP instruction specifically allowing publication by news organizations. First-party copyright page separately says government-produced material is not copyright protected. Reuse only as editorial news illustration, do not imply endorsement or manipulate photo; retain conflict in provenance.",
+      "originalCaption": "President Donald J. Trump hosts a luncheon on Super Intelligence (AI) in the East Room of the White House, Tuesday, September 29, 2026.(Official White House Photo by Daniel Torok)"
+    },
+    {
+      "article": "us-ai-voluntary-safety-accord-2026-10-04",
+      "creator": "Joyce Boghosian",
+      "date": "2026-09-29",
+      "kind": "official_event_photo",
+      "license": "Public domain — United States federal government work",
+      "filename": "P20260929JB-0074-1200.jpg",
+      "localPath": "/news-media/2026-10-04/P20260929JB-0074-1200.jpg",
+      "sourceURL": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
+      "downloadURL": "https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929JB-0074.jpg?w=1200",
+      "rightsEvidenceURL": "https://www.whitehouse.gov/copyright/",
+      "rightsNote": "Government-produced materials appearing on this site are not copyright protected. Gallery identifies each asset as Official White House Photo.",
+      "licenseURL": "https://www.whitehouse.gov/copyright/",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "retrieval": "Downloaded exact responsive src exposed in original White House gallery; no local resizing.",
+      "caption": "*图：2026年9月29日，特朗普在人工智能主题午宴后与科技企业负责人在白宫西翼门厅外面对媒体。摄影：Joyce Boghosian／白宫；[官方相册](https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/)，[美国政府作品](https://www.whitehouse.gov/copyright/)。*[^3]",
+      "alt": "2026年9月29日，特朗普在人工智能主题午宴后与科技企业负责人在白宫西翼门厅外面对媒体",
+      "width": 1200,
+      "height": 800,
+      "byteSize": 260998,
+      "sha256": "1c22fc42d4eea0817c93c096f95218f54255b47f32c0fa2c729c8022daf90d5a",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and nonessential text metadata",
+        "pixelsIdenticalToDownloadedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "79d6e62a50f22559586375a47e078e4289ec85e0614b2c82559048093a8e403a"
+      },
+      "metadataCaveat": "Full-resolution file contains legacy personal-use-only boilerplate plus an XMP instruction specifically allowing publication by news organizations. First-party copyright page separately says government-produced material is not copyright protected. Reuse only as editorial news illustration, do not imply endorsement or manipulate photo; retain conflict in provenance.",
+      "originalCaption": "President Donald J. Trump speaks to the press with tech CEO’s outside of the West Wing Lobby, Tuesday, September 29, 2026, following a luncheon on Super Intelligence (AI). (Official White House Photo by Joyce Boghosian)"
+    },
+    {
+      "article": "india-green-energy-corridor-storage-2026-10-04",
+      "creator": "International Energy Agency",
+      "date": "2026-05-26",
+      "kind": "publisher_original_chart",
+      "license": "CC BY 4.0",
+      "filename": "iea-india-hourly-demand.png",
+      "localPath": "/news-media/2026-10-04/iea-india-hourly-demand.png",
+      "sourceURL": "https://www.iea.org/commentaries/india-s-electricity-demand-grows-at-night-managing-rising-cooling-demand",
+      "downloadURL": null,
+      "rightsEvidenceURL": "https://www.iea.org/data-and-statistics/charts/hourly-electricity-demand-in-india-in-mid-may-2026",
+      "rightsNote": "Chart-specific Cite chart explicitly identifies Licence: CC BY 4.0; rendered chart has same credit. IEA terms specifically permit its standalone graphs/figures. Photos/logos are excluded, so those were not used.",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "originalTitle": "Hourly electricity demand in India in mid-May 2026",
+      "sourceImagePage": "https://www.iea.org/data-and-statistics/charts/hourly-electricity-demand-in-india-in-mid-may-2026",
+      "retrieval": "Publisher chart page → Download chart → Download chart as image PNG, via dot cloud browser. Publisher creates a browser download; no permanent image URL was exposed. Original downloaded PNG copied without modifications.",
+      "units": "GW",
+      "legend": null,
+      "downloadCaveat": "Publisher PNG omits title, units, attribution and custom legend; caption must retain supplied unit/legend/credit. No drawing/reconstruction/translation in image.",
+      "caption": "*图：国际能源署原图：2026年5月19日至21日印度逐小时电力需求；纵轴单位为吉瓦（GW），灰色区域表示夜间。来源及制图：IEA，[Hourly electricity demand in India in mid-May 2026](https://www.iea.org/data-and-statistics/charts/hourly-electricity-demand-in-india-in-mid-may-2026)，基于 Real-Time Electricity Tracker 的分析；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。*[^2]",
+      "alt": "国际能源署原图：2026年5月19日至21日印度逐小时电力需求；纵轴单位为吉瓦（GW），灰色区域表示夜间",
+      "width": 1200,
+      "height": 1000,
+      "byteSize": 97318,
+      "sha256": "e84b89bb8cec3378469416820e86a943114e4be1719c48c5dabacee86395accb",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and nonessential text metadata",
+        "pixelsIdenticalToDownloadedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "8f960e8f849fae34e17e252645e817abb48cfa76e6fce68392c13ae4ac9f2492"
+      }
+    },
+    {
+      "article": "india-green-energy-corridor-storage-2026-10-04",
+      "creator": "International Energy Agency",
+      "date": "2026-05-26",
+      "kind": "publisher_original_chart",
+      "license": "CC BY 4.0",
+      "filename": "iea-india-summer-net-load.png",
+      "localPath": "/news-media/2026-10-04/iea-india-summer-net-load.png",
+      "sourceURL": "https://www.iea.org/commentaries/india-s-electricity-demand-grows-at-night-managing-rising-cooling-demand",
+      "downloadURL": null,
+      "rightsEvidenceURL": "https://www.iea.org/data-and-statistics/charts/average-summer-net-load-in-india-by-year",
+      "rightsNote": "Chart-specific Cite chart explicitly identifies Licence: CC BY 4.0; rendered chart has same credit. IEA terms specifically permit its standalone graphs/figures. Photos/logos are excluded, so those were not used.",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "originalTitle": "Average summer net load in India by year",
+      "sourceImagePage": "https://www.iea.org/data-and-statistics/charts/average-summer-net-load-in-india-by-year",
+      "retrieval": "Publisher chart page → Download chart → Download chart as image PNG, via dot cloud browser. Publisher creates a browser download; no permanent image URL was exposed. Original downloaded PNG copied without modifications.",
+      "units": "GW",
+      "legend": [
+        {
+          "year": 2024,
+          "color": "light blue",
+          "rgb": [
+            73,
+            211,
+            255
+          ],
+          "hex": "#49d3ff"
+        },
+        {
+          "year": 2025,
+          "color": "dark blue",
+          "rgb": [
+            62,
+            122,
+            211
+          ],
+          "hex": "#3e7ad3"
+        },
+        {
+          "year": 2026,
+          "color": "green",
+          "rgb": [
+            104,
+            243,
+            148
+          ],
+          "hex": "#68f394"
+        }
+      ],
+      "downloadCaveat": "Publisher PNG omits title, units, attribution and custom legend; caption must retain supplied unit/legend/credit. No drawing/reconstruction/translation in image.",
+      "caption": "*图：国际能源署原图：印度2024—2026年夏季平均净负荷；纵轴单位为吉瓦（GW），浅蓝线为2024年、深蓝线为2025年、绿线为2026年，灰色区域表示夜间。来源及制图：IEA，[Average summer net load in India by year](https://www.iea.org/data-and-statistics/charts/average-summer-net-load-in-india-by-year)，基于 Real-Time Electricity Tracker 的分析；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。*[^2]",
+      "alt": "国际能源署原图：印度2024—2026年夏季平均净负荷；纵轴单位为吉瓦（GW），浅蓝线为2024年、深蓝线为2025年、绿线为2026年，灰色区域表示夜间",
+      "width": 1200,
+      "height": 1000,
+      "byteSize": 112309,
+      "sha256": "7ea4c545007f7526955171c23150a070c71c32233f42bd26da16e65a4bf06dd9",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and nonessential text metadata",
+        "pixelsIdenticalToDownloadedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "34c3490aa14c9e6a73f61c3be252bc9492176c8cb22ba7506783de04612cb593"
+      }
+    },
+    {
+      "article": "ukraine-russian-refineries-infrastructure-2026-10-04",
+      "creator": "Security Service of Ukraine (SBU)",
+      "date": "2026-10-02",
+      "kind": "publisher_announcement_graphic",
+      "license": "CC BY 4.0",
+      "filename": "ssu-oil-sites-20261002.jpg",
+      "localPath": "/news-media/2026-10-04/ssu-oil-sites-20261002.jpg",
+      "sourceURL": "https://ssu.gov.ua/novyny/sbu-spilno-iz-inshymy-skladovymy-syl-oborony-urazyla-vazhlyvi-naftobiekty-rf-npz-naftoperekachuvalni-ta-naftozmishuvalni-stantsii",
+      "downloadURL": "https://ssu.gov.ua/uploads/images/2026/10/02/667298e36d509a08ab4dbd56a5663638.jpg",
+      "rightsEvidenceURL": "https://ssu.gov.ua/novyny/sbu-spilno-iz-inshymy-skladovymy-syl-oborony-urazyla-vazhlyvi-naftobiekty-rf-npz-naftoperekachuvalni-ta-naftozmishuvalni-stantsii",
+      "rightsNote": "Official article footer explicitly states all content is available under Creative Commons Attribution 4.0 International license. The exact image is the article’s image_src and og:image.",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "availabilityConstraint": "Only one original article-associated image found; article has no inline photo gallery. This is an announcement/title graphic with blurred industrial background; must not imply independently verified attack photograph.",
+      "caption": "*图：乌克兰国家安全局2026年10月2日发布的公告配图，宣布与其他部队打击俄罗斯石油设施。图中文字为乌方声明，不是现场损毁照片。来源及授权：乌克兰国家安全局（SBU），[原始公告](https://ssu.gov.ua/novyny/sbu-spilno-iz-inshymy-skladovymy-syl-oborony-urazyla-vazhlyvi-naftobiekty-rf-npz-naftoperekachuvalni-ta-naftozmishuvalni-stantsii)，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。*[^3]",
+      "alt": "乌克兰国家安全局2026年10月2日发布的公告配图，宣布与其他部队打击俄罗斯石油设施",
+      "width": 1200,
+      "height": 675,
+      "byteSize": 239466,
+      "sha256": "5d20bfac358a247ff28de79f6c69e9eaf1b903ae278062ff9e28c2d4dc3b158d",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and nonessential text metadata",
+        "pixelsIdenticalToDownloadedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "57dac3df2881bc291e842863a149c232f3873377a016532b66548a07bb97d6d5"
+      }
+    }
+  ],
+  "retiredAssets": [
     {
       "filename": "ai-data-centre-capex.png",
       "localPath": "/news-media/2026-10-04/ai-data-centre-capex.png",
@@ -42,7 +267,10 @@
         "rights": "Original chart using reported numerical facts; no source chart artwork copied",
         "caption": "数据期：2026、2030及2050年，中性情景预测。来源：PwC《Global Data Centre Outlook 2026–50》，2026年9月2日发布，建模：Oxford Economics；制图：全球伯乐 News。"
       },
-      "rebuildScript": "docs/news-media/2026-10-04/render-ai-capex-chart.py"
+      "rebuildScript": "docs/news-media/2026-10-04/render-ai-capex-chart.py",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Self-created chart replaced with original-source media or prose"
     },
     {
       "filename": "india-green-energy-corridor-investment.png",
@@ -73,7 +301,10 @@
         "componentSumCrore": 186378,
         "unexplainedDifferenceCrore": 27
       },
-      "rebuildScript": "docs/news-media/2026-10-04/render-india-investment-chart.py"
+      "rebuildScript": "docs/news-media/2026-10-04/render-india-investment-chart.py",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Self-created chart replaced with original-source media or prose"
     },
     {
       "filename": "korean-peninsula-2014.jpg",
@@ -104,7 +335,10 @@
         "colorProfilePreserved": true,
         "pixelSHA256": "28d31abe7237d537d00d1366e5e243162d82834621014c385b7582210307f9d5"
       },
-      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record."
+      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record.",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Archival illustration was not part of the cited original reporting"
     },
     {
       "filename": "moscow-refinery-2012-1280.jpg",
@@ -135,39 +369,10 @@
         "colorProfilePreserved": true,
         "pixelSHA256": "ef9e109c5927bc67adc7477e3bc7c4e21a1474ddb86c41210120369974c7a5e4"
       },
-      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record."
-    },
-    {
-      "filename": "whitehouse-ai-luncheon-20260929.jpg",
-      "localPath": "/news-media/2026-10-04/whitehouse-ai-luncheon-20260929.jpg",
-      "article": "us-ai-voluntary-safety-accord-2026-10-04",
-      "width": 1200,
-      "height": 800,
-      "byteSize": 171653,
-      "sha256": "add29587db7d8458da7e1dc3e9f45a0ed7d6f189e972a894337c76757045be4f",
-      "checkedAt": "2026-10-04",
-      "pixelsInspected": true,
-      "caption": "*图：2026年9月29日，美国华盛顿白宫东厅，特朗普主持人工智能主题午宴。摄影：Daniel Torok／白宫；[官方图片及授权](https://www.flickr.com/photos/whitehouse/55560393477/)，[美国政府作品](https://www.usa.gov/government-copyright)。*[^3]",
-      "kind": "documentary_photo",
-      "creator": "Daniel Torok",
-      "licensor": "The White House",
-      "date": "2026-09-29",
-      "location": "East Room, White House, Washington, D.C., United States",
-      "title": "President Donald J. Trump hosts a luncheon on Super Intelligence, September 29, 2026",
-      "sourceURL": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
-      "downloadURL": "https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929DT-1520.jpg?w=1200",
-      "rightsEvidenceURL": "https://www.flickr.com/photos/whitehouse/55560393477/",
-      "corroboratingRightsURL": "https://commons.wikimedia.org/wiki/File:P20260929DT-1520_(55560393477).jpg",
-      "license": "United States government work / public domain in the United States",
-      "licenseURL": "https://www.usa.gov/government-copyright",
-      "rightsNote": "Commons original-file metadata also contains personal-use-only boilerplate. Current first-party Flickr visible license and JSON-LD identify United States government work; this discrepancy is retained as asset provenance rather than ignored.",
-      "privacySanitization": {
-        "removed": "EXIF, IPTC/Photoshop, XMP and other non-visual metadata",
-        "pixelsIdenticalToLicensedSource": true,
-        "colorProfilePreserved": true,
-        "pixelSHA256": "a05f758767201dd64481801500f053246cd5c3d12266a3ccab6f0e7355566058"
-      },
-      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record."
+      "licenseCredit": "Required creator and license information retained in visible article caption and this provenance record.",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Archival illustration was not part of the cited original reporting"
     }
   ]
 }

@@ -100,7 +100,7 @@ test('a locale change cannot reuse table-of-contents or footnote labels from ano
 test('server and refreshed bodies retain GFM, unique anchors, footnotes, licensing and safe full images in every locale', async () => {
   const { ArticleMarkdown } = await import('../components/article-markdown.tsx');
   const manifest = JSON.parse(readFileSync(path.join(root, 'content/generated/image-manifest.json'), 'utf8'));
-  const [image, dimensions] = Object.entries(manifest)[0];
+  const [image, dimensions] = Object.entries(manifest).find(([image])=>image.endsWith(".jpg"));
   const markdown = [
     '## Repeated heading', '', 'Citation[^source]', '', '```md', '## Not a heading', '```', '',
     '## Repeated heading', '', '### Detail', '', '| Key | Value |', '| --- | --- |', '| Full | Article |', '',
@@ -202,7 +202,7 @@ test('cover pictures expose one preferred format without preloading the fallback
   const html = renderToStaticMarkup(createElement(ReferenceHome, {stories, locale:'zh-CN', prefix:'/zh-CN'}));
   assert.match(html, /<picture><source type="image\/avif" srcSet="[^\"]+\.avif \d+w/);
   assert.match(html, /<img[^>]*class="story-cover ref-image /);
-  assert.match(html, /fetchPriority="high"/);
+  if (stories.toSorted((a,b)=>b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug))[0].image) assert.match(html, /fetchPriority="high"/);
   assert.doesNotMatch(html, /<link[^>]*rel="preload"[^>]*as="image"/, 'Picture sources should be discovered normally without separately preloading WebP');
   for (const [,contents] of html.matchAll(/<picture>([\s\S]*?)<\/picture>/g)) {
     assert.equal((contents.match(/<img\b/g)||[]).length, 1, 'One fallback image per picture');
@@ -212,4 +212,14 @@ test('cover pictures expose one preferred format without preloading the fallback
       assert.equal(sizes[0], sizes[1], 'AVIF and fallback must describe the same layout');
     }
   }
+});
+
+
+test('text-only home cards keep titles and links without empty images or media frames', async () => {
+  const { ReferenceHome } = await import('../components/reference-home.tsx');
+  const stories = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8')).map(story=>({...story,image:'',imageAlt:''}));
+  const html = renderToStaticMarkup(createElement(ReferenceHome,{stories,locale:'zh-CN',prefix:'/zh-CN'}));
+  assert.doesNotMatch(html, /<img|<picture|class="ref-(?:hero|card|archive|pick|scan|tech-feature)-image/);
+  assert.match(html, /ref-story-text-only/);
+  for (const story of stories) assert.ok(html.includes(story.title));
 });

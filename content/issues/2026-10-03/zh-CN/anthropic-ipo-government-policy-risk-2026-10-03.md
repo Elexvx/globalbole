@@ -9,18 +9,14 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
 description: "政府合同收入不到1%，政策风险为何仍可能波及更广的商业市场？关键在模型供应、客户采购与服务连续性。"
-cover: "/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg"
-coverAlt: "Anthropic联合创始人Dario Amodei在2023年TechCrunch Disrupt大会上发言的资料照片"
+cover: ""
+coverAlt: ""
 tags: ["人工智能", "Anthropic", "企业风险"]
 readTime: 4
 draft: false
 ---
 
 Anthropic的政府合同收入占比不到1%，政府关系却可能影响它更大的一块商业市场。据路透社10月2日报道，公司在路透看到的IPO招股文件中提示，政府对其技术和经营行为的态度，可能波及商业客户与合作伙伴。这个看似不成比例的风险，值得从产品交付和客户采购两个角度来看。[^1]
-
-![Anthropic联合创始人Dario Amodei在2023年TechCrunch Disrupt大会上发言的资料照片](/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg)
-
-*图：2023年9月20日，美国旧金山Moscone Center，Dario Amodei在TechCrunch Disrupt大会发言。摄影：Kimberly White / Getty Images for TechCrunch（© 2023 Getty Images）。[《TechCrunch Disrupt 2023 - Day 2》及授权：TechCrunch](https://www.flickr.com/photos/techcrunch/53202070940/)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*
 
 ## 收入占比小，影响未必止于政府订单
 

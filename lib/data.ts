@@ -32,7 +32,7 @@ export type Story = {
 
 export const stories: Story[] = publishedArticles as Story[];
 export const tickerStories = stories.slice(0,8);
-export const curatedAssets = stories.map(story=>({label:story.title,image:story.image,imageAlt:story.imageAlt}));
+export const curatedAssets = stories.filter(story=>story.image).map(story=>({label:story.title,image:story.image,imageAlt:story.imageAlt}));
 export const getCategory = (slug:string) => categories.find(category=>category.slug===slug);
 export const getStaticStory = (slug:string) => stories.find(story=>story.slug===slug);
 export const getStoriesByCategory = (category:CategorySlug) => stories.filter(story=>story.category===category);

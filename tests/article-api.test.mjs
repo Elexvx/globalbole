@@ -17,9 +17,11 @@ test('contract rejects incomplete or unsafe backend payloads',()=>{
   const good=createArticleResponse([{
     slug:'en-test-article',title:'Test article',lang:'en',translationKey:'test-article',issue:'2026-09-01',category:'technology',categoryLabel:'Technology',author:'Test desk',authorRole:'Editor',date:'2026-09-01',displayDate:'Sep 1, 2026',readTime:2,dek:'A test article.',image:'/reference-assets/4615cdf986890f9d.webp',imageAlt:'Test cover',tags:['Testing'],body:[],markdown:'# Test',
   }]);
-  for(const patch of [{lang:'de'},{date:'2026-02-31'},{image:'javascript:alert(1)'},{readTime:0},{markdown:null},{tags:[]},{body:[{}]}]) {
+  for(const patch of [{lang:'de'},{date:'2026-02-31'},{image:'javascript:alert(1)'},{image:''},{imageAlt:''},{readTime:0},{markdown:null},{tags:[]},{body:[{}]}]) {
     assert.throws(()=>parseArticleResponse({...good,data:[{...good.data[0],...patch}]}));
   }
+  const textOnly=parseArticleResponse({...good,data:[{...good.data[0],image:'',imageAlt:''}]});
+  assert.equal(textOnly.data[0].image,'');
   assert.throws(()=>parseArticleResponse({...good,total:2}));
   assert.throws(()=>parseArticleResponse({...good,schemaVersion:2}));
   assert.throws(()=>parseArticleResponse({...good,total:2,data:[good.data[0],good.data[0]]}));

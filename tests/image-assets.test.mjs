@@ -7,7 +7,7 @@ import sharp from 'sharp';
 import {buildContent} from '../scripts/content.mjs';
 import {optimizeImages} from '../scripts/optimize-images.mjs';
 const articles = buildContent();
-const originalHashes = new Map(articles.map(article => [article.image, createHash('sha256').update(readFileSync(`public${article.image}`)).digest('hex')]));
+const originalHashes = new Map(articles.filter(article => article.image).map(article => [article.image, createHash('sha256').update(readFileSync(`public${article.image}`)).digest('hex')]));
 await optimizeImages();
 const manifest = JSON.parse(readFileSync('content/generated/image-manifest.json', 'utf8'));
 

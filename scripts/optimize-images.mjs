@@ -9,7 +9,7 @@ const outputDir = path.resolve("public/optimized-assets");
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
-  "dario-amodei-techcrunch-2023": 55,
+  "P20260929JB-0074-1200": 55,
   "hamburg-container-terminal-2019": 55,
   "ev-charging-2020": 60,
   "korean-peninsula-2014": 60,

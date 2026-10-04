@@ -60,10 +60,9 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
               </div>
             </div>
           </div>
-          <div className="mt-8 overflow-hidden border-2 border-foreground bg-muted">
+          {story.image ? <div className="mt-8 overflow-hidden border-2 border-foreground bg-muted">
             <img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="async" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" />
-          </div>
-          <p className="mt-2 font-mono text-[0.625rem] uppercase tracking-[0.1em] text-muted-foreground"><Text value="Image file / 全球伯乐 News reference desk"/></p>
+          </div> : null}
           <div className="mt-7"><ShareBar story={story} /></div>
           <div className="mx-auto mt-10 grid gap-12 lg:grid-cols-[minmax(0,46rem)_15rem]">
             <div className="article-copy min-w-0">

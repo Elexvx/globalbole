@@ -1,8 +1,80 @@
 {
   "issue": "2026-10-03",
-  "usage": "Each article cover reuses its in-body image. Covers scale proportionally to fill their frame, with an appropriate focal point; body images retain their complete natural proportions. Source image files are preserved. Attribution and license links remain visible. Captions include only verified time, place, people, photographer, licensor and license terms; omit unavailable fields.",
-  "checkedAt": "2026-10-03",
+  "checkedAt": "2026-10-04",
+  "usage": "Use only licensed/public-domain original-source-article images. Covers reuse in-body images. Body images retain complete proportions. Empty image and alt fields select text-only layouts. No self-created news illustrations or data charts.",
   "assets": [
+    {
+      "filename": "bls-september-2026-unemployment-original.png",
+      "localPath": "/news-media/2026-10-03/bls-september-2026-unemployment-original.png",
+      "article": "us-september-jobs-report-2026-10-03",
+      "kind": "publisher_original_chart",
+      "creator": "U.S. Bureau of Labor Statistics",
+      "title": "Chart 1. Unemployment rate, seasonally adjusted, September 2024–September 2026",
+      "sourceURL": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+      "downloadURL": "https://www.bls.gov/news.release/archives/empsit_10022026.pdf",
+      "sourcePage": 1,
+      "sourceRectPdfPoints": [
+        54,
+        358,
+        301,
+        558
+      ],
+      "extraction": "Original vector chart rasterized directly from PDF page 1 using PyMuPDF get_pixmap, 4x scaling (288 dpi), RGB PNG; only surrounding unrelated page content excluded. No reconstruction, redraw, translation, recoloring, or data changes. Complete original chart title, axis labels and applicable note retained.",
+      "sourcePdfSha256": "7e727c826f2373094af125d8e6206b64c7c63e8955cbd2eb2217e3db2976cb5b",
+      "license": "Public domain: original United States federal government work",
+      "rightsEvidenceURL": "https://www.bls.gov/opub/copyright-information.htm",
+      "rightsNote": "BLS states its publications in print and electronically are public domain, except previously copyrighted photographs and illustrations; it asks users to cite BLS. These are BLS’s own charts in its original release and contain no third-party credit. The BLS emblem is separately protected and excluded from the extracts.",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "width": 988,
+      "height": 800,
+      "byteSize": 52420,
+      "sha256": "2ebabc320f7e8329dd100c3043d411554c819cb6590b7c0fd174227ddff3d221",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and nonessential text metadata",
+        "pixelsIdenticalToDownloadedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "44f9b69d3e292ad7e15573c22b80e797304722cdc42bb76ed443229167f7824b"
+      },
+      "caption": "*图：美国劳工统计局原图：2024年9月至2026年9月经季节调整的失业率。原图保留2025年10月因联邦政府停摆未采集数据的说明。 来源及制图：美国劳工统计局，[2026年9月就业报告原始图表](https://www.bls.gov/news.release/archives/empsit_10022026.pdf#page=1)，[公有领域作品](https://www.bls.gov/opub/copyright-information.htm)。*[^1]"
+    },
+    {
+      "filename": "bls-september-2026-payroll-original.png",
+      "localPath": "/news-media/2026-10-03/bls-september-2026-payroll-original.png",
+      "article": "us-september-jobs-report-2026-10-03",
+      "kind": "publisher_original_chart",
+      "creator": "U.S. Bureau of Labor Statistics",
+      "title": "Chart 2. Nonfarm payroll employment over-the-month change, seasonally adjusted, September 2024–September 2026",
+      "sourceURL": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+      "downloadURL": "https://www.bls.gov/news.release/archives/empsit_10022026.pdf",
+      "sourcePage": 1,
+      "sourceRectPdfPoints": [
+        302,
+        358,
+        552,
+        558
+      ],
+      "extraction": "Original vector chart rasterized directly from PDF page 1 using PyMuPDF get_pixmap, 4x scaling (288 dpi), RGB PNG; only surrounding unrelated page content excluded. No reconstruction, redraw, translation, recoloring, or data changes. Complete original chart title, axis labels and applicable note retained.",
+      "sourcePdfSha256": "7e727c826f2373094af125d8e6206b64c7c63e8955cbd2eb2217e3db2976cb5b",
+      "license": "Public domain: original United States federal government work",
+      "rightsEvidenceURL": "https://www.bls.gov/opub/copyright-information.htm",
+      "rightsNote": "BLS states its publications in print and electronically are public domain, except previously copyrighted photographs and illustrations; it asks users to cite BLS. These are BLS’s own charts in its original release and contain no third-party credit. The BLS emblem is separately protected and excluded from the extracts.",
+      "checkedAt": "2026-10-04",
+      "pixelsInspected": true,
+      "width": 1000,
+      "height": 800,
+      "byteSize": 45492,
+      "sha256": "144e7e55fdba1392311ef223cb159a70d0f46b7c09be1703ecc25206a269a287",
+      "privacySanitization": {
+        "removed": "EXIF, IPTC/Photoshop, XMP and nonessential text metadata",
+        "pixelsIdenticalToDownloadedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "79eedfe74c66de56fe1326c0047dafffe80beaac40ae184507422b97c026c4f7"
+      },
+      "caption": "*图：美国劳工统计局原图：2024年9月至2026年9月经季节调整的非农就业月度变化，单位为千人。 来源及制图：美国劳工统计局，[2026年9月就业报告原始图表](https://www.bls.gov/news.release/archives/empsit_10022026.pdf#page=1)，[公有领域作品](https://www.bls.gov/opub/copyright-information.htm)。*[^1]"
+    }
+  ],
+  "retiredAssets": [
     {
       "filename": "dario-amodei-techcrunch-2023.jpg",
       "article": "anthropic-ipo-government-policy-risk-2026-10-03",
@@ -26,7 +98,10 @@
       "width": 1280,
       "height": 853,
       "caption": "*图：2023年9月20日，美国旧金山Moscone Center，Dario Amodei在TechCrunch Disrupt大会发言。摄影：Kimberly White / Getty Images for TechCrunch（© 2023 Getty Images）。[《TechCrunch Disrupt 2023 - Day 2》及授权：TechCrunch](https://www.flickr.com/photos/techcrunch/53202070940/)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*",
-      "location": "Moscone Center, San Francisco, California, USA"
+      "location": "Moscone Center, San Francisco, California, USA",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Archival illustration was not part of the cited original reporting"
     },
     {
       "filename": "ev-charging-2020.jpg",
@@ -51,7 +126,10 @@
       "height": 959,
       "caption": "*图：2020年12月10日，德国，电动汽车充电。摄影及授权：Ivan Radic；[《Electric car charging》](https://commons.wikimedia.org/wiki/File:Electric_car_charging_(9213).jpg)，[CC BY 2.0（署名）](https://creativecommons.org/licenses/by/2.0/)。*",
       "country": "Germany",
-      "locationEvidence": "Country shown in Wikimedia source image metadata; no city specified"
+      "locationEvidence": "Country shown in Wikimedia source image metadata; no city specified",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Archival illustration was not part of the cited original reporting"
     },
     {
       "filename": "us-strategic-petroleum-reserve-big-hill.jpg",
@@ -74,7 +152,10 @@
       "byteSize": 479434,
       "width": 1280,
       "height": 1024,
-      "caption": "*图：美国得克萨斯州Big Hill战略石油储备设施，2014年7月29日发布。图片：[美国能源部](https://www.flickr.com/photos/departmentofenergy/14774972431)，美国联邦政府作品，公有领域。*"
+      "caption": "*图：美国得克萨斯州Big Hill战略石油储备设施，2014年7月29日发布。图片：[美国能源部](https://www.flickr.com/photos/departmentofenergy/14774972431)，美国联邦政府作品，公有领域。*",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Archival illustration was not part of the cited original reporting"
     },
     {
       "filename": "hamburg-container-terminal-2019.jpg",
@@ -96,7 +177,10 @@
       "byteSize": 257264,
       "width": 1280,
       "height": 960,
-      "caption": "*图：2019年4月27日，德国汉堡Tollerort集装箱码头。摄影及授权：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0（署名、相同方式共享）](https://creativecommons.org/licenses/by-sa/4.0/)。*"
+      "caption": "*图：2019年4月27日，德国汉堡Tollerort集装箱码头。摄影及授权：Matti Blume；[图片来源](https://commons.wikimedia.org/wiki/File:Container_Terminal_Tollerort,_Vorhafen,_Hamburg_(P1080405).jpg)，[CC BY-SA 4.0（署名、相同方式共享）](https://creativecommons.org/licenses/by-sa/4.0/)。*",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Archival illustration was not part of the cited original reporting"
     },
     {
       "filename": "us-employment-september-2026.png",
@@ -132,8 +216,10 @@
       "byteSize": 144905,
       "width": 1980,
       "height": 1275,
-      "caption": "*图：美国2026年7至9月非农就业月度变化。数据：美国劳工统计局（2026年10月2日发布）；制图：全球伯乐 News。*"
+      "caption": "*图：美国2026年7至9月非农就业月度变化。数据：美国劳工统计局（2026年10月2日发布）；制图：全球伯乐 News。*",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-10-04",
+      "removalReason": "Self-created chart replaced with original-source media or prose"
     }
-  ],
-  "captionBlocks": "docs/news-media/2026-10-03/inline-blocks.md"
+  ]
 }

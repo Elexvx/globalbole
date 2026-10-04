@@ -37,7 +37,11 @@ for (const article of articles) {
   assert.equal(schema.dateModified, undefined, 'Do not invent a modification date');
   assert.equal(schema.author.name, article.author);
   assert.equal(schema.author.url, `${base}/`, 'Existing brand byline is linked to the actual publisher');
-  assert.equal(schema.image.url, base + article.image);
+  if (article.image) assert.equal(schema.image.url, base + article.image);
+  else {
+    assert.equal(schema.image, undefined, "Text-only article must not invent a schema image");
+    assert.ok(!head(html).includes('property="og:image"'), "Text-only article omits image metadata");
+  }
   assert.equal(schema.mainEntityOfPage['@id'], canonical(html) + '#page');
   const breadcrumb = graph(html).find(item => item['@type'] === 'BreadcrumbList');
   assert.equal(breadcrumb.itemListElement.length, 3, 'Article breadcrumb includes its section');

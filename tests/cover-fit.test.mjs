@@ -15,8 +15,7 @@ test('all shared cover renderers use proportional fill without a media-wide cont
   }
 });
 
-test('body images keep their complete natural proportions and speaker covers retain a safe focal point', () => {
+test('body images keep their complete natural proportions', () => {
   assert.match(css, /\.markdown-body img\s*\{[^}]*max-width:\s*100%;[^}]*height:\s*auto;/);
-  assert.match(css, /\.story-cover\[src="\/news-media\/2026-10-03\/dario-amodei-techcrunch-2023\.jpg"\](?:,\s*\.story-cover\[data-source-image="[^"]+"\])?\s*\{[^}]*object-position:\s*50% 35%;/);
   assert.doesNotMatch(readFileSync('components/article-markdown.tsx', 'utf8'), /story-cover/);
 });

@@ -1,0 +1,100 @@
+{
+  "checkedAt": "2026-10-04",
+  "scope": "Image remediation of all ten existing published news articles from October 3–4, preserving URLs and factual reporting",
+  "result": {
+    "articles": 10,
+    "articlesWithOriginalImages": 4,
+    "textOnlyArticles": 6,
+    "sourceImages": 8,
+    "originalCharts": 4,
+    "officialEventPhotos": 3,
+    "officialAnnouncementGraphics": 1,
+    "selfCreatedChartsRemoved": 3,
+    "archivalIllustrationsRemoved": 6
+  },
+  "articles": [
+    {
+      "article": "us-september-jobs-report-2026-10-03",
+      "status": "two_usable_original_charts",
+      "sourceUrl": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+      "sourcePdfUrl": "https://www.bls.gov/news.release/archives/empsit_10022026.pdf",
+      "notes": "Both complete original figures extracted from page 1 of the original BLS news release. HTML is text/table only. No need to redraw. BLS publication policy explicitly establishes public-domain status of its own original charts."
+    },
+    {
+      "article": "anthropic-ipo-government-policy-risk-2026-10-03",
+      "status": "no_reusable_original_article_image_verified",
+      "sourceUrl": "https://www.marketscreener.com/news/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows-ce785ddade88ff2c",
+      "candidateImageUrl": "https://cdn.zonebourse.com/static/resize/768/432//images/reuters/2026-09/2026-09-28T234416Z_1_LYNXMPEM8R1V8_RTROPTP_4_ANTHROPIC-IPO.JPG",
+      "displayedAlt": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
+      "credit": "Reuters; article carries © Reuters - 2026",
+      "constraint": "No explicit reusable license or public-domain status. Do not copy this photo. The old TechCrunch Dario portrait is openly licensed but not an image from this original source article. Additional already-cited Anthropic statement and SEC IPO bulletin are text-only articles without qualifying photos/charts.",
+      "additionalSources": [
+        "https://www.anthropic.com/news/statement-comments-secretary-war",
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-17"
+      ]
+    },
+    {
+      "article": "germany-mispel-storage-bidirectional-charging-2026-10-03",
+      "status": "no_original_article_figure",
+      "sourceUrl": "https://www.bundesnetzagentur.de/1116876",
+      "sourcePdfUrl": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Hintergrundpapier.pdf?__blob=publicationFile&v=3",
+      "notes": "Downloaded release HTML contains only site logo/close icon images. Directly linked four-page background paper contains text and one authority logo; no article photo or diagram. Do not turn text into an invented chart or substitute the old EV stock/contextual photo.",
+      "rightsEvidenceUrl": "https://www.bundesnetzagentur.de/DE/Service/Impressum/start.html",
+      "rightsNotes": "Imprint copyright section refers to CC BY-ND 4.0 for unmarked contents, alongside other restrictions and third-party picture credits. No qualifying article image exists to reuse here."
+    },
+    {
+      "article": "g20-trade-ministerial-capacity-discussions-2026-10-03",
+      "status": "no_original_article_figure",
+      "sourceUrl": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/chairs-statement-g20-trade-ministerial",
+      "sourcePdfUrl": "https://ustr.gov/sites/default/files/files/Press/Releases/G20%20Chair%27s%20Statement.pdf",
+      "rejectedMetaImageUrl": "https://ustr.gov/sites/default/files/2026-10/Meta%20Tag_0.png",
+      "notes": "Downloaded release is text-only, with only site branding/social icons. Open Graph image is the generic USTR seal, visually inspected; not a photo of the meeting. Four-page original statement has zero raster images and no charts/diagrams. Already-cited WTO principles explainer also has no article image. The existing 2019 Hamburg port photo fails original-source-article scope."
+    },
+    {
+      "article": "g7-energy-reserve-release-diesel-2026-10-03",
+      "status": "no_reusable_original_article_image_verified",
+      "sourceUrl": "https://www.elysee.fr/en/emmanuel-macron/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability",
+      "notes": "Web extraction of original G7 statement shows text only, no linked article image. Direct HTTP retrieval was 403, so absence was not independently confirmed through full HTML. Elysée reuse terms explicitly warn that photos/graphics generally require owner consent. Already-cited IEA March release HTML confirms no image in its article body, only an embedded statement video. EIA diesel explainer has three photos, none with an explicit reusable license verified. Do not substitute existing unrelated DOE Big Hill archive photo.",
+      "rightsEvidenceUrl": "https://www.elysee.fr/en/legal",
+      "additionalSources": [
+        {
+          "url": "https://www.iea.org/news/iea-member-countries-to-carry-out-largest-ever-oil-stock-release-amid-market-disruptions-from-middle-east-conflict",
+          "finding": "Original article body has no img tags, only YouTube statement iframe. Menu/footer stock imagery excluded.",
+          "rightsUrl": "https://www.iea.org/terms/creative-commons-cc-licenses",
+          "rightsNote": "IEA explicitly excludes photographs, third-party components, logos and cover images from general CC grant; separate clearance needed."
+        },
+        {
+          "url": "https://www.eia.gov/energyexplained/diesel-fuel/use-of-diesel.php",
+          "finding": "Truck and construction photos explicitly marked Stock photography (copyrighted). Diesel generators photo credited to Alaska Center for Energy and Power, no open license identified.",
+          "candidatePaths": [
+            "diesel-fuel/images/freight_truck_with_diesel_engine.jpg",
+            "diesel-fuel/images/ist2_6713153-airport-construction-ii.jpg",
+            "diesel-fuel/images/diesel-engine-generators.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "article": "ai-infrastructure-revenue-gap-2026-10-04",
+      "constraint": "No cleared source-article image identified: PwC copyright limits reuse to personal/internal noncommercial use and requires written consent for redistribution; Stanford permits personal noncommercial use, prohibiting republication; Bain PR Newswire release exposes no topical illustration/photo beyond tracking imagery. Reuters/CNA photography requires rights clearance. Do not replace the self-made chart with unlicensed research figures or unrelated stock."
+    },
+    {
+      "article": "north-korea-missile-drill-2026-10-04",
+      "constraint": "No cleared current-event source image identified. Yonhap original article has one copyrighted Sept12 Seoul Station file photo. Japan MOFA Oct3 phone-call announcement has no image. Existing NASA Korea2014 photo is reusable but is not in the cited original articles and fails requested provenance/topic alignment. KCNA redistribution should not be assumed licensed. UNIDIR cited PDF ©2022 and current UNIDIR terms explicitly prohibit redistribution absent written permission, so its diagrams are not a cleared alternative."
+    },
+    {
+      "article": "india-green-energy-corridor-storage-2026-10-04",
+      "constraint": "PIB original release has no topical image. Use the two CC BY source-original IEA charts above; do not call them PIB project investment visuals."
+    },
+    {
+      "article": "ukraine-russian-refineries-infrastructure-2026-10-04",
+      "constraint": "Existing Moscow2012 stock photo is not in cited original sources; replace with precise SBU announcement graphic if original graphics allowed. Only one cleared source graphic found; no invented second image."
+    },
+    {
+      "article": "us-ai-voluntary-safety-accord-2026-10-04",
+      "status": "three_original_official_event_photos",
+      "sourceUrl": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
+      "rightsEvidenceUrl": "https://www.whitehouse.gov/copyright/"
+    }
+  ]
+}

@@ -80,8 +80,8 @@
 | displayDate | 非空string，按lang本地化 | 卡片日期；从date按UTC生成，避免客户端时区偏移 |
 | readTime | integer，1–90 | 阅读分钟数；`readTime`，缺省由转换器估计 |
 | dek | 非空string，已翻译 | 摘要；Markdown的 `description` |
-| image | 同源 `/path` 或完整 `https://` 地址，不允许 `//` / `..` | 封面；Markdown的 `cover`。跨域后端应返回完整CDN地址，`/`仍指向前端域名 |
-| imageAlt | 非空string，已翻译 | 无障碍配图描述；`coverAlt` |
+| image | 同源 `/path` 或完整 `https://` 地址，不允许 `//` / `..`；无可用图片时为空字符串 | 封面；Markdown的 `cover`。跨域后端应返回完整CDN地址，`/`仍指向前端域名 |
+| imageAlt | 有图时为非空string，已翻译；无图时与 image 同为空字符串 | 无障碍配图描述；`coverAlt` |
 | tags | 非空string[]；字母、数字、空格、短横线 | 标签、搜索、相关阅读；`tags`。空格在标签路由中替换为短横线，请避免归一化后冲突 |
 | body | 空数组 `[]` | 保留旧组件兼容字段；v1正文统一用markdown，不填分段对象 |
 | markdown | 非空string | 不含YAML头部的完整Markdown正文；支持GFM表格、列表、引用、代码块，不传HTML |

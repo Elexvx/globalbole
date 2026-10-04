@@ -9,8 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
 description: "四个月释放1亿桶、首20天前置柴油投放、协调炼厂检修：G7的重点是燃料交付能力，不能把承诺总量等同于即时新增供应。"
-cover: "/news-media/2026-10-03/us-strategic-petroleum-reserve-big-hill.jpg"
-coverAlt: "美国得克萨斯州Big Hill战略石油储备设施的历史航拍资料照片"
+cover: ""
+coverAlt: ""
 tags: ["能源", "G7", "柴油供应"]
 readTime: 4
 draft: false
@@ -35,10 +35,6 @@ IEA在3月11日曾宣布，32个成员国同意向市场提供4亿桶紧急储�
 本次G7声明则要求跟踪3月承诺的落实，并明确考虑已履行部分。[^1] 因此，把此前4亿桶与本次1亿桶机械相加，得出累计新增5亿桶，会混淆承诺与执行；把1亿桶全部视为柴油，同样超出了声明内容。
 
 要判断市场究竟多了多少供应，还需要逐国投放进度、油品构成，以及本次安排与此前承诺的对应关系。这些细节没有完整披露前，总量更适合用来理解行动规模，而非计算即时供应增幅。
-
-![美国得克萨斯州Big Hill战略石油储备设施的历史航拍资料照片](/news-media/2026-10-03/us-strategic-petroleum-reserve-big-hill.jpg)
-
-*图：美国得克萨斯州Big Hill战略石油储备设施，2014年7月29日发布。图片：[美国能源部](https://www.flickr.com/photos/departmentofenergy/14774972431)，美国联邦政府作品，公有领域。*
 
 ## 储备争取时间，效果仍取决于执行
 

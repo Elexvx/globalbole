@@ -56,7 +56,7 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   // Choose one fallback for the whole cluster, including when no Chinese translation exists.
   const fallbackLanguage = locales.find(lang => languages[lang]);
   const alternates = pageHasAlternate && fallbackLanguage ? { ...languages, "x-default": languages[fallbackLanguage] } : undefined;
-  const images = article ? [{ url: absolute(article.image), alt: article.imageAlt }] : undefined;
+  const images = article?.image ? [{ url: absolute(article.image), alt: article.imageAlt }] : undefined;
   const index = !article || contentLocale === locale;
   const metadata: Metadata = {
     title: { absolute: `${title} — ${siteName}` }, description,
@@ -81,7 +81,7 @@ export function routeSeo(locale: Locale, path: string[] = []) {
     "@type": "NewsArticle", "@id": articleId, url: canonical,
     headline: article.title, description: article.dek, inLanguage: contentLocale,
     datePublished: article.date,
-    image: { "@type": "ImageObject", url: absolute(article.image), caption: article.imageAlt },
+    ...(article.image ? { image: { "@type": "ImageObject", url: absolute(article.image), caption: article.imageAlt } } : {}),
     author: { "@type": "Organization", name: article.author, ...(knownPublisherAuthor ? { "@id": publisherId, url: absolute("/") } : {}) },
     publisher: { "@id": publisherId }, mainEntityOfPage: { "@id": pageId },
     articleSection: translate(article.categoryLabel, contentLocale), keywords: article.tags,

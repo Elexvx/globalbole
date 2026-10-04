@@ -94,10 +94,10 @@ export function StoryCard({
     const avif = responsiveAvifSourceProps(story.image, "feature");
     return (
       <Link href={storyHref(story)} className="story-link group block">
-        <div className="image-frame aspect-[16/10] border-2 border-foreground bg-muted">
+        {story.image ? <div className="image-frame aspect-[16/10] border-2 border-foreground bg-muted">
           <picture>{avif ? <source {...avif}/> : null}<img {...imageProps} alt={story.imageAlt} loading="eager" fetchPriority="high" decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" /></picture>
-        </div>
-        <div className="mt-6">
+        </div> : null}
+        <div className={story.image ? "mt-6" : "border-t-2 border-foreground pt-5"}>
           <StoryMeta story={story} />
           <Heading className="headline mt-3 text-[clamp(2rem,4.6vw,4rem)] font-black leading-[0.96] tracking-[-0.065em]">{story.title}</Heading>
           <p className="dek mt-4 max-w-2xl text-base leading-7">{story.dek}</p>
@@ -113,10 +113,10 @@ export function StoryCard({
   const avif = responsiveAvifSourceProps(story.image);
   return (
     <Link href={storyHref(story)} className="story-link group block">
-      <div className="image-frame aspect-[16/10] overflow-hidden border border-border bg-muted">
+      {story.image ? <div className="image-frame aspect-[16/10] overflow-hidden border border-border bg-muted">
         <picture>{avif ? <source {...avif}/> : null}<img {...imageProps} alt={story.imageAlt} loading={priority ? "eager" : "lazy"} fetchPriority={priority ? "high" : undefined} decoding="async" className="story-cover h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" /></picture>
-      </div>
-      <div className="mt-4">
+      </div> : null}
+      <div className={story.image ? "mt-4" : "border-t border-border pt-4"}>
         <StoryMeta story={story} compact />
         <Heading className={"headline mt-3 font-extrabold " + (variant === "rail" ? "text-xl" : "text-[1.45rem]")}>{story.title}</Heading>
         <p className="dek mt-3 line-clamp-3 text-sm">{story.dek}</p>

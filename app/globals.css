@@ -1124,11 +1124,7 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   object-position: 50% 50%;
 }
 
-/* Keep the speaker's face comfortably inside both landscape and square covers. */
-.story-cover[src="/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg"],
-.story-cover[data-source-image="/news-media/2026-10-03/dario-amodei-techcrunch-2023.jpg"] {
-  object-position: 50% 35%;
-}
+
 
 /* Keep source notes visually separate while retaining readable links and backreferences. */
 .markdown-body .footnotes {
@@ -1149,4 +1145,10 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   align-items: center;
   min-height: 24px;
   min-width: 24px;
+}
+
+/* Image-free articles use the full text column without an empty media slot. */
+.ref-pick-story.ref-story-text-only,
+.ref-scan-story.ref-story-text-only {
+  grid-template-columns: minmax(0, 1fr);
 }
