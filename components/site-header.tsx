@@ -1,6 +1,7 @@
 "use client";
 import { LanguageSelect } from "@/components/language-select";
 import { HeaderClock } from "@/components/header-clock";
+import { WireTicker } from "@/components/wire-ticker";
 
 import { Text, useI18n } from "@/lib/i18n";
 
@@ -11,7 +12,7 @@ import * as Dialog from "@radix-ui/react-dialog";
 import * as Select from "@radix-ui/react-select";
 import { ChevronDown, Menu, Search, X } from "lucide-react";
 import Link from "@/components/localized-link";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { categories, type Story } from "@/lib/data";
 import { useArticles } from "@/lib/articles";
 
@@ -280,25 +281,32 @@ function MobileMenu() {
 export function SiteHeader() {
   const {articles}=useArticles();
   const tickerStories=articles.slice(0,8);
+  const {locale}=useI18n();
+  const tickerRef = useRef<HTMLDivElement>(null);
+  // Article refreshes and client-side locale changes must refresh the copies too.
+  const tickerContent = JSON.stringify(tickerStories.map(({slug, title, categoryLabel}) => [slug, title, categoryLabel]));
+  useEffect(() => {
+    let active = true;
+    let dispose: (() => void) | undefined;
+    // Use the exact same small native module as the hydration-free root entry.
+    const scriptUrl = "/site-ticker.mjs";
+    import(/* webpackIgnore: true */ scriptUrl).then(({mountTicker}) => {
+      if (active && tickerRef.current) dispose = mountTicker(tickerRef.current);
+    }).catch(() => { /* Headlines remain readable with native horizontal scroll. */ });
+    return () => { active = false; dispose?.(); };
+  }, [locale, tickerContent]);
 
   return (
     <header className="bg-surface">
       <div className="leader-bar" />
-      <div className="wire-ticker border-b border-border bg-background-wash">
-        <div className="layout-wide flex min-h-8 items-center gap-4 overflow-hidden px-5 lg:px-8">
-          <span className="kicker self-stretch inline-flex shrink-0 items-center bg-accent px-4 text-accent-foreground"><Text value="The Wire"/></span>
-          <div className="wire-ticker-viewport min-w-0">
-            <div className="wire-ticker-loop flex min-w-max items-center gap-10 whitespace-nowrap">
-              {[...tickerStories, ...tickerStories].map((story, index) => (
-                <Link key={story.slug + "-" + index} href={storyHref(story)} className="text-xs font-semibold text-muted-foreground transition hover:text-foreground">
-                  <span className="mr-2 font-mono type-caption uppercase tracking-[0.1em] text-accent">{story.categoryLabel}</span>
-                  {story.title}
-                </Link>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
+      <WireTicker rootRef={tickerRef} locale={locale} label={<Text value="The Wire"/>}>
+        {tickerStories.map((story) => (
+          <Link key={story.slug} href={storyHref(story)} className="text-xs font-semibold text-muted-foreground transition hover:text-foreground">
+            <span className="mr-2 font-mono type-caption uppercase tracking-[0.1em] text-accent">{story.categoryLabel}</span>
+            {story.title}
+          </Link>
+        ))}
+      </WireTicker>
       <div className="layout-wide px-5 lg:px-8">
         <div className="site-brand-row flex items-center justify-between gap-4 py-5 lg:py-7">
           <Link href="/" className="min-w-0">

@@ -5,7 +5,7 @@ import { Text } from "@/lib/i18n";
 
 import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
-import { Newsletter, Pagination, SectionHeading, StoryCard } from "@/components/story-components";
+import { Newsletter, Pagination, SectionDirectory, StoryCard } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
 
 const pageSize = 12;
@@ -29,23 +29,25 @@ export default function AllNewsPage() {
   const currentPage = Math.min(page, totalPages);
   const visible = ordered.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
-  return (
-    <main>
-      <section className="layout-wide px-5 pb-10 pt-10 lg:px-8 lg:pb-14 lg:pt-14">
-        <div className="border-b-[0.1875rem] border-border-strong pb-7">
-          <p className="kicker"><Text value="The complete edition"/></p>
-          <h1 className="headline mt-3 font-black "><Text value="All News"/></h1>
-          <p className="dek mt-5 max-w-2xl text-lg leading-8"><Text value="Every desk, every beat, one clean archive for the stories making the political weather."/></p>
-          <p className="mt-6 font-mono type-caption uppercase tracking-[0.12em] text-muted-foreground"><Text value="Page"/> {currentPage} <Text value="of"/> {totalPages} · {ordered.length} <Text value="stories"/></p>
-        </div>
-      </section>
-      <section className="layout-wide px-5 pb-16 lg:px-8">
-        <div className="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
-          {visible.map((story, index) => <StoryCard key={story.slug} story={story} headingLevel={2} priority={index === 0} />)}
-        </div>
-        <Pagination page={currentPage} totalPages={totalPages} />
-      </section>
-      <Newsletter compact />
-    </main>
-  );
+  const dateGroups = visible.reduce<{date:string; label:string; stories:typeof visible}[]>((groups, story) => {
+    const group = groups.find(item => item.date === story.date);
+    if (group) group.stories.push(story);
+    else groups.push({date:story.date, label:story.displayDate, stories:[story]});
+    return groups;
+  }, []);
+
+  return <main>
+    <section className="news-page-heading layout-wide px-5 lg:px-8"><div>
+      <p className="kicker"><Text value="The complete edition"/></p><h1 className="headline font-black"><Text value="All News"/></h1>
+      <p className="news-count type-caption text-muted-foreground">{ordered.length} <Text value="stories"/>{totalPages > 1 ? <> · <Text value="Page"/> {currentPage} <Text value="of"/> {totalPages}</> : null}</p>
+    </div></section>
+    <section className="news-columns layout-wide px-5 pb-12 lg:px-8">
+      <div>{dateGroups.map(group => <section key={group.date} className="news-date-group" aria-label={group.label}>
+        <p className="news-date-heading kicker"><time dateTime={group.date}>{group.label}</time></p>
+        {group.stories.map((story,index) => <StoryCard key={story.slug} story={story} variant="list" headingLevel={2} priority={group === dateGroups[0] && index === 0}/>)}
+      </section>)}<Pagination page={currentPage} totalPages={totalPages}/></div>
+      <SectionDirectory stories={ordered}/>
+    </section>
+    <Newsletter compact/>
+  </main>;
 }

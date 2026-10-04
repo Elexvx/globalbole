@@ -25,11 +25,13 @@ export function staticHomeHtml(html) {
   assert.ok(html.includes('data-live-clock'), 'Keep the live clock enhancement available');
   let clockScripts = 0;
   let preferenceScripts = 0;
+  let tickerScripts = 0;
   html = html.replace(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi, (tag, attributes, body) => {
     if (/\btype="application\/ld\+json"/i.test(attributes)) return tag;
     const src = attributes.match(/\bsrc="([^"]+)"/i)?.[1];
     if (src === '/site-clock.js') { clockScripts++; return tag; }
     if (src === '/site-preferences.js') { preferenceScripts++; return tag; }
+    if (src === '/site-ticker.mjs') { tickerScripts++; return tag; }
     if (src?.startsWith('/_next/static/') && /\.js(?:[?#]|$)/.test(src)) return '';
     if (!src && /^(?:\(self\.__next_f=|self\.__next_f\.push\()/.test(body.trim())) return '';
     throw new Error('Unknown executable script on static home; refusing to remove a possible feature');
@@ -42,6 +44,8 @@ export function staticHomeHtml(html) {
   if (!clockScripts) html = html.replace('</head>', '<script src="/site-clock.js" defer></script></head>');
   assert.ok(preferenceScripts <= 1, 'Only one root language enhancement is required');
   if (!preferenceScripts) html = html.replace('</head>', '<script src="/site-preferences.js" defer></script></head>');
+  assert.ok(tickerScripts <= 1, 'Only one root ticker enhancement is required');
+  if (!tickerScripts) html = html.replace('</head>', '<script src="/site-ticker.mjs" type="module"></script></head>');
   return html;
 }
 
@@ -55,5 +59,5 @@ export function finalizeStaticHome() {
   const original = readFileSync(file,'utf8');
   const result = staticHomeHtml(original);
   writeFileSync(file,result);
-  console.log(`Static homepage: ${original.length - result.length} HTML characters of unnecessary hydration removed; live clock, native menu and content retained.`);
+  console.log(`Static homepage: ${original.length - result.length} HTML characters of unnecessary hydration removed; live clock, measured ticker, native menu and content retained.`);
 }

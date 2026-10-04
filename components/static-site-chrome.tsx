@@ -1,6 +1,7 @@
 import { locales, localeNames } from "@/lib/locales";
 import { categories, stories } from "@/lib/data";
 import { RootClock } from "@/components/root-clock";
+import { WireTicker } from "@/components/wire-ticker";
 import { Globe2, Mail, Rss } from "lucide-react";
 import { referenceCopy } from "@/components/reference-home";
 import { positioning } from "@/lib/site-brand";
@@ -21,20 +22,13 @@ export function StaticSiteHeader() {
   return (
     <header className="bg-surface">
       <div className="leader-bar" />
-      <div className="wire-ticker border-b border-border bg-background-wash">
-        <div className="layout-wide flex min-h-8 items-center gap-4 overflow-hidden px-5 lg:px-8">
-          <span className="kicker self-stretch inline-flex shrink-0 items-center bg-accent px-4 text-accent-foreground">即时资讯</span>
-          <div className="wire-ticker-viewport min-w-0">
-            <div className="wire-ticker-loop flex min-w-max items-center gap-10 whitespace-nowrap">
-              {[...tickerStories, ...tickerStories].map((story, index) => (
-                <a key={`${story.slug}-${index}`} href={rootHref(`/post/${story.slug}/`)} className="text-xs font-semibold text-muted-foreground transition hover:text-foreground">
-                  <span className="mr-2 font-mono type-caption uppercase tracking-[0.1em] text-accent">{categoryLabels[story.category]}</span>{story.title}
-                </a>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
+      <WireTicker staticEntry locale="zh-CN" label="即时资讯">
+        {tickerStories.map((story) => (
+          <a key={story.slug} href={rootHref(`/post/${story.slug}/`)} className="text-xs font-semibold text-muted-foreground transition hover:text-foreground">
+            <span className="mr-2 font-mono type-caption uppercase tracking-[0.1em] text-accent">{categoryLabels[story.category]}</span>{story.title}
+          </a>
+        ))}
+      </WireTicker>
       <div className="layout-wide px-5 lg:px-8">
         <div className="relative site-brand-row flex items-center justify-between gap-4 py-5 lg:py-7">
           <a href={rootHref("/")} className="min-w-0">

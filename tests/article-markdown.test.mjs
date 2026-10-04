@@ -199,6 +199,12 @@ test('responsive sources share sizes and body fallbacks stay original', async ()
 test('cover pictures expose one preferred format without preloading the fallback as a second image', async () => {
   const { ReferenceHome } = await import('../components/reference-home.tsx');
   const stories = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8'));
+  // Use a real photo in the lead slot so format coverage does not depend on
+  // whether the live edition happens to put its photographs in text-only rails.
+  const photo = stories.find(story => /\.jpe?g$/i.test(story.image));
+  const lead = stories.filter(story => story.lang === 'zh-CN').sort((a,b) => b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug))[0];
+  lead.image = photo.image;
+  lead.imageAlt = photo.imageAlt;
   const html = renderToStaticMarkup(createElement(ReferenceHome, {stories, locale:'zh-CN', prefix:'/zh-CN'}));
   assert.match(html, /<picture><source type="image\/avif" srcSet="[^\"]+\.avif \d+w/);
   assert.match(html, /<img[^>]*class="story-cover ref-image /);
@@ -229,5 +235,23 @@ test('text-only home cards keep each edition’s titles and links without empty 
       assert.ok(html.includes(`/${locale}/post/${story.slug}/`));
     }
     for(const story of all.filter(story=>story.lang!==locale)) assert.ok(!html.includes(`/post/${story.slug}/`),'Home must not leak another edition');
+  }
+});
+
+
+test('newsroom homes lead with the main story and display every current story exactly once', async () => {
+  const { ReferenceHome } = await import('../components/reference-home.tsx');
+  const { categories } = await import('../lib/categories.mjs');
+  const all = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8'));
+  for (const locale of ['zh-CN','zh-TW','en','ru','fr']) {
+    const stories = all.filter(story => story.lang === locale).sort((a,b) => b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug));
+    const html = renderToStaticMarkup(createElement(ReferenceHome, {stories:all, locale, prefix:`/${locale}`}));
+    const shown = [...html.matchAll(/data-story-slug="([^"]+)"/g)].map(match => match[1]);
+    assert.equal(shown[0], stories[0].slug, `${locale}: lead first in reading order`);
+    assert.equal(shown.length, new Set(shown).size, `${locale}: no repeated home story`);
+    assert.deepEqual([...shown].sort(), stories.map(story => story.slug).sort());
+    for (const category of categories) assert.ok(html.includes(`/${locale}/category/${category.slug}/`));
+    assert.doesNotMatch(html, /ref-rank-number|picks-heading|ref-archive-grid/);
+    assert.equal((html.match(/<h1\b/g) || []).length, 1);
   }
 });
