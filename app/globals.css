@@ -371,6 +371,7 @@ img {
 .ref-supporting { display: grid; gap: 1.25rem; align-content: start; }
 .ref-supporting > article + article { border-top: 1px solid var(--site-border); padding-top: 1.25rem; }
 .ref-support-story { display: grid; grid-template-columns: minmax(0, 1fr) 6.5rem; gap: 1rem; }
+.ref-support-story:not(:has(.ref-support-image)) { grid-template-columns: minmax(0, 1fr); }
 .ref-support-image { grid-column: 2; grid-row: 1; }
 .ref-support-story > div:last-child { grid-column: 1; grid-row: 1; }
 .ref-support-story .ref-meta { margin-top: 0; }
@@ -383,7 +384,7 @@ img {
 .ref-rail-link { margin-top: .9rem; }
 .ref-hero-link:hover h2, .ref-support-story:hover h3, .ref-compact-story:hover strong,
 .ref-desk-story:hover strong, .ref-desk-heading a:hover { color: var(--site-accent); }
-.ref-desks { margin-top: var(--space-section); }
+.ref-desks { margin-top: 2.5rem; }
 .ref-section-title { margin: 0; }
 .ref-desk-navigation { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; padding: .75rem 0; border-bottom: 1px solid var(--site-border); }
 .ref-desk-navigation a { display: inline-flex; align-items: center; gap: .45rem; min-height: 2.75rem; font-size: var(--type-ui); font-weight: 600; }
@@ -470,10 +471,14 @@ img {
   .ref-hero-grid { grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); gap: 1.75rem; }
   .ref-supporting { grid-template-columns: minmax(0, 1fr); padding-left: 1.75rem; border-left: 1px solid var(--site-border); }
   .ref-supporting > article + article { border-top: 1px solid var(--site-border); padding-top: 1.25rem; }
+  .ref-supporting > article + article .ref-support-story { display: grid; grid-template-columns: minmax(0, 1fr) 5rem; gap: 1rem; }
+  .ref-supporting > article + article .ref-support-story:not(:has(.ref-support-image)) { grid-template-columns: minmax(0, 1fr); }
+  .ref-supporting > article + article .ref-support-story .ref-meta { margin-top: 0; }
   .ref-latest { grid-column: 1 / -1; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 1.5rem; }
   .ref-latest h2, .ref-latest .ref-rail-link { grid-column: 1 / -1; }
   .ref-desks-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .ref-desk + .ref-desk { padding-left: 1.5rem; border-left: 1px solid var(--site-border); }
+  .ref-desk:nth-child(3n + 1) { padding-left: 0; border-left: 0; }
   .news-columns { grid-template-columns: minmax(0, 1fr) 15rem; gap: 3rem; }
   .news-directory { position: sticky; top: 1.5rem; align-self: start; }
   .news-related-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }

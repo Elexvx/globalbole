@@ -123,9 +123,11 @@ export function mountTicker(root) {
   listen(root, 'focusin', event => {
     state.focused = true;
     syncPlayback();
-    if (animation && group.contains(event.target)) {
+    if (animation && group.contains(event.target) && event.target.matches(':focus-visible')) {
       // Originals may have moved out of view by the time a keyboard user tabs
       // into the strip. Reveal the focused headline in its stationary group.
+      // Pointer focus only pauses: moving a link between pointerdown and click
+      // can put it out from under the pointer and prevent its navigation.
       animation.currentTime = 0;
       const item = event.target.getBoundingClientRect();
       const view = viewport.getBoundingClientRect();

@@ -20,3 +20,16 @@ test('layout leaves brand colors and responsive semantic heading roles in place'
   assert.doesNotMatch(css, /\.ref-latest\s*\{[^}]*order:\s*1/);
   assert.match(css, /\.ref-hero-grid\s*\{[^}]*grid-template-columns:\s*minmax\(0, 1\.65fr\)/);
 });
+
+
+test('image-free supporting stories reclaim their mobile thumbnail column', () => {
+  const css = readFileSync('app/globals.css','utf8');
+  assert.match(css, /\.ref-support-story:not\(:has\(\.ref-support-image\)\)\s*\{[^}]*grid-template-columns:\s*minmax\(0, 1fr\)/);
+});
+
+
+test('desktop supporting coverage stays compact instead of stretching the lead row', () => {
+  const css = readFileSync('app/globals.css','utf8');
+  assert.match(css, /\.ref-supporting > article \+ article \.ref-support-story\s*\{[^}]*grid-template-columns:\s*minmax\(0, 1fr\) 5rem/);
+  assert.match(css, /\.ref-desks\s*\{\s*margin-top:\s*2.5rem/);
+});

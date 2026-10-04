@@ -59,7 +59,12 @@ function fixture({ width = 1000, viewportWidth = 600, reduced = false } = {}) {
     ResizeObserver: class { constructor(fn) { resize = fn; } observe() {} disconnect() { this.disconnected = true; } },
   });
   const doc = events({ defaultView: win, fonts, hidden: false, activeElement: null });
-  const link = { attrs: {}, setAttribute(key, value) { this.attrs[key] = value; }, getBoundingClientRect: () => ({ left: 700, right: 900 }) };
+  const link = {
+    attrs: {}, focusVisible: false,
+    setAttribute(key, value) { this.attrs[key] = value; },
+    matches(selector) { return selector === ':focus-visible' && this.focusVisible; },
+    getBoundingClientRect: () => ({ left: 700, right: 900 }),
+  };
   const clones = [];
   const group = {
     children: [link],
@@ -151,6 +156,7 @@ test('runtime pauses on hover/focus/visibility and keeps a manual pause across r
   f.root.emit('pointerleave');
   assert.equal(animation.playState, 'running');
   animation.currentTime = 3000;
+  f.link.focusVisible = true;
   f.root.emit('focusin', { target: f.link });
   assert.equal(animation.playState, 'paused');
   assert.equal(animation.currentTime, 0, 'Focused originals become visible even late in the loop');
@@ -170,6 +176,24 @@ test('runtime pauses on hover/focus/visibility and keeps a manual pause across r
   f.toggle.emit('click');
   assert.equal(f.animations.at(-1).playState, 'running');
   assert.equal(f.toggle.attrs['aria-label'], 'Pause news ticker');
+  dispose();
+});
+
+test('pointer focus pauses a later headline without moving its click target', () => {
+  const f = fixture();
+  const dispose = mountTicker(f.root);
+  const animation = f.animations[0];
+  animation.currentTime = 12000;
+  f.viewport.scrollLeft = 45;
+  f.root.emit('pointerenter', { pointerType: 'mouse' });
+  f.root.emit('focusin', { target: f.link });
+  assert.equal(animation.playState, 'paused');
+  assert.equal(animation.currentTime, 12000, 'Pointer focus keeps the animation at the clicked position');
+  assert.equal(f.viewport.scrollLeft, 45, 'Pointer focus does not shift the viewport before mouseup');
+  f.root.emit('pointerleave');
+  assert.equal(animation.playState, 'paused', 'Focused links remain stationary after pointer departure');
+  f.root.emit('focusout', { relatedTarget: null });
+  assert.equal(animation.playState, 'running');
   dispose();
 });
 
