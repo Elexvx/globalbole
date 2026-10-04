@@ -1212,20 +1212,31 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 .type-caption { font-size: var(--type-caption); line-height: 1.6; }
 
 
-/* Keep the original three-column front page. Long translated sidebars must not
-   stretch the shared row below the lead story and create an empty center panel.
-   Size containment makes the lead define this row; only overflowing rails scroll.
+/* Keep the original three-column front page. The lead defines the row height,
+   so long translated sidebars cannot create a blank panel below the lead.
+   The Latest heading stays fixed; only its article list scrolls on desktop.
    Narrow layouts retain their original natural-height reading flow. */
 @media (min-width: 64rem) {
   .ref-hero-grid > .ref-latest,
   .ref-hero-grid > .ref-picks {
     contain: size;
     min-height: 0;
+  }
+  .ref-hero-grid > .ref-latest {
+    display: flex;
+    flex-direction: column;
+  }
+  .ref-latest > .ref-heading-small,
+  .ref-latest > .ref-rule { flex-shrink: 0; }
+  .ref-latest-list { flex: 1; min-height: 0; }
+  .ref-latest-list,
+  .ref-hero-grid > .ref-picks {
     overflow-y: auto;
     overscroll-behavior-y: contain;
     scrollbar-gutter: stable;
   }
-  .ref-hero-grid > :is(.ref-latest, .ref-picks):focus-visible {
+  .ref-latest-list:focus-visible,
+  .ref-hero-grid > .ref-picks:focus-visible {
     outline: 2px solid var(--site-accent);
     outline-offset: 3px;
   }

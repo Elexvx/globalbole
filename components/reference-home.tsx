@@ -349,10 +349,12 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
 
     <section className="ref-home-hero layout-wide px-5 pt-8 lg:px-8" aria-labelledby="latest-heading">
       <div className="ref-hero-grid">
-        <aside className="ref-latest" aria-labelledby="latest-heading" tabIndex={0}>
+        <aside className="ref-latest" aria-labelledby="latest-heading">
           <h2 id="latest-heading" className="ref-kicker ref-heading-small">{text.latest}</h2>
           <div className="ref-rule" />
-          {latest.map((story) => <CompactStory key={story.slug} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}
+          <div className="ref-latest-list" role="region" aria-labelledby="latest-heading" tabIndex={0}>
+            {latest.map((story) => <CompactStory key={story.slug} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}
+          </div>
         </aside>
 
         <article className="ref-hero-story">
