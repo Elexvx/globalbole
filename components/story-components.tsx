@@ -8,7 +8,7 @@ import { storyHref } from "@/lib/links";
 import { ArrowRight, Check, Clock3, Link2 } from "lucide-react";
 import Link from "@/components/localized-link";
 import { useState } from "react";
-import { categories, type Story } from "@/lib/data";
+import type { Story } from "@/lib/data";
 import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
 
 export function SectionHeading({
@@ -66,20 +66,11 @@ export function StoryCard({
   priority = false,
 }: {
   story: Story;
-  variant?: "grid" | "compact" | "feature" | "rail" | "list";
+  variant?: "grid" | "compact" | "feature" | "rail";
   headingLevel?: 2 | 3;
   priority?: boolean;
 }) {
   const Heading = headingLevel === 2 ? "h2" : "h3";
-  if (variant === "list") {
-    const imageProps = responsiveImageProps(story.image, "card");
-    const avif = responsiveAvifSourceProps(story.image, "card");
-    return <Link href={storyHref(story)} className="story-link group news-list-item" data-story-slug={story.slug}>
-      {story.image ? <div className="news-list-image"><picture>{avif ? <source {...avif}/> : null}<img {...imageProps} alt={story.imageAlt} loading={priority ? "eager" : "lazy"} fetchPriority={priority ? "high" : undefined} decoding="async" className="story-cover h-full w-full object-cover"/></picture></div> : null}
-      <div className="news-list-copy"><StoryMeta story={story} compact/><Heading className="headline font-extrabold">{story.title}</Heading><p className="dek">{story.dek}</p><p className="news-list-author type-caption text-muted-foreground"><Text value="By"/> {story.author} · {story.readTime} <Text value="min read"/></p></div>
-    </Link>;
-  }
-
   if (variant === "compact") {
     return (
       <Link href={storyHref(story)} className="story-link group block border-b border-border py-4 first:pt-0 last:border-b-0">
@@ -134,14 +125,6 @@ export function StoryCard({
   );
 }
 
-export function SectionDirectory({ stories, current }: { stories: Story[]; current?: string }) {
-  return <aside className="news-directory" aria-labelledby="directory-heading">
-    <h2 id="directory-heading" className="headline font-extrabold"><Text value="Sections"/></h2>
-    <nav>{categories.map(category => <Link key={category.slug} href={`/category/${category.slug}/`} aria-current={current === category.slug ? "page" : undefined}><span><Text value={category.label}/></span><span>{stories.filter(story => story.category === category.slug).length}</span></Link>)}
-    <Link href="/all-news/" className="news-directory-archive"><span><Text value="All News"/></span><span aria-hidden="true">→</span></Link></nav>
-  </aside>;
-}
-
 export function Newsletter({ compact = false }: { compact?: boolean }) {
   return (
     <section className={"subscription-banner w-full border-y-[0.1875rem] border-border-strong bg-accent text-accent-foreground " + (compact ? "my-8" : "my-12")}>
@@ -158,7 +141,6 @@ export function Newsletter({ compact = false }: { compact?: boolean }) {
 }
 
 export function Pagination({ page, totalPages }: { page: number; totalPages: number }) {
-  if (totalPages <= 1) return null;
   const href = (number: number) => number === 1 ? "/all-news/" : "/all-news/" + number + "/";
   const numbers = Array.from({length: totalPages}, (_, i) => i + 1).filter(n => n === 1 || n === totalPages || Math.abs(n-page) <= 1);
   return (

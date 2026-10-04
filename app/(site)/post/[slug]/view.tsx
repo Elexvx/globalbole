@@ -8,7 +8,7 @@ import type { Locale } from "@/lib/locales";
 import Link from "@/components/localized-link";
 import { useParams } from "next/navigation";
 import { tagHref } from "@/lib/links";
-import { ShareBar, StoryCard } from "@/components/story-components";
+import { ShareBar, StoryCard, StoryMeta } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
 import { categories } from "@/lib/data";
 import { useI18n } from "@/lib/i18n";
@@ -64,7 +64,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
             <img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="async" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" />
           </div> : null}
           <div className="mt-7"><ShareBar story={story} /></div>
-          <div className="article-reading-layout">
+          <div className="mx-auto mt-10 grid gap-12 lg:grid-cols-[minmax(0,46rem)_15rem]">
             <div className="article-copy min-w-0">
               {story.markdown ? <ClientMarkdown markdown={story.markdown} locale={locale} initialMarkdown={initialMarkdown} initialLocale={initialLocale}>{children}</ClientMarkdown> : null}
               {story.body.map((section, index) => (
@@ -79,11 +79,11 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
                 {story.tags.map((tag) => <Link key={tag} href={tagHref(tag)} className="rounded-full border border-border px-3 py-2 text-xs transition hover:border-border-strong">{t(categories.find(item=>item.slug===tag)?.label || tag)}</Link>)}
               </div>
             </div>
-            <aside className="self-start border-t-2 border-border-strong pt-4 lg:sticky lg:top-6">
+            <aside className="self-start border-t-[0.1875rem] border-border-strong pt-4 lg:sticky lg:top-6">
               <p className="kicker"><Text value="Filed under"/></p>
-              <h2 className="headline mt-3 font-extrabold">{t(story.categoryLabel)}</h2>
-              <p className="mt-3 text-sm leading-7 text-muted-foreground"><Text value={categories.find(category => category.slug === story.category)?.description || ""}/></p>
-              <Link href={"/category/" + story.category + "/"} className="mt-4 inline-flex min-h-11 items-center text-sm font-bold underline decoration-accent underline-offset-4"><Text value="View section →"/></Link>
+              <p className="mt-3 font-display text-2xl font-extrabold leading-tight tracking-[-0.04em]">{t(story.categoryLabel)}</p>
+              <p className="mt-4 text-sm leading-6 text-muted-foreground"><Text value="Reporting from the independent political daily."/></p>
+              <StoryMeta story={story} />
             </aside>
           </div>
         </div>
@@ -95,7 +95,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
               <div><p className="kicker"><Text value="Keep reading"/></p><h2 className="headline mt-2 font-black "><Text value="More from the desk"/></h2></div>
               <Link href={"/category/" + story.category + "/"} className="hidden text-xs font-bold uppercase tracking-[0.14em] underline decoration-accent underline-offset-4 sm:block"><Text value="View section →"/></Link>
             </div>
-            <div className="news-related-grid mt-6">{related.map((item) => <StoryCard key={item.slug} story={item} />)}</div>
+            <div className="mt-8 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">{related.map((item) => <StoryCard key={item.slug} story={item} />)}</div>
           </div>
         </section>
       ) : null}
