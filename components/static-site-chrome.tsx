@@ -41,7 +41,7 @@ export function StaticSiteHeader() {
             <a href="/feeds/zh-CN.xml" className="header-action-link">订阅</a>
           </div>
           <details className="language-menu">
-            <summary aria-label="语言 / Language">◎ <span>简体中文</span></summary>
+            <summary className="header-action-link" aria-label="语言 / Language"><span>简体中文</span></summary>
             <nav aria-label="语言 / Language">{locales.map(locale=><a key={locale} href={`/${locale}/`} lang={locale} hrefLang={locale} data-language={locale} aria-current={locale==="zh-CN" ? "true" : undefined}>{localeNames[locale]}</a>)}</nav>
           </details>
           <details className="group lg:hidden">

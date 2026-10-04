@@ -12,7 +12,7 @@ export function LanguageSelect() {
   const params=useParams();
   const pathname=usePathname();
   return <details className="language-menu">
-    <summary aria-label={t("Language")}>◎ <span>{localeNames[locale]}</span></summary>
+    <summary className="header-action-link" aria-label={t("Language")}><span>{localeNames[locale]}</span></summary>
     <nav aria-label={t("Language")}>{locales.map(next=><a
       key={next} lang={next} hrefLang={next} data-language={next}
       aria-current={locale===next ? "true" : undefined}

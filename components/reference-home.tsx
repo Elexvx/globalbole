@@ -14,6 +14,7 @@ type HomeCopy = {
   subscribe: string;
   allNews: string;
   latest: string;
+  latestEyebrow: string;
   curated: string;
   editorPicks: string;
   seeAll: string;
@@ -62,6 +63,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     subscribe: "订阅",
     allNews: "全部文章",
     latest: "最新报道",
+    latestEyebrow: "快讯",
     curated: "精选",
     editorPicks: "编辑推荐",
     seeAll: "查看全部",
@@ -104,6 +106,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     subscribe: "訂閱",
     allNews: "全部文章",
     latest: "最新報導",
+    latestEyebrow: "快訊",
     curated: "精選",
     editorPicks: "編輯推薦",
     seeAll: "查看全部",
@@ -146,6 +149,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     subscribe: "SUBSCRIBE",
     allNews: "ALL NEWS",
     latest: "THE LATEST",
+    latestEyebrow: "BRIEFING",
     curated: "CURATED",
     editorPicks: "EDITOR'S PICKS",
     seeAll: "SEE ALL",
@@ -188,6 +192,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     subscribe: "ПОДПИСАТЬСЯ",
     allNews: "ВСЕ СТАТЬИ",
     latest: "ПОСЛЕДНИЕ НОВОСТИ",
+    latestEyebrow: "СВОДКА",
     curated: "ПОДБОРКА",
     editorPicks: "ВЫБОР РЕДАКЦИИ",
     seeAll: "СМОТРЕТЬ ВСЕ",
@@ -230,6 +235,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     subscribe: "S'ABONNER",
     allNews: "TOUS LES ARTICLES",
     latest: "LES DERNIÈRES INFOS",
+    latestEyebrow: "EN BREF",
     curated: "SÉLECTION",
     editorPicks: "CHOIX DE LA RÉDACTION",
     seeAll: "VOIR TOUT",
@@ -290,8 +296,8 @@ function ImageStory({ story, variant = "card", className = "" }: { story: Story;
   return <picture>{avif ? <source {...avif}/> : null}<img {...props} src={props.src} alt={story.imageAlt} loading={variant === "feature" ? "eager" : "lazy"} fetchPriority={variant === "feature" ? "high" : undefined} decoding={variant === "feature" ? "sync" : "async"} className={`story-cover ref-image ${className}`} /></picture>;
 }
 
-function Meta({ story, category, copy, compact = false }: { story: Story; category: string; copy: HomeCopy; compact?: boolean }) {
-  return <p className="ref-meta"><span className="ref-meta-accent">{category}</span><span>/</span><span>{story.displayDate}</span>{compact ? null : <><span>/</span><span>{story.readTime} {copy.minutes}</span></>}</p>;
+function Meta({ story, category, copy, compact = false, categoryOnly = false }: { story: Story; category: string; copy: HomeCopy; compact?: boolean; categoryOnly?: boolean }) {
+  return <p className="ref-meta"><span className="ref-meta-accent">{category}</span>{categoryOnly ? null : <><span>/</span><span>{story.displayDate}</span>{compact ? null : <><span>/</span><span>{story.readTime} {copy.minutes}</span></>}</>}</p>;
 }
 
 function SectionBar({ eyebrow, title, href, copy, prefix }: { eyebrow?: string; title: string; href?: string; copy: HomeCopy; prefix: string }) {
@@ -307,7 +313,7 @@ function CardStory({ story, copy, prefix, category, square = false }: { story: S
 }
 
 function ArchiveCard({ story, copy, prefix }: { story: Story; copy: HomeCopy; prefix: string }) {
-  return <a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-archive-card">{story.image ? <div className="ref-archive-image"><ImageStory story={story}/></div> : null}<Meta story={story} category={copy.categoryNames[story.category]} copy={copy} compact/><h3 className="ref-archive-title">{story.title}</h3><p className="ref-archive-time">{story.displayDate} / {story.readTime} {copy.minutes}</p></a>;
+  return <a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-archive-card">{story.image ? <div className="ref-archive-image"><ImageStory story={story}/></div> : null}<Meta story={story} category={copy.categoryNames[story.category]} copy={copy} compact categoryOnly/><h3 className="ref-archive-title">{story.title}</h3><p className="ref-archive-time">{story.displayDate} / {story.readTime} {copy.minutes}</p></a>;
 }
 
 function takeRemaining(ordered: Story[], used: Set<string>, count: number, category?: CategorySlug) {
@@ -350,7 +356,8 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
     <section className="ref-home-hero layout-wide px-5 pt-8 lg:px-8" aria-labelledby="latest-heading">
       <div className="ref-hero-grid">
         <aside className="ref-latest" aria-labelledby="latest-heading">
-          <h2 id="latest-heading" className="ref-kicker ref-heading-small">{text.latest}</h2>
+          <p className="ref-kicker ref-latest-eyebrow">{text.latestEyebrow}</p>
+          <h2 id="latest-heading" className="ref-heading-small">{text.latest}</h2>
           <div className="ref-rule" />
           <div className="ref-latest-list" role="region" aria-labelledby="latest-heading" tabIndex={0}>
             {latest.map((story) => <CompactStory key={story.slug} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}
@@ -360,7 +367,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
         <article className="ref-hero-story">
           <a href={withPrefix(prefix, `/post/${encodeURIComponent(hero.slug)}/`)} className="ref-hero-link">
             {hero.image ? <div className="ref-hero-image"><ImageStory story={hero} variant="feature"/></div> : null}
-            <Meta story={hero} category={text.categoryNames[hero.category]} copy={text}/>
+            <Meta story={hero} category={text.categoryNames[hero.category]} copy={text} categoryOnly/>
             <h2 className="ref-hero-title">{hero.title}</h2>
             <p className="ref-hero-dek">{hero.dek}</p>
             <p className="ref-byline"><strong>{text.by} {hero.author}</strong><span>/</span><span>{hero.displayDate}</span><span>/</span><span>{hero.readTime} {text.minutes}</span></p>
@@ -371,7 +378,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
           <p className="ref-kicker">{text.curated}</p>
           <h2 id="picks-heading" className="ref-heading-small">{text.editorPicks}</h2>
           <div className="ref-rule" />
-          {picks.map((story) => <a key={story.slug} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className={story.image ? "ref-pick-story" : "ref-pick-story ref-story-text-only"}>{story.image ? <div className="ref-pick-image"><ImageStory story={story} variant="thumbnail"/></div> : null}<span className="ref-pick-body"><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact/><strong>{story.title}</strong><span className="ref-pick-time">{story.displayDate} / {story.readTime} {text.minutes}</span></span></a>)}
+          {picks.map((story) => <a key={story.slug} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className={story.image ? "ref-pick-story" : "ref-pick-story ref-story-text-only"}>{story.image ? <div className="ref-pick-image"><ImageStory story={story} variant="thumbnail"/></div> : null}<span className="ref-pick-body"><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact categoryOnly/><strong>{story.title}</strong><span className="ref-pick-time">{story.displayDate} / {story.readTime} {text.minutes}</span></span></a>)}
         </aside>
       </div>
 
@@ -384,7 +391,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
       <div className="ref-two-column">
         {techIndex.length ? <div data-category-section="technology">
           <SectionBar eyebrow={text.techIndex} title={text.techIndexTitle} href="/category/technology/" copy={text} prefix={prefix}/>
-          <div className="ref-rank-list" id="tech-index-heading">{techIndex.map((story, index) => <a key={`rank-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-rank-story"><span className="ref-rank-number">{String(index + 1).padStart(2, "0")}</span><span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</div>
+          <div className="ref-rank-list" id="tech-index-heading">{techIndex.map((story, index) => <a key={`rank-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-rank-story"><span className="ref-rank-number">{String(index + 1).padStart(2, "0")}</span><span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact categoryOnly/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</div>
         </div> : null}
         {businessStories.length ? <div id="business-heading" data-category-section="business">
           <SectionBar eyebrow={text.business} title={text.businessTitle} href="/category/business/" copy={text} prefix={prefix}/>
@@ -397,7 +404,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
       <SectionBar eyebrow={text.innovation} title={text.innovationTitle} href="/category/innovation/" copy={text} prefix={prefix}/>
       <div className="ref-innovation-grid">
         <article className="ref-innovation-feature"><a href={withPrefix(prefix, `/post/${encodeURIComponent(deep.slug)}/`)}>{deep.image ? <div className="ref-innovation-image"><ImageStory story={deep} variant="feature"/></div> : null}<Meta story={deep} category={text.categoryNames[deep.category]} copy={text}/><h3 id="innovation-heading" className="ref-feature-title">{deep.title}</h3><p className="ref-feature-dek">{deep.dek}</p></a></article>
-        <aside className="ref-quick-scan"><p className="ref-kicker">{text.quickScan}</p><div className="ref-rule"/>{innovationStories.slice(1, 5).map((story) => <a key={`scan-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className={story.image ? "ref-scan-story" : "ref-scan-story ref-story-text-only"}>{story.image ? <div className="ref-scan-image"><ImageStory story={story} variant="thumbnail"/></div> : null}<span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</aside>
+        <aside className="ref-quick-scan"><p className="ref-kicker">{text.quickScan}</p><div className="ref-rule"/>{innovationStories.slice(1, 5).map((story) => <a key={`scan-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className={story.image ? "ref-scan-story" : "ref-scan-story ref-story-text-only"}>{story.image ? <div className="ref-scan-image"><ImageStory story={story} variant="thumbnail"/></div> : null}<span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact categoryOnly/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</aside>
       </div>
     </section> : null}
 
@@ -413,7 +420,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
 
     {techDetails.length > 1 ? <section className="ref-section layout-wide px-5 lg:px-8" aria-label={text.techIndexTitle} data-category-section="technology">
       <SectionBar eyebrow={text.techIndex} title={text.techIndexTitle} href="/category/technology/" copy={text} prefix={prefix}/>
-      <div className="ref-tech-feature-grid">{techDetails.slice(0, 2).map((story) => <article key={`tech-feature-${story.slug}`} className="ref-tech-feature"><a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)}>{story.image ? <div className="ref-tech-feature-image"><ImageStory story={story} variant="feature"/></div> : null}<Meta story={story} category={text.categoryNames[story.category]} copy={text}/><h3 className="ref-feature-title">{story.title}</h3><p className="ref-feature-dek">{story.dek}</p><p className="ref-byline"><strong>{text.by} {story.author}</strong><span>{story.displayDate} / {story.readTime} {text.minutes}</span></p></a></article>)}<aside className="ref-tech-side">{techDetails.slice(2, 4).map((story) => <CardStory key={`tech-side-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</aside></div>
+      <div className="ref-tech-feature-grid">{techDetails.slice(0, 2).map((story) => <article key={`tech-feature-${story.slug}`} className="ref-tech-feature"><a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)}>{story.image ? <div className="ref-tech-feature-image"><ImageStory story={story} variant="feature"/></div> : null}<Meta story={story} category={text.categoryNames[story.category]} copy={text} categoryOnly/><h3 className="ref-feature-title">{story.title}</h3><p className="ref-feature-dek">{story.dek}</p><p className="ref-byline"><strong>{text.by} {story.author}</strong><span>{story.displayDate} / {story.readTime} {text.minutes}</span></p></a></article>)}<aside className="ref-tech-side">{techDetails.slice(2, 4).map((story) => <CardStory key={`tech-side-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</aside></div>
       <div className="ref-five-up">{techDetails.slice(4, 9).map((story) => <CardStory key={`tech-grid-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
     </section> : null}
 
