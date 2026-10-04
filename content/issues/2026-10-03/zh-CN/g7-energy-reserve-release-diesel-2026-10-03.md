@@ -9,14 +9,18 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
 description: "四个月释放1亿桶、首20天前置柴油投放、协调炼厂检修：G7的重点是燃料交付能力，不能把承诺总量等同于即时新增供应。"
-cover: ""
-coverAlt: ""
+cover: "/news-media/2026-10-04/g7-energy-reserves-editorial-illustration.webp"
+coverAlt: "AI生成示意图：石油储备设施与燃料供应网络"
 tags: ["能源", "G7", "柴油供应"]
 readTime: 4
 draft: false
 ---
 
 G7准备在四个月内释放1亿桶石油储备，并将较大规模的柴油投放安排在最初20天。法国总统府10月2日公布的领导人声明提出，这一行动经国际能源署（IEA）协调，立即启动实施，但没有公布前期柴油投放的具体桶数。[^1]
+
+![AI生成示意图：石油储备设施与燃料供应网络](/news-media/2026-10-04/g7-energy-reserves-editorial-illustration.webp)
+
+*图：AI生成示意图：石油储备设施与燃料供应网络。*
 
 这次安排有两个值得一起看的重点：既增加可供投放的库存，也调整炼厂的生产节奏。最终能缓解多少压力，要看燃料以什么形式、在什么时间抵达哪里。
 

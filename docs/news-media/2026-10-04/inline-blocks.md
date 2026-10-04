@@ -21,3 +21,11 @@
 ## ukraine-russian-refineries-infrastructure-2026-10-04
 
 *图：乌克兰国家安全局2026年10月2日发布的公告配图，宣布与其他部队打击俄罗斯石油设施。图中文字为乌方声明，不是现场损毁照片。来源及授权：乌克兰国家安全局（SBU），[原始公告](https://ssu.gov.ua/novyny/sbu-spilno-iz-inshymy-skladovymy-syl-oborony-urazyla-vazhlyvi-naftobiekty-rf-npz-naftoperekachuvalni-ta-naftozmishuvalni-stantsii)，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。*[^3]
+
+## ai-infrastructure-revenue-gap-2026-10-04
+
+*图：AI生成示意图：数据中心、供电设施与建设中的基础设施。*
+
+## north-korea-missile-drill-2026-10-04
+
+*图：AI生成示意图：以抽象棋子表现导弹与地区安全议题。*

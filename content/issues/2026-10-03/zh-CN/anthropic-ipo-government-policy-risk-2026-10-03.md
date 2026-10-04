@@ -9,14 +9,18 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
 description: "政府合同收入不到1%，政策风险为何仍可能波及更广的商业市场？关键在模型供应、客户采购与服务连续性。"
-cover: ""
-coverAlt: ""
+cover: "/news-media/2026-10-04/anthropic-policy-editorial-illustration.webp"
+coverAlt: "AI生成示意图：计算核心与公共机构建筑，表现企业AI与政策环境的关系"
 tags: ["人工智能", "Anthropic", "企业风险"]
 readTime: 4
 draft: false
 ---
 
 Anthropic的政府合同收入占比不到1%，政府关系却可能影响它更大的一块商业市场。据路透社10月2日报道，公司在路透看到的IPO招股文件中提示，政府对其技术和经营行为的态度，可能波及商业客户与合作伙伴。这个看似不成比例的风险，值得从产品交付和客户采购两个角度来看。[^1]
+
+![AI生成示意图：计算核心与公共机构建筑，表现企业AI与政策环境的关系](/news-media/2026-10-04/anthropic-policy-editorial-illustration.webp)
+
+*图：AI生成示意图：计算核心与公共机构建筑，表现企业AI与政策环境的关系。*
 
 ## 收入占比小，影响未必止于政府订单
 

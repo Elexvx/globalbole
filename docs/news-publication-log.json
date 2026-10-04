@@ -282,6 +282,20 @@
       ],
       "audit": "docs/news-media/2026-10-04/remediation-audit.json",
       "note": "Replaced all self-created charts and unrelated archival images with cleared source-original media or text-only layout; retained article paths, dates, categories and source notes."
+    },
+    {
+      "date": "2026-10-04",
+      "type": "missing-cover-completion",
+      "articles": [
+        "anthropic-ipo-government-policy-risk-2026-10-03",
+        "ai-infrastructure-revenue-gap-2026-10-04",
+        "g20-trade-ministerial-capacity-discussions-2026-10-03",
+        "north-korea-missile-drill-2026-10-04",
+        "g7-energy-reserve-release-diesel-2026-10-03",
+        "germany-mispel-storage-bidirectional-charging-2026-10-03"
+      ],
+      "audit": "docs/news-media/2026-10-04/remediation-audit.json",
+      "note": "Filled all six missing covers with labeled AI-generated editorial illustrations, reused in each article body. Retained eight licensed original-source images and all factual article text, paths, source notes and categories. No self-created data charts."
     }
   ]
 }

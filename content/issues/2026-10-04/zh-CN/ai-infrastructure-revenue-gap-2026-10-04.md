@@ -9,14 +9,18 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-04"
 description: "PwC预测至2050年数据中心累计资本开支可达31.6万亿美元，贝恩则估算2031年需6万亿美元年收入支撑AI算力需求。两项估算揭示投入与商业回报之间的时间差。"
-cover: ""
-coverAlt: ""
+cover: "/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp"
+coverAlt: "AI生成示意图：数据中心、供电设施与建设中的基础设施"
 tags: ["人工智能", "数据中心", "资本开支", "就业"]
 readTime: 5
 draft: false
 ---
 
 人工智能基础设施扩张正在接受一项更直接的检验：未来应用产生的收入，能否及时承担今天投入的资金。路透社10月3日的分析将多项研究放在一起，指出技术潜力、企业估值与实际生产率改善之间，仍存在需要验证的距离。理解这轮投资，首先要分清长期资本开支、未来年度收入与已经观测到的就业变化。[^1]
+
+![AI生成示意图：数据中心、供电设施与建设中的基础设施](/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp)
+
+*图：AI生成示意图：数据中心、供电设施与建设中的基础设施。*
 
 ## 31.6万亿美元是一条预测路径
 

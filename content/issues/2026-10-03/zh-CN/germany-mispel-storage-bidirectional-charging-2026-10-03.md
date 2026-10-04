@@ -9,14 +9,18 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
 description: "MiSpeL解决绿电与电网电力混合储存后的核算问题，但直接售电、计量改造、过渡期和欧盟批准，决定业务何时真正可用。"
-cover: ""
-coverAlt: ""
+cover: "/news-media/2026-10-04/mispel-storage-editorial-illustration.webp"
+coverAlt: "AI生成示意图：电动汽车充电、家庭储能与屋顶太阳能"
 tags: ["储能", "双向充电", "德国能源"]
 readTime: 4
 draft: false
 ---
 
 一块电池既储存屋顶光伏发的电，也储存从电网买来的电，回送时该怎样计算补贴和费用？德国联邦网络局10月1日通过的MiSpeL规则，着手解决的就是这类看似细碎、却直接关系到储能和双向充电能否参与电力市场的问题。[^1]
+
+![AI生成示意图：电动汽车充电、家庭储能与屋顶太阳能](/news-media/2026-10-04/mispel-storage-editorial-illustration.webp)
+
+*图：AI生成示意图：电动汽车充电、家庭储能与屋顶太阳能。*
 
 ## 混合储电，终于有了更清楚的核算办法
 

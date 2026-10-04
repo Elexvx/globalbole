@@ -24,6 +24,7 @@ export function buildContent() {
     if(!content.trim()) fail("article body is empty");
     if(data.draft !== undefined && typeof data.draft !== "boolean") fail("draft must be true or false");
     if(data.draft) return [];
+    if(!data.cover) fail("published article requires a cover; use a labeled editorial illustration or licensed related photo when no source image is available");
     const key = `${data.lang}:${data.translationKey}`;
     const slug = `${data.lang.toLowerCase()}-${data.slug}`;
     if(ids.has(key) || ids.has(slug)) fail("duplicate translationKey or slug within this language");

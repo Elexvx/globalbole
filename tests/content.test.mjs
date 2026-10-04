@@ -53,7 +53,9 @@ Test body.
     assert.equal(buildContent().length,1);
     const textOnly = fixture.replace('cover: "/reference-assets/4615cdf986890f9d.webp"', 'cover: ""').replace('coverAlt: "Test cover"', 'coverAlt: ""');
     writeFileSync("content/issues/test/example.md",textOnly);
-    assert.equal(buildContent()[0].image, "");
+    assert.throws(buildContent,/published article requires a cover/);
+    writeFileSync("content/issues/test/example.md",textOnly.replace("draft: false","draft: true"));
+    assert.equal(buildContent().length,0);
     writeFileSync("content/issues/test/example.md",textOnly.replace('coverAlt: ""', 'coverAlt: "Stray caption"'));
     assert.throws(buildContent,/cover and coverAlt/);
     writeFileSync("content/issues/test/example.md",fixture.replace("draft: false","draft: true"));

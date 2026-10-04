@@ -9,14 +9,18 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-04"
 description: "朝鲜10月3日发射导弹，翌日称开展高超音速战略武器演练。韩方评估与朝方宣称存在距离差异，武器性能仍需独立数据支持。"
-cover: ""
-coverAlt: ""
+cover: "/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp"
+coverAlt: "AI生成示意图：以抽象棋子表现导弹与地区安全议题"
 tags: ["朝鲜半岛", "国际局势", "导弹"]
 readTime: 5
 draft: false
 ---
 
 朝鲜10月3日向东部海域发射导弹，朝中社翌日称，这是一场由金正恩指导的中程战略导弹演练。路透社援引朝中社报道说，演练涉及高超音速战略武器系统，朝方宣称命中1000公里外海上目标。韩国军方则报告导弹飞行超过700公里。两种说法的来源与口径不同，不能据此认定朝方性能宣称已获外界证实。[^1]
+
+![AI生成示意图：以抽象棋子表现导弹与地区安全议题](/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp)
+
+*图：AI生成示意图：以抽象棋子表现导弹与地区安全议题。*
 
 ## 发射得到确认，性能说法仍有分歧
 

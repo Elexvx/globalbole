@@ -3,14 +3,15 @@
   "scope": "Image remediation of all ten existing published news articles from October 3–4, preserving URLs and factual reporting",
   "result": {
     "articles": 10,
-    "articlesWithOriginalImages": 4,
-    "textOnlyArticles": 6,
+    "articlesWithCovers": 10,
+    "textOnlyArticles": 0,
+    "bodyImages": 14,
     "sourceImages": 8,
     "originalCharts": 4,
     "officialEventPhotos": 3,
     "officialAnnouncementGraphics": 1,
-    "selfCreatedChartsRemoved": 3,
-    "archivalIllustrationsRemoved": 6
+    "labeledAIGeneratedEditorialIllustrations": 6,
+    "selfCreatedDataCharts": 0
   },
   "articles": [
     {
@@ -31,7 +32,12 @@
       "additionalSources": [
         "https://www.anthropic.com/news/statement-comments-secretary-war",
         "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-17"
-      ]
+      ],
+      "currentResolution": {
+        "kind": "ai_generated_editorial_illustration",
+        "image": "/news-media/2026-10-04/anthropic-policy-editorial-illustration.webp",
+        "disclosure": "AI生成示意图"
+      }
     },
     {
       "article": "germany-mispel-storage-bidirectional-charging-2026-10-03",
@@ -40,7 +46,12 @@
       "sourcePdfUrl": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Hintergrundpapier.pdf?__blob=publicationFile&v=3",
       "notes": "Downloaded release HTML contains only site logo/close icon images. Directly linked four-page background paper contains text and one authority logo; no article photo or diagram. Do not turn text into an invented chart or substitute the old EV stock/contextual photo.",
       "rightsEvidenceUrl": "https://www.bundesnetzagentur.de/DE/Service/Impressum/start.html",
-      "rightsNotes": "Imprint copyright section refers to CC BY-ND 4.0 for unmarked contents, alongside other restrictions and third-party picture credits. No qualifying article image exists to reuse here."
+      "rightsNotes": "Imprint copyright section refers to CC BY-ND 4.0 for unmarked contents, alongside other restrictions and third-party picture credits. No qualifying article image exists to reuse here.",
+      "currentResolution": {
+        "kind": "ai_generated_editorial_illustration",
+        "image": "/news-media/2026-10-04/mispel-storage-editorial-illustration.webp",
+        "disclosure": "AI生成示意图"
+      }
     },
     {
       "article": "g20-trade-ministerial-capacity-discussions-2026-10-03",
@@ -48,7 +59,12 @@
       "sourceUrl": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/chairs-statement-g20-trade-ministerial",
       "sourcePdfUrl": "https://ustr.gov/sites/default/files/files/Press/Releases/G20%20Chair%27s%20Statement.pdf",
       "rejectedMetaImageUrl": "https://ustr.gov/sites/default/files/2026-10/Meta%20Tag_0.png",
-      "notes": "Downloaded release is text-only, with only site branding/social icons. Open Graph image is the generic USTR seal, visually inspected; not a photo of the meeting. Four-page original statement has zero raster images and no charts/diagrams. Already-cited WTO principles explainer also has no article image. The existing 2019 Hamburg port photo fails original-source-article scope."
+      "notes": "Downloaded release is text-only, with only site branding/social icons. Open Graph image is the generic USTR seal, visually inspected; not a photo of the meeting. Four-page original statement has zero raster images and no charts/diagrams. Already-cited WTO principles explainer also has no article image. The existing 2019 Hamburg port photo fails original-source-article scope.",
+      "currentResolution": {
+        "kind": "ai_generated_editorial_illustration",
+        "image": "/news-media/2026-10-04/g20-trade-editorial-illustration.webp",
+        "disclosure": "AI生成示意图"
+      }
     },
     {
       "article": "g7-energy-reserve-release-diesel-2026-10-03",
@@ -72,15 +88,30 @@
             "diesel-fuel/images/diesel-engine-generators.jpg"
           ]
         }
-      ]
+      ],
+      "currentResolution": {
+        "kind": "ai_generated_editorial_illustration",
+        "image": "/news-media/2026-10-04/g7-energy-reserves-editorial-illustration.webp",
+        "disclosure": "AI生成示意图"
+      }
     },
     {
       "article": "ai-infrastructure-revenue-gap-2026-10-04",
-      "constraint": "No cleared source-article image identified: PwC copyright limits reuse to personal/internal noncommercial use and requires written consent for redistribution; Stanford permits personal noncommercial use, prohibiting republication; Bain PR Newswire release exposes no topical illustration/photo beyond tracking imagery. Reuters/CNA photography requires rights clearance. Do not replace the self-made chart with unlicensed research figures or unrelated stock."
+      "constraint": "No cleared source-article image identified: PwC copyright limits reuse to personal/internal noncommercial use and requires written consent for redistribution; Stanford permits personal noncommercial use, prohibiting republication; Bain PR Newswire release exposes no topical illustration/photo beyond tracking imagery. Reuters/CNA photography requires rights clearance. Do not replace the self-made chart with unlicensed research figures or unrelated stock.",
+      "currentResolution": {
+        "kind": "ai_generated_editorial_illustration",
+        "image": "/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp",
+        "disclosure": "AI生成示意图"
+      }
     },
     {
       "article": "north-korea-missile-drill-2026-10-04",
-      "constraint": "No cleared current-event source image identified. Yonhap original article has one copyrighted Sept12 Seoul Station file photo. Japan MOFA Oct3 phone-call announcement has no image. Existing NASA Korea2014 photo is reusable but is not in the cited original articles and fails requested provenance/topic alignment. KCNA redistribution should not be assumed licensed. UNIDIR cited PDF ©2022 and current UNIDIR terms explicitly prohibit redistribution absent written permission, so its diagrams are not a cleared alternative."
+      "constraint": "No cleared current-event source image identified. Yonhap original article has one copyrighted Sept12 Seoul Station file photo. Japan MOFA Oct3 phone-call announcement has no image. Existing NASA Korea2014 photo is reusable but is not in the cited original articles and fails requested provenance/topic alignment. KCNA redistribution should not be assumed licensed. UNIDIR cited PDF ©2022 and current UNIDIR terms explicitly prohibit redistribution absent written permission, so its diagrams are not a cleared alternative.",
+      "currentResolution": {
+        "kind": "ai_generated_editorial_illustration",
+        "image": "/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp",
+        "disclosure": "AI生成示意图"
+      }
     },
     {
       "article": "india-green-energy-corridor-storage-2026-10-04",
@@ -96,5 +127,17 @@
       "sourceUrl": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
       "rightsEvidenceUrl": "https://www.whitehouse.gov/copyright/"
     }
-  ]
+  ],
+  "previousSourceOnlyResult": {
+    "articles": 10,
+    "articlesWithOriginalImages": 4,
+    "textOnlyArticles": 6,
+    "sourceImages": 8,
+    "originalCharts": 4,
+    "officialEventPhotos": 3,
+    "officialAnnouncementGraphics": 1,
+    "selfCreatedChartsRemoved": 3,
+    "archivalIllustrationsRemoved": 6
+  },
+  "latestRevision": "Missing covers completed with topic-specific AI-generated editorial illustrations, visibly labeled and reused in article bodies."
 }

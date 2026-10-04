@@ -1,7 +1,7 @@
 {
   "issue": "2026-10-03",
   "checkedAt": "2026-10-04",
-  "usage": "Use only licensed/public-domain original-source-article images. Covers reuse in-body images. Body images retain complete proportions. Empty image and alt fields select text-only layouts. No self-created news illustrations or data charts.",
+  "usage": "Prefer licensed original-source images. Fill missing article covers with clearly labeled AI-generated editorial illustrations; if generation is unsuitable, use relevant licensed photography. Never create data charts. Every published cover must reuse an in-body image. Preserve full body-image proportions and visible provenance.",
   "assets": [
     {
       "filename": "bls-september-2026-unemployment-original.png",
@@ -72,6 +72,114 @@
         "pixelSHA256": "79eedfe74c66de56fe1326c0047dafffe80beaac40ae184507422b97c026c4f7"
       },
       "caption": "*图：美国劳工统计局原图：2024年9月至2026年9月经季节调整的非农就业月度变化，单位为千人。 来源及制图：美国劳工统计局，[2026年9月就业报告原始图表](https://www.bls.gov/news.release/archives/empsit_10022026.pdf#page=1)，[公有领域作品](https://www.bls.gov/opub/copyright-information.htm)。*[^1]"
+    },
+    {
+      "article": "anthropic-ipo-government-policy-risk-2026-10-03",
+      "filename": "anthropic-policy-editorial-illustration.webp",
+      "localPath": "/news-media/2026-10-04/anthropic-policy-editorial-illustration.webp",
+      "alt": "AI生成示意图：计算核心与公共机构建筑，表现企业AI与政策环境的关系",
+      "caption": "*图：AI生成示意图：计算核心与公共机构建筑，表现企业AI与政策环境的关系。*",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-04",
+      "prompt": "Use case: stylized-concept\nAsset type: wordless editorial cover illustration for a serious international Chinese-language business news site; reusable inside the article labeled AI生成示意图 by the publisher outside this image.\nPrimary request: a sophisticated conceptual illustration about Anthropic's possible IPO and public-policy risk, without depicting any factual event. Abstract enterprise AI and computing meet the weight of public-policy institutions.\nScene and subject: at the centre, a sculptural charcoal-navy computing core built from layered translucent glass and pale ceramic circuit slabs; immediately behind it, a restrained classical civic colonnade in off-white stone, partially intersected by opaque architectural planes. The relationship suggests an emerging AI enterprise moving toward public markets while institutional rules remain consequential, with no claims of approval, prohibition or actual event. Keep architecture generic, no recognizable capitol or identifiable specific institution.\nStyle and medium: premium painted 3D editorial collage, tactile matte forms, slightly surreal cut-paper layering and fine painterly grain. Clearly illustrative, never documentary photography. Sophisticated economical composition rather than a busy explanatory diagram.\nComposition: landscape 16:9 full-bleed, requested canvas 1536 by 864 pixels; unified single scene, dominant meaningful subject grouped within the central square safe area so crops to square or 16:10 still work; restrained detail and quiet full-bleed peripheral backdrop.\nLight and palette: soft sculptural side-light, deep navy, charcoal, warm neutral ivory and stone, with sparse muted burgundy accents; thoughtful and serious rather than alarming.\nConstraints: absolutely no words, letters, numerals, logos, watermark, people, faces, ticker displays, charts, plots, graphs, curves, arrows, flags, money symbols, fabricated document details or photorealistic factual-event imagery. No actual company branding. Generate only this one image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested for this publication; no third-party source photo or news-event photograph copied. No claim of public-domain status or photographer authorship.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "sourceGenerationSha256": "c87d16a76df3ce50804efd38d5f57381b91101b2db8f9d39b9d14e075dbd66b6",
+      "encoding": "WebP quality 84, full 1672×941 frame; no crop or content manipulation",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 164830,
+      "sha256": "2923aeedbe42bdb7c88c758d38dfcc0e3eeac8f1d88c29df64f6b6f568ed1703",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "notes": "Public WebP export contains no personal metadata; visible AI disclosure is retained in the article caption and alt text."
+      },
+      "pixelsInspected": true
+    },
+    {
+      "article": "g20-trade-ministerial-capacity-discussions-2026-10-03",
+      "filename": "g20-trade-editorial-illustration.webp",
+      "localPath": "/news-media/2026-10-04/g20-trade-editorial-illustration.webp",
+      "alt": "AI生成示意图：港口贸易与尚待形成共识的国际谈判",
+      "caption": "*图：AI生成示意图：港口贸易与尚待形成共识的国际谈判。*",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-04",
+      "prompt": "Use case: stylized-concept\nAsset type: wordless landscape editorial cover illustration for a serious global news publication, also used as an explicitly labeled AI-generated illustrative image in the article body.\nPrimary request: a conceptual illustration about G20 trade ministers meeting without full agreement. Show the tension of unfinished international trade negotiations, not an actual meeting.\nScene/backdrop: an abstract commercial harbor with simplified container stacks, cargo vessel forms and spare port-crane silhouettes, layered with a central circular negotiating table seen from an elevated angle. The empty sculptural roundtable has subtly separated segments and mismatched paper-like geometric forms suggesting unresolved viewpoints; no real people or chairs occupied by people. Keep it elegant and instantly readable, not busy.\nStyle/medium: sophisticated clearly illustrative layered editorial collage blended with painted 3D forms, matte paper grain, dimensional cut-paper textures, crisp but softly painted shadows. Visibly an artwork, never a news photograph.\nComposition/framing: true wide 16:9 landscape full bleed. Main roundtable and trade forms grouped in central safe area for clean 16:10 and square crops. Port structure extends quietly to side edges. One strong visual hierarchy, generous calm upper background, high-quality editorial art direction.\nLighting/mood: restrained daylight, serious and uncertain yet composed.\nColor palette: deep navy, slate blue, warm off-white and neutral gray with restrained burgundy accents.\nConstraints: no text, letters, numbers, logos, watermarks, flags, maps, data charts or graphs; no handshake, no signed agreement, no triumphant conclusion, no actual leaders or identifiable people, no photorealistic meeting scene.",
+      "rightsBasis": "Original AI-generated editorial illustration requested for this publication; no third-party source photo or news-event photograph copied. No claim of public-domain status or photographer authorship.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "sourceGenerationSha256": "40e2104b71a3acb41a499e3ea9b344b9ddac658dcfc4e3cb222198d888922601",
+      "encoding": "WebP quality 84, full 1672×941 frame; no crop or content manipulation",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 211984,
+      "sha256": "139fc64693d9e55762d38ba36a05b50d7a3ac620ec44905050a9ec0298686b85",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "notes": "Public WebP export contains no personal metadata; visible AI disclosure is retained in the article caption and alt text."
+      },
+      "pixelsInspected": true
+    },
+    {
+      "article": "g7-energy-reserve-release-diesel-2026-10-03",
+      "filename": "g7-energy-reserves-editorial-illustration.webp",
+      "localPath": "/news-media/2026-10-04/g7-energy-reserves-editorial-illustration.webp",
+      "alt": "AI生成示意图：石油储备设施与燃料供应网络",
+      "caption": "*图：AI生成示意图：石油储备设施与燃料供应网络。*",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-04",
+      "prompt": "Use case: stylized-concept\nAsset type: one wordless editorial news illustration for a globalbole.com article cover and its in-body illustration. Wide 16:9 aspect ratio, full bleed.\nPrimary request: illustrate G7 oil reserve release and diesel supply conceptually, with cylindrical petroleum storage tanks and connecting fuel-supply pipelines. No actual event or actual facility is depicted. Do not depict refinery attacks, fire, military scenes, or political leaders.\nStyle/medium: bold refined paper-cut editorial collage with hand-painted gouache texture and simplified semi-3D geometric volumes, visibly stylized illustrative construction, crisp layered silhouettes. It must look like an editorial illustration created from layered painted paper, absolutely not like a photograph, architectural visualization, product render, or realistic landscape. Reduced detail; large readable geometric forms; flattened depth.\nScene and composition: a compact centered cluster of three simplified cylindrical oil storage tanks with low domed tops; abstract horizontal and curved pipes weave together in the foreground, with a simple supply terminal shape behind. Keep every essential subject in the central 55 percent of the width for square crop safety. Extend layered quiet textured-paper ground and abstract sky to both sides for a clean full-bleed 16:9 frame. No boxed border, no infographic grid, no diagram, no arrows.\nColor palette: deep navy blue and cool slate tanks, stone and oatmeal paper neutrals, very subtle warm burgundy accents on pipes. Understated sophisticated international-news aesthetic.\nLighting/mood: calm and serious, softly shaded painted geometric forms with tactile paper grain.\nConstraints: zero words, no text, no letters, no logos, no brands, no numbers, no data charts, no graphs, no flags, no labels, no people, no watermarks, no real-world location, no invented news-event evidence. Pure conceptual illustration, not documentary photography.",
+      "rightsBasis": "Original AI-generated editorial illustration requested for this publication; no third-party source photo or news-event photograph copied. No claim of public-domain status or photographer authorship.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "sourceGenerationSha256": "02443821ce150351176fa44c61e502c8d2a4cb9eb9f3624cacd997145191dbd3",
+      "encoding": "WebP quality 84, full 1672×941 frame; no crop or content manipulation",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 251512,
+      "sha256": "8237e51f70378926ef60bbc841da8fec9a63b5070d57e4e80a55209d64454a1e",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "notes": "Public WebP export contains no personal metadata; visible AI disclosure is retained in the article caption and alt text."
+      },
+      "pixelsInspected": true
+    },
+    {
+      "article": "germany-mispel-storage-bidirectional-charging-2026-10-03",
+      "filename": "mispel-storage-editorial-illustration.webp",
+      "localPath": "/news-media/2026-10-04/mispel-storage-editorial-illustration.webp",
+      "alt": "AI生成示意图：电动汽车充电、家庭储能与屋顶太阳能",
+      "caption": "*图：AI生成示意图：电动汽车充电、家庭储能与屋顶太阳能。*",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-04",
+      "prompt": "Use case: stylized-concept\nAsset type: a wordless 16:9 full-bleed international-news editorial cover illustration about residential energy storage and bidirectional electric vehicle charging in Germany, conceptual and not an actual location.\nPrimary request: a compact CENTRAL arrangement containing three instantly readable subjects: an unbranded simplified electric hatchback car connected with a visible curved cable, a small geometric home with a solar-panel roof behind it, and a clearly visible upright home battery beside the car. Keep all three subjects close together within the central 55 percent of the entire wide canvas, so the roof, battery, car and cable remain identifiable in a centered square crop.\nStyle/medium: visibly hand-made PAPER-CUT COLLAGE and GOUACHE PAINTED illustration, angular simplified geometry, matte painted paper surfaces, tactile rough cut-paper edges and layered silhouettes, broad simplified color fields and flattened perspective. Sophisticated editorial art with a little shaded volume. Unmistakably an illustration. NO photorealism, NO realistic vehicle product rendering, NO photographic scenic landscape, NO gleaming glass or chrome.\nComposition: centered compact editorial vignette in one continuous scene, wide quiet textured-paper background extending all the way to left and right frame edges. Do not place battery against right image edge. Simplify the house to a small residential form rather than a large real architectural building. The car should be a deliberately invented generic paper shape with simplified wheels and windows, not a real model. The battery is a solid unbranded rectangular paper-cut form with a subtle seam. Cable physically joins the car to a small nearby wall charge point. No arrows, diagrams, charts, or technical instructions.\nColor palette: deep navy and slate blue, warm ivory/stone paper neutrals, subtle burgundy accents in a small roof/wall or cable detail. Restrained premium editorial palette.\nLighting: softly shaded painted paper layers, quiet thoughtful energy-news mood.\nConstraints: absolutely no words, labels, letters, numerals, logos, brands, flags, data charts, graphs, diagrams, arrows, people, watermark. Do not portray or claim a real place or event. No photograph or realistic rendering.",
+      "rightsBasis": "Original AI-generated editorial illustration requested for this publication; no third-party source photo or news-event photograph copied. No claim of public-domain status or photographer authorship.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "sourceGenerationSha256": "d870c7b08549442b82b18bf425d7887ed094832107d3dfcf86d4b42b9fd3fff4",
+      "encoding": "WebP quality 84, full 1672×941 frame; no crop or content manipulation",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 292066,
+      "sha256": "430454e4e3d02df52e7cdb2fae66b0bec8d7f94164d130e0fe71613b628f07f5",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "notes": "Public WebP export contains no personal metadata; visible AI disclosure is retained in the article caption and alt text."
+      },
+      "pixelsInspected": true
     }
   ],
   "retiredAssets": [

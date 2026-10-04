@@ -1,7 +1,7 @@
 {
   "issue": "2026-10-04",
   "checkedAt": "2026-10-04",
-  "usage": "Use only licensed/public-domain original-source-article images. Covers reuse in-body images. Body images retain complete proportions. Empty image and alt fields select text-only layouts. No self-created news illustrations or data charts.",
+  "usage": "Prefer licensed original-source images. Fill missing article covers with clearly labeled AI-generated editorial illustrations; if generation is unsuitable, use relevant licensed photography. Never create data charts. Every published cover must reuse an in-body image. Preserve full body-image proportions and visible provenance.",
   "assets": [
     {
       "filename": "whitehouse-ai-luncheon-20260929.jpg",
@@ -224,6 +224,60 @@
         "colorProfilePreserved": true,
         "pixelSHA256": "57dac3df2881bc291e842863a149c232f3873377a016532b66548a07bb97d6d5"
       }
+    },
+    {
+      "article": "ai-infrastructure-revenue-gap-2026-10-04",
+      "filename": "ai-infrastructure-editorial-illustration.webp",
+      "localPath": "/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp",
+      "alt": "AI生成示意图：数据中心、供电设施与建设中的基础设施",
+      "caption": "*图：AI生成示意图：数据中心、供电设施与建设中的基础设施。*",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-04",
+      "prompt": "Use case: stylized-concept\nAsset type: wordless editorial cover illustration for a serious international Chinese-language business news site, also usable as an in-article AI-generated conceptual illustration.\nPrimary request: a sophisticated conceptual image about the AI infrastructure revenue gap and the tension between enormous data-centre buildout, power demand and uncertain investment returns. Do not draw a data visualization.\nScene and subject: one compact sculptural data-centre campus centered on a layered cutaway plinth, a few elegant navy server monoliths with tiny warm lights, a single unfinished structural frame rising adjacent to them, plus a restrained power substation connected with physically plausible plain conduits. A substantial portion of the plinth is an empty architectural recess and unfinished foundation, a subtle metaphor for capacity and investment built ahead of realized value. No coins or piles of money. Make the composition feel architectural and structural, distinct from civic or governmental imagery.\nStyle and medium: premium editorial illustration combining painted 3D maquette forms and tactile layered-paper collage, crafted matte surfaces and subtle painterly grain; unmistakably illustrative and gently surreal, never documentary photography. Economical, calm, intelligent art direction.\nComposition and crop safety: landscape 16:9 full bleed, requested canvas 1536 by 864 pixels; central cohesive composition containing servers, unfinished frame and power within the central square safe area for square and 16:10 cropping; quiet atmospheric background at either side, not separate panels.\nLight and palette: deep navy and charcoal machines, warm stone and ivory ground, subdued burgundy accents and a few soft amber practical lights, muted neutral background. Soft directional light, nuanced shadows, no dystopian dramatic disaster.\nConstraints: absolutely no text, words, letters, numerals, logos, watermark, real people, faces, brand identity, charts, data plots, graphs, financial curves, arrows, currency symbols, maps or dashboards. Do not depict a specific real data centre or actual construction event. Generate only this one image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested for this publication; no third-party source photo or news-event photograph copied. No claim of public-domain status or photographer authorship.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "sourceGenerationSha256": "66f0c5da0ea5030eff7e5f87e1e02a02b40613ce34422e8f50230cb123d14751",
+      "encoding": "WebP quality 84, full 1672×941 frame; no crop or content manipulation",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 189108,
+      "sha256": "a38a5a920dd8ffd953407536dacf00867a1e6a6af78de40b291c31fa396f66a7",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "notes": "Public WebP export contains no personal metadata; visible AI disclosure is retained in the article caption and alt text."
+      },
+      "pixelsInspected": true
+    },
+    {
+      "article": "north-korea-missile-drill-2026-10-04",
+      "filename": "korea-missile-tensions-editorial-illustration.webp",
+      "localPath": "/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp",
+      "alt": "AI生成示意图：以抽象棋子表现导弹与地区安全议题",
+      "caption": "*图：AI生成示意图：以抽象棋子表现导弹与地区安全议题。*",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-04",
+      "prompt": "Use case: stylized-concept\nAsset type: wordless landscape editorial cover illustration for a serious global news publication, also used as an explicitly labeled AI-generated illustrative image in the article body.\nPrimary request: a restrained conceptual illustration about North Korea missile-drill regional tension and diplomacy uncertainty. Do not depict or recreate an actual event.\nScene/backdrop: a dark calm sea and distant pale overcast horizon rendered as layered painted paper shapes, with a sparse abstract tabletop in the foreground. A single small symbolic missile-shaped chess piece of matte navy painted wood sits at the center, upright and inert, accompanied by two separated plain ivory diplomatic game-piece forms. It should be deliberately symbolic and sculptural, with no engineering details or actual weapon likeness. A subtle broken band of burgundy paper in the background suggests interrupted dialogue.\nStyle/medium: sophisticated unmistakable editorial collage, tactile cut paper and painted 3D objects; substantial visible paper grain and brushwork. Conceptual artwork, never documentary or photorealistic.\nComposition/framing: true wide 16:9 landscape full bleed, ample quiet space at edges. All important objects are fully inside the middle 50 percent to tolerate square and 16:10 crops. Beautifully restrained, one clear visual focus, refined news-magazine art direction.\nLighting/mood: cool diffuse light with soft shadows, serious, ambiguous, tense without spectacle.\nColor palette: deep navy and blue gray sea, warm ivory and muted neutral stone, very subtle burgundy accent.\nConstraints: absolutely no text, letters, numbers, logos, watermarks, flags, maps, data charts, graphs, real people, launch flames, exhaust trails, explosions, combat, actual launch site, realistic military equipment, missile performance details or detailed missile components. No scene presented as a photograph. The missile is only a smooth featureless symbolic wooden chess-piece silhouette.",
+      "rightsBasis": "Original AI-generated editorial illustration requested for this publication; no third-party source photo or news-event photograph copied. No claim of public-domain status or photographer authorship.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "sourceGenerationSha256": "eb5f6b8f589bbfb81d1b15f540dad8b0b44f85af6d1f8d634ea0b0584d7eb1de",
+      "encoding": "WebP quality 84, full 1672×941 frame; no crop or content manipulation",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 206810,
+      "sha256": "183fb2c3e02bcb75ee742cb6ee830d7b0aa7065e5b3c03f20a1ef26c5ff09225",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "notes": "Public WebP export contains no personal metadata; visible AI disclosure is retained in the article caption and alt text."
+      },
+      "pixelsInspected": true
     }
   ],
   "retiredAssets": [
