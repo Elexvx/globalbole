@@ -98,7 +98,14 @@ for (const [lang, url] of alternates(home)) {
 }
 assert.ok(readFileSync('out/robots.txt', 'utf8').includes(`Sitemap: ${base}/sitemap.xml`));
 const rss = readFileSync('out/rss.xml', 'utf8');
-for (const article of articles) assert.ok(rss.includes(`${base}/${article.lang}/post/${article.slug}/`), 'Legacy RSS points directly to canonical articles');
+// The legacy combined feed intentionally retains its latest 50 editions.
+const feedArticles = [...articles].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,50);
+assert.equal((rss.match(/<item>/g)||[]).length, feedArticles.length, 'Legacy RSS retains its configured recent-item limit');
+for (const article of feedArticles) assert.ok(rss.includes(`${base}/${article.lang}/post/${article.slug}/`), 'Legacy RSS points directly to canonical articles');
+for (const lang of languages) {
+  const feed = readFileSync(`out/feeds/${lang}.xml`, 'utf8');
+  for (const article of articles.filter(item=>item.lang===lang)) assert.ok(feed.includes(`${base}/${lang}/post/${article.slug}/`), 'Localized RSS retains canonical articles');
+}
 console.log(`SEO: ${count} canonical news articles, ${urls.length} sitemap URLs, root/locale consolidation, legacy fallback metadata, truthful sources and reciprocal language links verified.`);
 
 assert.equal(readFileSync("out/googleb6feb3c043d379fd.html", "utf8"), "google-site-verification: googleb6feb3c043d379fd.html", "Google ownership proof must be served byte-for-byte");

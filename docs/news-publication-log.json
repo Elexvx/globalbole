@@ -262,6 +262,241 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-05-zh-CN",
+      "publicationDate": "2026-10-05",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "us-ai-task-force-report-2026-10-05",
+          "path": "content/issues/2026-10-05/zh-CN/us-ai-task-force-report-2026-10-05.md",
+          "eventDate": "2026-10-04",
+          "sourceDate": "2026-10-04",
+          "sources": [
+            {
+              "title": "特朗普10月4日宣布成立SIF的原始帖文（已核对独立存档）",
+              "url": "https://www.trumpstruth.org/statuses/42126",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-05"
+            },
+            {
+              "title": "Reuters：Trump names intelligence chief Clayton as AI czar, to head task force",
+              "url": "https://www.marketscreener.com/news/latest/Trump-names-intelligence-chief-Clayton-as-AI-czar-to-head-task-force-12373826/",
+              "date": "2026-10-04",
+              "type": "secondary"
+            },
+            {
+              "title": "白宫：9月29日超级智能协议（背景）",
+              "url": "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence",
+              "date": "2026-09-29",
+              "type": "primary"
+            },
+            {
+              "title": "白宫：第14434号行政命令（背景）",
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+              "date": "2026-09-29",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "brazil-presidential-runoff-2026-10-05",
+          "path": "content/issues/2026-10-05/zh-CN/brazil-presidential-runoff-2026-10-05.md",
+          "eventDate": "2026-10-04",
+          "sourceDate": "2026-10-04",
+          "sources": [
+            {
+              "title": "Flávio Bolsonaro e Lula disputam o segundo turno das eleições para presidente",
+              "url": "https://www12.senado.leg.br/noticias/materias/2026/10/04/flavio-bolsonaro-e-lula-disputam-o-segundo-turno-das-eleicoes-para-presidente",
+              "date": "2026-10-04",
+              "type": "primary"
+            },
+            {
+              "title": "Brazil heads to a runoff election after Bolsonaro and Lula fail to garner a majority of votes",
+              "url": "https://apnews.com/article/c194f8965632c8af9bcc4e7a3716cd7c",
+              "date": "2026-10-04",
+              "type": "original_reporting"
+            },
+            {
+              "title": "RESOLUÇÃO Nº 23.677, DE 16 DE DEZEMBRO DE 2021",
+              "url": "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-677-de-16-de-dezembro-de-2021",
+              "date": "2021-12-23",
+              "type": "primary"
+            },
+            {
+              "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+              "date": "2026-09-11",
+              "type": "primary"
+            },
+            {
+              "title": "Bolsonaro beats expectations in Brazil presidential vote, faces Lula in runoff",
+              "url": "https://www.marketscreener.com/news/brazilians-head-to-polls-in-high-stakes-polarized-election-ce785ddbdc8cf520",
+              "date": "2026-10-04",
+              "type": "original_reporting"
+            },
+            {
+              "title": "Por Dentro das Eleições: saiba como a Justiça Eleitoral totaliza e proclama os resultados",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/por-dentro-das-eleicoes-saiba-como-a-justica-eleitoral-totaliza-e-proclama-os-resultados",
+              "date": "2026-09-25",
+              "type": "primary"
+            }
+          ],
+          "note": "Near-complete count snapshot rounded to about 47% and 45%; runoff scheduled October 25. Not described as certified."
+        },
+        {
+          "translationKey": "yemen-offensive-red-sea-shipping-2026-10-05",
+          "path": "content/issues/2026-10-05/zh-CN/yemen-offensive-red-sea-shipping-2026-10-05.md",
+          "eventDate": "2026-10-04",
+          "sourceDate": "2026-10-04",
+          "sources": [
+            {
+              "title": "رئيس مجلس القيادة يعلن بدء العمليات العسكرية لاستعادة مؤسسات الدولة وبسط سلطتها على كامل التراب الوطني",
+              "url": "https://www.mofa-ye.org/Pages/40025/",
+              "date": "2026-10-04",
+              "type": "primary"
+            },
+            {
+              "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+              "url": "https://www.streetinsider.com/Reuters/Yemeni%2Bgovernment%2Blaunches%2Boffensive%2Bto%2Bseize%2Ball%2Bareas%2Bfrom%2BIran-backed%2BHouthis/27144380.html",
+              "date": "2026-10-04",
+              "type": "original_reporting"
+            },
+            {
+              "title": "2026-013-Red Sea, Bab el Mandeb Strait, Gulf of Aden, Arabian Sea, and Somali Basin-Houthi Attacks on Commercial Vessels",
+              "url": "https://www.maritime.dot.gov/msci/2026-013-red-sea-bab-el-mandeb-strait-gulf-aden-arabian-sea-and-somali-basin-houthi-attacks",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-05"
+            },
+            {
+              "title": "The Bab el-Mandeb Strait is a strategic route for oil and natural gas shipments",
+              "url": "https://www.eia.gov/todayinEnergy/detail.php?id=41073",
+              "date": "2019-08-27",
+              "type": "primary"
+            },
+            {
+              "title": "WFP warns hunger is surging in Yemen as conflict displaces thousands",
+              "url": "https://www.wfp.org/news/wfp-warns-hunger-surging-yemen-conflict-displaces-thousands",
+              "date": "2026-10-02",
+              "type": "primary"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-supreme-court-climate-liability-2026-10-05",
+          "path": "content/issues/2026-10-05/zh-CN/us-supreme-court-climate-liability-2026-10-05.md",
+          "eventDate": "2026-10-05",
+          "sourceDate": "2026-10-04",
+          "sources": [
+            {
+              "title": "Monthly Argument Calendar October 2026",
+              "url": "https://www.supremecourt.gov/oral_arguments/argument_calendars/MonthlyArgumentCalOctober2026.pdf",
+              "date": "2026-08-04",
+              "type": "primary"
+            },
+            {
+              "title": "U.S. Supreme Court to Hear Boulder Climate Case Monday",
+              "url": "https://bouldercounty.gov/news/u-s-supreme-court-to-hear-boulder-climate-case-monday/",
+              "date": "2026-09-28",
+              "type": "primary"
+            },
+            {
+              "title": "Colorado Supreme Court opinion, 2025 CO 21 (petition Appendix A)",
+              "url": "https://www.supremecourt.gov/DocketPDF/25/25-170/369227/20250808130906765_Suncor_pet_app.pdf",
+              "date": "2025-05-12",
+              "type": "primary"
+            },
+            {
+              "title": "Brief for Petitioners",
+              "url": "https://www.supremecourt.gov/DocketPDF/25/25-170/408810/20260514091116673_Boulder%20brief%20for%20petitioners%20FINAL.pdf",
+              "date": "2026-05-14",
+              "type": "primary"
+            },
+            {
+              "title": "Brief for the United States as Amicus Curiae Supporting Petitioners",
+              "url": "https://www.supremecourt.gov/DocketPDF/25/25-170/409590/20260521184428959_25-170_Suncor_v_Boulder_Merits_FINAL.pdf",
+              "date": "2026-05-21",
+              "type": "primary"
+            },
+            {
+              "title": "Brief for Respondents",
+              "url": "https://www.supremecourt.gov/DocketPDF/25/25-170/418043/20260803182738077_25-170%20Brief.pdf",
+              "date": "2026-07-27",
+              "type": "primary"
+            },
+            {
+              "title": "Docket for 25-170",
+              "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-170.html",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-05"
+            },
+            {
+              "title": "Letter to Counsel in No. 25-170",
+              "url": "https://www.supremecourt.gov/DocketPDF/25/25-170/425819/20260928133032324_Letter%20to%20Counsel%20in%20No.%2025-170.pdf",
+              "date": "2026-09-28",
+              "type": "primary"
+            },
+            {
+              "title": "US Supreme Court to kick off term with bid by Big Oil to toss climate suits",
+              "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-to-kick-off-term-with-bid-by-big-oil-to-toss-climate-suits-4930919",
+              "date": "2026-10-04",
+              "type": "original_reporting"
+            }
+          ],
+          "note": "Preview before the scheduled October 5 oral argument; no outcome implied."
+        },
+        {
+          "translationKey": "south-australia-battery-duration-price-spike-2026-10-05",
+          "path": "content/issues/2026-10-05/zh-CN/south-australia-battery-duration-price-spike-2026-10-05.md",
+          "eventDate": "2026-06-21/2026-06-22",
+          "sourceDate": "2026-08-31",
+          "sources": [
+            {
+              "title": "Significant electricity prices for April to June 2026",
+              "url": "https://www.aer.gov.au/system/files/2026-08/Significant%20electricity%20prices%20for%20April%20to%20June%202026.pdf",
+              "date": "2026-08-31",
+              "type": "primary"
+            },
+            {
+              "title": "Significant price report - April to June 2026",
+              "url": "https://www.aer.gov.au/publications/reports/performance/significant-price-report-april-june-2026",
+              "date": "2026-08-31",
+              "type": "primary"
+            },
+            {
+              "title": "Schedule of reliability settings – 2025-26 financial year",
+              "url": "https://www.aemc.gov.au/sites/default/files/2025-02/Schedule%20of%20reliability%20settings%20-%202025-26%20financial%20year.pdf",
+              "date": "2025-02-27",
+              "type": "primary"
+            },
+            {
+              "title": "Energy market’s time to shine",
+              "url": "https://www.aemo.com.au/newsroom/media-release/energy-markets-time-to-shine",
+              "date": "2021-10-01",
+              "type": "primary"
+            },
+            {
+              "title": "Energy Limit in BDU Bids",
+              "url": "https://markets-portal-help.docs.public.aemo.com.au/Content/EMMSenergyFCAS/BDU_Energy_Limit.htm?TocPath=Energy+Market+Management+System+%28EMMS%29%7COffers+%26+Submissions%7CEnergy%2C+FCAS+and+MNSP+Bids%7C_____3",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-05"
+            }
+          ],
+          "note": "Retrospective analysis of June 21–22 price events from the AER report released August 31; not a new October outage. No actual reserve shortfall reported."
+        }
+      ]
     }
   ],
   "revisions": [

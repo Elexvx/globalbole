@@ -215,11 +215,14 @@ test('cover pictures expose one preferred format without preloading the fallback
 });
 
 
-test('text-only home cards keep each edition’s titles and links without empty image frames', async () => {
+test('text-only home cards keep each edition’s latest archive titles and links without empty image frames', async () => {
   const { ReferenceHome } = await import('../components/reference-home.tsx');
   const all = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8')).map(story=>({...story,image:'',imageAlt:''}));
   for(const locale of ['zh-CN','zh-TW','en','ru','fr']) {
-    const stories=all.filter(story=>story.lang===locale);
+    // The homepage archive intentionally shows the latest 12; older editions
+    // remain available through All News and must not force a layout expansion.
+    const stories=all.filter(story=>story.lang===locale)
+      .sort((a,b)=>b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug)).slice(0,12);
     const html=renderToStaticMarkup(createElement(ReferenceHome,{stories:all,locale,prefix:`/${locale}`}));
     assert.doesNotMatch(html, /<img|<picture|class="ref-(?:hero|card|archive|pick|scan|tech-feature)-image/);
     assert.match(html, /ref-story-text-only/);

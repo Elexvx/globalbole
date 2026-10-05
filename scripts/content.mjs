@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, mkdirSync, writeFileSync, existsSync } from "node:fs";
+import { readFileSync, readdirSync, mkdirSync, writeFileSync, renameSync, existsSync } from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { fileURLToPath } from "node:url";
@@ -6,6 +6,13 @@ import { createArticleResponse } from "../lib/article-contract.mjs";
 import { categoryLabels as categories } from "../lib/categories.mjs";
 export const languages = ["zh-CN", "zh-TW", "en", "ru", "fr"];
 function walk(dir) { return readdirSync(dir,{withFileTypes:true}).flatMap(entry => entry.isDirectory() ? walk(path.join(dir,entry.name)) : entry.name.endsWith(".md") ? [path.join(dir,entry.name)] : []); }
+// Tests and rebuilds can generate the same snapshot concurrently. Publish a
+// complete file atomically so readers never observe a truncated JSON document.
+function writeSnapshot(file, content) {
+  const temporary = `${file}.${process.pid}.tmp`;
+  writeFileSync(temporary, content);
+  renameSync(temporary, file);
+}
 export function buildContent() {
   const root = path.resolve("content/issues");
   mkdirSync(root,{recursive:true});
@@ -40,9 +47,9 @@ export function buildContent() {
     translationCategories.set(article.translationKey,article.category);
   }
   mkdirSync("content/generated",{recursive:true});
-  writeFileSync("content/generated/articles.json", JSON.stringify(articles,null,2)+"\n");
+  writeSnapshot("content/generated/articles.json", JSON.stringify(articles,null,2)+"\n");
   mkdirSync("public/data/v1",{recursive:true});
-  writeFileSync("public/data/v1/articles.json", JSON.stringify(createArticleResponse(articles))+"\n");
+  writeSnapshot("public/data/v1/articles.json", JSON.stringify(createArticleResponse(articles))+"\n");
   console.log(`Markdown: ${articles.length} articles / ${new Set(articles.map(a=>a.issue)).size} issues / ${new Set(articles.map(a=>a.lang)).size} languages`);
   return articles;
 }

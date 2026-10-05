@@ -25,10 +25,14 @@ for(const lang of languages){
     assert.ok(!localized.includes('BAILOUT_TO_CLIENT_SIDE_RENDERING'), `${file}: canonical content must not bail out to client rendering`);
     assert.ok(!/<div hidden id="S:/.test(localized), `${file}: static main content must not wait inside a hidden streaming slot`);
   }
-  const archive = readFileSync(`out/${lang}/all-news/index.html`, "utf8");
-  assert.match(archive, /<h1\b[^>]*>/, "Archive heading must be prerendered without JavaScript");
-  for (const article of articles.filter(item=>item.lang===lang).slice(0,12)) {
-    assert.ok(archive.includes(escapeHtml(article.title)), "Archive card titles must be prerendered");
+  const ordered = articles.filter(item=>item.lang===lang).sort((a,b)=>b.date.localeCompare(a.date));
+  for (let offset=0; offset<ordered.length; offset+=12) {
+    const page = offset ? `${offset/12+1}/` : "";
+    const archive = readFileSync(`out/${lang}/all-news/${page}index.html`, "utf8");
+    assert.match(archive, /<h1\b[^>]*>/, "Archive heading must be prerendered without JavaScript");
+    for (const article of ordered.slice(offset,offset+12)) {
+      assert.ok(archive.includes(escapeHtml(article.title)), `${lang}/${page}: chronological archive card titles must be prerendered`);
+    }
   }
   for(const article of articles.filter(a=>a.lang===lang)){
     const html=readFileSync(`out/${lang}/post/${article.slug}/index.html`,"utf8");

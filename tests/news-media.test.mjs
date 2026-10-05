@@ -1,11 +1,13 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {readFileSync,existsSync} from 'node:fs';
+import {readFileSync,existsSync,readdirSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import sharp from 'sharp';
 import {buildContent} from '../scripts/content.mjs';
 const articles=buildContent();
-const manifests=['2026-10-03','2026-10-04'].map(date=>JSON.parse(readFileSync(`docs/news-media/${date}/provenance.json`,'utf8')));
+const manifests=readdirSync('docs/news-media',{withFileTypes:true})
+  .filter(entry=>entry.isDirectory() && existsSync(`docs/news-media/${entry.name}/provenance.json`))
+  .map(entry=>JSON.parse(readFileSync(`docs/news-media/${entry.name}/provenance.json`,'utf8')));
 const assets=manifests.flatMap(manifest=>manifest.assets);
 test('published news has documented covers reused in body and labels generated editorial illustrations',()=>{
   for(const article of articles){
@@ -30,7 +32,7 @@ test('published news has documented covers reused in body and labels generated e
     }
     assert.doesNotMatch(article.markdown,/制图：全球伯乐 News/);
   }
-  for(const asset of manifests.flatMap(manifest=>manifest.retiredAssets)){
+  for(const asset of manifests.flatMap(manifest=>manifest.retiredAssets || [])){
     assert.equal(existsSync(`public${asset.localPath}`),false,'Retired images must not remain public');
     if(asset.vectorAlternative)assert.equal(existsSync(`public${asset.vectorAlternative}`),false);
   }
