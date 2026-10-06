@@ -497,6 +497,203 @@
           "note": "Retrospective analysis of June 21–22 price events from the AER report released August 31; not a new October outage. No actual reserve shortfall reported."
         }
       ]
+    },
+    {
+      "id": "2026-10-06-zh-CN",
+      "publicationDate": "2026-10-06",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "deutsche-telekom-ai-savings-2026-10-06",
+          "path": "content/issues/2026-10-06/zh-CN/deutsche-telekom-ai-savings-2026-10-06.md",
+          "eventDate": "2026-10-05",
+          "sourceDate": "2026-10-05",
+          "sources": [
+            {
+              "title": "Deutsche Telekom boosts growth, efficiency and quality through the use of AI",
+              "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/10/deutsche-telekom-boosts-growth-efficiency-and-quality-through-t",
+              "date": "2026-10-05",
+              "type": "primary"
+            },
+            {
+              "title": "Unlocking value from AI",
+              "url": "https://delivery-p167603-e1796511.adobeaemcloud.com/adobe/assets/urn%3Aaaid%3Aaem%3A2f6f0918-cc55-400a-971e-358fcf56de3f/original/as/07_261005_1000_AI_Investor_Day_CPI_02.10.2026%20final.pdf?attachment=true",
+              "date": "2026-10-05",
+              "type": "primary"
+            },
+            {
+              "title": "AI in Enterprise",
+              "url": "https://delivery-p167603-e1796511.adobeaemcloud.com/adobe/assets/urn%3Aaaid%3Aaem%3A2b68f5d7-96bb-4796-bf17-796c7d90e565/original/as/261005_1630_AI_Investor_Day_AI%20in%20Enterprise_04.10.2026_final%20%282%29%20%281%29.pdf?attachment=true",
+              "date": "2026-10-05",
+              "type": "primary"
+            }
+          ],
+          "note": "2030 ex-US gross indirect-cost savings target against 2023, excluding token costs and including capitalized labour; not achieved or cumulative profit."
+        },
+        {
+          "translationKey": "eu-affordable-ev-sales-2026-10-06",
+          "path": "content/issues/2026-10-06/zh-CN/eu-affordable-ev-sales-2026-10-06.md",
+          "eventDate": "2026-10-05",
+          "sourceDate": "2026-10-05",
+          "sources": [
+            {
+              "title": "EV progress report: 'Don't stop me now', the EV transition is delivering",
+              "url": "https://www.transportenvironment.org/articles/ev-progress-report-dont-stop-me-now-the-ev-transition-is-delivering",
+              "date": "2026-10-05",
+              "type": "primary"
+            },
+            {
+              "title": "原报告PDF",
+              "url": "https://uploads.transportenvironment.org/production/files/EV-progress-report-H2-2026-Slide-deck-2.pdf?dm=1791188239",
+              "date": "2026-10-05",
+              "type": "primary"
+            },
+            {
+              "title": "New car registrations: +5.3% in August 2026 year-to-date; battery-electric 21.7% market share",
+              "url": "https://www.acea.auto/pc-registrations/new-car-registrations-5-3-in-august-2026-year-to-date-battery-electric-21-7-market-share/",
+              "date": "2026-09-24",
+              "type": "primary"
+            },
+            {
+              "title": "Wave of affordable electric cars is boosting consumers' choice: sales of sub-€25,000 models set to rise sevenfold",
+              "url": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
+              "date": "2026-10-05",
+              "type": "primary"
+            },
+            {
+              "title": "European EV sales hit record in 'pivotal' year for affordable cars, study shows",
+              "url": "https://www.investing.com/news/stock-market-news/europeanev-sales-hit-record-in-pivotal-year-foraffordable-cars-study-shows-4931003",
+              "date": "2026-10-05",
+              "type": "original_reporting"
+            },
+            {
+              "title": "CO2 emissions in cars: Council gives final approval to additional flexibility for carmakers",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/05/27/co2-emissions-in-cars-council-gives-final-approval-to-additional-flexibility-for-carmakers/",
+              "date": "2025-05-27",
+              "type": "primary"
+            }
+          ],
+          "note": "EU BEV new passenger-car registrations January–August 2026, not all European electrified-vehicle sales. 22% and 45% rounded; full-year affordable-model outcomes remain forecasts.",
+          "dataPeriod": "2026-01–2026-08"
+        },
+        {
+          "translationKey": "eu-rapid-trade-response-2026-10-06",
+          "path": "content/issues/2026-10-06/zh-CN/eu-rapid-trade-response-2026-10-06.md",
+          "eventDate": "2026-10-05",
+          "sourceDate": "2026-10-05",
+          "sources": [
+            {
+              "title": "France, Germany propose new rapid EU trade response tool",
+              "url": "https://www.investing.com/news/economy-news/france-germany-propose-new-rapid-eu-trade-response-tool-4932514",
+              "date": "2026-10-05",
+              "type": "original_reporting"
+            },
+            {
+              "title": "France, Germany seek new EU rapid response tool against trade threats",
+              "url": "https://www.aol.co.uk/articles/france-germany-seek-eu-rapid-170126000.html",
+              "date": "2026-10-05",
+              "type": "original_reporting"
+            },
+            {
+              "title": "Conclusions du 26e Conseil des ministres franco-allemand.",
+              "url": "https://www.elysee.fr/emmanuel-macron/2026/07/17/conclusions-du-26e-conseil-des-ministres-franco-allemand",
+              "date": "2026-07-17",
+              "type": "primary"
+            },
+            {
+              "title": "Protecting against coercion",
+              "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-against-coercion_en",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-06"
+            }
+          ],
+          "note": "Franco-German October 5 proposal, not enacted restrictions. Existing Anti-Coercion Instrument is separate background."
+        },
+        {
+          "translationKey": "nepal-flood-recovery-2026-10-06",
+          "path": "content/issues/2026-10-06/zh-CN/nepal-flood-recovery-2026-10-06.md",
+          "eventDate": "2026-10-05",
+          "sourceDate": "2026-10-05",
+          "sources": [
+            {
+              "title": "《尼泊尔结束洪灾搜救，转向恢复重建》（Nepal ends search and rescue after flood, focuses on rehabilitation）",
+              "url": "https://www.marketscreener.com/news/nepal-ends-search-and-rescue-after-flood-focuses-on-rehabilitation-ce785dd8d880f720",
+              "date": "2026-10-05",
+              "type": "original_reporting"
+            },
+            {
+              "title": "《政府暂停博特科西—特里舒利洪灾搜救，紧急行动除外》（Government suspends Bhotekoshi-Trishuli flood search and rescue, except urgent operations）",
+              "url": "https://english.onlinekhabar.com/government-suspends-bhotekoshi-trishuli-flood-search-and-rescue-except-urgent-operations.html",
+              "date": "2026-10-05",
+              "type": "original_reporting"
+            },
+            {
+              "title": "《博特科西河洪灾每日情况更新：2026年9月8日》（Daily Situation Update on Bhote Koshi River Floods- 08 September 2026）",
+              "url": "https://www.mofa.gov.np/content/1881/daily-update-8-september-bhote-koshi-flood/",
+              "date": "2026-09-08",
+              "type": "primary"
+            },
+            {
+              "title": "《政府寻求洪灾受损水电项目的重建模式》（Government seeks reconstruction model for flood-damaged hydropower projects）",
+              "url": "https://english.onlinekhabar.com/government-seeks-reconstruction-model-for-flood-damaged-hydropower-projects.html",
+              "date": "2026-09-30",
+              "type": "original_reporting"
+            }
+          ],
+          "note": "October 5 recovery-stage decision after August 26 flood; essential emergency rescues continue. Missing persons are not counted as confirmed dead. Budget recommendation and dollar-denominated recovery estimate are distinct.",
+          "underlyingEventDate": "2026-08-26"
+        },
+        {
+          "translationKey": "reflection-beam-open-weights-2026-10-06",
+          "path": "content/issues/2026-10-06/zh-CN/reflection-beam-open-weights-2026-10-06.md",
+          "eventDate": "2026-10-05",
+          "sourceDate": "2026-10-05",
+          "sources": [
+            {
+              "title": "Introducing Beam: Reflection’s 501B open-weight model",
+              "url": "https://reflection.ai/blog/introducing-beam",
+              "date": "2026-10-05",
+              "type": "primary"
+            },
+            {
+              "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
+              "url": "https://www.investing.com/news/stock-market-news/nvidiabacked-reflection-unveils-first-ai-model-to-take-on-chinese-open-models-4932928",
+              "date": "2026-10-05",
+              "type": "original_reporting"
+            },
+            {
+              "title": "Introduction",
+              "url": "https://developers.reflection.ai/introduction",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-06"
+            },
+            {
+              "title": "Reasoning",
+              "url": "https://developers.reflection.ai/reasoning",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-06"
+            },
+            {
+              "title": "Models",
+              "url": "https://developers.reflection.ai/models.md",
+              "date": null,
+              "type": "primary",
+              "accessed": "2026-10-06"
+            }
+          ],
+          "note": "Model announced October 5 in preview; weights promised later in October, not yet downloadable. Company-reported benchmark and approximate compute comparison; beta API limits distinguished from training context."
+        }
+      ]
     }
   ],
   "revisions": [
