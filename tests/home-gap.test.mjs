@@ -11,23 +11,27 @@ test('original homepage column order and editorial modules remain in place', () 
  assert.match(home,/takeRemaining\(ordered, used, 6\)/);
  assert.match(home,/<div className="ref-latest-list"[^>]*tabIndex=\{0\}/);
  assert.ok(home.indexOf('id="latest-heading"') < home.indexOf('className="ref-latest-list"'));
- assert.match(home,/<aside className="ref-picks"[^>]*tabIndex=\{0\}/);
+ assert.match(home,/<div className="ref-picks-list"[^>]*aria-labelledby="picks-heading" tabIndex=\{0\}/);
+ assert.ok(home.indexOf('id="picks-heading"') < home.indexOf('className="ref-picks-list"'));
+ assert.match(home,/picks\.map\(\(story\) => <CompactStory/);
+ assert.doesNotMatch(home,/ref-pick-image|ref-pick-time/);
 });
 
 test('only desktop hero sidebars are size-contained, with accessible overflow', () => {
  const css=readFileSync('app/globals.css','utf8');
  const patch=css.slice(css.indexOf('/* Keep the original three-column front page.'));
  assert.match(patch,/@media \(min-width: 64rem\)/);
- assert.match(patch,/\.ref-hero-grid > \.ref-latest,[\s\S]*\.ref-hero-grid > \.ref-picks[\s\S]*contain: size;[\s\S]*min-height: 0;[\s\S]*\.ref-latest-list,[\s\S]*overflow-y: auto;/);
+ assert.match(patch,/\.ref-hero-grid > \.ref-latest,[\s\S]*\.ref-hero-grid > \.ref-picks[\s\S]*contain: size;[\s\S]*min-height: 0;[\s\S]*\.ref-latest-list,[\s\S]*\.ref-picks-list\s*\{[^}]*overflow-y: auto;/);
  assert.doesNotMatch(patch,/font-size|grid-template-columns|order:|height:\s*\d+(?:px|rem|vh)/);
  assert.match(css,/grid-template-columns: 15rem minmax\(0, 1fr\) 19rem/);
 });
 
 
-test('Latest heading is outside the scrolling list and never becomes a scroll container', () => {
+test('Both sidebar headings stay outside their scrolling lists', () => {
  const css=readFileSync('app/globals.css','utf8');
  const patch=css.slice(css.indexOf('/* Keep the original three-column front page.'));
- assert.match(patch,/\.ref-hero-grid > \.ref-latest \{[^}]*display: flex;[^}]*flex-direction: column;/);
+ assert.match(patch,/\.ref-hero-grid > \.ref-latest,[\s\S]*\.ref-hero-grid > \.ref-picks \{[^}]*display: flex;[^}]*flex-direction: column;/);
  assert.match(patch,/\.ref-latest > \.ref-heading-small,[\s\S]*flex-shrink: 0/);
- assert.doesNotMatch(patch,/\.ref-hero-grid > \.ref-latest[^}]*overflow-y/);
+ assert.match(patch,/\.ref-picks > \.ref-heading-small,[\s\S]*flex-shrink: 0/);
+ assert.doesNotMatch(patch,/\.ref-hero-grid > \.ref-picks[^}]*overflow-y/);
 });

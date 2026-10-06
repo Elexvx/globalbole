@@ -225,7 +225,10 @@ test('text-only home cards keep each edition’s latest archive titles and links
       .sort((a,b)=>b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug)).slice(0,12);
     const html=renderToStaticMarkup(createElement(ReferenceHome,{stories:all,locale,prefix:`/${locale}`}));
     assert.doesNotMatch(html, /<img|<picture|class="ref-(?:hero|card|archive|pick|scan|tech-feature)-image/);
-    assert.match(html, /ref-story-text-only/);
+    const mediaPlaceholders = [...html.matchAll(/<div class="ref-media-placeholder"[^>]*><\/div>/g)];
+    assert.ok(mediaPlaceholders.length > 0);
+    assert.ok(mediaPlaceholders.every(([placeholder]) => placeholder.includes('aria-hidden="true"')));
+    assert.match(html, /ref-media-placeholder/);
     for(const story of stories) {
       const title=renderToStaticMarkup(createElement('span',null,story.title)).slice(6,-7);
       assert.ok(html.includes(title));
