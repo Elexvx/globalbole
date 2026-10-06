@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-03"
 description: "MiSpeL clarifie le décompte de l’électricité renouvelable stockée avec celle du réseau. Mais la vente directe sur le marché, les adaptations de comptage, la transition et l’approbation européenne détermineront la disponibilité réelle de ces services."
+seoTitle: "Allemagne : MiSpeL ouvre le marché électrique au stockage"
+seoDescription: "MiSpeL clarifie le décompte de l’électricité renouvelable et de réseau stockée, mais la vente directe, le comptage, la transition et l’approbation européenne conditionnent le calendrier."
 cover: "/news-media/2026-10-04/mispel-storage-editorial-illustration.webp"
 coverAlt: "Illustration conceptuelle générée par IA : recharge d’un véhicule électrique, stockage domestique et panneaux solaires en toiture"
 tags: ["Stockage d’énergie", "Recharge bidirectionnelle", "Énergie en Allemagne"]

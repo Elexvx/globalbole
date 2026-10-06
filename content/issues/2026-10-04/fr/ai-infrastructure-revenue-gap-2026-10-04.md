@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-04"
 description: "PwC estime que les investissements cumulés dans les centres de données pourraient atteindre 31 600 milliards de dollars d’ici 2050. Bain estime pour sa part que 6 000 milliards de dollars de revenus annuels seront nécessaires en 2031 pour soutenir la demande de calcul liée à l’IA. Ces estimations révèlent le décalage entre investissements et retombées commerciales."
+seoTitle: "Infrastructures d’IA : 31 600 Md$ d’investissements à rentabiliser"
+seoDescription: "PwC prévoit 31 600 Md$ d’investissements cumulés dans les centres de données d’ici 2050 ; Bain estime à 6 000 Md$ les revenus annuels nécessaires en 2031 pour soutenir la demande de calcul IA."
 cover: "/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp"
 coverAlt: "Illustration conceptuelle générée par IA : un centre de données, des installations électriques et des infrastructures en construction"
 tags: ["Intelligence artificielle", "Centres de données", "Dépenses d’investissement", "Emploi"]

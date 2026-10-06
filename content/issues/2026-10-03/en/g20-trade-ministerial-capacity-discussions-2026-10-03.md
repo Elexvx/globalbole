@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-03"
 description: "Food trade brought consensus, while forced labor and structural overcapacity remain divisive. Reading the G20 chair’s statement requires distinguishing shared decisions, action by a few members and reform proposals."
+seoTitle: "G20 trade ministers end meeting without capacity consensus"
+seoDescription: "Ministers agreed on food trade but remained divided on forced labor and structural overcapacity; the chair's statement also separates shared positions from proposals."
 cover: "/news-media/2026-10-04/g20-trade-editorial-illustration.webp"
 coverAlt: "AI-generated conceptual illustration: port trade and international negotiations still seeking consensus"
 tags: ["International trade", "G20", "Supply chains"]

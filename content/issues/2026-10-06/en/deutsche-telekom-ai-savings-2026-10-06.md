@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Source research and synthesis"
 date: "2026-10-06"
 description: "The operator’s 2030 AI and automation target is gross indirect-cost savings versus 2023 outside the US. It excludes token costs and is a forward-looking ambition, not realized profit."
+seoTitle: "Deutsche Telekom targets €2.5 billion in AI savings by 2030"
+seoDescription: "The target is gross indirect-cost savings outside the US versus 2023, excludes token costs and describes a forward-looking ambition rather than realized profit."
 cover: "/news-media/2026-10-06/telekom-official.jpg"
 coverAlt: "Image from Deutsche Telekom’s official news release showing the words “TRUST THE T” on a building façade"
 tags: ["Artificial intelligence", "Infrastructure", "Capital spending"]

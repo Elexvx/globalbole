@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-05"
 description: "Trump a annoncé le 4 octobre la direction du groupe fédéral sur l’IA. Selon Reuters, qui cite le Wall Street Journal, un examen de 120 jours portera sur les risques, les possibilités, les responsabilités publiques et les mécanismes existants de signalement et de réponse aux incidents."
+seoTitle: "Trump confirme le groupe d’IA dirigé par Clayton"
+seoDescription: "D’après Reuters citant le Wall Street Journal, le groupe fédéral dispose de 120 jours pour examiner risques, possibilités, responsabilités publiques et capacités de réponse aux incidents."
 cover: "/news-media/2026-10-05/us-ai-task-force-editorial.png"
 coverAlt: "Illustration générée par IA : coordination fédérale des politiques d’IA, évaluation des risques et signalement des incidents"
 tags: ["Intelligence artificielle","Sécurité de l’IA","États-Unis","Politique technologique"]

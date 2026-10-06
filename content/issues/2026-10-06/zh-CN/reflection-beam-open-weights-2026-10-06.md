@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-06"
 description: "Beam以230亿激活参数瞄准编程和智能体任务，权重拟于10月开放。公司效率比较未计入全部服务开销，API目前仍处于测试阶段。"
+seoTitle: "Reflection发布Beam：5010亿参数，开放权重计划10月推出"
+seoDescription: "Beam有230亿激活参数，面向编程和智能体任务；公司计划10月开放权重，效率估算未计入全部服务成本，API仍在测试。"
 cover: "/news-media/2026-10-06/beam-editorial.png"
 coverAlt: "AI生成示意图：深蓝模块围绕明亮核心，表现模型计算与开放主题"
 tags: ["人工智能", "基础设施"]

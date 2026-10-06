@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-04"
 description: "白宫与六家AI企业签署自愿安全承诺，列出内部控制、外部审计和董事会监督。争议转向审计独立性、整改透明度与违约后果。"
+seoTitle: "美国六家AI企业签署自愿安全承诺，执行细则待明确"
+seoDescription: "白宫与六家企业提出内部控制、外部审计和董事会监督，审计独立性、整改透明度及违约后果仍待讨论。"
 cover: "/news-media/2026-10-04/whitehouse-ai-luncheon-20260929.jpg"
 coverAlt: "2026年9月29日，特朗普在白宫东厅主持人工智能主题午宴"
 tags: ["人工智能", "AI安全", "美国", "企业治理"]

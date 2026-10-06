@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-04"
 description: "PwC預測至2050年資料中心累計資本支出可達31.6萬億美元，貝恩則估算2031年需6萬億美元年收入支撐AI算力需求。兩項估算揭示投入與商業回報之間的時間差。"
+seoTitle: "AI基建31.6萬億美元投資預測：回報仍待檢驗"
+seoDescription: "PwC預測資料中心至2050年累計資本支出達31.6兆美元，Bain估算2031年支撐AI算力需每年創造6兆美元營收，顯示投入與回報存在時間差。"
 cover: "/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp"
 coverAlt: "AI生成概念示意圖（非實景）：資料中心、供電設施與建設中的基礎設施"
 tags: ["人工智慧", "資料中心", "資本支出", "就業"]

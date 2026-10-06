@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Synthèse documentaire"
 date: "2026-10-05"
 description: "Le dépouillement presque achevé du scrutin présidentiel brésilien du 4 octobre donne environ 47 % des suffrages valides à Flávio Bolsonaro et 45 % à Lula. Le second tour du 25 octobre se jouera sur l’élargissement des soutiens et la participation."
+seoTitle: "Brésil : Flávio Bolsonaro devance Lula avant le second tour"
+seoDescription: "Le dépouillement presque achevé du 4 octobre donne environ 47 % des suffrages valides à Flávio Bolsonaro contre 45 % à Lula ; le second tour est prévu le 25 octobre."
 cover: "/news-media/2026-10-05/brazil-election-editorial.png"
 coverAlt: "Illustration générée par IA sur l’élection présidentielle brésilienne et le second tour"
 tags: ["Brésil","Élection présidentielle","Amérique latine","Politiques publiques"]

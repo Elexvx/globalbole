@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Recherche et synthèse documentaire"
 date: "2026-10-06"
 description: "Avec 23 milliards de paramètres actifs, Beam vise le code et les tâches agentiques. Les poids sont promis pour octobre ; les estimations d’efficacité excluent certains coûts de service et l’API reste en bêta."
+seoTitle: "Reflection Beam : 501 milliards de paramètres, poids ouverts prévus en octobre"
+seoDescription: "Beam vise le code et les tâches agentiques avec 23 milliards de paramètres actifs ; les poids sont attendus en octobre, certains coûts de service manquent aux estimations et l’API reste en bêta."
 cover: "/news-media/2026-10-06/beam-editorial.png"
 coverAlt: "Illustration générée par l’IA : des modules bleu marine entourent un noyau lumineux, évoquant le calcul et l’ouverture des modèles"
 tags: ["Intelligence artificielle", "Infrastructures"]

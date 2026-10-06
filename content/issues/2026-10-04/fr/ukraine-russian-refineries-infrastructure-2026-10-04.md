@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-04"
 description: "Zelensky annonce une intensification des frappes contre les raffineries russes, alors que les ponts de Kyiv subissent des attaques répétées. Déclarations publiques, dommages réels et effets sur les civils doivent être vérifiés séparément ; on ne peut pas encore en déduire les variations de capacité ou des prix pétroliers."
+seoTitle: "Ukraine : Zelensky annonce davantage de frappes sur les raffineries russes"
+seoDescription: "Zelensky annonce plus de frappes sur les raffineries russes, tandis que des ponts de Kyiv sont de nouveau visés ; dégâts et effets sur les civils restent à vérifier."
 cover: "/news-media/2026-10-04/ssu-oil-sites-20261002.jpg"
 coverAlt: "Visuel accompagnant le communiqué du Service de sécurité d’Ukraine du 2 octobre 2026, annonçant des frappes contre des installations pétrolières russes avec d’autres forces"
 tags: ["Ukraine", "Russie", "Sécurité énergétique", "Infrastructures"]

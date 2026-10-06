@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-03"
 description: "Un consensus s’est dégagé sur le commerce alimentaire, mais des divergences persistent sur le travail forcé et les capacités structurelles. Pour lire la déclaration de la présidence du G20, il faut distinguer décisions communes, actions de quelques membres et pistes de réforme."
+seoTitle: "G20 : pas de consensus sur les capacités de production"
+seoDescription: "Les ministres s’accordent sur le commerce alimentaire, mais restent divisés sur le travail forcé et les surcapacités ; la déclaration distingue aussi positions communes et propositions."
 cover: "/news-media/2026-10-04/g20-trade-editorial-illustration.webp"
 coverAlt: "Illustration conceptuelle générée par IA : le commerce portuaire et des négociations internationales encore en quête de consensus"
 tags: ["Commerce international", "G20", "Chaînes d’approvisionnement"]

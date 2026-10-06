@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-04"
 description: "Zelensky says Ukraine will intensify strikes on Russian refineries, while Kyiv bridges face repeated attacks. Public statements, actual damage and civilian effects require separate verification; changes in capacity or oil prices cannot yet be directly inferred."
+seoTitle: "Zelensky says Ukraine will step up strikes on Russian refineries"
+seoDescription: "Zelensky's statement comes amid repeated attacks on Kyiv bridges; reported damage, civilian effects and any changes to refining capacity or oil prices require separate verification."
 cover: "/news-media/2026-10-04/ssu-oil-sites-20261002.jpg"
 coverAlt: "Illustration accompanying the Security Service of Ukraine's October 2, 2026 announcement that it had joined other forces in striking Russian oil facilities"
 tags: ["Ukraine", "Russia", "Energy security", "Infrastructure"]

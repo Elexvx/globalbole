@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-03"
 description: "Les États-Unis ont créé 29 000 emplois non agricoles en septembre, tandis que les deux mois précédents ont été révisés à la baisse de 60 000 au total. Les différences sectorielles, le chômage de longue durée, les salaires et les heures travaillées éclairent mieux la situation que le seul chiffre principal."
+seoTitle: "États-Unis : 29 000 emplois créés en septembre, chômage à 4,2 %"
+seoDescription: "Les États-Unis créent 29 000 emplois non agricoles en septembre ; juillet et août sont révisés à la baisse de 60 000 au total."
 cover: "/news-media/2026-10-03/bls-september-2026-payroll-original.png"
 coverAlt: "Graphique original du Bureau américain des statistiques du travail : variation mensuelle désaisonnalisée de l’emploi non agricole de septembre 2024 à septembre 2026, en milliers de personnes"
 tags: ["Économie américaine", "Emploi", "Données macroéconomiques"]

@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-04"
 description: "朝鲜10月3日发射导弹，翌日称开展高超音速战略武器演练。韩方评估与朝方宣称存在距离差异，武器性能仍需独立数据支持。"
+seoTitle: "朝鲜称举行中程导弹演练，射程与性能仍待核实"
+seoDescription: "朝鲜将10月3日发射称为高超音速武器演练，韩方射程评估与朝方说法不同，武器性能还缺少独立数据。"
 cover: "/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp"
 coverAlt: "AI生成示意图：以抽象棋子表现导弹与地区安全议题"
 tags: ["朝鲜半岛", "国际局势", "导弹"]

@@ -15,8 +15,8 @@ export function tickerOffset(currentTime, durationMs) {
   return ((currentTime % durationMs) + durationMs) % durationMs / 1000 * TICKER_SPEED_PX_PER_SECOND;
 }
 
-export function tickerIsPaused({ userPaused, hovered, focused, reducedMotion, hidden }) {
-  return Boolean(userPaused || hovered || focused || reducedMotion || hidden);
+export function tickerIsPaused({ hovered, focused, reducedMotion, hidden }) {
+  return Boolean(hovered || focused || reducedMotion || hidden);
 }
 
 const activeTickers = new WeakMap();
@@ -26,14 +26,12 @@ export function mountTicker(root) {
   const viewport = root.querySelector('[data-ticker-viewport]');
   const track = root.querySelector('[data-ticker-track]');
   const group = root.querySelector('[data-ticker-group]');
-  const toggle = root.querySelector('[data-ticker-toggle]');
   const doc = root.ownerDocument;
   const win = doc.defaultView;
-  if (!viewport || !track || !group || !toggle || !win || typeof track.animate !== 'function') return () => {};
+  if (!viewport || !track || !group || !win || typeof track.animate !== 'function') return () => {};
 
   const motion = win.matchMedia('(prefers-reduced-motion: reduce)');
   const state = {
-    userPaused: root.dataset.tickerUserPaused === 'true',
     hovered: win.matchMedia('(hover: hover)').matches && root.matches(':hover'),
     focused: root.contains(doc.activeElement),
     reducedMotion: motion.matches,
@@ -57,10 +55,6 @@ export function mountTicker(root) {
   function syncPlayback() {
     const paused = tickerIsPaused(state);
     root.dataset.tickerPaused = String(paused);
-    root.dataset.tickerUserPaused = String(state.userPaused);
-    const label = state.userPaused ? toggle.dataset.resumeLabel : toggle.dataset.pauseLabel;
-    toggle.setAttribute('aria-label', label);
-    toggle.setAttribute('title', label);
     if (animation) paused ? animation.pause() : animation.play();
   }
 
@@ -75,7 +69,6 @@ export function mountTicker(root) {
       animation = undefined;
       removeCopies();
       copies = 0;
-      toggle.hidden = true;
       delete root.dataset.tickerReady;
       syncPlayback();
       return;
@@ -109,7 +102,6 @@ export function mountTicker(root) {
     );
     animation.currentTime = offset / TICKER_SPEED_PX_PER_SECOND * 1000;
     root.dataset.tickerReady = 'true';
-    toggle.hidden = false;
     syncPlayback();
   }
 
@@ -117,7 +109,6 @@ export function mountTicker(root) {
     if (!disposed && !frame) frame = win.requestAnimationFrame(measure);
   }
 
-  listen(toggle, 'click', () => { state.userPaused = !state.userPaused; syncPlayback(); });
   listen(root, 'pointerenter', event => { if (event.pointerType !== 'touch') { state.hovered = true; syncPlayback(); } });
   listen(root, 'pointerleave', () => { state.hovered = false; syncPlayback(); });
   listen(root, 'focusin', event => {
@@ -160,7 +151,6 @@ export function mountTicker(root) {
     observer?.disconnect();
     listeners.forEach(remove => remove());
     removeCopies();
-    toggle.hidden = true;
     delete root.dataset.tickerReady;
     delete root.dataset.tickerPaused;
     delete root.dataset.tickerMotion;

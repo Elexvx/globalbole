@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-05"
 description: "Near-complete counting after Brazil’s October 4 presidential vote puts Flávio Bolsonaro at about 47% of valid votes and Lula at about 45%. Their October 25 runoff will turn on broader support and turnout."
+seoTitle: "Brazil runoff set as Flávio Bolsonaro leads Lula in partial count"
+seoDescription: "With counting nearly complete after the October 4 vote, Flávio Bolsonaro had about 47% of valid votes and Lula about 45%; they are set to face each other on October 25."
 cover: "/news-media/2026-10-05/brazil-election-editorial.png"
 coverAlt: "AI-generated illustration of Brazil’s presidential election and runoff vote"
 tags: ["Brazil","Presidential election","Latin America","Public policy"]

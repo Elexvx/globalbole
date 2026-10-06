@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-05"
 description: "The Supreme Court will hear the Boulder case against ExxonMobil and Suncor on October 5, weighing federal preemption and whether it has jurisdiction to review the dispute at this stage."
+seoTitle: "Supreme Court to hear Boulder climate case against Exxon and Suncor"
+seoDescription: "The October 5 case concerns federal preemption and whether the court can review the dispute at this stage; the oil companies' liability remains undecided."
 cover: "/news-media/2026-10-05/climate-court-editorial.png"
 coverAlt: "AI-generated illustration of courts, fossil fuels and responsibility for urban climate damage"
 tags: ["United States","Climate litigation","Fossil fuels","Corporate liability"]

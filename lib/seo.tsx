@@ -4,6 +4,7 @@ import { locales, isLocale, type Locale } from "./locales";
 import { translatedTagSlug } from "./language-routes.mjs";
 import { siteUrl } from "./site-url";
 import { positioning, brandNames, siteName as publisherName } from "./site-brand";
+import { homeSeo } from "./home-seo.mjs";
 import messages from "./messages.json";
 import { decodeTagRouteSegment, tagLabel, tagMatchesSlug } from "./tag-routes.mjs";
 
@@ -38,10 +39,15 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   const section = path[0] === "category" ? translate(category?.label || path[1], locale)
     : path[0] === "tag" ? tagLabel(path[1], stories.flatMap(story => story.tags))
     : translate(labels[path[0]] || "", locale);
-  const title = article?.title || (path.length ? `${section}${path[1] && path[0] !== "category" && path[0] !== "tag" ? ` · ${path[1]}` : ""}` : positioning[locale]);
-  const description = article?.dek || (path[0] === "category" && category
+  const title = article?.title || (!path.length ? homeSeo[locale].title : `${section}${path[1] && path[0] !== "category" && path[0] !== "tag" ? ` · ${path[1]}` : ""}`);
+  const description = article?.dek || (!path.length ? homeSeo[locale].description : path[0] === "category" && category
     ? translate(category.description, locale)
     : `${siteName} · ${positioning[locale]}${section ? ` · ${section}` : ""}`);
+  const metadataTitle = article?.seoTitle?.trim() || title;
+  const documentTitle = article
+    ? `${metadataTitle} — ${siteName}`
+    : !path.length ? homeSeo[locale].title : `${title} — ${siteName}`;
+  const metadataDescription = article?.seoDescription?.trim() || description;
 
   let alternateLocales: readonly Locale[] = locales;
   // Only advertise a matching content collection where that content exists.
@@ -60,11 +66,11 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   const images = article?.image ? [{ url: absolute(article.image), alt: article.imageAlt }] : undefined;
   const index = !article || contentLocale === locale;
   const metadata: Metadata = {
-    title: { absolute: `${title} — ${siteName}` }, description,
+    title: { absolute: documentTitle }, description: metadataDescription,
     alternates: { canonical, languages: alternates, types: { "application/rss+xml": absolute(`/feeds/${contentLocale}.xml`) } },
     robots: { index, follow: true, googleBot: { index, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
-    openGraph: { title, description, url: canonical, siteName, locale: contentLocale.replace("-", "_"), type: article ? "article" : "website", images, ...(article ? { publishedTime: article.date, authors: [article.author], tags: article.tags } : {}) },
-    twitter: { card: images ? "summary_large_image" : "summary", title, description, images },
+    openGraph: { title: metadataTitle, description: metadataDescription, url: canonical, siteName, locale: contentLocale.replace("-", "_"), type: article ? "article" : "website", images, ...(article ? { publishedTime: article.date, ...(article.updatedAt ? { modifiedTime: article.updatedAt } : {}), authors: [article.author], tags: article.tags } : {}) },
+    twitter: { card: images ? "summary_large_image" : "summary", title: metadataTitle, description: metadataDescription, images },
   };
 
   const publisherId = absolute("/#publisher");
@@ -81,7 +87,7 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   const articleSchema = article ? {
     "@type": "NewsArticle", "@id": articleId, url: canonical,
     headline: article.title, description: article.dek, inLanguage: contentLocale,
-    datePublished: article.date,
+    datePublished: article.date, ...(article.updatedAt ? { dateModified: article.updatedAt } : {}),
     ...(article.image ? { image: { "@type": "ImageObject", url: absolute(article.image), caption: article.imageAlt } } : {}),
     author: { "@type": "Organization", name: article.author, ...(knownPublisherAuthor ? { "@id": publisherId, url: absolute("/") } : {}) },
     publisher: { "@id": publisherId }, mainEntityOfPage: { "@id": pageId },

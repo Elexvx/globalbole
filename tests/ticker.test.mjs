@@ -28,8 +28,8 @@ test('complete groups include the seam gap, repeat enough times and wrap without
   assert.equal(tickerOffset(null, durationMs), 0);
 });
 
-test('manual pause, pointer, focus, reduced motion and background tabs all stop motion', () => {
-  const state = { userPaused: false, hovered: false, focused: false, reducedMotion: false, hidden: false };
+test('pointer, focus, reduced motion and background tabs pause automatic motion', () => {
+  const state = { hovered: false, focused: false, reducedMotion: false, hidden: false };
   assert.equal(tickerIsPaused(state), false);
   for (const key of Object.keys(state)) assert.equal(tickerIsPaused({ ...state, [key]: true }), true);
 });
@@ -96,18 +96,14 @@ function fixture({ width = 1000, viewportWidth = 600, reduced = false } = {}) {
       return animation;
     },
   };
-  const toggle = events({
-    hidden: true, dataset: { pauseLabel: 'Pause news ticker', resumeLabel: 'Resume news ticker' }, attrs: {},
-    setAttribute(key, value) { this.attrs[key] = value; },
-  });
   const root = events({
     dataset: {}, ownerDocument: doc,
-    querySelector: selector => ({ '[data-ticker-viewport]': viewport, '[data-ticker-track]': track, '[data-ticker-group]': group, '[data-ticker-toggle]': toggle })[selector],
-    contains: node => node === link || node === toggle,
+    querySelector: selector => ({ '[data-ticker-viewport]': viewport, '[data-ticker-track]': track, '[data-ticker-group]': group })[selector],
+    contains: node => node === link,
     matches: () => false,
   });
   return {
-    root, toggle, group, viewport, animations, clones, motion, fonts, doc, win, link,
+    root, group, viewport, animations, clones, motion, fonts, doc, win, link,
     setWidth(value) { width = value; },
     resize() { resize(); },
     fontReady() { fontReady(); },
@@ -120,6 +116,8 @@ test('runtime measures exact width, hides duplicate links from assistive technol
   const dispose = mountTicker(f.root);
   assert.equal(mountTicker(f.root), dispose, 'Repeated mounting is idempotent');
   assert.equal(f.animations.length, 1);
+  assert.equal(f.animations[0].playState, 'running', 'The ticker starts moving without a pause control');
+  assert.equal(f.root.dataset.tickerReady, 'true');
   assert.equal(f.animations[0].timing.duration, 1000.5 / 48 * 1000);
   assert.deepEqual(f.animations[0].keyframes[1], { transform: 'translateX(-1000.5px)' });
   assert.equal(f.clones.length, 2);
@@ -139,15 +137,14 @@ test('runtime measures exact width, hides duplicate links from assistive technol
   dispose();
   assert.equal(f.animations.at(-1).playState, 'idle');
   assert.equal(f.clones.length, 0);
-  assert.equal(f.toggle.hidden, true);
-  for (const target of [f.root, f.toggle, f.doc, f.win, f.motion, f.fonts]) assert.equal(target.listenerCount(), 0);
+  for (const target of [f.root, f.doc, f.win, f.motion, f.fonts]) assert.equal(target.listenerCount(), 0);
   f.fontReady(); f.flush();
   assert.equal(f.animations.length, 3, 'Late font completion cannot restart a disposed ticker');
 });
 
-test('runtime pauses on hover/focus/visibility and keeps a manual pause across remounts', () => {
+test('runtime pauses and resumes automatically on hover/focus/visibility without a toggle', () => {
   const f = fixture();
-  let dispose = mountTicker(f.root);
+  const dispose = mountTicker(f.root);
   const animation = f.animations[0];
   f.root.emit('pointerenter', { pointerType: 'touch' });
   assert.equal(animation.playState, 'running');
@@ -168,14 +165,6 @@ test('runtime pauses on hover/focus/visibility and keeps a manual pause across r
   assert.equal(animation.playState, 'paused');
   f.doc.hidden = false; f.doc.emit('visibilitychange');
   assert.equal(animation.playState, 'running');
-  f.toggle.emit('click');
-  assert.equal(animation.playState, 'paused');
-  assert.equal(f.toggle.attrs['aria-label'], 'Resume news ticker');
-  dispose(); dispose = mountTicker(f.root);
-  assert.equal(f.animations.at(-1).playState, 'paused');
-  f.toggle.emit('click');
-  assert.equal(f.animations.at(-1).playState, 'running');
-  assert.equal(f.toggle.attrs['aria-label'], 'Pause news ticker');
   dispose();
 });
 
@@ -202,7 +191,6 @@ test('reduced motion is static and scrollable from first paint and responds to p
   const dispose = mountTicker(f.root);
   assert.equal(f.animations.length, 0);
   assert.equal(f.clones.length, 0);
-  assert.equal(f.toggle.hidden, true);
   assert.equal(f.root.dataset.tickerMotion, 'reduced');
   assert.equal(f.root.dataset.tickerReady, undefined);
   f.motion.matches = false; f.motion.emit('change');
@@ -211,7 +199,6 @@ test('reduced motion is static and scrollable from first paint and responds to p
   f.motion.matches = true; f.motion.emit('change');
   assert.equal(f.animations[0].playState, 'idle');
   assert.equal(f.clones.length, 0);
-  assert.equal(f.toggle.hidden, true);
   dispose();
 });
 
@@ -221,6 +208,8 @@ test('static root uses one native module without adding a client boundary or Rea
   assert.equal((output.match(/src="\/site-ticker.mjs"/g) || []).length, 1);
   assert.match(output, /<script src="\/site-ticker.mjs" type="module"><\/script>/);
   assert.equal(staticHomeHtml(output), output);
-  assert.doesNotMatch(readFileSync('components/wire-ticker.tsx', 'utf8'), /["']use client["']/);
+  const tickerComponent = readFileSync('components/wire-ticker.tsx', 'utf8');
+  assert.doesNotMatch(tickerComponent, /["']use client["']/);
+  assert.doesNotMatch(tickerComponent, /data-ticker-toggle|wire-ticker-toggle|暂停新闻滚动|继续新闻滚动|Pause news ticker/);
   assert.doesNotMatch(output, /_next|__next_f/);
 });

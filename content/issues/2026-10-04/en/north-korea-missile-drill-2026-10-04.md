@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-04"
 description: "North Korea launched a missile on October 3 and said the following day it had conducted a hypersonic strategic weapons drill. South Korea’s assessment and North Korea’s claims differ on distance, while weapon performance still needs independent supporting data."
+seoTitle: "North Korea claims missile drill as range and performance remain unverified"
+seoDescription: "North Korea said its October 3 launch was a hypersonic weapons drill, while South Korea's range assessment differs; performance claims still need independent evidence."
 cover: "/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp"
 coverAlt: "AI-generated conceptual illustration: abstract game pieces representing missiles and regional security issues"
 tags: ["Korean Peninsula", "International affairs", "Missiles"]

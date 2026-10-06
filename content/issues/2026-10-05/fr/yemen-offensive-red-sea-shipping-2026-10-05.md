@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Recherche et synthèse documentaire"
 date: "2026-10-05"
 description: "Le gouvernement yéménite reconnu internationalement a annoncé le 4 octobre une opération pour reprendre les zones houthies. Contrôle côtier, sécurité des navires et circulation effective restent distincts, tandis que les importations alimentaires et l'aide sont sous pression."
+seoTitle: "Yémen : le gouvernement annonce une offensive contre les Houthis"
+seoDescription: "Le gouvernement yéménite reconnu à l’international veut reprendre les zones houthies ; sécurité des navires, trafic en mer Rouge et livraisons alimentaires ou humanitaires restent exposés."
 cover: "/news-media/2026-10-05/red-sea-shipping-editorial.png"
 coverAlt: "Illustration générée par IA : cargo et passage maritime abstraits évoquant la sécurité de la navigation en mer Rouge"
 tags: ["Yémen","Mer Rouge","Sécurité maritime","Sécurité alimentaire"]

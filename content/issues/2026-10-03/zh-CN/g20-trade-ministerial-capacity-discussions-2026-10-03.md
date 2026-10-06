@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-03"
 description: "粮食贸易形成共识，强迫劳动与结构性产能议题仍有分歧。读懂G20主席声明，要分清共同决定、少数成员行动和改革设想。"
+seoTitle: "G20贸易部长会未就结构性产能问题达成共识"
+seoDescription: "会议在粮食贸易上形成共识，但强迫劳动与结构性产能过剩仍有分歧；主席声明还需区分共同立场与提案。"
 cover: "/news-media/2026-10-04/g20-trade-editorial-illustration.webp"
 coverAlt: "AI生成示意图：港口贸易与尚待形成共识的国际谈判"
 tags: ["国际贸易", "G20", "供应链"]

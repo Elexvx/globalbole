@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-04"
 description: "白宮與六家AI企業簽署自願安全承諾，列出內部控制、外部審計和董事會監督。爭議轉向審計獨立性、整改透明度與違約後果。"
+seoTitle: "美國六家AI企業簽署自願安全承諾，執行細則待明確"
+seoDescription: "白宮與六家企業提出內部控制、外部稽核和董事會監督，稽核獨立性、整改透明度及違約後果仍待討論。"
 cover: "/news-media/2026-10-04/whitehouse-ai-luncheon-20260929.jpg"
 coverAlt: "2026年9月29日，川普在白宮東廳主持人工智慧主題午宴"
 tags: ["人工智慧", "AI安全", "美國", "企業治理"]

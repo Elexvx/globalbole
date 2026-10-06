@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Source research and synthesis"
 date: "2026-10-06"
 description: "Beam targets coding and agentic work with 23 billion active parameters. Weights are planned for October; company efficiency estimates exclude some serving overhead, and API access remains in beta."
+seoTitle: "Reflection Beam: 501B parameters; open weights planned for October"
+seoDescription: "Beam targets coding and agentic work with 23 billion active parameters; weights are planned for October, efficiency estimates omit some serving costs and the API remains in beta."
 cover: "/news-media/2026-10-06/beam-editorial.png"
 coverAlt: "AI-generated editorial illustration: navy modules surround a bright core, evoking model computation and openness"
 tags: ["Artificial intelligence", "Infrastructure"]

@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-03"
 description: "糧食貿易形成共識，強迫勞動與結構性產能議題仍有分歧。讀懂G20主席聲明，要分清共同決定、少數成員行動和改革設想。"
+seoTitle: "G20貿易部長會未就結構性產能問題達成共識"
+seoDescription: "會議在糧食貿易上取得共識，但強迫勞動與結構性產能過剩仍有分歧；主席聲明也須區分共同立場與提案。"
 cover: "/news-media/2026-10-04/g20-trade-editorial-illustration.webp"
 coverAlt: "AI生成概念示意圖（非實景）：港口貿易與尚待形成共識的國際談判"
 tags: ["國際貿易", "G20", "供應鏈"]

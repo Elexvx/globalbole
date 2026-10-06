@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-03"
 description: "With 100 million barrels over four months, front-loaded diesel releases in the first 20 days and coordinated refinery maintenance, the G7 is focusing on fuel delivery. The total pledge is not an immediate increase in supply."
+seoTitle: "G7 plans 100 million barrels from oil reserves over four months"
+seoDescription: "The plan front-loads diesel releases in the first 20 days and coordinates refinery maintenance; the full pledge is not an immediate increase in supply."
 cover: "/news-media/2026-10-04/g7-energy-reserves-editorial-illustration.webp"
 coverAlt: "AI-generated conceptual illustration: oil storage facilities and a fuel supply network"
 tags: ["Energy", "G7", "Diesel supply"]

@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-04"
 description: "The White House and six AI companies sign voluntary safety commitments covering internal controls, external audits and board oversight. The debate shifts to auditor independence, transparency of corrective action and consequences for noncompliance."
+seoTitle: "White House and six AI firms sign voluntary safety commitments"
+seoDescription: "The accord covers internal controls, external audits and board oversight, while auditor independence, corrective-action transparency and consequences for noncompliance remain open questions."
 cover: "/news-media/2026-10-04/whitehouse-ai-luncheon-20260929.jpg"
 coverAlt: "Trump hosts an artificial intelligence luncheon in the White House East Room on September 29, 2026"
 tags: ["Artificial intelligence", "AI safety", "United States", "Corporate governance"]

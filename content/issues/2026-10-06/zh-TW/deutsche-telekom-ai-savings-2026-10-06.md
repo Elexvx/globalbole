@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-06"
 description: "德國電信把2030年AI與自動化間接成本毛節約目標定為約25億歐元，範圍為美國以外業務、基準為2023年，且未扣除詞元成本。"
+seoTitle: "德國電信訂2030年AI節支目標，美國以外擬省25億歐元"
+seoDescription: "目標是美國以外業務相較2023年的間接成本毛節省，尚未扣除詞元費用，也不代表已實現利潤。"
 cover: "/news-media/2026-10-06/telekom-official.jpg"
 coverAlt: "德國電信官方新聞稿配圖，建築外牆上的「TRUST THE T」標語"
 tags: ["人工智慧", "基礎設施", "資本支出"]

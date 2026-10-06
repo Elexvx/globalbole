@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-05"
 description: "AER对6月21日至22日南澳高电价的调查显示，低风、夜间补电不足、输电限制与重新报价共同推高价格。电池的功率规模，并不等于跨越连续高峰的供电能力。"
+seoTitle: "南澳6月电价飙升凸显电池持续供电能力"
+seoDescription: "AER将高电价与低风、夜间补电不足、输电限制和重新报价联系起来；电池功率并不能说明它能撑过多久。"
 cover: "/news-media/2026-10-05/battery-duration-editorial.png"
 coverAlt: "AI生成分层纸艺示意图：深蓝色电池柜、象牙白风力发电机与沙漏"
 tags: ["澳大利亚","储能","电网","电价"]

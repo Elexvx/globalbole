@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-05"
 description: "The AER’s review of 21–22 June links South Australia’s high prices to low wind, limited overnight recharging, transmission constraints and rebidding. Battery power ratings alone do not establish how well storage can bridge successive peaks."
+seoTitle: "South Australia price spike puts battery duration under scrutiny"
+seoDescription: "AER attributes June 21–22 price spikes to low wind, limited overnight charging, network constraints and rebidding; battery output ratings do not show how long storage can cover successive peaks."
 cover: "/news-media/2026-10-05/battery-duration-editorial.png"
 coverAlt: "AI-generated layered-paper illustration of navy battery cabinets, an ivory wind turbine and an hourglass"
 tags: ["Australia","Energy storage","Power grid","Electricity prices"]

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { siteUrl } from "@/lib/site-url";
+import { homeSeo } from "@/lib/home-seo.mjs";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -10,21 +11,21 @@ export const metadata: Metadata = {
     googleBot: { follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
   },
   title: {
-    default: "全球伯乐 News — 关注科技、财经、职场生活、国内外要闻与能源产业",
+    default: homeSeo["zh-CN"].title,
     template: "%s — 全球伯乐 News",
   },
-  description: "全球伯乐 News，关注科技、财经、职场生活、国内外要闻与能源产业。",
+  description: homeSeo["zh-CN"].description,
   openGraph: {
-    title: "全球伯乐 News",
-    description: "全球伯乐 News，关注科技、财经、职场生活、国内外要闻与能源产业。",
+    title: homeSeo["zh-CN"].title,
+    description: homeSeo["zh-CN"].description,
     url: siteUrl + "/",
     siteName: "全球伯乐 News",
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: "全球伯乐 News",
-    description: "全球伯乐 News，关注科技、财经、职场生活、国内外要闻与能源产业。",
+    title: homeSeo["zh-CN"].title,
+    description: homeSeo["zh-CN"].description,
   },
   icons: {
     icon: "/reference-assets/51321e5a444f1575.webp",

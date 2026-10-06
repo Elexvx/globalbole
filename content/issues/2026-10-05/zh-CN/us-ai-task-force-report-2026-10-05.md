@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-05"
 description: "特朗普10月4日公布联邦AI工作组领导班子。路透援引《华尔街日报》称，工作组将在120天内评估风险、机遇及政府职责，并审视事故通报与现有响应能力。"
+seoTitle: "特朗普确认克莱顿牵头AI工作组，评估期为120天"
+seoDescription: "据路透援引《华尔街日报》，联邦评估将审视AI风险、机遇、政府职责以及现有事故通报和响应能力。"
 cover: "/news-media/2026-10-05/us-ai-task-force-editorial.png"
 coverAlt: "AI生成示意图：联邦AI政策协调、风险评估与事故通报"
 tags: ["人工智能","AI安全","美国","科技政策"]

@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-06"
 description: "La France et l’Allemagne souhaitent diversifier les approvisionnements et accélérer les restrictions d’accès au marché. Le nouvel outil nécessite encore une législation européenne et des conditions précises."
+seoTitle: "France et Allemagne proposent une riposte commerciale rapide de l’UE"
+seoDescription: "Le projet vise à diversifier les approvisionnements et restreindre plus vite l’accès au marché, mais exige une loi européenne et des critères d’activation restent à définir."
 cover: "/news-media/2026-10-06/eu-trade-editorial.png"
 coverAlt: "Illustration conceptuelle générée par IA : politique commerciale de l’UE et projet de réponse accélérée aux pressions économiques extérieures"
 tags: ["Commerce international", "Union européenne", "Chaînes d’approvisionnement"]

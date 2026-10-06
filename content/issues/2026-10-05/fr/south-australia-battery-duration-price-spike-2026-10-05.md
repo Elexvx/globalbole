@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-05"
 description: "L’analyse de l’AER sur les 21 et 22 juin relie les prix élevés au faible vent, aux possibilités limitées de recharge nocturne, aux contraintes de transport et aux offres révisées. La puissance des batteries ne suffit pas à mesurer leur capacité à couvrir des pointes successives."
+seoTitle: "Australie-Méridionale : la durée des batteries au cœur des prix élevés"
+seoDescription: "L’AER relie les prix des 21 et 22 juin au faible vent, à la recharge nocturne limitée, aux contraintes du réseau et aux offres révisées ; la puissance ne mesure pas la durée de soutien."
 cover: "/news-media/2026-10-05/battery-duration-editorial.png"
 coverAlt: "Illustration générée par IA, style papier découpé en couches : armoires de batteries bleu marine, éolienne ivoire et sablier"
 tags: ["Australie","Stockage d’énergie","Réseau électrique","Prix de l’électricité"]

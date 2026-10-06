@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-03"
 description: "Libérer 100 millions de barils en quatre mois, concentrer les mises à disposition de gazole sur les 20 premiers jours et coordonner la maintenance des raffineries : le G7 mise sur la capacité de livraison. Le volume promis n’équivaut pas à une offre supplémentaire immédiatement disponible."
+seoTitle: "Le G7 prévoit 100 millions de barils de réserves en quatre mois"
+seoDescription: "Le plan accélère les livraisons de gazole durant les 20 premiers jours et coordonne la maintenance des raffineries ; le volume promis n’est pas une offre immédiatement disponible."
 cover: "/news-media/2026-10-04/g7-energy-reserves-editorial-illustration.webp"
 coverAlt: "Illustration conceptuelle générée par IA : des installations de stockage pétrolier et un réseau d’approvisionnement en carburants"
 tags: ["Énergie", "G7", "Approvisionnement en gazole"]

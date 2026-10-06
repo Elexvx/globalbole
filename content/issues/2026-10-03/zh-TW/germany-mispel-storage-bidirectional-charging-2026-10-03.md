@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-03"
 description: "MiSpeL解決綠電與電網電力混合儲存後的核算問題，但直接售電、計量改造、過渡期和歐盟批准，決定業務何時真正可用。"
+seoTitle: "德國MiSpeL規則推進儲能與雙向充電參與電力市場"
+seoDescription: "新規釐清綠電與電網電力混合儲存後的計算方式；直接售電、電表改造、過渡安排及歐盟核准仍影響上路時間。"
 cover: "/news-media/2026-10-04/mispel-storage-editorial-illustration.webp"
 coverAlt: "AI生成概念示意圖（非實景）：電動汽車充電、家庭儲能與屋頂太陽能"
 tags: ["儲能", "雙向充電", "德國能源"]

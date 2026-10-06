@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-03"
 description: "MiSpeL addresses accounting for renewable electricity stored together with grid electricity, but direct marketing, metering upgrades, transition periods and EU approval will determine when services become available."
+seoTitle: "Germany's MiSpeL rules open power markets to storage"
+seoDescription: "MiSpeL clarifies accounting for stored renewable and grid electricity, while direct marketing, metering, transition periods and EU approval will shape when services can begin."
 cover: "/news-media/2026-10-04/mispel-storage-editorial-illustration.webp"
 coverAlt: "AI-generated conceptual illustration: electric vehicle charging, home energy storage and rooftop solar power"
 tags: ["Energy storage", "Bidirectional charging", "German energy"]

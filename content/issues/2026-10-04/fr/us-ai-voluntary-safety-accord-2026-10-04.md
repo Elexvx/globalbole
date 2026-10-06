@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-04"
 description: "La Maison-Blanche et six entreprises d’IA ont signé des engagements volontaires de sécurité, prévoyant contrôles internes, audits externes et supervision du conseil d’administration. Le débat porte désormais sur l’indépendance des audits, la transparence des corrections et les conséquences des manquements."
+seoTitle: "États-Unis : six entreprises signent des engagements volontaires sur l’IA"
+seoDescription: "L’accord prévoit contrôles internes, audits externes et supervision des conseils ; indépendance des auditeurs, transparence des corrections et suites en cas de manquement restent en débat."
 cover: "/news-media/2026-10-04/whitehouse-ai-luncheon-20260929.jpg"
 coverAlt: "Le 29 septembre 2026, Donald Trump préside un déjeuner consacré à l’intelligence artificielle dans la salle Est de la Maison-Blanche"
 tags: ["Intelligence artificielle", "Sécurité de l’IA", "États-Unis", "Gouvernance d’entreprise"]

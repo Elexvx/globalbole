@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-06"
 description: "法德提出供应多元化和快速限制市场准入两条路径。新工具仍待欧盟立法，启动条件与具体权限尚需明确。"
+seoTitle: "法德提议欧盟快速贸易反应工具，立法授权仍待明确"
+seoDescription: "方案聚焦供应多元化和快速限制市场准入，但仍需欧盟立法，触发条件及权限尚未确定。"
 cover: "/news-media/2026-10-06/eu-trade-editorial.png"
 coverAlt: "AI生成示意图：欧盟贸易政策与快速应对外部经济压力的构想"
 tags: ["国际贸易", "欧盟", "供应链"]

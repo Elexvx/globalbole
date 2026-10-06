@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-06"
 description: "T&E souligne la progression de l’électrique dans l’UE : l’ACEA recense 1 641 333 immatriculations et une part de 21,7 %. L’offre abordable transforme la concurrence, mais ventes annuelles et conformité restent en partie prévisionnelles."
+seoTitle: "UE : 1,64 million de voitures électriques immatriculées en huit mois"
+seoDescription: "L’ACEA recense 1 641 333 immatriculations électriques et une part de 21,7 % ; les modèles abordables changent la concurrence, mais ventes annuelles et conformité restent des estimations."
 cover: "/news-media/2026-10-06/eu-ev-editorial.png"
 coverAlt: "Illustration générée par l’IA : une petite voiture électrique et une borne de recharge évoquent la mobilité électrique abordable"
 tags: ["Énergie", "Union européenne", "Véhicules électriques"]

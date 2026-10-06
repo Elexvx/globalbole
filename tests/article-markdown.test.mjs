@@ -219,20 +219,30 @@ test('text-only home cards keep each edition’s latest archive titles and links
   const { ReferenceHome } = await import('../components/reference-home.tsx');
   const all = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8')).map(story=>({...story,image:'',imageAlt:''}));
   for(const locale of ['zh-CN','zh-TW','en','ru','fr']) {
-    // The homepage archive intentionally shows the latest 12; older editions
-    // remain available through All News and must not force a layout expansion.
-    const stories=all.filter(story=>story.lang===locale)
-      .sort((a,b)=>b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug)).slice(0,12);
+    // The homepage archive shows the latest six; older stories remain available through All News.
+    const editionStories=all.filter(story=>story.lang===locale)
+      .sort((a,b)=>b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug));
+    const latestStories=editionStories.slice(0,6);
+    const laterStories=editionStories.slice(6);
     const html=renderToStaticMarkup(createElement(ReferenceHome,{stories:all,locale,prefix:`/${locale}`}));
+    assert.equal([...html.matchAll(/class="ref-rank-story"/g)].length, 3, `The ${locale} homepage should show three technology signals`);
     assert.doesNotMatch(html, /<img|<picture|class="ref-(?:hero|card|archive|pick|scan|tech-feature)-image/);
     const mediaPlaceholders = [...html.matchAll(/<div class="ref-media-placeholder"[^>]*><\/div>/g)];
     assert.ok(mediaPlaceholders.length > 0);
     assert.ok(mediaPlaceholders.every(([placeholder]) => placeholder.includes('aria-hidden="true"')));
     assert.match(html, /ref-media-placeholder/);
-    for(const story of stories) {
+    const archiveHtml=html.match(/<section class="ref-section ref-archive\b[\s\S]*?<\/section>/)?.[0];
+    assert.ok(archiveHtml, `The ${locale} homepage archive should render`);
+    assert.ok(archiveHtml.includes(`href="/${locale}/all-news/" class="ref-see-all"`), 'All News entry should remain in the archive heading');
+    for(const story of latestStories) {
       const title=renderToStaticMarkup(createElement('span',null,story.title)).slice(6,-7);
-      assert.ok(html.includes(title));
-      assert.ok(html.includes(`/${locale}/post/${story.slug}/`));
+      assert.ok(archiveHtml.includes(title), `The ${locale} archive should include ${story.slug}`);
+      assert.ok(archiveHtml.includes(`/${locale}/post/${encodeURIComponent(story.slug)}/`), `The ${locale} archive should link to ${story.slug}`);
+    }
+    for(const story of laterStories) {
+      const title=renderToStaticMarkup(createElement('span',null,story.title)).slice(6,-7);
+      assert.ok(!archiveHtml.includes(title), `The ${locale} archive should omit ${story.slug} after the newest six`);
+      assert.ok(!archiveHtml.includes(`/${locale}/post/${encodeURIComponent(story.slug)}/`), `The ${locale} archive should not link to ${story.slug} after the newest six`);
     }
     for(const story of all.filter(story=>story.lang!==locale)) assert.ok(!html.includes(`/post/${story.slug}/`),'Home must not leak another edition');
   }

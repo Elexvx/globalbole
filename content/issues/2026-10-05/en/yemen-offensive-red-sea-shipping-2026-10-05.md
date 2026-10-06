@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-05"
 description: "Yemen's internationally recognized government announced operations on October 4 to retake Houthi-held areas. Coastal control, vessel safety and actual passage remain distinct questions, with food imports and humanitarian deliveries exposed to further pressure."
+seoTitle: "Yemen government announces offensive against Houthis"
+seoDescription: "The government says it aims to retake Houthi-held areas; coastal control, vessel safety and actual Red Sea passage remain distinct questions, with food and aid deliveries exposed to pressure."
 cover: "/news-media/2026-10-05/red-sea-shipping-editorial.png"
 coverAlt: "AI-generated illustration: abstract cargo ship and sea passage representing Red Sea shipping security"
 tags: ["Yemen","Red Sea","Maritime security","Food security"]

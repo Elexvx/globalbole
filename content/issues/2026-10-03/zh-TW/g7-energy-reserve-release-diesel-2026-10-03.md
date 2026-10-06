@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-03"
 description: "四個月釋放1億桶、首20天前置柴油投放、協調煉廠檢修：G7的重點是燃料交付能力，不能把承諾總量等同於即時新增供應。"
+seoTitle: "G7規劃四個月釋出1億桶儲備，首20天優先柴油"
+seoDescription: "計畫將柴油供應提前並協調煉廠維修，但四個月承諾總量不等於立即新增供應。"
 cover: "/news-media/2026-10-04/g7-energy-reserves-editorial-illustration.webp"
 coverAlt: "AI生成概念示意圖（非實景）：石油儲備設施與燃料供應網路"
 tags: ["能源", "G7", "柴油供應"]

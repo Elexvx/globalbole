@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-04"
 description: "La phase III du Corridor d’énergie verte indien prévoit 50 GWh de stockage sur batteries et une extension des réseaux de transport intérieurs aux États, afin d’acheminer 135 GW d’énergies renouvelables. Financement, demande d’électricité et modalités d’exécution doivent encore être examinés séparément."
+seoTitle: "Inde : le corridor vert III prévoit 50 GWh de stockage"
+seoDescription: "La phase III associe 50 GWh de batteries à l’extension des réseaux intérieurs aux États pour acheminer 135 GW d’énergies renouvelables ; financement et exécution restent à préciser."
 cover: "/news-media/2026-10-04/iea-india-hourly-demand.png"
 coverAlt: "Graphique original de l’Agence internationale de l’énergie : demande horaire d’électricité en Inde du 19 au 21 mai 2026 ; l’axe vertical est exprimé en gigawatts (GW) et les zones grises indiquent la nuit"
 tags: ["Inde", "Stockage d’énergie", "Réseau électrique", "Énergies renouvelables"]

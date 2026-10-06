@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-03"
 description: "Government contracts account for less than 1% of revenue. Why could policy risks still affect the broader commercial market? Model availability, customer procurement and service continuity are key."
+seoTitle: "Anthropic IPO filing warns of policy risks to commercial customers"
+seoDescription: "Reuters says Anthropic's IPO filing warns that policy risks could affect commercial customers, despite government contracts accounting for less than 1% of revenue."
 cover: "/news-media/2026-10-04/anthropic-policy-editorial-illustration.webp"
 coverAlt: "AI-generated conceptual illustration: a computing core and a public-institution building, depicting the relationship between enterprise AI and the policy environment"
 tags: ["Artificial intelligence", "Anthropic", "Business risk"]

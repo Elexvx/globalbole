@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-05"
 description: "川普10月4日公布聯邦AI工作小組領導名單。路透援引《華爾街日報》指出，小組將在120天內評估風險、機會及政府職責，並檢視事故通報與現有應變能力。"
+seoTitle: "川普確認克萊頓領導AI工作小組，評估期為120天"
+seoDescription: "據路透援引《華爾街日報》，聯邦評估將檢視AI風險、機會、政府職責，以及現有事故通報和應變能力。"
 cover: "/news-media/2026-10-05/us-ai-task-force-editorial.png"
 coverAlt: "AI生成示意圖：聯邦AI政策協調、風險評估與事故通報"
 tags: ["人工智慧","AI安全","美國","科技政策"]

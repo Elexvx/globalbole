@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-04"
 description: "印度綠色能源走廊三期規劃50 GWh電池儲能與邦內輸電擴建，擬支持135 GW新能源送出；資金安排、用電需求和實施機制仍需分開觀察。"
+seoTitle: "印度核准綠色能源走廊三期，規劃50 GWh儲能"
+seoDescription: "計畫將50 GWh電池儲能與邦內輸電擴建結合，以支援135 GW再生能源輸送；資金、需求和執行方式仍待觀察。"
 cover: "/news-media/2026-10-04/iea-india-hourly-demand.png"
 coverAlt: "國際能源署原圖：2026年5月19日至21日印度逐小時電力需求；縱軸單位為吉瓦（GW），灰色區域表示夜間"
 tags: ["印度", "儲能", "電網", "新能源"]

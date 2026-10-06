@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-06"
 description: "France and Germany seek supply diversification and faster restrictions on market access. The proposed tool still needs EU legislation, with triggers and powers yet to be defined."
+seoTitle: "France and Germany propose a rapid EU trade response tool"
+seoDescription: "The proposal seeks supply diversification and faster market-access restrictions, but EU legislation is still needed and the tool's triggers and powers remain undefined."
 cover: "/news-media/2026-10-06/eu-trade-editorial.png"
 coverAlt: "AI-generated conceptual illustration: EU trade policy and a proposed faster response to external economic pressure"
 tags: ["International trade", "European Union", "Supply chains"]

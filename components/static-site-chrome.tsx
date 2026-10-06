@@ -22,7 +22,7 @@ export function StaticSiteHeader() {
   return (
     <header className="bg-surface">
       <div className="leader-bar" />
-      <WireTicker staticEntry locale="zh-CN" label="即时资讯">
+      <WireTicker staticEntry label="即时资讯">
         {tickerStories.map((story) => (
           <a key={story.slug} href={rootHref(`/post/${story.slug}/`)} className="text-xs font-semibold text-muted-foreground transition hover:text-foreground">
             <span className="mr-2 font-mono type-caption uppercase tracking-[0.1em] text-accent">{categoryLabels[story.category]}</span>{story.title}

@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-03"
 description: "政府合約收入不到1%，政策風險為何仍可能波及更廣的商業市場？關鍵在模型供應、客戶採購與服務連續性。"
+seoTitle: "Anthropic招股文件示警政策風險，影響或延伸至商業客戶"
+seoDescription: "路透報導，儘管政府合約收入不到1%，政策仍可能透過模型供應、客戶採購與服務連續性影響Anthropic的商業客戶。"
 cover: "/news-media/2026-10-04/anthropic-policy-editorial-illustration.webp"
 coverAlt: "AI生成概念示意圖（非實景）：計算核心與公共機構建築，表現企業AI與政策環境的關係"
 tags: ["人工智慧", "Anthropic", "企業風險"]

@@ -4,9 +4,11 @@ GEO 指提高内容被生成式搜索正确检索、理解与引用的能力，�
 
 ## 当前内容与真实边界
 
-目前发布 2026-10-03 一期的 5 篇简体中文文章，界面支持 zh-CN、zh-TW、en、ru、fr。其他语言尚无文章译文。保留现有文章 URL、正文、出处、图片和授权说明，不批量制造译文或新闻。
+文章由 `content/issues/` 中的 Markdown 生成；界面支持 zh-CN、zh-TW、en、ru、fr。只为实际发布的译文建立 hreflang，不根据界面语言虚构文章。保留文章 URL、正文、出处、图片和授权说明。
 
 尚未配置公开编辑部联系方式，作者页是一般说明，不是虚构的个人履历。需要网站所有者提供真实主体、作者或编辑介绍、邮箱和勘误渠道后再增加这些信息及对应结构化数据。不能虚构公司法律名称、社交账号、组织认证或作者资历。
+
+首页分别提供五种语言的简洁标题和说明。说明补充网站报道范围和来源呈现方式，不承诺排名、完整覆盖或独家报道。文章 Markdown 的 `title` 与 `description` 是页面可见标题和摘要；`seoTitle` 与 `seoDescription` 只用于 HTML title/description、Open Graph 和 Twitter metadata。没有填写 SEO 字段时，生成器回退到可见标题和摘要。SEO 文案应自然、准确、彼此有区分，不堆砌关键词或改变事实含义。
 
 ## Canonical、语言和兼容入口
 
@@ -23,7 +25,8 @@ GEO 指提高内容被生成式搜索正确检索、理解与引用的能力，�
 
 - 静态 HTML 输出稳定的 Organization、WebSite、WebPage；文章单独输出 NewsArticle，正确关联 mainEntityOfPage、publisher 和实际所属栏目。
 - 当前文章署名为全球伯乐 News，因此 author 使用 Organization 并链接到实际发布者主页。将来若引入个人作者，应先核实身份、建立可见的作者页面，并扩展作者类型，不能继续套用机构类型。
-- 新闻标题、摘要、发布日期、图片、语言和免费访问声明来自已发布内容。文章日期仅保存到日，未伪造精确发布时间或 dateModified。只有真实编辑修订才应新增有依据的更新时间，并同步可见正文、schema 和 sitemap lastmod。
+- NewsArticle 的 headline 和 description 保持可见标题与摘要。SEO 专用标题和说明只进入页面 metadata，不覆盖可见正文或结构化 headline。发布日期来自 `date`；文章日期仅保存到日，不伪造精确发布时间。
+- `updatedAt` 是可选的真实编辑修订日期。只有文章实际修订后才填写；未填写时不输出 `dateModified` 或 sitemap `lastmod`。填写后，两处都使用同一个 `updatedAt`，而 RSS 仍使用原始发布日期。
 - citation 仅提取正文现有的资料来源脚注链接及标题。不会把图片授权当报道出处，也不会增加不存在的来源。标题与源链接在 Markdown 和静态 HTML 中都能查阅。
 - 文章 breadcrumb 是首页 → 实际栏目 → 当前文章；单期是首页 → 期刊 → 当前期刊。首页不输出只有一个项目的 BreadcrumbList。
 - JSON-LD 转义 `<` 防止脚本注入；Markdown 正文、标题、表格、目录锚点、图片说明和来源脚注静态可抓取。
@@ -31,7 +34,7 @@ GEO 指提高内容被生成式搜索正确检索、理解与引用的能力，�
 
 ## 验证与发布
 
-执行 `npm test`、`npm run lint`、`npm run build`、`npm run check:export` 和 `node scripts/check-seo.mjs`。
+执行 `npm test`、`npm run lint`、`npm run build`、`npm run check:export` 和 `npm run check:seo`。SEO 检查逐一核验五种语言的首页 metadata、每篇 canonical 文章的 SEO title/description 与 Open Graph/Twitter、一致的可见标题与 NewsArticle headline，以及真实 `updatedAt` 对应的 sitemap `lastmod`。
 
 SEO 检查覆盖：首页 canonical、唯一 sitemap 地址、每个 sitemap 页面可索引且自指 canonical、语言链接指向实际 canonical 页面并互相对应、NewsArticle 日期/作者/图片/来源与原文一致、旧入口 fallback noindex 和 Vercel 重定向匹配。上线后还应检查真实 HTTP 308/200/404 状态与缓存头；静态构建不能替代托管平台验证。
 

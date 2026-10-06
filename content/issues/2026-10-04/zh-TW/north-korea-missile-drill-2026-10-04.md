@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-04"
 description: "北韓10月3日發射飛彈，翌日稱開展極音速戰略武器演練。南韓方面評估與北韓方面宣稱存在距離差異，武器性能仍需獨立數據支持。"
+seoTitle: "北韓稱舉行中程飛彈演練，射程與性能仍待查證"
+seoDescription: "北韓稱10月3日發射為極音速武器演練，南韓對射程的評估不同，武器性能仍缺乏獨立資料。"
 cover: "/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp"
 coverAlt: "AI生成概念示意圖（非實景）：以抽象棋子表現飛彈與地區安全議題"
 tags: ["韓半島", "國際局勢", "飛彈"]

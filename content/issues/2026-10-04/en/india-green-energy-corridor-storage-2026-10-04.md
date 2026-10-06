@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-04"
 description: "India’s Green Energy Corridor Phase III plans 50 GWh of battery storage and expanded intra-state transmission to support the evacuation of 135 GW of renewable power. Funding, electricity demand and implementation mechanisms still require separate examination."
+seoTitle: "India approves Green Energy Corridor Phase III"
+seoDescription: "The plan pairs 50 GWh of battery storage with expanded state transmission to carry 135 GW of renewable power; funding, demand and implementation remain key questions."
 cover: "/news-media/2026-10-04/iea-india-hourly-demand.png"
 coverAlt: "Original International Energy Agency chart: hourly electricity demand in India from May 19 to 21, 2026; the vertical axis is in gigawatts (GW), and gray areas indicate nighttime"
 tags: ["India", "Energy storage", "Power grid", "Renewable energy"]

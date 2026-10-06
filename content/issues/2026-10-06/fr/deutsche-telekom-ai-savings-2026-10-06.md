@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Recherche et synthèse documentaire"
 date: "2026-10-06"
 description: "L’objectif 2030 porte sur des économies brutes de coûts indirects hors États-Unis, par rapport à 2023. Il exclut les coûts des jetons et constitue une ambition prospective, pas un bénéfice déjà réalisé."
+seoTitle: "Deutsche Telekom vise 2,5 Md€ d’économies IA d’ici 2030"
+seoDescription: "L’objectif porte sur les coûts indirects bruts hors États-Unis par rapport à 2023, sans déduire les coûts des jetons ; il s’agit d’une ambition, pas d’un bénéfice déjà réalisé."
 cover: "/news-media/2026-10-06/telekom-official.jpg"
 coverAlt: "Image du communiqué officiel de Deutsche Telekom montrant l’inscription « TRUST THE T » sur la façade d’un bâtiment"
 tags: ["Intelligence artificielle", "Infrastructures", "Dépenses d’investissement"]

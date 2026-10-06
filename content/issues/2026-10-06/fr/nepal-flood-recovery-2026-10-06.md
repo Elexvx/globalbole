@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Recherche et synthèse documentaire"
 date: "2026-10-06"
 description: "Le Népal a décidé le 5 octobre de mettre fin aux recherches non essentielles après les crues du 26 août, tout en maintenant les secours urgents. Le statut des disparus, le financement et la conception des centrales pèseront sur la reconstruction."
+seoTitle: "Népal : après les crues, le relèvement interroge les risques hydroélectriques"
+seoDescription: "Après les crues du 26 août, le Népal arrête les recherches non essentielles mais maintient les secours urgents ; statut des disparus, financement et sûreté hydroélectrique pèseront sur le relèvement."
 cover: "/news-media/2026-10-06/nepal-recovery-editorial.png"
 coverAlt: "Illustration générée par l’IA : une vallée montagneuse, un pont et des maisons évoquent la reconstruction après une catastrophe"
 tags: ["Népal", "Reconstruction après catastrophe", "Hydroélectricité", "Infrastructures"]

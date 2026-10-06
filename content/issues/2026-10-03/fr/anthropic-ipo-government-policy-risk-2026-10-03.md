@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-03"
 description: "Les contrats publics représentent moins de 1 % du chiffre d’affaires. Pourquoi les risques politiques pourraient-ils néanmoins toucher un marché commercial plus vaste ? L’enjeu tient à la disponibilité des modèles, aux achats des clients et à la continuité du service."
+seoTitle: "IPO d’Anthropic : risques politiques pour ses clients commerciaux"
+seoDescription: "Selon Reuters, le prospectus d’Anthropic signale des risques politiques pour ses clients commerciaux, alors que les contrats publics pèsent moins de 1 % de ses revenus."
 cover: "/news-media/2026-10-04/anthropic-policy-editorial-illustration.webp"
 coverAlt: "Illustration conceptuelle générée par IA : un cœur de calcul et des bâtiments publics évoquent les liens entre l’IA d’entreprise et l’environnement politique"
 tags: ["Intelligence artificielle", "Anthropic", "Risques d’entreprise"]

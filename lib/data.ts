@@ -16,9 +16,12 @@ export type Story = {
   author: string;
   authorRole: string;
   date: string;
+  updatedAt?: string;
   displayDate: string;
   readTime: number;
   dek: string;
+  seoTitle?: string;
+  seoDescription?: string;
   image: string;
   imageAlt: string;
   tags: string[];

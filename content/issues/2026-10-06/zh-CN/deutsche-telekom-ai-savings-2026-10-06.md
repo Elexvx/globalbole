@@ -9,6 +9,8 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-06"
 description: "德国电信把2030年AI与自动化间接成本毛节约目标定为约25亿欧元，范围为美国以外业务、基准为2023年，且未扣除词元成本。"
+seoTitle: "德国电信拟2030年前实现25亿欧元AI节支目标"
+seoDescription: "该目标指美国以外业务相较2023年的间接成本毛节约，尚未扣除词元费用，也不代表已实现利润。"
 cover: "/news-media/2026-10-06/telekom-official.jpg"
 coverAlt: "德国电信官方新闻稿配图，建筑外墙上的“TRUST THE T”标语"
 tags: ["人工智能", "基础设施", "资本开支"]

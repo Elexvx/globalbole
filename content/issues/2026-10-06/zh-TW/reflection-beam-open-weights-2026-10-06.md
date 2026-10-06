@@ -9,6 +9,8 @@ author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-06"
 description: "Beam以230億啟用參數瞄準程式設計和智慧代理任務，權重擬於10月開放。公司效率比較未計入全部服務開銷，API目前仍處於測試階段。"
+seoTitle: "Reflection發布Beam：5010億參數，開放權重預計10月推出"
+seoDescription: "Beam有230億啟用參數，面向程式設計和智慧代理任務；公司計畫10月開放權重，效率估算未計入全部服務成本，API仍在測試。"
 cover: "/news-media/2026-10-06/beam-editorial.png"
 coverAlt: "AI生成示意圖：深藍模組圍繞明亮核心，表現模型運算與開放主題"
 tags: ["人工智慧", "基礎設施"]

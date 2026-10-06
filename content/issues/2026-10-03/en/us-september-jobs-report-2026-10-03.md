@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-03"
 description: "The US added 29,000 nonfarm jobs in September, while the previous two months were revised down by a combined 60,000. Industry patterns, long-term unemployment, wages and hours reveal more about employment conditions than a single headline figure."
+seoTitle: "US adds 29,000 nonfarm jobs in September; unemployment at 4.2%"
+seoDescription: "September payrolls rose by 29,000 as July and August were revised down by 60,000 combined; industry trends, long-term unemployment and hours add context."
 cover: "/news-media/2026-10-03/bls-september-2026-payroll-original.png"
 coverAlt: "Original US Bureau of Labor Statistics chart: seasonally adjusted monthly changes in nonfarm employment from September 2024 to September 2026, in thousands"
 tags: ["US economy", "Employment", "Macroeconomic data"]

@@ -12,6 +12,7 @@
     "lint": "tsc --noEmit",
     "test": "node --test tests/*.test.mjs",
     "check:export": "node scripts/check-export.mjs",
+    "check:seo": "node scripts/check-seo.mjs",
     "audit:pagespeed": "node scripts/audit-pagespeed.mjs",
     "pretest": "node scripts/content.mjs && node scripts/optimize-images.mjs"
   },

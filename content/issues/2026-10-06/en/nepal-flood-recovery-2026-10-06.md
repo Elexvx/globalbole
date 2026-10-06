@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-06"
 description: "Nepal decided on October 5 to end non-essential search operations after the August 26 floods while retaining emergency rescues. Legal recognition of missing people, funding and safer hydropower design will shape the recovery."
+seoTitle: "Nepal shifts from flood rescue to recovery after August floods"
+seoDescription: "Nepal ended non-essential searches after the August 26 floods while keeping emergency rescues; missing-person status, funding and safer hydropower design will shape recovery."
 cover: "/news-media/2026-10-06/nepal-recovery-editorial.png"
 coverAlt: "AI-generated editorial illustration: a mountain valley, bridge and houses symbolizing disaster recovery"
 tags: ["Nepal", "Disaster recovery", "Hydropower", "Infrastructure"]

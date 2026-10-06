@@ -15,11 +15,17 @@ test('public contract serializes every language without internal fields',()=>{
 });
 test('contract rejects incomplete or unsafe backend payloads',()=>{
   const good=createArticleResponse([{
-    slug:'en-test-article',title:'Test article',lang:'en',translationKey:'test-article',issue:'2026-09-01',category:'technology',categoryLabel:'Technology',author:'Test desk',authorRole:'Editor',date:'2026-09-01',displayDate:'Sep 1, 2026',readTime:2,dek:'A test article.',image:'/reference-assets/4615cdf986890f9d.webp',imageAlt:'Test cover',tags:['Testing'],body:[],markdown:'# Test',
+    slug:'en-test-article',title:'Test article',lang:'en',translationKey:'test-article',issue:'2026-09-01',category:'technology',categoryLabel:'Technology',author:'Test desk',authorRole:'Editor',date:'2026-09-01',displayDate:'Sep 1, 2026',readTime:2,dek:'A test article.',seoTitle:'A focused test title',seoDescription:'A distinct test summary.',image:'/reference-assets/4615cdf986890f9d.webp',imageAlt:'Test cover',tags:['Testing'],body:[],markdown:'# Test',
   }]);
-  for(const patch of [{lang:'de'},{date:'2026-02-31'},{image:'javascript:alert(1)'},{image:''},{imageAlt:''},{readTime:0},{markdown:null},{tags:[]},{body:[{}]}]) {
+  for(const patch of [{lang:'de'},{date:'2026-02-31'},{seoTitle:''},{seoDescription:''},{updatedAt:'2026-02-31'},{image:'javascript:alert(1)'},{image:''},{imageAlt:''},{readTime:0},{markdown:null},{tags:[]},{body:[{}]}]) {
     assert.throws(()=>parseArticleResponse({...good,data:[{...good.data[0],...patch}]}));
   }
+  const revised=parseArticleResponse({...good,data:[{...good.data[0],updatedAt:'2026-09-02'}]});
+  assert.equal(revised.data[0].updatedAt,'2026-09-02');
+  assert.equal(good.data[0].updatedAt,undefined);
+  const legacy=parseArticleResponse({...good,data:[Object.fromEntries(Object.entries(good.data[0]).filter(([key])=>!['seoTitle','seoDescription'].includes(key)))]});
+  assert.equal(legacy.data[0].seoTitle,legacy.data[0].title);
+  assert.equal(legacy.data[0].seoDescription,legacy.data[0].dek);
   const textOnly=parseArticleResponse({...good,data:[{...good.data[0],image:'',imageAlt:''}]});
   assert.equal(textOnly.data[0].image,'');
   assert.throws(()=>parseArticleResponse({...good,total:2}));

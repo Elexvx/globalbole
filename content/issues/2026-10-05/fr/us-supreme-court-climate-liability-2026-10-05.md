@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Recherche et synthèse"
 date: "2026-10-05"
 description: "Le 5 octobre, la Cour suprême examinera le dossier Boulder contre ExxonMobil et Suncor, portant sur la préemption fédérale et sa compétence pour intervenir à ce stade."
+seoTitle: "Cour suprême : le recours climatique de Boulder à l’étude"
+seoDescription: "Le 5 octobre, la Cour examinera la préemption fédérale et sa compétence pour réviser le dossier Boulder contre ExxonMobil et Suncor ; la responsabilité des pétroliers n’est pas tranchée."
 cover: "/news-media/2026-10-05/climate-court-editorial.png"
 coverAlt: "Illustration générée par IA : justice, combustibles fossiles et responsabilité pour les dommages climatiques urbains"
 tags: ["États-Unis","Contentieux climatique","Combustibles fossiles","Responsabilité des entreprises"]

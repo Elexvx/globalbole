@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-05"
 description: "Trump announced the federal AI task force’s leadership on October 4. Reuters, citing the Wall Street Journal, says a 120-day review will assess risks, opportunities, government responsibilities and existing incident-reporting and response capabilities."
+seoTitle: "Trump confirms Clayton to lead US AI task force"
+seoDescription: "A reported 120-day federal review will assess AI risks, opportunities, government responsibilities and existing incident-reporting and response capabilities."
 cover: "/news-media/2026-10-05/us-ai-task-force-editorial.png"
 coverAlt: "AI-generated editorial illustration of federal AI policy coordination, risk assessment and incident reporting"
 tags: ["Artificial intelligence","AI safety","United States","Technology policy"]

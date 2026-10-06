@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-04"
 description: "PwC forecasts cumulative data-center capital spending of $31.6 trillion through 2050, while Bain estimates that $6 trillion in annual revenue will be needed in 2031 to support AI computing demand. The estimates expose the time gap between investment and commercial returns."
+seoTitle: "AI infrastructure faces a $31.6 trillion spending test"
+seoDescription: "PwC projects $31.6 trillion in cumulative data-center capital spending through 2050, while Bain estimates $6 trillion in annual revenue will be needed in 2031 to support AI computing demand."
 cover: "/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp"
 coverAlt: "AI-generated conceptual illustration: data centers, power facilities and infrastructure under construction"
 tags: ["Artificial intelligence", "Data centers", "Capital spending", "Employment"]

@@ -24,8 +24,7 @@ export function GET() {
       const canonical = String(metadata.alternates!.canonical);
       const alternatives = metadata.alternates?.languages || {};
       return "<url><loc>" + xmlEscape(canonical) + "</loc>" +
-        // The content currently records a publication date, not an invented update time.
-        (article ? `<lastmod>${xmlEscape(article.date)}</lastmod>` : "") +
+        (article?.updatedAt ? `<lastmod>${xmlEscape(article.updatedAt)}</lastmod>` : "") +
         Object.entries(alternatives).map(([lang, url]) => `<xhtml:link rel="alternate" hreflang="${lang}" href="${xmlEscape(String(url))}"/>`).join("") + "</url>";
     });
   });

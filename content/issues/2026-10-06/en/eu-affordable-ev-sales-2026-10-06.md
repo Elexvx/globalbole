@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-06"
 description: "T&E reports continued growth in the EU battery-electric market, with ACEA recording 1,641,333 registrations and a 21.7% share. More affordable models are reshaping competition, while annual sales and compliance estimates remain forecasts."
+seoTitle: "EU battery-electric registrations reach 1.64 million in eight months"
+seoDescription: "ACEA recorded 1,641,333 EU battery-electric registrations and a 21.7% share; more affordable models are changing competition, while full-year sales and compliance remain estimates."
 cover: "/news-media/2026-10-06/eu-ev-editorial.png"
 coverAlt: "AI-generated editorial illustration: a compact electric car and charging post evoke affordable electric mobility"
 tags: ["Energy", "European Union", "Electric vehicles"]

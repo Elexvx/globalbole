@@ -9,6 +9,8 @@ author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-04"
 description: "Après un tir de missile le 3 octobre, la Corée du Nord a annoncé le lendemain un exercice d’armes stratégiques hypersoniques. Les évaluations sud-coréennes et les affirmations du Nord divergent sur la distance ; les performances nécessitent encore des données indépendantes."
+seoTitle: "Missile nord-coréen : portée et performances à vérifier"
+seoDescription: "Pyongyang présente le tir du 3 octobre comme un exercice hypersonique, mais l’évaluation sud-coréenne de la portée diffère ; les performances demandent des preuves indépendantes."
 cover: "/news-media/2026-10-04/korea-missile-tensions-editorial-illustration.webp"
 coverAlt: "Illustration conceptuelle générée par IA : des pièces de jeu abstraites évoquent les missiles et les enjeux de sécurité régionale"
 tags: ["Péninsule coréenne", "Affaires internationales", "Missiles"]

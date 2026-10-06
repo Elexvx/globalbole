@@ -299,7 +299,7 @@ export function SiteHeader() {
   return (
     <header className="bg-surface">
       <div className="leader-bar" />
-      <WireTicker rootRef={tickerRef} locale={locale} label={<Text value="The Wire"/>}>
+      <WireTicker rootRef={tickerRef} label={<Text value="The Wire"/>}>
         {tickerStories.map((story) => (
           <Link key={story.slug} href={storyHref(story)} className="text-xs font-semibold text-muted-foreground transition hover:text-foreground">
             <span className="mr-2 font-mono type-caption uppercase tracking-[0.1em] text-accent">{story.categoryLabel}</span>
