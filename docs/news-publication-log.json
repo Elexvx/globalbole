@@ -694,6 +694,172 @@
           "note": "Model announced October 5 in preview; weights promised later in October, not yet downloadable. Company-reported benchmark and approximate compute comparison; beta API limits distinguished from training context."
         }
       ]
+    },
+    {
+      "id": "2026-10-08-zh-CN",
+      "publicationDate": "2026-10-08",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "status": "prepared_for_preview",
+      "articles": [
+        {
+          "translationKey": "claude-haiku-5-5-pricing-2026-10-08",
+          "path": "content/issues/2026-10-08/zh-CN/claude-haiku-5-5-pricing-2026-10-08.md",
+          "eventDate": "2026-10-07",
+          "sourceDate": "2026-10-07",
+          "sources": [
+            {
+              "url": "https://www.anthropic.com/claude-haiku-5-5",
+              "date": "2026-10-07",
+              "publisher": "Anthropic",
+              "type": "primary",
+              "title": "Introducing Claude Haiku 5.5"
+            },
+            {
+              "url": "https://airc.nist.gov/airmf-resources/playbook/measure/",
+              "date": null,
+              "accessed": "2026-10-08",
+              "publisher": "NIST",
+              "type": "primary",
+              "title": "Measure — AI RMF Playbook"
+            }
+          ]
+        },
+        {
+          "translationKey": "ai-trust-voters-investors-2026-10-08",
+          "path": "content/issues/2026-10-08/zh-CN/ai-trust-voters-investors-2026-10-08.md",
+          "eventDate": "2026-10-05/2026-10-07",
+          "sourceDate": "2026-10-07",
+          "sources": [
+            {
+              "url": "https://www.investing.com/news/stock-market-news/most-us-voters-say-trump-congress-dont-take-ai-risks-seriously-reutersipsos-poll-finds-4936062",
+              "date": "2026-10-07",
+              "publisher": "Reuters / Investing.com",
+              "type": "original_reporting",
+              "title": "Most US voters say Trump, Congress don’t take AI risks seriously, Reuters/Ipsos poll finds"
+            },
+            {
+              "url": "https://www.streetinsider.com/Reuters/Existential%2Bthreats%2Bjoin%2Bbubble%2Bfears%2Bas%2BAI%2Bmood%2Bsobers%2Bat%2BSingapore%2Bforums/27158340.html",
+              "date": "2026-10-07",
+              "publisher": "Reuters / StreetInsider",
+              "type": "original_reporting",
+              "title": "Existential threats join bubble fears as AI mood sobers at Singapore forums"
+            },
+            {
+              "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/transcript-of-minister-for-foreign-affairs-dr-vivian-balakrishnan-s-fireside-chat-at-the-milken-institute-asia-summit--7-october-2026/",
+              "date": "2026-10-07",
+              "publisher": "Singapore Ministry of Foreign Affairs",
+              "type": "primary",
+              "title": "Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Fireside Chat at the Milken Institute Asia Summit, 7 October 2026"
+            }
+          ]
+        },
+        {
+          "translationKey": "eu-china-market-access-talks-2026-10-08",
+          "path": "content/issues/2026-10-08/zh-CN/eu-china-market-access-talks-2026-10-08.md",
+          "eventDate": "2026-10-08/2026-10-09 (scheduled)",
+          "sourceDate": "2026-10-07",
+          "sources": [
+            {
+              "url": "https://www.investing.com/news/economic-indicators/eu-seeks-to-cut-trade-deficit-with-china-in-talks-with-beijing-4936719",
+              "date": "2026-10-07",
+              "publisher": "Reuters / Investing.com",
+              "type": "original_reporting",
+              "title": "EU seeks to cut trade deficit with China in talks with Beijing"
+            },
+            {
+              "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en",
+              "date": null,
+              "accessed": "2026-10-08",
+              "publisher": "European Commission",
+              "type": "primary",
+              "title": "EU trade relations with China"
+            }
+          ]
+        },
+        {
+          "translationKey": "treasury-yields-term-premium-2026-10-08",
+          "path": "content/issues/2026-10-08/zh-CN/treasury-yields-term-premium-2026-10-08.md",
+          "eventDate": "2026-10-07 session; 2026-10-05 term-premium observation",
+          "sourceDate": "2026-10-07",
+          "sources": [
+            {
+              "url": "https://whbl.com/2026/10/07/trading-day-stocks-bonds-in-delicate-dance/",
+              "date": "2026-10-07",
+              "publisher": "Reuters / WHBL",
+              "type": "commentary",
+              "title": "Trading Day: Stocks, bonds in delicate dance"
+            },
+            {
+              "url": "https://www.newyorkfed.org/research/data_indicators/term-premia-tabs",
+              "date": null,
+              "accessed": "2026-10-08",
+              "publisher": "Federal Reserve Bank of New York",
+              "type": "primary",
+              "title": "Treasury Term Premia"
+            },
+            {
+              "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-86",
+              "date": "2013-06-26",
+              "publisher": "US Securities and Exchange Commission",
+              "type": "primary",
+              "title": "Investor Bulletin: Fixed Income Investments — When Interest Rates Go Up, Prices of Fixed-Rate Bonds Fall"
+            }
+          ]
+        },
+        {
+          "translationKey": "saudi-yemen-airport-attacks-2026-10-08",
+          "path": "content/issues/2026-10-08/zh-CN/saudi-yemen-airport-attacks-2026-10-08.md",
+          "eventDate": "2026-10-06/2026-10-07",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/08/houthis-launch-missiles-at-yemen-s-aden-airport-as-fighting-intensifies",
+              "date": "2026-10-08",
+              "originalDateline": "2026-10-07",
+              "publisher": "Reuters / Internazionale",
+              "type": "original_reporting",
+              "title": "Attacks on Saudi airports kill three people, as fighting escalates in Yemen"
+            },
+            {
+              "url": "https://www.wfp.org/news/wfp-warns-hunger-surging-yemen-conflict-displaces-thousands",
+              "date": "2026-10-02",
+              "publisher": "World Food Programme",
+              "type": "primary",
+              "title": "WFP warns hunger is surging in Yemen as conflict displaces thousands"
+            }
+          ]
+        },
+        {
+          "translationKey": "ukraine-strikes-civilian-toll-2026-10-08",
+          "path": "content/issues/2026-10-08/zh-CN/ukraine-strikes-civilian-toll-2026-10-08.md",
+          "eventDate": "2026-10-07; toll updated 2026-10-08T04:44:00Z",
+          "sourceDate": "2026-10-07",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/news/latest/At-least-32-killed-in-Ukraine-Zelenskiy-condemns-one-of-Russia-s-most-vile-strikes-12426983/",
+              "date": "2026-10-07",
+              "updated": "2026-10-08T04:44:00Z",
+              "publisher": "Reuters / MarketScreener",
+              "type": "original_reporting",
+              "title": "At least 32 killed in Ukraine, Zelenskiy condemns one of Russia's most 'vile strikes'"
+            },
+            {
+              "url": "https://ukraine.ohchr.org/en/UN-report-details-increase-in-civilian-deaths-amid-systematic-strikes-on-energy-facilities",
+              "date": "2026-06-29",
+              "publisher": "UN Human Rights Monitoring Mission in Ukraine",
+              "type": "primary",
+              "title": "UN report details increase in civilian deaths amid systematic strikes on energy facilities"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [
