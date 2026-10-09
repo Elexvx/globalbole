@@ -10,6 +10,10 @@ const files=readdirSync("out",{recursive:true}).filter(file=>file.endsWith(".htm
 const missing=new Set();let checks=0;
 for(const file of files){
   const html=readFileSync(path.join("out",file),"utf8");
+  if (/<html\b/i.test(html)) {
+    assert.match(html, /<link\b(?=[^>]*\brel="stylesheet")(?=[^>]*\bhref="\/_next\/static\/[^"<>]+\.css")[^>]*>/i, `${file}: shared build stylesheet must survive export`);
+    assert.doesNotMatch(html, /<style\b[^>]*\bdata-precedence="next"/i, `${file}: do not duplicate the build stylesheet in every exported page`);
+  }
   for(const match of html.matchAll(/(?:href|src)="(\/[^"<>]*)"/g)){
     const url=decodeURIComponent(match[1].split(/[?#]/)[0]);if(url.startsWith("//"))continue;
     const target=path.join("out",url);

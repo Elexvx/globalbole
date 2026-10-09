@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
   images: { unoptimized: true },
-  experimental: { inlineCss: true },
+  // Share cacheable stylesheets instead of duplicating CSS in every HTML/RSC file.
 };
 
 export default nextConfig;

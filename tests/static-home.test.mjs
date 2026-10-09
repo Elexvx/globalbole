@@ -13,6 +13,16 @@ test('static entry preserves all content, schema, native controls and image prel
   assert.ok(!result.includes('__next_f'));
   assert.equal(staticHomeHtml(result),result);
 });
+test('static entry preserves shared stylesheets and CSS preloads without Next hydration',()=>{
+  const stylesheet = '<link rel="stylesheet" href="/_next/static/chunks/shared.css" data-precedence="next">';
+  const preload = '<link rel="preload" as="style" href="/_next/static/chunks/shared.css">';
+  const result = staticHomeHtml(html.replace('</head>', stylesheet + preload + '</head>'));
+  assert.ok(result.includes(stylesheet));
+  assert.ok(result.includes(preload));
+  assert.ok(!result.includes('/_next/static/a.js'));
+  assert.ok(!result.includes('__next_f'));
+  assert.equal(staticHomeHtml(result),result);
+});
 test('unknown scripts, pending content and unexpected client widgets fail closed',()=>{
   assert.throws(()=>staticHomeHtml(html.replace('</body>','<script>customFeature()</script></body>')), /Unknown executable/);
   assert.throws(()=>staticHomeHtml(html.replace('<main>','<div hidden id="S:0"><main>')), /fully visible/);

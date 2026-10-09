@@ -694,6 +694,282 @@
           "note": "Model announced October 5 in preview; weights promised later in October, not yet downloadable. Company-reported benchmark and approximate compute comparison; beta API limits distinguished from training context."
         }
       ]
+    },
+    {
+      "id": "2026-10-09-zh-CN",
+      "publicationDate": "2026-10-09",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "oil-ai-financing-market-pressure-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/oil-ai-financing-market-pressure-2026-10-09.md",
+          "eventDate": "2026-10-08 trading session; financing discussions reported October 7–8",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption",
+              "url": "https://www.marketscreener.com/news/oil-rises-as-middle-east-supply-concerns-persist-amid-shipping-attacks-ce785ddedf8af42d",
+              "date": "2026-10-07",
+              "publisher": "Reuters/MarketScreener",
+              "type": "original_reporting",
+              "publishedAt": "2026-10-07T21:22:00-04:00",
+              "updated": "2026-10-08T15:37:00-04:00",
+              "dataPeriod": "2026-10-08 settlement"
+            },
+            {
+              "title": "How major US stock indexes fared Thursday 10/8/2026",
+              "url": "https://apnews.com/article/4499d3b2906917ed3d8670095bf1c321",
+              "date": "2026-10-08",
+              "publisher": "Associated Press",
+              "type": "original_reporting",
+              "publishedAt": "2026-10-08T20:20:04Z",
+              "dataPeriod": "2026-10-08 US stock-market close"
+            },
+            {
+              "title": "Oracle, Broadcom, and SpaceX looking to secure ten of billions in financing to support AI compute purchases – report",
+              "url": "https://www.datacenterdynamics.com/en/news/oracle-broadcom-and-spacex-looking-to-secure-ten-of-billions-in-financing-to-support-ai-compute-purchases-report/",
+              "date": "2026-10-08",
+              "publisher": "Data Center Dynamics",
+              "type": "secondary_reporting"
+            },
+            {
+              "title": "OpenAI annualized revenue $20 billion less than previously reported",
+              "url": "https://www.axios.com/2026/10/08/openai-50-billion-arr-anthropic-revenue-accounting",
+              "date": "2026-10-08",
+              "publisher": "Axios",
+              "type": "original_reporting",
+              "updated": "2026-10-08T19:50:00Z",
+              "dataPeriod": "Annualized revenue measures discussed in the October 8 report"
+            }
+          ],
+          "note": "October 8 market session. Financing arrangements remain reported discussions. The OpenAI annualized-revenue comparison concerns accounting scope, not a demonstrated forecast miss, lost sales or completed full-year revenue."
+        },
+        {
+          "translationKey": "google-gemini-work-agents-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/google-gemini-work-agents-2026-10-09.md",
+          "eventDate": "2026-10-08",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "Google Cloud introduces the Gemini agent.",
+              "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+              "date": "2026-10-08",
+              "publisher": "Google",
+              "type": "primary",
+              "accessed": "2026-10-09"
+            },
+            {
+              "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
+              "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+              "date": "2026-10-09",
+              "publisher": "Google Cloud",
+              "type": "primary",
+              "accessed": "2026-10-09"
+            }
+          ],
+          "note": "Announcement event October 8; Google Cloud keynote page displays October 9. No blanket general-availability claim. Financial-services and legal specializations remain previews."
+        },
+        {
+          "translationKey": "flock-safety-planned-job-cuts-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/flock-safety-planned-job-cuts-2026-10-09.md",
+          "eventDate": "2026-10-08 report; planned departures at the end of October 2026",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say",
+              "url": "https://ca.marketscreener.com/news/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-ce785ddfdc81f72d",
+              "date": "2026-10-08",
+              "publisher": "Reuters / MarketScreener",
+              "type": "original_reporting",
+              "publishedAt": "2026-10-08T20:07:00-04:00",
+              "updated": "2026-10-08T20:10:00-04:00",
+              "accessed": "2026-10-09"
+            },
+            {
+              "title": "Florida bans highway license-plate readers as backlash over surveillance spreads",
+              "url": "https://www.marketscreener.com/news/florida-bans-highway-license-plate-readers-as-backlash-over-surveillance-spreads-ce785bdadb88ff20",
+              "date": "2026-09-03",
+              "publisher": "Reuters / MarketScreener",
+              "type": "original_reporting",
+              "publishedAt": "2026-09-03T14:41:00-04:00",
+              "updated": "2026-09-03T17:27:00-04:00",
+              "accessed": "2026-10-09",
+              "dataPeriod": "Poll closed 2026-08-31"
+            },
+            {
+              "title": "Flock Updates Privacy, Accountability, Security, and Transparency Safeguards",
+              "url": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
+              "date": "2026-08-13",
+              "publisher": "Flock Safety",
+              "type": "primary",
+              "accessed": "2026-10-09"
+            }
+          ],
+          "note": "Reported planned departures at October month-end; company declined comment. Poll closed August 31 and was reported September 3. No current valuation asserted; company safeguards and future targets are attributed."
+        },
+        {
+          "translationKey": "china-yuan-policy-europe-trade-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/china-yuan-policy-europe-trade-2026-10-09.md",
+          "eventDate": "2026-10-08 central-bank statement",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "中国人民银行关于人民币汇率的政策立场",
+              "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026100816231113295/index.html",
+              "date": "2026-10-08",
+              "publisher": "People's Bank of China",
+              "type": "primary"
+            },
+            {
+              "title": "China defends yuan policy as Europe steps up pressure over trade surplus",
+              "url": "https://www.aol.com/articles/china-no-intention-weaken-yuan-113244000.html",
+              "date": "2026-10-08",
+              "publisher": "Reuters/AOL",
+              "type": "original_reporting",
+              "updated": "2026-10-08T13:18:00Z"
+            }
+          ],
+          "note": "October 8 PBOC position statement, not an exchange-rate guarantee or completed trade agreement. The approximately 4% appreciation measure starts in 2026; the approximately 9% measure starts in 2025."
+        },
+        {
+          "translationKey": "us-weekly-jobless-claims-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/us-weekly-jobless-claims-2026-10-09.md",
+          "eventDate": "2026-10-08 release",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "Unemployment Insurance Weekly Claims",
+              "url": "https://www.dol.gov/ui/data.pdf",
+              "date": "2026-10-08",
+              "publisher": "US Department of Labor",
+              "type": "primary",
+              "publishedAt": "2026-10-08T08:30:00-04:00",
+              "accessed": "2026-10-09"
+            },
+            {
+              "title": "Job Openings and Labor Turnover — August 2026",
+              "url": "https://www.bls.gov/news.release/jolts.nr0.htm",
+              "date": "2026-09-29",
+              "publisher": "US Bureau of Labor Statistics",
+              "type": "primary",
+              "accessed": "2026-10-09",
+              "dataPeriod": "August 2026"
+            }
+          ],
+          "note": "October 8 release: initial claims refer to the week ending October 3, insured unemployment to September 26. August JOLTS is separate dated background; no fresh historical record is claimed.",
+          "dataPeriods": {
+            "initialClaims": "Week ending 2026-10-03",
+            "insuredUnemployment": "Week ending 2026-09-26",
+            "jolts": "August 2026"
+          }
+        },
+        {
+          "translationKey": "asean-energy-security-grid-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/asean-energy-security-grid-2026-10-09.md",
+          "eventDate": "2026-10-07",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "Joint Media Statement of The Forty-Fourth ASEAN Ministers on Energy Meeting (44th AMEM)",
+              "url": "https://asean.org/joint-media-statement-of-the-forty-fourth-asean-ministers-on-energy-meeting-44th-amem/",
+              "date": "2026-10-08",
+              "publisher": "ASEAN",
+              "type": "primary",
+              "accessed": "2026-10-09",
+              "eventDate": "2026-10-07"
+            },
+            {
+              "title": "The 9th ASEAN Energy Outlook",
+              "url": "https://www.aseanenergy.org/publications/the-9th-asean-energy-outlook",
+              "date": "2026-10-08",
+              "publisher": "ASEAN Centre for Energy",
+              "type": "primary",
+              "accessed": "2026-10-09"
+            },
+            {
+              "title": "ASEAN Ministers Endorse APAEC 2026–2030 to Advance Regional Energy Cooperation",
+              "url": "https://aebf.aseanenergy.org/press-release/asean-ministers-endorse-apaec-2026-2030-to-advance-regional-energy-cooperation",
+              "date": "2025-10-16",
+              "publisher": "ASEAN Centre for Energy",
+              "type": "primary",
+              "accessed": "2026-10-09"
+            },
+            {
+              "title": "Asia races to stockpile oil, speed up renewables in response to Iran war",
+              "url": "https://www.marketscreener.com/news/asia-races-to-stockpile-oil-speed-up-renewables-in-response-to-iran-war-ce785ddfdb8ef121",
+              "date": "2026-10-08",
+              "publisher": "Reuters via MarketScreener",
+              "type": "original_reporting",
+              "updated": "2026-10-08T10:40:00-04:00",
+              "accessed": "2026-10-09"
+            }
+          ],
+          "note": "Meeting October 7; statement and AEO9 release October 8. Renewable targets were endorsed in October 2025 for 2030. Outlook scenarios are conditional. Philippine reserve is an announced plan; no Hormuz destination percentage is used.",
+          "historicalDataPeriod": "2005–2024",
+          "scenarioHorizon": "2060"
+        },
+        {
+          "translationKey": "lg-energy-solution-q3-profit-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/lg-energy-solution-q3-profit-2026-10-09.md",
+          "eventDate": "2026-10-08",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "2026년 3분기 잠정실적 발표",
+              "url": "https://lg.co.kr/media/release/30650",
+              "date": "2026-10-08",
+              "publisher": "LG Energy Solution via LG",
+              "type": "primary",
+              "accessed": "2026-10-09"
+            },
+            {
+              "title": "LG Energy Solution flags 26% rise in Q3 operating profit",
+              "url": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106",
+              "date": "2026-10-08",
+              "publisher": "Reuters via CNA",
+              "type": "original_reporting",
+              "accessed": "2026-10-09"
+            }
+          ],
+          "note": "Preliminary, unaudited Q3 results. North American production subsidies are included in sales and other income from Q1 2026 with restated comparatives. Excluding credits does not establish recurring profit; compensation and ESS loss assessments retain analyst attribution.",
+          "dataPeriod": "Q3 2026; year-to-date through Q3 2026"
+        },
+        {
+          "translationKey": "byd-overseas-geopolitics-2026-10-09",
+          "path": "content/issues/2026-10-09/zh-CN/byd-overseas-geopolitics-2026-10-09.md",
+          "eventDate": "2026-10-08",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "title": "BYD exec says biggest challenge to expansion is geopolitics",
+              "url": "https://theedgemalaysia.com/node/821035",
+              "date": "2026-10-08",
+              "publisher": "Reuters via The Edge Malaysia",
+              "type": "original_reporting",
+              "accessed": "2026-10-09"
+            },
+            {
+              "title": "Livestream",
+              "url": "https://milkeninstitute.org/events/asia-summit-2026/livestream?page=3",
+              "date": null,
+              "publisher": "Milken Institute",
+              "type": "primary",
+              "accessed": "2026-10-09",
+              "eventDate": "2026-10-08",
+              "eventTime": "2026-10-08T13:30:00+08:00",
+              "sectionTitle": "A Conversation with Stella Li, Executive Vice President, BYD Company Limited; CEO, BYD Americas"
+            }
+          ],
+          "note": "October 8 reported remarks. U.S. passenger-car sales are held off for now, not permanently ruled out. No new Nvidia contract or completed robotics investment announced; the official programme supports event timing, not every quotation."
+        }
+      ]
     }
   ],
   "revisions": [
