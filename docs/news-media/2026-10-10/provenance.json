@@ -1,0 +1,481 @@
+{
+  "issue": "2026-10-10",
+  "checkedAt": "2026-10-10T02:51:57.668063Z",
+  "usage": "Eight visibly labeled original AI-generated editorial illustrations. Each cover is reused in its article body across five languages. No generated data charts or documentary event claims.",
+  "assets": [
+    {
+      "article": "china-eu-hybrid-trade-understanding-2026-10-10",
+      "storyId": "oct10-china-eu-hybrid-trade-understanding",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:44:59.068066Z",
+      "prompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration, used in article body and as an object-cover hero. Subject: two generic unbranded compact cars, a plain intermodal shipping container and a gently curving cargo route suggested by a simple physical ribbon on a neutral tabletop. Concept: cross-border automotive trade and negotiation. Style: sophisticated visibly handmade gouache and layered paper-cut painting, tactile paper texture, restrained navy, muted teal, cream and warm ochre. Compose all cars and container inside the central 75 percent of the frame with ample atmospheric margins. Important: a symbolic editorial artwork, not a photograph, not a real port, and not evidence of an actual event. No brands, recognizable vehicle models, people, flags, maps, geographic landmarks, text, letters, numbers, labels, logos, watermarks, data charts, graphs, arrows or plotted quantitative trends. No decorative text. Opaque background. Generate exactly one standalone wide landscape 16:9 image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的无品牌汽车、集装箱与抽象运输路径示意图",
+      "caption": "AI生成示意图：无品牌汽车、集装箱与抽象运输路径，表现跨境汽车贸易主题；并非真实车型、港口或新闻现场。",
+      "captionEn": "AI-generated illustration: unbranded cars, a container and an abstract transport route symbolize cross-border automotive trade; not actual vehicle models, a port or a news scene.",
+      "sourceGenerationSha256": "6a4b2126e6319196ebddbbe10192712775d1a3cec326ccb655fcef54c9bbbd7d",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "Editorial source review did not establish public reuse permission for a relevant original report image.",
+        "storySourceUrls": [
+          "https://www.reuters.com/world/china/china-eu-reach-hybrid-vehicle-trade-understanding-keep-talks-alive-ev-dispute-2026-10-09/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://de.china-embassy.gov.cn/zgyw/202610/t20261009_12037596.htm",
+          "https://agenceurope.eu/en/bulletin/article/13956/6/a-first-step-in-the-process-of-rebalancing-eu-secures-commitments-in-beijing-notably-on-cars",
+          "https://www.euronews.com/2026/10/09/eu-and-china-clinch-deal-over-cars-after-heated-trade-talks-as-brussels-pushes-to-rebalanc"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "china-eu-hybrid-trade-understanding-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/china-eu-hybrid-trade-understanding-2026-10-10.png",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 2850401,
+      "sha256": "6a4b2126e6319196ebddbbe10192712775d1a3cec326ccb655fcef54c9bbbd7d",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "ecc61bdb5f760c3d0a046b115ecdd470934e25471d64f0f06722fc94773abc50",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe."
+    },
+    {
+      "article": "china-ai-productive-forces-guidelines-2026-10-10",
+      "storyId": "oct10-china-ai-productive-forces-guidelines",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:45:25.036721Z",
+      "prompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration, used in article body and as an object-cover hero. Subject: an elegant generic industrial robot arm carefully holding a blank silicon wafer beside abstract unbranded server cabinets in a simplified workshop. Concept: artificial intelligence research, robotics and investment in productive industry. Clearly rendered as a conceptual gouache and layered paper-cut illustration, tactile paper, sophisticated editorial quality, deep blue, pale ivory, turquoise and copper accents. All significant objects inside central 75 percent of frame with clean crop-safe margins. It must not depict a real laboratory, company product, actual factory, factual machine design, or event. No identifiable people, company marks, national flags, maps, text, letters, numbers, labels, logos, watermarks, screens with symbols, data charts, graphs, arrows or plotted trends. The wafer is plain, not a technical diagram. Opaque background. Generate exactly one standalone wide landscape 16:9 image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的通用机械臂、空白晶圆与服务器机柜示意图",
+      "caption": "AI生成示意图：通用机械臂、空白晶圆与服务器机柜，表现人工智能和工业技术发展主题；并非真实产品、工厂或新闻现场。",
+      "captionEn": "AI-generated illustration: a generic robot arm, a blank wafer and server cabinets symbolize artificial intelligence and industrial technology; not actual products, a factory or a news scene.",
+      "sourceGenerationSha256": "8f519cacb487aa33f98089e9e670bb55e1e99fae0015651b65f32ea1fc8114b5",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "Editorial source review did not establish public reuse permission for a relevant original report image.",
+        "storySourceUrls": [
+          "https://www.reuters.com/world/asia-pacific/china-issues-guidelines-new-productive-forces-including-ai-2026-10-09/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://www.xinhuanet.com/20261009/f55b6a82c5bf414389036cbf662200ab/c.html",
+          "https://www.ndrc.gov.cn/xwdt/xwfb/202610/t20261009_1408037.html"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "china-ai-productive-forces-guidelines-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/china-ai-productive-forces-guidelines-2026-10-10.png",
+      "width": 1672,
+      "height": 940,
+      "byteSize": 2256082,
+      "sha256": "8f519cacb487aa33f98089e9e670bb55e1e99fae0015651b65f32ea1fc8114b5",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "905d10aa08a5ed4fe3125994e1b983c11ca2ae8ad39f44f42a632af20e239ae5",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe."
+    },
+    {
+      "article": "china-unused-debt-quota-2026-10-10",
+      "storyId": "oct10-china-unused-debt-quota",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:45:46.141253Z",
+      "prompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration, used in article body and as an object-cover hero. Subject: a carefully composed symbolic tabletop of blank administrative folders and plain unmarked building blocks, merging into a miniature generic road bridge under construction with a single crane. Concept: local public finance and ongoing infrastructure construction. Visibly handmade gouache and layered cut-paper art, refined news-magazine illustration, warm cream, terracotta, slate blue and olive accents. Central 75 percent safe framing, ample edges. Entirely imagined generic infrastructure and administrative papers, clearly conceptual rather than documentary. No actual locations, geographic landmarks, identifiable people, currency, coins, banknotes, flags, maps, lettering, numbers, labels, logos, watermarks, data charts, graphs, arrows or financial trends. No words on folders. Opaque background. Generate exactly one standalone wide landscape 16:9 image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的空白文件夹、建筑积木与在建桥梁示意图",
+      "caption": "AI生成示意图：空白文件夹、建筑积木与在建桥梁，表现地方财政和基础设施建设主题；并非真实工程或资金使用情况。",
+      "captionEn": "AI-generated illustration: blank folders, building blocks and a bridge under construction symbolize local public finance and infrastructure; not an actual project or use of funds.",
+      "sourceGenerationSha256": "ad840e9ea4d1e620fa72a94f9c73475768ac35add77e74a7d36a848a84dd5789",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "Editorial source review did not establish public reuse permission for a relevant original report image.",
+        "storySourceUrls": [
+          "https://www.reuters.com/world/china-ramps-up-fiscal-push-meet-growth-target-2026-10-09/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://zwgls.mof.gov.cn/gzdt/202610/t20261009_4002433.htm",
+          "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202510/t20251017_3974415.htm",
+          "https://www.ndrc.gov.cn/wsdwhfz/202607/t20260703_1406277_ext.html"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "china-unused-debt-quota-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/china-unused-debt-quota-2026-10-10.png",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 2279596,
+      "sha256": "ad840e9ea4d1e620fa72a94f9c73475768ac35add77e74a7d36a848a84dd5789",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "15d5b3b5f3fd6ad3e6fcf635a9a0e754f8d2bdd4ff6dfd1a8198112c8ea023b7",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe."
+    },
+    {
+      "article": "firmus-ipo-private-funding-2026-10-10",
+      "storyId": "oct10-firmus-ipo-private-funding",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:46:39.946607Z",
+      "prompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration for an article body and object-cover hero. Subject: a compact group of elegant generic server racks standing beside blank closed financial folders and plain neutral construction blocks; some blocks remain separate, suggesting capacity still to be built. Concept: data-centre financing and the difference between operating assets and future plans. Sophisticated visibly handmade gouache and layered paper-cut artwork with tactile paper texture; muted navy, lavender, ivory and terracotta. Central crop-safe framing, all major subjects within the central 75 percent. No real company, building or equipment model is depicted. No people, brands, signs, logos, labels, lettering, numbers, currencies, coins, banknotes, flags, maps, geographical landmarks, data charts, graphs, arrows, plotted lines or quantitative trends. Blank folders have no markings. Clearly conceptual editorial illustration, never a photograph or evidence of a real facility or funding event. Opaque background. Exactly one standalone wide landscape 16:9 image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的通用服务器、空白文件夹与建筑积木示意图",
+      "caption": "AI生成示意图：通用服务器、空白文件夹与建筑积木，表现数据中心融资和建设规划主题；并非Firmus设施或真实项目进度。",
+      "captionEn": "AI-generated illustration: generic servers, blank folders and building blocks symbolize data-centre financing and construction plans; not Firmus facilities or actual project progress.",
+      "sourceGenerationSha256": "5e1c7c1af609e9ea70c8b39610689ba5ba21e9f48280782114280296d408bdfa",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "Editorial source review did not establish an explicit public reuse license for a relevant Firmus or report image.",
+        "storySourceUrls": [
+          "https://www.reuters.com/commentary/breakingviews/failed-ai-ipo-puts-fear-before-fomo-2026-10-09/",
+          "https://www.forbes.com.au/news/investing/firmus-pulls-its-gigantic-ipo-heres-what-you-need-to-know/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://www.aol.ca/articles/australian-nvidia-backed-ai-data-221223000.html",
+          "https://www.streetinsider.com/Reuters/Australias%2BFirmus%2Bprices%2Bshares%2Bto%2Braise%2B%245%2Bbillion%2C%2Bterm%2Bsheet%2Bshows/27132303.html",
+          "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific",
+          "https://firmus.co/newsroom/firmus-and-meta-announce-strategic-ai-infrastructure-agreements-across-asia-pacific"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "firmus-ipo-private-funding-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/firmus-ipo-private-funding-2026-10-10.png",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 2234068,
+      "sha256": "5e1c7c1af609e9ea70c8b39610689ba5ba21e9f48280782114280296d408bdfa",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "b04677132ff4a85992315ecd8a2dfed4330636b4c473b64bb75853bfc38d273f",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe."
+    },
+    {
+      "article": "globalfoundries-tsmc-interposers-2026-10-10",
+      "storyId": "oct10-globalfoundries-tsmc-interposers",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:47:01.359147Z",
+      "prompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration for an article body and object-cover hero. Subject: a handsome conceptual still life of generic unbranded semiconductor packages as small dark rectangular tiles resting together on a single larger pale blue square carrier, with an abstract wafer disc in the background. Concept: the supporting components that connect semiconductor packages. It is an artistic metaphor, not a technical or scientific diagram, not an accurate product design. Sophisticated visibly hand-painted gouache and layered cut-paper style, tactile surfaces, midnight blue, cool silver, teal and gentle copper accents. Compose the full main square carrier and tiles inside central 70 percent with ample edges, elegant diagonal perspective, balanced negative space. No exploded schematic, annotations, wiring diagram, maps, text, letters, numbers, logos, labels, watermarks, flags, identifiable products, people, charts, graphs, arrows or quantitative trends. Do not depict actual GlobalFoundries or TSMC products or facilities. Clearly conceptual editorial artwork, not documentary evidence. Opaque background. Exactly one standalone wide landscape 16:9 image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的通用芯片封装、承载板与晶圆示意图",
+      "caption": "AI生成示意图：通用芯片封装、承载板与晶圆，表现半导体封装连接主题；并非格芯或台积电产品，也不是技术结构图。",
+      "captionEn": "AI-generated illustration: generic chip packages, a carrier and a wafer symbolize semiconductor packaging interconnections; not GlobalFoundries or TSMC products or a technical diagram.",
+      "sourceGenerationSha256": "b5e916c044a226427eec47c72ba21440c7297768288191c80742803ded564ecb",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "Editorial source review of the report and company materials did not establish an explicit public reuse license for a relevant original image.",
+        "storySourceUrls": [
+          "https://www.reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/",
+          "https://www.tsmc.com/english/news-events/blog-article-20200803",
+          "https://ir.amkor.com/news-releases/news-release-details/tsmc-and-amkor-technology-announce-long-term-partnership",
+          "https://ir.amkor.com/news-releases/news-release-details/amkor-technology-announces-phase-2-arizona-advanced-packaging"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "globalfoundries-tsmc-interposers-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/globalfoundries-tsmc-interposers-2026-10-10.png",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 2882388,
+      "sha256": "b5e916c044a226427eec47c72ba21440c7297768288191c80742803ded564ecb",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "23c9e6be0fc5de6af96eb595ad3b51f0f42a6a80b433f337185ffcebb647905f",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe."
+    },
+    {
+      "article": "south-korea-kgx-energy-transition-2026-10-10",
+      "storyId": "oct10-south-korea-kgx-energy-transition",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:49:17.566576Z",
+      "prompt": "Edit this editorial illustration with one precise change: remove the tiny dark badge or mark on the center-front of the cream car's hood, making that small spot plain cream body paint matching its surroundings. Preserve every other part of the car, solar panels, wind turbines, charging post, landscape, paper-cut style, composition, colors and dimensions. Do not add any logos, symbols, labels, text, numbers, watermarks, charts, graphs or arrows. Keep the opaque background and clearly illustrated, non-photographic style.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的风力发电机、太阳能板与汽车充电场景示意图",
+      "caption": "AI生成示意图：风力发电机、太阳能板与汽车充电场景，表现能源转型主题；并非韩国真实地点、车型或已建成项目。",
+      "captionEn": "AI-generated illustration: wind turbines, solar panels and a car charging scene symbolize the energy transition; not an actual Korean location, vehicle model or completed project.",
+      "sourceGenerationSha256": "51efbe708890f72e2b9fb002ac71a709284b0c666b0ed390472fec1a9d3c772c",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "Editorial source review did not establish a relevant image with public reuse permission; the reviewed Korean News1 photo material explicitly restricted unauthorized republication.",
+        "storySourceUrls": [
+          "https://www.reuters.com/business/energy/south-korea-unveils-747-billion-energy-transition-plan-through-2035-2026-10-07/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148973139&pWise=main&pWiseMain=R3",
+          "https://theedgemalaysia.com/node/820880",
+          "https://mofe.go.kr/nw/nes/detailNesDtaView.do?menuNo=4010100&searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079552",
+          "https://en.yna.co.kr/view/AEN20261006010100320"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "south-korea-kgx-energy-transition-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/south-korea-kgx-energy-transition-2026-10-10.png",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 2569025,
+      "sha256": "51efbe708890f72e2b9fb002ac71a709284b0c666b0ed390472fec1a9d3c772c",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "b1967bafbc2342c2235de99718f54ae91a9dd8c85fda0a9154fc362a58ba10ed",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe.",
+      "initialGenerationPrompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration for an article body and object-cover hero. Subject: a calm imagined landscape combining a small field of solar panels, several wind turbines and a generic unbranded electric car beside a simple blank charging post. Concept: energy transition and electrified transport. Sophisticated visibly handmade gouache and layered paper-cut illustration, tactile paper, refined editorial composition, forest green, dark teal, warm cream and sunlit gold. Important subjects centered and safe within central 75 percent; wide atmospheric margins. All equipment and landscape are generic, no claim of actual installed capacity or a real project. No country markers, flags, recognizable Korean or other geography, mountains that evoke a specific place, logos, labels, text, lettering, numbers, screens with symbols, data charts, graphs, arrows, trends, watermarks, people or event depiction. Clearly an editorial concept artwork, not a documentary photograph. Opaque background. Exactly one standalone wide landscape 16:9 image.",
+      "initialGenerationSha256": "4fe7c34e549e681b82eb62b3919da5763320405e7617b5b1a17b9edd44506e40",
+      "editPurpose": "Removed a tiny decorative car-hood badge so the generic car has no mark or logo."
+    },
+    {
+      "article": "miami-ukraine-talks-russian-diesel-2026-10-10",
+      "storyId": "oct10-miami-ukraine-talks-russian-diesel",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:48:19.121103Z",
+      "prompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration for article body and object-cover hero. Subject: a quiet symbolic composition with an empty circular negotiation table and unoccupied simple chairs, blank papers resting on the table, and a few plain unmarked industrial fuel drums on a separate foreground plane. Concept: diplomacy and fuel supply discussed at the same time. Sophisticated visibly hand-painted gouache and layered paper-cut artwork, tactile paper, deep navy, muted teal, cream and warm ochre. Compose the main table and drums centrally inside the middle 75 percent, ample margins and no cut-off focal object. An editorial metaphor only, not a specific meeting room, not Miami, no actual participants or event evidence. No maps, flags, country emblems, weapons, people, geographic landmarks, brands, markings, text, letters, numbers, logos, labels, watermarks, charts, graphs, arrows or quantitative trends. No branded drums, no chemical symbols, entirely blank paper. Opaque background. Generate exactly one standalone wide landscape 16:9 image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的无人谈判圆桌、空白纸张与燃料桶示意图",
+      "caption": "AI生成示意图：无人谈判圆桌、空白纸张与燃料桶，表现外交磋商和燃料供应主题；并非迈阿密会谈现场。",
+      "captionEn": "AI-generated illustration: an empty negotiation table, blank papers and fuel drums symbolize diplomatic talks and fuel supply; not the Miami meeting scene.",
+      "sourceGenerationSha256": "b9e556cc7449fb8610a87b2a858031b81f5ecac545ec133179fd92adfe75eb97",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "No relevant original report image with verified public reuse permission was established during editorial source review.",
+        "storySourceUrls": [
+          "https://www.reuters.com/world/europe/us-ukraine-european-negotiators-meet-miami-trump-announces-diesel-deal-with-2026-10-10/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://www.marketscreener.com/news/us-ukraine-european-negotiators-meet-in-miami-as-trump-announces-diesel-deal-with-russia-ce785ddcda8df322",
+          "https://ofac.treasury.gov/media/937216/download?inline=",
+          "https://ofac.treasury.gov/recent-actions/20261009_33",
+          "https://www.mediaite.com/online/zelensky-warns-trump-his-diesel-deal-with-putin-plays-into-russias-hands/",
+          "https://www.foreign.senate.gov/press/dem/release/shaheen-schumer-warren-slam-president-trumps-disastrous-diesel-deal-with-putin"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "miami-ukraine-talks-russian-diesel-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/miami-ukraine-talks-russian-diesel-2026-10-10.png",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 2544915,
+      "sha256": "b9e556cc7449fb8610a87b2a858031b81f5ecac545ec133179fd92adfe75eb97",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "ed400045ca61794fcf69645af87561d762594c96ab1d952b3bff1ee4ec84ca48",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe."
+    },
+    {
+      "article": "us-perm-suspension-tcs-2026-10-10",
+      "storyId": "oct10-us-perm-suspension-tcs",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "generatedAt": "2026-10-10T02:48:44.929753Z",
+      "prompt": "Use case: stylized-concept. Asset type: original widescreen 16:9 editorial news illustration for article body and object-cover hero. Subject: a neat stack of completely blank employment-application folders, a closed blank document wallet, and a generic open laptop with a completely blank softly illuminated screen, against abstract office architecture. Concept: employment paperwork and administrative review for the technology workforce. Refined visibly handmade gouache and layered cut-paper illustration, warm off-white, slate blue, muted teal and terracotta. Central safe composition, full objects within central 75 percent and generous margins. The folders and wallet are ordinary unmarked stationery, not passports, identity documents, actual application forms or government papers. No people, identifiable buildings, seals, flags, maps, stamps, signs, text, letters, numbers, labels, logos, watermarks, charts, graphs, arrows, warning symbols or country identifiers. Clearly an imagined editorial concept, never a photograph or evidence of an actual workplace, person or decision. Opaque background. Generate exactly one standalone wide landscape 16:9 image.",
+      "rightsBasis": "Original AI-generated editorial illustration requested and authorized for this publication. No external photograph or artwork was used as a reference. Not a photograph or evidence of an actual event.",
+      "editorialDisclosure": "AI生成示意图",
+      "eventEvidence": false,
+      "alt": "AI生成的空白文件夹、文件包与笔记本电脑示意图",
+      "caption": "AI生成示意图：空白文件夹、文件包与笔记本电脑，表现技术人员就业手续主题；并非真实申请材料、证件或审批结果。",
+      "captionEn": "AI-generated illustration: blank folders, a document wallet and a laptop symbolize employment paperwork for technology workers; not actual applications, identity documents or approval decisions.",
+      "sourceGenerationSha256": "675393e862b911910961bf56404addaa847ad5b55d154f83b06512a97789a62b",
+      "originalPhotoRightsAudit": {
+        "decision": "AI-generated fallback; no relevant original image with verified public reuse permission established.",
+        "reason": "No relevant original report image with verified public reuse permission was established during editorial source review.",
+        "storySourceUrls": [
+          "https://www.reuters.com/world/india/tcs-sees-no-impact-us-green-card-programme-suspension-workforce-strategy-2026-10-09/"
+        ],
+        "checkedAt": "2026-10-10T02:51:57.668063Z",
+        "reviewedStorySourceUrls": [
+          "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09102026080757_SE_TCS_Statement_f.pdf",
+          "https://hr.economictimes.indiatimes.com/news/industry/tcs-sees-no-impact-from-us-green-card-programme-suspension-on-workforce-strategy/134838751",
+          "https://flag.dol.gov/programs/perm",
+          "https://www.business-standard.com/amp/industry/news/us-green-card-suspension-poses-little-risk-to-indian-it-firms-analysts-126100900357_1.html?isa=yes"
+        ]
+      },
+      "coverUsage": "Reuse this source in the article body and centered 16:9 object-cover hero across all five languages. The full generated frame is retained. Never characterize the illustration as documentary evidence.",
+      "filename": "us-perm-suspension-tcs-2026-10-10.png",
+      "localPath": "/news-media/2026-10-10/us-perm-suspension-tcs-2026-10-10.png",
+      "width": 1672,
+      "height": 941,
+      "byteSize": 2566749,
+      "sha256": "675393e862b911910961bf56404addaa847ad5b55d154f83b06512a97789a62b",
+      "encoding": "Lossless PNG; full source frame and decoded pixels retained; no resizing or cropping",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "pixelsIdenticalToGeneratedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "6431a99c2f62ac853b81809b035b6085dba5f13c7584e740322fca2dfca640bb",
+        "method": "PNG chunk-level removal of private EXIF and free-text chunks, if present; pixel and color chunks copied unchanged. C2PA algorithmic-source credentials retained.",
+        "removedChunks": [],
+        "retainedChunkTypes": [
+          "IHDR",
+          "caBX",
+          "IDAT",
+          "IEND"
+        ],
+        "C2PAProvenanceRetained": true,
+        "privateMetadataFound": false
+      },
+      "pixelsInspected": true,
+      "inspectedAt": "2026-10-10T02:51:57.668063Z",
+      "visualInspection": "Individually inspected: clear conceptual painted/paper-cut artwork, relevant generic subjects, no readable text or numbers, no identifiable people or brands, no data chart, no real location/event claim. Centered 16:9 cover usage is safe."
+    }
+  ],
+  "retiredAssets": []
+}

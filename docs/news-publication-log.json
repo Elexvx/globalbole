@@ -970,6 +970,289 @@
           "note": "October 8 reported remarks. U.S. passenger-car sales are held off for now, not permanently ruled out. No new Nvidia contract or completed robotics investment announced; the official programme supports event timing, not every quotation."
         }
       ]
+    },
+    {
+      "id": "2026-10-10-zh-CN",
+      "publicationDate": "2026-10-10",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-eu-hybrid-trade-understanding-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/china-eu-hybrid-trade-understanding-2026-10-10.md",
+          "eventDate": "2026-10-09",
+          "sourceDate": "2026-10-09",
+          "candidateSourceUrl": "https://www.reuters.com/world/china/china-eu-reach-hybrid-vehicle-trade-understanding-keep-talks-alive-ev-dispute-2026-10-09/",
+          "sources": [
+            {
+              "date": "2026-10-09",
+              "url": "https://de.china-embassy.gov.cn/zgyw/202610/t20261009_12037596.htm",
+              "title": "中欧贸易投资磋商机制第二次例会联合声明",
+              "publisher": "商务部；中华人民共和国驻德国大使馆转载"
+            },
+            {
+              "date": "2026-10-09",
+              "issueDate": "2026-10-10",
+              "url": "https://agenceurope.eu/en/bulletin/article/13956/6/a-first-step-in-the-process-of-rebalancing-eu-secures-commitments-in-beijing-notably-on-cars",
+              "title": "“a first step in the process of rebalancing” – EU secures commitments in Beijing, notably on cars",
+              "publisher": "Agence Europe"
+            },
+            {
+              "date": "2026-10-09",
+              "publishedAt": "2026-10-09T15:51:00+02:00",
+              "updatedAt": "2026-10-09T16:54:00+02:00",
+              "url": "https://www.euronews.com/2026/10/09/eu-and-china-clinch-deal-over-cars-after-heated-trade-talks-as-brussels-pushes-to-rebalanc",
+              "title": "EU and China clinch deal over cars after heated trade talks as Brussels pushes to rebalance trade",
+              "publisher": "Euronews",
+              "author": "Peggy Corlin"
+            }
+          ]
+        },
+        {
+          "translationKey": "china-ai-productive-forces-guidelines-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/china-ai-productive-forces-guidelines-2026-10-10.md",
+          "eventDate": "2026-10-09",
+          "sourceDate": "2026-10-09",
+          "candidateSourceUrl": "https://www.reuters.com/world/asia-pacific/china-issues-guidelines-new-productive-forces-including-ai-2026-10-09/",
+          "sources": [
+            {
+              "date": "2026-10-09",
+              "publishedAt": "2026-10-09T18:02:23+08:00",
+              "url": "https://www.xinhuanet.com/20261009/f55b6a82c5bf414389036cbf662200ab/c.html",
+              "title": "受权发布丨中共中央 国务院关于发展新质生产力的意见",
+              "publisher": "中共中央、国务院；新华社受权发布"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202610/t20261009_1408037.html",
+              "title": "国家发展改革委有关负责同志就《关于发展新质生产力的意见》答记者问",
+              "publisher": "国家发展和改革委员会"
+            }
+          ]
+        },
+        {
+          "translationKey": "china-unused-debt-quota-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/china-unused-debt-quota-2026-10-10.md",
+          "eventDate": "2026-10-09",
+          "sourceDate": "2026-10-09",
+          "candidateSourceUrl": "https://www.reuters.com/world/china-ramps-up-fiscal-push-meet-growth-target-2026-10-09/",
+          "sources": [
+            {
+              "date": "2026-10-09",
+              "url": "https://zwgls.mof.gov.cn/gzdt/202610/t20261009_4002433.htm",
+              "title": "财政部安排使用5500亿元地方政府债务结存限额",
+              "publisher": "财政部债务管理司"
+            },
+            {
+              "date": "2025-10-17",
+              "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202510/t20251017_3974415.htm",
+              "title": "2025年前三季度财政收支情况新闻发布会文字实录",
+              "publisher": "财政部"
+            },
+            {
+              "date": "2026-07-03",
+              "url": "https://www.ndrc.gov.cn/wsdwhfz/202607/t20260703_1406277_ext.html",
+              "title": "【专家观点】系统推进“六张网”建设 扩大有效投资 稳定经济大盘",
+              "publisher": "国家信息中心；国家发展改革委网站发布，原载经济参考报",
+              "author": "肖宏伟"
+            }
+          ]
+        },
+        {
+          "translationKey": "firmus-ipo-private-funding-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/firmus-ipo-private-funding-2026-10-10.md",
+          "sourceDate": "2026-10-08",
+          "eventDate": "2026-10-09",
+          "candidateSourceUrl": "https://www.reuters.com/commentary/breakingviews/failed-ai-ipo-puts-fear-before-fomo-2026-10-09/",
+          "sources": [
+            {
+              "date": "2026-10-08",
+              "url": "https://www.aol.ca/articles/australian-nvidia-backed-ai-data-221223000.html",
+              "title": "Nvidia-backed Firmus scraps $5 billion Australia IPO amid growing AI scrutiny",
+              "publisher": "Reuters, republished by AOL",
+              "datePublished": "2026-10-08T22:12:23+00:00",
+              "dateModified": "2026-10-09T08:53:38+00:00",
+              "eventDate": "2026-10-09",
+              "eventTimezone": "Australia/Sydney"
+            },
+            {
+              "date": "2026-10-01",
+              "url": "https://www.streetinsider.com/Reuters/Australias%2BFirmus%2Bprices%2Bshares%2Bto%2Braise%2B%245%2Bbillion%2C%2Bterm%2Bsheet%2Bshows/27132303.html",
+              "title": "Australia's Firmus prices shares to raise $5 billion, term sheet shows",
+              "publisher": "Reuters, republished by StreetInsider"
+            },
+            {
+              "date": "2026-08-07",
+              "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific",
+              "title": "Firmus Announces Fully Subscribed USD$2 Billion Strategic Equity Investment",
+              "publisher": "Firmus"
+            },
+            {
+              "date": "2026-09-29",
+              "url": "https://firmus.co/newsroom/firmus-and-meta-announce-strategic-ai-infrastructure-agreements-across-asia-pacific",
+              "title": "Firmus and Meta announce strategic AI infrastructure agreements across Asia-Pacific",
+              "publisher": "Firmus"
+            }
+          ]
+        },
+        {
+          "translationKey": "globalfoundries-tsmc-interposers-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/globalfoundries-tsmc-interposers-2026-10-10.md",
+          "sourceDate": "2026-10-08",
+          "eventDate": "2026-10-08",
+          "candidateSourceUrl": "https://www.reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08/",
+          "sources": [
+            {
+              "date": "2026-10-08",
+              "url": "https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/",
+              "title": "GlobalFoundries reaches agreement to establish U.S.-based supply of silicon interposers for advanced AI packaging",
+              "publisher": "GlobalFoundries"
+            },
+            {
+              "date": "2020-08-24",
+              "url": "https://www.tsmc.com/english/news-events/blog-article-20200803",
+              "title": "Introducing TSMC 3DFabric: TSMC’s Family of 3D Silicon Stacking, Advanced Packaging Technologies and Services",
+              "publisher": "TSMC, Godfrey Cheng"
+            },
+            {
+              "date": "2026-06-16",
+              "url": "https://ir.amkor.com/news-releases/news-release-details/tsmc-and-amkor-technology-announce-long-term-partnership",
+              "title": "TSMC and Amkor Technology Announce Long Term Partnership to Accelerate Advanced Packaging in the United States",
+              "publisher": "TSMC and Amkor"
+            },
+            {
+              "date": "2026-09-08",
+              "url": "https://ir.amkor.com/news-releases/news-release-details/amkor-technology-announces-phase-2-arizona-advanced-packaging",
+              "title": "Amkor Technology Announces Phase 2 of Arizona Advanced Packaging and Test Campus; Expands Investment to $12 Billion",
+              "publisher": "Amkor"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-perm-suspension-tcs-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/us-perm-suspension-tcs-2026-10-10.md",
+          "sourceDate": "2026-10-09",
+          "eventDate": "2026-10-09",
+          "candidateSourceUrl": "https://www.reuters.com/world/india/tcs-sees-no-impact-us-green-card-programme-suspension-workforce-strategy-2026-10-09/",
+          "sources": [
+            {
+              "date": "2026-10-09",
+              "url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09102026080757_SE_TCS_Statement_f.pdf",
+              "title": "Statement of the Company regarding the announcement by the US Government on the Permanent Labor Certification Program",
+              "publisher": "TCS, National Stock Exchange of India archive"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://hr.economictimes.indiatimes.com/news/industry/tcs-sees-no-impact-from-us-green-card-programme-suspension-on-workforce-strategy/134838751",
+              "title": "TCS sees no impact from US green-card programme suspension on workforce strategy",
+              "publisher": "Reuters, republished by ETHRWorld",
+              "datePublished": "2026-10-09T22:00:00+05:30"
+            },
+            {
+              "date": null,
+              "url": "https://flag.dol.gov/programs/perm",
+              "title": "Permanent Labor Certification (PERM)",
+              "publisher": "US Department of Labor, FLAG",
+              "accessed": "2026-10-10"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://www.business-standard.com/amp/industry/news/us-green-card-suspension-poses-little-risk-to-indian-it-firms-analysts-126100900357_1.html?isa=yes",
+              "title": "US green-card suspension poses little risk to Indian IT firms: Analysts",
+              "publisher": "Reuters, republished by Business Standard",
+              "datePublished": "2026-10-09T11:19:00+05:30",
+              "dateModified": "2026-10-09T11:19:00+05:30"
+            }
+          ]
+        },
+        {
+          "translationKey": "miami-ukraine-talks-russian-diesel-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/miami-ukraine-talks-russian-diesel-2026-10-10.md",
+          "eventDate": "2026-10-09",
+          "sourceDate": "2026-10-09",
+          "candidateSourceUrl": "https://www.reuters.com/world/europe/us-ukraine-european-negotiators-meet-miami-trump-announces-diesel-deal-with-2026-10-10/",
+          "sources": [
+            {
+              "date": "2026-10-09",
+              "url": "https://www.marketscreener.com/news/us-ukraine-european-negotiators-meet-in-miami-as-trump-announces-diesel-deal-with-russia-ce785ddcda8df322",
+              "title": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia",
+              "publisher": "Reuters via MarketScreener",
+              "publishedAt": "2026-10-09T19:53:00-04:00",
+              "updatedAt": "2026-10-09T20:07:00-04:00"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://ofac.treasury.gov/media/937216/download?inline=",
+              "title": "General License No. 135: Authorizing Transactions Related to the Sale, Delivery, Offloading, and Importation of Diesel Fuel of Russian Federation Origin",
+              "publisher": "US Department of the Treasury, Office of Foreign Assets Control"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://ofac.treasury.gov/recent-actions/20261009_33",
+              "title": "Issuance of Russia-related General License",
+              "publisher": "US Department of the Treasury, Office of Foreign Assets Control"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://www.mediaite.com/online/zelensky-warns-trump-his-diesel-deal-with-putin-plays-into-russias-hands/",
+              "title": "Zelensky Warns Trump His Diesel Deal with Putin ‘Plays into Russia’s Hands’",
+              "publisher": "Mediaite"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://www.foreign.senate.gov/press/dem/release/shaheen-schumer-warren-slam-president-trumps-disastrous-diesel-deal-with-putin",
+              "title": "Shaheen, Schumer, Warren Slam President Trump’s Disastrous Diesel ‘Deal’ with Putin",
+              "publisher": "US Senate Committee on Foreign Relations, Democratic side"
+            },
+            {
+              "date": "2026-10-10",
+              "displayedTime": "10:30",
+              "url": "https://hromadske.radio/news/2026/10/10/zmi-u-florydi-dostrokovo-zavershylys-perehovory-ukrainy-ssha-ta-yevropy/amp",
+              "title": "ЗМІ: У Флориді достроково завершились переговори України, США та Європи",
+              "publisher": "Hromadske Radio"
+            }
+          ]
+        },
+        {
+          "translationKey": "south-korea-kgx-energy-transition-2026-10-10",
+          "path": "content/issues/2026-10-10/zh-CN/south-korea-kgx-energy-transition-2026-10-10.md",
+          "eventDate": "2026-10-07",
+          "sourceDate": "2026-10-07",
+          "candidateSourceUrl": "https://www.reuters.com/business/energy/south-korea-unveils-747-billion-energy-transition-plan-through-2035-2026-10-07/",
+          "sources": [
+            {
+              "date": "2026-10-07",
+              "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973139&pWise=main&pWiseMain=R3",
+              "title": "'K-녹색 대전환'에 1000조 투입…탄소 감축 넘어 신성장동력으로",
+              "publisher": "Korea Policy Briefing, joint government ministries"
+            },
+            {
+              "date": "2026-10-07",
+              "url": "https://theedgemalaysia.com/node/820880",
+              "title": "South Korea unveils US$747 bil energy transition plan through 2035",
+              "publisher": "Reuters via The Edge Malaysia"
+            },
+            {
+              "date": "2026-10-07",
+              "url": "https://mofe.go.kr/nw/nes/detailNesDtaView.do?menuNo=4010100&searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079552",
+              "title": "탄소 감축을 넘어 신성장동력으로, 정부 1,000조원 투자로 K-GX 본격 가동; attachment: 한국형 녹색대전환(K-GX) 전략",
+              "publisher": "Republic of Korea Ministry of Finance and Economy"
+            },
+            {
+              "date": "2026-10-07",
+              "url": "https://en.yna.co.kr/view/AEN20261006010100320",
+              "title": "Seoul to invest 1,000 tln won in carbon neutrality, sustainable growth",
+              "publisher": "Yonhap News Agency"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

@@ -198,18 +198,28 @@ test('responsive sources share sizes and body fallbacks stay original', async ()
 
 test('cover pictures expose one preferred format without preloading the fallback as a second image', async () => {
   const { ReferenceHome } = await import('../components/reference-home.tsx');
-  const stories = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8'));
-  const html = renderToStaticMarkup(createElement(ReferenceHome, {stories, locale:'zh-CN', prefix:'/zh-CN'}));
-  assert.match(html, /<picture><source type="image\/avif" srcSet="[^\"]+\.avif \d+w/);
-  assert.match(html, /<img[^>]*class="story-cover ref-image /);
-  if (stories.toSorted((a,b)=>b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug))[0].image) assert.match(html, /fetchPriority="high"/);
-  assert.doesNotMatch(html, /<link[^>]*rel="preload"[^>]*as="image"/, 'Picture sources should be discovered normally without separately preloading WebP');
-  for (const [,contents] of html.matchAll(/<picture>([\s\S]*?)<\/picture>/g)) {
-    assert.equal((contents.match(/<img\b/g)||[]).length, 1, 'One fallback image per picture');
-    if (contents.includes('<source')) {
-      const sizes = [...contents.matchAll(/sizes="([^\"]+)"/g)].map(match=>match[1]);
-      assert.equal(sizes.length, 2);
-      assert.equal(sizes[0], sizes[1], 'AVIF and fallback must describe the same layout');
+  const allStories = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8'));
+  const manifest = JSON.parse(readFileSync(path.join(root, 'content/generated/image-manifest.json'), 'utf8'));
+  // Exercise both encodings explicitly: a new edition may legitimately contain
+  // only illustrated PNG covers and no photograph in the current home selection.
+  const photo = Object.entries(manifest).find(([, asset]) => asset.avifVariants?.length)?.[0];
+  const illustration = Object.keys(manifest).find(image => image.endsWith('.png'));
+  assert.ok(photo && illustration, 'Image-format fixtures must be available');
+  for (const image of [photo, illustration]) {
+    const stories = allStories.map(story => ({...story, image}));
+    const html = renderToStaticMarkup(createElement(ReferenceHome, {stories, locale:'zh-CN', prefix:'/zh-CN'}));
+    if (image === photo) assert.match(html, /<picture><source type="image\/avif" srcSet="[^\"]+\.avif \d+w/);
+    else assert.doesNotMatch(html, /<source type="image\/avif"/, 'Illustrations keep their WebP fallback without a photo-only AVIF source');
+    assert.match(html, /<img[^>]*class="story-cover ref-image /);
+    if (stories.toSorted((a,b)=>b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug))[0].image) assert.match(html, /fetchPriority="high"/);
+    assert.doesNotMatch(html, /<link[^>]*rel="preload"[^>]*as="image"/, 'Picture sources should be discovered normally without separately preloading WebP');
+    for (const [,contents] of html.matchAll(/<picture>([\s\S]*?)<\/picture>/g)) {
+      assert.equal((contents.match(/<img\b/g)||[]).length, 1, 'One fallback image per picture');
+      if (contents.includes('<source')) {
+        const sizes = [...contents.matchAll(/sizes="([^\"]+)"/g)].map(match=>match[1]);
+        assert.equal(sizes.length, 2);
+        assert.equal(sizes[0], sizes[1], 'AVIF and fallback must describe the same layout');
+      }
     }
   }
 });
