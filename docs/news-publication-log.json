@@ -1253,6 +1253,358 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-11-zh-CN",
+      "publicationDate": "2026-10-11",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-auto-innovative-design-draft-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/china-auto-innovative-design-draft-2026-10-11.md",
+          "eventDate": "2026-10-10",
+          "sourceDate": "2026-10-10",
+          "sources": [
+            {
+              "date": "2026-10-10",
+              "url": "https://www.miit.gov.cn/gzcy/yjzj/art/2026/art_d82e902143264b6d9179e01ee54a414f.html",
+              "title": "关于公开征求《工业和信息化部 公安部 生态环境部 市场监管总局关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》意见的公示",
+              "publisher": "工业和信息化部装备工业一司"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www.eeo.com.cn/2026/1010/1060052.shtml",
+              "title": "四部门拟规范汽车创新设计与测试验证",
+              "publisher": "经济观察网"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www2.xinhuanet.com/fortune/20261010/7f5fc9a7b3f145ca9e9da6c802c93b5e/c.html",
+              "title": "四部门征求意见 进一步加强汽车产品创新设计等管理",
+              "publisher": "新华社",
+              "publishedAt": "2026-10-10T17:19:28+08:00"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www.bjnews.com.cn/detail/1791636499129271.html",
+              "title": "四部门出手！禁止全隐藏式门把手、折叠屏，汽车“噱头设计”迎来监管",
+              "publisher": "新京报 / 陈维城",
+              "publishedAt": "2026-10-10T23:06:00+08:00"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www.nbd.com.cn/articles/2026-10-10/4600741.html",
+              "title": "四部门征求意见：禁止配备全隐藏式门把手、车辆可靠性验证试验不低于30000公里",
+              "publisher": "每日经济新闻 / 李星",
+              "publishedAt": "2026-10-10T19:52:37+08:00"
+            }
+          ],
+          "note": "Consultation draft, not an enacted rule. The signed consultation notice ends November 10; proposed 2027 requirements retain their stated scope."
+        },
+        {
+          "translationKey": "china-urban-employment-services-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/china-urban-employment-services-2026-10-11.md",
+          "eventDate": "2026-10-10",
+          "sourceDate": "2026-10-10",
+          "sources": [
+            {
+              "date": "2026-10-10",
+              "url": "https://www.jingjiribao.cn/static/detail.jsp?id=688774",
+              "title": "把就业优先导向贯穿经济社会发展各领域各环节",
+              "publisher": "经济日报 / 敖蓉",
+              "publishedAt": "2026-10-10T20:58:10+08:00"
+            },
+            {
+              "date": "2026-10-11",
+              "url": "https://paper.people.com.cn/rmrb/pc/content/202610/11/content_30184932.html",
+              "title": "加快建设知识型、技能型、创新型劳动者大军（权威发布·开局起步“十五五”）",
+              "publisher": "人民日报"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www3.xinhuanet.com/politics/20261010/6fe8792188c144f0ab661a10156d7eae/c.html",
+              "title": "实施就业优先战略 织密社会保障网络——国新办发布会聚焦“十五五”就业和社保高质量发展",
+              "publisher": "新华社 / 张晓洁、王聿昊",
+              "publishedAt": "2026-10-10T18:36:49+08:00"
+            },
+            {
+              "date": "2026-09-28",
+              "url": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjjzxgh/202609/t20260928_1407864.html",
+              "title": "实施就业优先战略“十五五”规划",
+              "publisher": "国务院 / 国家发展改革委全文发布",
+              "issuedDate": "2026-06-11"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www.cqcb.com/news/5/2026-10-10/6234174.html",
+              "title": "人力资源社会保障部答上游新闻：“十五五”将打造“15分钟就业服务圈”",
+              "publisher": "上游新闻 / 崔涛",
+              "publishedAt": "2026-10-10T13:32:47+08:00"
+            }
+          ],
+          "note": "October 10 briefing: employment additions cover January–September 2026; the unemployment average covers January–August. The June State Council plan is existing background, republished September 28."
+        },
+        {
+          "translationKey": "data-centre-flexible-power-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/data-centre-flexible-power-2026-10-11.md",
+          "eventDate": "2026-10-08",
+          "sourceDate": "2026-10-08",
+          "sources": [
+            {
+              "date": "2026-10-08",
+              "url": "https://www.reuters.com/business/energy/data-centers-flexible-power-usage-could-save-grid-billions-can-they-scale-2026-10-08/",
+              "title": "Data centers’ ‘flexible’ power usage could save the grid billions. Can they scale?",
+              "publisher": "Reuters"
+            },
+            {
+              "date": "2026-02-24",
+              "url": "https://powering-intelligence.epri.com/annual-peak-use.html",
+              "title": "Annual and Peak Electricity Use: History and Future Projections",
+              "publisher": "EPRI"
+            },
+            {
+              "date": "2026-09-16",
+              "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+              "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+              "publisher": "NVIDIA"
+            },
+            {
+              "date": "2025-04-10",
+              "url": "https://www.iea.org/reports/energy-and-ai",
+              "title": "Energy and AI",
+              "publisher": "International Energy Agency",
+              "rights": "CC BY 4.0"
+            },
+            {
+              "date": "2025-04-10",
+              "url": "https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai",
+              "title": "Energy supply for AI",
+              "publisher": "International Energy Agency",
+              "rights": "CC BY 4.0"
+            },
+            {
+              "date": "2025-04-10",
+              "url": "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai",
+              "title": "Energy demand from AI",
+              "publisher": "International Energy Agency",
+              "rights": "CC BY 4.0"
+            },
+            {
+              "date": "2026-03-12",
+              "url": "https://www.gov.uk/government/consultations/accelerating-electricity-network-connections-for-strategic-demand/accelerating-electricity-network-connections-for-strategic-demand-accessible-webpage",
+              "title": "Accelerating electricity network connections for strategic demand (accessible webpage)",
+              "publisher": "Department for Energy Security and Net Zero",
+              "rights": "Open Government Licence v3.0"
+            }
+          ],
+          "note": "October 8 Reuters explainer; potential peak-load reductions are not achieved annual energy savings. EPRI, NVIDIA, IEA and British consultation documents retain their original dates and geographic scope."
+        },
+        {
+          "translationKey": "india-rbi-forex-oil-window-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/india-rbi-forex-oil-window-2026-10-11.md",
+          "eventDate": "2026-10-10",
+          "sourceDate": "2026-10-10",
+          "sources": [
+            {
+              "date": "2026-10-10",
+              "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63783",
+              "title": "RBI Announces Regulatory Measures for the Foreign Exchange Market",
+              "publisher": "Reserve Bank of India",
+              "rights": "ordinary 200-word budget; no blanket open-text license established"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63784",
+              "title": "RBI announces special window for Public Sector Oil Marketing Companies to meet dollar requirements",
+              "publisher": "Reserve Bank of India",
+              "rights": "ordinary 200-word budget"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0",
+              "title": "Risk Management and Inter-Bank Dealings",
+              "publisher": "Reserve Bank of India",
+              "rights": "ordinary 200-word budget"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
+              "title": "Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve",
+              "publisher": "Reserve Bank of India",
+              "rights": "ordinary 200-word budget"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://uk.marketscreener.com/news/india-central-bank-takes-steps-to-support-rupee-opens-dollar-window-for-oil-companies-ce785ddcda8ef22d",
+              "title": "India unveils tough curbs on dollar demand to defend rupee",
+              "publisher": "Reuters; public MarketScreener syndicated copy",
+              "rights": "ordinary copyrighted reporting"
+            }
+          ],
+          "note": "October 10 measures; the oil-company dollar window starts October 12. Cash reserve applies to the specified eligible contracts entered after the directions and is retained until contract termination."
+        },
+        {
+          "translationKey": "india-thane-data-centre-community-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/india-thane-data-centre-community-2026-10-11.md",
+          "eventDate": "2026-10-09",
+          "sourceDate": "2026-10-09",
+          "sources": [
+            {
+              "date": "2026-10-09",
+              "url": "https://www.reuters.com/world/india/modi-wants-india-power-ai-age-residents-are-pushing-back-2026-10-09/",
+              "title": "Modi wants India to power the AI age. Residents are pushing back",
+              "publisher": "Reuters"
+            },
+            {
+              "date": "2026-09-02",
+              "url": "https://www.aboutamazon.in/news/aws/thane-data-centre-amazon",
+              "title": "Facts about Amazon's upcoming data centre in Thane, Maharashtra",
+              "publisher": "Amazon"
+            },
+            {
+              "date": "2026-07-15",
+              "url": "https://www.aboutamazon.in/news/aws/aws-data-centre-hyderabad",
+              "title": "AWS to expand data centre operations in Hyderabad",
+              "publisher": "Amazon"
+            },
+            {
+              "date": "2025-09",
+              "url": "https://www.spglobal.com/sustainable1/en/insights/special-editorial/beneath-the-surface-water-stress-in-data-centers",
+              "title": "Beneath the surface: Water stress in data centers",
+              "publisher": "S&P Global"
+            },
+            {
+              "date": "2018-03-19",
+              "url": "https://www.gov.uk/government/publications/consultation-principles-guidance/consultation-principles-2018",
+              "title": "Consultation principles",
+              "publisher": "Cabinet Office",
+              "rights": "Open Government Licence v3.0"
+            }
+          ],
+          "note": "October 9 reporting on local concerns and prospective data-centre development. Company commitments remain attributed; water-stress exposure is not proof of site-specific harm. British consultation principles are background, not Indian law."
+        },
+        {
+          "translationKey": "taiwan-national-day-maritime-tensions-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/taiwan-national-day-maritime-tensions-2026-10-11.md",
+          "eventDate": "2026-10-10",
+          "sourceDate": "2026-10-10",
+          "sources": [
+            {
+              "date": "2026-10-10",
+              "url": "https://www.president.gov.tw/NEWS/40414",
+              "title": "總統發表國慶演說　「臺灣 山巔之城，地上的鹽，世上的光」",
+              "publisher": "Office of the President, ROC (Taiwan)",
+              "rights": "Open Government Data License v1.0"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://english.president.gov.tw/News/7226",
+              "title": "President Lai delivers 2026 National Day Address",
+              "publisher": "Office of the President, ROC (Taiwan)",
+              "rights": "Open Government Data License v1.0"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www.gwytb.gov.cn/m/fyrbt/202610/t20261010_12817231.htm",
+              "title": "国台办：赖清德“双十”讲话罔顾事实、颠倒是非，误导民众、用心叵测",
+              "publisher": "Taiwan Affairs Office of the State Council, China"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www.aol.com/articles/us-says-chinese-actions-off-010948000.html",
+              "title": "US says Chinese actions off Taiwan are 'deeply destabilising'",
+              "publisher": "Reuters via AOL"
+            }
+          ],
+          "note": "October 10 address and responses. Maritime interpretations remain attributed; no current blockade or new defence-spending amount is asserted."
+        },
+        {
+          "translationKey": "ukraine-us-diesel-refinery-dispute-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/ukraine-us-diesel-refinery-dispute-2026-10-11.md",
+          "eventDate": "2026-10-10",
+          "sourceDate": "2026-10-10",
+          "sources": [
+            {
+              "date": "2026-10-10",
+              "url": "https://ca.marketscreener.com/news/trump-calls-for-new-leadership-in-ukraine-ce785ddcdd80f22c",
+              "title": "Trump calls for new leadership in Ukraine",
+              "publisher": "Reuters via MarketScreener"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://t.me/s/dsns_telegram/77201",
+              "title": "#Запоріжжя: до 20 людей зросла кількість загиблих через авіаудар росіян, з них 3 дитини",
+              "publisher": "State Emergency Service of Ukraine"
+            },
+            {
+              "date": "2026-10-10",
+              "url": "https://www.gov.uk/government/news/pm-call-with-president-volodymyr-zelenskyy-of-ukraine-10-october-2026",
+              "title": "PM call with President Volodymyr Zelenskyy of Ukraine: 10 October 2026",
+              "publisher": "Prime Minister's Office, 10 Downing Street",
+              "rights": "Open Government Licence v3.0"
+            },
+            {
+              "date": "2026-10-09",
+              "url": "https://ofac.treasury.gov/media/937216/download?inline=",
+              "title": "General License No. 135: Authorizing Transactions Related to the Sale, Delivery, Offloading, and Importation of Diesel Fuel of Russian Federation Origin",
+              "publisher": "US Treasury, Office of Foreign Assets Control",
+              "rights": "US federal government work, public-domain text"
+            }
+          ],
+          "note": "Substantial follow-up to miami-ukraine-talks-russian-diesel-2026-10-10: later leadership/refinery demands, the October 10 DSNS casualty bulletin and the British call readout. The October 9 diesel licence is limited background, not a new blanket sanctions removal."
+        },
+        {
+          "translationKey": "us-ai-server-export-guilty-plea-2026-10-11",
+          "path": "content/issues/2026-10-11/zh-CN/us-ai-server-export-guilty-plea-2026-10-11.md",
+          "eventDate": "2026-10-08",
+          "sourceDate": "2026-10-09",
+          "sources": [
+            {
+              "date": "2026-10-09",
+              "url": "https://whbl.com/2026/10/09/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/",
+              "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+              "publisher": "Reuters; public WHBL syndicated copy",
+              "rights": "ordinary copyrighted reporting"
+            },
+            {
+              "date": "2026-10-06",
+              "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.660030/gov.uscourts.nysd.660030.61.0_1.pdf",
+              "title": "United States v. Ting-Wei Sun, Superseding Information, S1 26 Cr. 100 (ER), Document 61",
+              "publisher": "U.S. Attorney, Southern District of New York; CourtListener copy",
+              "rights": "U.S. federal government-authored charging document; public domain under 17 USC105"
+            },
+            {
+              "date": "2026-03-19",
+              "url": "https://www.justice.gov/usao-sdny/pr/three-charged-conspiring-unlawfully-divert-us-artificial-intelligence-technology-china",
+              "title": "Three Charged With Conspiring To Unlawfully Divert U.S. Artificial Intelligence Technology To China",
+              "publisher": "U.S. Department of Justice, SDNY",
+              "rights": "Federal-authored press release; DOJ explicit default public-domain policy https://www.justice.gov/legalpolicies#copyright"
+            },
+            {
+              "date": "2026-08-20",
+              "url": "https://www.supermicro.com/en/pressreleases/supermicro-announces-completion-independent-investigation-and-continued-enhancement",
+              "title": "Supermicro Announces Completion of Independent Investigation and Continued Enhancement of Export Compliance Program",
+              "publisher": "Supermicro",
+              "rights": "ordinary company release; not public domain"
+            },
+            {
+              "date": "2026-03-17",
+              "url": "https://media.washtimes.com/media/misc/2026/03/20/indictment.pdf",
+              "title": "United States v. Liaw, Chang and Sun, Indictment, 1:26-cr-00100-ER, Document 2",
+              "publisher": "Federal grand jury indictment, SDNY; Washington Times copy",
+              "rights": "U.S. federal government-authored indictment; public domain under 17 USC105"
+            }
+          ],
+          "note": "October 8 guilty plea reported October 9; charging-document allegations, intermediary purchases and allegedly diverted shipments remain distinct. No corporate conviction is asserted."
+        }
+      ]
     }
   ],
   "revisions": [

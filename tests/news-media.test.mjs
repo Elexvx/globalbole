@@ -9,6 +9,16 @@ const manifests=readdirSync('docs/news-media',{withFileTypes:true})
   .filter(entry=>entry.isDirectory() && existsSync(`docs/news-media/${entry.name}/provenance.json`))
   .map(entry=>JSON.parse(readFileSync(`docs/news-media/${entry.name}/provenance.json`,'utf8')));
 const assets=manifests.flatMap(manifest=>manifest.assets);
+const xmlEscape=value=>value.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&apos;');
+function checkRightsOnlyXmp(xmp,asset) {
+  const retained=asset.privacySanitization?.retainedRightsXMP;
+  assert.ok(retained?.creator && retained?.rights,'Retained XMP needs an explicit creator/rights record');
+  assert.equal(retained.creator,asset.photographer,'The retained creator must match the documented photographer');
+  assert.ok(asset.copyright && retained.rights.includes(asset.copyright),'The retained rights must contain the documented copyright');
+  assert.ok(asset.rightsEvidenceURL && retained.rights.includes(asset.rightsEvidenceURL),'The retained rights must identify the documented permission');
+  const expected=`<x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:creator><rdf:Seq><rdf:li>${xmlEscape(retained.creator)}</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">${xmlEscape(retained.rights)}</rdf:li></rdf:Alt></dc:rights></rdf:Description></rdf:RDF></x:xmpmeta>`;
+  assert.equal(xmp.toString('utf8').trim(),expected,'Only the exact reviewed creator/rights XMP structure is allowed');
+}
 test('published news has documented covers reused in body and labels generated editorial illustrations',()=>{
   for(const article of articles){
     const images=[...article.markdown.matchAll(/!\[[^\n]*\]\((\/news-media\/[^\s)]+)\)/g)].map(match=>match[1]);
@@ -42,6 +52,17 @@ test('current originals contain no private EXIF, IPTC or XMP metadata',async()=>
     const metadata=await sharp(`public${asset.localPath}`).metadata();
     assert.equal(metadata.exif,undefined);
     assert.equal(metadata.iptc,undefined);
-    assert.equal(metadata.xmp,undefined);
+    if(metadata.xmp) checkRightsOnlyXmp(metadata.xmp,asset);
   }
+});
+
+test('the rights-only XMP exception rejects undocumented and additional private metadata',()=>{
+  const asset={photographer:'Verified photographer',copyright:'Copyright owner',rightsEvidenceURL:'https://example.org/permission',privacySanitization:{retainedRightsXMP:{creator:'Verified photographer',rights:'Copyright owner. Permission: https://example.org/permission'}}};
+  const xmp=asset.privacySanitization.retainedRightsXMP;
+  const valid=`<x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:creator><rdf:Seq><rdf:li>${xmlEscape(xmp.creator)}</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">${xmlEscape(xmp.rights)}</rdf:li></rdf:Alt></dc:rights></rdf:Description></rdf:RDF></x:xmpmeta>`;
+  assert.doesNotThrow(()=>checkRightsOnlyXmp(Buffer.from(valid),asset));
+  assert.throws(()=>checkRightsOnlyXmp(Buffer.from(valid),{...asset,privacySanitization:{}}));
+  assert.throws(()=>checkRightsOnlyXmp(Buffer.from(valid.replace('</rdf:Description>','<private:email>private@example.org</private:email></rdf:Description>')),asset));
+  assert.throws(()=>checkRightsOnlyXmp(Buffer.from(valid.replace('</rdf:Description>','<exif:GPSLatitude>25.0</exif:GPSLatitude></rdf:Description>')),asset));
+  assert.throws(()=>checkRightsOnlyXmp(Buffer.from(valid.replace(xmp.creator,'Unverified creator')),asset));
 });

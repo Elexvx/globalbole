@@ -8,6 +8,19 @@ import { languageSwitchHref, translatedTagSlug } from '../lib/language-routes.mj
 const articles=buildContent();
 const urls=text=>[...text.matchAll(/\]\((https?:\/\/[^\s)]+)\)/g)].map(match=>match[1]).sort();
 const bodyImages=text=>[...text.matchAll(/!\[[^\n]*\]\((\/news-media\/[^\s)]+)\)/g)].map(match=>match[1]).sort();
+const publicationLog=JSON.parse(readFileSync('docs/news-publication-log.json','utf8'));
+const documentedSources=key=>publicationLog.batches.flatMap(batch=>batch.articles)
+  .filter(article=>article.translationKey===key).flatMap(article=>article.sources || []);
+// The bibliography preserves genuine source-language titles. Only an exact
+// title/URL pair in this article's reviewed source log is exempt, and only in
+// a footnote definition. All prose, captions and unverified labels stay checked.
+const translatedMarkdown=(markdown,sources)=>markdown.split('\n').map(line=>
+  /^\[\^[^\]]+\]:/.test(line)
+    ? line.replace(/(?<!!)\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g,(link,label,url)=>
+      sources.some(source=>source.url===url && (source.title===label || source.publisher===label))
+        ? `[source](${url})` : link)
+    : line).join('\n');
+const translatedValues=(story,sources)=>[story.title,story.dek,story.authorRole,story.imageAlt,...story.tags,translatedMarkdown(story.markdown,sources)];
 
 test('every published story has complete five-language content and the same sources and imagery',()=>{
   const keys=[...new Set(articles.map(story=>story.translationKey))];
@@ -22,12 +35,38 @@ test('every published story has complete five-language content and the same sour
       assert.deepEqual(bodyImages(story.markdown),bodyImages(source.markdown),`${key}/${story.lang}: existing assets reused`);
       assert.equal((story.markdown.match(/^## /gm)||[]).length,(source.markdown.match(/^## /gm)||[]).length,`${key}: all sections translated`);
       assert.equal((story.markdown.match(/^\[\^[^\]]+\]:/gm)||[]).length,(source.markdown.match(/^\[\^[^\]]+\]:/gm)||[]).length,`${key}: all footnotes translated`);
-      if(['en','fr','ru'].includes(story.lang)) for(const value of [story.title,story.dek,story.authorRole,story.imageAlt,...story.tags,story.markdown]) assert.doesNotMatch(value,/[\u3400-\u9fff]/,`${key}/${story.lang}: no untranslated Chinese`);
+      if(['en','fr','ru'].includes(story.lang)) for(const value of translatedValues(story,documentedSources(key))) assert.doesNotMatch(value,/[\u3400-\u9fff]/,`${key}/${story.lang}: no untranslated Chinese outside verified source identifiers`);
       for(const next of languages){
         const target=group.find(item=>item.lang===next);
         assert.equal(languageSwitchHref({params:{locale:story.lang,slug:story.slug},pathname:`/${story.lang}/post/${story.slug}/`,locale:story.lang,next,stories:articles}),`/${next}/post/${target.slug}/`);
       }
     }
+  }
+});
+
+test('original source-title exceptions cannot hide untranslated prose or altered source labels',()=>{
+  const url='https://example.org/source';
+  const sources=[{url,title:'真实原文标题',publisher:'原始来源'}];
+  const note=`[^1]: 2026-10-10 · [真实原文标题](${url}) · Publisher.`;
+  assert.doesNotMatch(translatedMarkdown(`Translated body.\n\n${note}`,sources),/[\u3400-\u9fff]/);
+  assert.doesNotMatch(translatedMarkdown(`[^1]: [原始来源](${url})`,sources),/[\u3400-\u9fff]/);
+  for(const markdown of [
+    `正文没有翻译。\n\n${note}`,
+    `## 中文小标题\n\n${note}`,
+    `![中文图片说明](/news-media/photo.jpg)\n\n${note}`,
+    `*中文图注*\n\n${note}`,
+    `[真实原文标题](${url})\n\n${note}`,
+    note+' 中文来源说明',
+    note+'\n    中文续行',
+    note.replace('真实原文标题','改写的中文标题'),
+    note.replace(url,'https://example.org/unverified'),
+    note.replace('[真实原文标题]','![真实原文标题]'),
+  ]) assert.match(translatedMarkdown(markdown,sources),/[\u3400-\u9fff]/,markdown);
+  assert.match(translatedMarkdown(note,[]),/[\u3400-\u9fff]/,'An unlogged title has no exception');
+  const story={title:'Title',dek:'Summary',authorRole:'Editor',imageAlt:'Photo',tags:['Topic'],markdown:note};
+  for(const field of ['title','dek','authorRole','imageAlt','tags']) {
+    const untranslated={...story,[field]:field==='tags'?['中文标签']:'中文内容'};
+    assert.ok(translatedValues(untranslated,sources).some(value=>/[\u3400-\u9fff]/.test(value)),`${field} cannot use the source-title exception`);
   }
 });
 

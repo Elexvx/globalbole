@@ -13,6 +13,10 @@ const photoAvifQuality = {
   "hamburg-container-terminal-2019": 55,
   "ev-charging-2020": 60,
   "korean-peninsula-2014": 60,
+  // Checked at 1280px against quality 60: facial detail remains clear at 55,
+  // while the conservative default would exceed the existing WebP budget.
+  "india-rbi-forex-oil-window-2026-10-11": 55,
+  "taiwan-national-day-maritime-tensions-2026-10-11": 55,
 };
 const localRaster = /^\/(?:reference-assets|news-media)\/.+\.(?:webp|jpe?g|png)$/i;
 
