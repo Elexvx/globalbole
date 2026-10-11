@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { fileURLToPath } from "node:url";
 import { createArticleResponse } from "../lib/article-contract.mjs";
 import { categoryLabels as categories } from "../lib/categories.mjs";
+import { readWithdrawnArticles, assertNoWithdrawnArticles } from "./publication-withdrawals.mjs";
 export const languages = ["zh-CN", "zh-TW", "en", "ru", "fr"];
 function walk(dir) { return readdirSync(dir,{withFileTypes:true}).flatMap(entry => entry.isDirectory() ? walk(path.join(dir,entry.name)) : entry.name.endsWith(".md") ? [path.join(dir,entry.name)] : []); }
 // Tests and rebuilds can generate the same snapshot concurrently. Publish a
@@ -14,6 +15,7 @@ function writeSnapshot(file, content) {
   renameSync(temporary, file);
 }
 export function buildContent() {
+  const withdrawn = readWithdrawnArticles();
   const root = path.resolve("content/issues");
   mkdirSync(root,{recursive:true});
   const ids = new Set();
@@ -21,6 +23,7 @@ export function buildContent() {
     const {data,content} = matter(readFileSync(file,"utf8"));
     const fail = message => {throw new Error(`${file}: ${message}`);};
     for(const key of ["title","slug","translationKey","issue","lang","category","author","date","description"]) if(typeof data[key] !== "string" || !data[key].trim()) fail(`${key} must be a nonempty quoted string`);
+    assertNoWithdrawnArticles([data], withdrawn);
     for(const key of ["seoTitle","seoDescription"]) if(data[key] !== undefined && (typeof data[key] !== "string" || !data[key].trim())) fail(`${key} must be a nonempty quoted string when provided`);
     if (!languages.includes(data.lang)) fail("unsupported lang");
     if (!/^[a-z0-9-]+$/.test(data.slug) || !/^[a-z0-9-]+$/.test(data.issue)) fail("slug and issue must use lowercase ASCII letters, numbers and hyphens");

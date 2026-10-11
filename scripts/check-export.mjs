@@ -4,8 +4,10 @@ import assert from "node:assert/strict";
 import { languages } from "./content.mjs";
 import { checkCategoryExport } from "./check-category-export.mjs";
 import { checkTagExport } from "./check-tag-export.mjs";
+import { checkWithdrawnExport } from "./publication-withdrawals.mjs";
 const escapeHtml=value=>value.replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;", "'":"&#x27;"}[char]));
 const articles=JSON.parse(readFileSync("content/generated/articles.json","utf8"));
+checkWithdrawnExport(articles);
 const files=readdirSync("out",{recursive:true}).filter(file=>file.endsWith(".html"));
 const missing=new Set();let checks=0;
 for(const file of files){

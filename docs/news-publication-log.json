@@ -1523,7 +1523,15 @@
               "publisher": "Reuters via AOL"
             }
           ],
-          "note": "October 10 address and responses. Maritime interpretations remain attributed; no current blockade or new defence-spending amount is asserted."
+          "note": "October 10 address and responses. Maritime interpretations remain attributed; no current blockade or new defence-spending amount is asserted.",
+          "status": "withdrawn",
+          "withdrawnAt": "2026-10-11",
+          "withdrawalScope": "all-language-editions",
+          "republish": false,
+          "withdrawnMedia": [
+            "/news-media/2026-10-11/taiwan-national-day-maritime-tensions-2026-10-11.jpg",
+            "/news-media/2026-10-11/taiwan-national-day-ceremony-2026-10-10.jpg"
+          ]
         },
         {
           "translationKey": "ukraine-us-diesel-refinery-dispute-2026-10-11",

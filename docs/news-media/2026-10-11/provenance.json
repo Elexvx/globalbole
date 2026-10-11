@@ -226,82 +226,6 @@
       "caption": "AI生成示意图：储油设施与空置谈判桌，表现能源供应和外交分歧；并非真实设施或会谈现场。"
     },
     {
-      "article": "taiwan-national-day-maritime-tensions-2026-10-11",
-      "kind": "licensed_original_news_photo",
-      "localPath": "/news-media/2026-10-11/taiwan-national-day-maritime-tensions-2026-10-11.jpg",
-      "filename": "taiwan-national-day-maritime-tensions-2026-10-11.jpg",
-      "sourceURL": "https://www.president.gov.tw/NEWS/40414",
-      "sourceImageURL": "https://live.staticflickr.com/65535/55580170759_8b8015a5b8_o.jpg",
-      "rightsEvidenceURL": "https://www.flickr.com/photos/presidentialoffice/55580170759",
-      "license": "CC BY 4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-      "rightsBasis": "Exact official Flickr photo independently marked CC BY4.0; photographer and Office of President credit retained. No third-party photo exception relies on blanket government licence.",
-      "title": "10.10 總統出席「中華民國中樞暨各界慶祝115年國慶大會」",
-      "photographer": "Wang Yu Ching",
-      "credit": "Official Photo by Wang Yu Ching / Office of the President, ROC (Taiwan)",
-      "date": "2026-10-10",
-      "location": "Plaza in front of the Presidential Office Building, Taipei",
-      "caption": "2026年10月10日，台北总统府前，赖清德发表国庆演说。",
-      "width": 3500,
-      "height": 2033,
-      "byteSize": 3088920,
-      "sha256": "e06c2af036dbca4fb630c3d5a64c55225bc978a14c894df618b039e9ee4ffaa0",
-      "sourceSha256": "442bc58c2129d602e51805cdaf72b8043571af88da7022334cab00caf2cb81d1",
-      "privacySanitization": {
-        "EXIF": false,
-        "IPTC": false,
-        "XMP": false,
-        "removedMarkerKinds": [
-          "0xe1",
-          "0xed",
-          "0xe1"
-        ],
-        "pixelsIdenticalToOriginal": true,
-        "colorProfilePreserved": true
-      },
-      "pixelsInspected": true,
-      "visualInspection": "Inspected final local original: official podium portrait / ceremony scene; image unmodified. Wide portrait keeps face inside default centered cover crop.",
-      "coverUsage": "First photo reused as cover and body; second complementary ceremony photo in body; same files in all5languages."
-    },
-    {
-      "article": "taiwan-national-day-maritime-tensions-2026-10-11",
-      "kind": "licensed_original_news_photo",
-      "localPath": "/news-media/2026-10-11/taiwan-national-day-ceremony-2026-10-10.jpg",
-      "filename": "taiwan-national-day-ceremony-2026-10-10.jpg",
-      "sourceURL": "https://www.president.gov.tw/NEWS/40414",
-      "sourceImageURL": "https://live.staticflickr.com/65535/55580072973_2de3139752_o.jpg",
-      "rightsEvidenceURL": "https://www.flickr.com/photos/presidentialoffice/55580072973",
-      "license": "CC BY 4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-      "rightsBasis": "Exact official Flickr photo independently marked CC BY4.0; photographer and Office of President credit retained. No third-party photo exception relies on blanket government licence.",
-      "title": "10.10 總統出席「中華民國中樞暨各界慶祝115年國慶大會」",
-      "photographer": "Liu Shu fu",
-      "credit": "Official Photo by Liu Shu fu / Office of the President, ROC (Taiwan)",
-      "date": "2026-10-10",
-      "location": "Plaza in front of the Presidential Office Building, Taipei",
-      "caption": "2026年10月10日，台北国庆大会。",
-      "width": 2000,
-      "height": 1333,
-      "byteSize": 2524770,
-      "sha256": "ab31227e611da86c800d6bebf3e73cd17aff612b3427592814e66da92fd142b2",
-      "sourceSha256": "c48aa289b59f8655dc3e186a86d17aa0adcf808cefd29cc026ddab671a49eac2",
-      "privacySanitization": {
-        "EXIF": false,
-        "IPTC": false,
-        "XMP": false,
-        "removedMarkerKinds": [
-          "0xe1",
-          "0xed",
-          "0xe1"
-        ],
-        "pixelsIdenticalToOriginal": true,
-        "colorProfilePreserved": true
-      },
-      "pixelsInspected": true,
-      "visualInspection": "Inspected final local original: official podium portrait / ceremony scene; image unmodified. Wide portrait keeps face inside default centered cover crop.",
-      "coverUsage": "First photo reused as cover and body; second complementary ceremony photo in body; same files in all5languages."
-    },
-    {
       "article": "india-rbi-forex-oil-window-2026-10-11",
       "kind": "licensed_original_photograph",
       "filename": "india-rbi-forex-oil-window-2026-10-11.jpg",
@@ -354,5 +278,87 @@
       "caption": "印度储备银行行长桑杰·马尔霍特拉。摄影：Nishikant Gamre Photography，© @nishikantgamre。来源：印度储备银行；"
     }
   ],
-  "integrationNote": "Three source-original photo records merged from independently recorded writer evidence; normalized source and license fields preserve the original evidence URLs. The RBI photo retains only the documented creator and rights XMP; originals are not modified in integration."
+  "integrationNote": "Three source-original photo records merged from independently recorded writer evidence; normalized source and license fields preserve the original evidence URLs. The RBI photo retains only the documented creator and rights XMP; originals are not modified in integration.",
+  "retiredAssets": [
+    {
+      "article": "taiwan-national-day-maritime-tensions-2026-10-11",
+      "kind": "licensed_original_news_photo",
+      "localPath": "/news-media/2026-10-11/taiwan-national-day-maritime-tensions-2026-10-11.jpg",
+      "filename": "taiwan-national-day-maritime-tensions-2026-10-11.jpg",
+      "sourceURL": "https://www.president.gov.tw/NEWS/40414",
+      "sourceImageURL": "https://live.staticflickr.com/65535/55580170759_8b8015a5b8_o.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/presidentialoffice/55580170759",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsBasis": "Exact official Flickr photo independently marked CC BY4.0; photographer and Office of President credit retained. No third-party photo exception relies on blanket government licence.",
+      "title": "10.10 總統出席「中華民國中樞暨各界慶祝115年國慶大會」",
+      "photographer": "Wang Yu Ching",
+      "credit": "Official Photo by Wang Yu Ching / Office of the President, ROC (Taiwan)",
+      "date": "2026-10-10",
+      "location": "Plaza in front of the Presidential Office Building, Taipei",
+      "caption": "2026年10月10日，台北总统府前，赖清德发表国庆演说。",
+      "width": 3500,
+      "height": 2033,
+      "byteSize": 3088920,
+      "sha256": "e06c2af036dbca4fb630c3d5a64c55225bc978a14c894df618b039e9ee4ffaa0",
+      "sourceSha256": "442bc58c2129d602e51805cdaf72b8043571af88da7022334cab00caf2cb81d1",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "removedMarkerKinds": [
+          "0xe1",
+          "0xed",
+          "0xe1"
+        ],
+        "pixelsIdenticalToOriginal": true,
+        "colorProfilePreserved": true
+      },
+      "pixelsInspected": true,
+      "visualInspection": "Inspected final local original: official podium portrait / ceremony scene; image unmodified. Wide portrait keeps face inside default centered cover crop.",
+      "coverUsage": "First photo reused as cover and body; second complementary ceremony photo in body; same files in all5languages.",
+      "retiredAt": "2026-10-11",
+      "retirementReason": "Article withdrawn in all language editions; source and license evidence retained for the publication history."
+    },
+    {
+      "article": "taiwan-national-day-maritime-tensions-2026-10-11",
+      "kind": "licensed_original_news_photo",
+      "localPath": "/news-media/2026-10-11/taiwan-national-day-ceremony-2026-10-10.jpg",
+      "filename": "taiwan-national-day-ceremony-2026-10-10.jpg",
+      "sourceURL": "https://www.president.gov.tw/NEWS/40414",
+      "sourceImageURL": "https://live.staticflickr.com/65535/55580072973_2de3139752_o.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/presidentialoffice/55580072973",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsBasis": "Exact official Flickr photo independently marked CC BY4.0; photographer and Office of President credit retained. No third-party photo exception relies on blanket government licence.",
+      "title": "10.10 總統出席「中華民國中樞暨各界慶祝115年國慶大會」",
+      "photographer": "Liu Shu fu",
+      "credit": "Official Photo by Liu Shu fu / Office of the President, ROC (Taiwan)",
+      "date": "2026-10-10",
+      "location": "Plaza in front of the Presidential Office Building, Taipei",
+      "caption": "2026年10月10日，台北国庆大会。",
+      "width": 2000,
+      "height": 1333,
+      "byteSize": 2524770,
+      "sha256": "ab31227e611da86c800d6bebf3e73cd17aff612b3427592814e66da92fd142b2",
+      "sourceSha256": "c48aa289b59f8655dc3e186a86d17aa0adcf808cefd29cc026ddab671a49eac2",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "removedMarkerKinds": [
+          "0xe1",
+          "0xed",
+          "0xe1"
+        ],
+        "pixelsIdenticalToOriginal": true,
+        "colorProfilePreserved": true
+      },
+      "pixelsInspected": true,
+      "visualInspection": "Inspected final local original: official podium portrait / ceremony scene; image unmodified. Wide portrait keeps face inside default centered cover crop.",
+      "coverUsage": "First photo reused as cover and body; second complementary ceremony photo in body; same files in all5languages.",
+      "retiredAt": "2026-10-11",
+      "retirementReason": "Article withdrawn in all language editions; source and license evidence retained for the publication history."
+    }
+  ]
 }

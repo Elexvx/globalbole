@@ -676,6 +676,48 @@ a:hover .ref-image {
   margin-top: .25rem;
 }
 
+/* Category pages prioritize browsing, with the same card scale for every story. */
+.category-header {
+  padding-bottom: 1.5rem;
+}
+
+.category-header-details {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .75rem 1.5rem;
+  margin-top: .75rem;
+}
+
+.category-story-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2rem 1.5rem;
+}
+
+.category-story-grid > .story-link {
+  min-width: 0;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--site-border);
+}
+
+.category-story-grid .headline {
+  overflow-wrap: anywhere;
+}
+
+@media (min-width: 40rem) {
+  .category-story-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 64rem) {
+  .category-story-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
 .ref-rank-story {
   display: grid;
   grid-template-columns: 3.2rem minmax(0, 1fr);
@@ -1062,16 +1104,7 @@ a:hover .ref-image {
     gap: 2.5rem;
   }
 
-  .ref-tech-rank-column {
-    display: flex;
-    flex-direction: column;
-  }
-
   .ref-tech-rank-column > .ref-rank-list {
-    display: flex;
-    flex: 1;
-    flex-direction: column;
-    justify-content: space-between;
     margin-top: 1.25rem;
   }
 
