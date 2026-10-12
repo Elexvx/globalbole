@@ -1613,6 +1613,357 @@
           "note": "October 8 guilty plea reported October 9; charging-document allegations, intermediary purchases and allegedly diverted shipments remain distinct. No corporate conviction is asserted."
         }
       ]
+    },
+    {
+      "id": "2026-10-12-zh-CN",
+      "publicationDate": "2026-10-12",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "anthropic-agent-evaluation-boundaries-2026-10-12",
+          "path": "content/issues/2026-10-12/zh-CN/anthropic-agent-evaluation-boundaries-2026-10-12.md",
+          "eventDate": "2026-10-09",
+          "sourceDate": "2026-10-09",
+          "eventPeriod": "July 18 test submission; October 9 company disclosure and official response",
+          "sources": [
+            {
+              "title": "Investigating unintended model actions in our evaluations and internal use",
+              "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+              "date": "2026-10-09",
+              "type": "primary",
+              "publisher": "Anthropic"
+            },
+            {
+              "title": "AI model submitted false tip about unsolved murder, Philadelphia police say",
+              "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
+              "date": "2026-10-09",
+              "type": "primary-reprint",
+              "publisher": "Philadelphia Police Department statement, reproduced by 6abc"
+            },
+            {
+              "title": "Super Intelligence Force official statement (untitled)",
+              "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
+              "date": "2026-10-09",
+              "type": "primary-reprint",
+              "publisher": "US federal government; official statement reproduced by Axios"
+            },
+            {
+              "title": "Security and Privacy Controls for Information Systems and Organizations",
+              "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
+              "date": "2020-09",
+              "type": "primary",
+              "publisher": "NIST"
+            },
+            {
+              "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+              "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+              "date": "2023-01-26",
+              "type": "primary",
+              "publisher": "NIST"
+            }
+          ]
+        },
+        {
+          "translationKey": "isaias-landfall-flood-energy-recovery-2026-10-12",
+          "path": "content/issues/2026-10-12/zh-CN/isaias-landfall-flood-energy-recovery-2026-10-12.md",
+          "eventDate": "2026-10-09",
+          "eventPeriod": "2026-10-09/2026-10-11",
+          "sourceDate": "2026-10-11",
+          "sources": [
+            {
+              "title": "Hurricane Isaias Tropical Cyclone Update",
+              "url": "https://prod-west-nhc.woc.noaa.gov/archive/2026/al09/al092026.update.10100129.shtml",
+              "date": "2026-10-09",
+              "type": "government-primary-source",
+              "publisher": "NOAA/NWS National Hurricane Center",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.weather.gov/disclaimer",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "publishedAt": "2026-10-09T20:30:00-05:00",
+              "dataTimeUTC": "2026-10-10T01:30:00Z"
+            },
+            {
+              "title": "Saffir-Simpson Hurricane Wind Scale",
+              "url": "https://www.nhc.noaa.gov/aboutsshws.php",
+              "date": null,
+              "type": "government-primary-source",
+              "publisher": "NOAA/NWS National Hurricane Center",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.weather.gov/disclaimer",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "accessedAt": "2026-10-12",
+              "verificationNote": "Canonical page intermittently fails open; full official text verified via web search index at https://www.nhc.noaa.gov/aboutsshws.php?tknfv=p9bbe46b8-80f1-4195-85f1-461797b8r67ffes and NHC glossary. Category 2 is 96–110 mph; other hazards excluded."
+            },
+            {
+              "title": "Mesoscale Precipitation Discussion 1477",
+              "url": "https://origin-east-www-wpc.woc.noaa.gov/metwatch/metwatch_mpd_multi.php?md=1477&yr=2026",
+              "date": "2026-10-11",
+              "type": "government-primary-source",
+              "publisher": "NOAA/NWS Weather Prediction Center",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.weather.gov/disclaimer",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "publishedAt": "2026-10-11T05:07:00-04:00",
+              "validPeriodUTC": "2026-10-11T09:10:00Z/2026-10-11T15:00:00Z"
+            },
+            {
+              "title": "MMA Monitors Gulf of America Oil and Gas Activities in Response to Hurricane Isaias",
+              "url": "https://www.bsee.gov/newsroom/latest-news/statements-and-releases/press-releases/mma-monitors-gulf-response-isaias5",
+              "date": "2026-10-11",
+              "type": "government-primary-source",
+              "publisher": "Marine Minerals Administration, U.S. Department of the Interior",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.doi.gov/copyright",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "dataAsOf": "2026-10-11T11:00:00-05:00",
+              "reportingCompanies": 31
+            },
+            {
+              "title": "MMA Monitors Gulf of America Oil and Gas Activities in Response to Hurricane Isaias",
+              "url": "https://www.bsee.gov/newsroom/latest-news/statements-and-releases/press-releases/mma-monitors-gulf-response-isaias4",
+              "date": "2026-10-10",
+              "type": "government-primary-source",
+              "publisher": "Marine Minerals Administration, U.S. Department of the Interior",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.doi.gov/copyright",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "dataAsOf": "2026-10-10T11:00:00-05:00",
+              "reportingCompanies": 31
+            }
+          ]
+        },
+        {
+          "translationKey": "tesla-assisted-driving-europe-approval-2026-10-12",
+          "path": "content/issues/2026-10-12/zh-CN/tesla-assisted-driving-europe-approval-2026-10-12.md",
+          "eventDate": "2026-10-09",
+          "sourceDate": "2026-10-09",
+          "sources": [
+            {
+              "title": "Tesla Assisted Driving",
+              "url": "https://www.tesla.com/en_gb/tesla-assisted-driving",
+              "date": null,
+              "type": "primary",
+              "publisher": "Tesla"
+            },
+            {
+              "title": "Aktueller Stand bei der Genehmigung eines Tesla-Assistenzsystems",
+              "url": "https://www.bmv.de/SharedDocs/DE/Artikel/StV/Digitalisierung-der-Mobilitaet/aktueller-stand-tesla-assistenzsysteme.html",
+              "date": "2026-10-06",
+              "type": "primary",
+              "publisher": "German Federal Ministry of Transport"
+            },
+            {
+              "title": "RDW explanation of European type approval Tesla with provisional validity in the Netherlands",
+              "url": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands",
+              "date": "2026-04-10",
+              "type": "primary",
+              "publisher": "RDW"
+            },
+            {
+              "title": "Tesla renames ‘Full Self-Driving’ to ‘Assisted Driving’ in Europe as it chases clearance for software",
+              "url": "https://www.reuters.com/business/autos-transportation/tesla-renames-full-self-driving-assisted-driving-europe-it-chases-clearance-2026-10-09/",
+              "date": "2026-10-09",
+              "type": "secondary",
+              "publisher": "Reuters"
+            },
+            {
+              "title": "Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC",
+              "url": "https://eur-lex.europa.eu/eli/reg/2018/858",
+              "date": "2018-06-14",
+              "type": "primary",
+              "publisher": "European Union"
+            },
+            {
+              "title": "Teslas førerassistentsystem FSD Supervised er foreløbigt godkendt i Danmark",
+              "url": "https://www.fstyr.dk/nyheder/2026/jun/teslas-foererassistentsystem-fsd-supervised-er-foreloebigt-godkendt-i-danmark",
+              "date": "2026-06-09",
+              "type": "primary",
+              "publisher": "Danish Road Traffic Authority"
+            },
+            {
+              "title": "Vragenuur: Vragen van het lid De Hoop aan de minister van Infrastructuur en Waterstaat over het bericht \"Tesla misleidde Nederlandse overheid over veiligheid zelfrijdende auto's\".",
+              "url": "https://www.tweedekamer.nl/kamerstukken/detail?did=2026D42158&id=2026D42158",
+              "date": "2026-09-09",
+              "type": "primary",
+              "publisher": "Tweede Kamer der Staten-Generaal"
+            },
+            {
+              "title": "Explanation of the type approval of FSD Supervised",
+              "url": "https://www.rdw.nl/en/news/2026/explanation-of-the-type-approval-of-fsd-supervised",
+              "date": "2026-06-17",
+              "type": "primary",
+              "publisher": "RDW"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-inflation-bank-earnings-week-2026-10-12",
+          "path": "content/issues/2026-10-12/zh-CN/us-inflation-bank-earnings-week-2026-10-12.md",
+          "eventDate": "2026-10-13",
+          "eventPeriod": "2026-10-13/2026-10-15",
+          "sourceDate": "2026-09-17",
+          "sources": [
+            {
+              "title": "Schedule of Selected Releases 2026",
+              "url": "https://www.bls.gov/schedule/2026/home.htm",
+              "date": "2026-02-18",
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "dateNote": "October calendar section last modified February 18, 2026; accessed October 12, 2026. Data period September 2026."
+            },
+            {
+              "title": "US Census Bureau: Economic Indicator Release Schedule: List View",
+              "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+              "date": null,
+              "type": "government-primary-source",
+              "publisher": "U.S. Census Bureau",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "accessedAt": "2026-10-12",
+              "dateNote": "No original publication date shown; year-specific 2026 calendar."
+            },
+            {
+              "title": "JPMorganChase to Host Third-Quarter 2026 Earnings Call",
+              "url": "https://www.jpmorganchase.com/ir/news/2026/jpmc-to-host-third-quarter-2026-earnings-call",
+              "date": "2026-09-17",
+              "type": "company-primary-release",
+              "publisher": "JPMorganChase",
+              "rights": "Ordinary copyrighted company press release; limited use only",
+              "licenseEvidenceUrls": [
+                "https://www.jpmorganchase.com/ir/news/2026/jpmc-to-host-third-quarter-2026-earnings-call"
+              ],
+              "wordBudget": 200
+            },
+            {
+              "title": "Consumer Price Index — August 2026",
+              "url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
+              "date": "2026-09-11",
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "pageTitle": "Consumer Price Index News Release - 2026 M08 Results",
+              "dataPeriod": "2026-08"
+            },
+            {
+              "title": "Consumer Price Index Frequently Asked Questions",
+              "url": "https://www.bls.gov/cpi/questions-and-answers.htm",
+              "date": null,
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "accessedAt": "2026-10-12"
+            },
+            {
+              "title": "Producer Price Indexes — August 2026",
+              "url": "https://www.bls.gov/news.release/archives/ppi_09102026.htm",
+              "date": "2026-09-10",
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "pageTitle": "Producer Price Index News Release - 2026 M08 Results",
+              "dataPeriod": "2026-08"
+            },
+            {
+              "title": "Producer Price Index (PPI)",
+              "url": "https://www.bls.gov/ppi/overview.htm",
+              "date": null,
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "accessedAt": "2026-10-12"
+            },
+            {
+              "title": "Monthly Retail Trade - Time Series Data",
+              "url": "https://www.census.gov/retail/marts/www/timeseries.html",
+              "date": null,
+              "type": "government-primary-source",
+              "publisher": "U.S. Census Bureau",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "accessedAt": "2026-10-12"
+            },
+            {
+              "title": "Monthly Retail Trade - Definitions",
+              "url": "https://www.census.gov/retail/definitions.html",
+              "date": null,
+              "type": "government-primary-source",
+              "publisher": "U.S. Census Bureau",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "accessedAt": "2026-10-12"
+            },
+            {
+              "title": "FDIC-Insured Institutions Reported Return on Assets of 1.37 Percent and Net Income of $90.1 Billion in Second Quarter 2026",
+              "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/426aa10",
+              "date": "2026-08-25",
+              "type": "government-primary-source",
+              "publisher": "Federal Deposit Insurance Corporation",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://archive.fdic.gov/Content%20and%20Copyright",
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "dataPeriod": "2026-Q2"
+            },
+            {
+              "title": "Joint Agency Policy Statement: Interest Rate Risk",
+              "url": "https://www.federalreserve.gov/boarddocs/srletters/1996/sr9613.htm",
+              "date": "1996-05-23",
+              "type": "government-primary-source",
+              "publisher": "Board of Governors of the Federal Reserve System; Office of the Comptroller of the Currency; Federal Deposit Insurance Corporation",
+              "rights": "US federal government-authored public-domain text",
+              "licenseEvidenceUrls": [
+                "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+              ],
+              "dateNote": "Attachment to dated Supervisory Letter SR 96-13; used only for the general risk mechanism, not as a new policy."
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

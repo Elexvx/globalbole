@@ -1,0 +1,342 @@
+{
+  "issue": "2026-10-12",
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "baselineCommit": "7efbc10608d2e9c2fc8f5ca18b94afa6c9ec225a",
+  "deduplication": {
+    "baselineArticles": 215,
+    "baselineTopics": 43,
+    "localMainMatchesProduction": true,
+    "withdrawnStoriesRemainExcluded": true
+  },
+  "sourceUsePrinciples": {
+    "ordinarySources": "One combined budget across the five editions, including headlines, summaries, source-dependent prose and citation titles; syndicated and translated duplicates are the same work.",
+    "openMaterials": "Expanded treatment is restricted to the verified licensed or public-domain material, not third-party material hosted or quoted alongside it.",
+    "quotation": "No long direct quotations. Faithful citation-title translations are identified as translations where original-title repetition would exceed the quotation limit.",
+    "analysis": "Source-dependent analysis remains attributed and counted; it is not reclassified to avoid limits."
+  },
+  "articleAudits": [
+    {
+      "translationKey": "tesla-assisted-driving-europe-approval-2026-10-12",
+      "sources": [
+        {
+          "url": "https://www.tesla.com/en_gb/tesla-assisted-driving",
+          "rights": "Ordinary protected source; combined five-language ceiling 200 words",
+          "fiveLanguageWords": 165,
+          "conservativeCeiling": 185,
+          "ordinaryBudget": 200,
+          "originalTitleQuotationWords": 3
+        },
+        {
+          "url": "https://www.bmv.de/SharedDocs/DE/Artikel/StV/Digitalisierung-der-Mobilitaet/aktueller-stand-tesla-assistenzsysteme.html",
+          "rights": "Ordinary protected source; combined five-language ceiling 200 words",
+          "fiveLanguageWords": 173,
+          "conservativeCeiling": 183,
+          "ordinaryBudget": 200,
+          "originalTitleQuotationWords": 14
+        },
+        {
+          "url": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands",
+          "rights": "Ordinary protected source; combined five-language ceiling 200 words",
+          "fiveLanguageWords": 131,
+          "conservativeCeiling": 141,
+          "ordinaryBudget": 200,
+          "originalTitleQuotationWords": 13
+        },
+        {
+          "url": "https://www.reuters.com/business/autos-transportation/tesla-renames-full-self-driving-assisted-driving-europe-it-chases-clearance-2026-10-09/",
+          "rights": "Ordinary protected source; combined five-language ceiling 200 words",
+          "fiveLanguageWords": 174,
+          "conservativeCeiling": 184,
+          "ordinaryBudget": 200,
+          "originalTitleQuotationWords": 15
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/reg/2018/858",
+          "rights": "Explicit legal-document reuse authorisation plus CC BY 4.0 for consolidated text; not claimed to be CC0 or blanket public domain",
+          "fiveLanguageWords": null,
+          "conservativeCeiling": null,
+          "ordinaryBudget": null,
+          "originalTitleQuotationWords": null
+        },
+        {
+          "url": "https://www.fstyr.dk/nyheder/2026/jun/teslas-foererassistentsystem-fsd-supervised-er-foreloebigt-godkendt-i-danmark",
+          "rights": "Ordinary protected source; combined five-language ceiling 200 words",
+          "fiveLanguageWords": 142,
+          "conservativeCeiling": 152,
+          "ordinaryBudget": 200,
+          "originalTitleQuotationWords": 9
+        },
+        {
+          "url": "https://www.tweedekamer.nl/kamerstukken/detail?did=2026D42158&id=2026D42158",
+          "rights": "CC0 1.0 applies to the official open-data API and its supplied resource; no extension to RDW website",
+          "fiveLanguageWords": null,
+          "conservativeCeiling": null,
+          "ordinaryBudget": null,
+          "originalTitleQuotationWords": null
+        },
+        {
+          "url": "https://www.rdw.nl/en/news/2026/explanation-of-the-type-approval-of-fsd-supervised",
+          "rights": "Ordinary protected source; combined five-language ceiling 200 words",
+          "fiveLanguageWords": 155,
+          "conservativeCeiling": 165,
+          "ordinaryBudget": 200,
+          "originalTitleQuotationWords": 8
+        }
+      ],
+      "licenseEvidence": [
+        {
+          "url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html?locale=en",
+          "accessedAt": "2026-10-12",
+          "scope": "EU legal documents and the cited consolidated regulation text only"
+        },
+        {
+          "url": "https://opendata.tweedekamer.nl/en/node/20",
+          "accessedAt": "2026-10-12",
+          "scope": "The cited parliamentary document supplied by the official open-data API"
+        }
+      ]
+    },
+    {
+      "translationKey": "us-inflation-bank-earnings-week-2026-10-12",
+      "sources": [
+        {
+          "url": "https://www.bls.gov/schedule/2026/home.htm",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1630,
+          "licenseEvidenceUrls": [
+            "https://www.bls.gov/bls/linksite.htm",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1656,
+          "licenseEvidenceUrls": [
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.jpmorganchase.com/ir/news/2026/jpmc-to-host-third-quarter-2026-earnings-call",
+          "rights": "Ordinary copyrighted company press release; limited use only",
+          "fiveLanguageWords": 154,
+          "licenseEvidenceUrls": [
+            "https://www.jpmorganchase.com/ir/news/2026/jpmc-to-host-third-quarter-2026-earnings-call"
+          ],
+          "budgetException": null,
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1984,
+          "licenseEvidenceUrls": [
+            "https://www.bls.gov/bls/linksite.htm",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.bls.gov/cpi/questions-and-answers.htm",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 2971,
+          "licenseEvidenceUrls": [
+            "https://www.bls.gov/bls/linksite.htm",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.bls.gov/news.release/archives/ppi_09102026.htm",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1414,
+          "licenseEvidenceUrls": [
+            "https://www.bls.gov/bls/linksite.htm",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.bls.gov/ppi/overview.htm",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1823,
+          "licenseEvidenceUrls": [
+            "https://www.bls.gov/bls/linksite.htm",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.census.gov/retail/marts/www/timeseries.html",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1461,
+          "licenseEvidenceUrls": [
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.census.gov/retail/definitions.html",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1572,
+          "licenseEvidenceUrls": [
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/426aa10",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 2021,
+          "licenseEvidenceUrls": [
+            "https://archive.fdic.gov/Content%20and%20Copyright",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.federalreserve.gov/boarddocs/srletters/1996/sr9613.htm",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 1548,
+          "licenseEvidenceUrls": [
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        }
+      ]
+    },
+    {
+      "translationKey": "isaias-landfall-flood-energy-recovery-2026-10-12",
+      "sources": [
+        {
+          "url": "https://prod-west-nhc.woc.noaa.gov/archive/2026/al09/al092026.update.10100129.shtml",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 3042,
+          "licenseEvidenceUrls": [
+            "https://www.weather.gov/disclaimer",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.nhc.noaa.gov/aboutsshws.php",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 2952,
+          "licenseEvidenceUrls": [
+            "https://www.weather.gov/disclaimer",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://origin-east-www-wpc.woc.noaa.gov/metwatch/metwatch_mpd_multi.php?md=1477&yr=2026",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 3485,
+          "licenseEvidenceUrls": [
+            "https://www.weather.gov/disclaimer",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.bsee.gov/newsroom/latest-news/statements-and-releases/press-releases/mma-monitors-gulf-response-isaias5",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 4118,
+          "licenseEvidenceUrls": [
+            "https://www.doi.gov/copyright",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        },
+        {
+          "url": "https://www.bsee.gov/newsroom/latest-news/statements-and-releases/press-releases/mma-monitors-gulf-response-isaias4",
+          "rights": "US federal government-authored public-domain text",
+          "fiveLanguageWords": 2806,
+          "licenseEvidenceUrls": [
+            "https://www.doi.gov/copyright",
+            "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm"
+          ],
+          "budgetException": "Verified federal government-authored public-domain text. Full paragraph and editorial inference credit retained; not reclassified to evade source attribution limits.",
+          "ordinaryBudget": null
+        }
+      ]
+    },
+    {
+      "translationKey": "anthropic-agent-evaluation-boundaries-2026-10-12",
+      "sources": [
+        {
+          "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+          "date": "2026-10-09",
+          "rights": "No reusable/open licence established; ordinary 200-word cross-edition budget applies.",
+          "fiveLanguageWords": 192,
+          "ordinaryBudget": 200,
+          "directQuotationWords": 10,
+          "licenseEvidenceURLs": []
+        },
+        {
+          "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
+          "date": "2026-10-09",
+          "rights": "Municipal statement is NOT assumed federal public domain. Statement/reprints are grouped as one ordinary 200-word underlying work.",
+          "fiveLanguageWords": 190,
+          "ordinaryBudget": 200,
+          "directQuotationWords": 12,
+          "licenseEvidenceURLs": []
+        },
+        {
+          "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
+          "date": "2026-10-09",
+          "rights": "Narrow public-domain treatment of a separable federal official-duty statement under 17 USC 105; not a licence for the surrounding Axios article, layout, photos, or third-party quotations.",
+          "fiveLanguageWords": 1977,
+          "ordinaryBudget": null,
+          "directQuotationWords": 0,
+          "licenseEvidenceURLs": [
+            "https://www.copyright.gov/title17/92chap1.html#105",
+            "https://www.ftc.gov/policy-notices/website-policy"
+          ]
+        },
+        {
+          "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
+          "date": "2020-09",
+          "rights": "US-government work; PDF preliminary page i explicitly states not subject to US copyright. NIST Technical Series terms additionally grant worldwide republication/derivative rights for NIST-authored work to the extent NIST may assert foreign rights.",
+          "fiveLanguageWords": 1654,
+          "ordinaryBudget": null,
+          "directQuotationWords": null,
+          "licenseEvidenceURLs": []
+        },
+        {
+          "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+          "date": "2023-01-26",
+          "rights": "NIST-authored technical publication. US public-domain treatment plus the NIST Technical Series worldwide republication/derivative grant for any NIST foreign rights.",
+          "fiveLanguageWords": 929,
+          "ordinaryBudget": null,
+          "directQuotationWords": null,
+          "licenseEvidenceURLs": []
+        }
+      ],
+      "countingMethod": "Source-attributed prose, metadata and citation labels across all five editions; language-aware word segmentation, with each ISO date treated as a date unit. URLs and markup excluded. Source-dependent interpretation remains attributed."
+    }
+  ],
+  "editorialVerificationDate": "2026-10-12"
+}
