@@ -22,7 +22,7 @@ Compared with August, the PPI increased 1.2% and the CPI 0.2%. Industrial purcha
 
 ![Historical photograph: Nong Gong Shang Supermarket, Shanghai, January 8, 2014, photographed by Livelikerw](/news-media/2026-10-14/shanghai-supermarket-2014.jpg)
 
-Historical photograph: Shanghai, January 8, 2014. Photographer: Livelikerw; work: [Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg), Wikimedia Commons; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+_Historical photograph: Shanghai, January 8, 2014. Photographer: Livelikerw; work: [Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg), Wikimedia Commons; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)._
 
 ## Strong upstream increases do not mean every industrial price is rising
 

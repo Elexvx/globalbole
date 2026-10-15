@@ -22,7 +22,7 @@ draft: false
 
 ![资料照片：2025年6月26日，佛罗里达州克劳福德维尔Circle K加油站的加油泵](/news-media/2026-10-14/us-cpi-gas-pump-2025.jpg)
 
-资料照片，2025年6月26日，美国佛罗里达州克劳福德维尔。摄影：The Bushranger；作品：[《Gas pump at Circle K, Crawfordville, Florida》](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg)，经[CC BY-SA 4.0许可](https://creativecommons.org/licenses/by-sa/4.0/)使用。图中的旧价格及标识不代表2026年油价。
+_资料照片，2025年6月26日，美国佛罗里达州克劳福德维尔。摄影：The Bushranger；作品：[《Gas pump at Circle K, Crawfordville, Florida》](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg)，经[CC BY-SA 4.0许可](https://creativecommons.org/licenses/by-sa/4.0/)使用。图中的旧价格及标识不代表2026年油价。_
 
 ## 汽油是主要推手，能源内部却并不同步
 

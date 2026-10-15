@@ -217,12 +217,13 @@
     "Inherited font-family without overriding utility type size/weight on controls.",
     "Subscription banner kicker contrast aligned with banner foreground.",
     "Long article links and table-of-contents labels may wrap without horizontal overflow.",
-    "Legacy structured paragraphs use the established body typography."
+    "Legacy structured paragraphs use the established body typography.",
+    "New archival photograph captions and credits use the established caption typography."
   ],
   "publicationStatus": "Editorial, source, media and local build checks complete; exact Git deployment and rendered preview checks remain release gates.",
   "localValidation": {
     "tests": {
-      "passed": 75,
+      "passed": 76,
       "failed": 0
     },
     "build": "passed",

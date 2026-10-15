@@ -22,7 +22,7 @@ draft: false
 
 ![Архивная фотография: топливная колонка Circle K в Крофордвилле, Флорида, 26 июня 2025 года](/news-media/2026-10-14/us-cpi-gas-pump-2025.jpg)
 
-Архивная фотография, 26 июня 2025 года, Крофордвилл, Флорида, США. Автор: The Bushranger. Работа: [Gas pump at Circle K, Crawfordville, Florida](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg), используется по лицензии [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Старые цены и обозначения на фотографии не отражают цены на топливо в 2026 году.
+_Архивная фотография, 26 июня 2025 года, Крофордвилл, Флорида, США. Автор: The Bushranger. Работа: [Gas pump at Circle K, Crawfordville, Florida](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg), используется по лицензии [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Старые цены и обозначения на фотографии не отражают цены на топливо в 2026 году._
 
 ## Бензин стал главным фактором, но цены на энергию двигались по-разному
 

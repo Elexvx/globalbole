@@ -22,7 +22,7 @@ draft: false
 
 ![歷史資料照片：2014年1月8日，上海農工商超市，Livelikerw攝](/news-media/2026-10-14/shanghai-supermarket-2014.jpg)
 
-歷史資料照片：上海，2014年1月8日。攝影：Livelikerw；作品：[Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg)，Wikimedia Commons；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。
+_歷史資料照片：上海，2014年1月8日。攝影：Livelikerw；作品：[Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg)，Wikimedia Commons；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。_
 
 ## 上游漲價很強，但工業品並非一起上漲
 

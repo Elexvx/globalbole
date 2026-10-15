@@ -22,7 +22,7 @@ Par rapport à août, le PPI a augmenté de 1,2 % et le CPI de 0,2 %. Les prix d
 
 ![Photographie d’archives : supermarché Nong Gong Shang, Shanghai, 8 janvier 2014, photographié par Livelikerw](/news-media/2026-10-14/shanghai-supermarket-2014.jpg)
 
-Photographie d’archives : Shanghai, 8 janvier 2014. Photographe : Livelikerw ; œuvre : [Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg), Wikimedia Commons ; licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+_Photographie d’archives : Shanghai, 8 janvier 2014. Photographe : Livelikerw ; œuvre : [Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg), Wikimedia Commons ; licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)._
 
 ## Une forte hausse en amont ne concerne pas tous les produits industriels
 

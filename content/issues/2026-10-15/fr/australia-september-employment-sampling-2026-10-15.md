@@ -22,9 +22,9 @@ Ces distinctions comptent pour les entreprises qui évaluent leurs recrutements,
 
 ![Partie supérieure de la façade de la Banque de réserve d’Australie à Sydney, photographiée en 2025](/news-media/2026-10-15/rba-sydney-2025.jpg)
 
-L’immeuble de la Banque de réserve d’Australie au 65 Martin Place à Sydney, le 7 août 2025. Photo d’archives.
+_L’immeuble de la Banque de réserve d’Australie au 65 Martin Place à Sydney, le 7 août 2025. Photo d’archives._
 
-Photographie : Nick-D / [*Bâtiment de la Banque de réserve d’Australie, août 2025*](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg) (Wikimedia Commons) ; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ; recadrage.
+_Photographie : Nick-D / [*Bâtiment de la Banque de réserve d’Australie, août 2025*](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg) (Wikimedia Commons) ; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ; recadrage._
 
 ## Ce que disent réellement les principaux chiffres
 

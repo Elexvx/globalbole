@@ -22,7 +22,7 @@ draft: false
 
 ![Архивная фотография: супермаркет Nong Gong Shang, Шанхай, 8 января 2014 года; фотограф Livelikerw](/news-media/2026-10-14/shanghai-supermarket-2014.jpg)
 
-Архивная фотография: Шанхай, 8 января 2014 года. Фотограф: Livelikerw; работа: [Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg), Wikimedia Commons; лицензия [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+_Архивная фотография: Шанхай, 8 января 2014 года. Фотограф: Livelikerw; работа: [Nong Gong Shang Supermarket in Huangpu Shanghai](https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg), Wikimedia Commons; лицензия [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)._
 
 ## Сильное подорожание в начале производственной цепочки не охватывает все товары
 

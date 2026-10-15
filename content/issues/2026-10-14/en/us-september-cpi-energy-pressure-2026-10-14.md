@@ -22,7 +22,7 @@ Those movements need to be read together. Gasoline explained most of the overall
 
 ![Historical photograph: a gas pump at Circle K in Crawfordville, Florida, on June 26, 2025](/news-media/2026-10-14/us-cpi-gas-pump-2025.jpg)
 
-Historical photograph, June 26, 2025, Crawfordville, Florida, United States. Photograph by The Bushranger: [Gas pump at Circle K, Crawfordville, Florida](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg), used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The historical prices and signage do not represent 2026 fuel prices.
+_Historical photograph, June 26, 2025, Crawfordville, Florida, United States. Photograph by The Bushranger: [Gas pump at Circle K, Crawfordville, Florida](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg), used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The historical prices and signage do not represent 2026 fuel prices._
 
 ## Gasoline led the rise, but energy prices did not move together
 

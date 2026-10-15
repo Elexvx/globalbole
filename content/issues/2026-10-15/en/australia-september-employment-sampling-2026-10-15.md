@@ -22,9 +22,9 @@ The distinction matters for businesses weighing hiring, sales and financing plan
 
 ![Upper facade of the Reserve Bank of Australia building in Sydney, photographed in 2025](/news-media/2026-10-15/rba-sydney-2025.jpg)
 
-The Reserve Bank of Australia building at 65 Martin Place, Sydney, on 7 August 2025. Archival photograph.
+_The Reserve Bank of Australia building at 65 Martin Place, Sydney, on 7 August 2025. Archival photograph._
 
-Photograph: Nick-D / [*RBA Building August 2025*](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg) (Wikimedia Commons); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); cropped.
+_Photograph: Nick-D / [*RBA Building August 2025*](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg) (Wikimedia Commons); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); cropped._
 
 ## What the headline numbers actually say
 

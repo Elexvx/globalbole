@@ -22,7 +22,7 @@ Ces évolutions doivent se lire ensemble. L’essence explique la majeure partie
 
 ![Photo d’archives : une pompe à carburant Circle K à Crawfordville, en Floride, le 26 juin 2025](/news-media/2026-10-14/us-cpi-gas-pump-2025.jpg)
 
-Photo d’archives, 26 juin 2025, Crawfordville, Floride, États-Unis. Photographe : The Bushranger. Œuvre : [Gas pump at Circle K, Crawfordville, Florida](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg), utilisée sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Les anciens prix et indications visibles ne représentent pas les prix des carburants en 2026.
+_Photo d’archives, 26 juin 2025, Crawfordville, Floride, États-Unis. Photographe : The Bushranger. Œuvre : [Gas pump at Circle K, Crawfordville, Florida](https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg), utilisée sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Les anciens prix et indications visibles ne représentent pas les prix des carburants en 2026._
 
 ## L’essence mène la hausse, sans mouvement uniforme de l’énergie
 

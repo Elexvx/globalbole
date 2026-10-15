@@ -22,9 +22,9 @@ draft: false
 
 ![Верхняя часть фасада здания Резервного банка Австралии в Сиднее на снимке 2025 года](/news-media/2026-10-15/rba-sydney-2025.jpg)
 
-Здание Резервного банка Австралии по адресу 65 Martin Place, Сидней, 7 августа 2025 года. Архивное фото.
+_Здание Резервного банка Австралии по адресу 65 Martin Place, Сидней, 7 августа 2025 года. Архивное фото._
 
-Фотограф: Nick-D / [«Здание Резервного банка Австралии, август 2025 года»](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg) (Викисклад); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); кадрировано.
+_Фотограф: Nick-D / [«Здание Резервного банка Австралии, август 2025 года»](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg) (Викисклад); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); кадрировано._
 
 ## Что именно говорят основные показатели
 

@@ -22,9 +22,9 @@ draft: false
 
 ![悉尼澳大利亚储备银行大楼上部外立面，2025年资料图](/news-media/2026-10-15/rba-sydney-2025.jpg)
 
-2025年8月7日，悉尼马丁广场65号的澳大利亚储备银行大楼外景资料图。
+_2025年8月7日，悉尼马丁广场65号的澳大利亚储备银行大楼外景资料图。_
 
-摄影：Nick-D / [《澳大利亚储备银行大楼，2025年8月》](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg)（维基共享资源）；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)；局部裁切。
+_摄影：Nick-D / [《澳大利亚储备银行大楼，2025年8月》](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg)（维基共享资源）；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)；局部裁切。_
 
 ## 标题数字究竟说明什么
 

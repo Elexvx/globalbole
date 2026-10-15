@@ -22,9 +22,9 @@ draft: false
 
 ![雪梨澳洲儲備銀行大樓上部外牆，2025年資料圖](/news-media/2026-10-15/rba-sydney-2025.jpg)
 
-2025年8月7日，雪梨馬丁廣場65號的澳洲儲備銀行大樓外景資料圖。
+_2025年8月7日，雪梨馬丁廣場65號的澳洲儲備銀行大樓外景資料圖。_
 
-攝影：Nick-D / [《澳洲儲備銀行大樓，2025年8月》](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg)（維基共享資源）；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)；局部裁切。
+_攝影：Nick-D / [《澳洲儲備銀行大樓，2025年8月》](https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg)（維基共享資源）；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)；局部裁切。_
 
 ## 標題數字究竟說明什麼
 
