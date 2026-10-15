@@ -1,5 +1,8 @@
+import type { Ref } from "react";
+import { RssBanner } from "@/components/rss-banner";
 import { categories, type CategorySlug, type Story } from "@/lib/data";
 import { categoryPool } from "@/lib/categories.mjs";
+import { innovationRelatedStories } from "@/lib/home-selection.mjs";
 import messages from "@/lib/messages.json";
 import { positioning } from "@/lib/site-brand";
 import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
@@ -26,6 +29,7 @@ type HomeCopy = {
   innovation: string;
   innovationTitle: string;
   quickScan: string;
+  relatedReports: string;
   beats: string;
   beatsTitle: string;
   beatsDescription: string;
@@ -75,6 +79,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "创新",
     innovationTitle: "创新现场",
     quickScan: "快速浏览",
+    relatedReports: "相关报道",
     beats: "新闻方向",
     beatsTitle: "每个方向，一眼读懂。",
     beatsDescription: positioning["zh-CN"],
@@ -118,6 +123,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "創新",
     innovationTitle: "創新現場",
     quickScan: "快速瀏覽",
+    relatedReports: "相關報導",
     beats: "新聞方向",
     beatsTitle: "每個方向，一眼讀懂。",
     beatsDescription: positioning["zh-TW"],
@@ -161,6 +167,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "INNOVATION",
     innovationTitle: "THE INNOVATION FILE",
     quickScan: "QUICK SCAN",
+    relatedReports: "RELATED REPORTS",
     beats: "THE BEATS",
     beatsTitle: "EVERY DESK, AT A GLANCE.",
     beatsDescription: positioning["en"],
@@ -204,6 +211,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "ИННОВАЦИИ",
     innovationTitle: "ПОЛЕ ИННОВАЦИЙ",
     quickScan: "БЫСТРЫЙ ОБЗОР",
+    relatedReports: "ПО ТЕМЕ",
     beats: "НАПРАВЛЕНИЯ",
     beatsTitle: "КАЖДОЕ НАПРАВЛЕНИЕ — С ПЕРВОГО ВЗГЛЯДА.",
     beatsDescription: positioning["ru"],
@@ -247,6 +255,7 @@ const copy: Record<LocaleKey, HomeCopy> = {
     innovation: "INNOVATION",
     innovationTitle: "LE CARNET DE L'INNOVATION",
     quickScan: "EN UN COUP D'ŒIL",
+    relatedReports: "ARTICLES CONNEXES",
     beats: "LES RUBRIQUES",
     beatsTitle: "CHAQUE AXE, EN UN COUP D'ŒIL.",
     beatsDescription: positioning["fr"],
@@ -316,18 +325,22 @@ function ArchiveCard({ story, copy, prefix }: { story: Story; copy: HomeCopy; pr
   return <a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-archive-card ref-bottom-aligned-card ref-subgrid-card">{story.image ? <div className="ref-archive-image"><ImageStory story={story}/></div> : <div className="ref-media-placeholder" aria-hidden="true"/>}<Meta story={story} category={copy.categoryNames[story.category]} copy={copy} compact categoryOnly/><h3 className="ref-archive-title">{story.title}</h3><p className="ref-archive-time">{story.displayDate} / {story.readTime} {copy.minutes}</p></a>;
 }
 
+function RankedStory({ story, index, copy, prefix }: { story: Story; index: number; copy: HomeCopy; prefix: string }) {
+  return <a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-rank-story"><span className="ref-rank-number">{String(index + 1).padStart(2, "0")}</span><span><Meta story={story} category={copy.categoryNames[story.category]} copy={copy} compact categoryOnly/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {copy.minutes}</small></span></a>;
+}
+
 function takeRemaining(ordered: Story[], used: Set<string>, count: number, category?: CategorySlug) {
   const selected = ordered.filter((story) => (!category || story.category === category) && !used.has(story.slug)).slice(0, count);
   selected.forEach((story) => used.add(story.slug));
   return selected;
 }
 
-export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories: Story[]; locale: string; prefix?: string }) {
+export function ReferenceHome({ stories, locale, prefix = "/zh-CN", rootRef, staticEntry = false }: { stories: Story[]; locale: string; prefix?: string; rootRef?: Ref<HTMLElement>; staticEntry?: boolean }) {
   const language = localeKey(locale);
   const text = copy[language];
   const ordered = sortStories(stories.filter(story=>(story.lang || "en")===language));
   const hero = ordered[0];
-  if (!hero) return <main className="reference-home">
+  if (!hero) return <main className="reference-home" ref={rootRef} data-home-layout-static={staticEntry || undefined}>
     <h1 className="sr-only">{text.brandName} — {text.latestStories}</h1>
     <section className="ref-empty layout-wide px-5 pt-8 lg:px-8">
       <div className="ref-empty-inner">
@@ -336,21 +349,22 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
         <p className="ref-empty-description">{text.emptyDescription}</p>
       </div>
     </section>
-    <section className="ref-newsletter layout-wide px-5 pt-[var(--space-section)] lg:px-8" aria-labelledby="newsletter-heading"><div className="ref-newsletter-inner"><div><p className="ref-kicker">{text.newsletter}</p><h2 id="newsletter-heading" className="ref-newsletter-title">{text.newsletterTitle}</h2></div><div className="ref-newsletter-action"><p>{text.newsletterDescription}</p><a href={withPrefix(prefix, "/rss.xml")} className="ref-newsletter-button">{text.subscribe} <span aria-hidden="true">→</span></a><small>{text.rssNote}</small></div></div></section>
+    <RssBanner locale={language} />
   </main>;
 
   const used = new Set<string>([hero.slug]);
   const latest = takeRemaining(ordered, used, 6);
   const picks = categories.flatMap(category => takeRemaining(ordered, used, 1, category.slug)).slice(0,4);
-  const techIndex = categoryPool(ordered, "technology", 3);
+  const techIndex = categoryPool(ordered, "technology");
   const businessStories = categoryPool(ordered, "business", 4);
   const innovationStories = categoryPool(ordered, "innovation", 5);
   const deep = innovationStories[0];
+  const innovationRelated = innovationRelatedStories(ordered, deep);
   const techDetails = categoryPool(ordered, "technology", 8);
   const beatColumns = categories.map(category => ({category:category.slug,title:text.categoryNames[category.slug],stories:categoryPool(ordered,category.slug,3)}));
-  const additionalDesks = beatColumns.filter(({category}) => ["work-life","current-affairs","energy"].includes(category));
+  const additionalDesks = beatColumns.filter(({category}) => ["work-life","current-affairs","energy"].includes(category)).map(desk => ({...desk, stories: categoryPool(ordered, desk.category, 4)}));
 
-  return <main className="reference-home">
+  return <main className="reference-home" ref={rootRef} data-home-layout-static={staticEntry || undefined}>
     <h1 className="sr-only">{text.brandName} — {positioning[language]}</h1>
 
     <section className="ref-home-hero layout-wide px-5 pt-8 lg:px-8" aria-labelledby="latest-heading">
@@ -390,29 +404,29 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
     </section>
 
     {techIndex.length || businessStories.length ? <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby={techIndex.length ? "tech-index-heading" : "business-heading"}>
-      <div className="ref-two-column">
+      <div className="ref-two-column" data-height-matched-columns>
         {techIndex.length ? <div className="ref-tech-rank-column" data-category-section="technology">
           <SectionBar eyebrow={text.techIndex} title={text.techIndexTitle} href="/category/technology/" copy={text} prefix={prefix}/>
-          <div className="ref-rank-list" id="tech-index-heading">{techIndex.map((story, index) => <a key={`rank-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-rank-story"><span className="ref-rank-number">{String(index + 1).padStart(2, "0")}</span><span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact categoryOnly/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</div>
+          <div className="ref-rank-list" id="tech-index-heading" data-height-matched-list>{techIndex.map((story, index) => <RankedStory key={`rank-${story.slug}`} story={story} index={index} copy={text} prefix={prefix}/>)}</div>
         </div> : null}
-        {businessStories.length ? <div id="business-heading" data-category-section="business">
+        {businessStories.length ? <div id="business-heading" className="ref-business-column" data-category-section="business" data-height-reference>
           <SectionBar eyebrow={text.business} title={text.businessTitle} href="/category/business/" copy={text} prefix={prefix}/>
           <div className="ref-business-grid">{businessStories.map((story) => <CardStory key={`business-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
         </div> : null}
       </div>
     </section> : null}
 
-    {deep ? <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby="innovation-heading" data-category-section="innovation">
+    {deep ? <section className="ref-section layout-wide px-5 lg:px-8" aria-labelledby="innovation-heading">
       <SectionBar eyebrow={text.innovation} title={text.innovationTitle} href="/category/innovation/" copy={text} prefix={prefix}/>
       <div className="ref-innovation-grid">
-        <article className="ref-innovation-feature"><a href={withPrefix(prefix, `/post/${encodeURIComponent(deep.slug)}/`)}>{deep.image ? <div className="ref-innovation-image"><ImageStory story={deep} variant="feature"/></div> : null}<Meta story={deep} category={text.categoryNames[deep.category]} copy={text}/><h3 id="innovation-heading" className="ref-feature-title">{deep.title}</h3><p className="ref-feature-dek">{deep.dek}</p></a></article>
-        <aside className="ref-quick-scan"><p className="ref-kicker">{text.quickScan}</p><div className="ref-rule"/>{innovationStories.slice(1, 5).map((story) => <a key={`scan-${story.slug}`} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className={story.image ? "ref-scan-story" : "ref-scan-story ref-story-text-only"}>{story.image ? <div className="ref-scan-image"><ImageStory story={story} variant="thumbnail"/></div> : null}<span><Meta story={story} category={text.categoryNames[story.category]} copy={text} compact categoryOnly/><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></span></a>)}</aside>
+        <article className="ref-innovation-feature" data-category-section="innovation"><a href={withPrefix(prefix, `/post/${encodeURIComponent(deep.slug)}/`)}>{deep.image ? <div className="ref-innovation-image"><ImageStory story={deep} variant="feature"/></div> : null}<Meta story={deep} category={text.categoryNames[deep.category]} copy={text}/><h3 id="innovation-heading" className="ref-feature-title">{deep.title}</h3><p className="ref-feature-dek">{deep.dek}</p></a></article>
+        {innovationRelated.length ? <aside className="ref-quick-scan" aria-labelledby="innovation-related-heading" data-related-reports={deep.slug}><p id="innovation-related-heading" className="ref-kicker">{text.relatedReports}</p><div className="ref-rule"/><div className="ref-rank-list">{innovationRelated.map((story, index) => <RankedStory key={`scan-${story.slug}`} story={story} index={index} copy={text} prefix={prefix}/>)}</div></aside> : null}
       </div>
     </section> : null}
 
     {additionalDesks.filter(desk => desk.stories.length).map(({category,title,stories:categoryStories}) => <section key={category} className="ref-section layout-wide px-5 lg:px-8" aria-label={title} data-category-section={category}>
       <SectionBar eyebrow={text.beats} title={title} href={`/category/${category}/`} copy={text} prefix={prefix}/>
-      <div className="ref-archive-grid">{categoryStories.map(story => <CardStory key={story.slug} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
+      <div className="ref-archive-grid ref-desk-grid">{categoryStories.map(story => <CardStory key={story.slug} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]}/>)}</div>
     </section>)}
 
     <section className="ref-section ref-beats layout-wide px-5 lg:px-8" aria-labelledby="beats-heading">
@@ -425,9 +439,9 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN" }: { stories:
       <div className="ref-tech-feature-grid">{techDetails.slice(0, 3).map((story) => <article key={`tech-feature-${story.slug}`} className="ref-tech-feature ref-bottom-aligned-card"><a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)}>{story.image ? <div className="ref-tech-feature-image"><ImageStory story={story} variant="card"/></div> : <div className="ref-media-placeholder" aria-hidden="true"/>}<Meta story={story} category={text.categoryNames[story.category]} copy={text} categoryOnly/><h3 className="ref-feature-title">{story.title}</h3><p className="ref-feature-dek">{story.dek}</p><p className="ref-byline"><strong>{text.by} {story.author}</strong><span>{story.displayDate} / {story.readTime} {text.minutes}</span></p></a></article>)}</div>
     </section> : null}
 
-    <section className="ref-newsletter layout-wide px-5 pt-[var(--space-section)] lg:px-8" aria-labelledby="newsletter-heading"><div className="ref-newsletter-inner"><div><p className="ref-kicker">{text.newsletter}</p><h2 id="newsletter-heading" className="ref-newsletter-title">{text.newsletterTitle}</h2></div><div className="ref-newsletter-action"><p>{text.newsletterDescription}</p><a href={withPrefix(prefix, "/rss.xml")} className="ref-newsletter-button">{text.subscribe} <span aria-hidden="true">→</span></a><small>{text.rssNote}</small></div></div></section>
+    <RssBanner locale={language} />
 
-    <section className="ref-section ref-archive layout-wide px-5 lg:px-8" aria-labelledby="archive-heading"><SectionBar eyebrow={text.archive} title={text.latestStories} href="/all-news/" copy={text} prefix={prefix}/><div className="ref-archive-grid" id="archive-heading">{ordered.slice(0, 6).map((story) => <ArchiveCard key={story.slug} story={story} copy={text} prefix={prefix}/>)}</div></section>
+    <section className="ref-section ref-archive layout-wide px-5 lg:px-8" aria-labelledby="archive-heading"><SectionBar eyebrow={text.archive} title={text.latestStories} href="/all-news/" copy={text} prefix={prefix}/><div className="ref-archive-grid" id="archive-heading">{ordered.slice(0, 12).map((story) => <ArchiveCard key={story.slug} story={story} copy={text} prefix={prefix}/>)}</div></section>
   </main>;
 }
 

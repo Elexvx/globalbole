@@ -26,12 +26,14 @@ export function staticHomeHtml(html) {
   let clockScripts = 0;
   let preferenceScripts = 0;
   let tickerScripts = 0;
+  let homeLayoutScripts = 0;
   html = html.replace(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi, (tag, attributes, body) => {
     if (/\btype="application\/ld\+json"/i.test(attributes)) return tag;
     const src = attributes.match(/\bsrc="([^"]+)"/i)?.[1];
     if (src === '/site-clock.js') { clockScripts++; return tag; }
     if (src === '/site-preferences.js') { preferenceScripts++; return tag; }
     if (src === '/site-ticker.mjs') { tickerScripts++; return tag; }
+    if (src === '/site-home-layout.mjs') { homeLayoutScripts++; return tag; }
     if (src?.startsWith('/_next/static/') && /\.js(?:[?#]|$)/.test(src)) return '';
     if (!src && /^(?:\(self\.__next_f=|self\.__next_f\.push\()/.test(body.trim())) return '';
     throw new Error('Unknown executable script on static home; refusing to remove a possible feature');
@@ -46,6 +48,8 @@ export function staticHomeHtml(html) {
   if (!preferenceScripts) html = html.replace('</head>', '<script src="/site-preferences.js" defer></script></head>');
   assert.ok(tickerScripts <= 1, 'Only one root ticker enhancement is required');
   if (!tickerScripts) html = html.replace('</head>', '<script src="/site-ticker.mjs" type="module"></script></head>');
+  assert.ok(homeLayoutScripts <= 1, 'Only one root homepage layout enhancement is required');
+  if (!homeLayoutScripts) html = html.replace('</head>', '<script src="/site-home-layout.mjs" type="module"></script></head>');
   return html;
 }
 

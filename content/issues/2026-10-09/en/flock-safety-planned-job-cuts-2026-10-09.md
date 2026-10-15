@@ -8,7 +8,7 @@ category: "technology"
 author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-09"
-description: "Sources told Reuters Flock plans departures affecting about 18% of staff by late October. The company has not confirmed the plan, and privacy opposition alone does not establish its cause."
+description: "Sources told Reuters Flock plans departures affecting about 18% of staff by late October. Privacy opposition alone does not establish the cause of the departures."
 cover: "/news-media/2026-10-09/flock-safety-planned-job-cuts-2026-10-09.png"
 coverAlt: "AI-generated illustration: a generic surveillance camera, an empty desk and chair, and a privacy barrier"
 tags: ["Artificial intelligence", "Privacy protection", "United States", "Employment"]
@@ -16,7 +16,9 @@ readTime: 4
 draft: false
 ---
 
-Flock Safety plans to reduce its workforce by roughly 270 people, or about 18%, following a voluntary departure programme, Reuters reported on October 8, citing people with direct knowledge of the plans. Departures are expected at the end of October. The sources requested anonymity because the plan was not public, and Flock declined to comment. This is an attributed report of planned reductions, rather than a company-confirmed announcement or completed layoffs. [^1]
+Flock Safety plans to reduce its workforce by roughly 270 people, or about 18%, following a voluntary departure programme, Reuters reported on October 8, citing people with direct knowledge of the plans. Departures are expected at the end of October. The sources requested anonymity because the plan was not public, and Flock declined to comment. This is an attributed report of planned reductions, rather than completed layoffs. [^1]
+
+Updated 2026-10-15: on October 9, Flock confirmed a voluntary separation programme, but not the reported scale. [^4]
 
 ![AI-generated illustration: a generic surveillance camera, an empty desk and chair, and a privacy barrier](/news-media/2026-10-09/flock-safety-planned-job-cuts-2026-10-09.png)
 
@@ -44,10 +46,12 @@ The statement proposed requiring law-enforcement customers to use the Audit Assi
 
 The public record shows that the debate extends beyond whether to install cameras to who may search, how long data is held, who sets sharing boundaries and whether unusual use can be detected promptly. The workforce report makes implementation questions more salient. It does not, however, establish that privacy opposition directly caused all the reductions, or that the controls have consequently failed.
 
-Two developments warrant separate scrutiny: whether Flock confirms and implements the workforce plan at the reported scale, and whether promised safeguards are introduced within their stated scope and timetable. Verifying business changes and public accountability separately avoids turning anonymous reporting into a completed event, or a controversy into an established finding of wrongdoing.
+Two developments warrant separate scrutiny: whether eventual departures match the reported scale, and whether promised safeguards are introduced within their stated scope and timetable. Verifying business changes and public accountability separately avoids turning anonymous reporting into a completed event, or a controversy into an established finding of wrongdoing.
 
 [^1]: 2026-10-08, updated the same day · [AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say](https://ca.marketscreener.com/news/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-ce785ddfdc81f72d) · Reuters, republished by MarketScreener
 
 [^2]: 2026-09-03, updated the same day; poll closed 2026-08-31 · [Florida bans highway license-plate readers as backlash over surveillance spreads](https://www.marketscreener.com/news/florida-bans-highway-license-plate-readers-as-backlash-over-surveillance-spreads-ce785bdadb88ff20) · Reuters, republished by MarketScreener
 
 [^3]: 2026-08-13 · [Flock Updates Privacy, Accountability, Security, and Transparency Safeguards](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency) · Flock Safety, Garrett Langley
+
+[^4]: 2026-10-09 (accessed 2026-10-15) · The Hill, via AOL · [Flock offers voluntary separation packages to staff amid camera backlash](https://www.aol.com/articles/flock-offers-voluntary-separation-packages-151321000.html)

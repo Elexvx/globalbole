@@ -18,7 +18,9 @@ readTime: 5
 draft: false
 ---
 
-Nepal decided on October 5 to shift the response to the August 26 Bhotekoshi–Trishuli floods toward rehabilitation and reconstruction, ending non-essential active searches while retaining emergency operations. The change marks a new phase of disaster management. It does not mean affected communities are back to normal or that the question of missing people has been resolved.[^1][^2]
+*Updated October 15, 2026.*
+
+Nepal decided on October 5 to shift the response to the August 26 Bhotekoshi–Trishuli floods toward rehabilitation and reconstruction, ending non-essential active searches while retaining emergency operations. The change marks a new phase of disaster management. It does not mean affected communities are back to normal or that the question of missing people has been resolved.[^1][^2] The Executive Committee had initiated this shift on September 30, retaining essential searches.[^5]
 
 ![AI-generated editorial illustration: a mountain valley, bridge and houses symbolizing disaster recovery](/news-media/2026-10-06/nepal-recovery-editorial.png)
 
@@ -26,13 +28,13 @@ Nepal decided on October 5 to shift the response to the August 26 Bhotekoshi–T
 
 ## Recovery extends beyond the search phase
 
-Reuters reported on October 5, citing Nepalese officials, that at least 1,455 people had died, 5,285 remained missing and 13,795 had been rescued. The head of the National Disaster Risk Reduction and Management Authority said remains and property encountered during rehabilitation would still be recovered, with emergency rescues continuing when needed. These were the figures reported at that time; missing people must not simply be added to the confirmed death toll.[^1]
+Reuters reported on October 5, citing Nepalese officials, a death tally of 1,455 (including human remains)[^6], 5,285 people missing and 13,795 people rescued. The head of the National Disaster Risk Reduction and Management Authority said remains and property encountered during rehabilitation would still be recovered, with emergency rescues continuing when needed. These were the figures reported at that time.[^1] Missing records may include unidentified remains, rescued people and duplicates.[^6]
 
 The disaster occurred on August 26, rather than in early October. Nepal’s Foreign Ministry had already documented on September 8 that communities along the river in Rasuwa, Nuwakot, Dhading and other districts had suffered damage to homes, roads, bridges and hydropower infrastructure. Tunnel rescues, identification efforts and the restoration of connections were still being coordinated then.[^3] This chronology distinguishes the river-basin disaster from subsequent monsoon rainfall and the new recovery decision.
 
 ## Estimated needs are not money already available
 
-According to local outlet Onlinekhabar, the National Council for Disaster Risk Reduction and Management recommended on October 5 that the Finance Ministry approve NPR 559.17 billion for 504 rehabilitation and reconstruction plans submitted by ministries and agencies. Further budget recommendations would follow for projects without completed cost estimates or established priorities.[^2]
+According to local outlet Onlinekhabar, the National Council for Disaster Risk Reduction and Management recommended on October 5 that the Finance Ministry approve NPR 559.17 billion for 504 rehabilitation and reconstruction plans submitted by ministries and agencies. Further budget recommendations would follow for projects without completed cost estimates or established priorities.[^2] The official notice specifies NPR 559,177,227,000 for Finance Ministry approval.[^7]
 
 Reuters also reported that authorities had previously estimated early recovery and rehabilitation needs at nearly US$5 billion.[^1] The currencies, plans covered and estimation stages differ. The two figures should not be treated as the same pot of secured funding. Progress will depend on which projects begin first, when money is disbursed, and how housing, transport, electricity and public services are coordinated.
 
@@ -40,7 +42,7 @@ Restored roads and bridges can bring construction equipment and relief supplies 
 
 ## Hydropower projects need individual reassessment
 
-Discussions about energy reconstruction were already underway. On September 30, Onlinekhabar cited the Energy Ministry as saying the August 26 floods had damaged 14 hydropower projects with a combined capacity of around 783 MW. Detailed post-disaster needs assessments and project-specific studies were still being developed. This count concerns damaged projects; it is not interchangeable with reports counting destroyed projects, nor does it establish that all 783 MW had been operating or were permanently lost.[^4]
+Discussions about energy reconstruction were already underway. On September 30, Onlinekhabar cited the Energy Ministry as saying the August 26 floods had damaged 14 hydropower projects with a combined capacity of around 783 MW. Detailed post-disaster needs assessments and project-specific studies were still being developed. This count concerns damaged projects; it is not interchangeable with reports counting destroyed projects, nor does it establish that all 783 MW had been operating or were permanently lost.[^4] The earlier RDNA’s 783.385 MW combines hydro and solar, including construction-stage capacity.[^8]
 
 The report said authorities had not decided whether every project would be rebuilt in its original form. Regulators were studying technical safety standards, disaster warnings and risk-based insurance. Extensions of loan terms or operating periods and financing concessions were also under discussion, rather than adopted support policies.[^4]
 
@@ -56,3 +58,11 @@ Recovery therefore needs to be followed on two tracks: physical works such as ro
 [^2]: 2026-10-05 · [Government suspends Bhotekoshi-Trishuli flood search and rescue, except urgent operations](https://english.onlinekhabar.com/government-suspends-bhotekoshi-trishuli-flood-search-and-rescue-except-urgent-operations.html) · Onlinekhabar.
 [^3]: 2026-09-08 · [Daily Situation Update on Bhote Koshi River Floods- 08 September 2026](https://www.mofa.gov.np/content/1881/daily-update-8-september-bhote-koshi-flood/) · Nepal Ministry of Foreign Affairs, updated at 14:00 Nepal time.
 [^4]: 2026-09-30 · [Government seeks reconstruction model for flood-damaged hydropower projects](https://english.onlinekhabar.com/government-seeks-reconstruction-model-for-flood-damaged-hydropower-projects.html) · Onlinekhabar, Krishna Singh Dhami.
+
+[^5]: 2026-09-30 · [Bhotekoshi flood: Decision to move to the search and recovery phase [title translated]](https://ndrrma.gov.np/np/news/240) · NDRRMA · Accessed 2026-10-15.
+
+[^6]: 2026-10-03 · [Bhotekoshi–Trishuli flood search, rescue and relief update (2026-08-26–2026-10-03) [title translated]](https://nset.org.np/wp-content/uploads/2026/09/Rasuwa-Bhotekoshi_Flood_Report_2083_Asoj_17.pdf) · NDRRMA · Accessed 2026-10-15.
+
+[^7]: 2026-10-05 · [Budget recommended for reconstruction and rehabilitation after the Rasuwa flood [title translated]](https://ndrrma.gov.np/np/news/241) · NDRRMA · Accessed 2026-10-15.
+
+[^8]: 2026-09 · [Rapid Damage and Needs Assessment (RDNA): Rasuwa-Bhotekoshi Flood 2026](https://nset.org.np/wp-content/uploads/2026/09/1.pdf) · NDRRMA · Accessed 2026-10-15. Cutoff: 2026-09-03.

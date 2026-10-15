@@ -40,13 +40,13 @@ draft: false
 
 ## 企业承诺与政府职责是两个层面
 
-9月29日的《白宫超级智能协议》由特朗普与Google、Anthropic、Meta、OpenAI、xAI及英伟达代表签署，重点是企业内部控制、内部检查、独立外部评估和董事会监督。协议原文为未来将相关措施写入法律或监管规则留下空间。新工作组所要梳理的，则是政府如何组织自身的职责和响应，两者相互关联，却不能彼此替代。[^3]
+9月29日白宫会议后，众议院议长迈克·约翰逊将企业承诺描述为自愿开展内部控制、内部和外部检查，并表示国会会继续评估和讨论。这些讲话涉及企业行为及立法机关的后续角色，不能据此认定新工作组的授权范围或执法权限。[^3]
 
 同日签署的第14434号行政命令主要调整政府用语，要求在法律允许的范围内以“超级智能”替代“人工智能”。命令暂时沿用现有法律中的AI定义，并另行要求科学技术顾问在60天内提交立法定义建议。这项60天任务与报道中的120天风险报告不是同一个程序；名称变化也不能证明技术已经跨过某个能力门槛。[^4]
 
 接下来，报告是否公开、如何说明证据，以及哪些建议可用现有权限执行，将比工作组名称更有信息价值。若最终材料能够把风险、负责机构和可采取的措施逐项对应，外界才有条件检验协调机制是否补上缺口。若只重申技术领先与安全并重，企业自愿承诺如何转化为可核查的公共保障，仍会是未解的问题。
 
-[^1]: 2026-10-04 · 特朗普宣布成立工作组的Truth Social帖文，[“Following the Historic White House Accord on Super Intelligence…”](https://www.trumpstruth.org/statuses/42126) · Trump’s Truth存档；[原始帖文](https://truthsocial.com/@realDonaldTrump/117382616783706638)
+[^1]: 2026-10-04 · 特朗普宣布成立工作组的Truth Social帖文，[10月4日宣布成立超级智能工作组的帖文（描述性标签）](https://www.trumpstruth.org/statuses/42126) · Trump’s Truth存档；[原始帖文](https://truthsocial.com/@realDonaldTrump/117382616783706638)
 [^2]: 2026-10-04 · [Trump names intelligence chief Clayton as AI czar, to head task force](https://www.marketscreener.com/news/latest/Trump-names-intelligence-chief-Clayton-as-AI-czar-to-head-task-force-12373826/)（特朗普任命情报总监克莱顿牵头AI工作组）· Reuters，MarketScreener转载；120天报告及章程细节援引《华尔街日报》
-[^3]: 2026-09-29 · [White House Accord on Super Intelligence](https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence)（白宫超级智能协议）· 白宫协议原文，美国总统文献项目收录
+[^3]: 2026-09-29 · [《约翰逊议长与特朗普总统及超级智能行业领袖会面后向媒体发表讲话》〔译题〕](https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2939) · 迈克·约翰逊议长办公室，官方讲话。查阅2026-10-15。
 [^4]: 2026-09-29 · [Inaugurating the Era of Super Intelligence](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/)（开启超级智能时代）· 白宫，第14434号行政命令

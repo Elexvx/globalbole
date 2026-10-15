@@ -40,13 +40,13 @@ draft: false
 
 ## 企業承諾與政府職責是兩個層面
 
-9月29日的《白宮超級智慧協議》由川普與Google、Anthropic、Meta、OpenAI、xAI及輝達代表簽署，重點是企業內部控制、內部檢查、獨立外部評估和董事會監督。協議原文為未來將相關措施納入法律或監管規則保留空間。新工作小組所要釐清的，則是政府如何組織自身的職責和應變，兩者相互關聯，卻不能彼此替代。[^3]
+9月29日白宮會議後，眾議院議長麥克·強生將企業承諾描述為自願進行內部控制、內部和外部檢查，並表示國會會繼續評估與討論。這些談話涉及企業行為及立法機關的後續角色，不能據此認定新工作小組的授權範圍或執法權限。[^3]
 
 同日簽署的第14434號行政命令主要調整政府用語，要求在法律允許的範圍內以「超級智慧」取代「人工智慧」。命令暫時沿用現有法律中的AI定義，並另行要求科學技術顧問在60天內提交立法定義建議。這項60天任務與報導中的120天風險報告不是同一個程序；名稱變化也不能證明技術已經跨過某個能力門檻。[^4]
 
 接下來，報告是否公開、如何說明證據，以及哪些建議可用現有權限執行，將比工作小組名稱更有資訊價值。若最終資料能夠把風險、負責機關和可採取的措施逐項對應，外界才有條件檢驗協調機制是否補上缺口。若只重申技術領先與安全並重，企業自願承諾如何轉化為可查證的公共保障，仍會是未解的問題。
 
-[^1]: 2026-10-04 · 川普宣布成立工作小組的Truth Social貼文，[“Following the Historic White House Accord on Super Intelligence…”](https://www.trumpstruth.org/statuses/42126) · Trump’s Truth存檔；[原始貼文](https://truthsocial.com/@realDonaldTrump/117382616783706638)
+[^1]: 2026-10-04 · 川普宣布成立工作小組的Truth Social貼文，[10月4日宣布成立超級智慧工作小組的貼文（描述性標籤）](https://www.trumpstruth.org/statuses/42126) · Trump’s Truth存檔；[原始貼文](https://truthsocial.com/@realDonaldTrump/117382616783706638)
 [^2]: 2026-10-04 · [Trump names intelligence chief Clayton as AI czar, to head task force](https://www.marketscreener.com/news/latest/Trump-names-intelligence-chief-Clayton-as-AI-czar-to-head-task-force-12373826/)（川普任命情報總監克萊頓領導AI工作小組）· Reuters，MarketScreener轉載；120天報告及章程細節援引《華爾街日報》
-[^3]: 2026-09-29 · [White House Accord on Super Intelligence](https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence)（白宮超級智慧協議）· 白宮協議原文，美國總統文獻計畫收錄
+[^3]: 2026-09-29 · [《強生議長與川普總統及超級智慧產業領袖會面後向媒體發表談話》〔譯題〕](https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2939) · 麥克·強生議長辦公室，官方談話。查閱2026-10-15。
 [^4]: 2026-09-29 · [Inaugurating the Era of Super Intelligence](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/)（開啟超級智慧時代）· 白宮，第14434號行政命令

@@ -8,7 +8,7 @@ category: "technology"
 author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-09"
-description: "Selon des sources de Reuters, environ 18 % des salariés partiraient fin octobre. Flock n’a pas confirmé ce projet, dont la contestation liée à la vie privée ne suffit pas à établir la cause."
+description: "Selon des sources de Reuters, environ 18 % des salariés partiraient fin octobre. La contestation liée à la vie privée ne suffit pas à établir la cause des départs."
 cover: "/news-media/2026-10-09/flock-safety-planned-job-cuts-2026-10-09.png"
 coverAlt: "Illustration générée par IA : caméra de surveillance générique, bureau et chaise vides, et barrière de confidentialité"
 tags: ["Intelligence artificielle", "Protection de la vie privée", "États-Unis", "Emploi"]
@@ -16,7 +16,9 @@ readTime: 4
 draft: false
 ---
 
-Flock Safety prévoit de réduire ses effectifs d’environ 270 personnes, soit près de 18 %, après un programme de départs volontaires, a rapporté Reuters le 8 octobre en citant des personnes directement informées du projet. Les départs seraient prévus pour la fin octobre. Les sources ont demandé l’anonymat, le plan n’étant pas public, et Flock a refusé de commenter. Il s’agit donc d’une information attribuée sur des réductions envisagées, et non d’une annonce confirmée par l’entreprise ou de licenciements déjà réalisés. [^1]
+Flock Safety prévoit de réduire ses effectifs d’environ 270 personnes, soit près de 18 %, après un programme de départs volontaires, a rapporté Reuters le 8 octobre en citant des personnes directement informées du projet. Les départs seraient prévus pour la fin octobre. Les sources ont demandé l’anonymat, le plan n’étant pas public, et Flock a refusé de commenter. Il s’agit donc d’une information attribuée sur des réductions envisagées, et non de licenciements déjà réalisés. [^1]
+
+Actualisé le 2026-10-15 : le 9 octobre, Flock a confirmé un programme de départs volontaires, pas les chiffres rapportés. [^4]
 
 ![Illustration générée par IA : caméra de surveillance générique, bureau et chaise vides, et barrière de confidentialité](/news-media/2026-10-09/flock-safety-planned-job-cuts-2026-10-09.png)
 
@@ -44,10 +46,12 @@ Le texte prévoit d’imposer aux clients des forces de l’ordre, d’ici fin 2
 
 Les documents publics montrent que le débat ne porte plus seulement sur l’installation de caméras. Il concerne aussi les personnes autorisées à consulter les données, leur durée de conservation, les règles de partage et la détection rapide d’usages inhabituels. L’information sur les effectifs rend ces questions de mise en œuvre plus importantes. Elle n’établit toutefois ni que la contestation liée à la vie privée a directement causé toutes les suppressions de postes, ni que les contrôles ont, de ce fait, échoué.
 
-Deux évolutions doivent être suivies séparément : la confirmation et l’application éventuelles du plan d’effectifs à l’échelle rapportée, et la mise en œuvre des garanties promises dans leur périmètre et leur calendrier. Vérifier séparément les changements économiques et la responsabilité publique évite de transformer une information anonyme en événement accompli, ou une controverse en constat établi de manquement.
+Deux évolutions doivent être suivies séparément : le nombre final de départs comparé aux estimations rapportées, et la mise en œuvre des garanties promises dans leur périmètre et leur calendrier. Vérifier séparément les changements économiques et la responsabilité publique évite de transformer une information anonyme en événement accompli, ou une controverse en constat établi de manquement.
 
 [^1]: 2026-10-08, mise à jour le même jour · [La jeune entreprise de surveillance par IA Flock Safety va supprimer plusieurs centaines de postes sur fond de contestation, selon des sources](https://ca.marketscreener.com/news/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-ce785ddfdc81f72d) · Reuters, repris par MarketScreener · Titre original : AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say
 
 [^2]: 2026-09-03, mise à jour le même jour ; sondage clos le 2026-08-31 · [La Floride interdit les lecteurs de plaques sur les routes d’État alors que la contestation de la surveillance s’étend](https://www.marketscreener.com/news/florida-bans-highway-license-plate-readers-as-backlash-over-surveillance-spreads-ce785bdadb88ff20) · Reuters, repris par MarketScreener · Titre original : Florida bans highway license-plate readers as backlash over surveillance spreads
 
 [^3]: 2026-08-13 · [Flock actualise ses garanties de confidentialité, de responsabilité, de sécurité et de transparence](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency) · Flock Safety, Garrett Langley · Titre original : Flock Updates Privacy, Accountability, Security, and Transparency Safeguards
+
+[^4]: 2026-10-09 (consulté 2026-10-15) · The Hill, repris par AOL · [Titre traduit : Flock propose des offres de départ volontaire au personnel alors que ses caméras sont contestées](https://www.aol.com/articles/flock-offers-voluntary-separation-packages-151321000.html)

@@ -1,6 +1,7 @@
 "use client";
 
-import { Text } from "@/lib/i18n";
+import { Text, useI18n } from "@/lib/i18n";
+import { RssBanner } from "@/components/rss-banner";
 
 
 import { storyHref } from "@/lib/links";
@@ -126,18 +127,8 @@ export function StoryCard({
 }
 
 export function Newsletter({ compact = false }: { compact?: boolean }) {
-  return (
-    <section className={"subscription-banner w-full border-y-[0.1875rem] border-border-strong bg-accent text-accent-foreground " + (compact ? "my-8" : "my-12")}>
-      <div className="layout-wide px-5 py-8 text-accent-foreground sm:flex sm:items-center sm:justify-between sm:gap-8 lg:px-8">
-        <div>
-          <p className="kicker text-accent-foreground"><Text value="The Daily Whip"/></p>
-          <h2 className="headline mt-2 font-black "><Text value="The sharpest read in your feed."/></h2>
-          <p className="mt-3 max-w-xl text-sm leading-6 text-accent-foreground"><Text value="Reporting across technology, finance, work, current affairs and energy."/></p>
-        </div>
-        <div className="mt-6 sm:mt-0"><Link href="/rss.xml" className="inline-flex rounded-full bg-accent-foreground px-5 py-3 text-xs font-bold uppercase tracking-[0.1em] text-accent"><Text value="Subscribe via RSS →"/></Link><p className="mt-3 text-xs"><Text value="Free RSS feed · No email collection"/></p></div>
-      </div>
-    </section>
-  );
+  const { locale } = useI18n();
+  return <RssBanner locale={locale} compact={compact} />;
 }
 
 export function Pagination({ page, totalPages }: { page: number; totalPages: number }) {

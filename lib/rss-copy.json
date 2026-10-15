@@ -1,0 +1,32 @@
+{
+  "zh-CN": {
+    "newsletter": "每日简报",
+    "newsletterTitle": "把重要变化送进你的阅读器。",
+    "subscribe": "订阅",
+    "rssNote": "免费 RSS · 不收集邮箱"
+  },
+  "zh-TW": {
+    "newsletter": "每日簡報",
+    "newsletterTitle": "把重要變化送進你的閱讀器。",
+    "subscribe": "訂閱",
+    "rssNote": "免費 RSS · 不收集信箱"
+  },
+  "en": {
+    "newsletter": "THE DAILY BRIEF",
+    "newsletterTitle": "The sharpest read in your feed.",
+    "subscribe": "SUBSCRIBE",
+    "rssNote": "Free RSS feed · No email collection"
+  },
+  "ru": {
+    "newsletter": "ЕЖЕДНЕВНАЯ СВОДКА",
+    "newsletterTitle": "Главное — прямо в вашей ленте.",
+    "subscribe": "ПОДПИСАТЬСЯ",
+    "rssNote": "Бесплатный RSS · Без сбора адресов"
+  },
+  "fr": {
+    "newsletter": "LA BRÈVE DU JOUR",
+    "newsletterTitle": "Le meilleur de la lecture, dans votre fil.",
+    "subscribe": "S'ABONNER",
+    "rssNote": "Flux RSS gratuit · Aucun e-mail collecté"
+  }
+}

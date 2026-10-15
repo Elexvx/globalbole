@@ -11,7 +11,7 @@ export default function HomePage() {
   return <>
     <JsonLd data={routeSeo("zh-CN").schema} />
     <StaticSiteHeader />
-    <ReferenceHome stories={localizedStories} locale="zh-CN" prefix="/zh-CN" />
+    <ReferenceHome stories={localizedStories} locale="zh-CN" prefix="/zh-CN" staticEntry />
     <StaticSiteFooter />
   </>;
 }

@@ -178,14 +178,14 @@
       "google-gemini-work-agents-2026-10-09",
       "lg-energy-solution-q3-profit-2026-10-09",
       "ai-infrastructure-revenue-gap-2026-10-04",
-      "eu-rapid-trade-response-2026-10-06"
+      "eu-rapid-trade-response-2026-10-06",
+      "us-ai-voluntary-safety-accord-2026-10-04"
     ],
     "note": "Screening flags are review priorities, not findings of legal infringement or complete factual clearance. Remaining topics require further source-by-source review. Withdrawal tombstone and republish:false remain in force.",
     "remainingReviewTopics": [
       "anthropic-ipo-government-policy-risk-2026-10-03",
       "north-korea-missile-drill-2026-10-04",
       "ukraine-russian-refineries-infrastructure-2026-10-04",
-      "us-ai-voluntary-safety-accord-2026-10-04",
       "brazil-presidential-runoff-2026-10-05",
       "us-ai-task-force-report-2026-10-05",
       "us-supreme-court-climate-liability-2026-10-05",
@@ -205,7 +205,7 @@
       "us-perm-suspension-tcs-2026-10-10",
       "us-ai-server-export-guilty-plea-2026-10-11"
     ],
-    "remainingReviewCount": 22
+    "remainingReviewCount": 21
   },
   "imageReview": {
     "selected": 3,
@@ -218,19 +218,24 @@
     "Subscription banner kicker contrast aligned with banner foreground.",
     "Long article links and table-of-contents labels may wrap without horizontal overflow.",
     "Legacy structured paragraphs use the established body typography.",
-    "New archival photograph captions and credits use the established caption typography."
+    "New archival photograph captions and credits use the established caption typography.",
+    "Homepage ranked technology list fits complete rows within the adjacent business column at desktop widths; single-column reading remains natural.",
+    "Three additional homepage desks display four cards per desktop row with shared image proportions and spacing.",
+    "Homepage innovation feature pairs one lead with a compact related-report list retaining actual categories.",
+    "Homepage archive preview displays twelve articles and links to the existing paginated archive.",
+    "Homepage, category, tag and archive pages share one localized RSS banner and verified feed destinations."
   ],
-  "publicationStatus": "Catch-up release verified on production commit cc917c31f904bc555e161e7555ff805da6e59f37. Subsequent trade-repair package requires its own exact-commit preview and production verification.",
+  "publicationStatus": "Previous revisions verified in production through commit 84d36224989d09f49af4a3086fcb3ef05190aebd. This further revision requires exact-commit preview and production verification.",
   "localValidation": {
     "tests": {
-      "passed": 76,
+      "passed": 89,
       "failed": 0
     },
     "build": "passed",
     "typescript": "passed",
     "staticExport": {
       "htmlPages": 3670,
-      "localReferences": 234679,
+      "localReferences": 234860,
       "withdrawnTopicsAbsent": 1
     },
     "seo": {
@@ -254,6 +259,26 @@
       "reviewDate": "2026-10-15",
       "audit": "docs/news-media/2026-10-06/trade-repair-2026-10-15.json",
       "remainingSourceUseReviewFlags": 22
+    },
+    {
+      "article": "us-ai-voluntary-safety-accord-2026-10-04",
+      "reviewDate": "2026-10-15",
+      "audit": "docs/news-media/2026-10-04/ai-accord-repair-2026-10-15.json",
+      "dependentArticle": "us-ai-task-force-report-2026-10-05",
+      "dependentScope": "Corresponding background and source-label changes only; other source-use review remains open.",
+      "remainingSourceUseReviewFlags": 21
+    },
+    {
+      "article": "flock-safety-planned-job-cuts-2026-10-09",
+      "reviewDate": "2026-10-15",
+      "status": "Limited factual correction; source-use review remains open.",
+      "remainingSourceUseReviewFlags": 21
+    },
+    {
+      "article": "nepal-flood-recovery-2026-10-06",
+      "reviewDate": "2026-10-15",
+      "status": "Limited factual correction; source-use review remains open.",
+      "remainingSourceUseReviewFlags": 21
     }
   ]
 }

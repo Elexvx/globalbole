@@ -673,8 +673,14 @@ a:hover .ref-image {
 
 .ref-two-column {
   display: grid;
+  align-items: start;
   gap: 2.5rem;
 }
+
+.ref-two-column > * { min-width: 0; }
+
+/* Whole rows are hidden by measured fitting, never clipped or stretched. */
+.ref-rank-story[hidden] { display: none; }
 
 .ref-rank-list {
   margin-top: .25rem;
@@ -1298,6 +1304,15 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 
 .type-caption { font-size: var(--type-caption); line-height: 1.6; }
 
+
+/* The three additional desks share one card grid: 1 / 2 / 4 columns. */
+.ref-desk-grid { grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 40rem) {
+  .ref-desk-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 64rem) {
+  .ref-desk-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
 
 /* Keep the original three-column front page. The lead defines the row height,
    so long translated sidebars cannot create a blank panel below the lead.

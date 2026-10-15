@@ -238,45 +238,55 @@
           "sourceDate": "2026-10-03",
           "sources": [
             {
-              "title": "White House Accord on Super Intelligence",
               "url": "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence",
               "date": "2026-09-29",
-              "type": "primary"
+              "type": "primary",
+              "accessed": "2026-10-15"
             },
             {
-              "title": "签署文件扫描件",
               "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/accord.pdf",
               "date": "2026-09-29",
-              "type": "primary"
+              "type": "primary",
+              "accessed": "2026-10-15"
             },
             {
-              "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
               "url": "https://www.aol.com/articles/public-fears-ai-grow-trump-100531000.html",
               "date": "2026-10-03",
-              "type": "original_reporting"
+              "type": "original_reporting",
+              "accessed": "2026-10-15"
             },
             {
               "title": "President Donald J. Trump hosts a luncheon on Super Intelligence, September 29, 2026",
               "url": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
               "date": "2026-09-29",
-              "type": "primary"
+              "type": "primary",
+              "accessed": "2026-10-15"
             },
             {
-              "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
               "url": "https://www.streetinsider.com/Reuters/Three%2Bout%2Bof%2Bfour%2BAmericans%2Bsay%2BAI%2Bfirms%2Bnot%2Bdoing%2Benough%2Bto%2Bprevent%2Bdisaster%2C%2BReutersIpsos%2Bpoll%2Bfinds/27087010.html",
               "date": "2026-09-22",
-              "type": "original_reporting"
+              "type": "original_reporting",
+              "accessed": "2026-10-15"
             },
             {
               "title": "Inaugurating the Era of Super Intelligence",
               "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
               "date": "2026-09-29",
-              "type": "primary"
+              "type": "primary",
+              "accessed": "2026-10-15"
             },
             {
               "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
               "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
               "date": "2023-01-26",
+              "type": "primary",
+              "accessed": "2026-10-15"
+            },
+            {
+              "title": "Speaker Johnson Addresses Press Following Meeting with President Trump, Super Intelligence Industry Leaders",
+              "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2939",
+              "date": "2026-09-29",
+              "accessed": "2026-10-15",
               "type": "primary"
             }
           ]
@@ -315,9 +325,10 @@
               "type": "secondary"
             },
             {
-              "title": "白宫：9月29日超级智能协议（背景）",
-              "url": "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence",
+              "title": "Speaker Johnson Addresses Press Following Meeting with President Trump, Super Intelligence Industry Leaders",
+              "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2939",
               "date": "2026-09-29",
+              "accessed": "2026-10-15",
               "type": "primary"
             },
             {
@@ -669,9 +680,41 @@
               "url": "https://english.onlinekhabar.com/government-seeks-reconstruction-model-for-flood-damaged-hydropower-projects.html",
               "date": "2026-09-30",
               "type": "original_reporting"
+            },
+            {
+              "title": "Bhotekoshi flood: Decision to move to the search and recovery phase [title translated]",
+              "url": "https://ndrrma.gov.np/np/news/240",
+              "date": "2026-09-30",
+              "accessed": "2026-10-15",
+              "type": "primary",
+              "publisher": "NDRRMA"
+            },
+            {
+              "title": "Bhotekoshi–Trishuli flood search, rescue and relief update (2026-08-26–2026-10-03) [title translated]",
+              "url": "https://nset.org.np/wp-content/uploads/2026/09/Rasuwa-Bhotekoshi_Flood_Report_2083_Asoj_17.pdf",
+              "date": "2026-10-03",
+              "accessed": "2026-10-15",
+              "type": "primary",
+              "publisher": "NDRRMA"
+            },
+            {
+              "title": "Budget recommended for reconstruction and rehabilitation after the Rasuwa flood [title translated]",
+              "url": "https://ndrrma.gov.np/np/news/241",
+              "date": "2026-10-05",
+              "accessed": "2026-10-15",
+              "type": "primary",
+              "publisher": "NDRRMA"
+            },
+            {
+              "title": "Rapid Damage and Needs Assessment (RDNA): Rasuwa-Bhotekoshi Flood 2026",
+              "url": "https://nset.org.np/wp-content/uploads/2026/09/1.pdf",
+              "date": "2026-09",
+              "accessed": "2026-10-15",
+              "type": "primary",
+              "publisher": "NDRRMA"
             }
           ],
-          "note": "October 5 recovery-stage decision after August 26 flood; essential emergency rescues continue. Missing persons are not counted as confirmed dead. Budget recommendation and dollar-denominated recovery estimate are distinct.",
+          "note": "October 5 recovery-stage decision after August 26 flood; essential emergency rescues continue. Budget recommendation and dollar-denominated recovery estimate are distinct.",
           "underlyingEventDate": "2026-08-26"
         },
         {
@@ -852,9 +895,17 @@
               "publisher": "Flock Safety",
               "type": "primary",
               "accessed": "2026-10-09"
+            },
+            {
+              "title": "译题：摄像头遭反对，Flock向员工提供自愿离职方案",
+              "url": "https://www.aol.com/articles/flock-offers-voluntary-separation-packages-151321000.html",
+              "date": "2026-10-09",
+              "publisher": "The Hill / AOL",
+              "type": "original_reporting",
+              "accessed": "2026-10-15"
             }
           ],
-          "note": "Reported planned departures at October month-end; company declined comment. Poll closed August 31 and was reported September 3. No current valuation asserted; company safeguards and future targets are attributed."
+          "note": "Reported planned departures at October month-end; company declined comment to Reuters on October 8. Poll closed August 31 and was reported September 3. No current valuation asserted; company safeguards and future targets are attributed."
         },
         {
           "translationKey": "china-yuan-policy-europe-trade-2026-10-09",
@@ -2214,6 +2265,18 @@
       ],
       "audit": "docs/news-media/2026-10-06/trade-repair-2026-10-15.json",
       "note": "Rebuilt five editions around verified licensed institutional background with bounded reporting kernels; retained original routes, publication date and existing illustration."
+    },
+    {
+      "date": "2026-10-15",
+      "type": "source-use-and-depth-revision",
+      "articles": [
+        "us-ai-voluntary-safety-accord-2026-10-04"
+      ],
+      "dependentBackgroundRevision": [
+        "us-ai-task-force-report-2026-10-05"
+      ],
+      "audit": "docs/news-media/2026-10-04/ai-accord-repair-2026-10-15.json",
+      "note": "Revised five editions and the corresponding background citation in five related editions; retained publication dates, routes and existing photographs. Other source-review findings for the related article remain open."
     }
   ]
 }

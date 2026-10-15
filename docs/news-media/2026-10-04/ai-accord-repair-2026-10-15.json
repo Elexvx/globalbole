@@ -1,0 +1,35 @@
+{
+  "translationKey": "us-ai-voluntary-safety-accord-2026-10-04",
+  "reviewedAt": "2026-10-15",
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "status": "editorial-review-passed",
+  "eventDate": "2026-09-29",
+  "originalPublicationDate": "2026-10-04",
+  "media": "All three existing official photographs, image paths and visible credits retained without byte changes.",
+  "rightsTreatment": {
+    "jointCommitment": "No broad reuse exception assumed; one conservative source-use allocation spans related editions and public source metadata.",
+    "governmentSources": "Only independently identified official text is used; third-party material and archive presentation are excluded.",
+    "technicalFramework": "The employee-authored Technical Series grant is applied with source credit and adaptation and translation notices."
+  },
+  "dependency": {
+    "translationKey": "us-ai-task-force-report-2026-10-05",
+    "scope": "Background paragraph, its source note, and descriptive label for the separately archived announcement; corresponding public source entry only.",
+    "otherFindings": "Remain open; this is not full review clearance for the related article."
+  },
+  "preserved": [
+    "routes",
+    "translationKey",
+    "issue",
+    "date",
+    "category",
+    "author",
+    "image files and paths",
+    "visible photographic credits"
+  ]
+}

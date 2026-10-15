@@ -1,5 +1,5 @@
 ---
-title: "路透：Flock Safety拟削减约270个岗位，隐私争议下的经营调整待确认"
+title: "路透：Flock Safety拟削减约270个岗位"
 slug: "flock-safety-planned-job-cuts-2026-10-09"
 translationKey: "flock-safety-planned-job-cuts-2026-10-09"
 issue: "2026-10-09"
@@ -8,7 +8,7 @@ category: "technology"
 author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-09"
-description: "路透援引知情人士称Flock拟于10月底减少约18%员工，公司未予确认；此前隐私政策调整与公众分歧构成背景，但不能据此断定裁员原因。"
+description: "路透援引知情人士称Flock拟于10月底减少约18%员工；此前隐私政策调整与公众分歧构成背景，但不能据此断定裁员原因。"
 cover: "/news-media/2026-10-09/flock-safety-planned-job-cuts-2026-10-09.png"
 coverAlt: "AI生成示意图：通用监控摄像头、空置办公桌椅与隐私屏障"
 tags: ["人工智能", "隐私保护", "美国", "就业"]
@@ -16,7 +16,9 @@ readTime: 4
 draft: false
 ---
 
-路透社10月8日援引直接了解计划的人士报道，美国监控技术公司Flock Safety拟在自愿离职计划后减少约270名员工，约占员工总数的18%，相关人员预计于10月底离开。消息人士因计划尚未公开而要求匿名，Flock拒绝置评。由此可确认的是一项有明确来源归属的减员报道，而不是公司已正式宣布或已经完成的裁员。[^1]
+路透社10月8日援引直接了解计划的人士报道，美国监控技术公司Flock Safety拟在自愿离职计划后减少约270名员工，约占员工总数的18%，相关人员预计于10月底离开。消息人士因计划尚未公开而要求匿名，Flock拒绝置评。这是一项有明确来源归属的减员计划报道，不能视为裁员已完成。[^1]
+
+2026-10-15更新：Flock在10月9日确认自愿离职计划，未确认报道人数。[^4]
 
 ![AI生成示意图：通用监控摄像头、空置办公桌椅与隐私屏障](/news-media/2026-10-09/flock-safety-planned-job-cuts-2026-10-09.png)
 
@@ -44,10 +46,12 @@ Flock在8月13日发布的官方说明中，把车牌识别数据的推荐及默
 
 这些公开材料表明，争论的核心已从是否安装摄像头，延伸到谁能查询、数据保存多久、共享范围由谁决定，以及异常使用能否及时被发现。公司缩减人员的消息使这些执行问题更值得关注，但现有证据不足以认定隐私反弹就是全部减员的直接原因，也不足以推断相关控制因此失效。
 
-后续需要分别观察两条线索：人员计划是否得到公司确认并按所述规模落实，以及已经承诺的保护措施是否在规定范围和时间内实施。把商业调整与公共问责分开核实，才能避免把匿名消息写成既成事实，或把争议本身写成已经裁定的违规行为。
+后续需要分别观察两条线索：实际离职人数是否达到报道所述规模，以及已经承诺的保护措施是否在规定范围和时间内实施。把商业调整与公共问责分开核实，才能避免把匿名消息写成既成事实，或把争议本身写成已经裁定的违规行为。
 
 [^1]: 2026-10-08（当日更新）· [消息人士称，AI监控初创企业Flock Safety拟在争议声中削减数百岗位](https://ca.marketscreener.com/news/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-ce785ddfdc81f72d) · 路透社，经MarketScreener转载 · 原题：AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say
 
 [^2]: 2026-09-03（当日更新；民调截至2026-08-31）· [监控争议扩大，佛罗里达州禁止州级公路车牌识别摄像头](https://www.marketscreener.com/news/florida-bans-highway-license-plate-readers-as-backlash-over-surveillance-spreads-ce785bdadb88ff20) · 路透社，经MarketScreener转载 · 原题：Florida bans highway license-plate readers as backlash over surveillance spreads
 
 [^3]: 2026-08-13 · [Flock更新隐私、问责、安全与透明度保护措施](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency) · Flock Safety，Garrett Langley · 原题：Flock Updates Privacy, Accountability, Security, and Transparency Safeguards
+
+[^4]: 2026-10-09（查阅2026-10-15）· The Hill，经AOL转载 · [译题：摄像头遭反对，Flock向员工提供自愿离职方案](https://www.aol.com/articles/flock-offers-voluntary-separation-packages-151321000.html)
