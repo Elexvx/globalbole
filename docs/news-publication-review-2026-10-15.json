@@ -1,0 +1,250 @@
+{
+  "reviewDate": "2026-10-15",
+  "baselineCommit": "55e7e14fcbdd3c6fa827ed8a8e26facb78c8b97c",
+  "sourceHandoff": {
+    "completeManuscriptReceived": true,
+    "issues": [
+      "2026-10-14",
+      "2026-10-15"
+    ],
+    "candidateCount": 10,
+    "selectedImageCandidatesReceived": 10,
+    "editorialMethod": "Retained the delivered reports as the starting manuscripts and checked each candidate independently. Selected articles were substantively edited and expanded with verified usable primary data and methodology; completeness of delivery did not itself clear publication."
+  },
+  "selected": [
+    {
+      "candidate": "14-02",
+      "translationKey": "china-september-price-divergence-2026-10-14",
+      "issue": "2026-10-14",
+      "publicationDate": "2026-10-15",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "sources": [
+        {
+          "title": "2026年9月份工业生产者出厂价格同比上涨5.0% 环比上涨1.2%",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261014_1965476.html",
+          "date": "2026-10-14",
+          "type": "government-primary-source",
+          "publisher": "国家统计局",
+          "rights": "Conditional good-faith free public news reuse; unsigned NBS data and methodology, prominently attributed. Not public domain or CC licensed.",
+          "licenseEvidenceUrls": [
+            "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html"
+          ],
+          "dataPeriod": "2026-09"
+        },
+        {
+          "title": "2026年9月份居民消费价格同比上涨0.9%",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261014_1965477.html",
+          "date": "2026-10-14",
+          "type": "government-primary-source",
+          "publisher": "国家统计局",
+          "rights": "Same NBS conditional permission; signed commentary excluded.",
+          "licenseEvidenceUrls": [
+            "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html"
+          ],
+          "dataPeriod": "2026-09"
+        }
+      ]
+    },
+    {
+      "candidate": "14-03",
+      "translationKey": "us-september-cpi-energy-pressure-2026-10-14",
+      "issue": "2026-10-14",
+      "publicationDate": "2026-10-15",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "sources": [
+        {
+          "title": "Consumer Price Index — September 2026",
+          "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+          "date": "2026-10-14",
+          "type": "government-primary-source",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "rights": "BLS-authored public-domain publication; third-party photographs excluded.",
+          "licenseEvidenceUrls": [
+            "https://www.bls.gov/bls/linksite.htm"
+          ],
+          "dataPeriod": "2026-09"
+        }
+      ]
+    },
+    {
+      "candidate": "15-03",
+      "translationKey": "australia-september-employment-sampling-2026-10-15",
+      "issue": "2026-10-15",
+      "publicationDate": "2026-10-15",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "sources": [
+        {
+          "title": "Labour Force, Australia, September 2026",
+          "url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/sep-2026",
+          "date": "2026-10-15",
+          "type": "government-primary-source",
+          "publisher": "Australian Bureau of Statistics",
+          "rights": "ABS-owned text and data: CC BY 4.0; adapted and translated with attribution, licence link and no endorsement. Excludes third-party content and logos.",
+          "licenseEvidenceUrls": [
+            "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+          ],
+          "dataPeriod": "2026-09"
+        },
+        {
+          "title": "Unemployment rate at 4.7% in September",
+          "url": "https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-47-september",
+          "date": "2026-10-15",
+          "type": "government-primary-source",
+          "publisher": "Australian Bureau of Statistics",
+          "rights": "ABS-owned text and data: CC BY 4.0; adapted and translated with attribution, licence link and no endorsement. Excludes third-party content and logos.",
+          "licenseEvidenceUrls": [
+            "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+          ],
+          "dataPeriod": "2026-09"
+        },
+        {
+          "title": "Labour Force, Australia methodology, September 2026",
+          "url": "https://www.abs.gov.au/methodologies/labour-force-australia-methodology/sep-2026",
+          "date": "2026-10-15",
+          "type": "government-primary-source",
+          "publisher": "Australian Bureau of Statistics",
+          "rights": "ABS-owned text and data: CC BY 4.0; adapted and translated with attribution, licence link and no endorsement. Excludes third-party content and logos.",
+          "licenseEvidenceUrls": [
+            "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+          ],
+          "dataPeriod": "2026-09"
+        }
+      ]
+    }
+  ],
+  "held": [
+    {
+      "candidate": "14-01",
+      "topic": "China trade",
+      "reason": "Current Customs primary tables and reuse basis were not obtained; syndicated reporting alone did not support five deep editions within the combined source allowance."
+    },
+    {
+      "candidate": "14-04",
+      "topic": "ASML quarterly results",
+      "reason": "Company facts were verified, but a single protected results release did not provide sufficient independently usable depth. Same-release mirrors do not multiply allowance."
+    },
+    {
+      "candidate": "14-05",
+      "topic": "NVIDIA UK research compute",
+      "reason": "Company and recipient statements corroborate the pledge, not delivery. UKRI background is noncommercial-share-alike, not OGL; applicability was not established. Suitable OGL context would require a substantially reframed article."
+    },
+    {
+      "candidate": "14-06",
+      "topic": "China solar employment",
+      "reason": "The reported headcount review requires the five original annual-report tables and independently usable industry context; year-end headcount changes cannot be called announced October layoffs."
+    },
+    {
+      "candidate": "14-07",
+      "topic": "Jio proposed IPO",
+      "reason": "Current prospectus retrieval and independent verification of filing terms remained incomplete; reporting mirrors did not provide sufficient reusable depth."
+    },
+    {
+      "candidate": "15-01",
+      "topic": "Asian markets",
+      "reason": "The precise submitted multi-index snapshot and probability figures were not verified with a consistent market timestamp. Earlier intraday observations cannot be presented as current or closing prices."
+    },
+    {
+      "candidate": "15-02",
+      "topic": "IMF Asian outlook",
+      "reason": "The current regional report or transcript was not located. Reuters reporting did not substitute for an independently reviewed IMF original or provide sufficient combined source allowance."
+    }
+  ],
+  "priorContentReview": {
+    "baselineLiveTopics": 47,
+    "baselineEditions": 235,
+    "structurallyCheckedTopics": 47,
+    "targetedOriginalSourceFactCheckedTopics": 9,
+    "notFreshlyFactClearedTopics": 38,
+    "sourceUseReviewFlags": 26,
+    "completedRepairTopics": [
+      "google-gemini-work-agents-2026-10-09",
+      "lg-energy-solution-q3-profit-2026-10-09",
+      "ai-infrastructure-revenue-gap-2026-10-04"
+    ],
+    "note": "Screening flags are review priorities, not findings of legal infringement or complete factual clearance. Remaining topics require further source-by-source review. Withdrawal tombstone and republish:false remain in force.",
+    "remainingReviewTopics": [
+      "anthropic-ipo-government-policy-risk-2026-10-03",
+      "north-korea-missile-drill-2026-10-04",
+      "ukraine-russian-refineries-infrastructure-2026-10-04",
+      "us-ai-voluntary-safety-accord-2026-10-04",
+      "brazil-presidential-runoff-2026-10-05",
+      "us-ai-task-force-report-2026-10-05",
+      "us-supreme-court-climate-liability-2026-10-05",
+      "deutsche-telekom-ai-savings-2026-10-06",
+      "eu-affordable-ev-sales-2026-10-06",
+      "eu-rapid-trade-response-2026-10-06",
+      "nepal-flood-recovery-2026-10-06",
+      "reflection-beam-open-weights-2026-10-06",
+      "asean-energy-security-grid-2026-10-09",
+      "byd-overseas-geopolitics-2026-10-09",
+      "china-yuan-policy-europe-trade-2026-10-09",
+      "flock-safety-planned-job-cuts-2026-10-09",
+      "oil-ai-financing-market-pressure-2026-10-09",
+      "china-eu-hybrid-trade-understanding-2026-10-10",
+      "firmus-ipo-private-funding-2026-10-10",
+      "globalfoundries-tsmc-interposers-2026-10-10",
+      "miami-ukraine-talks-russian-diesel-2026-10-10",
+      "us-perm-suspension-tcs-2026-10-10",
+      "us-ai-server-export-guilty-plea-2026-10-11"
+    ],
+    "remainingReviewCount": 23
+  },
+  "imageReview": {
+    "selected": 3,
+    "kind": "Licensed historical photographs; no event-date photograph or generated image claimed",
+    "australia": "Upper-facade crop excludes lower historic-photo panels. Crop marked in attribution, CC BY-SA 4.0 retained.",
+    "sourceAndHashes": "docs/news-media/2026-10-14/provenance.json and docs/news-media/2026-10-15/provenance.json"
+  },
+  "visualChanges": [
+    "Inherited font-family without overriding utility type size/weight on controls.",
+    "Subscription banner kicker contrast aligned with banner foreground.",
+    "Long article links and table-of-contents labels may wrap without horizontal overflow.",
+    "Legacy structured paragraphs use the established body typography."
+  ],
+  "publicationStatus": "Editorial, source, media and local build checks complete; exact Git deployment and rendered preview checks remain release gates.",
+  "localValidation": {
+    "tests": {
+      "passed": 75,
+      "failed": 0
+    },
+    "build": "passed",
+    "typescript": "passed",
+    "staticExport": {
+      "htmlPages": 3670,
+      "localReferences": 234679,
+      "withdrawnTopicsAbsent": 1
+    },
+    "seo": {
+      "canonicalArticles": 250,
+      "localizedHomepages": 5,
+      "sitemapUrls": 745
+    },
+    "responsiveImages": {
+      "sources": 55,
+      "variants": 537
+    },
+    "liveContent": {
+      "topics": 50,
+      "editions": 250,
+      "issues": 10
+    }
+  }
+}

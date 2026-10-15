@@ -1,0 +1,111 @@
+{
+  "reviewDate": "2026-10-15",
+  "scope": "Fifteen new editions. Numeric, source-link and substantive-depth parity checked; translated source titles identified. See publication review for source rights and held candidates.",
+  "editions": [
+    {
+      "path": "content/issues/2026-10-14/zh-CN/china-september-price-divergence-2026-10-14.md",
+      "sha256": "4ba8102e9512236c581973622f3acaafb797bbe7c4af62d7f9c041de83524ba7",
+      "language": "zh-CN",
+      "sections": 5,
+      "footnotes": 2
+    },
+    {
+      "path": "content/issues/2026-10-14/zh-TW/china-september-price-divergence-2026-10-14.md",
+      "sha256": "9c50ad1717fc3f082424e54f4e9fab5271fc7e3e91368635dab9488149bb0451",
+      "language": "zh-TW",
+      "sections": 5,
+      "footnotes": 2
+    },
+    {
+      "path": "content/issues/2026-10-14/en/china-september-price-divergence-2026-10-14.md",
+      "sha256": "0cc937e9fd2b6408ad24cf029270b45ee1b6836bdaa36fe60d4e4d8408a00c2b",
+      "language": "en",
+      "sections": 5,
+      "footnotes": 2
+    },
+    {
+      "path": "content/issues/2026-10-14/ru/china-september-price-divergence-2026-10-14.md",
+      "sha256": "7e96e04150b3748a8b549ce3426433e7a84d821468212d1e5fc8b2d077658cef",
+      "language": "ru",
+      "sections": 5,
+      "footnotes": 2
+    },
+    {
+      "path": "content/issues/2026-10-14/fr/china-september-price-divergence-2026-10-14.md",
+      "sha256": "a0264ed4c909a82223cef93c1b15ca02e121602cdbe44a233cb4e3ad0847d286",
+      "language": "fr",
+      "sections": 5,
+      "footnotes": 2
+    },
+    {
+      "path": "content/issues/2026-10-14/zh-CN/us-september-cpi-energy-pressure-2026-10-14.md",
+      "sha256": "57443df811a92dfa33303656d1e47bb0f27cc5a48bd7a3109dce0622952389fd",
+      "language": "zh-CN",
+      "sections": 6,
+      "footnotes": 1
+    },
+    {
+      "path": "content/issues/2026-10-14/zh-TW/us-september-cpi-energy-pressure-2026-10-14.md",
+      "sha256": "789f097ffaac45044ff0d64b79f30046d4fdf5711c4178aab5648755c417a630",
+      "language": "zh-TW",
+      "sections": 6,
+      "footnotes": 1
+    },
+    {
+      "path": "content/issues/2026-10-14/en/us-september-cpi-energy-pressure-2026-10-14.md",
+      "sha256": "88bb9b85d7321c6a622d4271eca70eda9b6d46f740bf17aef6c5c06210894454",
+      "language": "en",
+      "sections": 6,
+      "footnotes": 1
+    },
+    {
+      "path": "content/issues/2026-10-14/ru/us-september-cpi-energy-pressure-2026-10-14.md",
+      "sha256": "297eda766a40c55e37e469e3b0015f13eb4c10e4612bb74d07bf61ec1248178d",
+      "language": "ru",
+      "sections": 6,
+      "footnotes": 1
+    },
+    {
+      "path": "content/issues/2026-10-14/fr/us-september-cpi-energy-pressure-2026-10-14.md",
+      "sha256": "7eb5199ddaa63f545e503466d142b0a4d7cda50d39c3b85d13081be982d9499e",
+      "language": "fr",
+      "sections": 6,
+      "footnotes": 1
+    },
+    {
+      "path": "content/issues/2026-10-15/zh-CN/australia-september-employment-sampling-2026-10-15.md",
+      "sha256": "b8932e6dd3abe03b4c2702946857ca2e1cb1ff8d90920ef87cb7aed0e7a803c9",
+      "language": "zh-CN",
+      "sections": 7,
+      "footnotes": 4
+    },
+    {
+      "path": "content/issues/2026-10-15/zh-TW/australia-september-employment-sampling-2026-10-15.md",
+      "sha256": "fde2192ba9a27d0d24b85ef85f526afe2664e4dad9fbfb04ceabb423bc40cbd9",
+      "language": "zh-TW",
+      "sections": 7,
+      "footnotes": 4
+    },
+    {
+      "path": "content/issues/2026-10-15/en/australia-september-employment-sampling-2026-10-15.md",
+      "sha256": "8cbc314208741c4c95c2cacf2fe108ca1f0861d857f9711b90d91bf0858cee99",
+      "language": "en",
+      "sections": 7,
+      "footnotes": 4
+    },
+    {
+      "path": "content/issues/2026-10-15/ru/australia-september-employment-sampling-2026-10-15.md",
+      "sha256": "72694f8cbd33a02ccd8ac67491d390155c4056f9ec226d68f42061c4cda0c542",
+      "language": "ru",
+      "sections": 7,
+      "footnotes": 4
+    },
+    {
+      "path": "content/issues/2026-10-15/fr/australia-september-employment-sampling-2026-10-15.md",
+      "sha256": "703df82e8d997dd1755f5424136e894f434bf5e853a54f1628d3c1da2c2775e3",
+      "language": "fr",
+      "sections": 7,
+      "footnotes": 4
+    }
+  ]
+}

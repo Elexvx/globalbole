@@ -1,0 +1,109 @@
+{
+  "article": "ai-infrastructure-revenue-gap-2026-10-04",
+  "revisedAt": "2026-10-15",
+  "scope": "all-five-language-editions",
+  "status": "editorial-source-and-package-checks-passed",
+  "changes": [
+    "Expanded the energy-delivery and financial-statement evidence.",
+    "Removed extended protected-source summaries and retained one bounded factual forecast reference.",
+    "Preserved publication date, URLs, grouping, tags, active illustration and its rights record.",
+    "Removed duplicate narrative and numerical content from a retired chart record without restoring the asset."
+  ],
+  "sources": [
+    {
+      "publisher": "PwC",
+      "url": "https://www.pwc.com/gx/en/1/services/consulting/technology/data-centre-outlook.html",
+      "date": "2026-09-02",
+      "rights": "Ordinary protected source; limited factual use",
+      "rightsEvidenceUrls": [
+        "https://www.pwc.com/gx/en/legal-notices/terms-and-conditions.html"
+      ]
+    },
+    {
+      "publisher": "IEA",
+      "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+      "date": "2025-04-10",
+      "rights": "CC BY 4.0; condensed and translated text with attribution, adaptation and non-endorsement notices; no photos, logos, cover art or third-party graphics",
+      "rightsEvidenceUrls": [
+        "https://www.iea.org/reports/energy-and-ai",
+        "https://www.iea.org/terms/creative-commons-cc-licenses",
+        "https://creativecommons.org/licenses/by/4.0/"
+      ]
+    },
+    {
+      "publisher": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide",
+      "date": "2007-02-05",
+      "rights": "Government-authored educational text; SEC website expressly permits reuse",
+      "rightsEvidenceUrls": [
+        "https://www.sec.gov/about/privacy-information",
+        "https://www.sec.gov/files/about/webmaster-faq.htm"
+      ]
+    }
+  ],
+  "sourceUse": {
+    "method": "Five-language aggregate using locale-aware word segmentation; ISO dates count as one unit; URLs and Markdown syntax excluded. Includes headlines, descriptions, SEO, footnotes, captions and public administrative reuse. Multi-source explanations are charged conservatively to both supporting reusable sources.",
+    "protectedWork": {
+      "publisher": "PwC",
+      "articleWordsByLanguage": {
+        "zh-CN": 32,
+        "zh-TW": 30,
+        "en": 30,
+        "ru": 30,
+        "fr": 38
+      },
+      "articleWordsTotal": 160,
+      "publicReferenceMetadataConservativeAllowance": 30,
+      "combinedCeiling": 190,
+      "ordinaryLimit": 200,
+      "minimumHeadroom": 10,
+      "directQuotation": "Only the English source title; translated titles in the other four editions. No body quotation.",
+      "excludedContent": "No prior annual trajectory, scenario range, equipment-cycle assumptions or third-party studies retained."
+    },
+    "licensedAndGovernmentSources": {
+      "IEA": {
+        "conservativeArticleWords": 4735,
+        "basis": "CC BY 4.0; report findings condensed, adapted and translated with attribution and required responsibility/non-endorsement notices."
+      },
+      "SEC": {
+        "conservativeArticleWords": 3824,
+        "basis": "SEC-authored educational text under explicit website reuse policy."
+      }
+    },
+    "removedWorkBodyUse": {
+      "Reuters/CNA": 0,
+      "Bain": 0,
+      "Stanford": 0
+    },
+    "limitation": "This is an editorial source-use check, not a legal determination."
+  },
+  "evidenceBoundary": [
+    "The energy report was published in 2025: past-year estimates and future scenarios are identified separately.",
+    "Delay exposure is conditional, not a count of completed delays.",
+    "Electricity consumption is not treated as revenue or investment return.",
+    "Project financing implications are conditional applications of the cited energy and accounting evidence; no company solvency claim or personalised financial recommendation."
+  ],
+  "media": {
+    "path": "/news-media/2026-10-04/ai-infrastructure-editorial-illustration.webp",
+    "kind": "ai_generated_editorial_illustration",
+    "sha256": "a38a5a920dd8ffd953407536dacf00867a1e6a6af78de40b291c31fa396f66a7",
+    "activeRightsRecord": "unchanged",
+    "visualDisclosure": "AI-generated conceptual illustration in every edition",
+    "newSourceImages": 0
+  },
+  "checks": {
+    "languages": [
+      "zh-CN",
+      "zh-TW",
+      "en",
+      "ru",
+      "fr"
+    ],
+    "substantiveParagraphsPerEdition": 17,
+    "sectionsPerEdition": 5,
+    "footnotesPerEdition": 3,
+    "matchingSourceURLs": true,
+    "routingAndOriginalDatePreserved": true,
+    "siteBuildAndDeployment": "Separate integration checks required."
+  }
+}

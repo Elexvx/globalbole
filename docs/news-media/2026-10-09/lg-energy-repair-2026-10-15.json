@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-15T04:45:00Z",
+  "translationKey": "lg-energy-solution-q3-profit-2026-10-09",
+  "updatedAt": "2026-10-15",
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "sourceUse": {
+    "countingUnit": "locale-segmented word-like units; full five-edition and final public-record bundle",
+    "includes": [
+      "titles",
+      "descriptions review",
+      "body",
+      "footnotes",
+      "visible update notes review",
+      "publication-log source values",
+      "public audit reserve"
+    ],
+    "excludes": [
+      "URL locators",
+      "stable identifiers",
+      "JSON keys",
+      "independently computed review metrics"
+    ],
+    "restricted": [
+      {
+        "id": 1,
+        "url": "https://lg.co.kr/media/release/30650",
+        "rightsStatus": "no_public_reuse_grant_verified",
+        "editions": 164,
+        "publicationLog": 17,
+        "auditReserve": 2,
+        "total": 183,
+        "budget": 200
+      },
+      {
+        "id": 2,
+        "url": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106",
+        "rightsStatus": "no_public_reuse_grant_verified",
+        "editions": 138,
+        "publicationLog": 15,
+        "auditReserve": 2,
+        "total": 155,
+        "budget": 200
+      }
+    ],
+    "quotationCheck": {
+      "restrictedEnglishTitleOccurrences": 2,
+      "words": 20,
+      "limit": 25
+    }
+  },
+  "backgroundSources": [
+    {
+      "id": 3,
+      "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+      "rights": "government_created_reuse_permitted",
+      "evidence": "https://www.sec.gov/about/webmaster-frequently-asked-questions"
+    },
+    {
+      "id": 4,
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries",
+      "rights": "CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "evidence": "https://www.iea.org/terms/creative-commons-cc-licenses",
+      "compliance": {
+        "attribution": true,
+        "adaptationAndNonEndorsementNotice": true,
+        "thirdPartyComponentsAndPhotosExcluded": true
+      }
+    },
+    {
+      "id": 5,
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=51798",
+      "rights": "public_domain",
+      "evidence": "https://www.eia.gov/about/copyrights_reuse.php",
+      "compliance": {
+        "publicationDateAndSource": true,
+        "translatorIdentified": true
+      }
+    }
+  ],
+  "image": {
+    "unchanged": true,
+    "path": "/news-media/2026-10-09/lg-energy-solution-q3-profit-2026-10-09.png",
+    "provenance": "docs/news-media/2026-10-09/provenance.json",
+    "recordedSHA256": "b2b6f4445f3f872b20e4635fc09f80af74b4d5d9c7f95d5833bec6bf53092dc1",
+    "sha256VerifiedAt": "2026-10-15"
+  },
+  "validation": {
+    "fiveLanguageParity": true,
+    "stableURLsAndPublicationDate": true,
+    "updatedAtAndVisibleUpdate": true,
+    "sourceLinks": true,
+    "noGeneratedDataChart": true
+  },
+  "note": "Screening counts and documented permissions are editorial controls, not a legal finding."
+}

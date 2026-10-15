@@ -70,7 +70,7 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
               {story.body.map((section, index) => (
                 <section key={index} className="mb-10">
                   <h2 className="headline font-black ">{section.heading}</h2>
-                  <p className="mt-4 text-lg leading-8 text-foreground/85">{section.body}</p>
+                  <p className="mt-4 type-body text-foreground/85">{section.body}</p>
                 </section>
               ))}
               {story.quote ? <blockquote className="my-12 border-y-[0.1875rem] border-border-strong py-7 font-serif text-3xl italic leading-tight text-foreground sm:text-4xl">“{story.quote}”</blockquote> : null}

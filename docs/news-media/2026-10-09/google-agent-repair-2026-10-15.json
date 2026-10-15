@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "topic": "google-gemini-work-agents-2026-10-09",
+  "baselineCommit": "55e7e14fcbdd3c6fa827ed8a8e26facb78c8b97c",
+  "revisionDate": "2026-10-15",
+  "originalPublicationDate": "2026-10-09",
+  "changes": [
+    "Corrected footnote 2 publication date in every edition. Kept original site date and all routing/grouping identifiers.",
+    "Replaced extensive vendor-dependent feature narrative with independent NIST-based evaluation. No former product claim survives uncited in the analysis.",
+    "Product confirmation is limited to the announcement and the explicitly attributed preview status. Evaluation cases are labelled hypothetical; recommendations are distinguished from NIST requirements and measured product results.",
+    "Preserved both licensed image assets and original Google links; added the same NIST primary sources and reuse link in every language.",
+    "Added a visible dated correction/update notice. Retained matching facts, conditions, examples and analytical depth across all five editions."
+  ],
+  "sources": [
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "publicationDate": "2026-10-08",
+      "rights": "No explicit reusable-text licence established. Ordinary 200-word aggregate source budget applied. Image-library permission does not cover this text.",
+      "rightsEvidenceUrl": null,
+      "checkedAt": "2026-10-15T04:38:30Z"
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "publicationDate": "2026-10-08",
+      "rights": "No explicit reusable-text licence established. Ordinary 200-word aggregate source budget applied. Generic Developers documentation terms were not extended to this blog.",
+      "rightsEvidenceUrl": null,
+      "checkedAt": "2026-10-15T04:38:30Z"
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+      "publicationDate": "2023-01-26",
+      "rights": "NIST-authored Technical Series government work: not protected by US copyright; worldwide royalty-free republication and derivative-work permission stated by NIST. Only the institution-authored prose/core is used, not third-party diagrams, quotations or references.",
+      "rightsEvidenceUrl": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+      "checkedAt": "2026-10-15T04:38:30Z"
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "publicationDate": "2024-07-26",
+      "rights": "NIST Technical Series government report; PDF page 2 points to NIST copyright/use/licensing policy. Institution-authored risk discussion and suggested actions used; no third-party figures, quotations or reference text republished. Same public-domain/worldwide permission basis as source 3.",
+      "rightsEvidenceUrl": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+      "checkedAt": "2026-10-15T04:38:30Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "/news-media/2026-10-09/google-gemini-work-agents-2026-10-09.png",
+      "sha256": "4f4ace9e59002347417287078003d6521f48929ad07806b8ecae926d66f00e4c",
+      "permissionUrl": "https://blog.google/image-library/",
+      "requiredCredit": "Source: Google",
+      "rightsReverifiedAt": "2026-10-15T04:38:30Z"
+    },
+    {
+      "path": "/news-media/2026-10-09/google-gemini-work-agents-2026-10-09-kurian.png",
+      "sha256": "7e113f3c854ddda9657bfd373f7bb5ae2b41b9f796bd10fca51beb0a04e3aef0",
+      "permissionUrl": "https://blog.google/image-library/",
+      "requiredCredit": "Source: Google",
+      "rightsReverifiedAt": "2026-10-15T04:38:30Z"
+    }
+  ],
+  "editions": [
+    {
+      "path": "content/issues/2026-10-09/en/google-gemini-work-agents-2026-10-09.md",
+      "sha256": "c8a1f369c6390c3d86386389e938a5bd8b86a2e49532b1de9df32749161d06fb"
+    },
+    {
+      "path": "content/issues/2026-10-09/fr/google-gemini-work-agents-2026-10-09.md",
+      "sha256": "b26a46d1b6ef4223aa23d237ce0b09a95fcd39adf943968366736fa389d37fd9"
+    },
+    {
+      "path": "content/issues/2026-10-09/ru/google-gemini-work-agents-2026-10-09.md",
+      "sha256": "26143e757483d5dbc34ff074583d1368dffb0d764ebe4a05f9b275dabf751822"
+    },
+    {
+      "path": "content/issues/2026-10-09/zh-CN/google-gemini-work-agents-2026-10-09.md",
+      "sha256": "399cf6e934c8d88cb59addaa196d16731a909206e1bd08f2237a7d74601da924"
+    },
+    {
+      "path": "content/issues/2026-10-09/zh-TW/google-gemini-work-agents-2026-10-09.md",
+      "sha256": "89853f5c3915cc7c03aef993fa21dd0510afe2465d9e2e9a5111ff476679367f"
+    }
+  ],
+  "reviewStatus": "Editorial revision prepared; release validation pending."
+}

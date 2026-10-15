@@ -1,0 +1,46 @@
+{
+  "issue": "2026-10-15",
+  "checkedAt": "2026-10-15",
+  "assets": [
+    {
+      "article": "australia-september-employment-sampling-2026-10-15",
+      "filename": "rba-sydney-2025.jpg",
+      "localPath": "/news-media/2026-10-15/rba-sydney-2025.jpg",
+      "kind": "licensed_related_photo",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/RBA_Building_August_2025.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:RBA_Building_August_2025.jpg",
+      "title": "RBA Building August 2025.jpg (upper-facade crop)",
+      "photographer": "Nick-D",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsBasis": "Commons file page own-work copyright-holder declaration licenses adaptation and distribution under CC BY-SA 4.0.",
+      "photographedDate": "2025-08-07",
+      "caption": "2025年8月7日，悉尼马丁广场65号的澳大利亚储备银行大楼外景资料图。",
+      "width": 3024,
+      "height": 1701,
+      "byteSize": 1594928,
+      "sha256": "3ed71216eac337dcaa87e596421284ebff6f79c1aa493a4a2daadb9a584a9acb",
+      "downloadedSHA256": "a9bbb72656e647e7d23731cb0a47f59e4be6836b31be90c176b5e10d115b65c9",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "visualInspection": "Only upper facade, sky, tree branches and crane remain. All lower-level historic photographic panels are entirely excluded. No generative fill, scene synthesis, recoloring, or compositing.",
+      "coverUsage": "Same source photograph reused in body and proportionally filled cover in all five editions. Web resizing and format conversion retain the image-specific CC BY-SA licence.",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "removedJPEGMarkers": [
+          "0xe1"
+        ],
+        "pixelsIdenticalToReviewedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "201551a96633f15db4dc288493a737d093563c2ff67a5e21962620e63aff0044"
+      },
+      "originalBeforeCropSHA256": "eb8369db6e30c01ebe3c839b7ac6861d7c43d9a2817e1a9dc95cf6c710e47f93",
+      "adaptation": "EXIF orientation normalized; rectangular crop x=0,y=0,width=3024,height=1701 from the oriented 3024×4032 original; JPEG re-encoded at quality 95.",
+      "adaptationLicense": "CC BY-SA 4.0",
+      "attributionChangeNotice": "cropped / 局部裁切 / recadrage / кадрировано"
+    }
+  ]
+}

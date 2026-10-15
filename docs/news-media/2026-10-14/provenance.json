@@ -1,0 +1,80 @@
+{
+  "issue": "2026-10-14",
+  "checkedAt": "2026-10-15",
+  "assets": [
+    {
+      "article": "china-september-price-divergence-2026-10-14",
+      "filename": "shanghai-supermarket-2014.jpg",
+      "localPath": "/news-media/2026-10-14/shanghai-supermarket-2014.jpg",
+      "kind": "licensed_related_photo",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Nong_Gong_Shang_Supermarket_in_Huangpu_Shanghai.jpg",
+      "title": "Nong Gong Shang Supermarket in Huangpu Shanghai.jpg",
+      "photographer": "Livelikerw",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsBasis": "Own work and copyright-holder license declaration.",
+      "photographedDate": "2014-01-08",
+      "caption": "历史资料图：上海，2014年1月8日。",
+      "width": 3264,
+      "height": 2448,
+      "byteSize": 2079530,
+      "sha256": "fb3b12cf67db04515d0cb584775606fac5974b21f8dcc9a6abbb9afe7b207dfb",
+      "downloadedSHA256": "b15884a7888393ee6d016e1937eb1af5a919956ae479ea378464e0828548be14",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "visualInspection": "Exterior supermarket facade and parked cars, not shelves, current prices, or current consumers.",
+      "coverUsage": "Same source photograph reused in body and proportionally filled cover in all five editions. Web resizing and format conversion retain the image-specific CC BY-SA licence.",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "removedJPEGMarkers": [
+          "0xe1"
+        ],
+        "pixelsIdenticalToReviewedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "1dae5b856363c8046b9130700ff9212585fe2490b84bf84dc78bd86614dbe41f"
+      },
+      "adaptation": "Non-pixel metadata removed; no crop or color changes to the body original. Responsive delivery resizes and converts format; fixed covers may display a proportional crop."
+    },
+    {
+      "article": "us-september-cpi-energy-pressure-2026-10-14",
+      "filename": "us-cpi-gas-pump-2025.jpg",
+      "localPath": "/news-media/2026-10-14/us-cpi-gas-pump-2025.jpg",
+      "kind": "licensed_related_photo",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gas_pump_at_Circle_K%2C_Crawfordville%2C_Florida.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Gas_pump_at_Circle_K,_Crawfordville,_Florida.jpg",
+      "title": "Gas pump at Circle K, Crawfordville, Florida.jpg",
+      "photographer": "The Bushranger",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsBasis": "Own work and copyright-holder dual-license declaration; choose CC BY-SA 4.0.",
+      "photographedDate": "2025-06-26",
+      "caption": "资料照片，2025年6月26日，美国佛罗里达州克劳福德维尔。",
+      "width": 3264,
+      "height": 2448,
+      "byteSize": 1640746,
+      "sha256": "0c49ec262a93aed18cdbd1462516f29848950ca589b27c84f5097caa3f05e46e",
+      "downloadedSHA256": "9372121140316d670a689dfb794c1951ea068a66b91888ed62a0ffaf587d9495",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "visualInspection": "Pump grade/price buttons; the diesel button also says unleaded gasoline. Do not treat displayed prices as present CPI evidence.",
+      "coverUsage": "Same source photograph reused in body and proportionally filled cover in all five editions. Web resizing and format conversion retain the image-specific CC BY-SA licence.",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "removedJPEGMarkers": [
+          "0xe1"
+        ],
+        "pixelsIdenticalToReviewedSource": true,
+        "colorProfilePreserved": true,
+        "pixelSHA256": "b9930c613850849317873a8411bcf2b00142a31951aa7acd0b1bda3ecf7c0ccd"
+      },
+      "adaptation": "Non-pixel metadata removed; no crop or color changes to the body original. Responsive delivery resizes and converts format; fixed covers may display a proportional crop."
+    }
+  ]
+}

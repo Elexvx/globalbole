@@ -1,5 +1,5 @@
 ---
-title: "LG Energy Solution flags 25.7% profit growth, with credits and compensation in focus"
+title: "LGES: understanding battery earnings"
 slug: "lg-energy-solution-q3-profit-2026-10-09"
 translationKey: "lg-energy-solution-q3-profit-2026-10-09"
 issue: "2026-10-09"
@@ -8,7 +8,8 @@ category: "energy"
 author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-09"
-description: "Preliminary Q3 operating profit is KRW 756 billion. Production credits enter both revenue and profit, and excluding them does not establish recurring earnings. The figures remain unaudited."
+updatedAt: "2026-10-15"
+description: "Production capacity, battery demand and cash flow reveal different parts of a manufacturer’s performance. A guide to reading the figures together."
 cover: "/news-media/2026-10-09/lg-energy-solution-q3-profit-2026-10-09.png"
 coverAlt: "AI-generated illustration: generic batteries, a calculator and papers"
 tags: ["Electric vehicles", "Energy storage", "Corporate earnings"]
@@ -16,36 +17,52 @@ readTime: 5
 draft: false
 ---
 
-LG Energy Solution released preliminary third-quarter 2026 results on October 8, estimating operating profit of KRW 756 billion, up 25.7% year on year, and revenue and other income of KRW 9.6434 trillion, up 59.0%. The figures show a marked quarterly improvement, but include KRW 416.9 billion in North American production tax credits and have not undergone an external audit. Assessing the battery business’s recovery requires attention to those credits, revenue presentation and the earnings components still awaiting disclosure.[^1]
+LG Energy Solution’s preliminary Q3 operating profit: KRW 756bn, including KRW 416.9bn production credits; unaudited.[^1]
+
+Reuters cites analysts linking the earnings surprise to one-off automaker compensation.[^2]
 
 ![AI-generated illustration: generic batteries, a calculator and papers](/news-media/2026-10-09/lg-energy-solution-q3-profit-2026-10-09.png)
 
 *AI-generated illustration: generic batteries, a calculator and papers represent battery manufacturing and profit analysis; these are not LG Energy Solution products or an actual factory.*
 
-## Credits affect revenue as well as profit
+*Updated October 15, 2026: expanded the background on manufacturing, storage and cash flow.*
 
-The company’s release puts production tax credits at KRW 416.9 billion. Without them, revenue is KRW 9.2265 trillion and operating profit is KRW 339.1 billion, giving an operating margin of 3.7%. Calculated from the disclosed figures, the credits are equivalent to roughly 55% of reported operating profit. That clarifies the significance of policy support for the quarter, but does not make the remaining KRW 339.1 billion a measure of recurring earnings.[^1]
+## Profit needs a cash-flow cross-check
 
-A presentation change also matters. From the first quarter of 2026, the company changed its accounting presentation of North American production subsidies, including them under “sales and other income” in its financial statements. The previous-quarter and year-earlier figures in this release have been restated on the same basis. The 59.0% year-on-year rise therefore uses comparable figures, but the entire KRW 9.6434 trillion should not be read as revenue earned by selling batteries to customers.[^1]
+A profitable quarter and a self-financing business are different propositions. The SEC’s guide to financial statements explains why: an income statement records earnings over a period, while a cash-flow statement tracks money received and paid. Depreciation reduces accounting income without being a current cash payment; changes in operating assets and liabilities also help explain the difference. Buying machinery appears in investing cash flow, while borrowing and repaying loans belong to financing activities.[^3]
 
-## The earnings surprise still needs explanation
+For a battery producer, that distinction changes the questions worth asking. Does operating cash cover investment in equipment? Are inventories or receivables absorbing cash? Is cash increasing through business activity or new financing? These are checks to apply to the fuller accounts, not findings about this quarter. Similarly, subtracting a single support item cannot establish recurring earnings: that conclusion requires identifying the other adjustments and their accounting treatment. The notes on accounting policies are essential to a meaningful comparison.[^3]
 
-Reuters cited an LSEG SmartEstimate operating-profit expectation of KRW 309 billion, well below the preliminary result. That measure gives greater weight to analysts with more accurate forecasting records. Analysts quoted in the report attributed part of the surprise to one-off compensation from a North American automaker that had fallen short of minimum purchase commitments.[^2]
+## Factory capacity is not delivered output
 
-That explanation has a clear evidentiary limit. The characterization of compensation comes from analysts; its amount was not separately disclosed in the preliminary release. It cannot support an independently calculated “core profit” figure. Removing production credits excludes one identified source of support, not every non-recurring item. If compensation contributed to profit, it could reflect contractual protection against insufficient orders rather than a corresponding improvement in end-customer demand.
+The IEA’s 2026 outlook puts global lithium-ion battery nameplate manufacturing capacity above 4 TWh at the end of 2025. Separately, it estimates EV battery deployment at 1.2 TWh during 2025, representing more than 70% of total battery deployment. These figures describe different things: the potential annual production rate of factories at year-end, and batteries actually deployed in one end-use during the year. Dividing one by the other would not produce a valid industry utilisation rate.[^4]
 
-## Storage growth and profitability move at different speeds
+That distinction matters when reading expansion announcements. A new plant adds productive potential; delivered, saleable batteries are the link to customers. The IEA identifies manufacturing experience, specialised workers and access to equipment suppliers as important parts of a successful production ramp-up. Its broader assessment is that domestic cell factories also need reliable component supply chains. A factory’s location alone does not establish that its inputs are produced locally or that its production economics are competitive.[^4]
 
-Reuters reported that LG Energy Solution was expanding energy-storage systems to address persistently weak electric-vehicle demand, with rising electricity needs at AI data centres supporting the storage market. Analysts cited in the report nevertheless said the company’s storage business remained loss-making and that its expected turnaround had been delayed. These are analysts’ assessments reported by Reuters, not segment financial results disclosed by the company.[^2]
+## Chemistry and customer mix change the business
 
-For battery manufacturers, rising demand, capacity adjustments and profitability can occur at different times. Storage creates order opportunities, but does not automatically establish that production-conversion costs have been absorbed or that the new business has reached a scale sufficient to cover costs. The preliminary release provides too little segment detail to allocate the quarter’s profit growth reliably between EV batteries and storage.
+Battery manufacturing is not a single interchangeable activity. The IEA describes three main cell formats: cylindrical, pouch and prismatic. Pouch cells allow flexible dimensions and high energy density; prismatic cells provide a rigid structure that can be packed efficiently. Chemistry, pack design and established customer relationships all influence which format is used. A change in market focus therefore needs to be understood alongside the product and manufacturing choices behind it.[^4]
 
-## One strong quarter has not erased the year-to-date decline
+The report also places lithium iron phosphate, or LFP, above 55% of global EV battery deployment in 2025. That industry-wide mix does not describe any individual manufacturer’s sales. It does show why a general increase in battery demand is insufficient to predict a supplier’s results: demand must match its technology, customers and production footprint. The IEA’s assessment stresses that diversifying cell production without developing the surrounding materials industry leaves supply-chain dependencies in place.[^4]
 
-The company reported a 27.6% sequential increase in third-quarter revenue and a 567.3% rise in operating profit. Yet cumulative operating profit for the first three quarters was KRW 661.6 billion, still down 54.9% year on year. A sharp quarterly rebound and pressure on cumulative results can coexist; one quarter cannot substitute for the full-year operating trend.[^1]
+## Storage requires both power and duration
 
-The company plans to release detailed quarterly results on November 3, according to Reuters. The earnings mix, segment performance and compensation’s specific effect will be more informative at that stage. For now, the preliminary improvement and the scale of credits are established. The extent of an EV-demand recovery and the timing of sustainable storage profitability still require further disclosure.[^2]
+For stationary batteries, an order’s size needs more than one unit. EIA distinguishes power capacity, measured in megawatts, from energy capacity, measured in megawatt-hours. Their ratio gives the duration at rated output. Its explainer distinguishes short bursts used to support grid stability from longer discharge cycles that move electricity from one time of day to another.[^5]
 
-[^1]: 2026-10-08 · [Announcement of preliminary results for the third quarter of 2026](https://lg.co.kr/media/release/30650) · LG Energy Solution via LG’s corporate website; original title: “2026년 3분기 잠정실적 발표”. Prepared under Korean-adopted IFRS and not externally audited.
+This is why two storage projects with the same power rating can require different amounts of stored energy. The intended service helps determine the battery requirement; a megawatt headline alone does not establish it. EIA describes daily-cycling systems that store midday solar production for evening demand, whereas some grid services need responses lasting only seconds or minutes. These are technical distinctions, not a forecast of any supplier’s orders or margins. Storage demand and a manufacturer’s profitability still have to be assessed separately.[^5]
+
+## The fuller picture requires several reconciliations
+
+A useful reading of the next accounts will connect three layers: reported earnings, cash generation and the business supplying the batteries. The financial statements can explain how earnings translate into cash and how investment is funded. Operating disclosures can show which products and customers account for activity. Industry statistics provide context, but cannot fill gaps in a company’s own disclosure.[^3][^4]
+
+Evidence of a durable improvement would be stronger if these layers moved together: better operating performance accompanied by cash generation, productive assets serving actual demand, and clear explanations of unusual items. A large earnings number alone cannot answer all three questions. Equally, a sector-wide manufacturing challenge does not prove that a particular company’s quarter has deteriorated. The task is to connect comparable evidence without treating preliminary figures, technical capacity and realised cash as interchangeable measures.[^3][^4]
+
+[^1]: 2026-10-08 · [Preliminary results for Q3 2026](https://lg.co.kr/media/release/30650) · LG.
 
 [^2]: 2026-10-08 · [LG Energy Solution flags 26% rise in Q3 operating profit](https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106) · Reuters via CNA.
+
+[^3]: 2014-01-12 · [Beginners’ Guide to Financial Statements](https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements) · U.S. Securities and Exchange Commission; last updated 2017-02-06. Government-created educational text.
+
+[^4]: 2026-05-20 · [Global EV Outlook 2026: Electric vehicle batteries](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries) · IEA, Paris. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Summary adapted by Global Bole News. This is a work derived by Global Bole News from IEA material and Global Bole News is solely liable and responsible for this derived work. The derived work is not endorsed by the IEA or its Member countries in any manner.
+
+[^5]: 2022-03-25 · [Duration of utility-scale batteries depends on how they’re used](https://www.eia.gov/todayinenergy/detail.php?id=51798) · U.S. Energy Information Administration; principal contributor Vikram Linga. Public-domain background, summarised by Global Bole News; no current market-size estimate is taken from this historical article.

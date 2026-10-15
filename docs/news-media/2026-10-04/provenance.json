@@ -291,7 +291,6 @@
       "sha256": "08104a4b3d9af50eec7b908d29b92d7a581b1660dbae9ce482692a641f5cb92c",
       "checkedAt": "2026-10-04",
       "pixelsInspected": true,
-      "caption": "*图：2026、2030及2050年全球数据中心年度资本开支，中性情景预测。数据：PwC（2026年9月2日发布）；建模：Oxford Economics；制图：全球伯乐 News。*[^2]",
       "kind": "original_data_chart",
       "creator": "全球伯乐 News",
       "license": "Original site chart; reported numerical facts, no source artwork copied",
@@ -299,32 +298,10 @@
       "sourceURL": "https://www.pwc.com/gx/en/1/services/consulting/technology/data-centre-outlook.html",
       "sourceReleaseDate": "2026-09-02",
       "sourceAuthority": "PwC / Oxford Economics",
-      "data": {
-        "source": "PwC / Oxford Economics",
-        "release_date": "2026-09-02",
-        "metric": "Global data-centre annual capital expenditure, central scenario",
-        "unit": "USD trillions; real US dollars at 2025 exchange rates",
-        "values": [
-          {
-            "year": 2026,
-            "value": 0.8
-          },
-          {
-            "year": 2030,
-            "value": 1.1
-          },
-          {
-            "year": 2050,
-            "value": 1.8
-          }
-        ],
-        "rights": "Original chart using reported numerical facts; no source chart artwork copied",
-        "caption": "数据期：2026、2030及2050年，中性情景预测。来源：PwC《Global Data Centre Outlook 2026–50》，2026年9月2日发布，建模：Oxford Economics；制图：全球伯乐 News。"
-      },
-      "rebuildScript": "docs/news-media/2026-10-04/render-ai-capex-chart.py",
       "status": "removed_from_public_site",
       "removedAt": "2026-10-04",
-      "removalReason": "Self-created chart replaced with original-source media or prose"
+      "removalReason": "Self-created chart replaced with original-source media or prose",
+      "sourceUseRevision": "2026-10-15: removed duplicated source narrative and numerical table from this retired record; asset remains retired."
     },
     {
       "filename": "india-green-energy-corridor-investment.png",

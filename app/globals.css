@@ -173,7 +173,7 @@ button,
 input,
 select,
 textarea {
-  font: inherit;
+  font-family: inherit;
 }
 
 button,
@@ -255,6 +255,10 @@ img {
 
 .kicker-on-dark {
   color: var(--site-background);
+}
+
+.subscription-banner .kicker {
+  color: var(--site-accent-foreground);
 }
 
 .theme-select-nav {
@@ -1158,6 +1162,7 @@ a:hover .ref-image {
   }
 }
 /* Native-script typography and Markdown reading surfaces. */
+.article-copy { overflow-wrap: anywhere; }
 html[lang^="zh"] .dek { letter-spacing: .02em; }
 html[lang^="zh"] { font-family: "PingFang SC", "PingFang TC", "Microsoft YaHei", sans-serif; }
 .markdown-body { font-size: var(--type-body); line-height: 1.95; overflow-wrap: anywhere; }

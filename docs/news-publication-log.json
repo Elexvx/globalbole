@@ -90,30 +90,50 @@
           "sourceDate": "2026-10-03",
           "sources": [
             {
-              "title": "Analysis: AI's race to transform the world before the money runs out",
-              "url": "https://www.channelnewsasia.com/business/analysisais-race-transform-world-money-runs-out-6428746",
-              "date": "2026-10-03",
-              "type": "original_reporting"
-            },
-            {
-              "title": "Where $31.6 trillion of capex flows in the era-defining AI build-out",
+              "title": "PwC data-centre study",
               "url": "https://www.pwc.com/gx/en/1/services/consulting/technology/data-centre-outlook.html",
               "date": "2026-09-02",
-              "type": "primary"
+              "type": "primary",
+              "publisher": "PwC",
+              "rights": "Ordinary protected source; limited factual use",
+              "licenseEvidenceUrls": [
+                "https://www.pwc.com/gx/en/legal-notices/terms-and-conditions.html"
+              ]
             },
             {
-              "title": "Global AI market could hit $6 trillion annually by 2031 through unlocking value and innovation – Bain & Co's 7th Global Technology Report",
-              "url": "https://www.prnewswire.com/news-releases/global-ai-market-could-hit-6-trillion-annually-by-2031-through-unlocking-value-and-innovation--bain--cos-7th-global-technology-report-302891178.html",
-              "date": "2026-09-29",
-              "type": "primary"
+              "title": "Energy and AI: Executive summary",
+              "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+              "date": "2025-04-10",
+              "type": "licensed-primary",
+              "publisher": "IEA",
+              "rights": "CC BY 4.0; condensed and translated text with attribution, adaptation and non-endorsement notices; no photos, logos, cover art or third-party graphics",
+              "licenseEvidenceUrls": [
+                "https://www.iea.org/reports/energy-and-ai",
+                "https://www.iea.org/terms/creative-commons-cc-licenses",
+                "https://creativecommons.org/licenses/by/4.0/"
+              ]
             },
             {
-              "title": "No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%",
-              "url": "https://digitaleconomy.stanford.edu/news/canariesaug26/",
-              "date": "2026-08-12",
-              "type": "primary"
+              "title": "Beginners’ Guide to Financial Statements",
+              "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide",
+              "date": "2007-02-05",
+              "type": "government-primary-source",
+              "publisher": "U.S. Securities and Exchange Commission",
+              "rights": "Government-authored educational text; SEC website expressly permits reuse",
+              "licenseEvidenceUrls": [
+                "https://www.sec.gov/about/privacy-information",
+                "https://www.sec.gov/files/about/webmaster-faq.htm"
+              ]
             }
-          ]
+          ],
+          "updatedAt": "2026-10-15",
+          "priorSourceUrls": [
+            "https://www.channelnewsasia.com/business/analysisais-race-transform-world-money-runs-out-6428746",
+            "https://www.pwc.com/gx/en/1/services/consulting/technology/data-centre-outlook.html",
+            "https://www.prnewswire.com/news-releases/global-ai-market-could-hit-6-trillion-annually-by-2031-through-unlocking-value-and-innovation--bain--cos-7th-global-technology-report-302891178.html",
+            "https://digitaleconomy.stanford.edu/news/canariesaug26/"
+          ],
+          "revisionNote": "Expanded electricity and cash-flow evidence; retained one bounded forecast reference and replaced extended protected-source summaries."
         },
         {
           "translationKey": "india-green-energy-corridor-storage-2026-10-04",
@@ -763,18 +783,37 @@
               "date": "2026-10-08",
               "publisher": "Google",
               "type": "primary",
-              "accessed": "2026-10-09"
+              "accessed": "2026-10-15"
             },
             {
               "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
               "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-              "date": "2026-10-09",
+              "date": "2026-10-08",
               "publisher": "Google Cloud",
               "type": "primary",
-              "accessed": "2026-10-09"
+              "accessed": "2026-10-15"
+            },
+            {
+              "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+              "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+              "date": "2023-01-26",
+              "publisher": "NIST",
+              "type": "primary",
+              "accessed": "2026-10-15",
+              "rightsEvidenceURL": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications"
+            },
+            {
+              "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+              "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+              "date": "2024-07-26",
+              "publisher": "NIST",
+              "type": "primary",
+              "accessed": "2026-10-15",
+              "rightsEvidenceURL": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications"
             }
           ],
-          "note": "Announcement event October 8; Google Cloud keynote page displays October 9. No blanket general-availability claim. Financial-services and legal specializations remain previews."
+          "note": "Revised 2026-10-15: source date corrected; original site publication date retained. Expanded with independent NIST guidance. Hypothetical evaluations and recommendations are explicitly distinguished from product facts.",
+          "editorialRepairLedger": "docs/news-media/2026-10-09/google-agent-repair-2026-10-15.json"
         },
         {
           "translationKey": "flock-safety-planned-job-cuts-2026-10-09",
@@ -936,10 +975,37 @@
               "publisher": "Reuters via CNA",
               "type": "original_reporting",
               "accessed": "2026-10-09"
+            },
+            {
+              "title": "Beginners’ Guide to Financial Statements",
+              "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+              "date": "2014-01-12",
+              "publisher": "U.S. Securities and Exchange Commission",
+              "type": "government_education",
+              "accessed": "2026-10-15",
+              "lastUpdated": "2017-02-06"
+            },
+            {
+              "title": "Global EV Outlook 2026: Electric vehicle batteries",
+              "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries",
+              "date": "2026-05-20",
+              "publisher": "International Energy Agency",
+              "type": "licensed_analysis",
+              "accessed": "2026-10-15",
+              "license": "CC BY 4.0"
+            },
+            {
+              "title": "Duration of utility-scale batteries depends on how they’re used",
+              "url": "https://www.eia.gov/todayinenergy/detail.php?id=51798",
+              "date": "2022-03-25",
+              "publisher": "U.S. Energy Information Administration",
+              "type": "government_technical_background",
+              "accessed": "2026-10-15"
             }
           ],
-          "note": "Preliminary, unaudited Q3 results. North American production subsidies are included in sales and other income from Q1 2026 with restated comparatives. Excluding credits does not establish recurring profit; compensation and ESS loss assessments retain analyst attribution.",
-          "dataPeriod": "Q3 2026; year-to-date through Q3 2026"
+          "note": "Revised with financial and battery-industry context on 2026-10-15; source-use and rights records updated.",
+          "dataPeriod": "Q3 2026",
+          "updatedAt": "2026-10-15"
         },
         {
           "translationKey": "byd-overseas-geopolitics-2026-10-09",
@@ -1964,6 +2030,135 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-14-zh-CN",
+      "issue": "2026-10-14",
+      "publicationDate": "2026-10-15",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-september-price-divergence-2026-10-14",
+          "path": "content/issues/2026-10-14/zh-CN/china-september-price-divergence-2026-10-14.md",
+          "eventDate": "2026-10-14",
+          "sourceDate": "2026-10-14",
+          "dataPeriod": "2026-09",
+          "sources": [
+            {
+              "title": "2026年9月份工业生产者出厂价格同比上涨5.0% 环比上涨1.2%",
+              "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261014_1965476.html",
+              "date": "2026-10-14",
+              "type": "government-primary-source",
+              "publisher": "国家统计局",
+              "rights": "Conditional good-faith free public news reuse; unsigned NBS data and methodology, prominently attributed. Not public domain or CC licensed.",
+              "licenseEvidenceUrls": [
+                "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html"
+              ],
+              "dataPeriod": "2026-09"
+            },
+            {
+              "title": "2026年9月份居民消费价格同比上涨0.9%",
+              "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261014_1965477.html",
+              "date": "2026-10-14",
+              "type": "government-primary-source",
+              "publisher": "国家统计局",
+              "rights": "Same NBS conditional permission; signed commentary excluded.",
+              "licenseEvidenceUrls": [
+                "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html"
+              ],
+              "dataPeriod": "2026-09"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-september-cpi-energy-pressure-2026-10-14",
+          "path": "content/issues/2026-10-14/zh-CN/us-september-cpi-energy-pressure-2026-10-14.md",
+          "eventDate": "2026-10-14",
+          "sourceDate": "2026-10-14",
+          "dataPeriod": "2026-09",
+          "sources": [
+            {
+              "title": "Consumer Price Index — September 2026",
+              "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+              "date": "2026-10-14",
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "BLS-authored public-domain publication; third-party photographs excluded.",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm"
+              ],
+              "dataPeriod": "2026-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-zh-CN",
+      "issue": "2026-10-15",
+      "publicationDate": "2026-10-15",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "australia-september-employment-sampling-2026-10-15",
+          "path": "content/issues/2026-10-15/zh-CN/australia-september-employment-sampling-2026-10-15.md",
+          "eventDate": "2026-10-15",
+          "sourceDate": "2026-10-15",
+          "dataPeriod": "2026-09",
+          "sources": [
+            {
+              "title": "Labour Force, Australia, September 2026",
+              "url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/sep-2026",
+              "date": "2026-10-15",
+              "type": "government-primary-source",
+              "publisher": "Australian Bureau of Statistics",
+              "rights": "ABS-owned text and data: CC BY 4.0; adapted and translated with attribution, licence link and no endorsement. Excludes third-party content and logos.",
+              "licenseEvidenceUrls": [
+                "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+              ],
+              "dataPeriod": "2026-09"
+            },
+            {
+              "title": "Unemployment rate at 4.7% in September",
+              "url": "https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-47-september",
+              "date": "2026-10-15",
+              "type": "government-primary-source",
+              "publisher": "Australian Bureau of Statistics",
+              "rights": "ABS-owned text and data: CC BY 4.0; adapted and translated with attribution, licence link and no endorsement. Excludes third-party content and logos.",
+              "licenseEvidenceUrls": [
+                "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+              ],
+              "dataPeriod": "2026-09"
+            },
+            {
+              "title": "Labour Force, Australia methodology, September 2026",
+              "url": "https://www.abs.gov.au/methodologies/labour-force-australia-methodology/sep-2026",
+              "date": "2026-10-15",
+              "type": "government-primary-source",
+              "publisher": "Australian Bureau of Statistics",
+              "rights": "ABS-owned text and data: CC BY 4.0; adapted and translated with attribution, licence link and no endorsement. Excludes third-party content and logos.",
+              "licenseEvidenceUrls": [
+                "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+              ],
+              "dataPeriod": "2026-09"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [
@@ -1998,6 +2193,15 @@
       ],
       "audit": "docs/news-media/2026-10-04/remediation-audit.json",
       "note": "Filled all six missing covers with labeled AI-generated editorial illustrations, reused in each article body. Retained eight licensed original-source images and all factual article text, paths, source notes and categories. No self-created data charts."
+    },
+    {
+      "date": "2026-10-15",
+      "type": "source-use-and-depth-revision",
+      "articles": [
+        "ai-infrastructure-revenue-gap-2026-10-04"
+      ],
+      "audit": "docs/news-media/2026-10-04/ai-financing-repair-2026-10-15.json",
+      "note": "Rebuilt five complete editions with licensed energy evidence and government-authored accounting guidance; preserved article routes, original publication date and active illustration."
     }
   ]
 }
