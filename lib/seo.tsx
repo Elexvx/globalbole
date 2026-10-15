@@ -3,7 +3,7 @@ import { stories, categories, type Story } from "./data";
 import { locales, isLocale, type Locale } from "./locales";
 import { translatedTagSlug } from "./language-routes.mjs";
 import { siteUrl } from "./site-url";
-import { positioning, brandNames, siteName as publisherName } from "./site-brand";
+import { positioning, brandNames, brandAliases, siteName as publisherName } from "./site-brand";
 import { homeSeo } from "./home-seo.mjs";
 import messages from "./messages.json";
 import { decodeTagRouteSegment, tagLabel, tagMatchesSlug } from "./tag-routes.mjs";
@@ -101,8 +101,8 @@ export function routeSeo(locale: Locale, path: string[] = []) {
     ...(path.length ? [{ name: title, item: canonical }] : []),
   ];
   const graph = [
-    { "@type": "Organization", "@id": publisherId, name: publisherName, alternateName: [...new Set(Object.values(brandNames))].filter(name => name !== publisherName), url: absolute("/") },
-    { "@type": "WebSite", "@id": websiteId, name: publisherName, alternateName: "Global Bole News", url: absolute("/"), publisher: { "@id": publisherId }, inLanguage: locales },
+    { "@type": "Organization", "@id": publisherId, name: publisherName, alternateName: brandAliases, url: absolute("/") },
+    { "@type": "WebSite", "@id": websiteId, name: publisherName, alternateName: brandAliases, url: absolute("/"), publisher: { "@id": publisherId }, inLanguage: locales },
     page,
     ...(articleSchema ? [articleSchema] : []),
     ...(breadcrumbItems.length > 1 ? [{ "@type": "BreadcrumbList", "@id": canonical + "#breadcrumb", itemListElement: breadcrumbItems.map((item, index) => ({ "@type": "ListItem", position: index + 1, ...item })) }] : []),

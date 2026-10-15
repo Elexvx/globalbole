@@ -57,11 +57,27 @@ for (const locale of languages) {
   homePages.set(locale, html);
 }
 assert.deepEqual(alternates(home), alternates(readPage('/zh-CN/')), 'Both Chinese home entry points share the canonical language cluster');
+assert.deepEqual(graph(home).filter(item => ['WebSite','Organization'].includes(item['@type'])), graph(readPage('/zh-CN/')).filter(item => ['WebSite','Organization'].includes(item['@type'])), 'Duplicate Chinese entry retains identical site identity data');
 for (const locale of languages) {
   const html = homePages.get(locale);
   assert.equal(canonical(html), locale === 'zh-CN' ? `${base}/` : `${base}/${locale}/`);
   assert.ok(graph(html).some(item => item['@type'] === 'WebSite'), `${locale}: homepage has site-name structured data`);
   assert.ok(graph(html).some(item => item['@type'] === 'Organization'), `${locale}: homepage identifies the publisher`);
+  const identities = graph(html);
+  for (const [type, id] of [['WebSite', 'website'], ['Organization', 'publisher']]) {
+    const nodes = identities.filter(item => item['@type'] === type);
+    assert.equal(nodes.length, 1, `${locale}: exactly one ${type} identity`);
+    assert.equal(nodes[0]['@id'], `${base}/#${id}`);
+    assert.equal(nodes[0].name, '全球伯乐 News', `${locale}: established primary name is preserved`);
+    assert.equal(nodes[0].url, `${base}/`);
+    for (const alias of ['全球伯乐', '全球伯樂', 'Global Bole', 'GlobalBole', 'Global Bole News']) assert.ok(nodes[0].alternateName.includes(alias), `${locale}: ${type} exact real brand alias ${alias}`);
+  }
+  const brandLinks = [...html.matchAll(/<a\b[^>]*>[\s\S]*?<\/a>/gi)].map(match => match[0]).filter(link => link.includes('site-brand-title'));
+  assert.equal(brandLinks.length, 2, `${locale}: header and footer expose crawlable brand links`);
+  for (const link of brandLinks) {
+    assert.equal(attribute(link, 'href'), `/${locale}/`, `${locale}: explicit brand links retain locale-safe navigation`);
+  }
+
   assert.equal(graph(html).some(item => item['@type'] === 'BreadcrumbList'), false, `${locale}: homepage does not emit a one-item breadcrumb`);
   assert.equal(graph(html).find(item => item['@type'] === 'WebPage').url, canonical(html));
 }
