@@ -1,0 +1,140 @@
+{
+  "article": "eu-rapid-trade-response-2026-10-06",
+  "revisedAt": "2026-10-15",
+  "scope": "all-five-language-editions",
+  "status": "editorial-source-and-package-checks-passed",
+  "changes": [
+    "Replaced extended protected-source dependence with verified licensed institutional explanation.",
+    "Retained full marked source titles and a clearly conditional report of the proposal.",
+    "Preserved original publication date, URLs, image file and provenance."
+  ],
+  "sources": [
+    {
+      "publisher": "France 24 / AFP",
+      "url": "https://www.aol.co.uk/articles/france-germany-seek-eu-rapid-170126000.html",
+      "publicationDate": "2026-10-05",
+      "rights": "Ordinary protected source; all mirrors one work.",
+      "accessed": "2026-10-15"
+    },
+    {
+      "publisher": "Reuters",
+      "url": "https://www.investing.com/news/economy-news/france-germany-propose-new-rapid-eu-trade-response-tool-4932514",
+      "publicationDate": "2026-10-05",
+      "rights": "Ordinary protected source; all mirrors one work.",
+      "accessed": "2026-10-15"
+    },
+    {
+      "publisher": "French presidency",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/07/17/conclusions-du-26e-conseil-des-ministres-franco-allemand",
+      "publicationDate": "2026-07-17",
+      "rights": "Ordinary protected source; no reuse grant assumed.",
+      "accessed": "2026-10-15"
+    },
+    {
+      "publisher": "European Commission",
+      "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-against-coercion_en",
+      "publicationDate": null,
+      "rights": "Commission-owned explanatory text is CC BY 4.0 per opened legal notice; no contrary notice visible; excludes logos, images and third-party works.",
+      "accessed": "2026-10-15",
+      "rightsEvidenceUrl": "https://commission.europa.eu/legal-notice_en",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sourceUse": {
+    "method": "Locale-aware word-like segmentation; dates count as one unit; Markdown syntax and URLs excluded. All five editions are aggregated, including source-dependent titles, leads, procedural kernels and footnotes. Public reference metadata is additionally reserved below. Source mirrors and translations share one work allowance.",
+    "ordinarySourceAllocations": {
+      "AFP": {
+        "articleWordsByLanguage": {
+          "en": 31,
+          "fr": 39,
+          "ru": 34,
+          "zh-CN": 38,
+          "zh-TW": 38
+        },
+        "articleTotal": 180,
+        "publicReferenceMetadataConservativeAllowance": 20,
+        "combinedCeiling": 200,
+        "ordinaryLimit": 200
+      },
+      "Reuters": {
+        "articleWordsByLanguage": {
+          "en": 29,
+          "fr": 39,
+          "ru": 32,
+          "zh-CN": 40,
+          "zh-TW": 39
+        },
+        "articleTotal": 179,
+        "publicReferenceMetadataConservativeAllowance": 20,
+        "combinedCeiling": 199,
+        "ordinaryLimit": 200
+      },
+      "Elysee": {
+        "articleWordsByLanguage": {
+          "en": 29,
+          "fr": 28,
+          "ru": 27,
+          "zh-CN": 35,
+          "zh-TW": 31
+        },
+        "articleTotal": 150,
+        "publicReferenceMetadataConservativeAllowance": 20,
+        "combinedCeiling": 170,
+        "ordinaryLimit": 200
+      }
+    },
+    "licensedExplanation": "Commission-owned source text under CC BY 4.0 supports remaining sections, headings, descriptions and SEO metadata. Adaptation/translation, source and licence credit, and non-endorsement language appear in every edition. No third-party images, logos or works are copied.",
+    "verbatimControl": "Only original-language source titles are reproduced in the applicable article and bibliography; translated editions mark translated titles. Original-headline totals including the public log remain below 25 words per ordinary source.",
+    "limitation": "Editorial source-use screening, not a legal determination. Existing remaining review priorities are not findings of infringement or complete factual clearance."
+  },
+  "preservedImage": {
+    "path": "/news-media/2026-10-06/eu-trade-editorial.png",
+    "sha256": "519fdef90fb4653c42493366d2f4b069dad25628e2d946b4a3cbb95bf8c0bd56",
+    "disclosure": "Existing AI-generated conceptual illustration, unchanged; not evidence of an actual event.",
+    "provenance": "docs/news-media/2026-10-06/provenance.json"
+  },
+  "editions": [
+    {
+      "lang": "en",
+      "path": "content/issues/2026-10-06/en/eu-rapid-trade-response-2026-10-06.md",
+      "sha256": "093301adb9277c0dd1054bd4075464827a8528c4e4b75394256e56fdaa5855b3",
+      "sections": 4,
+      "substantiveParagraphs": 10
+    },
+    {
+      "lang": "fr",
+      "path": "content/issues/2026-10-06/fr/eu-rapid-trade-response-2026-10-06.md",
+      "sha256": "b02d4edc4b327f793fed09d875520b5794302409199de7391844d4c7f651ca42",
+      "sections": 4,
+      "substantiveParagraphs": 10
+    },
+    {
+      "lang": "ru",
+      "path": "content/issues/2026-10-06/ru/eu-rapid-trade-response-2026-10-06.md",
+      "sha256": "5858fcd53288877d9ce7a2f179348d7f16918efb19b978f10cbef07933715bb4",
+      "sections": 4,
+      "substantiveParagraphs": 10
+    },
+    {
+      "lang": "zh-CN",
+      "path": "content/issues/2026-10-06/zh-CN/eu-rapid-trade-response-2026-10-06.md",
+      "sha256": "2ad6a22961bacb7fd91ef1d8bd257c706a1aecdc237e6ee84165817df2c43e7d",
+      "sections": 4,
+      "substantiveParagraphs": 10
+    },
+    {
+      "lang": "zh-TW",
+      "path": "content/issues/2026-10-06/zh-TW/eu-rapid-trade-response-2026-10-06.md",
+      "sha256": "f08877c3aa5942c28ad1c331fe61df9fa831972396a72b11860cc30a6335482e",
+      "sections": 4,
+      "substantiveParagraphs": 10
+    }
+  ],
+  "reviewScope": {
+    "repairedHistoricalTopicsTotal": 4,
+    "remainingSourceUseReviewFlags": 22,
+    "liveTopics": 50,
+    "liveEditions": 250,
+    "withdrawalRecordPreserved": true
+  }
+}

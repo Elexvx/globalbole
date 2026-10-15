@@ -632,10 +632,13 @@
               "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-against-coercion_en",
               "date": null,
               "type": "primary",
-              "accessed": "2026-10-06"
+              "accessed": "2026-10-15",
+              "rights": "Commission-owned text: CC BY 4.0; adapted and translated with attribution."
             }
           ],
-          "note": "Franco-German October 5 proposal, not enacted restrictions. Existing Anti-Coercion Instrument is separate background."
+          "note": "Five-language source-use revision reviewed on 2026-10-15; publication identity and existing illustration retained.",
+          "reviewedAt": "2026-10-15",
+          "audit": "docs/news-media/2026-10-06/trade-repair-2026-10-15.json"
         },
         {
           "translationKey": "nepal-flood-recovery-2026-10-06",
@@ -2202,6 +2205,15 @@
       ],
       "audit": "docs/news-media/2026-10-04/ai-financing-repair-2026-10-15.json",
       "note": "Rebuilt five complete editions with licensed energy evidence and government-authored accounting guidance; preserved article routes, original publication date and active illustration."
+    },
+    {
+      "date": "2026-10-15",
+      "type": "source-use-and-depth-revision",
+      "articles": [
+        "eu-rapid-trade-response-2026-10-06"
+      ],
+      "audit": "docs/news-media/2026-10-06/trade-repair-2026-10-15.json",
+      "note": "Rebuilt five editions around verified licensed institutional background with bounded reporting kernels; retained original routes, publication date and existing illustration."
     }
   ]
 }

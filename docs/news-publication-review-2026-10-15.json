@@ -177,7 +177,8 @@
     "completedRepairTopics": [
       "google-gemini-work-agents-2026-10-09",
       "lg-energy-solution-q3-profit-2026-10-09",
-      "ai-infrastructure-revenue-gap-2026-10-04"
+      "ai-infrastructure-revenue-gap-2026-10-04",
+      "eu-rapid-trade-response-2026-10-06"
     ],
     "note": "Screening flags are review priorities, not findings of legal infringement or complete factual clearance. Remaining topics require further source-by-source review. Withdrawal tombstone and republish:false remain in force.",
     "remainingReviewTopics": [
@@ -190,7 +191,6 @@
       "us-supreme-court-climate-liability-2026-10-05",
       "deutsche-telekom-ai-savings-2026-10-06",
       "eu-affordable-ev-sales-2026-10-06",
-      "eu-rapid-trade-response-2026-10-06",
       "nepal-flood-recovery-2026-10-06",
       "reflection-beam-open-weights-2026-10-06",
       "asean-energy-security-grid-2026-10-09",
@@ -205,7 +205,7 @@
       "us-perm-suspension-tcs-2026-10-10",
       "us-ai-server-export-guilty-plea-2026-10-11"
     ],
-    "remainingReviewCount": 23
+    "remainingReviewCount": 22
   },
   "imageReview": {
     "selected": 3,
@@ -220,7 +220,7 @@
     "Legacy structured paragraphs use the established body typography.",
     "New archival photograph captions and credits use the established caption typography."
   ],
-  "publicationStatus": "Editorial, source, media and local build checks complete; exact Git deployment and rendered preview checks remain release gates.",
+  "publicationStatus": "Catch-up release verified on production commit cc917c31f904bc555e161e7555ff805da6e59f37. Subsequent trade-repair package requires its own exact-commit preview and production verification.",
   "localValidation": {
     "tests": {
       "passed": 76,
@@ -247,5 +247,13 @@
       "editions": 250,
       "issues": 10
     }
-  }
+  },
+  "followupRepairs": [
+    {
+      "article": "eu-rapid-trade-response-2026-10-06",
+      "reviewDate": "2026-10-15",
+      "audit": "docs/news-media/2026-10-06/trade-repair-2026-10-15.json",
+      "remainingSourceUseReviewFlags": 22
+    }
+  ]
 }
