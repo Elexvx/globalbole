@@ -9,6 +9,15 @@ const outputDir = path.resolve("public/optimized-assets");
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 17 archival photographs: full-frame 1280px comparisons retain
+  // subject detail while meeting the existing WebP/AVIF transfer budget.
+  "byd-frankfurt": 60,
+  "ev-el-paso": 60,
+  "permian-pumpjack": 60,
+  "walmart-wallkill": 60,
+  "ourisman-bethesda": 60,
+  "ford-kansas-assembly": 60,
+  "cardinal-ohio-power": 55,
   "P20260929JB-0074-1200": 55,
   "hamburg-container-terminal-2019": 55,
   "ev-charging-2020": 60,

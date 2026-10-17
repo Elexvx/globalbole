@@ -1,0 +1,204 @@
+{
+  "reviewDate": "2026-10-17",
+  "baselineCommit": "bc480ee9a08fa57ec2b173fce0b7f44be4af7da2",
+  "sourceHandoff": {
+    "completeManuscriptReceived": false,
+    "issues": [
+      "2026-10-16",
+      "2026-10-17"
+    ],
+    "candidateCount": 16,
+    "selectedImageCandidatesReceived": 6,
+    "editorialMethod": "The incoming material consisted of short leads, not complete manuscripts. For these two issues the publisher was explicitly asked to research and write original complete articles. Each selected report was independently verified and written from the primary sources documented below; the briefs are not factual evidence. This batch-specific exception does not alter the standing source-handoff requirement."
+  },
+  "selected": [
+    {
+      "translationKey": "us-september-ppi-energy-margins-2026-10-16",
+      "issue": "2026-10-16",
+      "publicationDate": "2026-10-17",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "status": "selected",
+      "textReview": "Complete five-language editions independently reviewed for facts, dates, units, statistical qualifications, depth and source attribution.",
+      "sourceRecord": "docs/news-publication-log.json",
+      "images": [
+        "permian-pumpjack"
+      ],
+      "mediaProvenance": "docs/news-media/2026-10-17/provenance.json",
+      "sourceUse": {
+        "basis": "The used statistical releases and methodology were verified as the named US federal agency’s own work, with the specific reuse notices recorded in the publication log. Third-party images were cleared separately.",
+        "ordinaryCopyrightedTextSources": 0
+      }
+    },
+    {
+      "translationKey": "us-september-retail-sales-composition-2026-10-16",
+      "issue": "2026-10-16",
+      "publicationDate": "2026-10-17",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "status": "selected",
+      "textReview": "Complete five-language editions independently reviewed for facts, dates, units, statistical qualifications, depth and source attribution.",
+      "sourceRecord": "docs/news-publication-log.json",
+      "images": [
+        "walmart-wallkill",
+        "ourisman-bethesda"
+      ],
+      "mediaProvenance": "docs/news-media/2026-10-17/provenance.json",
+      "sourceUse": {
+        "basis": "The used statistical releases and methodology were verified as the named US federal agency’s own work, with the specific reuse notices recorded in the publication log. Third-party images were cleared separately.",
+        "ordinaryCopyrightedTextSources": 0
+      }
+    },
+    {
+      "translationKey": "us-september-industrial-output-2026-10-17",
+      "issue": "2026-10-17",
+      "publicationDate": "2026-10-17",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "status": "selected",
+      "textReview": "Complete five-language editions independently reviewed for facts, dates, units, statistical qualifications, depth and source attribution.",
+      "sourceRecord": "docs/news-publication-log.json",
+      "images": [
+        "ford-kansas-assembly",
+        "cardinal-ohio-power"
+      ],
+      "mediaProvenance": "docs/news-media/2026-10-17/provenance.json",
+      "sourceUse": {
+        "basis": "The used statistical releases and methodology were verified as the named US federal agency’s own work, with the specific reuse notices recorded in the publication log. Third-party images were cleared separately.",
+        "ordinaryCopyrightedTextSources": 0
+      }
+    },
+    {
+      "translationKey": "global-ev-sales-regional-divergence-2026-10-16",
+      "issue": "2026-10-16",
+      "publicationDate": "2026-10-17",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "status": "selected",
+      "textReview": "Complete five-language editions independently reviewed for facts, dates, units, statistical qualifications, depth and source attribution.",
+      "sourceRecord": "docs/news-publication-log.json",
+      "images": [
+        "byd-frankfurt",
+        "ev-el-paso"
+      ],
+      "mediaProvenance": "docs/news-media/2026-10-17/provenance.json",
+      "sourceUse": {
+        "countScope": "All five editions, metadata and the single bibliography in the publication log. Chinese segments were counted using full English back-translations; French and Russian directly. Source-dependent explanation is attributed to the separately licensed reports, not excluded merely by calling it analysis.",
+        "ordinaryCopyrightedSources": [
+          {
+            "url": "https://source.benchmarkminerals.com/article/global-ev-sales-reach-2-15-million-units-in-september-2026",
+            "aggregateEquivalentWords": 192,
+            "conservativeVerbatimWords": 21
+          },
+          {
+            "url": "https://www.smmt.co.uk/record-electric-car-market-powers-bumper-september/",
+            "aggregateEquivalentWords": 166,
+            "conservativeVerbatimWords": 20
+          },
+          {
+            "url": "https://www.cada.cn/Trends/info_91_10580.html",
+            "aggregateEquivalentWords": 183,
+            "conservativeVerbatimWords": 20
+          },
+          {
+            "url": "https://www.coxautoinc.com/wp-content/uploads/2026/10/Q3-2026-Kelley-Blue-Book-EV-Sales-Report-updated-as-of-10-13-26.pdf",
+            "aggregateEquivalentWords": 181,
+            "conservativeVerbatimWords": 24
+          }
+        ],
+        "licensedContext": "Two separately identified CC BY 4.0 reports; adaptation and non-endorsement notices retained."
+      }
+    }
+  ],
+  "held": [
+    {
+      "candidate": "16-01",
+      "topic": "TSMC third-quarter earnings",
+      "reason": "Event figures are available in the corporate release, but a sufficient independently usable source package for five complete language editions was not established. The checked open official financial dataset still covered the preceding quarter."
+    },
+    {
+      "candidate": "16-03",
+      "topic": "IEA reserves and diesel supply",
+      "reason": "The proposed current-events angle is tied to geopolitical and sanctions questions; held under the sensitive-topic screening rule rather than expanded in this batch."
+    },
+    {
+      "candidate": "16-05",
+      "topic": "Seed AI safety hiring",
+      "reason": "Primary hiring information was found, but a sufficiently detailed and rights-cleared five-language reporting package was not established."
+    },
+    {
+      "candidate": "16-07",
+      "topic": "European Council discussions",
+      "reason": "Sensitive political subject outside this batch selection; potentially overlaps the following issue’s summit conclusion lead."
+    },
+    {
+      "candidate": "16-08",
+      "topic": "US weekly initial unemployment claims",
+      "reason": "Official new weekly data were checked, but no sufficiently distinct full-depth follow-up beyond the recently published claims coverage was selected. Not a claim that the new data duplicate the prior reporting week."
+    },
+    {
+      "candidate": "17-01",
+      "topic": "China technology-export catalogue draft",
+      "reason": "Trade-policy and politically sensitive scope requires further editorial eligibility review; not selected for automatic publication."
+    },
+    {
+      "candidate": "17-02",
+      "topic": "US technology-stock decline",
+      "reason": "A full original-source account and sufficient aggregate five-language source-use allowance were not established. A single market-news story was not expanded into a long report."
+    },
+    {
+      "candidate": "17-03",
+      "topic": "Oil-price snapshot and possible sanctions",
+      "reason": "Intraday/settlement timing and the sanctions-driven political angle would require additional verification and topic review; not selected."
+    },
+    {
+      "candidate": "17-04",
+      "topic": "European Council conclusions",
+      "reason": "Sensitive political subject outside this batch selection; not used to fill the issue."
+    },
+    {
+      "candidate": "17-06",
+      "topic": "Anthropic and Canadian data-centre lease",
+      "reason": "The accessible developer announcement did not identify Anthropic. Capacity and timing are conditional plans, and a sufficient rights-cleared long-form package was not established."
+    },
+    {
+      "candidate": "17-07",
+      "topic": "Tencent agent browsing behaviour",
+      "reason": "The primary investigation was located, but no open reuse licence was established and the October 16 corporate response was not independently obtained from Tencent’s own channel. The infrastructure association is not proof of a model’s identity or intent. No sufficiently supported five-language article was prepared."
+    },
+    {
+      "candidate": "17-08",
+      "topic": "WHO and INTERPOL agreement",
+      "reason": "The joint announcement was found, but the applicable reuse permission for that news page was not established; the pictured Getty photograph was not cleared. No long-form manuscript or image clearance is claimed."
+    }
+  ],
+  "publicationDate": "2026-10-17",
+  "scopeNote": "This release does not claim resolution of the 21 previously recorded article-review flags or the separately recorded client-payload and image-loading issues.",
+  "mediaReview": {
+    "photographs": 7,
+    "generatedImages": 0,
+    "recreatedDataCharts": 0,
+    "captions": "Historical subject, place and capture date; creator, source and licence retained in every language. Each cover is reused in the body.",
+    "sanitization": "Published photo masters omit EXIF/IPTC/XMP. Responsive variants preserve proportions and attribution. Full-frame photographic conversions are documented in provenance."
+  }
+}

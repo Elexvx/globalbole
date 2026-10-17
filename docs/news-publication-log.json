@@ -2213,6 +2213,252 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-16-zh-CN",
+      "issue": "2026-10-16",
+      "publicationDate": "2026-10-17",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "us-september-ppi-energy-margins-2026-10-16",
+          "path": "content/issues/2026-10-16/zh-CN/us-september-ppi-energy-margins-2026-10-16.md",
+          "eventDate": "2026-10-15",
+          "sourceDate": "2026-10-15",
+          "dataPeriod": "2026-09",
+          "sources": [
+            {
+              "title": "Producer Price Indexes — September 2026",
+              "url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+              "date": "2026-10-15",
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "BLS-authored public-domain text and data; no third-party images reproduced.",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm"
+              ],
+              "dataPeriod": "2026-09",
+              "releaseTime": "08:30 America/New_York",
+              "dateNote": "September preliminary estimates; prior months use the revised values in this release."
+            },
+            {
+              "title": "Debunking 8 common misconceptions about the Producer Price Index",
+              "url": "https://www.bls.gov/opub/btn/volume-13/misconceptions-ppi.htm",
+              "date": "2024-06",
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "authors": [
+                "Deanna Bathgate",
+                "Jonathan Weinhagen"
+              ],
+              "rights": "BLS staff-authored public-domain methodology; no linked third-party works reused.",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm"
+              ]
+            },
+            {
+              "title": "Wholesale and retail Producer Price Indexes: margin prices",
+              "url": "https://www.bls.gov/opub/btn/volume-1/wholesale-and-retail-producer-price-indexes-margin-prices.htm",
+              "date": "2012-08",
+              "type": "government-primary-source",
+              "publisher": "U.S. Bureau of Labor Statistics",
+              "rights": "BLS staff-authored public-domain methodology; no linked third-party works reused.",
+              "licenseEvidenceUrls": [
+                "https://www.bls.gov/bls/linksite.htm"
+              ]
+            }
+          ]
+        },
+        {
+          "translationKey": "us-september-retail-sales-composition-2026-10-16",
+          "path": "content/issues/2026-10-16/zh-CN/us-september-retail-sales-composition-2026-10-16.md",
+          "eventDate": "2026-10-15",
+          "sourceDate": "2026-10-15",
+          "dataPeriod": "2026-09",
+          "sources": [
+            {
+              "title": "Advance Monthly Sales for Retail and Food Services, September 2026",
+              "url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+              "date": "2026-10-15",
+              "type": "government-primary-source",
+              "publisher": "U.S. Census Bureau",
+              "releaseNumber": "CB26-165",
+              "dataPeriod": "2026-09",
+              "releaseTime": "08:30 America/New_York",
+              "rights": "U.S. federal government-authored statistical release; no contractor or third-party copyrighted material identified in the reused text/data.",
+              "licenseEvidenceUrls": [
+                "https://www2.census.gov/foia/ds_policies/ds027.pdf",
+                "https://www.census.gov/about/policies/citation.html"
+              ],
+              "dateNote": "The official URL rolls forward. The exact October 15 September release is preserved unchanged at the fixed copy linked in all five editions.",
+              "preservedOriginal": {
+                "url": "https://www.globalbole.com/news-sources/2026-10-16/census-retail-sales-september-2026-CB26-165.pdf",
+                "sha256": "ca6a46c73ae50400510701f007d40a26b436bef039f26060e1ecde235d2a5a03",
+                "retrievedAt": "2026-10-17",
+                "unmodified": true
+              }
+            },
+            {
+              "title": "Monthly Retail Trade — Definitions",
+              "url": "https://www.census.gov/retail/definitions.html",
+              "date": null,
+              "accessedAt": "2026-10-17",
+              "type": "government-primary-source",
+              "publisher": "U.S. Census Bureau",
+              "rights": "U.S. federal government-authored survey definitions; no third-party works reused.",
+              "licenseEvidenceUrls": [
+                "https://www2.census.gov/foia/ds_policies/ds027.pdf",
+                "https://www.census.gov/about/policies/citation.html"
+              ]
+            }
+          ]
+        },
+        {
+          "translationKey": "global-ev-sales-regional-divergence-2026-10-16",
+          "path": "content/issues/2026-10-16/zh-CN/global-ev-sales-regional-divergence-2026-10-16.md",
+          "eventDate": "2026-10-16",
+          "sourceDate": "2026-10-16",
+          "dataPeriod": "2026-09 and identified historical context",
+          "sources": [
+            {
+              "date": "2026-10-16",
+              "title": "2026年9月全球电动车销量达215万辆（译题）",
+              "publisher": "Benchmark",
+              "url": "https://source.benchmarkminerals.com/article/global-ev-sales-reach-2-15-million-units-in-september-2026",
+              "type": "primary",
+              "rights": "Ordinary copyrighted source; bounded attributable reporting only. Five-language aggregate and exact quotation use independently checked, including this single bibliography."
+            },
+            {
+              "date": "2026-10-05",
+              "title": "Record electric car market powers bumper September",
+              "publisher": "SMMT",
+              "url": "https://www.smmt.co.uk/record-electric-car-market-powers-bumper-september/",
+              "type": "primary",
+              "rights": "Ordinary copyrighted source; bounded attributable reporting only. Five-language aggregate and exact quotation use independently checked, including this single bibliography."
+            },
+            {
+              "date": "2026-10-12",
+              "title": "September 2026 National Passenger Car Market Analysis (translated title)",
+              "publisher": "CADA",
+              "url": "https://www.cada.cn/Trends/info_91_10580.html",
+              "type": "primary",
+              "rights": "Ordinary copyrighted source; bounded attributable reporting only. Five-language aggregate and exact quotation use independently checked, including this single bibliography."
+            },
+            {
+              "date": "2026-10-13",
+              "title": "2026年第三季度电动车销售报告（译题）",
+              "publisher": "Kelley Blue Book",
+              "url": "https://www.coxautoinc.com/wp-content/uploads/2026/10/Q3-2026-Kelley-Blue-Book-EV-Sales-Report-updated-as-of-10-13-26.pdf",
+              "type": "primary",
+              "rights": "Ordinary copyrighted source; bounded attributable reporting only. Five-language aggregate and exact quotation use independently checked, including this single bibliography.",
+              "dateNote": "修订"
+            },
+            {
+              "title": "Electric Car Markets in a Time of Uncertainty, July 2026",
+              "url": "https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty",
+              "date": "2026-07-30",
+              "publisher": "International Energy Agency",
+              "type": "licensed-primary-source",
+              "rights": "CC BY 4.0. Text/data adapted and translated with attribution and derivative-work non-endorsement notice in each edition. No photographs, third-party graphics, logos or charts reused.",
+              "licenseEvidenceUrls": [
+                "https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty",
+                "https://www.iea.org/terms/creative-commons-cc-licenses"
+              ]
+            },
+            {
+              "title": "Global EV Outlook 2026, Trends in electric cars",
+              "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+              "date": "2026-05-20",
+              "publisher": "International Energy Agency",
+              "type": "licensed-primary-source",
+              "rights": "CC BY 4.0. Text/data adapted and translated with attribution and derivative-work non-endorsement notice in each edition. No photographs, third-party graphics, logos or charts reused.",
+              "licenseEvidenceUrls": [
+                "https://www.iea.org/reports/global-ev-outlook-2026",
+                "https://www.iea.org/terms/creative-commons-cc-licenses"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-zh-CN",
+      "issue": "2026-10-17",
+      "publicationDate": "2026-10-17",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "us-september-industrial-output-2026-10-17",
+          "path": "content/issues/2026-10-17/zh-CN/us-september-industrial-output-2026-10-17.md",
+          "eventDate": "2026-10-16",
+          "sourceDate": "2026-10-16",
+          "dataPeriod": "2026-09",
+          "sources": [
+            {
+              "title": "Industrial Production and Capacity Utilization — G.17",
+              "url": "https://www.federalreserve.gov/releases/g17/20261016/default.htm",
+              "date": "2026-10-16",
+              "type": "government-primary-source",
+              "publisher": "Board of Governors of the Federal Reserve System",
+              "dataPeriod": "2026-09",
+              "rights": "Board-authored public-domain statistical release; no third-party images, seal or logo reused.",
+              "licenseEvidenceUrls": [
+                "https://www.federalreserve.gov/disclaimer.htm"
+              ]
+            },
+            {
+              "title": "Table 1: Industrial Production: Market and Industry Group Summary",
+              "url": "https://www.federalreserve.gov/releases/g17/20261016/table1.htm",
+              "date": "2026-10-16",
+              "type": "government-primary-source",
+              "publisher": "Board of Governors of the Federal Reserve System",
+              "dataPeriod": "2026-09 and 2026-Q3",
+              "rights": "Board-authored public-domain statistical table; no table image recreated.",
+              "licenseEvidenceUrls": [
+                "https://www.federalreserve.gov/disclaimer.htm"
+              ]
+            },
+            {
+              "title": "Table 2: Industrial Production: Special Aggregates and Selected Detail",
+              "url": "https://www.federalreserve.gov/releases/g17/20261016/table2.htm",
+              "date": "2026-10-16",
+              "type": "government-primary-source",
+              "publisher": "Board of Governors of the Federal Reserve System",
+              "dataPeriod": "2026-09 and 2026-Q3",
+              "rights": "Board-authored public-domain statistical table; no table image recreated.",
+              "licenseEvidenceUrls": [
+                "https://www.federalreserve.gov/disclaimer.htm"
+              ]
+            },
+            {
+              "title": "Industrial Production and Capacity Utilization — G.17 (full release, Table 15 and methodology)",
+              "url": "https://www.federalreserve.gov/releases/g17/20261016/g17.pdf",
+              "date": "2026-10-16",
+              "type": "government-primary-source",
+              "publisher": "Board of Governors of the Federal Reserve System",
+              "rights": "Board-authored public-domain statistical release and methodology.",
+              "licenseEvidenceUrls": [
+                "https://www.federalreserve.gov/disclaimer.htm"
+              ],
+              "dateNote": "Dated archive, 19 pages. Table 15 gives historical revision-based percentiles, not future-output forecasts."
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [
