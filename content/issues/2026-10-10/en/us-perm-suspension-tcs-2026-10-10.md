@@ -16,7 +16,7 @@ readTime: 4
 draft: false
 ---
 
-TCS said October 9 that two years’ PERM filings were single-digit and it expects no suspension impact on staffing strategy. [^1] A business expectation is not a guarantee about individual immigration outcomes.
+TCS said on October 9 that two years’ PERM filings were single-digit, and that it expects the suspension to have no impact on its staffing strategy.[^1] A business expectation is not a guarantee about individual immigration outcomes.
 
 ![AI-generated illustration: blank folders, document packets and a laptop](/news-media/2026-10-10/us-perm-suspension-tcs-2026-10-10.png)
 
@@ -24,23 +24,23 @@ TCS said October 9 that two years’ PERM filings were single-digit and it expec
 
 ## What change the company is addressing
 
-Reuters reported October 9 that the preceding day’s PERM suspension covered several companies including TCS, stopping new filings and pending-case processing. [^2] Specific entities and cases require applicable official notices.
+Reuters reported on October 9 that the preceding day’s PERM suspension covered several companies, including TCS, and that it stopped new filings and pending-case processing.[^2] Specific entities and cases require the applicable official notices.
 
-DOL describes PERM as labor certification preceding many employment-based immigration petitions, assessing US-worker availability and wage effects; USCIS handles the subsequent petitions. [^3]
+DOL describes PERM as the labor certification that precedes many employment-based immigration petitions. It assesses US-worker availability and the effect on wages. USCIS handles the petitions that follow.[^3]
 
-That procedural distinction matters. A certification obstacle can affect the relevant permanent-residence route, but a PERM suspension alone does not establish that every employment-based green-card route has closed or that existing work visas, green cards and work authorizations are all invalid. An employee’s stage in the process and sponsoring legal entity can affect what needs to be checked.
+The order of those steps matters. An obstacle at certification can affect the permanent-residence route that runs through it. A PERM suspension alone does not establish that every employment-based green-card route has closed, or that existing work visas, green cards and work authorizations are all invalid. An employee’s stage in the process, and the legal entity doing the sponsoring, can change what needs to be checked.
 
 ## Application counts are not employee needs
 
-Application counts cannot measure every employee’s interest in permanent residence or establish that different companies use the same staffing model. Application counts are not interchangeable with headcount, existing immigration status or the number of people who may need sponsorship later.
+A count of applications cannot measure every employee’s interest in permanent residence, and it cannot show that companies staff themselves in the same way. Application counts are not interchangeable with headcount, with existing immigration status, or with the number of people who may need sponsorship later.
 
 ## An industry’s application share differs from personal impact
 
-ICICI Securities estimates: Indian IT firms represented under 2% of all PERM filings from October 2024 through September 2025. [^4] The denominator is filings, not employees or green-card approvals.
+ICICI Securities estimates that Indian IT firms represented under 2% of all PERM filings from October 2024 through September 2025.[^4] The denominator is filings, not employees or green-card approvals.
 
-For a business, low direct use of a particular route can reduce the likelihood of immediate delivery disruption. For an employee, a small affected population does not make an individual family’s career planning less uncertain. These observations are compatible, but require separate assessment.
+For a business, low direct use of a particular route can make an immediate break in delivery less likely. For an employee, a small affected population does not make one family’s career planning any less uncertain. Both can be true. They still have to be assessed separately.
 
-The next test is whether companies can maintain the mix of skills, staffing continuity and recruitment costs their projects need, while explaining how procedures will connect for affected workers. Limited direct exposure does not resolve every question about implementation or long-term retention, nor establish that an entire industry’s revenue will be unaffected.
+Companies still have to show they can keep the mix of skills, the staffing continuity and the recruitment costs their projects need, and explain how the procedure connects for the workers affected. Limited direct exposure does not resolve every question about implementation or about keeping people over the long term. It also does not establish that an entire industry’s revenue will be unaffected.
 
 [^1]: 2026-10-09 · [Statement of the Company regarding the announcement by the US Government on the Permanent Labor Certification Program](https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09102026080757_SE_TCS_Statement_f.pdf) · TCS, National Stock Exchange of India archive, filing TCS/SE/104/2026-27
 

@@ -16,7 +16,7 @@ readTime: 6
 draft: false
 ---
 
-Tesla’s European website now uses the name Tesla Assisted Driving.[^1] For this feature, the product name, the territory where it may be used and safety approval are three separate questions. Changing the first does not automatically settle the other two.
+Tesla’s European website now uses the name Tesla Assisted Driving.[^1] The name is one thing. Where the feature may be used is another, and so is the question of whether it has been approved as safe. Changing the label does not settle the other two.
 
 ![AI-generated illustration: a driver holds an unbranded car’s steering wheel with both hands, representing supervised driving](/news-media/2026-10-12/tesla-assisted-driving-europe-approval-2026-10-12.png)
 
@@ -24,33 +24,33 @@ Tesla’s European website now uses the name Tesla Assisted Driving.[^1] For thi
 
 ## Naming and responsibility
 
-Germany’s transport ministry reported Tesla’s renaming proposal on October 6; drivers remain fully responsible.[^2] RDW approved use in the Netherlands on April 10.[^3]
+Germany’s transport ministry reported Tesla’s renaming proposal on October 6. Drivers remain fully responsible.[^2] RDW approved use in the Netherlands on April 10.[^3]
 
 Reuters reported eight national approvals, with an EU-wide vote delayed until December at the earliest.[^4]
 
 ## Why one country’s approval does not cover the whole EU
 
-This route rests on Article 39 of Regulation (EU) 2018/858. It concerns vehicles or systems incorporating new technologies or concepts that are incompatible with certain existing technical rules. Manufacturers must explain the incompatibility, describe its safety and environmental implications, and supply measures and test results demonstrating protection at least equivalent to the requirements from which exemption is sought. An exemption changes how particular rules apply; it does not remove the need to demonstrate safety.[^5]
+The route rests on Article 39 of Regulation (EU) 2018/858. It concerns vehicles or systems incorporating new technologies or concepts that are incompatible with certain existing technical rules. Manufacturers must explain the incompatibility, describe its safety and environmental implications, and supply measures and test results demonstrating protection at least equivalent to the requirements from which exemption is sought. An exemption changes how particular rules apply. It does not remove the need to demonstrate safety.[^5]
 
-Before the European Commission decides, a national approval authority may issue provisional type approval, initially valid only in its own territory. Other member states may accept it in writing for their territories. Several countries allowing a system and the absence of EU-wide authorisation can therefore coexist. A growing country count does not itself become a common authorisation.[^5]
+Before the European Commission decides, a national approval authority may issue provisional type approval, initially valid only in its own territory. Other member states may accept it in writing for their territories. Several countries can allow the system while EU-wide authorisation is still absent. The count of countries does not itself become a common authorisation.[^5]
 
-Denmark announced acceptance of the Dutch provisional approval on June 9.[^6] This arrangement lets a new system enter some markets while preserving national discretion over acceptance. For a cross-border rollout, the commercial idea of a European market may still encompass different territories of lawful use.[^5]
+Denmark announced acceptance of the Dutch provisional approval on June 9.[^6] The arrangement lets a new system enter some markets while preserving national discretion over acceptance. For a cross-border rollout, the commercial idea of a European market may still encompass different territories of lawful use.[^5]
 
 ## Testing matters, and so does what it demonstrates
 
-Article 39 requires more than a manufacturer’s assurance that a system is safer: the case for equivalent safety must be supported by test descriptions and results. There is a defined evidentiary and procedural relationship between the application, national provisional approval and Commission authorisation. Improved branding therefore cannot replace scrutiny of functional limits, test conditions and protective measures.[^5]
+Article 39 wants more than a manufacturer’s word that the system is safer. Equivalent safety has to be backed by a description of the tests and by the results. The application, the national provisional approval and the Commission’s authorisation are linked by that evidence and by the procedure around it. A new name on the product does not take the place of a look at functional limits, test conditions and the measures meant to protect people.[^5]
 
 Debate about the evidence is already on the public record. During questions in the Dutch parliament on June 16, Infrastructure and Water Management Minister Vincent Karremans said RDW had performed more than 1,000 tests, devoted over 3,000 hours and assessed driving data covering 1.8 million kilometres on European roads. He distinguished disputed Tesla statistical conclusions from RDW’s admission assessment, saying the former had not been used as the basis for approval.[^7]
 
-These are the minister’s account of certification, not an independent replication of the tests by this publication. The questions also addressed disclosure of underlying research. The minister said he would examine what could be shared, without promising full disclosure. That limitation matters: regulatory acceptance and outsiders’ ability to reproduce every safety conclusion are different things. Consumers and observers should distinguish company safety claims, the evidence regulators actually used and what the public record allows them to verify.[^7]
+That is the minister’s account of the certification. This publication has not replicated the tests. The questions also pressed him on releasing the underlying research. He said he would look at what could be shared. He did not promise full disclosure. A regulator’s acceptance and an outsider’s ability to reproduce every safety conclusion are not the same thing. Company claims, the evidence the regulator actually used, and what the public record lets anyone check should be kept apart.[^7]
 
 ## Provisional status has consequences, and supervision continues
 
-Article 39 also provides that, if the Commission refuses authorisation, the provisional approval must be revoked six months after that decision. However, vehicles manufactured in conformity with it before expiry may still be marketed, registered or enter service in member states that accepted it. Refusal therefore cannot simply be described as an immediate shutdown of every existing vehicle, while provisional approval is not an immutable entitlement.[^5]
+Article 39 also provides that, if the Commission refuses authorisation, the provisional approval must be revoked six months after that decision. Vehicles manufactured in conformity with it before expiry may still be marketed, registered or enter service in member states that accepted it. A refusal would not be an immediate order to take every existing vehicle off the road. Nor is a provisional approval a right that cannot be withdrawn.[^5]
 
-RDW’s June 17 explanation said it had temporarily increased mandatory reporting for the system from annually to monthly.[^8] Articles 51 and 52 separately provide for market-surveillance assessment and correction: serious risk or non-compliance can trigger required remedies and, where necessary, restrictions, withdrawal or recall. These are the applicable safeguards, not a statement that Tesla has triggered such measures.[^5]
+RDW’s June 17 explanation said it had temporarily increased mandatory reporting for the system from annually to monthly.[^8] Articles 51 and 52 separately provide for market-surveillance assessment and correction. Serious risk or non-compliance can trigger required remedies and, where necessary, restrictions, withdrawal or recall. These are the applicable safeguards, not a statement that Tesla has triggered such measures.[^5]
 
-What governs the next stage of expansion remains the approval territory, technical conditions and safety evidence considered through the relevant process. Formal authorisation documents, their restrictions and new facts from continuing supervision are the developments to watch. A new product name or an expected voting month cannot substitute for those outcomes.[^5]
+Further expansion still turns on where the approval runs, on the technical conditions attached to it, and on the safety evidence the process actually considers. The documents that authorise the system, the restrictions written into them, and whatever continuing supervision turns up are the developments that will matter. A new product name will not stand in for them, and neither will a month in which a vote is expected.[^5]
 
 [^1]: Accessed 2026-10-12; undated page · [Tesla Assisted Driving](https://www.tesla.com/en_gb/tesla-assisted-driving) · Tesla.
 [^2]: 2026-10-06 · [Aktueller Stand bei der Genehmigung eines Tesla-Assistenzsystems](https://www.bmv.de/SharedDocs/DE/Artikel/StV/Digitalisierung-der-Mobilitaet/aktueller-stand-tesla-assistenzsysteme.html) · German Federal Ministry of Transport.
