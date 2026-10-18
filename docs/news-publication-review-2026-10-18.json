@@ -1,0 +1,80 @@
+{
+  "issue": "2026-10-18",
+  "publicationDate": "2026-10-18",
+  "sourceHandoff": {
+    "completeManuscriptReceived": false,
+    "candidateCount": 8,
+    "actualSelectedPhotos": 3,
+    "editorialTreatment": "Original full reports prepared for this issue after direct authorization; not represented as source-delivered manuscripts."
+  },
+  "selected": [
+    {
+      "translationKey": "china-battery-storage-system-value-2026-10-18",
+      "eventDate": "2026-10-15",
+      "sourceDate": "2026-10-16",
+      "treatment": "Brief new-event kernel with licensed historical battery-system research and original mechanism analysis; no new subsidy or project approval inferred."
+    },
+    {
+      "translationKey": "centinela-copper-labour-supply-chain-2026-10-18",
+      "eventDate": "2026-10-17",
+      "sourceDate": "2026-10-17",
+      "treatment": "Bounded current-event reporting with government-authored copper-processing and historical trade background; source attribution and conditions preserved."
+    }
+  ],
+  "held": [
+    {
+      "candidate": 1,
+      "topic": "France protests",
+      "reason": "Political/conflict-sensitive candidate excluded under current editorial selection boundaries."
+    },
+    {
+      "candidate": 2,
+      "topic": "IMFC meeting",
+      "reason": "Not selected for this limited issue. The October 17 IMFC meeting must not be described as the close of the entire October 12–18 annual meetings."
+    },
+    {
+      "candidate": 3,
+      "topic": "Lagarde financing conditions",
+      "reason": "Not selected for this limited issue; the speech is not a new interest-rate decision."
+    },
+    {
+      "candidate": 4,
+      "topic": "France-Germany vehicle emissions proposal",
+      "reason": "Policy proposal requiring further support, not enacted rules; no complete, rights-cleared deep report prepared for this issue."
+    },
+    {
+      "candidate": 5,
+      "topic": "Schneider Q3 revenue",
+      "reason": "Verified company release but restricted reuse budget across five editions does not support the desired company-specific depth. The profit metric is adjusted EBITA, not EBITDA. Held rather than filling a company story with unrelated industry background."
+    },
+    {
+      "candidate": 8,
+      "topic": "Jack Clark AI governance lecture",
+      "reason": "Not selected for this limited issue; conditional GDP assertions are not realized gains. No complete, rights-cleared deep report prepared."
+    }
+  ],
+  "mediaAudit": "docs/news-media/2026-10-18/provenance.json",
+  "verificationStatus": "editorial-rights-tests-types-build-export-seo-passed-browser-and-production-pending",
+  "editorialReview": {
+    "status": "passed",
+    "editions": 10,
+    "restrictedSourceEquivalentWordsIncludingSingleLog": {
+      "MIIT": 192,
+      "Bloomberg": 195,
+      "companyStatement": 175,
+      "mineProfile": 95
+    },
+    "note": "Budgets include all five editions and the single source-log entry. Independent company works are counted separately; mirror publications do not create extra budgets. Licensed IEA text and USGS-authored public-domain text supply the in-depth background. No unlicensed source photographs or reproduced data charts."
+  },
+  "buildVerification": {
+    "testsPassed": 96,
+    "typeCheck": "passed",
+    "productionBuild": "passed",
+    "staticExport": "passed",
+    "seoCheck": "passed",
+    "htmlFiles": 4120,
+    "localReferences": 263654,
+    "canonicalArticles": 280,
+    "sitemapUrls": 835
+  }
+}

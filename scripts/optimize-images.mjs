@@ -9,6 +9,9 @@ const outputDir = path.resolve("public/optimized-assets");
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 18 photographs: reviewed at 1280px against the WebP fallback.
+  "centinela-oxidos-encuentro-2017": 50,
+  "kjuube-pv-battery-cabinet-2020": 60,
   // October 17 archival photographs: full-frame 1280px comparisons retain
   // subject detail while meeting the existing WebP/AVIF transfer budget.
   "byd-frankfurt": 60,

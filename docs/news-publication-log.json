@@ -2459,6 +2459,95 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-18-zh-CN",
+      "issue": "2026-10-18",
+      "publicationDate": "2026-10-18",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-battery-storage-system-value-2026-10-18",
+          "path": "content/issues/2026-10-18/zh-CN/china-battery-storage-system-value-2026-10-18.md",
+          "eventDate": "2026-10-15",
+          "sourceDate": "2026-10-16",
+          "sources": [
+            {
+              "url": "https://wap.miit.gov.cn/gyhxxhb/jgsj/dzxxsnew/gzdt/art/2026/art_9788e4678f784a7bbfb0b63b40069a39.html",
+              "date": "2026-10-16",
+              "publisher": "MIIT",
+              "rights": "Bounded factual reporting; final five-language reuse budget reviewed."
+            },
+            {
+              "url": "https://www.iea.org/reports/batteries-and-secure-energy-transitions",
+              "date": "2024-04-25",
+              "publisher": "IEA",
+              "title": "Batteries and Secure Energy Transitions",
+              "rights": "CC BY 4.0; attributed adaptations with required disclaimer in each edition. No IEA photographs, logos or third-party works reproduced.",
+              "licenseEvidenceUrls": [
+                "https://www.iea.org/reports/batteries-and-secure-energy-transitions",
+                "https://www.iea.org/terms/creative-commons-cc-licenses"
+              ]
+            }
+          ]
+        },
+        {
+          "translationKey": "centinela-copper-labour-supply-chain-2026-10-18",
+          "path": "content/issues/2026-10-18/zh-CN/centinela-copper-labour-supply-chain-2026-10-18.md",
+          "eventDate": "2026-10-17",
+          "sourceDate": "2026-10-17",
+          "sources": [
+            {
+              "url": "https://www.bloomberglinea.com/latinoamerica/chile/los-trabajadores-de-antofagasta-pondran-fin-a-la-huelga-lo-que-aliviara-las-tensiones-en-torno-al-cobre-en-chile/",
+              "date": "2026-10-17T15:55:14.608Z",
+              "publisher": "Bloomberg",
+              "rights": "restricted"
+            },
+            {
+              "url": "https://www.aminerals.cl/noticias-detalle/2026/10/15/minera-centinela-reitera-su-voluntad-de-buscar-acuerdos-con-trabajadores-en-huelga-a-traves-del-dialogo",
+              "date": "2026-10-15",
+              "publisher": "Antofagasta Minerals",
+              "rights": "restricted primary company release; no open reuse permission found"
+            },
+            {
+              "url": "https://www.antofagasta.co.uk/our-business/mining-division/centinela/",
+              "date": null,
+              "publisher": "Antofagasta PLC",
+              "rights": "restricted primary company profile",
+              "accessedAt": "2026-10-18"
+            },
+            {
+              "url": "https://www.usgs.gov/centers/national-minerals-information-center/copper-statistics-and-information",
+              "date": null,
+              "publisher": "U.S. Geological Survey",
+              "rights": "USGS-produced government explanatory text; public-domain/free-use policy verified; attribution required by editorial practice",
+              "title": "Copper Statistics and Information",
+              "licenseEvidenceUrls": [
+                "https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted"
+              ],
+              "accessedAt": "2026-10-18"
+            },
+            {
+              "url": "https://www.usgs.gov/centers/national-minerals-information-center/chile",
+              "date": null,
+              "publisher": "U.S. Geological Survey",
+              "rights": "USGS government-authored report; independent paraphrase of public statistics, no third-party expressive text or images reproduced",
+              "title": "Chile — 2024 Report",
+              "licenseEvidenceUrls": [
+                "https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted"
+              ],
+              "accessedAt": "2026-10-18"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [
