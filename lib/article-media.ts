@@ -8,14 +8,21 @@ export function hasInlineBodyImage(markdown: string | undefined, image: string):
   const escapedImage = image.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   const matchingImage = new RegExp(String.raw`(?<!\\)!\[(?:\\.|[^\]\\])*\]\(\s*(?:<${escapedImage}>|${escapedImage})(?:\s+["'][^"']*["'])?\s*\)`);
   let fence = "";
-  return markdown.split("\n").some(line => {
+  // Comments and inline code can span lines. Exclude them across the whole
+  // body, rather than treating each line as independently rendered Markdown.
+  const withoutComments = markdown.replace(/<!--[\s\S]*?(?:-->|$)/g, " ");
+  const withoutBlocks = withoutComments.split("\n").map(line => {
     const marker = line.match(/^ {0,3}(`{3,}|~{3,})/);
     if (marker) {
       if (!fence) fence = marker[1];
       else if (marker[1][0] === fence[0] && marker[1].length >= fence.length) fence = "";
-      return false;
+      return "";
     }
-    if (fence || /^(?: {4}|\t)/.test(line)) return false;
-    return matchingImage.test(line.replace(/(`+)[\s\S]*?\1/g, ""));
-  });
+    if (fence || /^(?: {4}|\t)/.test(line)) return "";
+    return line;
+  }).join("\n");
+  // A closing code delimiter must contain exactly as many backticks as its
+  // opener; shorter runs may legitimately appear inside the code span.
+  const withoutCode = withoutBlocks.replace(/(?<!`)(`+)(?!`)[\s\S]*?(?<!`)\1(?!`)/g, " ");
+  return matchingImage.test(withoutCode);
 }

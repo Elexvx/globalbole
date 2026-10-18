@@ -305,3 +305,26 @@ test('published repeated covers stay in the full body with attribution while met
   assert.match(view, /story\.image && !hasInlineBodyImage\(story\.markdown, story\.image\)/);
   assert.match(view, /<ShareBar story=\{story\} compact/);
 });
+
+test('non-rendering comments and multiline code never suppress an article cover', async () => {
+  const { hasInlineBodyImage } = await import('../lib/article-media.ts');
+  const { ArticleMarkdown } = await import('../components/article-markdown.tsx');
+  const image = '/news-media/chart.png';
+  const hiddenImages = [
+    `<!--\n![Chart](${image})\n-->`,
+    `<!-- ![Chart](${image}) -->`,
+    `<!--\n![Chart](${image})`,
+    `Text \`example\n![Chart](${image})\nend\``,
+    `Text \`\`example with a \` tick\n![Chart](${image})\nend\`\``,
+    `~~~md\n![Chart](${image})\n~~~`,
+  ];
+  for (const markdown of hiddenImages) {
+    assert.equal(hasInlineBodyImage(markdown, image), false, markdown);
+    const html = renderToStaticMarkup(createElement(ArticleMarkdown, {markdown, locale:'en'}));
+    assert.doesNotMatch(html, /<img\b/, 'The real renderer also excludes the image');
+  }
+  for (const markdown of hiddenImages.filter(markdown => !markdown.startsWith('<!--\n!') || markdown.endsWith('-->'))) {
+    const withVisibleImage = `${markdown}\n\n![Visible chart](${image})`;
+    assert.equal(hasInlineBodyImage(withVisibleImage, image), true, 'A real image after a closed comment/code block still counts');
+  }
+});

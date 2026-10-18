@@ -360,7 +360,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN", rootRef, sta
   const innovationStories = categoryPool(ordered, "innovation", 5);
   const deep = innovationStories[0];
   const innovationRelated = innovationRelatedStories(ordered, deep);
-  const topStories = uniqueHomepageStories(ordered, [...used], 4);
+  const topStories = uniqueHomepageStories(ordered, [hero, ...latest, ...picks].map(story => story.slug), 4);
   const beatColumns = categories.map(category => ({category:category.slug,title:text.categoryNames[category.slug],stories:categoryPool(ordered,category.slug,3)}));
   const additionalDesks = beatColumns.filter(({category}) => ["work-life","current-affairs","energy"].includes(category)).map(desk => ({...desk, stories: categoryPool(ordered, desk.category, 4)}));
 
@@ -431,7 +431,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN", rootRef, sta
 
     <section className="ref-section ref-beats layout-wide px-5 lg:px-8" aria-labelledby="beats-heading">
       <p className="ref-kicker">{text.beats}</p><h2 id="beats-heading" className="ref-feature-title ref-beats-title">{text.beatsTitle}</h2><p className="ref-beats-description">{text.beatsDescription}</p>
-      <div className="ref-beats-grid ref-desk-directory">{beatColumns.map(({ category, title, stories: categoryStories }) => <a key={category} href={withPrefix(prefix, `/category/${category}/`)} className="ref-desk-link"><span>{title}</span><span aria-hidden="true">↗</span></a>)}</div>
+      <div className="ref-beats-grid ref-desk-directory">{beatColumns.map(({ category, title }) => <a key={category} href={withPrefix(prefix, `/category/${category}/`)} className="ref-desk-link"><span>{title}</span><span aria-hidden="true">↗</span></a>)}</div>
     </section>
 
     <RssBanner locale={language} />

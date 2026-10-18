@@ -8,7 +8,7 @@ test('secondary lead row never repeats lead, sidebars, or itself',()=>{
  const stories=['a','b','b','c','d','e','f'].map(slug=>({slug}));
  assert.deepEqual(uniqueHomepageStories(stories,['a','c'],4).map(x=>x.slug),['b','d','e','f']);
  assert.deepEqual(uniqueHomepageStories([],[],4),[]);
- assert.match(home,/uniqueHomepageStories\(ordered, \[\.\.\.used\], 4\)/);
+ assert.match(home,/uniqueHomepageStories\(ordered, \[hero, \.\.\.latest, \.\.\.picks\]\.map/);
  assert.match(home,/topStories.map/);
  assert.doesNotMatch(home,/techDetails|ref-tech-feature-grid/);
 });
@@ -20,9 +20,17 @@ test('tablet cards stay two columns and phone business cards become one',()=>{
 });
 test('native script font tokens and lead hierarchy override generic heading baseline',()=>{
  for(const [locale,font] of [['zh-CN','PingFang SC'],['zh-TW','PingFang TC'],['ru','Segoe UI']]) {
-  const block=css.match(new RegExp(`html\\[lang="${locale}"\\] \\{([^}]+)`))?.[1];
+  const block=css.match(new RegExp(`:root\\[lang="${locale}"\\] \\{([^}]+)`))?.[1];
   assert.ok(block?.includes(font)); assert.ok(block.includes('--site-font-display: var(--site-font-sans)'));
  }
  assert.match(css,/:root main \.ref-hero-title \{ font-size: clamp\(2rem, 2\.6vw, 2\.25rem\)/);
  assert.match(home,/ordered.slice\(0, 12\)/);
+});
+
+test('locale typography has equal specificity to every theme and wins by source order',()=>{
+ for (const locale of ['zh-CN','zh-TW','ru']) {
+  const language = css.indexOf(`:root[lang="${locale}"]`);
+  for (const theme of ['civic-paper','capitol-night','campaign-trail','broadcast-pop'])
+   assert.ok(language > css.indexOf(`:root[data-theme="${theme}"]`));
+ }
 });

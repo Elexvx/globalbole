@@ -1371,17 +1371,17 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 
 /* International editorial refinement: native-script stacks are inherited by
    every semantic role, including body elements that set their own font. */
-html[lang="zh-CN"] {
+:root[lang="zh-CN"] {
   --site-font-sans: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
   --site-font-display: var(--site-font-sans);
   --site-font-serif: var(--site-font-sans);
 }
-html[lang="zh-TW"] {
+:root[lang="zh-TW"] {
   --site-font-sans: "PingFang TC", "Microsoft JhengHei", "Noto Sans CJK TC", sans-serif;
   --site-font-display: var(--site-font-sans);
   --site-font-serif: var(--site-font-sans);
 }
-html[lang="ru"] {
+:root[lang="ru"] {
   --site-font-sans: "Segoe UI", Arial, sans-serif;
   --site-font-display: var(--site-font-sans);
   --site-font-serif: Georgia, "Times New Roman", serif;
@@ -1413,3 +1413,6 @@ html[lang="ru"] {
   :root main .ref-hero-title { font-size: 2rem; }
   :root main .ref-feature-title { font-size: 1.5rem; }
 }
+
+/* A shared fine edge keeps photographs distinct without heavy picture frames. */
+.ref-hero-image, .ref-innovation-image, .ref-card-image, .ref-archive-image { border: 1px solid var(--site-border); }
