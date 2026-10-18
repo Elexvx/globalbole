@@ -64,7 +64,7 @@
   --site-font-serif: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
   --site-font-mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
   --space-section: clamp(3rem, 5vw, 5rem);
-  /* One role = one size, independent of page, feature prominence or language. */
+  /* Semantic baseline with a larger editorial lead for clear scanning hierarchy. */
   --type-brand: 2rem;
   --type-h1: 2rem;
   --type-h2: 1.5rem;
@@ -1057,7 +1057,7 @@ a:hover .ref-image {
   }
 }
 
-@media (min-width: 48rem) {
+@media (min-width: 68rem) {
   .ref-four-up,
   .ref-archive-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -1367,4 +1367,49 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
     outline: 2px solid var(--site-accent);
     outline-offset: 3px;
   }
+}
+
+/* International editorial refinement: native-script stacks are inherited by
+   every semantic role, including body elements that set their own font. */
+html[lang="zh-CN"] {
+  --site-font-sans: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  --site-font-display: var(--site-font-sans);
+  --site-font-serif: var(--site-font-sans);
+}
+html[lang="zh-TW"] {
+  --site-font-sans: "PingFang TC", "Microsoft JhengHei", "Noto Sans CJK TC", sans-serif;
+  --site-font-display: var(--site-font-sans);
+  --site-font-serif: var(--site-font-sans);
+}
+html[lang="ru"] {
+  --site-font-sans: "Segoe UI", Arial, sans-serif;
+  --site-font-display: var(--site-font-sans);
+  --site-font-serif: Georgia, "Times New Roman", serif;
+}
+:root main .ref-hero-title { font-size: clamp(2rem, 2.6vw, 2.25rem); line-height: 1.28; }
+:root main .ref-feature-title { font-size: 1.75rem; line-height: 1.35; }
+:root main .ref-section-title { font-size: 1.5rem; }
+:root main :is(.ref-card-title, .ref-archive-title) { font-size: 1.25rem; }
+.desktop-edition-nav .theme-select-nav, .desktop-edition-nav nav a { letter-spacing: .025em; }
+.desktop-edition-nav > div { column-gap: 1rem; }
+.desktop-edition-nav nav { column-gap: 1.25rem; }
+.header-actions { gap: 1.25rem; }
+.ref-desk-directory { gap: 0 2rem; margin-top: 1.5rem; }
+.ref-desk-link { display: flex; justify-content: space-between; gap: 1rem; padding: 1rem 0; border-bottom: 1px solid var(--site-border); font-weight: 700; text-decoration: none; }
+.ref-desk-link:hover { color: var(--site-accent); }
+.ref-section { margin-top: clamp(2rem, 4vw, 3.5rem); }
+@media (max-width: 67.999rem) {
+  .ref-four-up, .ref-archive-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 63.999rem) {
+  .ref-hero-story { order: 0; }
+  .ref-latest { order: 1; }
+  .ref-picks { order: 2; }
+}
+@media (max-width: 39.999rem) {
+  .ref-four-up, .ref-archive-grid, .ref-business-grid { grid-template-columns: minmax(0, 1fr); }
+  .ref-business-grid { row-gap: 1rem; }
+  .ref-section { margin-top: 2rem; }
+  :root main .ref-hero-title { font-size: 2rem; }
+  :root main .ref-feature-title { font-size: 1.5rem; }
 }

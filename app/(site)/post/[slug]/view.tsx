@@ -13,6 +13,7 @@ import { useArticles } from "@/lib/articles";
 import { categories } from "@/lib/data";
 import { useI18n } from "@/lib/i18n";
 import { responsiveImageProps } from "@/lib/image-assets";
+import { hasInlineBodyImage } from "@/lib/article-media";
 import { ClientMarkdown } from "@/components/client-markdown";
 
 export default function PostPage({slugOverride,initialMarkdown,initialLocale,children}: {slugOverride?:string;initialMarkdown?:string;initialLocale?:Locale;children?:ReactNode} = {}) {
@@ -43,28 +44,25 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
 
   return (
     <main>
-      <article lang={story.lang || "en"} className="layout-wide px-5 pb-16 pt-10 lg:px-8 lg:pt-14">
+      <article lang={story.lang || "en"} className="layout-wide px-5 pb-16 pt-7 lg:px-8 lg:pt-10">
         {(story.lang || "en") !== locale ? <p role="status" className="mb-6 rounded-lg border border-border p-4">{t("Translation unavailable")}</p> : null}
         <div className="mx-auto max-w-5xl">
           <Link href={"/category/" + story.category + "/"} className="kicker inline-flex items-center gap-2 underline decoration-accent underline-offset-4">
             {t(story.categoryLabel)} / {story.displayDate} / {story.readTime} {t("min read")}
           </Link>
-          <h1 className="headline mt-5 max-w-5xl font-black">{story.title}</h1>
-          <p className="dek mt-6 max-w-3xl type-body">{story.dek}</p>
-          <div className="mt-8 grid gap-8 border-y border-border py-5 sm:grid-cols-[1fr_auto] sm:items-center">
-            <div className="flex items-center gap-3">
-              <div className="flex size-11 items-center justify-center rounded-full bg-foreground text-sm font-black text-background">{story.author.split(" ").map((word) => word[0]).join("")}</div>
-              <div>
-                <p className="text-sm font-bold uppercase tracking-[0.08em]"><Text value="By"/> {story.author}</p>
-                <p className="mt-1 font-mono type-caption uppercase tracking-[0.12em] text-muted-foreground">{story.authorRole}</p>
-              </div>
+          <h1 className="headline mt-4 max-w-5xl font-black">{story.title}</h1>
+          <p className="dek mt-4 max-w-3xl type-body">{story.dek}</p>
+          <div className="mt-5 flex flex-wrap items-center justify-between gap-x-6 gap-y-2 border-y border-border py-3">
+            <div className="min-w-0 text-sm leading-6">
+              <p className="font-semibold"><Text value="By"/> {story.author}</p>
+              {story.authorRole ? <p className="type-caption text-muted-foreground">{story.authorRole}</p> : null}
             </div>
+            <ShareBar story={story} compact />
           </div>
-          {story.image ? <div className="mt-8 overflow-hidden border-2 border-foreground bg-muted">
+          {story.image && !hasInlineBodyImage(story.markdown, story.image) ? <div className="mt-6 overflow-hidden border border-border bg-muted">
             <img {...responsiveImageProps(story.image, "article")} loading="eager" fetchPriority="high" decoding="async" alt={story.imageAlt} className="story-cover aspect-[16/9] h-full w-full object-cover" />
           </div> : null}
-          <div className="mt-7"><ShareBar story={story} /></div>
-          <div className="mx-auto mt-10 grid gap-12 lg:grid-cols-[minmax(0,46rem)_15rem]">
+          <div className="mx-auto mt-6 grid gap-12 lg:grid-cols-[minmax(0,46rem)_15rem]">
             <div className="article-copy min-w-0">
               {story.markdown ? <ClientMarkdown markdown={story.markdown} locale={locale} initialMarkdown={initialMarkdown} initialLocale={initialLocale}>{children}</ClientMarkdown> : null}
               {story.body.map((section, index) => (

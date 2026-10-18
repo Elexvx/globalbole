@@ -17,7 +17,7 @@ export function ArticleMarkdown({markdown,locale}:{markdown:string;locale:Locale
     const heading=!fence && line.match(/^ {0,3}##\s+(.+?)\s*#*$/);
     if(heading)headings.push({text:heading[1],line:index+1});
   });
-  return <>{headings.length>1?<nav aria-label={title} className="mb-8 border-y border-border py-5"><p className="mb-3 font-semibold">{title}</p><ul className="space-y-2">{headings.map(h=><li key={h.line}><a href={`#section-${h.line}`} className="underline underline-offset-4">{h.text}</a></li>)}</ul></nav>:null}<div className="markdown-body"><ReactMarkdown remarkPlugins={[remarkGfm]} remarkRehypeOptions={{footnoteLabel,footnoteBackLabel,footnoteLabelProperties:{className:[]}}} skipHtml components={{img:({node,src,...props})=>{
+  return <>{headings.length>1?<details className="mb-6 border-b border-border"><summary className="cursor-pointer py-3 text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2">{title}</summary><nav aria-label={title} className="pb-4"><ul className="space-y-2 text-sm leading-6">{headings.map(h=><li key={h.line}><a href={`#section-${h.line}`} className="underline underline-offset-4">{h.text}</a></li>)}</ul></nav></details>:null}<div className="markdown-body"><ReactMarkdown remarkPlugins={[remarkGfm]} remarkRehypeOptions={{footnoteLabel,footnoteBackLabel,footnoteLabelProperties:{className:[]}}} skipHtml components={{img:({node,src,...props})=>{
     const image = typeof src === "string" ? src : "";
     const avif = responsiveAvifSourceProps(image, "body");
     return <picture>{avif ? <source {...avif}/> : null}<img {...props} {...responsiveImageProps(image, "body")} loading="lazy" decoding="async"/></picture>;

@@ -263,3 +263,45 @@ test('text-only home cards keep each edition’s latest archive titles and links
     for(const story of all.filter(story=>story.lang!==locale)) assert.ok(!html.includes(`/post/${story.slug}/`),'Home must not leak another edition');
   }
 });
+
+test('article contents use a collapsed native disclosure in all five languages', async () => {
+  const { ArticleMarkdown } = await import('../components/article-markdown.tsx');
+  for (const locale of ['zh-CN', 'zh-TW', 'en', 'ru', 'fr']) {
+    const html = renderToStaticMarkup(createElement(ArticleMarkdown, {markdown:'## First\n\nText\n\n## Second\n\nMore text', locale}));
+    assert.match(html, /<details[^>]*><summary[^>]*>[^<]+<\/summary><nav aria-label=/);
+    assert.doesNotMatch(html, /<details[^>]*\bopen(?:=|\s|>)/);
+    assert.match(html, /href="#section-1"/);
+    assert.match(html, /href="#section-5"/);
+  }
+});
+
+test('duplicate cover detection only hides actual matching inline body images', async () => {
+  const { hasInlineBodyImage } = await import('../lib/article-media.ts');
+  const image = '/news-media/chart.png';
+  for (const markdown of [`![Chart](${image})`, `![Chart](<${image}>)`, `![Chart](${image} "Original chart")`]) {
+    assert.equal(hasInlineBodyImage(markdown, image), true);
+  }
+  for (const markdown of [undefined, '', `[Source](${image})`, '![Other](/news-media/other.png)', `\`![Chart](${image})\``, `\`\`\`md\n![Chart](${image})\n\`\`\``, `    ![Chart](${image})`, `\\![Chart](${image})`]) {
+    assert.equal(hasInlineBodyImage(markdown, image), false);
+  }
+  assert.equal(hasInlineBodyImage('```md\nExample\n```\n![Chart](/news-media/chart.png)', image), true);
+});
+
+test('published repeated covers stay in the full body with attribution while metadata remains unchanged', async () => {
+  const { hasInlineBodyImage } = await import('../lib/article-media.ts');
+  const { ArticleMarkdown } = await import('../components/article-markdown.tsx');
+  const stories = JSON.parse(readFileSync(path.join(root, 'content/generated/articles.json'), 'utf8'));
+  const repeated = stories.filter(story => hasInlineBodyImage(story.markdown, story.image));
+  assert.ok(repeated.length > 0, 'Published duplicate-cover fixtures are available');
+  assert.deepEqual([...new Set(repeated.map(story => story.lang))].sort(), ['en', 'fr', 'ru', 'zh-CN', 'zh-TW']);
+  for (const story of repeated) {
+    const before = JSON.stringify(story);
+    const html = renderToStaticMarkup(createElement(ArticleMarkdown, {markdown:story.markdown, locale:story.lang}));
+    assert.ok(html.includes(`src="${story.image}"`), `${story.slug} keeps its original body image`);
+    assert.match(html, /class="footnotes"/, 'Source notes remain available');
+    assert.equal(JSON.stringify(story), before, 'Cover and article metadata are not mutated');
+  }
+  const view = readFileSync(path.join(root, 'app/(site)/post/[slug]/view.tsx'), 'utf8');
+  assert.match(view, /story\.image && !hasInlineBodyImage\(story\.markdown, story\.image\)/);
+  assert.match(view, /<ShareBar story=\{story\} compact/);
+});

@@ -148,7 +148,7 @@ export function Pagination({ page, totalPages }: { page: number; totalPages: num
     </nav>
   );
 }
-export function ShareBar({ story }: { story: Story }) {
+export function ShareBar({ story, compact = false }: { story: Story; compact?: boolean }) {
   const [copied, setCopied] = useState(false);
 
   const copyLink = async () => {
@@ -162,14 +162,14 @@ export function ShareBar({ story }: { story: Story }) {
   };
 
   return (
-    <div className="flex flex-wrap items-center gap-2 border-y border-border py-4">
+    <div className={"flex flex-wrap items-center gap-1.5 " + (compact ? "" : "border-y border-border py-4")}>
       <span className="kicker mr-2"><Text value="Share"/></span>
-      <button type="button" onClick={() => window.open("https://x.com/intent/post?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent(story.title), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">X</button>
-      <button type="button" onClick={() => window.open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">Facebook</button>
-      <button type="button" onClick={() => window.open("https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">LinkedIn</button>
-      <button type="button" onClick={copyLink} className="inline-flex items-center gap-1.5 rounded-full border border-border px-3 py-2 type-caption font-bold uppercase tracking-[0.12em] transition hover:border-border-strong">
+      <button type="button" onClick={() => window.open("https://x.com/intent/post?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent(story.title), "_blank", "noopener,noreferrer")} className="min-h-11 border border-border px-2.5 py-2 type-caption font-semibold transition hover:border-border-strong focus-visible:outline-2 focus-visible:outline-offset-2">X</button>
+      <button type="button" onClick={() => window.open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="min-h-11 border border-border px-2.5 py-2 type-caption font-semibold transition hover:border-border-strong focus-visible:outline-2 focus-visible:outline-offset-2">Facebook</button>
+      <button type="button" onClick={() => window.open("https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer")} className="min-h-11 border border-border px-2.5 py-2 type-caption font-semibold transition hover:border-border-strong focus-visible:outline-2 focus-visible:outline-offset-2">LinkedIn</button>
+      <button type="button" onClick={copyLink} className="inline-flex items-center gap-1.5 min-h-11 border border-border px-2.5 py-2 type-caption font-semibold transition hover:border-border-strong focus-visible:outline-2 focus-visible:outline-offset-2">
         {copied ? <Check size="0.75rem" /> : <Link2 size="0.75rem" />}
-        <Text value={copied ? "Link copied" : "Copy link"}/>
+        <span aria-live="polite"><Text value={copied ? "Link copied" : "Copy link"}/></span>
       </button>
     </div>
   );

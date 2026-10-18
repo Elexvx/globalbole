@@ -2,7 +2,7 @@ import type { Ref } from "react";
 import { RssBanner } from "@/components/rss-banner";
 import { categories, type CategorySlug, type Story } from "@/lib/data";
 import { categoryPool } from "@/lib/categories.mjs";
-import { innovationRelatedStories } from "@/lib/home-selection.mjs";
+import { innovationRelatedStories, uniqueHomepageStories } from "@/lib/home-selection.mjs";
 import messages from "@/lib/messages.json";
 import { positioning } from "@/lib/site-brand";
 import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
@@ -360,7 +360,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN", rootRef, sta
   const innovationStories = categoryPool(ordered, "innovation", 5);
   const deep = innovationStories[0];
   const innovationRelated = innovationRelatedStories(ordered, deep);
-  const techDetails = categoryPool(ordered, "technology", 8);
+  const topStories = uniqueHomepageStories(ordered, [...used], 4);
   const beatColumns = categories.map(category => ({category:category.slug,title:text.categoryNames[category.slug],stories:categoryPool(ordered,category.slug,3)}));
   const additionalDesks = beatColumns.filter(({category}) => ["work-life","current-affairs","energy"].includes(category)).map(desk => ({...desk, stories: categoryPool(ordered, desk.category, 4)}));
 
@@ -399,7 +399,7 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN", rootRef, sta
       </div>
 
       <div className="ref-four-up">
-        {[...innovationStories.slice(0, 1), ...techIndex.slice(0, 1), ...businessStories.slice(0, 1), ...picks.slice(0, 1)].map((story) => <CardStory key={`top-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]} square/>) }
+        {topStories.map((story) => <CardStory key={`top-${story.slug}`} story={story} copy={text} prefix={prefix} category={text.categoryNames[story.category]} square/>) }
       </div>
     </section>
 
@@ -431,13 +431,8 @@ export function ReferenceHome({ stories, locale, prefix = "/zh-CN", rootRef, sta
 
     <section className="ref-section ref-beats layout-wide px-5 lg:px-8" aria-labelledby="beats-heading">
       <p className="ref-kicker">{text.beats}</p><h2 id="beats-heading" className="ref-feature-title ref-beats-title">{text.beatsTitle}</h2><p className="ref-beats-description">{text.beatsDescription}</p>
-      <div className="ref-beats-grid">{beatColumns.map(({ category, title, stories: categoryStories }) => <div key={category} className="ref-beat-column" data-category-section={category}><h3 className="ref-kicker"><a href={withPrefix(prefix, `/category/${category}/`)}>{title}</a></h3>{categoryStories.length ? categoryStories.map((story) => <a key={story.slug} href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)} className="ref-beat-story"><strong>{story.title}</strong><small>{story.displayDate} / {story.readTime} {text.minutes}</small></a>) : <p className="mt-3 text-sm leading-6 text-muted-foreground">{text.sectionEmpty}</p>}</div>)}</div>
+      <div className="ref-beats-grid ref-desk-directory">{beatColumns.map(({ category, title, stories: categoryStories }) => <a key={category} href={withPrefix(prefix, `/category/${category}/`)} className="ref-desk-link"><span>{title}</span><span aria-hidden="true">↗</span></a>)}</div>
     </section>
-
-    {techDetails.length > 0 ? <section className="ref-section layout-wide px-5 lg:px-8" aria-label={text.techIndexTitle} data-category-section="technology">
-      <SectionBar eyebrow={text.techIndex} title={text.techIndexTitle} href="/category/technology/" copy={text} prefix={prefix}/>
-      <div className="ref-tech-feature-grid">{techDetails.slice(0, 3).map((story) => <article key={`tech-feature-${story.slug}`} className="ref-tech-feature ref-bottom-aligned-card"><a href={withPrefix(prefix, `/post/${encodeURIComponent(story.slug)}/`)}>{story.image ? <div className="ref-tech-feature-image"><ImageStory story={story} variant="card"/></div> : <div className="ref-media-placeholder" aria-hidden="true"/>}<Meta story={story} category={text.categoryNames[story.category]} copy={text} categoryOnly/><h3 className="ref-feature-title">{story.title}</h3><p className="ref-feature-dek">{story.dek}</p><p className="ref-byline"><strong>{text.by} {story.author}</strong><span>{story.displayDate} / {story.readTime} {text.minutes}</span></p></a></article>)}</div>
-    </section> : null}
 
     <RssBanner locale={language} />
 
