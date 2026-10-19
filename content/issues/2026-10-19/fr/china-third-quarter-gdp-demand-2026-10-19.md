@@ -50,7 +50,7 @@ Le taux de croissance d’une branche ne correspond pas à sa contribution à la
 
 Les chiffres indiquent une amélioration de la croissance accompagnée de divergences persistantes. Ils ne démontrent pas encore un renforcement généralisé de la demande. Il faudra suivre la durabilité d’une reprise du commerce et de l’investissement privé, l’évolution du financement immobilier et la transmission vers l’emploi et les revenus. Le PIB trimestriel reste préliminaire et peut être révisé lorsque les informations sous-jacentes s’améliorent. Un trimestre plus favorable ne suffit pas à trancher les perspectives de l’année entière ou de chaque secteur.[^7]
 
-Données citées du site du Bureau national des statistiques, www.stats.gov.cn. Les interprétations relèvent de l’analyse indépendante de cet article.
+Données citées du site du Bureau national des statistiques, [www.stats.gov.cn](https://www.stats.gov.cn/). Les interprétations relèvent de l’analyse indépendante de cet article.
 
 [^1]: 2026-10-19 10:00 · Bureau national des statistiques de Chine · [前三季度经济运行总体平稳 高质量发展取得新成效](https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965618.html).
 

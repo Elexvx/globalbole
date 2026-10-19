@@ -50,7 +50,7 @@ An industry’s growth rate is not its contribution to aggregate growth. Rapid e
 
 The figures support a judgment of improving growth alongside persistent divergence. They do not yet establish a broad strengthening of demand. Subsequent releases should show whether retail and private investment improve sustainably, whether developers’ funding pressure eases, and whether production growth feeds more fully into employment and income. Quarterly GDP is preliminary and may be revised as underlying information improves. One stronger quarter cannot settle the outlook for the full year or every industry.[^7]
 
-Data cited from the National Bureau of Statistics website, www.stats.gov.cn. Interpretations are the article’s independent analysis.
+Data cited from the National Bureau of Statistics website, [www.stats.gov.cn](https://www.stats.gov.cn/). Interpretations are the article’s independent analysis.
 
 [^1]: 2026-10-19 10:00 · National Bureau of Statistics of China · [前三季度经济运行总体平稳 高质量发展取得新成效](https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965618.html).
 
