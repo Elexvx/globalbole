@@ -1,0 +1,153 @@
+{
+  "issue": "2026-10-19",
+  "publicationDate": "2026-10-19",
+  "sourceHandoff": {
+    "candidateCount": 8,
+    "actualSelectedImages": 3,
+    "completeManuscriptReceived": false,
+    "editorialTreatment": "This issue supplemented into original reports under direct user authorization."
+  },
+  "selected": [
+    {
+      "translationKey": "hydrogen-city-cluster-pilots-2026-10-19"
+    },
+    {
+      "translationKey": "cleanaway-eqt-waste-infrastructure-2026-10-19"
+    },
+    {
+      "translationKey": "anthropic-public-benefit-equity-2026-10-19"
+    },
+    {
+      "translationKey": "china-third-quarter-gdp-demand-2026-10-19"
+    }
+  ],
+  "held": [
+    {
+      "candidate": 3,
+      "topic": "China solar exports",
+      "reason": "Reliable original-source verification of customs figures remains incomplete; rights-cleared original selected image retained in audit."
+    },
+    {
+      "candidate": 6,
+      "topic": "Ukraine energy attacks",
+      "reason": "Sensitive political conflict topic excluded."
+    },
+    {
+      "candidate": 7,
+      "topic": "Canadian military training fire",
+      "reason": "Unconfirmed casualty scope and insufficient independently verified detail for requested deep report."
+    },
+    {
+      "candidate": 8,
+      "topic": "US Central Asia diplomacy",
+      "reason": "Sensitive political topic excluded."
+    }
+  ],
+  "mediaAudit": "docs/news-media/2026-10-19/provenance.json",
+  "verificationStatus": "editorial-tests-types-build-export-seo-passed-browser-and-production-pending",
+  "sourceLinkChecks": [
+    {
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.irs.gov/charities-non-profits/private-foundations/taxes-on-failure-to-distribute-income-private-foundations",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_d2957277c4684eb59c0c0de01af59434.html",
+      "status": "403",
+      "exit": 0
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965618.html",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/private-placements-under-regulation-d-updated-investor-bulletin",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://news.cision.com/eqt/r/eqt-agrees-to-acquire-cleanaway--a-leading-australian-integrated-waste-management-and-resource-recov,c4410303",
+      "status": "522",
+      "exit": 0
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965615.html",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.dcceew.gov.au/sites/default/files/documents/national-waste-and-resource-recovery-report-2024.pdf",
+      "status": "502",
+      "exit": 0
+    },
+    {
+      "url": "https://www.stats.gov.cn/zs/tjws/zytjzbqs/gnsczz/202410/t20241025_1957169.html",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965614.html",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.stats.gov.cn/zs/tjws/tjzb/202301/t20230101_1903788.html",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965616.html",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "url": "https://wap.miit.gov.cn/jgsj/jns/wjfb/art/2026/art_5e948f54b3994909a31a8fb7587c6e59.html",
+      "status": "403",
+      "exit": 0
+    },
+    {
+      "url": "https://www.stats.gov.cn/zs/tjws/zytjzbqs/gnsczz/202409/t20240909_1956324.html",
+      "status": "200",
+      "exit": 0
+    }
+  ],
+  "sourceLinkCheckNote": "Direct HTTP results reflect this execution network. MIIT, Cision and DCCEEW originals were independently opened and read through the web research tool despite these command-line errors; these errors are not claims of missing original pages.",
+  "editorialReview": {
+    "status": "passed",
+    "editions": 20,
+    "scope": "Independent cross-language comparison of facts, dates, numeric units, conditional statements, notes and media rights; original brief forecast replaced with official GDP release."
+  },
+  "verification": {
+    "tests": {
+      "passed": 105,
+      "failed": 0
+    },
+    "types": "passed",
+    "productionBuild": "passed",
+    "export": {
+      "htmlPages": 4522,
+      "localReferences": 286733
+    },
+    "seo": {
+      "canonicalArticles": 300,
+      "sitemapUrls": 910
+    },
+    "browser": "pending native Git preview; local executor/browser networks isolated"
+  }
+}

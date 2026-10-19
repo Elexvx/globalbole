@@ -1,0 +1,135 @@
+{
+  "checked_at_utc": "2026-10-19T06:41:04.191141+00:00",
+  "primary_release": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965618.html",
+  "publication_time": "2026-10-19 10:00 Asia/Shanghai",
+  "source_relationship": "Separate NBS releases, not independent institutional corroboration. Main release and detailed retail, investment and property pages were opened and read; original HTML was additionally retrieved.",
+  "facts": {
+    "q3_gdp_yoy_real_pct": 4.5,
+    "q2_gdp_yoy_real_pct": 4.3,
+    "q3_gdp_qoq_seasonally_adjusted_pct": 1.2,
+    "q2_gdp_qoq_revised_pct": 0.9,
+    "jan_sep_gdp_yoy_real_pct": 4.6,
+    "jan_sep_gdp_current_price_trillion_yuan": 107.1071,
+    "jan_sep_industrial_value_added_real_pct": 5.3,
+    "equipment_manufacturing_real_pct": 10.2,
+    "hightech_manufacturing_real_pct": 14.3,
+    "services_value_added_real_pct": 5.2,
+    "secondary_sector_value_added_real_pct": 3.8,
+    "retail_sales_nominal_pct": 1.1,
+    "retail_ex_automobiles_pct": 2.8,
+    "online_goods_pct": 3.8,
+    "catering_revenue_pct": 2.4,
+    "fixed_asset_investment_pct": -7.2,
+    "private_investment_pct": -10.4,
+    "equipment_purchases_pct": 9.7,
+    "intellectual_property_products_investment_pct": 9.3,
+    "manufacturing_investment_pct": -2.1,
+    "infrastructure_investment_pct": -4.2,
+    "property_development_investment_pct": -20.6,
+    "new_commercial_property_sales_area_pct": -13.2,
+    "developer_funds_received_pct": -21.6,
+    "secondhand_housing_registered_transaction_area_pct": 10.7
+  },
+  "pitfalls": [
+    "GDP and industrial value added growth are real; GDP monetary level is current-price.",
+    "Investment comparable statistical basis does not mean constant prices.",
+    "Retail sales do not cover all household services consumption.",
+    "Fixed-asset investment is not the national-accounts capital-formation measure.",
+    "Second-hand housing transactions are not developer presale funding.",
+    "Do not use obsolete 4.4% forecast as actual or suggest a beat versus a verified consensus.",
+    "Industry growth rates are not GDP contribution rates."
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965618.html",
+      "title": "前三季度经济运行总体平稳 高质量发展取得新成效",
+      "displayed_publication_date": "2026-10-19 10:00",
+      "accessed": true
+    },
+    {
+      "id": 2,
+      "url": "https://www.stats.gov.cn/zs/tjws/tjzb/202301/t20230101_1903788.html",
+      "title": "什么是现价和不变价",
+      "displayed_publication_date": "2025-02-28",
+      "accessed": true
+    },
+    {
+      "id": 3,
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965614.html",
+      "title": "2026年1—9月份社会消费品零售总额增长1.1%",
+      "displayed_publication_date": "2026-10-19 10:00",
+      "accessed": true
+    },
+    {
+      "id": 4,
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965616.html",
+      "title": "2026年1—9月份全国固定资产投资基本情况",
+      "displayed_publication_date": "2026-10-19 10:00",
+      "accessed": true
+    },
+    {
+      "id": 5,
+      "url": "https://www.stats.gov.cn/zs/tjws/zytjzbqs/gnsczz/202409/t20240909_1956324.html",
+      "title": "国内（地区）生产总值概述",
+      "displayed_publication_date": "2024-09-13",
+      "accessed": true
+    },
+    {
+      "id": 6,
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965615.html",
+      "title": "2026年1—9月份全国房地产市场基本情况",
+      "displayed_publication_date": "2026-10-19 10:00",
+      "accessed": true
+    },
+    {
+      "id": 7,
+      "url": "https://www.stats.gov.cn/zs/tjws/zytjzbqs/gnsczz/202410/t20241025_1957169.html",
+      "title": "生产法GDP的核算方法",
+      "displayed_publication_date": "2024-10-31",
+      "accessed": true
+    }
+  ],
+  "copyright": {
+    "terms_url": "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html",
+    "terms_read_via": "Search returned full page text after direct-open timeouts.",
+    "terms_findings": [
+      "NBS asserts copyright in site contents by default.",
+      "Section 3 explicitly permits downloading and using NBS statistical data, subject to law and accurate use.",
+      "News/informational public-free reasonable quotations require prominent attribution to NBS and website.",
+      "Site-specific graphics, logos, layout and other excluded content are not covered by general welcome-to-reproduce wording."
+    ],
+    "law_url": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "law_findings": "Article 5 excludes specified governmental legal/administrative/judicial instruments, simple factual news, and common tables/formulas. Article 15 can protect original selection/arrangement of data. Do not equate every government-authored article or photograph with public domain.",
+    "publication_basis": "Use factual numerical statistics permitted by NBS data-use terms; independently selected arrangement and original economic analysis. No full official prose, release structure, or original image reproduced.",
+    "ordinary_copyright_text_budget": "Methods explanations limited to brief independently worded factual definitions; no direct quotations. Across all five editions preserve source 2, 5 and 7 summaries within 200 words per source. Numerical-data reuse is documented separately under explicit NBS data-use permission; do not extrapolate permission to photographs or graphs.",
+    "not_a_blanket_public_domain_claim": true
+  },
+  "image_audit": {
+    "page_body_image_count_unique": 7,
+    "all_visually_checked": true,
+    "types": [
+      "GDP quarterly year-on-year line chart",
+      "Industrial value-added monthly year-on-year line chart",
+      "Services production index monthly year-on-year line chart",
+      "Retail sales monthly year-on-year line chart",
+      "Fixed-asset investment cumulative year-on-year line chart",
+      "CPI monthly year-on-year line chart",
+      "PPI monthly year-on-year line chart"
+    ],
+    "image_urls": [
+      "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261019330122793931_ORIGIN.png",
+      "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261019330122969367_ORIGIN.png",
+      "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261019330123100116_ORIGIN.png",
+      "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261019330123235604_ORIGIN.png",
+      "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261019330123371747_ORIGIN.png",
+      "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261019330123526824_ORIGIN.png",
+      "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261019330123668401_ORIGIN.png"
+    ],
+    "usable_original_photograph_found": false,
+    "open_license_for_original_graphics_confirmed": false,
+    "decision": "Do not reproduce or redraw the seven source graphics. Use parent-produced non-data editorial AI illustration, labelled as AI-generated and not an actual scene.",
+    "planned_cover": "/news-media/2026-10-19/china-economy-illustration.png"
+  },
+  "analysis_status": "Transmission mechanisms and implications are explicitly analytical interpretations, not statistical causal findings. No policy announcement, GDP target, or net-export contribution invented."
+}

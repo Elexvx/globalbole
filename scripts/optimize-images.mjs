@@ -9,6 +9,9 @@ const outputDir = path.resolve("public/optimized-assets");
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 19 archival station: restrained quality preserves the sign and
+  // full frame while avoiding a transfer-size regression on low-light grain.
+  "hydrogen-station": 50,
   // October 18 photographs: reviewed at 1280px against the WebP fallback.
   "centinela-oxidos-encuentro-2017": 50,
   "kjuube-pv-battery-cabinet-2020": 60,

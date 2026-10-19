@@ -1,0 +1,58 @@
+{
+  "story": "cleanaway-eqt-waste-infrastructure-2026-10-19",
+  "verification_date": "2026-10-19",
+  "publication_assessment": "Ready subject to final editorial and site checks. Historical industry illustration must not be described as a Cleanaway vehicle. Retain visible CC BY-SA notice for adapted background sections and photograph.",
+  "primary": {
+    "url": "https://news.cision.com/eqt/r/eqt-agrees-to-acquire-cleanaway--a-leading-australian-integrated-waste-management-and-resource-recov,c4410303",
+    "title": "EQT agrees to acquire Cleanaway, a leading Australian integrated waste management and resource recovery platform",
+    "publisher": "EQT via Cision",
+    "displayed_date": "Mon, Oct 19, 2026 00:29 CET",
+    "verified": true,
+    "reuse": "Only compact factual leads and event identification in titles derive from this ordinary source. Five-language aggregate substantive source-derived prose kept under approximately 200 English-equivalent words; bibliography identifies the source. No long quotations."
+  },
+  "open_background": {
+    "url": "https://www.dcceew.gov.au/sites/default/files/documents/national-waste-and-resource-recovery-report-2024.pdf",
+    "title": "National waste and resource recovery report 2024 – Final",
+    "published": "2025-01-20",
+    "authors": [
+      "Dr Joe Pickin",
+      "Jen Macklin (BehaviourWorks)"
+    ],
+    "copyright": "Commonwealth of Australia as represented by the Department of Climate Change, Energy, the Environment and Water, and Blue Environment Pty Ltd",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "license_verified": "PDF physical page 2, copyright statement; web extracted lines 18–21. License deed read: attribution, modifications indicated, share-alike.",
+    "data_period": "Predominantly financial year 2022–23; explicitly distinguished from October 2026 and Cleanaway results.",
+    "evidence": {
+      "overview": "Physical PDF pages 11–13: headline about 76 Mt; core 65.4 Mt; municipal 13.5 Mt, commercial/industrial including ash 32.9 Mt, construction/demolition 29.2 Mt.",
+      "chapter_4": "Printed pp24–26: recycling measurement boundaries; MRF intake approximately 2.00 Mt, about 21% sent to landfill; sorting methods; differing output values.",
+      "chapter_7": "Printed pp38–39 and appendix: 66% resource recovery versus 63% recycling; energy recovery primarily landfill gas; C&D 81.2% and municipal 51.9%.",
+      "chapter_10": "Printed pp57–59: kerbside 9.9 Mt; 6.02 garbage, 1.80 dry recycling, 2.07 organics; local government infrastructure ownership; organics access about 53%, FOGO about 28%."
+    },
+    "treatment": "Selected facts, original economic explanations and clearly labelled inferences. Adapted background sections explicitly licensed CC BY-SA 4.0, modifications and copyright identified. Original disclaimer retained in condensed form. No assertion about current Cleanaway facilities or future plans."
+  },
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/File:Canning_waste_disposal_truck.jpg",
+    "title": "Canning waste disposal truck.jpg",
+    "author": "Orderinchaos",
+    "date": "2020-07-22",
+    "description": "City of Canning waste collection truck on residential street in Cannington, Western Australia",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "verified": true,
+    "local_reference": "/news-media/2026-10-19/canning-waste-truck.jpg",
+    "official_release_image": {
+      "available": true,
+      "url": "https://news.cision.com/eqt/r/eqt-agrees-to-acquire-cleanaway--a-leading-australian-integrated-waste-management-and-resource-recov,c4410303",
+      "reuse_permission_verified": false,
+      "policy_checked": "https://news.cision.com/_editorial/contentPolicy",
+      "conclusion": "Content Policy addresses accepted submissions, not a public reuse grant. Do not republish release image without independent permission."
+    }
+  },
+  "editorial_checks": [
+    "All five articles have matching translationKey and date/issue 2026-10-19, business category, localized captions and footnotes, language-prefixed slugs.",
+    "Chinese editions exceed 1200 Han characters of substantive text.",
+    "All source publications in footnotes have actual publication dates; no invented publication date from site compilation.",
+    "Corporate premium omitted. No current investment recommendation or forecast of acquisition approval."
+  ]
+}

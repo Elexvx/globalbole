@@ -1,0 +1,69 @@
+{
+  "verified_at": "2026-10-19T06:34:00Z",
+  "decision": "publishable_as_short_verified_news_lead_plus_original_governance_analysis",
+  "article_chinese_character_count_excluding_sources": 1211,
+  "core_source": {
+    "title": "Investing in the public benefit",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "publication_date": "2026-10-18",
+    "access": "directly opened original",
+    "ordinary_source_budget": "200 words combined across five published languages. Draft deliberately uses only one short factual lead; do not add all editorial verification facts to the translations. Target <=35 derived English-equivalent words per language including titles/captions; keep total <=200. Rest is independently written general analysis backed by government primary material."
+  },
+  "sources": [
+    {
+      "title": "Private Placements under Regulation D – Updated Investor Bulletin",
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/private-placements-under-regulation-d-updated-investor-bulletin",
+      "publication_date": "2022-08-17",
+      "updated_date": "2026-09-21",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "role": "General liquidity, resale restriction and disclosure background. Do not claim specific restrictions apply to this Fund without its documents.",
+      "copyright": "Federal agency-authored official educational text, public domain in United States; no third-party attribution found."
+    },
+    {
+      "title": "Exemption requirements - 501(c)(3) organizations",
+      "url": "https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations",
+      "publication_date": null,
+      "publisher": "Internal Revenue Service",
+      "role": "Exempt-purpose, private inurement and political activity rules; general context only.",
+      "copyright": "IRS official employee-created text reusable; explicit policy verified at https://www.irs.gov/about-irs/use-of-content-from-irsgov"
+    },
+    {
+      "title": "Taxes on failure to distribute income - Private foundations",
+      "url": "https://www.irs.gov/charities-non-profits/private-foundations/taxes-on-failure-to-distribute-income-private-foundations",
+      "publication_date": null,
+      "publisher": "Internal Revenue Service",
+      "role": "Private foundation distribution requirements used for comparison, explicitly not assumed applicable to LLC.",
+      "copyright": "IRS official employee-created text reusable under same verified IRS policy."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg",
+      "description_page": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+      "verified_revision": "https://commons.wikimedia.org/w/index.php?title=File:Anthropic_logo.svg&oldid=1117289668",
+      "title": "Anthropic logo.svg",
+      "author": "Anthropic",
+      "license": "Public domain, PD-textlogo; trademark and other restrictions remain",
+      "license_verified": true,
+      "dimensions": "1024x115",
+      "recommended_credit": "Anthropic logo / Wikimedia Commons / Public domain (PD-textlogo). Trademark belongs to its owner.",
+      "status": "usable_as_identification_logo_not_a_photograph",
+      "render_note": "Original SVG target verified from Commons original-file link. Web extraction rejects SVG content type; not a missing file finding. Use in neutral editorial context, no endorsement implication."
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cbdc2eac6dfb37cf596d8f9fb32783036b5737c2-2000x1125.jpg",
+      "description_page": "https://www.anthropic.com/news/public-benefit-fund",
+      "title": "Investing in the public benefit article illustration",
+      "license": "No reusable/open license established",
+      "license_verified": false,
+      "status": "do_not_republish_without_permission",
+      "note": "Direct article image link inspected. Publication on official site does not provide reuse rights. No original-source photograph with verified reuse terms established."
+    }
+  ],
+  "editorial_notes": [
+    "This is news analysis, not a detailed retelling of the press release. Body expressly distinguishes original analytical questions from verified company facts.",
+    "No independent confirmation of stockholder approval or completed transfer was obtained; do not imply either.",
+    "No current company valuation or dollar value calculation is included.",
+    "Recommended design: approved logo plus original editorial diagram if necessary, not unlicensed article hero image."
+  ]
+}

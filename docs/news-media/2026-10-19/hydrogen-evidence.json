@@ -1,0 +1,72 @@
+{
+  "verified_at": "2026-10-19T06:34:00Z",
+  "status": "verified_ready",
+  "title": "五个城市群获准开展氢能综合应用试点，四年考核聚焦应用与降本",
+  "publication_date": "2026-10-19",
+  "official_document_date": "2026-08-15",
+  "official_release_date": "2026-10-16",
+  "official_release_time_displayed": "20:17",
+  "body_han_characters": 1256,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://wap.miit.gov.cn/jgsj/jns/wjfb/art/2026/art_5e948f54b3994909a31a8fb7587c6e59.html",
+      "type": "formal_administrative_document",
+      "document_number": "工信部联节函〔2026〕266号",
+      "license_basis": "PRC Copyright Law article 5(1), administrative documents excluded",
+      "facts": [
+        "Five clusters formally named",
+        "Four-year pilot",
+        "Performance evaluation informs central rewards",
+        "Four implementation lists",
+        "Restrictions on reward fund use",
+        "Progress or local disbursement failures can reduce or suspend central rewards"
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_d2957277c4684eb59c0c0de01af59434.html",
+      "type": "formal_administrative_document",
+      "document_number": "工信部联节〔2026〕59号",
+      "document_date": "2026-03-06",
+      "release_date": "2026-03-16",
+      "license_basis": "PRC Copyright Law article 5(1), administrative documents excluded",
+      "facts": [
+        "2030 cluster average end-use hydrogen below RMB25/kg",
+        "Around RMB15/kg ambition only in certain advantaged areas",
+        "National fuel-cell vehicle stock ambition 100000 and double 2025",
+        "Maximum RMB1.6bn per cluster over full pilot",
+        "Advance allocation then settlement tied to performance",
+        "Transport and multiple industrial applications"
+      ]
+    }
+  ],
+  "copyright_basis_url": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+  "copyright_budget": {
+    "protected_news_or_analysis_used_words": 0,
+    "notes": "All article policy detail derives solely from the two formal administrative notices. Do not borrow separate copyrighted commentary. Five-language translations retain source citations."
+  },
+  "image": {
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hydrogen_filling_station.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hydrogen_filling_station.JPG",
+    "author": "Jóhann Heiðar Árnason",
+    "date_as_stated_on_file_page": "2008-06-12",
+    "location": "Reykjavík, Iceland",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "dimensions": [
+      3296,
+      2472
+    ],
+    "modification_recommendation": "Proportional scaling only; label any edits and apply share-alike to adaptations.",
+    "caution": "Historical illustrative image, not China or pilot site. EXIF has implausible 2080 timestamp; do not use EXIF as capture evidence."
+  },
+  "editorial_cautions": [
+    "October 19 is editorial publication date, not official release.",
+    "Do not equate 4 years to a proven uniform October 16 starting date.",
+    "Five clusters are not five individual cities.",
+    "RMB1.6bn is a maximum over four years, not committed allocation.",
+    "RMB8bn combined would only be arithmetic upper bound, not disbursed funding.",
+    "2030 prices and vehicle count are targets, not achieved metrics."
+  ]
+}
