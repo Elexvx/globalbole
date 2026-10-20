@@ -1,0 +1,193 @@
+{
+  "checkedAt": "2026-10-20",
+  "status": "fresh-source-and-language-validation-passed",
+  "reconstructionNotByteExact": true,
+  "reopenedUrls": [
+    "https://modal.com/blog/nvidia-vera-sandboxes",
+    "https://github.com/modal-projects/agentless-agent-bench",
+    "https://nvidianews.nvidia.com/news/nvidia-unveils-vera-the-cpu-for-agents",
+    "https://doi.org/10.6028/NIST.SP.500-307",
+    "https://docs.docker.com/build/building/multi-platform/",
+    "https://github.com/docker/docs/blob/main/LICENSE",
+    "https://raw.githubusercontent.com/docker/docs/main/LICENSE",
+    "https://doi.org/10.6028/NIST.SP.800-145",
+    "https://doi.org/10.6028/NIST.SP.800-190",
+    "https://www.nist.gov/open/license",
+    "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+    "https://www.nahb.org/news-and-economics/press-releases/2026/10/builder-sentiment-falls-on-rising-rates",
+    "https://www.census.gov/construction/nrs/pdf/newressales_202608.pdf",
+    "https://www.census.gov/construction/soc/definitions.html",
+    "https://www.consumerfinance.gov/owning-a-home/loan-estimate/",
+    "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+    "https://www.consumerfinance.gov/privacy/website-privacy-policy/",
+    "https://www.census.gov/about/policies/citation.html",
+    "https://www.spr.doe.gov/dir/dir.html",
+    "https://www.spr.doe.gov/dir/images/img2.jpg",
+    "https://www.energy.gov/hgeo/opr/spr-quick-facts",
+    "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W",
+    "https://www.energy.gov/hgeo/opr/spr-faqs",
+    "https://www.energy.gov/hgeo/opr/strategic-petroleum-reserve",
+    "https://www.energy.gov/articles/united-states-energy-department-continues-execution-strategic-reserve-release-commitments",
+    "https://www.energy.gov/web-policies",
+    "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+    "https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg",
+    "https://www.energy.gov/ceser/photos/strategic-petroleum-reserve"
+  ],
+  "ordinarySourceBudgets": [
+    {
+      "url": "https://modal.com/blog/nvidia-vera-sandboxes",
+      "aggregateLimit": 200,
+      "aggregateConservativeBudget": 200,
+      "languageAllocations": {
+        "zh-CN": 40,
+        "zh-TW": 40,
+        "en": 36,
+        "fr": 44,
+        "ru": 40
+      }
+    },
+    {
+      "url": "https://github.com/modal-projects/agentless-agent-bench",
+      "aggregateLimit": 200,
+      "aggregateConservativeBudget": 200,
+      "languageAllocations": {
+        "zh-CN": 45,
+        "zh-TW": 45,
+        "en": 34,
+        "fr": 40,
+        "ru": 36
+      }
+    },
+    {
+      "url": "https://doi.org/10.6028/NIST.SP.500-307",
+      "aggregateLimit": 200,
+      "aggregateConservativeBudget": 195,
+      "languageAllocations": {
+        "zh-CN": 40,
+        "zh-TW": 40,
+        "en": 35,
+        "fr": 40,
+        "ru": 40
+      }
+    },
+    {
+      "url": "https://docs.docker.com/build/building/multi-platform/",
+      "aggregateLimit": 200,
+      "aggregateConservativeBudget": 180,
+      "languageAllocations": {
+        "zh-CN": 40,
+        "zh-TW": 40,
+        "en": 32,
+        "fr": 36,
+        "ru": 32
+      }
+    },
+    {
+      "url": "https://www.nahb.org/news-and-economics/press-releases/2026/10/builder-sentiment-falls-on-rising-rates",
+      "aggregateLimit": 200,
+      "aggregateConservativeBudget": 186,
+      "languageAllocations": {
+        "zh-CN": 40,
+        "zh-TW": 40,
+        "en": 32,
+        "fr": 40,
+        "ru": 34
+      }
+    }
+  ],
+  "governmentAndLicensedSources": [
+    {
+      "urls": [
+        "https://doi.org/10.6028/NIST.SP.800-145",
+        "https://doi.org/10.6028/NIST.SP.800-190"
+      ],
+      "rights": "Both PDFs explicitly state non-copyright status. NIST reuse policy provides worldwide reprint/derivative permission to extent NIST asserts foreign rights. Required attribution and license-policy link are retained in all editions.",
+      "basis": "https://www.nist.gov/open/license"
+    },
+    {
+      "urls": [
+        "https://www.census.gov/construction/nrs/pdf/newressales_202608.pdf",
+        "https://www.census.gov/construction/soc/definitions.html"
+      ],
+      "rights": "Official Census/HUD authored statistical release and Census definitions, not third-party contributions. Federal government works; factual data plus original analysis.",
+      "basis": "https://www.census.gov/about/policies/citation.html"
+    },
+    {
+      "urls": [
+        "https://www.consumerfinance.gov/owning-a-home/loan-estimate/",
+        "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/"
+      ],
+      "rights": "CFPB-created explanations. CFPB website policy expressly places its created material in the public domain, except third-party works.",
+      "basis": "https://www.consumerfinance.gov/privacy/website-privacy-policy/"
+    },
+    {
+      "urls": [
+        "https://www.spr.doe.gov/dir/dir.html",
+        "https://www.spr.doe.gov/dir/images/img2.jpg",
+        "https://www.energy.gov/hgeo/opr/spr-quick-facts",
+        "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W",
+        "https://www.energy.gov/hgeo/opr/spr-faqs",
+        "https://www.energy.gov/hgeo/opr/strategic-petroleum-reserve",
+        "https://www.energy.gov/articles/united-states-energy-department-continues-execution-strategic-reserve-release-commitments"
+      ],
+      "rights": "Official DOE/EIA authored government inventory data and institutional explanations; no third-party protected text is reproduced. DOE public-domain policy independently reopened.",
+      "basis": "https://www.energy.gov/web-policies"
+    }
+  ],
+  "imageSelection": [
+    {
+      "path": "/news-media/2026-10-20/nvidia-headquarters-2018.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+      "rights": "CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Coolcaesar",
+      "photographed": "2018-08-04",
+      "derivative": "Jacek Halicki, 2020-08-13, file history says CA, perspective, cut",
+      "sourceImageReviewCompleted": true
+    },
+    {
+      "path": "/news-media/2026-10-20/housing-affordability-ai.webp",
+      "rights": "AI-generated editorial illustration, regenerated by parent task",
+      "sourceImageReviewCompleted": true
+    },
+    {
+      "path": "/news-media/2026-10-20/spr-nederland-doe-2014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg",
+      "originalPublication": "https://www.flickr.com/photos/departmentofenergy/14944303958",
+      "descriptionSource": "https://www.energy.gov/ceser/photos/strategic-petroleum-reserve",
+      "author": "ENERGY.GOV / U.S. Department of Energy",
+      "published": "2014-09-03",
+      "captureDateClaimed": false,
+      "rights": "PD-USGov-DOE; Commons explicitly identifies employee official-duty work; DOE government-information policy independently checked",
+      "sourceImageReviewCompleted": true
+    },
+    {
+      "path": "/news-media/2026-10-20/spr-inventory-doe-2026-10-16.png",
+      "source": "https://www.spr.doe.gov/dir/images/img2.jpg",
+      "rights": "Government-authored DOE inventory, public domain under DOE policy",
+      "dataDate": "2026-10-16",
+      "visuallyVerified": true,
+      "visibleFacts": {
+        "sweetMillionBarrels": 96.5,
+        "sourMillionBarrels": 186.2,
+        "totalMillionBarrels": 282.7
+      },
+      "redrawn": false,
+      "visualInspectionOriginalSha256": "283a6071580dafd52d37e2ad84d4e453ef83ffff792d0fb3914bc2a988a0a173",
+      "binaryFinalization": "Parent owns final binary metadata stripping, pixel comparison and final image hashes.",
+      "sourceImageReviewCompleted": true
+    }
+  ],
+  "validation": {
+    "files": 15,
+    "languageSets": 5,
+    "translationKeys": 3,
+    "coverReusedInBody": true,
+    "citationLabelsMatchReferences": true,
+    "perKeyLinkAndImageSetsMatchAcrossLanguages": true,
+    "noPlaceholders": true,
+    "noSecondaryMortgageExample": true,
+    "traditionalPublicationCompoundsCorrected": true,
+    "buildAndBrowserValidation": "Assigned to parent after local assembly; not claimed here."
+  }
+}

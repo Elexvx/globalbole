@@ -1,0 +1,71 @@
+{
+  "issue": "2026-10-20",
+  "publicationDate": "2026-10-20",
+  "sourceHandoff": {
+    "candidateCount": 8,
+    "completeManuscriptReceived": false,
+    "editorialTreatment": "Six verified topics developed into full five-language reports; no fixed three-report cap. Recovery after workspace reset retains the same selected topics."
+  },
+  "selected": [
+    {
+      "translationKey": "modal-vera-agent-compute-2026-10-20"
+    },
+    {
+      "translationKey": "us-new-home-affordability-inventory-2026-10-20"
+    },
+    {
+      "translationKey": "us-spr-inventory-exchange-2026-10-20"
+    },
+    {
+      "translationKey": "huaihe-catl-storage-cooperation-2026-10-20"
+    },
+    {
+      "translationKey": "yinwang-catl-smart-battery-swap-2026-10-20"
+    },
+    {
+      "translationKey": "ai-infrastructure-credit-obligations-2026-10-20"
+    }
+  ],
+  "held": [
+    {
+      "candidate": 1,
+      "topic": "China third-quarter GDP",
+      "reason": "Duplicate of the October 19 report based on the same official release and data period.",
+      "existingTranslationKey": "china-third-quarter-gdp-demand-2026-10-19"
+    },
+    {
+      "candidate": 8,
+      "topic": "Ukraine conflict developments",
+      "reason": "Held under the existing editorial scope for sensitive political conflict topics; not represented as a lack of reliable sourcing.",
+      "policyReference": "docs/daily-news-publishing.md, editorial requirement 1",
+      "recoveryEvidenceLimit": "Disposition retained from the prior coverage review. The full original eight-item briefing/review text was not independently recovered; no specific factual sourcing failure is asserted for this item."
+    }
+  ],
+  "mediaAudit": "docs/news-media/2026-10-20/provenance.json",
+  "verificationStatus": "fresh-validation-passed",
+  "publicationStatus": "authorized-for-publication",
+  "recovery": {
+    "byteIdenticalArticleFiles": 12,
+    "partiallyRegeneratedArticleFiles": 2,
+    "fullyReconstructedArticleFiles": 15,
+    "originalArchiveRecovered": false,
+    "historicalQaIsNotCurrentQa": true,
+    "recoveredExactBeforeValidationMetadataCorrection": 13,
+    "metadataOnlyNormalizedArticleFiles": 1,
+    "validationCorrections": [
+      "Huaihe Russian storage tag normalized to the existing site taxonomy.",
+      "Modal French infrastructure tag normalized to the existing site taxonomy.",
+      "Two archival JPEG photos receive reviewed AVIF quality 60 derivatives; originals unchanged.",
+      "Modal simplified/traditional Chinese agent tags normalized to existing taxonomy for reciprocal hreflang."
+    ]
+  },
+  "verification": {
+    "testsPassed": 106,
+    "lint": "passed",
+    "productionBuild": "passed",
+    "exportHtmlPages": 5080,
+    "exportLocalReferences": 321602,
+    "seo": "passed",
+    "browser": "All thirty articles and five homepages at desktop and 390px-wide iframe; five live same-story language switches and citation navigation passed. This is a narrow document-width check, not mobile device emulation."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-20T08:31:00Z",
+  "status": "fresh-source-revalidation-passed",
+  "sources": [
+    {
+      "url": "https://www.catl.com/news/10323.html",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://finance.sina.com.cn/roll/2026-10-16/doc-inivkncr7801139.shtml",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.eia.gov/energyexplained/electricity/energy-storage-for-electricity-generation.php",
+      "date": "2023-08-28"
+    },
+    {
+      "url": "https://www.eia.gov/about/copyrights_reuse.php"
+    }
+  ],
+  "mediaDecision": {
+    "sourcePhotoExists": true,
+    "sourcePageURL": "https://www.catl.com/news/10323.html",
+    "sourceURL": "https://www.catl.com/uploads/1/image/public/202610/20261019175526_w4bdoaw6s7.jpg",
+    "decision": "Not republished: article footer reserves all rights; no express syndication license recovered. Legal page timed out twice. Use disclosed AI-generated conceptual cover, not an imitation signing photograph."
+  }
+}

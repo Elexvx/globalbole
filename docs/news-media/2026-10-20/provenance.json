@@ -1,0 +1,315 @@
+{
+  "date": "2026-10-20",
+  "assets": [
+    {
+      "id": "ai-credit-illustration",
+      "article": "ai-infrastructure-credit-obligations-2026-10-20",
+      "filename": "ai-credit-illustration.webp",
+      "localPath": "/news-media/2026-10-20/ai-credit-illustration.webp",
+      "captions": {
+        "en": "*AI-generated conceptual illustration of the relationship between AI infrastructure and payment obligations. It depicts no real company facility or financial data.*",
+        "fr": "*Illustration conceptuelle générée par IA des liens entre infrastructures d’IA et obligations de paiement. Elle ne représente ni installation d’entreprise réelle ni données financières.*",
+        "ru": "*Концептуальная иллюстрация, созданная ИИ: связь инфраструктуры ИИ с платёжными обязательствами. Это не изображение реальных объектов компаний и не финансовые данные.*",
+        "zh-CN": "*AI生成概念示意图，表现AI基础设施与付款义务之间的关系；并非真实公司设施或财务数据。*",
+        "zh-TW": "*AI生成概念示意圖，呈現AI基礎設施與付款義務之間的關係；並非真實公司設施或財務數據。*"
+      },
+      "caption": "*AI生成概念示意图，表现AI基础设施与付款义务之间的关系；并非真实公司设施或财务数据。*",
+      "sha256": "c2e2f02d7f3412c7b50f6cd24c240cfa342a3aa5576d1390e2f34b8200593fce",
+      "byteSize": 1922982,
+      "width": 1672,
+      "height": 941,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless WebP conversion without ancillary metadata.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "85fd4eec673602468bbe8dbbeaa33cf88a33504757cc19e049f16d0791609ce9",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "ai_generated_editorial_illustration",
+      "creator": "OpenAI image_gen",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: 16:9 wide editorial news cover, no lettering. Create a sophisticated conceptual editorial illustration about AI infrastructure financing and payment obligations: dark server racks inside a partially built data-center structure supported by interconnected architectural beams and foundations. Thoughtful visual metaphor for interdependent support, not collapsing, not claiming any specific financial distress. Dramatic but restrained warm and cool lighting, polished painted realism. Do not depict any actual company facility. No logos, people, cash, graphs, numeric data, charts, tables, arrows, symbols or text.",
+      "rightsBasis": "Generated editorial artwork authorized for missing suitable cover images; visibly identified in every edition. No event documentary claim.",
+      "date": "2026-10-20",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": null,
+      "licenseURL": null
+    },
+    {
+      "id": "housing-affordability-ai",
+      "article": "us-new-home-affordability-inventory-2026-10-20",
+      "filename": "housing-affordability-ai.webp",
+      "localPath": "/news-media/2026-10-20/housing-affordability-ai.webp",
+      "captions": {
+        "en": "_AI-generated conceptual illustration: new-home construction and housing affordability. It does not depict a real development or document a news event._",
+        "fr": "_Illustration conceptuelle générée par IA : construction de logements neufs et accessibilité du logement. Elle ne représente ni un programme immobilier réel ni une scène d’actualité._",
+        "ru": "_Концептуальная иллюстрация, созданная ИИ: строительство новых домов и доступность жилья. Она не изображает реальный жилой комплекс и не является документальной фотографией события._",
+        "zh-CN": "_AI生成示意图：新房建设与住房负担能力。不代表真实楼盘，也不是新闻事件现场照片。_",
+        "zh-TW": "_AI生成示意圖：新房建設與住房負擔能力。不代表真實樓盤，也不是新聞事件現場照片。_"
+      },
+      "caption": "_AI生成示意图：新房建设与住房负担能力。不代表真实楼盘，也不是新闻事件现场照片。_",
+      "sha256": "42a8faea0ec0b0f96d58c28f34c799fccbd5ac9010a6e68b2bbcbf974ff9fd3b",
+      "byteSize": 1871990,
+      "width": 1672,
+      "height": 941,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless WebP conversion without ancillary metadata.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "86e099e9c684746af8b60bfc5cc4ff35838f8437daf1010b817f6b91b5ee26c2",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "ai_generated_editorial_illustration",
+      "creator": "OpenAI image_gen",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: 16:9 wide editorial news cover, no lettering. Create a polished conceptual editorial illustration about the affordability and inventory of newly built American homes. Show a generic unbranded suburban street with completed houses and a few houses under construction in the distance, construction materials neatly arranged, no actual identifiable development. Calm clear daylight, realistic building proportions and moderate illustrative texture, not documentary photography. No people, logos, prices, for-sale text, charts, numerical data, arrows or written text.",
+      "rightsBasis": "Generated editorial artwork authorized for missing suitable cover images; visibly identified in every edition. No event documentary claim.",
+      "date": "2026-10-20",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": null,
+      "licenseURL": null
+    },
+    {
+      "id": "huaihe-storage-ai",
+      "article": "huaihe-catl-storage-cooperation-2026-10-20",
+      "filename": "huaihe-storage-ai.webp",
+      "localPath": "/news-media/2026-10-20/huaihe-storage-ai.webp",
+      "captions": {
+        "en": "*AI-generated conceptual illustration of industrial electricity use and storage equipment, not an actual project of the companies.*",
+        "fr": "*Illustration conceptuelle générée par IA : consommation électrique industrielle et équipements de stockage, sans représenter un projet réel des entreprises.*",
+        "ru": "*Концептуальная иллюстрация, созданная ИИ: промышленное электропотребление и накопители энергии, а не реальный проект компаний.*",
+        "zh-CN": "*AI生成示意图：工业用能场景与储能设备，非双方实际项目。*",
+        "zh-TW": "*AI生成示意圖：工業用能場景與儲能設備，非雙方實際專案。*"
+      },
+      "caption": "*AI生成示意图：工业用能场景与储能设备，非双方实际项目。*",
+      "sha256": "61bae9354bae6615d783185230fd61863ff39564e2a5ad93e2db1bc8f74a9fdb",
+      "byteSize": 1778924,
+      "width": 1672,
+      "height": 941,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless WebP conversion without ancillary metadata.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "52a855961aa85490064b7f02091c9317831f41548ad6e14c18109b38dde3481c",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "ai_generated_editorial_illustration",
+      "creator": "OpenAI image_gen",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: 16:9 wide editorial news cover, no lettering. Create a polished conceptual editorial illustration of industrial electricity use and battery energy storage: unbranded modular battery containers in a plausible industrial landscape, distant generic processing buildings, power lines and muted mountains. Clear central subject and balanced composition suitable for newspaper web covers. This is visibly an illustration, not documentary photography, and must not depict any actual Huaihe Energy or CATL facility. No logos, people, charts, numbers, map, data visualization or text.",
+      "rightsBasis": "Generated editorial artwork authorized for missing suitable cover images; visibly identified in every edition. No event documentary claim.",
+      "date": "2026-10-20",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": null,
+      "licenseURL": null
+    },
+    {
+      "id": "nvidia-headquarters-2018",
+      "article": "modal-vera-agent-compute-2026-10-20",
+      "filename": "nvidia-headquarters-2018.jpg",
+      "localPath": "/news-media/2026-10-20/nvidia-headquarters-2018.jpg",
+      "captions": {
+        "en": "_Archive photograph: NVIDIA headquarters, Santa Clara, California, August 4, 2018. Photograph by Coolcaesar; perspective-corrected and cropped derivative by Jacek Halicki, 2020. Source: [NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)._",
+        "fr": "_Photo d’archives : siège de NVIDIA, Santa Clara, Californie, le 4 août 2018. Photographie : Coolcaesar ; version dérivée avec correction de perspective et recadrage : Jacek Halicki, 2020. Source : [NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)._",
+        "ru": "_Архивное фото: штаб-квартира NVIDIA, Санта-Клара, Калифорния, 4 августа 2018 года. Автор фотографии: Coolcaesar; производная версия с коррекцией перспективы и кадрированием: Jacek Halicki, 2020 год. Источник: [NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)._",
+        "zh-CN": "_资料照片：2018年8月4日，美国加利福尼亚州圣克拉拉，英伟达总部。摄影：Coolcaesar；透视校正、裁切衍生版本：Jacek Halicki，2020年。来源：[NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。_",
+        "zh-TW": "_資料照片：2018年8月4日，美國加利福尼亞州聖克拉拉，輝達總部。攝影：Coolcaesar；透視校正、裁切衍生版本：Jacek Halicki，2020年。來源：[NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。_"
+      },
+      "caption": "_资料照片：2018年8月4日，美国加利福尼亚州圣克拉拉，英伟达总部。摄影：Coolcaesar；透视校正、裁切衍生版本：Jacek Halicki，2020年。来源：[NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。_",
+      "sha256": "85de106d2f4a1bddfa295590a68dea87ce22dc808e8fd33a636523c3952d5544",
+      "byteSize": 8247745,
+      "width": 4662,
+      "height": 2852,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless removal of EXIF/IPTC/XMP and nonessential comments; original pixels retained. JPEG table converted losslessly to PNG.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "1ae10b1e465c0ba4463001d532d898fded9caf4c183355400edbfb453fa4bc50",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "archival_documentary_photo",
+      "creator": "Coolcaesar; 2020 correction/crop by Jacek Halicki",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/0/0f/NVIDIA_Headquarters.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "date": "2018-08-04",
+      "reuseDecision": "Related archival photo; not the Vera processor or current event. Attribution and share-alike license retained. Proportional responsive derivatives under the same license."
+    },
+    {
+      "id": "spr-inventory-doe-2026-10-16",
+      "article": "us-spr-inventory-exchange-2026-10-20",
+      "filename": "spr-inventory-doe-2026-10-16.png",
+      "localPath": "/news-media/2026-10-20/spr-inventory-doe-2026-10-16.png",
+      "captions": {
+        "en": "_Original DOE inventory table, data dated October 16, 2026. Original producer and source: U.S. Department of Energy, [inventory image](https://www.spr.doe.gov/dir/images/img2.jpg). Government information is public domain under [DOE’s reuse policy](https://www.energy.gov/web-policies)._",
+        "fr": "_Tableau original d’inventaire du DOE, données au 16 octobre 2026. Producteur et source : Département américain de l’Énergie, [image originale](https://www.spr.doe.gov/dir/images/img2.jpg). Information gouvernementale relevant du domaine public selon la [politique du DOE](https://www.energy.gov/web-policies)._",
+        "ru": "_Оригинальная таблица DOE, данные на 16 октября 2026 года. Составитель и источник: Министерство энергетики США, [исходное изображение](https://www.spr.doe.gov/dir/images/img2.jpg). Государственная информация относится к общественному достоянию согласно [политике DOE](https://www.energy.gov/web-policies)._",
+        "zh-CN": "_DOE原始库存表，数据日期：2026年10月16日。原制表机构与来源：美国能源部，[原始库存图](https://www.spr.doe.gov/dir/images/img2.jpg)。政府信息依据[DOE使用政策](https://www.energy.gov/web-policies)属于公有领域。_",
+        "zh-TW": "_DOE原始庫存表，數據日期：2026年10月16日。原制表機構與來源：美國能源部，[原始庫存圖](https://www.spr.doe.gov/dir/images/img2.jpg)。政府資訊依據[DOE使用政策](https://www.energy.gov/web-policies)屬於公有領域。_"
+      },
+      "caption": "_DOE原始库存表，数据日期：2026年10月16日。原制表机构与来源：美国能源部，[原始库存图](https://www.spr.doe.gov/dir/images/img2.jpg)。政府信息依据[DOE使用政策](https://www.energy.gov/web-policies)属于公有领域。_",
+      "sha256": "8a6973afe7aa8b17045a79ad73f4f5266b871c3187e6cf1892ee2a843ed87d5f",
+      "byteSize": 320466,
+      "width": 928,
+      "height": 684,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless removal of EXIF/IPTC/XMP and nonessential comments; original pixels retained. JPEG table converted losslessly to PNG.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "283a6071580dafd52d37e2ad84d4e453ef83ffff792d0fb3914bc2a988a0a173",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "source_original_data_table",
+      "creator": "U.S. Department of Energy, Strategic Petroleum Reserve",
+      "sourcePageURL": "https://www.spr.doe.gov/dir/dir.html",
+      "sourceURL": "https://www.spr.doe.gov/dir/images/img2.jpg",
+      "rightsEvidenceURL": "https://www.spr.doe.gov/dir/dir.html",
+      "license": "U.S. federal government work, public domain",
+      "licenseURL": "https://www.spr.doe.gov/dir/dir.html",
+      "dataDate": "2026-10-16",
+      "reuseDecision": "Direct original DOE table, not redrawn. Downloaded JPEG converted losslessly to PNG; complete pixels retained, including notes."
+    },
+    {
+      "id": "spr-nederland-doe-2014",
+      "article": "us-spr-inventory-exchange-2026-10-20",
+      "filename": "spr-nederland-doe-2014.jpg",
+      "localPath": "/news-media/2026-10-20/spr-nederland-doe-2014.jpg",
+      "captions": {
+        "en": "_Archive photograph published September 3, 2014: three white DOE crude-oil tanks at the Sunoco terminal near Nederland, Texas. Source and author: ENERGY.GOV / U.S. Department of Energy, [“United States Strategic Petroleum Reserve 012”](https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg), [original publication](https://www.flickr.com/photos/departmentofenergy/14944303958). U.S. federal-government work, public domain._",
+        "fr": "_Photo d’archives publiée le 3 septembre 2014 : trois réservoirs blancs de brut du DOE au terminal Sunoco près de Nederland, au Texas. Auteur et source : ENERGY.GOV / Département américain de l’Énergie, [« United States Strategic Petroleum Reserve 012 »](https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg), [publication originale](https://www.flickr.com/photos/departmentofenergy/14944303958). Œuvre du gouvernement fédéral américain, domaine public._",
+        "ru": "_Архивное фото, опубликовано 3 сентября 2014 года: три белых резервуара DOE для сырой нефти на терминале Sunoco возле Недерленда, Техас. Автор и источник: ENERGY.GOV / Министерство энергетики США, [«United States Strategic Petroleum Reserve 012»](https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg), [исходная публикация](https://www.flickr.com/photos/departmentofenergy/14944303958). Произведение федерального правительства США, общественное достояние._",
+        "zh-CN": "_资料照片，2014年9月3日发布：美国得克萨斯州Nederland附近Sunoco码头的三个白色DOE原油储罐。作者与来源：ENERGY.GOV／美国能源部，[《United States Strategic Petroleum Reserve 012》](https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg)，[原始发布页](https://www.flickr.com/photos/departmentofenergy/14944303958)。美国联邦政府作品，公有领域。_",
+        "zh-TW": "_資料照片，2014年9月3日發布：美國得克薩斯州Nederland附近Sunoco碼頭的三個白色DOE原油儲罐。作者與來源：ENERGY.GOV／美國能源部，[《United States Strategic Petroleum Reserve 012》](https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg)，[原始發布頁](https://www.flickr.com/photos/departmentofenergy/14944303958)。美國聯邦政府作品，公有領域。_"
+      },
+      "caption": "_资料照片，2014年9月3日发布：美国得克萨斯州Nederland附近Sunoco码头的三个白色DOE原油储罐。作者与来源：ENERGY.GOV／美国能源部，[《United States Strategic Petroleum Reserve 012》](https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg)，[原始发布页](https://www.flickr.com/photos/departmentofenergy/14944303958)。美国联邦政府作品，公有领域。_",
+      "sha256": "c0670caf33329c11c9e1fead58708b61c6bc72b3134503638ceb605cc3a483ff",
+      "byteSize": 977898,
+      "width": 3200,
+      "height": 2560,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless removal of EXIF/IPTC/XMP and nonessential comments; original pixels retained. JPEG table converted losslessly to PNG.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "f182c2431aa01e0b80b88145297620e2a4e0a4949adaf297dc0b4c9b0441d8e4",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "archival_documentary_photo",
+      "creator": "U.S. Department of Energy / ENERGY.GOV",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/United_States_Strategic_Petroleum_Reserve_012.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg",
+      "license": "U.S. federal government work, public domain",
+      "licenseURL": "https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg",
+      "publicationDate": "2014-09-03",
+      "reuseDecision": "DOE archival photograph of Nederland terminal. Publication date is not asserted as capture date."
+    },
+    {
+      "id": "yinwang-swap-ai",
+      "article": "yinwang-catl-smart-battery-swap-2026-10-20",
+      "filename": "yinwang-swap-ai.webp",
+      "localPath": "/news-media/2026-10-20/yinwang-swap-ai.webp",
+      "captions": {
+        "en": "*AI-generated conceptual illustration of electric-vehicle battery swapping and battery scheduling. It does not depict a real station, vehicle model or this partnership’s activities.*",
+        "fr": "*Illustration conceptuelle générée par IA sur l’échange de batteries de véhicules électriques et leur gestion. Elle ne représente ni station ou modèle réels, ni scène de ce partenariat.*",
+        "ru": "*Концептуальная иллюстрация, созданная ИИ, о замене батарей электромобилей и управлении их запасом. На ней не изображены реальные станции, модели автомобилей или события этого партнёрства.*",
+        "zh-CN": "*AI生成示意图：电动汽车换电与电池调度的概念场景，不展示真实站点、车型或此次合作现场。*",
+        "zh-TW": "*AI生成示意圖：電動車換電與電池調度的概念場景，不展示真實站點、車型或此次合作現場。*"
+      },
+      "caption": "*AI生成示意图：电动汽车换电与电池调度的概念场景，不展示真实站点、车型或此次合作现场。*",
+      "sha256": "72a9d1e672eade9fbeb7ca7d1ed2eec379bc166a001cd8847b238cacd022ef16",
+      "byteSize": 1546474,
+      "width": 1672,
+      "height": 941,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless WebP conversion without ancillary metadata.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "11719da8b0498e5d7cec2356f5b274aade6cf2e7770d5d18c575d2e616587046",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "ai_generated_editorial_illustration",
+      "creator": "OpenAI image_gen",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: 16:9 wide editorial news cover, no lettering. Create a polished conceptual editorial illustration of electric vehicle battery swapping: a generic unbranded electric sedan next to a modular exchange bay, a few clearly designed battery packs, tidy service setting. Warm natural light, realistic spatial logic but unmistakably an illustrative concept rather than a news photograph. Do not reproduce a real manufacturer model, real company station or actual partnership event. No logos, people, charts, numbers, map, data visualization or text.",
+      "rightsBasis": "Generated editorial artwork authorized for missing suitable cover images; visibly identified in every edition. No event documentary claim.",
+      "date": "2026-10-20",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": null,
+      "licenseURL": null
+    }
+  ],
+  "sourceSelectedCandidates": [
+    {
+      "sourcePhotoExists": true,
+      "sourcePageURL": "https://www.catl.com/news/10323.html",
+      "sourceURL": "https://www.catl.com/uploads/1/image/public/202610/20261019175526_w4bdoaw6s7.jpg",
+      "decision": "Not republished: article footer reserves all rights; no express syndication license recovered. Legal page timed out twice. Use disclosed AI-generated conceptual cover, not an imitation signing photograph."
+    },
+    {
+      "sourcePhotoExistsInCurrentReport": false,
+      "sourcePageURL": "https://www.nbd.com.cn/articles/2026-10-19/4608790.html",
+      "decision": "NBD article has no current-event body photo and prohibits unauthorized republication. Historical CATL images exist but no express reuse license found, and the April signing is a different partnership. Use visibly labeled AI conceptual cover."
+    },
+    {
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+      "localPath": "/news-media/2026-10-20/nvidia-headquarters-2018.jpg",
+      "decision": "Adopted the rights-cleared or generated asset documented in assets; original-image review completed."
+    },
+    {
+      "sourcePageURL": null,
+      "localPath": "/news-media/2026-10-20/housing-affordability-ai.webp",
+      "decision": "Adopted the rights-cleared or generated asset documented in assets; original-image review completed."
+    },
+    {
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_012.jpg",
+      "localPath": "/news-media/2026-10-20/spr-nederland-doe-2014.jpg",
+      "decision": "Adopted the rights-cleared or generated asset documented in assets; original-image review completed."
+    },
+    {
+      "sourcePageURL": "https://www.spr.doe.gov/dir/images/img2.jpg",
+      "localPath": "/news-media/2026-10-20/spr-inventory-doe-2026-10-16.png",
+      "decision": "Adopted the rights-cleared or generated asset documented in assets; original-image review completed."
+    }
+  ],
+  "recoveryNote": "New media hashes verified; no claim of byte-identical restoration to the lost earlier release archive.",
+  "responsiveDerivativeReview": {
+    "date": "2026-10-20",
+    "photos": [
+      "nvidia-headquarters-2018.jpg",
+      "spr-nederland-doe-2014.jpg"
+    ],
+    "avifQuality": 60,
+    "comparison": "Full-frame AVIF 60 versus existing WebP 76 at 1280 pixels; NVIDIA signage, building structure and storage-tank details remain clear. Original files unchanged. Transfer budget verified by the existing image-assets tests."
+  }
+}

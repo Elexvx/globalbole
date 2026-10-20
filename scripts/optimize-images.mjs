@@ -9,6 +9,9 @@ const outputDir = path.resolve("public/optimized-assets");
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 20 archival photos: retain full-frame detail within the WebP budget.
+  "nvidia-headquarters-2018": 60,
+  "spr-nederland-doe-2014": 60,
   // October 19 archival station: restrained quality preserves the sign and
   // full frame while avoiding a transfer-size regression on low-light grain.
   "hydrogen-station": 50,

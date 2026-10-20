@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-10-20T08:30:20Z/2026-10-20T08:30:47Z",
+  "status": "fresh-source-revalidation-passed",
+  "sources": [
+    {
+      "url": "https://www.investing.com/news/stock-market-news/top-hyperscalers-likely-to-have-more-ailinked-debt-than-now-known-sp-global-warns-4958070",
+      "displayedDate": "2026-10-19",
+      "retrievedDate": "2026-10-20"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-17/chapter-II/part-229/subpart-229.300/section-229.303",
+      "retrievedDate": "2026-10-20"
+    },
+    {
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/ai-infrastructure-debt-is-testing-private-market-valuations",
+      "displayedDate": "2026-08-28",
+      "retrievedDate": "2026-10-20"
+    },
+    {
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/us-ig-credit-no-sector-is-an-island",
+      "displayedDate": "2026-10-06",
+      "retrievedDate": "2026-10-20"
+    },
+    {
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-8",
+      "displayedDate": "2017-10-12",
+      "retrievedDate": "2026-10-20"
+    }
+  ]
+}

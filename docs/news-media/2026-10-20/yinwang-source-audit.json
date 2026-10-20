@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-20T08:31:00Z",
+  "status": "fresh-source-revalidation-passed",
+  "sources": [
+    {
+      "url": "https://www.nbd.com.cn/articles/2026-10-19/4608790.html",
+      "date": "2026-10-19T20:56:36+08:00"
+    },
+    {
+      "url": "https://www.catl.com/news/9846.html",
+      "date": "2026-04-26"
+    },
+    {
+      "url": "https://www.catl.com/news/8209.html",
+      "date": "2024-12-19"
+    },
+    {
+      "url": "https://ojs.cvut.cz/ojs/index.php/ap/article/view/9602",
+      "date": "2026-01-15"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s43995-025-00215-z",
+      "date": "2025-09-25"
+    }
+  ],
+  "mediaDecision": {
+    "sourcePhotoExistsInCurrentReport": false,
+    "sourcePageURL": "https://www.nbd.com.cn/articles/2026-10-19/4608790.html",
+    "decision": "NBD article has no current-event body photo and prohibits unauthorized republication. Historical CATL images exist but no express reuse license found, and the April signing is a different partnership. Use visibly labeled AI conceptual cover."
+  }
+}

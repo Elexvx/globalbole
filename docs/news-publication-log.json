@@ -2671,6 +2671,258 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-20-zh-CN",
+      "issue": "2026-10-20",
+      "publicationDate": "2026-10-20",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "fr",
+        "ru"
+      ],
+      "articles": [
+        {
+          "translationKey": "modal-vera-agent-compute-2026-10-20",
+          "path": "content/issues/2026-10-20/zh-CN/modal-vera-agent-compute-2026-10-20.md",
+          "eventDate": "2026-10-19",
+          "sources": [
+            {
+              "title": "《NVIDIA Vera CPU让Modal沙箱吞吐量翻倍》",
+              "url": "https://modal.com/blog/nvidia-vera-sandboxes",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《Agentless Agent Bench》",
+              "url": "https://github.com/modal-projects/agentless-agent-bench",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《云计算服务指标描述》，SP 500-307",
+              "url": "https://doi.org/10.6028/NIST.SP.500-307",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《NIST云计算定义》，SP 800-145",
+              "url": "https://doi.org/10.6028/NIST.SP.800-145",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "使用条款",
+              "url": "https://www.nist.gov/open/license",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《多平台构建》",
+              "url": "https://docs.docker.com/build/building/multi-platform/",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "Apache 2.0许可",
+              "url": "https://github.com/docker/docs/blob/main/LICENSE",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《应用容器安全指南》，SP 800-190",
+              "url": "https://doi.org/10.6028/NIST.SP.800-190",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "使用条款",
+              "url": "https://www.nist.gov/open/license",
+              "verificationDate": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-new-home-affordability-inventory-2026-10-20",
+          "path": "content/issues/2026-10-20/zh-CN/us-new-home-affordability-inventory-2026-10-20.md",
+          "eventDate": "2026-10-19; housing data 2026-08",
+          "sources": [
+            {
+              "title": "《利率上升令建筑商信心下降》",
+              "url": "https://www.nahb.org/news-and-economics/press-releases/2026/10/builder-sentiment-falls-on-rising-rates",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《2026年8月新建住宅月度销售》",
+              "url": "https://www.census.gov/construction/nrs/pdf/newressales_202608.pdf",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《贷款估算表解读》",
+              "url": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "公有领域",
+              "url": "https://www.consumerfinance.gov/privacy/website-privacy-policy/",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《如何使用贷款方补贴和折扣点数？》",
+              "url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《施工调查：定义》",
+              "url": "https://www.census.gov/construction/soc/definitions.html",
+              "verificationDate": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-spr-inventory-exchange-2026-10-20",
+          "path": "content/issues/2026-10-20/zh-CN/us-spr-inventory-exchange-2026-10-20.md",
+          "eventDate": "2026-10-16 inventory; 2026-09-29 exchange announcement",
+          "sources": [
+            {
+              "title": "《战略石油储备库存》",
+              "url": "https://www.spr.doe.gov/dir/dir.html",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "原始表格图",
+              "url": "https://www.spr.doe.gov/dir/images/img2.jpg",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《SPR快速事实》",
+              "url": "https://www.energy.gov/hgeo/opr/spr-quick-facts",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《美国战略石油储备周末原油库存》",
+              "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《美国能源部继续执行战略储备释放承诺》",
+              "url": "https://www.energy.gov/articles/united-states-energy-department-continues-execution-strategic-reserve-release-commitments",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《SPR常见问题》",
+              "url": "https://www.energy.gov/hgeo/opr/spr-faqs",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "《战略石油储备》",
+              "url": "https://www.energy.gov/hgeo/opr/strategic-petroleum-reserve",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "DOE公有领域使用政策",
+              "url": "https://www.energy.gov/web-policies",
+              "verificationDate": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "translationKey": "huaihe-catl-storage-cooperation-2026-10-20",
+          "path": "content/issues/2026-10-20/zh-CN/huaihe-catl-storage-cooperation-2026-10-20.md",
+          "eventDate": "2026-10-14 signing; 2026-10-19 CATL announcement",
+          "sources": [
+            {
+              "title": "淮河能源与宁德时代签署战略合作协议",
+              "url": "https://www.catl.com/news/10323.html",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "淮河能源与宁德时代签署战略合作协议",
+              "url": "https://finance.sina.com.cn/roll/2026-10-16/doc-inivkncr7801139.shtml",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "EIA: Energy storage for electricity generation",
+              "url": "https://www.eia.gov/energyexplained/electricity/energy-storage-for-electricity-generation.php",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "EIA转载与翻译规则",
+              "url": "https://www.eia.gov/about/copyrights_reuse.php",
+              "verificationDate": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "translationKey": "yinwang-catl-smart-battery-swap-2026-10-20",
+          "path": "content/issues/2026-10-20/zh-CN/yinwang-catl-smart-battery-swap-2026-10-20.md",
+          "eventDate": "2026-10-19 report",
+          "sources": [
+            {
+              "title": "引望与宁德时代、时代电服开展智能换电合作",
+              "url": "https://www.nbd.com.cn/articles/2026-10-19/4608790.html",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "可充可换，极速满电！北汽集团×宁德时代共建“超换一体”新生态",
+              "url": "https://www.catl.com/news/9846.html",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "Coordinated operation of battery swapping and charging stations for electric vehicles: a review（电动汽车换电站与充电站协同运行综述）",
+              "url": "https://ojs.cvut.cz/ojs/index.php/ap/article/view/9602",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "CC BY 4.0",
+              "url": "https://creativecommons.org/licenses/by/4.0/",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "纵享“丝滑”换电，宁的「巧克力」生态来了",
+              "url": "https://www.catl.com/news/8209.html",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "Electric vehicle battery swap stations: an overview and critical review（电动汽车换电站：概览与批判性综述）",
+              "url": "https://link.springer.com/article/10.1007/s43995-025-00215-z",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "CC BY 4.0",
+              "url": "https://creativecommons.org/licenses/by/4.0/",
+              "verificationDate": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "translationKey": "ai-infrastructure-credit-obligations-2026-10-20",
+          "path": "content/issues/2026-10-20/zh-CN/ai-infrastructure-credit-obligations-2026-10-20.md",
+          "eventDate": "2026-10-19 report",
+          "sources": [
+            {
+              "title": "标普警告：大型云服务商的AI关联债务可能高于已知规模",
+              "url": "https://www.investing.com/news/stock-market-news/top-hyperscalers-likely-to-have-more-ailinked-debt-than-now-known-sp-global-warns-4958070",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "17 CFR §229.303：管理层对财务状况与经营成果的讨论与分析",
+              "url": "https://www.ecfr.gov/current/title-17/chapter-II/part-229/subpart-229.300/section-229.303",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "AI基础设施债务正在考验私募市场估值",
+              "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/ai-infrastructure-debt-is-testing-private-market-valuations",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "美国投资级信用：没有哪个行业是一座孤岛？",
+              "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/us-ig-credit-no-sector-is-an-island",
+              "verificationDate": "2026-10-20"
+            },
+            {
+              "title": "更新版投资者公告：信用评级基础知识",
+              "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-8",
+              "verificationDate": "2026-10-20"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [
