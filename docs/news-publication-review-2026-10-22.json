@@ -51,7 +51,7 @@
     "withdrawnTopicsUnchanged": true,
     "previousArticleURLsUnchanged": true
   },
-  "verificationStatus": "automated publication validation passed; live browser and deployment verification pending",
+  "verificationStatus": "local automated validation passed; first Git deployment exceeded build time limit; bounded image concurrency repair validated locally; live deployment verification pending",
   "importantCorrections": [
     "OpenAI incident dates are October 3 and 6, disclosed October 20; no claim the events occurred on this issue date.",
     "NAND layer counts remain attributed to Reuters sources, not company-confirmed production details.",
@@ -72,7 +72,7 @@
   },
   "validation": {
     "tests": {
-      "passed": 107,
+      "passed": 112,
       "failed": 0
     },
     "productionBuild": "passed",
@@ -89,6 +89,34 @@
     "localVisualQA": {
       "status": "not completed",
       "reason": "Cloud browser and separate shell could not reach isolated local preview server; production browser verification remains required."
+    }
+  },
+  "deploymentAttempts": [
+    {
+      "commit": "86468d36ccbdc8d90650c82447f58eac1ac372d4",
+      "status": "ERROR",
+      "errorCode": "BUILD_EXCEEDED_MAXIMUM_TIME",
+      "stage": "Static generation after image encoding and successful compilation/typecheck"
+    }
+  ],
+  "buildRepair": {
+    "scope": "Bounded derivative encoding and validation, atomic output writes, safe regeneration of interrupted or invalid cached derivatives",
+    "unchanged": [
+      "source images",
+      "encoder parameters",
+      "image quality",
+      "content-hash filenames",
+      "article URLs",
+      "page layout"
+    ],
+    "validation": "112 tests, production build, typecheck, export and SEO checks passed locally; production redeployment remains required",
+    "twoCoreColdBenchmark": {
+      "variants": 57,
+      "serialSeconds": 154.12,
+      "repairedSeconds": 93.43,
+      "byteIdenticalVariants": 57,
+      "manifestByteIdentical": true,
+      "scope": "Four representative real source files; not a substitute for production deployment verification"
     }
   }
 }
