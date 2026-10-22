@@ -1,0 +1,94 @@
+{
+  "issue": "2026-10-22",
+  "publicationDate": "2026-10-22",
+  "sourceHandoff": {
+    "candidateCount": 8,
+    "completeManuscriptReceived": false,
+    "editorialTreatment": "Seven current-issue briefs independently verified and developed into complete aligned five-language reports. Older issue drafts were not republished."
+  },
+  "selected": [
+    {
+      "candidate": 1,
+      "translationKey": "openai-monitoring-boundaries-2026-10-22"
+    },
+    {
+      "candidate": 3,
+      "translationKey": "meta-muse-capital-spending-2026-10-22"
+    },
+    {
+      "candidate": 2,
+      "translationKey": "china-nand-upgrade-delivery-2026-10-22"
+    },
+    {
+      "candidate": 5,
+      "translationKey": "nvidia-europe-robotics-deployment-2026-10-22"
+    },
+    {
+      "candidate": 4,
+      "translationKey": "tesla-cash-flow-capex-2026-10-22"
+    },
+    {
+      "candidate": 6,
+      "translationKey": "kinder-morgan-gas-investment-2026-10-22"
+    },
+    {
+      "candidate": 7,
+      "translationKey": "ebay-workforce-focus-2026-10-22"
+    }
+  ],
+  "held": [
+    {
+      "candidate": 8,
+      "topic": "Russia–Ukraine–US negotiations",
+      "reason": "Excluded under the editorial scope for sensitive political conflict topics; not treated as a sourcing failure."
+    }
+  ],
+  "mediaAudit": "docs/news-media/2026-10-22/provenance.json",
+  "deduplication": {
+    "baseCommit": "bfa6592afb4fdda8d8fae2b3ec5f0322d320984b",
+    "priorEditions": 330,
+    "priorStories": 66,
+    "withdrawnTopicsUnchanged": true,
+    "previousArticleURLsUnchanged": true
+  },
+  "verificationStatus": "automated publication validation passed; live browser and deployment verification pending",
+  "importantCorrections": [
+    "OpenAI incident dates are October 3 and 6, disclosed October 20; no claim the events occurred on this issue date.",
+    "NAND layer counts remain attributed to Reuters sources, not company-confirmed production details.",
+    "Meta capex guidance raises the lower bound; its share-class plan is not completed fundraising and AI already affects advertising.",
+    "Tesla analyst consensus is identified separately from reported figures; lower cash capex is not proof of better profitability.",
+    "NVIDIA rapid deployment requires a prepared site; reference robot availability is prospective.",
+    "Kinder Morgan’s $4.7 billion is its investment share, not combined gross project cost.",
+    "eBay job reductions are approximate and cannot be summed into a net headcount change."
+  ],
+  "rights": {
+    "sourceSelectedImagesAudited": 8,
+    "sourceSelectedImageFilesWithAccessGaps": 8,
+    "sourceImageCopyrightBlanketDenial": false,
+    "adoptedRealPhotos": 3,
+    "aiIllustrations": 6,
+    "generatedDataCharts": 0,
+    "teslaPhotosBodyOnly": true
+  },
+  "validation": {
+    "tests": {
+      "passed": 107,
+      "failed": 0
+    },
+    "productionBuild": "passed",
+    "typecheck": "passed",
+    "export": {
+      "html": 5362,
+      "localReferences": 340613
+    },
+    "seo": {
+      "articles": 365,
+      "sitemapURLs": 1070,
+      "rssLanguages": 5
+    },
+    "localVisualQA": {
+      "status": "not completed",
+      "reason": "Cloud browser and separate shell could not reach isolated local preview server; production browser verification remains required."
+    }
+  }
+}

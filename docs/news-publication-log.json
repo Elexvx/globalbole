@@ -2923,6 +2923,320 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-22-zh-CN",
+      "issue": "2026-10-22",
+      "publicationDate": "2026-10-22",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "openai-monitoring-boundaries-2026-10-22",
+          "path": "content/issues/2026-10-22/zh-CN/openai-monitoring-boundaries-2026-10-22.md",
+          "eventDate": "2026-10-03 and 2026-10-06; disclosed 2026-10-20",
+          "sources": [
+            {
+              "title": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring",
+              "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-20"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Security and Privacy Controls for Information Systems and Organizations",
+              "url": "https://doi.org/10.6028/NIST.SP.800-53r5",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2020-09",
+                "2020-12-10"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "License",
+              "url": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2020-09",
+                "2020-12-10"
+              ],
+              "footnote": 2
+            }
+          ]
+        },
+        {
+          "translationKey": "meta-muse-capital-spending-2026-10-22",
+          "path": "content/issues/2026-10-22/zh-CN/meta-muse-capital-spending-2026-10-22.md",
+          "eventDate": "2026-10-21",
+          "sources": [
+            {
+              "title": "Meta Reports Third Quarter 2026 Results",
+              "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Earnings call transcript: Meta beats Q3 2026 estimates as AI push lifts shares",
+              "url": "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-meta-beats-q3-2026-estimates-as-ai-push-lifts-shares-93CH-4923826",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 2
+            }
+          ]
+        },
+        {
+          "translationKey": "china-nand-upgrade-delivery-2026-10-22",
+          "path": "content/issues/2026-10-22/zh-CN/china-nand-upgrade-delivery-2026-10-22.md",
+          "eventDate": "2026-10-21",
+          "sources": [
+            {
+              "title": "Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
+              "url": "https://www.marketscreener.com/news/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-ce785cd8df8ef224",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Department of Commerce Closes Export Controls Loophole for Foreign-Owned Semiconductor Fabs in China",
+              "url": "https://www.bis.gov/press-release/department-commerce-closes-export-controls-loophole-foreign-owned-semiconductor-fabs-china",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2025-08-29"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Samsung Electronics Begins Industry’s First Mass Production of 9th-Gen V-NAND",
+              "url": "https://news.samsung.com/global/samsung-electronics-begins-industrys-first-mass-production-of-9th-gen-v-nand",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2024-04-23"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "SK hynix Starts Mass Production of World’s First 321-High NAND",
+              "url": "https://news.skhynix.com/en/sk-hynix-starts-mass-production-of-world-first-321-high-nand/",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2024-11-21"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "QLC NAND Technology Is Ready for Mainstream Use in the Data Center",
+              "url": "https://www.solidigm.com/products/technology/qlc-nand-ready-for-mainstream-use-in-data-center.html",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2023-07-17"
+              ],
+              "footnote": 5
+            }
+          ]
+        },
+        {
+          "translationKey": "nvidia-europe-robotics-deployment-2026-10-22",
+          "path": "content/issues/2026-10-22/zh-CN/nvidia-europe-robotics-deployment-2026-10-22.md",
+          "eventDate": "2026-10-21",
+          "sources": [
+            {
+              "title": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data/",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Isaac Lab 3.0.0 — README",
+              "url": "https://github.com/isaac-sim/IsaacLab",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "BSD-3-Clause许可",
+              "url": "https://github.com/isaac-sim/IsaacLab/blob/main/LICENSE",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 3
+            }
+          ]
+        },
+        {
+          "translationKey": "tesla-cash-flow-capex-2026-10-22",
+          "path": "content/issues/2026-10-22/zh-CN/tesla-cash-flow-capex-2026-10-22.md",
+          "eventDate": "2026-10-21",
+          "sources": [
+            {
+              "title": "Q3 2026 Update",
+              "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026066738/tsla-20261021-gen.pdf",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Q3 2026 Earnings Consensus",
+              "url": "https://ir.tesla.com/press-release/earnings-consensus-third-quarter-2026",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-19"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI, robots",
+              "url": "https://ktwb.com/2026/10/21/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows/",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Non-GAAP Financial Measures",
+              "url": "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2021-06-07",
+                "2010-01-11"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "Tesla Third Quarter 2026 Production, Deliveries & Deployments",
+              "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-02"
+              ],
+              "footnote": 5
+            }
+          ]
+        },
+        {
+          "translationKey": "kinder-morgan-gas-investment-2026-10-22",
+          "path": "content/issues/2026-10-22/zh-CN/kinder-morgan-gas-investment-2026-10-22.md",
+          "eventDate": "2026-10-21",
+          "sources": [
+            {
+              "title": "Kinder Morgan Reports Record Third Quarter 2026 Financial Results",
+              "url": "https://ir.kindermorgan.com/news/news-details/2026/Kinder-Morgan-Reports-Record-Third-Quarter-2026-Financial-Results/default.aspx",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
+              "url": "https://www.marketscreener.com/news/kinder-morgan-to-invest-4-7-billion-in-two-gas-pipeline-projects-as-demand-surges-ce785cd9dc8cf724",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Natural gas pipelines",
+              "url": "https://www.eia.gov/energyexplained/natural-gas/natural-gas-pipelines.php",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2024-03-19"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Permian Link Project: Notice of Non-Binding Solicitation of Interest",
+              "url": "https://pipeline2.kindermorgan.com/Documents/NGPL/Permian_Link_---_Non-Binding_Solicitation_of_Interest_FINAL-20260512072709.pdf",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-22",
+                "2026-05-12",
+                "2026-06-11"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "Natural Gas Pipelines",
+              "url": "https://ferc.gov/natural-gas/natural-gas-pipelines",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 5
+            }
+          ]
+        },
+        {
+          "translationKey": "ebay-workforce-focus-2026-10-22",
+          "path": "content/issues/2026-10-22/zh-CN/ebay-workforce-focus-2026-10-22.md",
+          "eventDate": "2026-10-21",
+          "sources": [
+            {
+              "title": "EBay to lay off 9% of workforce in push to simplify operations, internal memo shows",
+              "url": "https://www.marketscreener.com/news/ebay-to-lay-off-9-of-workforce-in-push-to-simplify-operations-internal-memo-shows-ce785cd9d888f62d",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "eBay Inc. Reports Second Quarter 2026 Results",
+              "url": "https://investors.ebayinc.com/investor-news/press-release-details/2026/eBay-Inc--Reports-Second-Quarter-2026-Results/default.aspx",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-08-05"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "eBay Completes Acquisition of Depop",
+              "url": "https://investors.ebayinc.com/investor-news/press-release-details/2026/eBay-Completes-Acquisition-of-Depop/default.aspx",
+              "verificationDate": "2026-10-22",
+              "dateInformation": [
+                "2026-07-30"
+              ],
+              "footnote": 3
+            }
+          ]
+        }
+      ],
+      "review": "docs/news-publication-review-2026-10-22.json",
+      "mediaAudit": "docs/news-media/2026-10-22/provenance.json"
     }
   ],
   "revisions": [

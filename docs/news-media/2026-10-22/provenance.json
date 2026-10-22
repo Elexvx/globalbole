@@ -1,0 +1,635 @@
+{
+  "issue": "2026-10-22",
+  "checkedAt": "2026-10-22",
+  "assets": [
+    {
+      "id": "nvidia-headquarters-2018",
+      "filename": "nvidia-headquarters-2018.jpg",
+      "localPath": "/news-media/2026-10-20/nvidia-headquarters-2018.jpg",
+      "captions": {
+        "en": "_Archive photograph: NVIDIA headquarters, Santa Clara, California, August 4, 2018. Photograph by Coolcaesar; perspective-corrected and cropped derivative by Jacek Halicki, 2020. Source: [NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)._",
+        "fr": "_Photo d’archives : siège de NVIDIA, Santa Clara, Californie, le 4 août 2018. Photographie : Coolcaesar ; version dérivée avec correction de perspective et recadrage : Jacek Halicki, 2020. Source : [NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)._",
+        "ru": "_Архивное фото: штаб-квартира NVIDIA, Санта-Клара, Калифорния, 4 августа 2018 года. Автор фотографии: Coolcaesar; производная версия с коррекцией перспективы и кадрированием: Jacek Halicki, 2020 год. Источник: [NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)._",
+        "zh-CN": "_资料照片：2018年8月4日，美国加利福尼亚州圣克拉拉，英伟达总部。摄影：Coolcaesar；透视校正、裁切衍生版本：Jacek Halicki，2020年。来源：[NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。_",
+        "zh-TW": "_資料照片：2018年8月4日，美國加利福尼亞州聖克拉拉，輝達總部。攝影：Coolcaesar；透視校正、裁切衍生版本：Jacek Halicki，2020年。來源：[NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。_"
+      },
+      "caption": "_资料照片：2018年8月4日，美国加利福尼亚州圣克拉拉，英伟达总部。摄影：Coolcaesar；透视校正、裁切衍生版本：Jacek Halicki，2020年。来源：[NVIDIA Headquarters](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。_",
+      "sha256": "85de106d2f4a1bddfa295590a68dea87ce22dc808e8fd33a636523c3952d5544",
+      "byteSize": 8247745,
+      "width": 4662,
+      "height": 2852,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-20",
+      "changes": "Lossless removal of EXIF/IPTC/XMP and nonessential comments; original pixels retained. JPEG table converted losslessly to PNG.",
+      "pixelIdentityVerified": true,
+      "inputSha256": "1ae10b1e465c0ba4463001d532d898fded9caf4c183355400edbfb453fa4bc50",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "kind": "archival_documentary_photo",
+      "creator": "Coolcaesar; 2020 correction/crop by Jacek Halicki",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/0/0f/NVIDIA_Headquarters.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "date": "2018-08-04",
+      "reuseDecision": "Available as clearly identified archival illustration, not evidence of the current event.",
+      "sourceSelected": false,
+      "priorArticle": "modal-vera-agent-compute-2026-10-20",
+      "candidateStory": "nvidia",
+      "rightsReverifiedAt": "2026-10-22",
+      "pixelsInspectedAt": "2026-10-22",
+      "actualFileSHA256": "85de106d2f4a1bddfa295590a68dea87ce22dc808e8fd33a636523c3952d5544",
+      "article": "nvidia-europe-robotics-deployment-2026-10-22",
+      "alts": {
+        "zh-CN": "美国圣克拉拉的英伟达总部资料照片",
+        "zh-TW": "美國聖克拉拉的輝達總部資料照片",
+        "en": "Archival photograph of NVIDIA headquarters in Santa Clara",
+        "ru": "Архивная фотография штаб-квартиры NVIDIA в Санта-Кларе",
+        "fr": "Photo d’archives du siège de NVIDIA à Santa Clara"
+      }
+    },
+    {
+      "id": "tesla-model-y-69-official",
+      "sourceSelected": false,
+      "candidateStory": "tesla",
+      "filename": "tesla-model-y-69-official.jpg",
+      "kind": "official_product_media_photo",
+      "description": "Model Y in a snow-covered outdoor setting",
+      "creator": "Tesla, Inc.",
+      "sourcePageURL": "https://www.tesla.com/tesla-gallery",
+      "sourceURL": "https://digitalassets.tesla.com/tesla-contents/raw/upload/tesla-gallery-model-y-standard.zip",
+      "archiveMember": "ModelY_69.jpg",
+      "rightsEvidenceURL": "https://www.tesla.com/tesla-gallery",
+      "license": "Tesla Gallery permission for news-media use in Tesla articles; NOT for publication covers, advertising or promotion",
+      "requiredCredit": "Courtesy of Tesla, Inc.",
+      "date": null,
+      "photographer": null,
+      "captions": {
+        "zh-CN": "特斯拉官方Model Y资料图。Courtesy of Tesla, Inc.；[Tesla Gallery媒体使用条款](https://www.tesla.com/tesla-gallery)。",
+        "zh-TW": "特斯拉官方Model Y資料圖。Courtesy of Tesla, Inc.；[Tesla Gallery媒體使用條款](https://www.tesla.com/tesla-gallery)。",
+        "en": "Official Tesla Model Y reference image. Courtesy of Tesla, Inc.; [Tesla Gallery media-use terms](https://www.tesla.com/tesla-gallery).",
+        "ru": "Официальное иллюстративное изображение Tesla Model Y. Courtesy of Tesla, Inc.; [условия использования для СМИ Tesla Gallery](https://www.tesla.com/tesla-gallery).",
+        "fr": "Image d’illustration officielle de la Tesla Model Y. Courtesy of Tesla, Inc. ; [conditions d’utilisation par les médias de Tesla Gallery](https://www.tesla.com/tesla-gallery)."
+      },
+      "coverAllowed": false,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "width": 4000,
+      "height": 2250,
+      "sha256": "fcfd10c3750ac455459e5cde9b7d6bbfb02d1ca1aaaa6af465eebb2232b2fce2",
+      "byteSize": 6475694,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-22",
+      "privacySanitization": {
+        "EXIF": false,
+        "XMP": false,
+        "IPTC": false,
+        "pixelsIdenticalToSource": true
+      },
+      "reuseDecision": "Adoptable for body only in Tesla coverage; not the source GPT original choice, not current earnings-event evidence. Preserve Tesla credit and link.",
+      "article": "tesla-cash-flow-capex-2026-10-22",
+      "localPath": "/news-media/2026-10-22/tesla-model-y-69-official.jpg",
+      "pixelIdentityVerified": true,
+      "caption": "特斯拉官方Model Y资料图。Courtesy of Tesla, Inc.；[Tesla Gallery媒体使用条款](https://www.tesla.com/tesla-gallery)。",
+      "licenseURL": "https://www.tesla.com/tesla-gallery",
+      "alts": {
+        "zh-CN": "特斯拉官方Model Y产品资料图",
+        "zh-TW": "特斯拉官方Model Y產品資料圖",
+        "en": "Official Tesla Model Y product reference image",
+        "ru": "Официальное изображение Tesla Model Y",
+        "fr": "Image officielle de la Tesla Model Y"
+      },
+      "rightsEvidenceId": "tesla-gallery-media-terms"
+    },
+    {
+      "id": "tesla-model-y-70-official",
+      "sourceSelected": false,
+      "candidateStory": "tesla",
+      "filename": "tesla-model-y-70-official.jpg",
+      "kind": "official_product_media_photo",
+      "description": "Model Y on a road",
+      "creator": "Tesla, Inc.",
+      "sourcePageURL": "https://www.tesla.com/tesla-gallery",
+      "sourceURL": "https://digitalassets.tesla.com/tesla-contents/raw/upload/tesla-gallery-model-y-standard.zip",
+      "archiveMember": "ModelY_70.jpg",
+      "rightsEvidenceURL": "https://www.tesla.com/tesla-gallery",
+      "license": "Tesla Gallery permission for news-media use in Tesla articles; NOT for publication covers, advertising or promotion",
+      "requiredCredit": "Courtesy of Tesla, Inc.",
+      "date": null,
+      "photographer": null,
+      "captions": {
+        "zh-CN": "特斯拉官方Model Y资料图。Courtesy of Tesla, Inc.；[Tesla Gallery媒体使用条款](https://www.tesla.com/tesla-gallery)。",
+        "zh-TW": "特斯拉官方Model Y資料圖。Courtesy of Tesla, Inc.；[Tesla Gallery媒體使用條款](https://www.tesla.com/tesla-gallery)。",
+        "en": "Official Tesla Model Y reference image. Courtesy of Tesla, Inc.; [Tesla Gallery media-use terms](https://www.tesla.com/tesla-gallery).",
+        "ru": "Официальное иллюстративное изображение Tesla Model Y. Courtesy of Tesla, Inc.; [условия использования для СМИ Tesla Gallery](https://www.tesla.com/tesla-gallery).",
+        "fr": "Image d’illustration officielle de la Tesla Model Y. Courtesy of Tesla, Inc. ; [conditions d’utilisation par les médias de Tesla Gallery](https://www.tesla.com/tesla-gallery)."
+      },
+      "coverAllowed": false,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "width": 4000,
+      "height": 2250,
+      "sha256": "c8de71cc49d21c04bb045fd553594d23bfd91e74bd6019f0044f3ea9a94171c7",
+      "byteSize": 1447773,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-22",
+      "privacySanitization": {
+        "EXIF": false,
+        "XMP": false,
+        "IPTC": false,
+        "pixelsIdenticalToSource": true
+      },
+      "reuseDecision": "Adoptable for body only in Tesla coverage; not the source GPT original choice, not current earnings-event evidence. Preserve Tesla credit and link.",
+      "article": "tesla-cash-flow-capex-2026-10-22",
+      "localPath": "/news-media/2026-10-22/tesla-model-y-70-official.jpg",
+      "pixelIdentityVerified": true,
+      "caption": "特斯拉官方Model Y资料图。Courtesy of Tesla, Inc.；[Tesla Gallery媒体使用条款](https://www.tesla.com/tesla-gallery)。",
+      "licenseURL": "https://www.tesla.com/tesla-gallery",
+      "alts": {
+        "zh-CN": "特斯拉官方Model Y产品资料图",
+        "zh-TW": "特斯拉官方Model Y產品資料圖",
+        "en": "Official Tesla Model Y product reference image",
+        "ru": "Официальное изображение Tesla Model Y",
+        "fr": "Image officielle de la Tesla Model Y"
+      },
+      "rightsEvidenceId": "tesla-gallery-media-terms"
+    },
+    {
+      "id": "openai-editorial-2026-10-22",
+      "kind": "ai_generated_editorial_illustration",
+      "localPath": "/news-media/2026-10-22/openai-editorial.png",
+      "filename": "openai-editorial.png",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: editorial news illustration for a report about AI agent permissions and tamper-resistant monitoring, explicitly a conceptual illustration, NOT a real incident or company facility. Create a refined landscape 16:9 three-dimensional paper-and-clay editorial still life: a small generic computing module on one side of a transparent partition, a separate closed audit notebook and tiny independent signal light on the other side, linked by a thin cable passing through a controlled opening. Clear physical separation of agent and independent supervision. Calm ivory, charcoal and muted amber palette, soft studio light, tactile materials, striking but restrained. No people, logos, letters, numbers, charts, graphs, data visualization, arrows, labels, fake interface or watermark. Objects centered with ample crop-safe margins; image fills canvas, no border.",
+      "rightsBasis": "Generated editorial illustration for this publication after review found no source-selected original simultaneously readable and licensed for this placement. It does not depict a documented scene or data.",
+      "sha256": "cdf89a45d199294af99cdd9aa446313fe4e19ec935db222115487db761710bbb",
+      "byteSize": 2358570,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "captions": {
+        "zh-CN": "AI生成示意图：AI智能体与独立监控，非真实现场。",
+        "zh-TW": "AI生成示意圖：AI智慧代理與獨立監控，非真實現場。",
+        "en": "AI-generated editorial illustration: AI agents and independent monitoring, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: ИИ-агенты и независимый мониторинг; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : agents d’IA et surveillance indépendante ; ne représente pas une scène réelle."
+      },
+      "caption": "AI生成示意图：AI智能体与独立监控，非真实现场。",
+      "alts": {
+        "zh-CN": "AI生成示意图：AI智能体与独立监控，非真实现场。",
+        "zh-TW": "AI生成示意圖：AI智慧代理與獨立監控，非真實現場。",
+        "en": "AI-generated editorial illustration: AI agents and independent monitoring, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: ИИ-агенты и независимый мониторинг; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : agents d’IA et surveillance indépendante ; ne représente pas une scène réelle."
+      },
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "samsung-editorial-2026-10-22",
+      "kind": "ai_generated_editorial_illustration",
+      "localPath": "/news-media/2026-10-22/samsung-editorial.png",
+      "filename": "samsung-editorial.png",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: conceptual editorial news illustration, landscape 16:9. A precision generic silicon wafer with layered edge visible, a clean manufacturing tool housing and a sealed shipping container abstractly arranged in a calm technical still life. Theme: NAND manufacturing upgrades and delivery constraints. Not a real factory or chip architecture, no literal layer count. Refined tactile paper-and-clay 3D illustration with softly lit ivory background, muted blue, warm gray, and one amber accent. Clear interesting composition centered in crop-safe frame, fills entire image without margins. No people, logos, text, letters, numbers, graphs, charts, data visualization, arrows, diagrams, UI screens or watermark. Never present as documentary photography.",
+      "rightsBasis": "Generated editorial illustration for this publication after review found no source-selected original simultaneously readable and licensed for this placement. It does not depict a documented scene or data.",
+      "sha256": "f43652101fdf4edf18c00a73472f1b7b8261ea7257b2f4211ea42f38ac2822d5",
+      "byteSize": 2370325,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "captions": {
+        "zh-CN": "AI生成示意图：NAND制造升级与交付，非真实现场。",
+        "zh-TW": "AI生成示意圖：NAND製造升級與交付，非真實現場。",
+        "en": "AI-generated editorial illustration: NAND manufacturing upgrades and delivery, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: модернизация производства NAND и поставки; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : modernisation de la fabrication NAND et livraisons ; ne représente pas une scène réelle."
+      },
+      "caption": "AI生成示意图：NAND制造升级与交付，非真实现场。",
+      "alts": {
+        "zh-CN": "AI生成示意图：NAND制造升级与交付，非真实现场。",
+        "zh-TW": "AI生成示意圖：NAND製造升級與交付，非真實現場。",
+        "en": "AI-generated editorial illustration: NAND manufacturing upgrades and delivery, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: модернизация производства NAND и поставки; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : modernisation de la fabrication NAND et livraisons ; ne représente pas une scène réelle."
+      },
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "meta-editorial-2026-10-22",
+      "kind": "ai_generated_editorial_illustration",
+      "localPath": "/news-media/2026-10-22/meta-editorial.png",
+      "filename": "meta-editorial.png",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: conceptual editorial news illustration, landscape 16:9. A sculptural generic smartphone with blank softly glowing screen beside a small row of unbranded server cabinets under construction with neutral building blocks. Theme: consumer AI services and large infrastructure investment. Not any real product, facility or financial data. Refined tactile paper-and-clay 3D illustration with softly lit ivory background, muted blue, warm gray, and one amber accent. Clear interesting composition centered in crop-safe frame, fills entire image without margins. No people, logos, text, letters, numbers, graphs, charts, data visualization, arrows, diagrams, UI screens or watermark. Never present as documentary photography.",
+      "rightsBasis": "Generated editorial illustration for this publication after review found no source-selected original simultaneously readable and licensed for this placement. It does not depict a documented scene or data.",
+      "sha256": "eae7ab737626c8f70844377d578380b9425939c5788012800cf22453349db333",
+      "byteSize": 2236858,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "captions": {
+        "zh-CN": "AI生成示意图：消费级AI服务与基础设施投资，非真实现场。",
+        "zh-TW": "AI生成示意圖：消費級AI服務與基礎設施投資，非真實現場。",
+        "en": "AI-generated editorial illustration: consumer AI services and infrastructure investment, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: потребительские ИИ-сервисы и инвестиции в инфраструктуру; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : services d’IA grand public et investissement dans les infrastructures ; ne représente pas une scène réelle."
+      },
+      "caption": "AI生成示意图：消费级AI服务与基础设施投资，非真实现场。",
+      "alts": {
+        "zh-CN": "AI生成示意图：消费级AI服务与基础设施投资，非真实现场。",
+        "zh-TW": "AI生成示意圖：消費級AI服務與基礎設施投資，非真實現場。",
+        "en": "AI-generated editorial illustration: consumer AI services and infrastructure investment, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: потребительские ИИ-сервисы и инвестиции в инфраструктуру; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : services d’IA grand public et investissement dans les infrastructures ; ne représente pas une scène réelle."
+      },
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "tesla-editorial-2026-10-22",
+      "kind": "ai_generated_editorial_illustration",
+      "localPath": "/news-media/2026-10-22/tesla-editorial.png",
+      "filename": "tesla-editorial.png",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: conceptual editorial news illustration, landscape 16:9. A clean unbranded electric-car miniature beside an unfinished factory bay and neatly stacked blank invoice sheets. Theme: electric vehicle manufacturing investment and cash-flow timing. Abstract conceptual still life, not any actual Tesla model or factory. Refined tactile paper-and-clay 3D illustration with softly lit ivory background, muted blue, warm gray, and one amber accent. Clear interesting composition centered in crop-safe frame, fills entire image without margins. No people, logos, text, letters, numbers, graphs, charts, data visualization, arrows, diagrams, UI screens or watermark. Never present as documentary photography.",
+      "rightsBasis": "Generated editorial illustration for this publication after review found no source-selected original simultaneously readable and licensed for this placement. It does not depict a documented scene or data.",
+      "sha256": "c6c19c0cb664750441e8eb25a8ab067f620e6d1de80588a20c31a6eb4f797fd3",
+      "byteSize": 2371793,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "captions": {
+        "zh-CN": "AI生成示意图：电动汽车制造与投资支出，非真实现场。",
+        "zh-TW": "AI生成示意圖：電動車製造與投資支出，非真實現場。",
+        "en": "AI-generated editorial illustration: electric-vehicle manufacturing and investment spending, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: производство электромобилей и инвестиционные расходы; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : fabrication de véhicules électriques et dépenses d’investissement ; ne représente pas une scène réelle."
+      },
+      "caption": "AI生成示意图：电动汽车制造与投资支出，非真实现场。",
+      "alts": {
+        "zh-CN": "AI生成示意图：电动汽车制造与投资支出，非真实现场。",
+        "zh-TW": "AI生成示意圖：電動車製造與投資支出，非真實現場。",
+        "en": "AI-generated editorial illustration: electric-vehicle manufacturing and investment spending, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: производство электромобилей и инвестиционные расходы; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : fabrication de véhicules électriques et dépenses d’investissement ; ne représente pas une scène réelle."
+      },
+      "checkedAt": "2026-10-22",
+      "article": "tesla-cash-flow-capex-2026-10-22",
+      "rightsEvidenceId": "tesla-gallery-media-terms"
+    },
+    {
+      "id": "ebay-editorial-2026-10-22",
+      "kind": "ai_generated_editorial_illustration",
+      "localPath": "/news-media/2026-10-22/ebay-editorial.png",
+      "filename": "ebay-editorial.png",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: conceptual editorial news illustration, landscape 16:9. An empty contemporary desk with a closed laptop, two plain cardboard parcels and a small plant, carefully arranged in a spacious editorial still life. Theme: online marketplace workforce restructuring. No suggestion of any real employee or workplace. Refined tactile paper-and-clay 3D illustration with softly lit ivory background, muted blue, warm gray, and one amber accent. Clear interesting composition centered in crop-safe frame, fills entire image without margins. No people, logos, text, letters, numbers, graphs, charts, data visualization, arrows, diagrams, UI screens or watermark. Never present as documentary photography.",
+      "rightsBasis": "Generated editorial illustration for this publication after review found no source-selected original simultaneously readable and licensed for this placement. It does not depict a documented scene or data.",
+      "sha256": "b566e167f9ecd9b8e58e9b1759747c03d225fe4dd9a00926ae5ee1abc801defd",
+      "byteSize": 1973675,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "captions": {
+        "zh-CN": "AI生成示意图：电商平台与岗位调整，非真实现场。",
+        "zh-TW": "AI生成示意圖：電商平台與職位調整，非真實現場。",
+        "en": "AI-generated editorial illustration: online marketplaces and workforce restructuring, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: интернет-площадки и реструктуризация занятости; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : places de marché en ligne et restructuration des effectifs ; ne représente pas une scène réelle."
+      },
+      "caption": "AI生成示意图：电商平台与岗位调整，非真实现场。",
+      "alts": {
+        "zh-CN": "AI生成示意图：电商平台与岗位调整，非真实现场。",
+        "zh-TW": "AI生成示意圖：電商平台與職位調整，非真實現場。",
+        "en": "AI-generated editorial illustration: online marketplaces and workforce restructuring, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: интернет-площадки и реструктуризация занятости; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : places de marché en ligne et restructuration des effectifs ; ne représente pas une scène réelle."
+      },
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "kmi-editorial-2026-10-22",
+      "kind": "ai_generated_editorial_illustration",
+      "localPath": "/news-media/2026-10-22/kmi-editorial.png",
+      "filename": "kmi-editorial.png",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset: landscape 16:9 editorial conceptual illustration about natural gas pipeline construction and investment. A tactile miniature landscape in muted clay and paper, a single large metallic pipeline segment with a valve, a modest generic compressor building and an unfinished pipe section resting beside a trench. Calm ivory and sage palette, natural soft studio light, thoughtful composition, essential machinery safely framed, not a real project or site. No people, company marks, maps, graphs, data charts, arrows, labels, text, numbers, watermarks, oil pumpjacks or currency. Fill canvas, no border, keep subjects centered for responsive crop.",
+      "rightsBasis": "Generated editorial illustration for this publication after review found no source-selected original simultaneously readable and licensed for this placement. It does not depict a documented scene or data.",
+      "sha256": "c442bbae63b1a51d9bbc5f9a490addc7a730fd21fe3389b0a897d9943bc9b2fe",
+      "byteSize": 2416974,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false
+      },
+      "captions": {
+        "zh-CN": "AI生成示意图：天然气管道建设，非真实现场。",
+        "zh-TW": "AI生成示意圖：天然氣管道建設，非真實現場。",
+        "en": "AI-generated editorial illustration: natural-gas pipeline construction, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: строительство газопроводов; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : construction de gazoducs ; ne représente pas une scène réelle."
+      },
+      "caption": "AI生成示意图：天然气管道建设，非真实现场。",
+      "alts": {
+        "zh-CN": "AI生成示意图：天然气管道建设，非真实现场。",
+        "zh-TW": "AI生成示意圖：天然氣管道建設，非真實現場。",
+        "en": "AI-generated editorial illustration: natural-gas pipeline construction, not an actual scene.",
+        "ru": "Иллюстрация, созданная ИИ: строительство газопроводов; не реальное место событий.",
+        "fr": "Illustration générée par l’IA : construction de gazoducs ; ne représente pas une scène réelle."
+      },
+      "checkedAt": "2026-10-22"
+    }
+  ],
+  "sourceSelectedImages": [
+    {
+      "candidate": 1,
+      "story": "1. OpenAI披露：两起内部AI智能体任务削弱了安全监控",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(wordmark).svg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/OpenAI_logo_2025_%28wordmark%29.svg",
+      "creator": "OpenAI",
+      "dateEvidence": "2025-02-05 logo date",
+      "license": "PD-textlogo; trademark restrictions",
+      "licenseURL": null,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(wordmark).svg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Not adopted: original file could not be acquired (HTTP 403); this is an access/read gap, not a claim that copyright forbids reuse.",
+      "pixelsInspected": false,
+      "formatGap": "SVG original cannot be visually rendered by prior web reader; logo, not a documentary photograph."
+    },
+    {
+      "candidate": 2,
+      "story": "2. 三星与SK海力士确认升级中国工厂，具体技术路线仍有许可变量",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Samsung_logo_wordmark.svg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Samsung_logo_wordmark.svg",
+      "creator": "Samsung Group",
+      "dateEvidence": "2005-06-09 file date",
+      "license": "PD-textlogo; trademark restrictions",
+      "licenseURL": null,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Samsung_logo_wordmark.svg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Not adopted: original file could not be acquired (HTTP 403); this is an access/read gap, not a claim that copyright forbids reuse.",
+      "pixelsInspected": false,
+      "formatGap": "SVG original cannot be visually rendered by prior web reader; logo, not a documentary photograph."
+    },
+    {
+      "candidate": 3,
+      "story": "3. Meta把Muse智能体置于战略中心，同时进一步提高AI资本开支下限",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_logo.svg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Meta_Platforms_logo.svg",
+      "creator": "Meta Platforms",
+      "dateEvidence": "2021-12-01 upload date",
+      "license": "PD-textlogo; trademark restrictions",
+      "licenseURL": null,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_logo.svg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Not adopted: original file could not be acquired (HTTP 403); this is an access/read gap, not a claim that copyright forbids reuse.",
+      "pixelsInspected": false,
+      "formatGap": "SVG original cannot be visually rendered by prior web reader; logo, not a documentary photograph."
+    },
+    {
+      "candidate": 4,
+      "story": "4. 特斯拉意外实现正自由现金流，但主要原因是资本开支低于预期",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(Facelift)_–_h_05052026.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tesla_Model_Y_%28Facelift%29_%E2%80%93_h_05052026.jpg",
+      "creator": "© M 93",
+      "dateEvidence": "2026-05-05 photo date",
+      "license": "CC BY-SA 3.0 DE",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(Facelift)_–_h_05052026.jpg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Not adopted: original file could not be acquired (HTTP 403); this is an access/read gap, not a claim that copyright forbids reuse.",
+      "pixelsInspected": false,
+      "priorWebVisualRead": "Prior audit reports web pixel display succeeded; no usable local file acquired. No repeat original request in this review."
+    },
+    {
+      "candidate": 5,
+      "story": "5. 英伟达扩大欧洲机器人布局，“物理AI”竞争开始进入制造环节",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Nvidia_logo.svg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg",
+      "creator": "Nvidia",
+      "dateEvidence": "2016-11-14 file date",
+      "license": "PD-textlogo; trademark restrictions",
+      "licenseURL": null,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Nvidia_logo.svg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Not adopted: original file could not be acquired (HTTP 403); this is an access/read gap, not a claim that copyright forbids reuse.",
+      "pixelsInspected": false,
+      "formatGap": "SVG original cannot be visually rendered by prior web reader; logo, not a documentary photograph."
+    },
+    {
+      "candidate": 6,
+      "story": "6. 数据中心电力需求推动美国新增47亿美元天然气管道投资",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Natural_Gas_Pipeline_Station.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Natural_Gas_Pipeline_Station.jpg",
+      "creator": "Mbrickn",
+      "dateEvidence": "2020-06-15 16:32:07 photo date",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Natural_Gas_Pipeline_Station.jpg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Not adopted: original file could not be acquired (HTTP 403); this is an access/read gap, not a claim that copyright forbids reuse.",
+      "pixelsInspected": false,
+      "priorWebVisualRead": "Prior audit reports web pixel display succeeded; no usable local file acquired. No repeat original request in this review."
+    },
+    {
+      "candidate": 7,
+      "story": "7. eBay确认裁员约1000人，占员工总数约9%",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:EBay_logo.svg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/EBay_logo.svg",
+      "creator": "Lippincott Studio/Adrian Frutiger (typeface)",
+      "dateEvidence": "2012-10 logo date",
+      "license": "PD-textlogo; trademark restrictions",
+      "licenseURL": null,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:EBay_logo.svg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Not adopted: original file could not be acquired (HTTP 403); this is an access/read gap, not a claim that copyright forbids reuse.",
+      "pixelsInspected": false,
+      "formatGap": "SVG original cannot be visually rendered by prior web reader; logo, not a documentary photograph."
+    },
+    {
+      "candidate": 8,
+      "story": "8. 俄方称原则上愿于11月恢复俄乌美三方谈判",
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Moscow_Kremlin,_Red_Square.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Moscow_Kremlin%2C_Red_Square.jpg",
+      "creator": "Юрий Д.К.",
+      "dateEvidence": "2026-05-23 11:09:10 photo date",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Moscow_Kremlin,_Red_Square.jpg",
+      "rightsCheckedAt": "2026-10-22",
+      "rightsEvidence": "File page read directly; explicit copyright-holder license declaration for photos or PD-textlogo notice for logos. License does not remove trademark restrictions.",
+      "originalDownload": {
+        "status": "denied",
+        "result": "HTTP Error 403: Forbidden",
+        "retried": false
+      },
+      "localOriginalAvailable": false,
+      "decision": "Excluded with sensitive political story; not a copyright rejection.",
+      "pixelsInspected": false
+    }
+  ],
+  "sharedRightsEvidence": {
+    "tesla-gallery-media-terms": {
+      "url": "https://www.tesla.com/tesla-gallery",
+      "quote": "use of the image is not for publication covers, advertising, promotion or otherwise for commercial purposes",
+      "interpretation": "Digital news-story use is permitted with credit. Covers are not used because the term publication covers is not defined by medium. Download applies the listed conditions; no explicit acceptance step was taken."
+    }
+  },
+  "publisherRightsChecks": {
+    "checkedAt": "2026-10-22",
+    "publisherChecks": [
+      {
+        "publisher": "Tesla",
+        "page": "https://www.tesla.com/tesla-gallery",
+        "result": "Explicit media-use license read. Two official product photos acquired, pixel inspected and prepared; body only, cover prohibited. See tesla-provenance.json."
+      },
+      {
+        "publisher": "Kinder Morgan",
+        "page": "https://www.kindermorgan.com/Legal",
+        "result": "Materials/images may not be distributed, modified or reproduced without prior written permission. Not adopted from company site."
+      },
+      {
+        "publisher": "Samsung Semiconductor",
+        "page": "https://news.samsungsemiconductor.com/global/terms-of-use/",
+        "result": "Permission limited to personal non-commercial use, attribution and no derivative works. No permission covering this news-site use established; not adopted."
+      },
+      {
+        "publisher": "SK hynix",
+        "page": "https://news.skhynix.com/en/terms-of-use/",
+        "result": "Prior written consent required for republication; personal non-commercial copy exception is not republication permission. Not adopted."
+      },
+      {
+        "publisher": "NVIDIA",
+        "page": "https://nvidianews.nvidia.com/file/nvidia-isaac-platform?action=",
+        "result": "Media asset page exposes Isaac Platform image and download, but no explicit editorial reuse license read. Not adopted."
+      },
+      {
+        "publisher": "NVIDIA",
+        "page": "https://www.nvidia.com/en-gb/about-nvidia/legal-info/logo-brand-usage/",
+        "result": "Brand elements require written authorization. Does not cancel independent photographers’ CC licenses for documentary architecture photos; existing CC BY-SA headquarters photograph separately verified."
+      },
+      {
+        "publisher": "Meta",
+        "page": "https://about.fb.com/media-gallery/",
+        "result": "Redirect to Facebook login / temporarily blocked message. Reading gap, not absence-of-photos or copyright rejection. No bypass attempted."
+      },
+      {
+        "publisher": "eBay",
+        "page": "https://www.ebayinc.com/stories/press-room/",
+        "imageURL": "https://static.ebayinc.com/static/assets/Uploads/PressRoom/Local/ebay-2025hamilton.jpg?dl=1",
+        "result": "San Jose campus image downloadable from press page; explicit reuse permission not found. Not adopted pending rights evidence; photograph date and named photographer not established."
+      },
+      {
+        "publisher": "OpenAI",
+        "page": "https://openai.com/brand/",
+        "result": "Brand guidelines found, not a license for event photographs. Source supplied wordmark is separately audited; no official incident-related usable documentary photo established by this media review."
+      },
+      {
+        "publisher": "EIA",
+        "page": "https://www.eia.gov/energyexplained/natural-gas/natural-gas-pipelines.php",
+        "result": "Pipeline photo is explicitly labeled Stock photography (copyrighted), not a U.S. government-authored/public-domain photo. Do not reuse under government-work assumptions."
+      },
+      {
+        "publisher": "PNNL",
+        "page": "https://www.pnnl.gov/publications/have-us-natural-gas-pipelines-forged-path-future-hydrogen",
+        "result": "Search identified Andrea Starr/PNNL photo but full article timed out; reuse permission not established. Reading and rights gap, not blanket copyright rejection."
+      }
+    ],
+    "remaining": "No full seven-story cover set delivered. Source original media retain access gaps. Do not describe all images as copyright-prohibited, fully pixel-inspected, or absent. Newly generated illustrations, if chosen, must be separate clearly labeled candidates, never presented as source GPT photos."
+  },
+  "note": "Read/download gaps are not claims that an image is absent or unlicensed. Source SVG wordmarks are not passed off as photographs. Six explicitly labelled illustrations supplement the usable photographs; no data charts were generated."
+}
