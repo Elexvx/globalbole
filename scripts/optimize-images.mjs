@@ -8,6 +8,9 @@ import sharp from "sharp";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 23 NERSC photo: full-frame 1280px review preserves rack detail.
+  // Scope by exact path so older photographs with the same stem are unchanged.
+  "/news-media/2026-10-23/datacenter.jpg": 59,
   // October 20 archival photos: retain full-frame detail within the WebP budget.
   "nvidia-headquarters-2018": 60,
   "spr-nederland-doe-2014": 60,
@@ -142,7 +145,7 @@ export async function optimizeImages({rootDir = process.cwd(), concurrency = ima
     // Photographs get an AVIF source with normal WebP fallback. Full chroma detail
     // is retained; no AVIF is applied to charts, diagrams, or transparent artwork.
     if (metadata.format === "jpeg") {
-      const quality = photoAvifQuality[stem] ?? 65;
+      const quality = photoAvifQuality[image] ?? photoAvifQuality[stem] ?? 65;
       asset.avifVariants = derivatives("avif",
         {quality, effort:6, chromaSubsampling:"4:4:4"}, widths,
         {version:1, rotate:true, quality, effort:6, chromaSubsampling:"4:4:4", sharp:sharp.versions.sharp, aom:sharp.versions.aom, heif:sharp.versions.heif});

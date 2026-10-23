@@ -3237,6 +3237,343 @@
       ],
       "review": "docs/news-publication-review-2026-10-22.json",
       "mediaAudit": "docs/news-media/2026-10-22/provenance.json"
+    },
+    {
+      "id": "2026-10-23-zh-CN",
+      "issue": "2026-10-23",
+      "publicationDate": "2026-10-23",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "microsoft-diagnostic-orchestrator-study-2026-10-23",
+          "path": "content/issues/2026-10-23/zh-CN/microsoft-diagnostic-orchestrator-study-2026-10-23.md",
+          "eventDate": "2026-10-22 announcement; earlier manuscript and methods identified separately",
+          "sources": [
+            {
+              "title": "Building Medical Superintelligence",
+              "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "SDBench: Sequential Diagnosis Benchmark",
+              "url": "https://github.com/microsoft/sdbench",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 2
+            },
+            {
+              "title": "MIT许可",
+              "url": "https://github.com/microsoft/sdbench/blob/main/LICENSE",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 2
+            },
+            {
+              "title": "官方项目页",
+              "url": "https://microsoft.github.io/sdbench/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 2
+            },
+            {
+              "title": "Sequential Diagnosis with Language Models",
+              "url": "https://erichorvitz.com/sequential_diagnosis_LM.pdf",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 3
+            },
+            {
+              "title": "Good Machine Learning Practice for Medical Device Development: Guiding Principles",
+              "url": "https://www.fda.gov/media/153486/download",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2021-10"
+              ],
+              "footnote": 4
+            }
+          ]
+        },
+        {
+          "translationKey": "us-stocks-ai-reassessment-2026-10-23",
+          "path": "content/issues/2026-10-23/zh-CN/us-stocks-ai-reassessment-2026-10-23.md",
+          "eventDate": "2026-10-22 United States market close",
+          "sources": [
+            {
+              "title": "How major US stock indexes fared Thursday 10/22/2026",
+              "url": "https://apnews.com/article/1970e79d013cbddcae89c53b4b98f384",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+              "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-end-sharply-lower-as-revived-ai-doubts-ignite-tech-selloff-ce785cdedc80ff25",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Stocks drop as Meta fans AI worries, Treasuries gain",
+              "url": "https://www.marketscreener.com/news/stocks-drop-as-meta-fans-ai-worries-treasuries-gain-ce785cdede89f223",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Meta Reports Third Quarter 2026 Results",
+              "url": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "S&P U.S. Indices Methodology",
+              "url": "https://www.spglobal.com/spdji/en/methodology/article/sp-us-indices-methodology/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10"
+              ],
+              "footnote": 5
+            },
+            {
+              "title": "Factors affecting gasoline prices",
+              "url": "https://www.eia.gov/energyexplained/gasoline/factors-affecting-gasoline-prices.php",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10"
+              ],
+              "footnote": 6
+            }
+          ]
+        },
+        {
+          "translationKey": "china-fdi-january-september-2026-10-23",
+          "path": "content/issues/2026-10-23/zh-CN/china-fdi-january-september-2026-10-23.md",
+          "eventDate": "January–September 2026 data; released 2026-10-22",
+          "sources": [
+            {
+              "title": "2026年1-9月全国吸收外资5488.1亿元人民币",
+              "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_ca089e39ff5f4385be2d1bd9494de9de.html",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "2026年1-8月全国吸收外资4799.5亿元人民币",
+              "url": "https://fdi.mofcom.gov.cn/come-datatongji-con.html?id=16977",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-13"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "OECD Benchmark Definition of Foreign Direct Investment (Fifth Edition)",
+              "url": "https://www.oecd.org/en/publications/oecd-benchmark-definition-of-foreign-direct-investment-fifth-edition_7f05c0a3-en.html",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2025-05-05"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "CC BY 4.0",
+              "url": "https://creativecommons.org/licenses/by/4.0/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2025-05-05"
+              ],
+              "footnote": 3
+            }
+          ]
+        },
+        {
+          "translationKey": "barclays-cost-cuts-third-quarter-2026-10-23",
+          "path": "content/issues/2026-10-23/zh-CN/barclays-cost-cuts-third-quarter-2026-10-23.md",
+          "eventDate": "2026-10-22 third-quarter results and workforce plan",
+          "sources": [
+            {
+              "title": "Barclays to cut 5,000 jobs this year",
+              "url": "https://www.marketscreener.com/news/barclays-to-cut-5-000-jobs-this-year-ce785cd9d180f62c",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Barclays to cut 5,000 jobs as it turns to AI to improve efficiency",
+              "url": "https://www.euronews.com/2026/10/22/barclays-to-cut-5000-jobs-as-it-turns-to-ai-to-improve-efficiency",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "3rd Quarter Results",
+              "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/3rd-quarter-results/9835199",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Artificial intelligence in UK financial services - 2024",
+              "url": "https://www.bankofengland.co.uk/report/2024/artificial-intelligence-in-uk-financial-services-2024",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2024-11-21"
+              ],
+              "footnote": 4
+            }
+          ]
+        },
+        {
+          "translationKey": "datacenter-community-investment-promises-2026-10-23",
+          "path": "content/issues/2026-10-23/zh-CN/datacenter-community-investment-promises-2026-10-23.md",
+          "eventDate": "AP report first published 2026-10-21, updated 2026-10-22; earlier company commitments and dated energy research identified",
+          "sources": [
+            {
+              "title": "Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets",
+              "url": "https://apnews.com/article/b4b0544036989fc33820e8306593aff9",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 1
+            },
+            {
+              "title": "转载及时间信息",
+              "url": "https://www.clickorlando.com/news/politics/2026/10/21/facing-pushback-on-data-centers-tech-giants-are-promising-hosts-more-money-and-fewer-secrets/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 1
+            },
+            {
+              "title": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments",
+              "url": "https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 2
+            },
+            {
+              "title": "Google’s approach to investing in data center communities",
+              "url": "https://www.datacenters.google/our-approach/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 3
+            },
+            {
+              "title": "The Future is for Everyone Fund",
+              "url": "https://datacenters.atmeta.com/the-future-is-for-everyone-fund/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 4
+            },
+            {
+              "title": "United States Data Center Energy Usage Report: 2025 Update",
+              "url": "https://www.energy.gov/documents/united-states-data-center-energy-usage-report-2025-update",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-06-18"
+              ],
+              "footnote": 5
+            },
+            {
+              "title": "CC BY 4.0",
+              "url": "https://creativecommons.org/licenses/by/4.0/",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-06-18"
+              ],
+              "footnote": 5
+            }
+          ]
+        },
+        {
+          "translationKey": "japan-september-inflation-2026-10-23",
+          "path": "content/issues/2026-10-23/zh-CN/japan-september-inflation-2026-10-23.md",
+          "eventDate": "September 2026 data, released 2026-10-23; monetary-policy decision 2026-09-18",
+          "sources": [
+            {
+              "title": "2025年基準 消費者物価指数 全国 2026年（令和8年）9月分",
+              "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/zenkoku.pdf",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-23"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Q&A about the Consumer Price Index (Answers)",
+              "url": "https://www.stat.go.jp/english/data/cpi/1585.htm",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 2
+            },
+            {
+              "title": "使用条款",
+              "url": "https://www.stat.go.jp/info/riyou.html",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 2
+            },
+            {
+              "title": "Price Stability Target of 2 Percent",
+              "url": "https://www.boj.or.jp/en/mopo/outline/target.htm",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 3
+            },
+            {
+              "title": "Change in the Guideline for Money Market Operations",
+              "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-09-18"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
+              "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [
+                "2026-10-01"
+              ],
+              "footnote": 5
+            },
+            {
+              "title": "How does monetary policy affect economic activity and prices?",
+              "url": "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b28.htm",
+              "verificationDate": "2026-10-23",
+              "dateInformation": [],
+              "footnote": 6
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

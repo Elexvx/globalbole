@@ -1201,6 +1201,11 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   object-position: 50% 50%;
 }
 
+/* This portrait archive photo identifies the building at its roofline. */
+.story-cover[data-source-image="/news-media/2026-10-23/barclays.jpg"] {
+  object-position: 50% 0%;
+}
+
 
 
 /* Keep source notes visually separate while retaining readable links and backreferences. */

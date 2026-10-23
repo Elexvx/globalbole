@@ -1,0 +1,88 @@
+{
+  "issue": "2026-10-23",
+  "checkedAt": "2026-10-23",
+  "sourceDelivery": {
+    "candidateCount": 8,
+    "format": "Short news briefs with external source links and explicit selected-image pages. Expanded after independent verification; not claimed to be complete original reports."
+  },
+  "selected": [
+    {
+      "candidate": 1,
+      "translationKey": "microsoft-diagnostic-orchestrator-study-2026-10-23",
+      "eventDate": "2026-10-22 announcement; earlier manuscript and methods identified separately"
+    },
+    {
+      "candidate": 3,
+      "translationKey": "us-stocks-ai-reassessment-2026-10-23",
+      "eventDate": "2026-10-22 United States market close"
+    },
+    {
+      "candidate": 4,
+      "translationKey": "china-fdi-january-september-2026-10-23",
+      "eventDate": "January–September 2026 data; released 2026-10-22"
+    },
+    {
+      "candidate": 5,
+      "translationKey": "barclays-cost-cuts-third-quarter-2026-10-23",
+      "eventDate": "2026-10-22 third-quarter results and workforce plan"
+    },
+    {
+      "candidate": 6,
+      "translationKey": "datacenter-community-investment-promises-2026-10-23",
+      "eventDate": "AP report first published 2026-10-21, updated 2026-10-22; earlier company commitments and dated energy research identified"
+    },
+    {
+      "candidate": 7,
+      "translationKey": "japan-september-inflation-2026-10-23",
+      "eventDate": "September 2026 data, released 2026-10-23; monetary-policy decision 2026-09-18"
+    }
+  ],
+  "held": [
+    {
+      "candidate": 2,
+      "topic": "Anthropic account restrictions",
+      "reason": "No independently verified material new event for this issue; key figures trace to earlier announcements or reporting. Not republished under a new date."
+    },
+    {
+      "candidate": 8,
+      "topic": "Kyiv military attack",
+      "reason": "Excluded under the sensitive military/political topic boundary; no alternate-language restoration."
+    }
+  ],
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "mediaAudit": "docs/news-media/2026-10-23/provenance.json",
+  "importantCorrections": [
+    "Medical study DOI is 10.1126/science.aeh7930, confirmed by official SDBench citation; the source brief DOI was unrelated. Diagnostic benchmarks do not establish clinical benefit.",
+    "US index closing percentages use the independently verified AP closing summary; later Reuters article-body figures support Meta, semiconductor stocks and Brent, not live quote widgets or preliminary earlier closes.",
+    "China actual FDI is RMB 548.81 billion (5488.1亿元); monthly and year-to-date comparisons remain distinct.",
+    "Barclays 5,000 jobs is a full-year plan, with 1,000 already completed; the 19% revenue decline refers to FICC.",
+    "Data-center investment promises are not money already delivered; the AP article was first published October 21 and updated October 22.",
+    "Japan CPI excluding fresh food and energy does not exclude all food. The policy rate comes from the dated September decision."
+  ],
+  "preservation": {
+    "baseCommit": "1ee87354805d96fb13e65e1b4fbe2c86e4d4c9df",
+    "previousArticleURLsUnchanged": true,
+    "withdrawnTopicsUnchanged": true,
+    "boundedImageConcurrencyRepairUnchanged": true,
+    "layoutUnchanged": true
+  },
+  "verificationStatus": "Editorial preparation and validation in progress; not yet published",
+  "presentationAdjustment": {
+    "scope": "Only the new Barclays portrait cover focal point is aligned to its roofline",
+    "sourceImage": "/news-media/2026-10-23/barclays.jpg",
+    "objectPosition": "50% 0%",
+    "unchanged": [
+      "image pixels",
+      "body-image proportions",
+      "page layout",
+      "global cover fit",
+      "older content"
+    ]
+  }
+}

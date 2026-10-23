@@ -14,12 +14,24 @@ const documentedSources=key=>publicationLog.batches.flatMap(batch=>batch.article
 // The bibliography preserves genuine source-language titles. Only an exact
 // title/URL pair in this article's reviewed source log is exempt, and only in
 // a footnote definition. All prose, captions and unverified labels stay checked.
-const translatedMarkdown=(markdown,sources)=>markdown.split('\n').map(line=>
-  /^\[\^[^\]]+\]:/.test(line)
-    ? line.replace(/(?<!!)\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g,(link,label,url)=>
-      sources.some(source=>source.url===url && (source.title===label || source.publisher===label))
-        ? `[source](${url})` : link)
-    : line).join('\n');
+const mofcomAttributionSources=new Set([
+  'https://www.mofcom.gov.cn/syxwfb/art/2026/art_ca089e39ff5f4385be2d1bd9494de9de.html',
+  'https://fdi.mofcom.gov.cn/come-datatongji-con.html?id=16977',
+]);
+const translatedMarkdown=(markdown,sources)=>markdown.split('\n').map(line=>{
+  if(!/^\[\^[^\]]+\]:/.test(line)) return line;
+  let requiresMofcomAttribution=false;
+  const translated=line.replace(/(?<!!)\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g,(link,label,url)=>{
+    if(!sources.some(source=>source.url===url && (source.title===label || source.publisher===label))) return link;
+    if(mofcomAttributionSources.has(url)) requiresMofcomAttribution=true;
+    return `[source](${url})`;
+  });
+  // The verified MOFCOM reuse permission requires this exact original credit.
+  // Limit the exception to one terminal credit in a logged source footnote.
+  return requiresMofcomAttribution
+    ? translated.replace(/ · 文章来源：商务部网站$/, ' · Source: MOFCOM website')
+    : translated;
+}).join('\n');
 const translatedValues=(story,sources)=>[story.title,story.dek,story.authorRole,story.imageAlt,...story.tags,translatedMarkdown(story.markdown,sources)];
 
 test('every published story has complete five-language content and the same sources and imagery',()=>{
@@ -68,6 +80,24 @@ test('original source-title exceptions cannot hide untranslated prose or altered
     const untranslated={...story,[field]:field==='tags'?['中文标签']:'中文内容'};
     assert.ok(translatedValues(untranslated,sources).some(value=>/[\u3400-\u9fff]/.test(value)),`${field} cannot use the source-title exception`);
   }
+});
+
+test('MOFCOM mandatory credits are exempt only in exact reviewed source footnotes',()=>{
+  const url='https://www.mofcom.gov.cn/syxwfb/art/2026/art_ca089e39ff5f4385be2d1bd9494de9de.html';
+  const sources=[{url,title:'Verified bulletin'}];
+  const note=`[^1]: [Verified bulletin](${url}) · Publisher · 文章来源：商务部网站`;
+  assert.doesNotMatch(translatedMarkdown(note,sources),/[\u3400-\u9fff]/);
+  for(const markdown of [
+    `文章来源：商务部网站\n\n${note}`,
+    note+' 未翻译',
+    note.replace('文章来源：商务部网站','文章来源：其他网站'),
+    note.replace('Verified bulletin','Unverified title'),
+    note.replace(url,'https://www.mofcom.gov.cn/unverified'),
+    note.replace(url,'https://example.org/source'),
+    note.replace('[^1]:','Paragraph:'),
+    note+'\n    文章来源：商务部网站',
+  ]) assert.match(translatedMarkdown(markdown,sources),/[\u3400-\u9fff]/,markdown);
+  assert.match(translatedMarkdown(note,[]),/[\u3400-\u9fff]/,'An unlogged source has no credit exception');
 });
 
 test('translated tag labels stay consistent and language switching retains the topic',()=>{

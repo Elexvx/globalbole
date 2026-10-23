@@ -1,0 +1,584 @@
+{
+  "issue": "2026-10-23",
+  "checkedAt": "2026-10-23",
+  "assets": [
+    {
+      "id": "beijing-cbd-2026-10-23",
+      "article": "china-fdi-january-september-2026-10-23",
+      "filename": "beijing-cbd.jpg",
+      "localPath": "/news-media/2026-10-23/beijing-cbd.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": true,
+      "creator": "Renek78",
+      "photographer": "Renek78",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Beijing_CBD_in_2026.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "date": "2026-09-13 09:41:16",
+      "checkedAt": "2026-10-23",
+      "rightsReverifiedAt": "2026-10-23",
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-23",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "reuseDecision": "Adopted as a clearly identified archival illustration, not evidence of the current news event. Exact source-selected original downloaded through the normal browser media download control.",
+      "changes": "Lossless removal of nonessential EXIF, IPTC, XMP, maker metadata and comments. Original primary-image encoded data and decoded RGB pixels retained; any embedded ICC profile retained.",
+      "captions": {
+        "zh-CN": "_资料照片：2026年9月13日，北京中央商务区。摄影：Renek78。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/)。_",
+        "zh-TW": "_資料照片：2026年9月13日，北京中央商務區。攝影：Renek78。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg)；[CC0 1.0公共領域貢獻](https://creativecommons.org/publicdomain/zero/1.0/)。_",
+        "en": "_Archive photograph: Beijing central business district, September 13, 2026. Photograph by Renek78. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg); [CC0 1.0 public-domain dedication](https://creativecommons.org/publicdomain/zero/1.0/)._",
+        "ru": "_Архивное фото: центральный деловой район Пекина, 13 сентября 2026 года. Автор: Renek78. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg); [передано в общественное достояние по CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._",
+        "fr": "_Photo d’archives : quartier central des affaires de Pékin, le 13 septembre 2026. Photographie : Renek78. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg) ; [dédiée au domaine public sous CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._"
+      },
+      "alts": {
+        "zh-CN": "2026年9月13日北京中央商务区建筑与施工场地资料照片",
+        "zh-TW": "2026年9月13日北京中央商務區建築與施工場地資料照片",
+        "en": "Archival photograph of buildings and construction sites in Beijing’s central business district, September 13, 2026",
+        "ru": "Архивное фото зданий и строительных площадок в центральном деловом районе Пекина, 13 сентября 2026 года",
+        "fr": "Photo d’archives des immeubles et chantiers du quartier central des affaires de Pékin, le 13 septembre 2026"
+      },
+      "sha256": "3635a3f918a72f5d675deaa23d5be3327abe76f603a4b65e532090993cb74865",
+      "inputSha256": "3fb158c395ed9dd69854ef0313622f1c9e8040d65eedf2564a01a2548321654b",
+      "byteSize": 4148749,
+      "width": 4080,
+      "height": 2296,
+      "pixelIdentityVerified": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "removedSegments": [
+        "0xe1",
+        "0xe1",
+        "0xe3",
+        "0xe4",
+        "0xe3",
+        "0xe2"
+      ],
+      "preservedICCProfile": true,
+      "caption": "_资料照片：2026年9月13日，北京中央商务区。摄影：Renek78。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/)。_"
+    },
+    {
+      "id": "barclays-2026-10-23",
+      "article": "barclays-cost-cuts-third-quarter-2026-10-23",
+      "filename": "barclays.jpg",
+      "localPath": "/news-media/2026-10-23/barclays.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": true,
+      "creator": "Bajajvikram",
+      "photographer": "Bajajvikram",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Barclays_Bank_PLC_world_headquarters.JPG",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG",
+      "license": "PD-author",
+      "licenseURL": "https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG",
+      "date": "2005-10-23 10:51:47",
+      "checkedAt": "2026-10-23",
+      "rightsReverifiedAt": "2026-10-23",
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-23",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "reuseDecision": "Adopted as a clearly identified archival illustration, not evidence of the current news event. Exact source-selected original downloaded through the normal browser media download control.",
+      "changes": "Lossless removal of nonessential EXIF, IPTC, XMP, maker metadata and comments. Original primary-image encoded data and decoded RGB pixels retained; any embedded ICC profile retained.",
+      "captions": {
+        "zh-CN": "_资料照片：2005年10月23日，伦敦金丝雀码头的巴克莱银行总部。摄影：Bajajvikram。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG)；作者已将作品置于公共领域。_",
+        "zh-TW": "_資料照片：2005年10月23日，倫敦金絲雀碼頭的巴克萊銀行總部。攝影：Bajajvikram。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG)；作者已將作品置於公共領域。_",
+        "en": "_Archive photograph: Barclays headquarters in Canary Wharf, London, October 23, 2005. Photograph by Bajajvikram. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG); released into the public domain by the author._",
+        "ru": "_Архивное фото: штаб-квартира Barclays в Кэнэри-Уорф, Лондон, 23 октября 2005 года. Автор: Bajajvikram. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG); автор передал работу в общественное достояние._",
+        "fr": "_Photo d’archives : siège de Barclays à Canary Wharf, Londres, le 23 octobre 2005. Photographie : Bajajvikram. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG) ; œuvre placée dans le domaine public par son auteur._"
+      },
+      "alts": {
+        "zh-CN": "2005年10月23日伦敦金丝雀码头巴克莱银行总部资料照片",
+        "zh-TW": "2005年10月23日倫敦金絲雀碼頭巴克萊銀行總部資料照片",
+        "en": "Archival photograph of Barclays headquarters in Canary Wharf, London, October 23, 2005",
+        "ru": "Архивное фото штаб-квартиры Barclays в Кэнэри-Уорф, Лондон, 23 октября 2005 года",
+        "fr": "Photo d’archives du siège de Barclays à Canary Wharf, Londres, le 23 octobre 2005"
+      },
+      "sha256": "cb69f60362e478083eee047c9836de233137122e9a262024ac558112996e9fc8",
+      "inputSha256": "2d4cba9e544331e543c095c451c3d8b7d75527609bf1c38ec160ba08f84e1622",
+      "byteSize": 2232237,
+      "width": 1944,
+      "height": 2592,
+      "pixelIdentityVerified": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "removedSegments": [
+        "0xe1",
+        "0xe1"
+      ],
+      "preservedICCProfile": false,
+      "caption": "_资料照片：2005年10月23日，伦敦金丝雀码头的巴克莱银行总部。摄影：Bajajvikram。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG)；作者已将作品置于公共领域。_",
+      "recommendedCoverObjectPosition": "50% 0%"
+    },
+    {
+      "id": "datacenter-2026-10-23",
+      "article": "datacenter-community-investment-promises-2026-10-23",
+      "filename": "datacenter.jpg",
+      "localPath": "/news-media/2026-10-23/datacenter.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": true,
+      "creator": "Derrick Coetzee",
+      "photographer": "Derrick Coetzee",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_server_racks_at_NERSC.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "date": "2011-10-14 13:27",
+      "checkedAt": "2026-10-23",
+      "rightsReverifiedAt": "2026-10-23",
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-23",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "reuseDecision": "Adopted as a clearly identified archival illustration, not evidence of the current news event. Exact source-selected original downloaded through the normal browser media download control.",
+      "changes": "Lossless removal of nonessential EXIF, IPTC, XMP, maker metadata and comments. Original primary-image encoded data and decoded RGB pixels retained; any embedded ICC profile retained.",
+      "captions": {
+        "zh-CN": "_资料照片：2011年10月14日，美国国家能源研究科学计算中心（NERSC）的服务器机架。摄影：Derrick Coetzee。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/)。_",
+        "zh-TW": "_資料照片：2011年10月14日，美國國家能源研究科學計算中心（NERSC）的伺服器機架。攝影：Derrick Coetzee。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg)；[CC0 1.0公共領域貢獻](https://creativecommons.org/publicdomain/zero/1.0/)。_",
+        "en": "_Archive photograph: server racks at the US National Energy Research Scientific Computing Center (NERSC), October 14, 2011. Photograph by Derrick Coetzee. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg); [CC0 1.0 public-domain dedication](https://creativecommons.org/publicdomain/zero/1.0/)._",
+        "ru": "_Архивное фото: серверные стойки Национального научно-вычислительного центра энергетических исследований США (NERSC), 14 октября 2011 года. Автор: Derrick Coetzee. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg); [передано в общественное достояние по CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._",
+        "fr": "_Photo d’archives : baies de serveurs du National Energy Research Scientific Computing Center (NERSC), aux États-Unis, le 14 octobre 2011. Photographie : Derrick Coetzee. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg) ; [dédiée au domaine public sous CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._"
+      },
+      "alts": {
+        "zh-CN": "2011年10月14日NERSC服务器机架资料照片",
+        "zh-TW": "2011年10月14日NERSC伺服器機架資料照片",
+        "en": "Archival photograph of NERSC server racks, October 14, 2011",
+        "ru": "Архивное фото серверных стоек NERSC, 14 октября 2011 года",
+        "fr": "Photo d’archives des baies de serveurs du NERSC, le 14 octobre 2011"
+      },
+      "sha256": "09efdb226cc94e9ffcf1a0b464e1c67deda677d9837596e5841948c47ec82c06",
+      "inputSha256": "5555cef940402c6e2f7e61236af44c620acb7a906febdf67a613ad178b33ed0e",
+      "byteSize": 1124632,
+      "width": 4288,
+      "height": 2848,
+      "pixelIdentityVerified": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "removedSegments": [
+        "0xe1",
+        "0xe1",
+        "0xed"
+      ],
+      "preservedICCProfile": true,
+      "caption": "_资料照片：2011年10月14日，美国国家能源研究科学计算中心（NERSC）的服务器机架。摄影：Derrick Coetzee。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/)。_"
+    },
+    {
+      "id": "bank-of-japan-2026-10-23",
+      "article": "japan-september-inflation-2026-10-23",
+      "filename": "bank-of-japan.jpg",
+      "localPath": "/news-media/2026-10-23/bank-of-japan.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": true,
+      "creator": "Fg2",
+      "photographer": "Fg2",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bank_of_Japan_headquarters_in_Tokyo%2C_Japan.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg",
+      "license": "PD-self",
+      "licenseURL": "https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg",
+      "date": null,
+      "checkedAt": "2026-10-23",
+      "rightsReverifiedAt": "2026-10-23",
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-23",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "reuseDecision": "Adopted as a clearly identified archival illustration, not evidence of the current news event. Exact source-selected original downloaded through the normal browser media download control.",
+      "changes": "Lossless removal of nonessential EXIF, IPTC, XMP, maker metadata and comments. Original primary-image encoded data and decoded RGB pixels retained; any embedded ICC profile retained.",
+      "captions": {
+        "zh-CN": "_资料照片：东京的日本银行总部。摄影：Fg2。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg)；作者已将作品置于公共领域。_",
+        "zh-TW": "_資料照片：東京的日本銀行總部。攝影：Fg2。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg)；作者已將作品置於公共領域。_",
+        "en": "_Archive photograph: Bank of Japan headquarters in Tokyo. Photograph by Fg2. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg); released into the public domain by the author._",
+        "ru": "_Архивное фото: штаб-квартира Банка Японии в Токио. Автор: Fg2. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg); автор передал работу в общественное достояние._",
+        "fr": "_Photo d’archives : siège de la Banque du Japon à Tokyo. Photographie : Fg2. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg) ; œuvre placée dans le domaine public par son auteur._"
+      },
+      "alts": {
+        "zh-CN": "东京日本银行总部资料照片",
+        "zh-TW": "東京日本銀行總部資料照片",
+        "en": "Archival photograph of Bank of Japan headquarters in Tokyo",
+        "ru": "Архивное фото штаб-квартиры Банка Японии в Токио",
+        "fr": "Photo d’archives du siège de la Banque du Japon à Tokyo"
+      },
+      "sha256": "7dc30de40bc81f24c0950852cd8fc73dde55b495f941c36a3302aeadf9366585",
+      "inputSha256": "83e827f97bd30caa35da395b23d108b39b61314a2159ac057c67596d1b6fd00a",
+      "byteSize": 622173,
+      "width": 1486,
+      "height": 963,
+      "pixelIdentityVerified": true,
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "removedSegments": [
+        "0xe1",
+        "0xed",
+        "0xe1"
+      ],
+      "preservedICCProfile": false,
+      "caption": "_资料照片：东京的日本银行总部。摄影：Fg2。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg)；作者已将作品置于公共领域。_",
+      "dateEvidence": "Shooting date not established. The current file version was uploaded on 2007-01-28 and an earlier version on 2005-02-01; neither is labeled as the photograph date."
+    },
+    {
+      "id": "medical-diagnostic-2026-10-23",
+      "article": "microsoft-diagnostic-orchestrator-study-2026-10-23",
+      "filename": "medical-diagnostic.png",
+      "localPath": "/news-media/2026-10-23/medical-diagnostic.png",
+      "kind": "ai_generated_editorial_illustration",
+      "sourceSelected": false,
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial news cover and body illustration for a report about AI diagnostic research and the need for clinical validation. Create a refined, clearly non-photographic, tactile paper-and-clay editorial still life: a generic stethoscope beside several small neutral computing blocks, a blank folded patient-case folder, and a magnifying lens resting on a clean work surface. The lens and stethoscope evoke checking evidence, not a clinical result. Warm off-white background, muted teal, graphite and amber, subtle physical shadows, sophisticated restrained magazine illustration. Composition wide 16:9, main objects centrally grouped with crop-safe margins, image fills frame. No humans, no faces, no brands or logos, no words, no letters, no numbers, no charts or graphs, no trend lines, no medical scans, no heartbeat trace, no fake software interface, no arrows, no watermark. Must not resemble a documented event, a real clinic, a product screenshot or data evidence.",
+      "rightsBasis": "New conceptual editorial illustration generated for this publication after checking the initially selected source photograph and finding no granted republication license. A subsequent bounded check of additional actual primary-source pages is documented in publisherRightsChecks; it identified no usable original news photograph. Not a source photograph, current-event evidence, real person or data visualization.",
+      "sha256": "74a62de3303653a92662c3c56b6556f7fed17c51ad4cd0407d86184956c574ca",
+      "byteSize": 2318540,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-23",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "contentCredentialsPreserved": true,
+      "changes": "Unmodified generated PNG; no EXIF, IPTC or XMP payload was present. C2PA content credentials retained.",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "captions": {
+        "zh-CN": "AI生成示意图：人工智能辅助诊断研究与证据核验，非真实临床现场。",
+        "zh-TW": "AI生成示意圖：人工智慧輔助診斷研究與證據核驗，非真實臨床現場。",
+        "en": "AI-generated editorial illustration: AI-assisted diagnostic research and evidence checking, not an actual clinical scene.",
+        "ru": "Иллюстрация, созданная ИИ: исследования диагностики с помощью ИИ и проверка доказательств; не реальная клиническая сцена.",
+        "fr": "Illustration générée par l’IA : recherche sur le diagnostic assisté par l’IA et vérification des preuves ; ne représente pas une scène clinique réelle."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：人工智能辅助诊断研究与证据核验，非真实临床现场。",
+        "zh-TW": "AI生成示意圖：人工智慧輔助診斷研究與證據核驗，非真實臨床現場。",
+        "en": "AI-generated editorial illustration: AI-assisted diagnostic research and evidence checking, not an actual clinical scene.",
+        "ru": "Иллюстрация, созданная ИИ: исследования диагностики с помощью ИИ и проверка доказательств; не реальная клиническая сцена.",
+        "fr": "Illustration générée par l’IA : recherche sur le diagnostic assisté par l’IA et vérification des preuves ; ne représente pas une scène clinique réelle."
+      },
+      "generationEdits": [
+        "Edit only the cluster of four tall rectangular blocks resting on the small slab: replace all four with one single flat, clearly recognizable unbranded computer microchip, graphite square with small metal contacts around its edges, resting flat on that same slab. Do not leave any standing blocks or column-shaped forms. Preserve everything else: the stethoscope, blank patient folder, magnifying glass, soft paper-and-clay style, palette, lighting, 16:9 framing. This is an editorial conceptual illustration of AI diagnostic research, not a data visualization. No chart-like structures, no charts, no graphs, no data, no lines plotting anything, no numbers, no letters, no text, no people, no logos."
+      ],
+      "caption": "AI生成示意图：人工智能辅助诊断研究与证据核验，非真实临床现场。"
+    },
+    {
+      "id": "market-editorial-2026-10-23",
+      "article": "us-stocks-ai-reassessment-2026-10-23",
+      "filename": "market-editorial.png",
+      "localPath": "/news-media/2026-10-23/market-editorial.png",
+      "kind": "ai_generated_editorial_illustration",
+      "sourceSelected": false,
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset type: editorial news cover illustration for a report about uncertainty around AI investment and energy costs in financial markets. Create a polished, unmistakably conceptual paper-and-clay still life, landscape 16:9: one flat generic dark computer microchip with fine metallic contacts, a small unmarked matte oil barrel and a single closed blank financial notebook, on a clean light stone surface. Objects separate but visually balanced, tactile warm ivory paper, charcoal and muted copper materials, quiet directional light and elegant shadows, sophisticated magazine illustration, centered crop-safe composition. Do not depict a real stock exchange or event. Absolutely no people, no brands, no labels, no text, no letters, no numbers, no currencies, no graphs, no charts, no axes, no bars, no candlesticks, no plotted lines, no trend arrows, no dashboard or fake market screens, no logos, no watermark. Not a data visualization. Fill full canvas with scene.",
+      "rightsBasis": "New conceptual editorial illustration generated for this publication after checking the initially selected source photograph and finding no granted republication license. A subsequent bounded check of additional actual primary-source pages is documented in publisherRightsChecks; it identified no usable original news photograph. Not a source photograph, current-event evidence, real person or data visualization.",
+      "sha256": "5f9207b6906430f6929f9611424718ef037242df61afaabaa3c2efa9348d85bd",
+      "byteSize": 2475408,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-23",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "contentCredentialsPreserved": true,
+      "changes": "Unmodified generated PNG; no EXIF, IPTC or XMP payload was present. C2PA content credentials retained.",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "captions": {
+        "zh-CN": "AI生成示意图：人工智能投资、能源成本与金融市场，非真实交易现场。",
+        "zh-TW": "AI生成示意圖：人工智慧投資、能源成本與金融市場，非真實交易現場。",
+        "en": "AI-generated editorial illustration: AI investment, energy costs and financial markets, not an actual trading scene.",
+        "ru": "Иллюстрация, созданная ИИ: инвестиции в ИИ, стоимость энергии и финансовые рынки; не реальная сцена торгов.",
+        "fr": "Illustration générée par l’IA : investissement dans l’IA, coûts de l’énergie et marchés financiers ; ne représente pas une séance de marché réelle."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：人工智能投资、能源成本与金融市场，非真实交易现场。",
+        "zh-TW": "AI生成示意圖：人工智慧投資、能源成本與金融市場，非真實交易現場。",
+        "en": "AI-generated editorial illustration: AI investment, energy costs and financial markets, not an actual trading scene.",
+        "ru": "Иллюстрация, созданная ИИ: инвестиции в ИИ, стоимость энергии и финансовые рынки; не реальная сцена торгов.",
+        "fr": "Illustration générée par l’IA : investissement dans l’IA, coûts de l’énergie et marchés financiers ; ne représente pas une séance de marché réelle."
+      },
+      "caption": "AI生成示意图：人工智能投资、能源成本与金融市场，非真实交易现场。"
+    }
+  ],
+  "sourceSelectedImages": [
+    {
+      "sourceSelected": false,
+      "candidateStory": "medical",
+      "sourcePageURL": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "originalURL": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "sourceImageCaption": "Microsoft AI chief Mustafa Suleyman. Getty Images.",
+      "imageAlt": "Microsoft Celebrates Its 50th Anniversary With Copilot AI Event",
+      "rightsEvidenceURL": "https://www.voxmedia.com/licensing/",
+      "license": null,
+      "rightsCheckedAt": "2026-10-23",
+      "pixelsInspected": false,
+      "decision": "Article image and Getty credit independently verified in browser DOM; full original pixels not downloaded or reviewed. No granted republication license was established. Publisher licensing guidelines do not grant ordinary third-party news-site image republication; Getty licensing is separate. Not adopted. A newly generated illustration is labeled separately.",
+      "candidate": 1
+    },
+    {
+      "candidate": 2,
+      "sourceSelected": true,
+      "candidateStory": "anthropic",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg",
+      "creator": "Anthropic",
+      "date": null,
+      "license": "PD-textlogo; trademark and other restrictions remain",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+      "rightsCheckedAt": "2026-10-23",
+      "rightsEvidence": "Original handoff audit read the Commons file page and public-domain text-logo notice. No copyright license claim is made about trademarks.",
+      "originalDownload": {
+        "status": "not_acquired",
+        "priorResult": "Earlier direct download returned HTTP 403; web original could not render SVG. Not retried in this preparation because the story is held."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "decision": "Not adopted: Anthropic story held pending a verified material new development. Rights-page review does not imply original SVG pixels were inspected."
+    },
+    {
+      "sourceSelected": false,
+      "candidateStory": "market",
+      "sourcePageURL": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/",
+      "originalURL": null,
+      "sourceImageCaption": "A screen displays trading information outside the Nasdaq Market site in New York City, US, October 15, 2026. REUTERS/Shannon Stapleton",
+      "creator": "Shannon Stapleton / Reuters",
+      "date": "2026-10-15",
+      "rightsEvidenceURL": "https://www.reutersconnect.com/item/screen-displays-trading-information-outside-the-nasdaq-market-site-in-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlEzT0FWVVU0SQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "license": null,
+      "rightsCheckedAt": "2026-10-23",
+      "pixelsInspected": false,
+      "decision": "Exact caption and per-photo Purchase Licensing Rights destination independently verified in browser DOM. No purchased or granted republication license available. Original image bytes and full pixels not retrieved; not adopted. Generated editorial illustration is a separate asset, not a Reuters photo.",
+      "candidate": 3
+    },
+    {
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Beijing_CBD_in_2026.jpg",
+      "creator": "Renek78",
+      "date": "2026-09-13 09:41:16",
+      "license": "CC0 1.0",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Beijing_CBD_in_2026.jpg",
+      "rightsCheckedAt": "2026-10-23",
+      "originalDownload": {
+        "status": "completed",
+        "method": "Normal cloud-browser Original file media-download control",
+        "priorAttempt": "Prior urllib request returned a bare HTTP 403; normal browser download succeeded without authentication, circumvention or altered network path."
+      },
+      "localOriginalAvailable": true,
+      "pixelsInspected": true,
+      "decision": "Adopted as archival illustration; see assets record.",
+      "candidate": 4
+    },
+    {
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Barclays_Bank_PLC_world_headquarters.JPG",
+      "creator": "Bajajvikram",
+      "date": "2005-10-23 10:51:47",
+      "license": "PD-author",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Barclays_Bank_PLC_world_headquarters.JPG",
+      "rightsCheckedAt": "2026-10-23",
+      "originalDownload": {
+        "status": "completed",
+        "method": "Normal cloud-browser Original file media-download control",
+        "priorAttempt": "Prior urllib request returned a bare HTTP 403; normal browser download succeeded without authentication, circumvention or altered network path."
+      },
+      "localOriginalAvailable": true,
+      "pixelsInspected": true,
+      "decision": "Adopted as archival illustration; see assets record.",
+      "candidate": 5
+    },
+    {
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_server_racks_at_NERSC.jpg",
+      "creator": "Derrick Coetzee",
+      "date": "2011-10-14 13:27",
+      "license": "CC0 1.0",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "rightsCheckedAt": "2026-10-23",
+      "originalDownload": {
+        "status": "completed",
+        "method": "Normal cloud-browser Original file media-download control",
+        "priorAttempt": "Prior urllib request returned a bare HTTP 403; normal browser download succeeded without authentication, circumvention or altered network path."
+      },
+      "localOriginalAvailable": true,
+      "pixelsInspected": true,
+      "decision": "Adopted as archival illustration; see assets record.",
+      "candidate": 6
+    },
+    {
+      "sourceSelected": true,
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bank_of_Japan_headquarters_in_Tokyo%2C_Japan.jpg",
+      "creator": "Fg2",
+      "date": null,
+      "license": "PD-self",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg",
+      "rightsCheckedAt": "2026-10-23",
+      "originalDownload": {
+        "status": "completed",
+        "method": "Normal cloud-browser Original file media-download control",
+        "priorAttempt": "Prior urllib request returned a bare HTTP 403; normal browser download succeeded without authentication, circumvention or altered network path."
+      },
+      "localOriginalAvailable": true,
+      "pixelsInspected": true,
+      "decision": "Adopted as archival illustration; see assets record.",
+      "candidate": 7
+    },
+    {
+      "candidate": 8,
+      "sourceSelected": false,
+      "candidateStory": "kyiv",
+      "sourcePageURL": "https://apnews.com/article/russia-ukraine-war-kyiv-attacks-putin-5eef1c7dc4cc401dd8de85f718574877",
+      "originalURL": null,
+      "creator": null,
+      "date": null,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "rightsCheckedAt": null,
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "sourceDeliveryDescription": "Handoff described AP images credited to Evgeniy Maloletka and Efrem Lukatsky dated October 21–22, 2026; these per-photo credits and dates were not independently verified.",
+      "decision": "Military/political story excluded before per-photo review. Exact AP original URLs, full pixels and individual reuse rights were not retrieved or audited; no blanket rights conclusion or claim of complete inspection."
+    }
+  ],
+  "publisherRightsChecks": {
+    "checkedAt": "2026-10-23",
+    "publisherChecks": [
+      {
+        "publisher": "The Verge / Getty Images",
+        "page": "https://www.voxmedia.com/licensing/",
+        "result": "Original source page image is Getty-credited. Source page licensing FAQ directs to Vox Media. Case-by-case licensing required outside stated sharing/classroom uses; no license obtained. Getty licensing also independently checked at https://www.gettyimages.fi/eula."
+      },
+      {
+        "publisher": "Reuters",
+        "page": "https://www.reutersconnect.com/plans-and-pricing",
+        "result": "Exact source photo linked to Purchase Licensing Rights. Reuters Connect describes individual paid asset licenses restricted by period/platform; no license obtained."
+      },
+      {
+        "publisher": "Microsoft AI",
+        "page": "https://microsoft.ai/news/building-medical-superintelligence/",
+        "article": "microsoft-diagnostic-orchestrator-study-2026-10-23",
+        "checkedAt": "2026-10-23",
+        "inspection": "Actual October 22 article text, rendered page and DOM image inventory inspected; original image bytes were not downloaded.",
+        "mediaObserved": [
+          {
+            "url": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large.webp",
+            "type": "branded conceptual artwork",
+            "description": "White heart-shaped arrangement of rounded squares over a blurred floral background; not a clinical-event photograph."
+          }
+        ],
+        "rightsEvidenceURL": "https://www.microsoft.com/en-us/legal/terms-of-use",
+        "result": "No original news photograph identified in the article body. Remaining page images are navigation or related-story artwork. The linked Microsoft terms reserve image rights unless express permission applies; no asset-specific republication permission was found for this hero artwork. It was not adopted.",
+        "gap": "No separate media permission was requested. This finding concerns this article and its linked terms, not all Microsoft imagery or other publishers.",
+        "originalPixelsInspected": false
+      },
+      {
+        "publisher": "Microsoft SDBench project",
+        "page": "https://microsoft.github.io/sdbench/",
+        "article": "microsoft-diagnostic-orchestrator-study-2026-10-23",
+        "checkedAt": "2026-10-23",
+        "inspection": "Complete rendered project page and DOM image inventory inspected; both graphics viewed at page scale, not as downloaded originals.",
+        "mediaObserved": [
+          {
+            "url": "https://microsoft.github.io/sdbench/static/images/PaperCover-300.jpg",
+            "type": "third-party journal cover illustration",
+            "description": "Science AI-in-medicine illustrated cover."
+          },
+          {
+            "url": "https://microsoft.github.io/sdbench/static/images/figure1.png",
+            "type": "method diagram",
+            "description": "Sequential diagnosis process with agent, gatekeeper and judge."
+          }
+        ],
+        "rightsEvidenceURL": "https://github.com/microsoft/sdbench/blob/main/LICENSE",
+        "result": "Only the illustrated journal cover and method diagram were identified; no original photograph. These graphics were not selected as news photos. The repository has an MIT license, so the project is not described as lacking an open license. No separate Science cover republication grant was identified.",
+        "gap": "The repository license was not treated as automatic clearance for third-party journal cover artwork. Individual diagram ownership and any separate figure notice were not audited because no diagram was being republished.",
+        "originalPixelsInspected": false
+      },
+      {
+        "publisher": "Microsoft SDBench repository",
+        "page": "https://github.com/microsoft/sdbench",
+        "article": "microsoft-diagnostic-orchestrator-study-2026-10-23",
+        "checkedAt": "2026-10-23",
+        "inspection": "Repository README read; LICENSE fetched through GitHub connector, blob SHA 22aed37e650bbf933b6983cda9c2c5db65dcdd04.",
+        "rightsEvidenceURL": "https://github.com/microsoft/sdbench/blob/main/LICENSE",
+        "license": "MIT",
+        "result": "Microsoft grants broad software and associated-documentation reuse subject to retaining the copyright and permission notice. The README did not supply a news photograph. This software/documentation license is acknowledged, not reported as a photography prohibition.",
+        "gap": "No exhaustive repository-wide image-file audit was performed. Patient data permissions and third-party artwork are not inferred from the code license.",
+        "originalPixelsInspected": false
+      },
+      {
+        "publisher": "Meta / PR Newswire",
+        "page": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html",
+        "article": "us-stocks-ai-reassessment-2026-10-23",
+        "checkedAt": "2026-10-23",
+        "inspection": "Actual cited October 21 release text, full DOM image inventory and figure context inspected.",
+        "mediaObserved": [
+          {
+            "url": "https://mmx.prnewswire.com/media/MS977650/Meta-Logo.jpg?id=OA3027103",
+            "type": "company logo",
+            "description": "Meta wordmark and symbol, not a photograph."
+          }
+        ],
+        "rightsEvidenceURL": "https://www.prnewswire.com/terms-of-use/",
+        "result": "The release contains the Meta logo and financial tables, not an original earnings-event or market photograph. Other images belong to site navigation, recommendations, promotion or tracking. PR Newswire terms do not provide a blanket third-party redistribution grant; no photo-specific permission was found because no release photograph was identified.",
+        "gap": "The Meta logo was not adopted and its separate brand-use conditions were not fully audited. No conclusion is made that all press-release photographs are unavailable.",
+        "originalPixelsInspected": false
+      },
+      {
+        "publisher": "Meta Investor Relations",
+        "page": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+        "article": "us-stocks-ai-reassessment-2026-10-23",
+        "checkedAt": "2026-10-23",
+        "inspection": "Official release text, DOM image inventory and rendered logo visually checked.",
+        "mediaObserved": [
+          {
+            "url": "https://mmx.prnewswire.com/media/MS977650/Meta-Logo.jpg?id=OA3027103",
+            "type": "company logo",
+            "description": "Same Meta logo as the PR Newswire release."
+          }
+        ],
+        "rightsEvidenceURL": null,
+        "result": "Official release likewise contains financial tables and the Meta logo. Other image elements are site and product icons. No original photograph or photograph-specific reuse notice was identified on this actual release page.",
+        "gap": "Separate Meta media galleries, brand permissions and linked earnings slide decks were outside this bounded actual-page check; absence of a photo here is not a general restriction on Meta imagery.",
+        "originalPixelsInspected": false
+      }
+    ],
+    "supplementalCheckScope": "Bounded follow-up on the actual cited Microsoft October 22 blog, SDBench project/repository/license, and Meta October 21 earnings release on PR Newswire and Meta Investor Relations. No exhaustive image search or whole-site rights conclusion. No new image generated or publication performed.",
+    "supplementalConclusion": "No reusable original news photograph was established on these additional pages: the observed assets were branded artwork, a journal illustration, a method diagram and logos. The SDBench MIT license remains expressly acknowledged. Existing labeled conceptual illustrations are retained; their use is not based solely on checking The Verge/Getty and Reuters."
+  },
+  "note": "Four exact source-selected Commons originals were obtained and visually inspected, then privacy-sanitized without changing primary decoded pixels or ICC profiles. Two generated conceptual illustrations are explicitly labeled in all five languages. Not all rejected source-image pixels were inspected. No data charts were generated or recreated."
+}
