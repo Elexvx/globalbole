@@ -16,7 +16,7 @@ readTime: 4
 draft: false
 ---
 
-Reuters’s October 8 explainer cites 10–30% potential peak-power reductions at surveyed facilities, depending on the site.[^1]
+A Reuters explainer on October 8 cites potential peak-power reductions of 10–30% at the facilities surveyed, depending on the site.[^1]
 
 EPRI projects US data-center use, including crypto mining, at 383–793 TWh in 2030, against 177–192 in 2024.[^2]
 
@@ -28,25 +28,25 @@ Google, NVIDIA and Emerald AI launched the AI Energy Management Alliance on Sept
 
 ## The fuel mix is a separate question
 
-The IEA’s April 2025 Energy and AI report offers a different lens. Its supply analysis follows the electricity physically reaching data centers, including the local grid mix, rather than simply the energy sources named in corporate purchase contracts. In its Base Case, renewables supply nearly half of the additional global data-center electricity demand through 2030; coal and gas together supply more than 40%. These are results from the 2025 scenario, not revised October 2026 estimates.[^4]
+The IEA’s April 2025 Energy and AI report offers a different lens. Its supply analysis follows the electricity physically reaching data centers, including the local grid mix, rather than simply the energy sources named in corporate purchase contracts. In its Base Case, renewables supply nearly half of the additional global data-center electricity demand through 2030. Coal and gas together supply more than 40%. These are results from the 2025 scenario, not revised October 2026 estimates.[^4]
 
-The editorial implication is that an annual procurement claim and the source of electricity at a particular place and time answer different questions. A project can be examined through both lenses without treating either as a complete account. A reduction during one demanding period, by itself, does not establish the fuel mix supplying the remaining hours. This distinction is an interpretation of the IEA’s accounting boundary, not a new emissions estimate.[^4]
+A contract naming the power bought over a year does not identify the generator behind a given hour in a given place. Both readings can apply to the same project, and neither is the whole account. Cutting demand in one tight period leaves the fuel mix of the other hours untouched. That is a reading of where the IEA draws its accounting line. It is not a new emissions estimate.[^4]
 
 ## Construction schedules do not move together
 
-The same report describes data centers that can enter operation within two or three years, while broader energy infrastructure takes longer to plan and build. Its alternative demand cases vary assumptions about hardware and software efficiency, AI adoption and energy-sector bottlenecks. The resulting problem concerns the timing of investment as well as the final volume of consumption.[^4]
+A data center, the same report says, can be switched on within two or three years. The energy system around it takes longer to plan and to build. Alternative demand cases move the assumptions on hardware and software efficiency, on how fast AI is adopted, and on bottlenecks in the energy sector. The timing of that investment is part of the problem, not only the volume of electricity used at the end.[^4]
 
-For a proposed campus, that suggests separating the date its buildings are ready from the dates its electricity arrangements can support each stage of operation. An assessment based on one opening date can obscure this sequence. More efficient computing can alter the required equipment, but cannot by itself establish when a particular power project will be completed. These are planning implications of the report’s different development timescales.[^4]
+On a campus still being proposed, the day the buildings are ready is not the day the power arrangements can carry each stage of operation. Quote a single opening date and that sequence drops out. More efficient computing can change the equipment required. It cannot say when a particular power project will be finished. The point follows from the different timescales in the report.[^4]
 
 ## A British proposal shows another policy choice
 
 A UK consultation published on March 12, 2026 explored minimum demand-flexibility requirements for some very large users, including data centers. It also considered voluntary incentives for other projects, such as earlier or cheaper grid access. The proposal distinguished flexibility used only during system stress from arrangements covering winter peaks or broader normal operation.[^5]
 
-Those alternatives describe different bargains. An operator willing to accept rare emergency restrictions has not necessarily accepted routine interruptions. The consultation makes that distinction worth examining, but it does not establish a rule for US or Indian facilities. Nor should a proposal in a March document be read as proof of what was finally implemented.[^5]
+The bargains are not interchangeable. An operator ready for a rare cut in an emergency has not agreed to be interrupted as a matter of course. The consultation is worth reading for that split. It sets no rule for a facility in the US or in India, and a proposal dated March is not evidence of what was finally put in place.[^5]
 
 ## Read supply and connection decisions together
 
-Taken together, the IEA research and the British consultation suggest a broader comparison than a single flexibility percentage: what supplies the electricity, when the supporting assets become available, and which operating conditions a connection assumes. Improving one element may help a project without resolving the others. Keeping those questions separate makes it possible to explain both the opportunity and the limits without promising a universal solution.[^4][^5]
+A flexibility percentage is the narrow reading. The IEA research is about what supplies the electricity and when the assets behind it arrive. The British consultation is about the operating conditions a connection assumes. A project can improve on one of those and still be stuck on the others. Say them separately and both the opportunity and the limit stay visible, with no promise of a fix for every site.[^4][^5]
 
 [^1]: 2026-10-08 · [Data centers’ ‘flexible’ power usage could save the grid billions. Can they scale?](https://www.reuters.com/business/energy/data-centers-flexible-power-usage-could-save-grid-billions-can-they-scale-2026-10-08/) · Reuters.
 
