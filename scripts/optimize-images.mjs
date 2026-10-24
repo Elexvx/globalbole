@@ -8,6 +8,10 @@ import sharp from "sharp";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 24 photos: full-frame review retains tank/sign and equipment detail.
+  // Exact paths keep this transfer-budget adjustment isolated to the new issue.
+  "/news-media/2026-10-24/oil-supply.jpg": 60,
+  "/news-media/2026-10-24/fuel-cell-power.jpg": 60,
   // October 23 NERSC photo: full-frame 1280px review preserves rack detail.
   // Scope by exact path so older photographs with the same stem are unchanged.
   "/news-media/2026-10-23/datacenter.jpg": 59,

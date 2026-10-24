@@ -3574,6 +3574,295 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-24-zh-CN",
+      "issue": "2026-10-24",
+      "publicationDate": "2026-10-24",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "oil-prices-supply-risk-2026-10-24",
+          "path": "content/issues/2026-10-24/zh-CN/oil-prices-supply-risk-2026-10-24.md",
+          "eventDate": "2026-10-23 December-contract settlements and DOE exchange authorization",
+          "sources": [
+            {
+              "title": "Oil Surges to Six-Month Highs as Middle East Attacks Intensify",
+              "url": "https://energynow.com/2026/10/oil-surges-to-six-month-highs-as-middle-east-attacks-intensify/",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-23"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Energy Department Authorizes Strategic Petroleum Reserve Exchange to Support Fuel Supply Stability",
+              "url": "https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-23"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Strategic Petroleum Reserve",
+              "url": "https://www.energy.gov/hgeo/opr/strategic-petroleum-reserve",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2013-02-13",
+                "2026-03-26"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Oil and petroleum products explained: Oil prices and outlook",
+              "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-24"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "Gasoline explained: Gasoline price fluctuations",
+              "url": "https://www.eia.gov/energyexplained/gasoline/price-fluctuations.php",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2024-09-06"
+              ],
+              "footnote": 5
+            }
+          ]
+        },
+        {
+          "translationKey": "openai-training-containment-2026-10-24",
+          "path": "content/issues/2026-10-24/zh-CN/openai-training-containment-2026-10-24.md",
+          "eventDate": "2026-10-23 company disclosure; incident 2026-09-20 and resumption 2026-10-01",
+          "sources": [
+            {
+              "title": "Securing our frontier model training environment",
+              "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-23"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Security and Privacy Controls for Information Systems and Organizations",
+              "url": "https://doi.org/10.6028/NIST.SP.800-53r5",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2020-09",
+                "2020-12-10"
+              ],
+              "footnote": 2
+            }
+          ]
+        },
+        {
+          "translationKey": "ai-vulnerability-response-2026-10-24",
+          "path": "content/issues/2026-10-24/zh-CN/ai-vulnerability-response-2026-10-24.md",
+          "eventDate": "2026-10-21 PHP release; NCSC-NL update 2026-10-23; VulnCheck analysis 2026-10-22",
+          "sources": [
+            {
+              "title": "Exploring the Risks and Impacts of AI on Vulnerability Discovery and Exploitation",
+              "url": "https://www.vulncheck.com/blog/vulnerability-and-exploitation-risks-of-ai",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "PHP: News Archive - 2026",
+              "url": "https://www.php.net/archive/2026.php",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-21",
+                "2026-10-23"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Update: PHP vulnerabilities remain a reason for immediate patching",
+              "url": "https://www.ncsc.nl/en/alerts/update-php-vulnerabilities-remain-a-reason-for-immediate-patching",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-21",
+                "2026-10-23 15:45"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+              "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-21"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology",
+              "url": "https://doi.org/10.6028/NIST.SP.800-40r4",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2022-04-06"
+              ],
+              "footnote": 5
+            }
+          ]
+        },
+        {
+          "translationKey": "uk-ai-biosecurity-funding-2026-10-24",
+          "path": "content/issues/2026-10-24/zh-CN/uk-ai-biosecurity-funding-2026-10-24.md",
+          "eventDate": "2026-10-24 UK government announcement",
+          "sources": [
+            {
+              "title": "Introducing the AI Biosecurity Lab",
+              "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-24"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "UK Biological Security Strategy (HTML)",
+              "url": "https://www.gov.uk/government/publications/uk-biological-security-strategy/uk-biological-security-strategy-html",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2023-06-12"
+              ],
+              "footnote": 2
+            }
+          ]
+        },
+        {
+          "translationKey": "fuel-cells-datacenter-power-2026-10-24",
+          "path": "content/issues/2026-10-24/zh-CN/fuel-cells-datacenter-power-2026-10-24.md",
+          "eventDate": "2026-10-22 Q3 results and 2026-10-23 reporting; June forecast and April procurement announcement identified separately",
+          "sources": [
+            {
+              "title": "Bloom Energy Reports Record Third Quarter 2026 Financial Results and Raises Full Year 2026 Guidance",
+              "url": "https://www.bloomenergy.com/news/bloom-energy-reports-record-third-quarter-2026-financial-results-and-raises-full-year-2026-guidance/",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-22"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "Explainer-Why AI data centers are powering a boom in fuel-cell demand",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/23/explainer-why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-23"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Fuel cell investment by data centers set to grow tenfold, reaching $30 billion by 2030",
+              "url": "https://www.rystadenergy.com/news/data-center-fuel-cell-power-demand",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-06-25"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Bloom Energy and Oracle Expand Strategic Partnership to Deploy up to 2.8 GW to Accelerate AI Infrastructure Build-Out",
+              "url": "https://www.bloomenergy.com/news/bloom-energy-and-oracle-expand-strategic-partnership-to-deploy-up-to-2-8-gw-to-accelerate-ai-infrastructure-build-out/",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-04-13"
+              ],
+              "footnote": 4
+            },
+            {
+              "title": "Fuel Cells",
+              "url": "https://www.energy.gov/cmei/fuels/fuel-cells",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2013-08-14",
+                "2026-10-09"
+              ],
+              "footnote": 5
+            },
+            {
+              "title": "Fuel Cell Systems",
+              "url": "https://www.energy.gov/cmei/fuels/fuel-cell-systems",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2014-02-25",
+                "2026-06-02"
+              ],
+              "footnote": 6
+            },
+            {
+              "title": "Types of Fuel Cells",
+              "url": "https://www.energy.gov/cmei/fuels/types-fuel-cells",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2014-02-25",
+                "2026-06-02"
+              ],
+              "footnote": 7
+            }
+          ]
+        },
+        {
+          "translationKey": "amex-earnings-workforce-2026-10-24",
+          "path": "content/issues/2026-10-24/zh-CN/amex-earnings-workforce-2026-10-24.md",
+          "eventDate": "2026-10-23 third-quarter earnings and prospective workforce adjustment",
+          "sources": [
+            {
+              "title": "Earnings call transcript: American Express tops Q3 2026 profit view, shares slip",
+              "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-american-express-tops-q3-2026-profit-view-shares-slip-93CH-4969699",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-23"
+              ],
+              "footnote": 1
+            },
+            {
+              "title": "AMERICAN EXPRESS RAISES FY 2026 EARNINGS PER SHARE GUIDANCE",
+              "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000405/q326exhibit991.htm",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2026-10-23"
+              ],
+              "footnote": 2
+            },
+            {
+              "title": "Non-GAAP Financial Measures",
+              "url": "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2021-06-07"
+              ],
+              "footnote": 3
+            },
+            {
+              "title": "Beginners' Guide to Financial Statements",
+              "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+              "verificationDate": "2026-10-24",
+              "dateInformation": [
+                "2014-01-12"
+              ],
+              "footnote": 4
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

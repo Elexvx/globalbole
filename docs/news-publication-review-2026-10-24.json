@@ -1,0 +1,103 @@
+{
+  "issue": "2026-10-24",
+  "checkedAt": "2026-10-24T03:14:00Z",
+  "sourceDelivery": {
+    "candidateCount": 8,
+    "format": "Eight short news briefs with source article links and caption claims. No full-length manuscripts or image files were supplied. The six selected stories were independently verified and developed into complete original articles."
+  },
+  "selected": [
+    {
+      "candidate": 1,
+      "translationKey": "oil-prices-supply-risk-2026-10-24",
+      "eventDate": "2026-10-23 December-contract settlements and DOE exchange authorization"
+    },
+    {
+      "candidate": 2,
+      "translationKey": "openai-training-containment-2026-10-24",
+      "eventDate": "2026-10-23 company disclosure; incident 2026-09-20 and resumption 2026-10-01"
+    },
+    {
+      "candidate": 3,
+      "translationKey": "ai-vulnerability-response-2026-10-24",
+      "eventDate": "2026-10-21 PHP release; NCSC-NL update 2026-10-23; VulnCheck analysis 2026-10-22"
+    },
+    {
+      "candidate": 4,
+      "translationKey": "uk-ai-biosecurity-funding-2026-10-24",
+      "eventDate": "2026-10-24 UK government announcement"
+    },
+    {
+      "candidate": 5,
+      "translationKey": "fuel-cells-datacenter-power-2026-10-24",
+      "eventDate": "2026-10-22 Q3 results and 2026-10-23 reporting; June forecast and April procurement announcement identified separately"
+    },
+    {
+      "candidate": 6,
+      "translationKey": "amex-earnings-workforce-2026-10-24",
+      "eventDate": "2026-10-23 third-quarter earnings and prospective workforce adjustment"
+    }
+  ],
+  "held": [
+    {
+      "candidate": 7,
+      "topic": "EU–China trade talks",
+      "reason": "Deferred because the reported new event and details were not independently established to publication standard. Geographic references alone are not grounds for exclusion."
+    },
+    {
+      "candidate": 8,
+      "topic": "US military-base restriction on BYD vehicles",
+      "reason": "Excluded under the sensitive military/political subject boundary; no alternate-language publication."
+    }
+  ],
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "mediaAudit": "docs/news-media/2026-10-24/provenance.json",
+  "importantCorrections": [
+    "OpenAI chronology follows the official disclosure, not the erroneous date in secondary reporting. Training isolation is not generalized to every support system.",
+    "Oil settlement series remain distinct. Exchange authorization is not completed delivery or a permanent sale.",
+    "CVE growth is not a population-wide vulnerability count or proof of AI causation. Precautionary shutdown is not evidence of compromise.",
+    "Government funding, company credits and service commitments remain distinct; the unverified wider package is omitted.",
+    "The older fuel-cell forecast concerns annual revenue, not cumulative investment. Maximum procurement scope, contracted capacity and company-wide revenue remain distinct.",
+    "AmEx GAAP and adjusted earnings remain distinct. Planned positions are not completed departures or a verified AI-replacement count."
+  ],
+  "preservation": {
+    "baseCommit": "5c98d4d8f86f7db89e28ff8a701f424314c12c20",
+    "policy": "All 395 earlier article records and canonical URLs are unchanged; all unrelated tracked files are unchanged. Existing publication-log records, categories, layout and withdrawn republish:false records are preserved.",
+    "scopedMaintenance": "Only two newly added photo paths use AVIF quality 60 to satisfy the existing image-byte budgets. The default quality and all older image settings remain unchanged."
+  },
+  "verificationStatus": "Pre-submission local and independent review passed. Git submission, deployment readiness and formal-domain verification must be established separately after submission.",
+  "verification": {
+    "testsPassed": 117,
+    "testsFailed": 0,
+    "productionBuild": "passed",
+    "typecheck": "passed",
+    "exportHtmlPages": 6040,
+    "exportLocalReferences": 384589,
+    "seoCanonicalArticles": 425,
+    "sitemapUrls": 1195,
+    "independentEditorialAndMediaReview": "passed",
+    "browser": {
+      "environment": "cloud Chrome",
+      "desktopCssWidth": 1165,
+      "narrowCssWidth": 388,
+      "method": "Ordinary browser zoom exercises the narrow CSS layout; not real mobile-device emulation.",
+      "homeLanguages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "detailPagesCheckedAtBothWidths": 30,
+      "horizontalOverflow": 0,
+      "sameArticleLanguageSwitch": "All five oil-story editions visited through the visible selector; returned to Simplified Chinese.",
+      "visibleMedia": "All seven sanitized master assets inspected; representative article media, archival captions and all three illustration disclaimers inspected in rendered context.",
+      "sourceNavigation": "Numbered footnote navigation and clickable full source titles checked."
+    }
+  }
+}

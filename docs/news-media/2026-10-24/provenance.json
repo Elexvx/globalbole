@@ -1,0 +1,833 @@
+{
+  "date": "2026-10-24",
+  "assets": [
+    {
+      "id": "oil-supply-2026-10-24",
+      "article": "oil-prices-supply-risk-2026-10-24",
+      "filename": "oil-supply.jpg",
+      "localPath": "/news-media/2026-10-24/oil-supply.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "Ellwood oil storage tanks.jpg",
+      "creator": "Dreamyshade",
+      "photographer": "Dreamyshade",
+      "date": "2007-03-10",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ellwood_oil_storage_tanks.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsEvidence": "Exact Commons asset page explicitly states Own work, Dreamyshade, 10 March 2007 and CC BY-SA 4.0. Original SHA-1 matches Commons structured data. Original decoded pixels viewed and inspected.",
+      "rightsReverifiedAt": "2026-10-24",
+      "sourceImageType": "Original file",
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "reuseDecision": "Separately selected archival documentary image. Not an image delivered by the original source task and not evidence of the current news event.",
+      "changes": "Only nonessential metadata removed. The acquired image's decoded RGB pixels and any embedded ICC profile are unchanged. No cropping, resizing or re-encoding of the local source file.",
+      "captions": {
+        "zh-CN": "资料照片：2007年3月10日，美国加利福尼亚州戈利塔埃尔伍德海滩的储油罐与石油管道。作品《Ellwood oil storage tanks》，摄影：Dreamyshade。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 显示版本经缩放和格式转换，沿用CC BY-SA 4.0许可。",
+        "zh-TW": "資料照片：2007年3月10日，美國加利福尼亞州戈利塔埃爾伍德海灘的儲油罐與石油管道。作品《Ellwood oil storage tanks》，攝影：Dreamyshade。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 顯示版本經縮放和格式轉換，沿用CC BY-SA 4.0授權。",
+        "en": "Archive photograph: oil storage tanks and a petroleum pipeline at Ellwood Beach, Goleta, California, March 10, 2007. “Ellwood oil storage tanks” by Dreamyshade. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Display versions are resized and re-encoded under the same CC BY-SA 4.0 licence.",
+        "ru": "Архивное фото: нефтяные резервуары и нефтепровод у пляжа Эллвуд, Голета, Калифорния, 10 марта 2007 года. «Ellwood oil storage tanks», автор Dreamyshade. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Версии для показа уменьшены и перекодированы; они также доступны по CC BY-SA 4.0.",
+        "fr": "Photo d’archives : réservoirs de pétrole et oléoduc à Ellwood Beach, Goleta, Californie, le 10 mars 2007. « Ellwood oil storage tanks », par Dreamyshade. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg) ; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Les versions affichées sont redimensionnées et réencodées sous la même licence CC BY-SA 4.0."
+      },
+      "alts": {
+        "zh-CN": "2007年3月10日美国加州戈利塔埃尔伍德海滩储油罐、管道及警示牌资料照片",
+        "zh-TW": "2007年3月10日美國加州戈利塔埃爾伍德海灘儲油罐、管道及警示牌資料照片",
+        "en": "Archival photograph of oil storage tanks, a pipeline and a warning sign at Ellwood Beach, Goleta, California, March 10, 2007",
+        "ru": "Архивное фото нефтяных резервуаров, трубопровода и предупреждающего знака у пляжа Эллвуд в Голете, Калифорния, 10 марта 2007 года",
+        "fr": "Photo d’archives de réservoirs de pétrole, d’un oléoduc et d’un panneau d’avertissement à Ellwood Beach, Goleta, Californie, le 10 mars 2007"
+      },
+      "inputSha256": "1d793df3a1167cb22dc9862dc2c6de888cc47d721041030dd040017336a2e150",
+      "sha256": "8735d6368aff922c76fb4f8f7f8c71b35754ae88c9768cf0522eb7c62c1bfb59",
+      "byteSize": 2624306,
+      "width": 2816,
+      "height": 2112,
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-24",
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": true,
+      "removedSegments": [
+        "0xe1"
+      ],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "checkedAt": "2026-10-24",
+      "caption": "资料照片：2007年3月10日，美国加利福尼亚州戈利塔埃尔伍德海滩的储油罐与石油管道。作品《Ellwood oil storage tanks》，摄影：Dreamyshade。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ellwood_oil_storage_tanks.jpg)；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 显示版本经缩放和格式转换，沿用CC BY-SA 4.0许可。",
+      "recommendedCoverObjectPosition": "50% 50%",
+      "licenseObligations": "Credit Dreamyshade and the work title, link the source and CC BY-SA 4.0, and retain visible notice of display-version resizing/re-encoding. Share-alike covers adapted image delivery versions, not unrelated article text. The local master has unchanged decoded pixels.",
+      "deliveryDerivatives": {
+        "status": "Expected from the existing site build; not yet generated or validated by media preparation.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates full-frame proportional WebP renditions; JPEG masters also receive AVIF renditions. PNG body renditions use full-size lossless WebP. These delivery files are distinct from the pixel-identical local master.",
+        "license": "CC BY-SA 4.0",
+        "licenseScope": "The image and its delivery versions only; no licence claim for article text or the site as a whole.",
+        "shareAlike": "All resized or re-encoded versions of this photograph are offered under CC BY-SA 4.0. Retain linked source/title/author/licence and the visible change notice.",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "visibleChangeNotice": {
+          "zh-CN": "显示版本经缩放和格式转换，沿用CC BY-SA 4.0许可。",
+          "zh-TW": "顯示版本經縮放和格式轉換，沿用CC BY-SA 4.0授權。",
+          "en": "Display versions are resized and re-encoded under the same CC BY-SA 4.0 licence.",
+          "ru": "Версии для показа уменьшены и перекодированы; они также доступны по CC BY-SA 4.0.",
+          "fr": "Les versions affichées sont redimensionnées et réencodées sous la même licence CC BY-SA 4.0."
+        }
+      }
+    },
+    {
+      "id": "amex-workforce-2026-10-24",
+      "article": "amex-earnings-workforce-2026-10-24",
+      "filename": "amex-workforce.jpg",
+      "localPath": "/news-media/2026-10-24/amex-workforce.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "New American Express Building, 1 John Street, Carlton Hill, Brighton (August 2013) (1).JPG",
+      "creator": "Hassocks5489",
+      "photographer": "Hassocks5489",
+      "date": "2013-08-23",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/New_American_Express_Building%2C_1_John_Street%2C_Carlton_Hill%2C_Brighton_%28August_2013%29_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "rightsEvidence": "Asset-specific Commons page inspected in cloud Chrome: Summary states Own work, Hassocks5489 and 23 August 2013; Licensing explicitly declares CC0 1.0. Original pixels downloaded and viewed.",
+      "rightsReverifiedAt": "2026-10-24",
+      "sourceImageType": "Original file",
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "reuseDecision": "Separately selected archival documentary image. Not an image delivered by the original source task and not evidence of the current news event.",
+      "changes": "Only nonessential metadata removed. The acquired image's decoded RGB pixels and any embedded ICC profile are unchanged. No cropping, resizing or re-encoding of the local source file.",
+      "captions": {
+        "zh-CN": "资料照片：2013年8月23日，英国布赖顿的美国运通欧洲服务中心外观。摄影：Hassocks5489。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+        "zh-TW": "資料照片：2013年8月23日，英國布萊頓的美國運通歐洲服務中心外觀。攝影：Hassocks5489。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG)；[CC0 1.0公共領域貢獻](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+        "en": "Archive photograph: exterior of the American Express European Service Centre in Brighton, England, August 23, 2013. Photograph by Hassocks5489. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG); [CC0 1.0 public-domain dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).",
+        "ru": "Архивное фото: здание европейского сервисного центра American Express в Брайтоне, Англия, 23 августа 2013 года. Автор: Hassocks5489. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG); [передано в общественное достояние по CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).",
+        "fr": "Photo d’archives : façade du centre de services européen d’American Express à Brighton, en Angleterre, le 23 août 2013. Photographie : Hassocks5489. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG) ; [dédiée au domaine public sous CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)."
+      },
+      "alts": {
+        "zh-CN": "2013年8月23日英国布赖顿美国运通欧洲服务中心建筑外观资料照片",
+        "zh-TW": "2013年8月23日英國布萊頓美國運通歐洲服務中心建築外觀資料照片",
+        "en": "Archival photograph of the American Express European Service Centre exterior in Brighton, England, August 23, 2013",
+        "ru": "Архивное фото здания европейского сервисного центра American Express в Брайтоне, Англия, 23 августа 2013 года",
+        "fr": "Photo d’archives de la façade du centre de services européen d’American Express à Brighton, en Angleterre, le 23 août 2013"
+      },
+      "inputSha256": "2f6b1769c870a9eeb81d259c96a835fb0ac10b749e4cdb30832326724314242b",
+      "sha256": "0e5243092b3be5db656b624dca5c5a0e9698a823cada3689010ffb9783adeee3",
+      "byteSize": 2400866,
+      "width": 3200,
+      "height": 2400,
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-24",
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "removedSegments": [
+        "0xe1",
+        "0xe1"
+      ],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "checkedAt": "2026-10-24",
+      "caption": "资料照片：2013年8月23日，英国布赖顿的美国运通欧洲服务中心外观。摄影：Hassocks5489。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2013)_(1).JPG)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+      "deliveryDerivatives": {
+        "status": "Expected from the existing site build; not yet generated or validated by media preparation.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates full-frame proportional WebP renditions; JPEG masters also receive AVIF renditions. PNG body renditions use full-size lossless WebP. These delivery files are distinct from the pixel-identical local master.",
+        "license": "CC0 1.0",
+        "licenseScope": "The image and its delivery versions only; no licence claim for article text or the site as a whole."
+      }
+    },
+    {
+      "id": "fuel-cell-power-2026-10-24",
+      "article": "fuel-cells-datacenter-power-2026-10-24",
+      "filename": "fuel-cell-power.jpg",
+      "localPath": "/news-media/2026-10-24/fuel-cell-power.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "Bloom Energy Servers",
+      "creator": "Jakub Mosur",
+      "photographer": "Jakub Mosur",
+      "date": "2010-02-24",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bloom_Energy_Servers.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsEvidence": "Exact Commons file page read in web and cloud browser. Summary gives Bloom Energy as publishing account, 24 February 2010. Attribution box explicitly requires Jakub Mosur; embedded creator/copyright agree. Commons reviewer Matanya verified the original Flickr CC BY 2.0 licence on 8 February 2012. This is an asset-specific grant, not an inference from a press kit. Full downloaded image visually inspected.",
+      "rightsReverifiedAt": "2026-10-24",
+      "sourceImageType": "Original file",
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "reuseDecision": "Separately selected archival documentary image. Not an image delivered by the original source task and not evidence of the current news event.",
+      "changes": "Only nonessential metadata removed. The acquired image's decoded RGB pixels and any embedded ICC profile are unchanged. No cropping, resizing or re-encoding of the local source file.",
+      "captions": {
+        "zh-CN": "资料照片：2010年2月24日，展出的Bloom Energy燃料电池发电设备。作品《Bloom Energy Servers》，摄影：© Jakub Mosur，发布方：Bloom Energy。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg)；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。",
+        "zh-TW": "資料照片：2010年2月24日，展出的Bloom Energy燃料電池發電設備。作品《Bloom Energy Servers》，攝影：© Jakub Mosur，發布方：Bloom Energy。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg)；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。",
+        "en": "Archive photograph: Bloom Energy fuel-cell power equipment on display, February 24, 2010. “Bloom Energy Servers”, photograph by © Jakub Mosur, published by Bloom Energy. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).",
+        "ru": "Архивное фото: демонстрация топливных элементов для выработки электроэнергии Bloom Energy, 24 февраля 2010 года. «Bloom Energy Servers», фото © Jakub Mosur, опубликовано Bloom Energy. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).",
+        "fr": "Photo d’archives : équipements de production électrique à piles à combustible Bloom Energy exposés le 24 février 2010. « Bloom Energy Servers », photographie de © Jakub Mosur, publiée par Bloom Energy. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg) ; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)."
+      },
+      "alts": {
+        "zh-CN": "2010年2月24日展出的Bloom Energy燃料电池发电设备资料照片",
+        "zh-TW": "2010年2月24日展出的Bloom Energy燃料電池發電設備資料照片",
+        "en": "Archival photograph of Bloom Energy fuel-cell power equipment on display, February 24, 2010",
+        "ru": "Архивное фото экспонируемого оборудования Bloom Energy для выработки электроэнергии на топливных элементах, 24 февраля 2010 года",
+        "fr": "Photo d’archives d’équipements électriques à piles à combustible Bloom Energy exposés le 24 février 2010"
+      },
+      "inputSha256": "d5f80174884a7d6e3b8f21ba2a2bfdced7fc2e1af43836577c76dd02813e18fe",
+      "sha256": "5d94320875332c480f5790f39884dca09ce16b4ea76f23d1adfea6bf894da266",
+      "byteSize": 295618,
+      "width": 1024,
+      "height": 683,
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-24",
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": true,
+      "removedSegments": [
+        "0xed",
+        "0xe1"
+      ],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "checkedAt": "2026-10-24",
+      "caption": "资料照片：2010年2月24日，展出的Bloom Energy燃料电池发电设备。作品《Bloom Energy Servers》，摄影：© Jakub Mosur，发布方：Bloom Energy。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg)；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。",
+      "copyright": "© Photo by Jakub Mosur",
+      "publisher": "Bloom Energy",
+      "originalPublisherURL": "https://www.flickr.com/photos/bloomenergy/4404761719/",
+      "licenseObligations": "Preserve title, Jakub Mosur attribution, source and CC BY 2.0 link; do not imply endorsement. Local image pixels are unchanged.",
+      "dateEvidence": "Both Commons summary and camera metadata agree on 24 February 2010. Times differ, so only the common date is used.",
+      "metadataCaution": "The original image contained photographer contact details and device identifiers. They were removed from the publication file without changing pixels; attribution and copyright remain here and in the visible caption.",
+      "deliveryDerivatives": {
+        "status": "Expected from the existing site build; not yet generated or validated by media preparation.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates full-frame proportional WebP renditions; JPEG masters also receive AVIF renditions. PNG body renditions use full-size lossless WebP. These delivery files are distinct from the pixel-identical local master.",
+        "license": "CC BY 2.0",
+        "licenseScope": "The image and its delivery versions only; no licence claim for article text or the site as a whole."
+      }
+    },
+    {
+      "id": "openai-containment-2026-10-24",
+      "article": "openai-training-containment-2026-10-24",
+      "filename": "openai-containment.png",
+      "localPath": "/news-media/2026-10-24/openai-containment.png",
+      "kind": "ai_generated_editorial_illustration",
+      "sourceSelected": false,
+      "generationTool": "OpenAI image_gen",
+      "generationDate": "2026-10-24",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial news illustration for a report on containment of frontier AI training environments. Create a polished, unmistakably non-photographic tactile paper-and-clay still life: a single generic computer microchip rests inside two nested transparent glass protective cubes, one open socket cable lies outside and disconnected from the inner enclosure. The geometry should communicate layered isolation, not a scientific diagram. Muted graphite, pale teal and warm ivory, fine textures, calm studio lighting, wide 16:9 composition, centrally grouped objects with crop-safe margins. No words, no numbers, no logos, no OpenAI mark, no labels, no humans, no charts, graphs, trend lines, arrows, dashboards, code screens, or data visualization. Not a documentary photo, actual OpenAI facility, product, or technical implementation diagram.",
+      "rightsBasis": "New conceptual editorial illustration generated for this publication. Not an original source-selected image, photograph, event evidence, company facility, scientific result or data visualization. Bounded source-image efforts and reasons for choosing an illustration are recorded separately. No claim of a missing copyright owner or denied Reuters licence is made.",
+      "captions": {
+        "zh-CN": "AI生成示意图：以芯片、嵌套防护罩和断开的连接线表现人工智能训练环境的分层隔离，非真实OpenAI设施。",
+        "zh-TW": "AI生成示意圖：以晶片、嵌套防護罩和斷開的連接線表現人工智慧訓練環境的分層隔離，非真實OpenAI設施。",
+        "en": "AI-generated editorial illustration: a chip, nested protective enclosures and a disconnected cable represent layered isolation in AI training, not an actual OpenAI facility.",
+        "ru": "Иллюстрация, созданная ИИ: микросхема, вложенные защитные оболочки и отключённый кабель символизируют многоуровневую изоляцию при обучении ИИ; это не реальный объект OpenAI.",
+        "fr": "Illustration générée par l’IA : une puce, des enceintes protectrices imbriquées et un câble débranché évoquent l’isolation en plusieurs couches de l’entraînement de l’IA ; il ne s’agit pas d’une installation réelle d’OpenAI."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：以芯片、嵌套防护罩和断开的连接线表现人工智能训练环境的分层隔离，非真实OpenAI设施。",
+        "zh-TW": "AI生成示意圖：以晶片、嵌套防護罩和斷開的連接線表現人工智慧訓練環境的分層隔離，非真實OpenAI設施。",
+        "en": "AI-generated editorial illustration: a chip, nested protective enclosures and a disconnected cable represent layered isolation in AI training, not an actual OpenAI facility.",
+        "ru": "Иллюстрация, созданная ИИ: микросхема, вложенные защитные оболочки и отключённый кабель символизируют многоуровневую изоляцию при обучении ИИ; это не реальный объект OpenAI.",
+        "fr": "Illustration générée par l’IA : une puce, des enceintes protectrices imbriquées et un câble débranché évoquent l’isolation en plusieurs couches de l’entraînement de l’IA ; il ne s’agit pas d’une installation réelle d’OpenAI."
+      },
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "changes": "Unmodified generated PNG. Inspection found no EXIF, IPTC or XMP chunks; C2PA content credentials retained.",
+      "inputSha256": "21831d9faddd729243c411265a52f105e417596108f4cea3b615efd7e1635def",
+      "sha256": "21831d9faddd729243c411265a52f105e417596108f4cea3b615efd7e1635def",
+      "byteSize": 2340029,
+      "width": 1672,
+      "height": 941,
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-24",
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "checkedAt": "2026-10-24",
+      "pngChunks": [
+        "IHDR",
+        "caBX",
+        "IDAT",
+        "IEND"
+      ],
+      "contentCredentialsPreserved": true,
+      "caption": "AI生成示意图：以芯片、嵌套防护罩和断开的连接线表现人工智能训练环境的分层隔离，非真实OpenAI设施。",
+      "deliveryDerivatives": {
+        "status": "Expected from the existing site build; not yet generated or validated by media preparation.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates full-frame proportional WebP renditions; JPEG masters also receive AVIF renditions. PNG body renditions use full-size lossless WebP. These delivery files are distinct from the pixel-identical local master.",
+        "license": "Generated editorial illustration",
+        "licenseScope": "The image and its delivery versions only; no licence claim for article text or the site as a whole."
+      }
+    },
+    {
+      "id": "cyber-response-2026-10-24",
+      "article": "ai-vulnerability-response-2026-10-24",
+      "filename": "cyber-response.png",
+      "localPath": "/news-media/2026-10-24/cyber-response.png",
+      "kind": "ai_generated_editorial_illustration",
+      "sourceSelected": false,
+      "generationTool": "OpenAI image_gen",
+      "generationDate": "2026-10-24",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial news illustration for a report on companies investigating and containing cyber incidents. Create a refined, clearly non-photographic paper-and-clay still life: a small generic server appliance with a disconnected Ethernet cable next to it, a technician's screwdriver and a magnifying glass arranged on a quiet workbench, suggesting investigation and repair rather than a specific breach. Muted blue, warm grey and small amber accents; tactile material textures and soft directional light, full-bleed 16:9 horizontal composition with a central crop-safe focal group. No people, words, letters, numbers, brands, logos, charts, graphs, axes, arrows, padlock graphics, skulls, hooded hackers, maps, simulated code, screens or dashboards. Do not depict a real company, actual incident, or evidence.",
+      "rightsBasis": "New conceptual editorial illustration generated for this publication. Not an original source-selected image, photograph, event evidence, company facility, scientific result or data visualization. Bounded source-image efforts and reasons for choosing an illustration are recorded separately. No claim of a missing copyright owner or denied Reuters licence is made.",
+      "captions": {
+        "zh-CN": "AI生成示意图：服务器、断开的网线与检修工具表现网络安全事件调查和修复，非真实企业事故现场。",
+        "zh-TW": "AI生成示意圖：伺服器、斷開的網路線與檢修工具表現網路安全事件調查和修復，非真實企業事故現場。",
+        "en": "AI-generated editorial illustration: a server, disconnected network cable and repair tools represent cyber-incident investigation and remediation, not an actual company incident.",
+        "ru": "Иллюстрация, созданная ИИ: сервер, отключённый сетевой кабель и инструменты символизируют расследование киберинцидентов и устранение проблем; это не реальный инцидент в компании.",
+        "fr": "Illustration générée par l’IA : un serveur, un câble réseau débranché et des outils évoquent l’enquête et la remédiation après un incident cyber ; il ne s’agit pas d’un incident réel dans une entreprise."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：服务器、断开的网线与检修工具表现网络安全事件调查和修复，非真实企业事故现场。",
+        "zh-TW": "AI生成示意圖：伺服器、斷開的網路線與檢修工具表現網路安全事件調查和修復，非真實企業事故現場。",
+        "en": "AI-generated editorial illustration: a server, disconnected network cable and repair tools represent cyber-incident investigation and remediation, not an actual company incident.",
+        "ru": "Иллюстрация, созданная ИИ: сервер, отключённый сетевой кабель и инструменты символизируют расследование киберинцидентов и устранение проблем; это не реальный инцидент в компании.",
+        "fr": "Illustration générée par l’IA : un serveur, un câble réseau débranché et des outils évoquent l’enquête et la remédiation après un incident cyber ; il ne s’agit pas d’un incident réel dans une entreprise."
+      },
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "changes": "Unmodified generated PNG. Inspection found no EXIF, IPTC or XMP chunks; C2PA content credentials retained.",
+      "inputSha256": "6dc9b55b2b5ce62a40057883a86b914a4aa049ae97bbbfc61b810d27267db9fa",
+      "sha256": "6dc9b55b2b5ce62a40057883a86b914a4aa049ae97bbbfc61b810d27267db9fa",
+      "byteSize": 2142492,
+      "width": 1672,
+      "height": 941,
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-24",
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "checkedAt": "2026-10-24",
+      "pngChunks": [
+        "IHDR",
+        "caBX",
+        "IDAT",
+        "IEND"
+      ],
+      "contentCredentialsPreserved": true,
+      "caption": "AI生成示意图：服务器、断开的网线与检修工具表现网络安全事件调查和修复，非真实企业事故现场。",
+      "deliveryDerivatives": {
+        "status": "Expected from the existing site build; not yet generated or validated by media preparation.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates full-frame proportional WebP renditions; JPEG masters also receive AVIF renditions. PNG body renditions use full-size lossless WebP. These delivery files are distinct from the pixel-identical local master.",
+        "license": "Generated editorial illustration",
+        "licenseScope": "The image and its delivery versions only; no licence claim for article text or the site as a whole."
+      }
+    },
+    {
+      "id": "uk-biosecurity-2026-10-24",
+      "article": "uk-ai-biosecurity-funding-2026-10-24",
+      "filename": "uk-biosecurity.png",
+      "localPath": "/news-media/2026-10-24/uk-biosecurity.png",
+      "kind": "ai_generated_editorial_illustration",
+      "sourceSelected": false,
+      "generationTool": "OpenAI image_gen",
+      "generationDate": "2026-10-24",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial news illustration for a report on a UK initiative linking artificial intelligence with biosecurity. Create an unmistakably conceptual paper-and-clay still life: one elegantly simplified microscope, a generic flat computer microchip and a closed plain laboratory sample box grouped on a clean ivory tabletop. Restrained forest green, pale mint, graphite and ivory, softly sculpted tactile surfaces, natural studio shadows, sophisticated science magazine editorial aesthetic. Wide 16:9 full-bleed composition, all objects comfortably within central crop-safe area. No people, brand names, logos, flags, lettering, numbers, hazardous pathogen imagery, biological procedures, charts, data plots, arrows or dashboards. Not a photograph or depiction of the actual AI Biosecurity Lab, not scientific evidence.",
+      "rightsBasis": "New conceptual editorial illustration generated for this publication. Not an original source-selected image, photograph, event evidence, company facility, scientific result or data visualization. Bounded source-image efforts and reasons for choosing an illustration are recorded separately. No claim of a missing copyright owner or denied Reuters licence is made.",
+      "captions": {
+        "zh-CN": "AI生成示意图：显微镜、芯片与封闭样本盒表现人工智能和生物安全研究，非英国AI生物安全实验室实景。",
+        "zh-TW": "AI生成示意圖：顯微鏡、晶片與封閉樣本盒表現人工智慧和生物安全研究，非英國AI生物安全實驗室實景。",
+        "en": "AI-generated editorial illustration: a microscope, chip and closed sample box represent AI and biosecurity research, not the actual UK AI Biosecurity Lab.",
+        "ru": "Иллюстрация, созданная ИИ: микроскоп, микросхема и закрытый контейнер для образцов символизируют исследования ИИ и биобезопасности; это не реальная британская AI Biosecurity Lab.",
+        "fr": "Illustration générée par l’IA : un microscope, une puce et une boîte d’échantillons fermée évoquent la recherche en IA et en biosécurité ; il ne s’agit pas du laboratoire britannique AI Biosecurity Lab réel."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：显微镜、芯片与封闭样本盒表现人工智能和生物安全研究，非英国AI生物安全实验室实景。",
+        "zh-TW": "AI生成示意圖：顯微鏡、晶片與封閉樣本盒表現人工智慧和生物安全研究，非英國AI生物安全實驗室實景。",
+        "en": "AI-generated editorial illustration: a microscope, chip and closed sample box represent AI and biosecurity research, not the actual UK AI Biosecurity Lab.",
+        "ru": "Иллюстрация, созданная ИИ: микроскоп, микросхема и закрытый контейнер для образцов символизируют исследования ИИ и биобезопасности; это не реальная британская AI Biosecurity Lab.",
+        "fr": "Illustration générée par l’IA : un microscope, une puce et une boîte d’échantillons fermée évoquent la recherche en IA et en biosécurité ; il ne s’agit pas du laboratoire britannique AI Biosecurity Lab réel."
+      },
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "changes": "Unmodified generated PNG. Inspection found no EXIF, IPTC or XMP chunks; C2PA content credentials retained.",
+      "inputSha256": "a23a95de4056fec5159801f83bec259e311c841269d7cbbb059831639a413d0b",
+      "sha256": "a23a95de4056fec5159801f83bec259e311c841269d7cbbb059831639a413d0b",
+      "byteSize": 1977902,
+      "width": 1672,
+      "height": 941,
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-24",
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "checkedAt": "2026-10-24",
+      "pngChunks": [
+        "IHDR",
+        "caBX",
+        "IDAT",
+        "IEND"
+      ],
+      "contentCredentialsPreserved": true,
+      "caption": "AI生成示意图：显微镜、芯片与封闭样本盒表现人工智能和生物安全研究，非英国AI生物安全实验室实景。",
+      "deliveryDerivatives": {
+        "status": "Expected from the existing site build; not yet generated or validated by media preparation.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates full-frame proportional WebP renditions; JPEG masters also receive AVIF renditions. PNG body renditions use full-size lossless WebP. These delivery files are distinct from the pixel-identical local master.",
+        "license": "Generated editorial illustration",
+        "licenseScope": "The image and its delivery versions only; no licence claim for article text or the site as a whole."
+      }
+    },
+    {
+      "id": "oil-tanker-2026-10-24",
+      "article": "oil-prices-supply-risk-2026-10-24",
+      "filename": "oil-tanker.jpg",
+      "localPath": "/news-media/2026-10-24/oil-tanker.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "Euronav tanker on the Saint Lawrence at Quebec City.jpg",
+      "creator": "Wilfredor",
+      "photographer": "Wilfredor",
+      "date": "2022-11-30",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg/3840px-Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "rightsEvidence": "Source-served 3840px size link on exact Commons asset page followed. Original and this rendition each visually inspected; full scene and whole tanker retained. Original SHA-1 verification remains in original record.",
+      "rightsReverifiedAt": "2026-10-24",
+      "sourceImageType": "Source-served Wikimedia 3840px resized rendition",
+      "eventEvidence": false,
+      "coverAllowed": false,
+      "bodyAllowed": true,
+      "reuseDecision": "Separately selected archival documentary image. Not an image delivered by the original source task and not evidence of the current news event.",
+      "changes": "The 3840px rendition was supplied by Wikimedia, not resized by us. Only nonessential metadata was removed from the acquired rendition. Its decoded RGB pixels and ICC profile are unchanged. Full original and rendition were visually inspected; full scene retained.",
+      "captions": {
+        "zh-CN": "资料照片：2022年11月30日，加拿大魁北克市圣劳伦斯河上的Euronav原油油轮。摄影：Wilfredor。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+        "zh-TW": "資料照片：2022年11月30日，加拿大魁北克市聖勞倫斯河上的Euronav原油油輪。攝影：Wilfredor。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg)；[CC0 1.0公共領域貢獻](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+        "en": "Archive photograph: a Euronav crude-oil tanker on the Saint Lawrence at Quebec City, Canada, November 30, 2022. Photograph by Wilfredor. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg); [CC0 1.0 public-domain dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).",
+        "ru": "Архивное фото: нефтяной танкер Euronav на реке Святого Лаврентия у города Квебек, Канада, 30 ноября 2022 года. Автор: Wilfredor. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg); [передано в общественное достояние по CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).",
+        "fr": "Photo d’archives : un pétrolier de brut Euronav sur le Saint-Laurent à Québec, au Canada, le 30 novembre 2022. Photographie : Wilfredor. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg) ; [dédiée au domaine public sous CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)."
+      },
+      "alts": {
+        "zh-CN": "2022年11月30日加拿大魁北克市圣劳伦斯河上Euronav原油油轮资料照片",
+        "zh-TW": "2022年11月30日加拿大魁北克市聖勞倫斯河上Euronav原油油輪資料照片",
+        "en": "Archival photograph of a Euronav crude-oil tanker on the Saint Lawrence at Quebec City, Canada, November 30, 2022",
+        "ru": "Архивное фото нефтяного танкера Euronav на реке Святого Лаврентия у города Квебек, Канада, 30 ноября 2022 года",
+        "fr": "Photo d’archives d’un pétrolier de brut Euronav sur le Saint-Laurent à Québec, au Canada, le 30 novembre 2022"
+      },
+      "inputSha256": "bdaf8037cb07d62ab31ee04751804d2877fe8b2d846479df2471b9db10088208",
+      "sha256": "078596a864e8de28a6fbe14910ca704b229c16db7d7b6559eca8c170ba05e9ca",
+      "byteSize": 1703525,
+      "width": 3840,
+      "height": 1334,
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-24",
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": true,
+      "removedSegments": [
+        "0xe1"
+      ],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "checkedAt": "2026-10-24",
+      "caption": "资料照片：2022年11月30日，加拿大魁北克市圣劳伦斯河上的Euronav原油油轮。摄影：Wilfredor。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+      "role": "bodySupplemental",
+      "originalSha256": "1ce2e045c54d9586fb83e4868b67c15692600d21ac649a6169348f2af1d0926f",
+      "originalWidth": 14838,
+      "originalHeight": 5155,
+      "originalByteSize": 46030878,
+      "originalSourceURL": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Euronav_tanker_on_the_Saint_Lawrence_at_Quebec_City.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "originalPixelsInspected": true,
+      "editorialLimitation": "Transport context only; this ship, operator and Canadian location are not asserted to be involved in the current supply event. Show complete natural ratio in body, not as a cropped cover.",
+      "deliveryDerivatives": {
+        "status": "Expected from the existing site build; not yet generated or validated by media preparation.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates full-frame proportional WebP renditions; JPEG masters also receive AVIF renditions. PNG body renditions use full-size lossless WebP. These delivery files are distinct from the pixel-identical local master.",
+        "license": "CC0 1.0",
+        "licenseScope": "The image and its delivery versions only; no licence claim for article text or the site as a whole."
+      }
+    }
+  ],
+  "sourceSelectedImages": [
+    {
+      "candidate": 1,
+      "candidateStory": "oil",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "Cushing oil tanks",
+      "suppliedCredit": "Reuters/Drone Base",
+      "suppliedDate": "2020-04-21",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": "https://www.reutersconnect.com/item/crude-oil-storage-tanks-are-seen-in-an-aerial-photograph-at-the-cushing-oil-hub/dGFnOnJldXRlcnMuY29tLDIwMjA6bmV3c21sX1JDMkE5RzlGSFhVSA",
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Independently selected replacement assets have separate provenance and are not described as the original selection.",
+      "additionalEvidence": {
+        "sourceURL": "https://www.reutersconnect.com/item/crude-oil-storage-tanks-are-seen-in-an-aerial-photograph-at-the-cushing-oil-hub/dGFnOnJldXRlcnMuY29tLDIwMjA6bmV3c21sX1JDMkE5RzlGSFhVSA",
+        "actualPageRead": true,
+        "assetId": "RC2A9G9FHXUH",
+        "finding": "Reuters Connect record matches the supplied Cushing subject, Drone Base credit and 21 April 2020 date, lists 4856×3238 and directs users to create an account to license. Caption matching does not prove that this is the exact file selected on the inaccessible article. Original pixels were not obtained and no grant was acquired."
+      }
+    },
+    {
+      "candidate": 2,
+      "candidateStory": "openai",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "OpenAI logo and keyboard",
+      "suppliedCredit": "Reuters/Dado Ruvic",
+      "suppliedDate": "2023-02-21",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Independently selected replacement assets have separate provenance and are not described as the original selection.",
+      "additionalEvidence": {
+        "scope": "Focused public search for supplied OpenAI/21 February 2023 image metadata.",
+        "finding": "A Reuters Connect archival video record referenced a keyboard and OpenAI logo on that date, but a video is not the selected still. It was not treated as an exact match or reuse grant. No exact still asset was established."
+      }
+    },
+    {
+      "candidate": 3,
+      "candidateStory": "cyber",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "Code screens",
+      "suppliedCredit": "Reuters/Dado Ruvic",
+      "suppliedDate": "2026-10-22",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Independently selected replacement assets have separate provenance and are not described as the original selection.",
+      "additionalEvidence": {
+        "scope": "Focused public search for the exact article and supplied Dado Ruvic/22 October 2026 code-screen description.",
+        "finding": "AOL carried the Reuters article but indexed text did not expose exact photo identity. Other stories used different Dado Ruvic illustrations on the same date. Those were not treated as matches, inspected pixels or reuse grants."
+      }
+    },
+    {
+      "candidate": 4,
+      "candidateStory": "uk",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "AI Cyber Security",
+      "suppliedCredit": "Reuters/Dado Ruvic",
+      "suppliedDate": "2026-10-19",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Independently selected replacement assets have separate provenance and are not described as the original selection.",
+      "additionalEvidence": {
+        "sourceURL": "https://finance.yahoo.com/news/uk-government-sets-800-million-230317783.html",
+        "actualPageRead": false,
+        "searchIndexRead": true,
+        "directReadResult": "HTTP 429 Too Many Requests; not retried.",
+        "finding": "Indexed Reuters syndication text describes AI Cyber Security and a keyboard, 19 October 2026, Dado Ruvic/Illustration/File Photo. This only corroborates supplied caption metadata in the index. It does not establish exact image identity, pixels or reuse permission."
+      }
+    },
+    {
+      "candidate": 5,
+      "candidateStory": "fuel",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/business/energy/why-ai-data-centers-are-powering-boom-fuel-cell-demand-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "Indiana AWS datacentre technician",
+      "suppliedCredit": "Reuters/Noah Berger for AWS",
+      "suppliedDate": "2025-10-02",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Independently selected replacement assets have separate provenance and are not described as the original selection.",
+      "additionalEvidence": {
+        "scope": "Focused public search of the supplied story title and photo metadata.",
+        "finding": "No exact downloadable original with an established asset-specific republication grant was identified in this bounded check. No broader claim about all Reuters or company photographs is made."
+      }
+    },
+    {
+      "candidate": 6,
+      "candidateStory": "amex",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/business/american-express-raises-2026-profit-forecast-affluent-customers-keep-spending-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "American Express credit card",
+      "suppliedCredit": "Reuters/Dado Ruvic",
+      "suppliedDate": "2026-07-17",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Independently selected replacement assets have separate provenance and are not described as the original selection.",
+      "additionalEvidence": {
+        "scope": "Focused public search of the supplied story title and photo metadata.",
+        "finding": "No exact downloadable original with an established asset-specific republication grant was identified in this bounded check. No broader claim about all Reuters or company photographs is made."
+      }
+    },
+    {
+      "candidate": 7,
+      "candidateStory": "eu-trade",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/world/china/eu-ministers-vow-tackle-china-shock-20-through-talks-with-beijing-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "Commissioner Maroš Šefčovič in Beijing",
+      "suppliedCredit": "Reuters/Florence Lo",
+      "suppliedDate": "2026-10-09",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Article deferred for insufficient independent factual verification; no replacement prepared. The individual original read, pixel and rights gaps remain recorded.",
+      "additionalEvidence": {
+        "scope": "Article-title search surfaced MarketScreener Reuters syndication.",
+        "finding": "Syndicated article text is not image clearance. Exact photo, full pixels and licence were not established."
+      }
+    },
+    {
+      "candidate": 8,
+      "candidateStory": "byd",
+      "sourceSelected": true,
+      "sourcePageURL": "https://www.reuters.com/world/asia-pacific/us-military-bans-byd-vehicles-strategic-air-base-japan-2026-10-23/",
+      "originalURL": null,
+      "sourceDeliveryDescription": "BYD logo in Paris",
+      "suppliedCredit": "Reuters/Benoit Tessier",
+      "suppliedDate": "2026-10-12",
+      "suppliedMetadataVerified": false,
+      "creator": null,
+      "date": null,
+      "sourcePageActualRead": {
+        "status": "failed_non_retryable",
+        "evidenceOrigin": "Earlier actual web-open attempt reported in the publication handoff. Not repeated by this media preparation.",
+        "result": "The Reuters article could not be read through that attempt; article page contents and exact selected-image URL were not recovered."
+      },
+      "originalDownload": {
+        "status": "not_acquired",
+        "reason": "No original photo bytes or direct photo file were delivered, and the failed article read did not resolve the exact selected original."
+      },
+      "localOriginalAvailable": false,
+      "pixelsInspected": false,
+      "license": null,
+      "rightsEvidenceURL": null,
+      "licensingTermsURL": "https://www.reutersconnect.com/plans-and-pricing",
+      "rightsCheckedAt": "2026-10-24",
+      "rightsStatus": "No asset-specific republication grant established. This is an unresolved rights gap, not a finding that no licence exists and not a rights denial.",
+      "decision": "Not adopted. Candidate skipped under the editorial topic boundary for sensitive military/political issues. Exact photo, full pixels and individual republication rights were not established; no replacement prepared."
+    }
+  ],
+  "publisherRightsChecks": {
+    "checkedAt": "2026-10-24",
+    "scope": "Bounded checks of actual relevant source pages and a small set of reusable-photo candidates, not an exhaustive publisher-wide search.",
+    "publisherChecks": [
+      {
+        "publisher": "Reuters Connect",
+        "page": "https://www.reutersconnect.com/plans-and-pricing",
+        "actualPageRead": true,
+        "result": "The public plans page describes purchase of individual picture licences. It is not a public reuse grant, and no photo licence was purchased or otherwise obtained. Each original candidate retains its separate unresolved rights record."
+      },
+      {
+        "publisher": "OpenAI",
+        "page": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+        "actualPageRead": true,
+        "inspection": "Actual article text and DOM image inventory read in cloud browser. The article image is a logical-sandbox diagram; remaining image elements were related-story cover artwork. Image bytes were not downloaded.",
+        "mediaObserved": [
+          {
+            "type": "diagram",
+            "url": "https://images.ctfassets.net/kftzwdyauwt9/37XEjb1cjzKzPBG9970uRD/beaf4ede49321fe288c09b9771e5da3a/securing-our-frontier-model-training-environment-diagram-desktop-light.png?w=3840&q=90&fm=webp",
+            "pixelsInspected": false
+          }
+        ],
+        "result": "No documentary photograph was identified on the actual announcement page. No asset-specific reuse grant was established for the diagram; it was not copied or redrawn. A separately generated conceptual illustration is used. No conclusion is made about all OpenAI imagery."
+      },
+      {
+        "publisher": "OpenAI",
+        "page": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "browserRedirectURL": "https://openai.com/zh-Hans-CN/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "actualPageRead": true,
+        "inspection": "Actual article read in web search and cloud browser; complete main image inventory contained three related-story artwork cards, not incident photos.",
+        "result": "No documentary incident photograph identified on this actual primary-source article. Generic public-domain cybersecurity event photographs are considered separately below. A clearly labeled incident-response concept illustration was chosen rather than misrepresenting a past meeting as an incident scene.",
+        "originalPixelsInspected": false
+      },
+      {
+        "publisher": "UK Cabinet Office",
+        "page": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+        "actualPageRead": true,
+        "inspection": "Actual announcement and complete image inventory read in cloud browser. One 300×195 asset observed.",
+        "mediaObserved": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/5a37da9ded915d5a5f965f9c/s300_cabinet-office.jpg",
+            "width": 300,
+            "height": 195,
+            "pixelsInspected": false
+          }
+        ],
+        "result": "The actual announcement image inventory exposed only a 300×195 Cabinet Office-named asset; no documentary photograph of the announced AI lab was established. Its full pixels, photographer and capture date were not verified, so it was not selected as a cover. The site-wide OGL footer was not treated as automatic asset-specific clearance. A labeled conceptual illustration avoids implying a verified physical laboratory scene."
+      },
+      {
+        "publisher": "Wikimedia Commons / Federal Communications Commission",
+        "page": "https://commons.wikimedia.org/wiki/File:Cybersecurity_5-16_(5734039973).jpg",
+        "actualPageRead": true,
+        "result": "Verified file-page PD-US-FCC notice, but subject is an old small-business cybersecurity roundtable with inconsistent date fields (2011 description versus 2009 camera date). Not the present incident-response subject; no full pixel download or adoption. Rejected for relevance and date ambiguity, not lack of an open licence."
+      },
+      {
+        "publisher": "Wikimedia Commons / NIAID",
+        "page": "https://commons.wikimedia.org/wiki/File:NIAID_Integrated_Research_Facility_-_Class_III_Biosafety_Cabinet.jpg",
+        "actualPageRead": true,
+        "result": "File page describes a still from a US NIAID laboratory video, unknown date, with public-domain rationale and a warning that NIAID can also use commercial images. The pictured US BSL-4 cabinet is not the new UK AI institution; it was not downloaded or adopted. Rejected for relevance and incomplete per-image provenance, not a blanket copyright conclusion."
+      },
+      {
+        "publisher": "Bloom Energy / Wikimedia Commons",
+        "page": "https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers.jpg",
+        "actualPageRead": true,
+        "result": "Asset-specific CC BY 2.0 grant, Jakub Mosur attribution and Commons historical Flickr review established. Original bytes visually inspected and adopted as a dated 2010 archival equipment photo. This grant is separate from any current Bloom press-kit terms."
+      },
+      {
+        "publisher": "Wikimedia Commons",
+        "page": "https://commons.wikimedia.org/wiki/File:Preemraff_Lysekil_oil_refinery_on_a_foggy_night.jpg",
+        "actualPageRead": true,
+        "originalPixelsInspected": true,
+        "result": "W.carter, 29 December 2018, CC0 photo acquired and inspected. Not adopted because the very dark foggy night composition is less legible as a cover than the selected oil tanks. A rights-cleared alternative is not misreported as a rights failure."
+      }
+    ]
+  },
+  "note": "Four individually verified archival photographs, including one body-only tanker rendition, and three clearly labeled AI-generated editorial illustrations. All seven are independently selected replacements. Six covers must reuse their identical files in corresponding article bodies. No original Reuters bytes were delivered or acquired. Original-page read failures, missing pixels and unestablished rights are separately audited. No data charts were generated or recreated."
+}
