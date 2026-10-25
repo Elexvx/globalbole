@@ -1,5 +1,5 @@
 ---
-title: "Kimi與模型測試的邊界"
+title: "Kimi K3.1 Pro網路安全基準測試：不等於真實攻擊成功率"
 slug: "kimi-cyber-risk-reduction-2026-10-25"
 translationKey: "kimi-cyber-risk-reduction-2026-10-25"
 issue: "2026-10-25"
@@ -8,7 +8,9 @@ category: "technology"
 author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-25"
-description: "基準測試能夠顯示干預改變了模型表現，卻不能單獨證明部署安全。真正需要追問的是評估條件、存取權限，以及發布後的責任如何落實。"
+publishedAt: "2026-10-25T07:24:29.538Z"
+updatedAt: "2026-10-25"
+description: "受控網路安全基準測試不等於真實攻擊成功率，也不能單獨證明部署安全。本文區分評估條件、模型能力、存取權限與上線後的風險管理。"
 cover: "/news-media/2026-10-25/kimi-cyber-risk-concept.png"
 coverAlt: "AI生成示意圖：發光的抽象運算核心、分層保護結構與電路連接"
 tags: ["人工智慧", "網路安全", "AI安全"]

@@ -35,10 +35,12 @@ export function checkTagExport(articles) {
       assert.equal(hasAlternate, expected.length > 0 && hasArticles, `${route}: only populated language alternatives`);
     }
     const graph = [...html.matchAll(/<script type="application\/ld\+json">([^<]*)<\/script>/g)].flatMap(match => JSON.parse(match[1])['@graph'] || []);
-    const page = graph.find(item => item['@type'] === 'WebPage');
+    const page = graph.find(item => item['@type'] === 'CollectionPage');
     const breadcrumb = graph.find(item => item['@type'] === 'BreadcrumbList');
     assert.equal(page?.name, label, `${route}: readable structured-data title`);
     assert.equal(page?.url, canonical, `${route}: structured-data canonical`);
+    assert.equal(page?.mainEntity?.numberOfItems, expected.length, `${route}: exact CollectionPage inventory`);
+    assert.deepEqual(page.mainEntity.itemListElement.map(item => decodeURIComponent(new URL(item.url).pathname)).sort(), expected, `${route}: schema lists exactly the visible articles`);
     assert.equal(breadcrumb?.itemListElement.at(-1).name, label, `${route}: readable breadcrumb`);
     assert.equal(sitemapURLs.has(canonical), expected.length > 0, `${route}: sitemap contains only languages with matching articles`);
     count++;

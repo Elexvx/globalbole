@@ -1,0 +1,11 @@
+export type PublicationDates = { date: string; publishedAt?: string; updatedAt?: string };
+export function isCalendarDate(value: unknown): value is string;
+export function isPublicationTimestamp(value: unknown): value is string;
+export function validateArticleDates(article: { date?: unknown; publishedAt?: unknown; updatedAt?: unknown }, options?: { now?: number }): void;
+export function articlePublishedDate(article: PublicationDates): string;
+export function articleModifiedDate(article: PublicationDates): string | undefined;
+export function articleLastModified(article: PublicationDates): string;
+export function publicationTimeLabel(article: PublicationDates): string | undefined;
+export function latestContentDate(values: readonly (string | undefined)[]): string | undefined;
+export function collectionLastModified(articles: readonly PublicationDates[]): string | undefined;
+export function rssPublicationDate(article: PublicationDates): string | undefined;

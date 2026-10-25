@@ -5,6 +5,10 @@ import { translatedTagSlug } from "./language-routes.mjs";
 import { siteUrl } from "./site-url";
 import { positioning, brandNames, brandAliases, siteName as publisherName } from "./site-brand";
 import { homeSeo } from "./home-seo.mjs";
+import { articleCitations } from "./article-citations.mjs";
+import { articlePublishedDate } from "./publication-dates.mjs";
+import { editorialPages, PUBLIC_CONTACT_EMAIL, type InfoPage } from "./editorial-policy";
+import { tagDescription } from "./tag-descriptions.mjs";
 import messages from "./messages.json";
 import { decodeTagRouteSegment, tagLabel, tagMatchesSlug } from "./tag-routes.mjs";
 
@@ -15,21 +19,11 @@ const articleLocale = (article: Story): Locale => isLocale(article.lang) ? artic
 export const localizedCanonicalPath = (locale: Locale, path: string[] = []) =>
   locale === "zh-CN" && !path.length ? "/" : `/${locale}/${path.length ? path.join("/") + "/" : ""}`;
 
-function articleCitations(markdown = "") {
-  // Only source notes already visible in the article. Do not invent authority,
-  // extract image licenses as reporting sources, or add unverified references.
-  const citations = new Map<string, { "@type": string; name: string; url: string }>();
-  for (const footnote of markdown.matchAll(/^\[\^[^\]]+\]:\s*(.+)$/gm)) {
-    for (const link of footnote[1].matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g)) {
-      citations.set(link[2], { "@type": "CreativeWork", name: link[1], url: link[2] });
-    }
-  }
-  return [...citations.values()];
-}
-
 export function routeSeo(locale: Locale, path: string[] = []) {
   if (path[0] === "tag" && path[1]) path = [path[0], decodeTagRouteSegment(path[1]), ...path.slice(2)];
   const siteName = brandNames[locale];
+  const infoPage = ["about", "authors", "contact", "privacy"].includes(path[0]) ? editorialPages[locale][path[0] as InfoPage] : undefined;
+  const tagArticles = path[0] === "tag" ? stories.filter(story => story.lang === locale && story.tags.some(tag => tagMatchesSlug(tag, path[1]))) : [];
   const article = path[0] === "post" ? stories.find(story => story.slug === path[1]) : undefined;
   const contentLocale = article ? articleLocale(article) : locale;
   const canonicalPath = article ? localizedCanonicalPath(contentLocale, ["post", article.slug]) : localizedCanonicalPath(locale, path);
@@ -39,8 +33,8 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   const section = path[0] === "category" ? translate(category?.label || path[1], locale)
     : path[0] === "tag" ? tagLabel(path[1], stories.flatMap(story => story.tags))
     : translate(labels[path[0]] || "", locale);
-  const title = article?.title || (!path.length ? homeSeo[locale].title : `${section}${path[1] && path[0] !== "category" && path[0] !== "tag" ? ` · ${path[1]}` : ""}`);
-  const description = article?.dek || (!path.length ? homeSeo[locale].description : path[0] === "category" && category
+  const title = article?.title || infoPage?.title || (!path.length ? homeSeo[locale].title : `${section}${path[1] && path[0] !== "category" && path[0] !== "tag" ? ` · ${path[1]}` : ""}`);
+  const description = article?.dek || infoPage?.description || (path[0] === "tag" ? tagDescription(locale, section, tagArticles) : !path.length ? homeSeo[locale].description : path[0] === "category" && category
     ? translate(category.description, locale)
     : `${siteName} · ${positioning[locale]}${section ? ` · ${section}` : ""}`);
   const metadataTitle = article?.seoTitle?.trim() || title;
@@ -69,7 +63,7 @@ export function routeSeo(locale: Locale, path: string[] = []) {
     title: { absolute: documentTitle }, description: metadataDescription,
     alternates: { canonical, languages: alternates, types: { "application/rss+xml": absolute(`/feeds/${contentLocale}.xml`) } },
     robots: { index, follow: true, googleBot: { index, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
-    openGraph: { title: metadataTitle, description: metadataDescription, url: canonical, siteName, locale: contentLocale.replace("-", "_"), type: article ? "article" : "website", images, ...(article ? { publishedTime: article.date, ...(article.updatedAt ? { modifiedTime: article.updatedAt } : {}), authors: [article.author], tags: article.tags } : {}) },
+    openGraph: { title: metadataTitle, description: metadataDescription, url: canonical, siteName, locale: contentLocale.replace("-", "_"), type: article ? "article" : "website", images, ...(article ? { publishedTime: articlePublishedDate(article), ...(article.updatedAt ? { modifiedTime: article.updatedAt } : {}), authors: [article.author], tags: article.tags } : {}) },
     twitter: { card: images ? "summary_large_image" : "summary", title: metadataTitle, description: metadataDescription, images },
   };
 
@@ -78,18 +72,18 @@ export function routeSeo(locale: Locale, path: string[] = []) {
   const pageId = canonical + "#page";
   const articleId = canonical + "#article";
   const page = {
-    "@type": "WebPage", "@id": pageId, url: canonical, name: title, description,
+    "@type": path[0] === "contact" ? "ContactPage" : ["about", "authors"].includes(path[0]) ? "AboutPage" : path[0] === "tag" ? "CollectionPage" : "WebPage", "@id": pageId, url: canonical, name: title, description,
     inLanguage: contentLocale, isPartOf: { "@id": websiteId },
-    ...(article ? { mainEntity: { "@id": articleId } } : {}),
+    ...(article ? { mainEntity: { "@id": articleId } } : infoPage ? { about: { "@id": publisherId } } : path[0] === "tag" ? { mainEntity: { "@type": "ItemList", numberOfItems: tagArticles.length, itemListElement: [...tagArticles].sort((a,b) => b.date.localeCompare(a.date)).map((story, index) => ({ "@type": "ListItem", position: index + 1, url: absolute(localizedCanonicalPath(locale, ["post", story.slug])), name: story.title })) } } : {}),
   };
   const knownPublisherAuthor = article && Object.values(brandNames).includes(article.author);
   const citations = article ? articleCitations(article.markdown) : [];
   const articleSchema = article ? {
     "@type": "NewsArticle", "@id": articleId, url: canonical,
     headline: article.title, description: article.dek, inLanguage: contentLocale,
-    datePublished: article.date, ...(article.updatedAt ? { dateModified: article.updatedAt } : {}),
+    datePublished: articlePublishedDate(article), ...(article.updatedAt ? { dateModified: article.updatedAt } : {}),
     ...(article.image ? { image: { "@type": "ImageObject", url: absolute(article.image), caption: article.imageAlt } } : {}),
-    author: { "@type": "Organization", name: article.author, ...(knownPublisherAuthor ? { "@id": publisherId, url: absolute("/") } : {}) },
+    author: { "@type": "Organization", name: article.author, ...(knownPublisherAuthor ? { url: absolute(localizedCanonicalPath(contentLocale, ["authors"])) } : {}) },
     publisher: { "@id": publisherId }, mainEntityOfPage: { "@id": pageId },
     articleSection: translate(article.categoryLabel, contentLocale), keywords: article.tags,
     isAccessibleForFree: true, ...(citations.length ? { citation: citations } : {}),
@@ -101,7 +95,7 @@ export function routeSeo(locale: Locale, path: string[] = []) {
     ...(path.length ? [{ name: title, item: canonical }] : []),
   ];
   const graph = [
-    { "@type": "Organization", "@id": publisherId, name: publisherName, alternateName: brandAliases, url: absolute("/") },
+    { "@type": "Organization", "@id": publisherId, name: publisherName, alternateName: brandAliases, url: absolute("/"), email: PUBLIC_CONTACT_EMAIL, contactPoint: { "@type": "ContactPoint", contactType: "editorial, corrections and rights", email: PUBLIC_CONTACT_EMAIL, availableLanguage: locales, url: absolute(localizedCanonicalPath(contentLocale, ["contact"])) }, publishingPrinciples: absolute(localizedCanonicalPath(contentLocale, ["about"])), correctionsPolicy: absolute(localizedCanonicalPath(contentLocale, ["contact"])) },
     { "@type": "WebSite", "@id": websiteId, name: publisherName, alternateName: brandAliases, url: absolute("/"), publisher: { "@id": publisherId }, inLanguage: locales },
     page,
     ...(articleSchema ? [articleSchema] : []),

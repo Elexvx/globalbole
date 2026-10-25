@@ -1,12 +1,13 @@
 "use client";
 
-import { Text } from "@/lib/i18n";
+import { Text, useI18n } from "@/lib/i18n";
 
 
 import Link from "@/components/localized-link";
 import { useParams, useSearchParams } from "next/navigation";
 import { Newsletter, SectionHeading, StoryCard } from "@/components/story-components";
 import { useArticles } from "@/lib/articles";
+import { tagDescription } from "@/lib/tag-descriptions.mjs";
 import { decodeTagRouteSegment, tagLabel, tagMatchesSlug } from "@/lib/tag-routes.mjs";
 
 export default function TagPage() {
@@ -25,6 +26,7 @@ function LegacyTagPage({legacySlug}: {legacySlug: string}) {
 
 function TagResults({slug}: {slug: string}) {
   const { articles, allArticles } = useArticles();
+  const {locale} = useI18n();
   const label = tagLabel(slug, allArticles.flatMap(story => story.tags));
   const matching = articles.filter((story) => story.tags.some((tag) => tagMatchesSlug(tag, slug))).sort((a, b) => b.date.localeCompare(a.date));
 
@@ -34,6 +36,7 @@ function TagResults({slug}: {slug: string}) {
         <div className="border-b-[0.1875rem] border-border-strong pb-7">
           <p className="kicker"><Text value="Tag archive"/></p>
           <h1 className="headline mt-3 font-black ">{label}</h1>
+          <p className="mt-5 max-w-3xl type-body">{tagDescription(locale, label, matching)}</p>
           <p className="mt-6 font-mono type-caption uppercase tracking-[0.12em] text-muted-foreground">{matching.length} <Text value="stories"/> · {label}</p>
         </div>
       </section>

@@ -2,6 +2,7 @@ import { categories, stories } from "@/lib/data";
 import { xmlEscape } from "@/lib/site-url";
 import { locales } from "@/lib/locales";
 import { routeSeo } from "@/lib/seo";
+import { routeLastModified } from "@/lib/sitemap-dates.mjs";
 export const dynamic = "force-static";
 
 export function GET() {
@@ -19,12 +20,12 @@ export function GET() {
       ...articles.map(story => ["post", story.slug]),
     ];
     return paths.map(path => {
-      const article = path[0] === "post" ? articles.find(story => story.slug === path[1]) : undefined;
+      const lastModified = routeLastModified(locale, path, stories);
       const metadata = routeSeo(locale, path).metadata;
       const canonical = String(metadata.alternates!.canonical);
       const alternatives = metadata.alternates?.languages || {};
       return "<url><loc>" + xmlEscape(canonical) + "</loc>" +
-        (article?.updatedAt ? `<lastmod>${xmlEscape(article.updatedAt)}</lastmod>` : "") +
+        (lastModified ? `<lastmod>${xmlEscape(lastModified)}</lastmod>` : "") +
         Object.entries(alternatives).map(([lang, url]) => `<xhtml:link rel="alternate" hreflang="${lang}" href="${xmlEscape(String(url))}"/>`).join("") + "</url>";
     });
   });

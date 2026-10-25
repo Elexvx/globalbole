@@ -915,5 +915,12 @@
     "en": "Filed together",
     "ru": "Связанные материалы",
     "fr": "Articles associés"
+  },
+  "Updated": {
+    "zh-CN": "更新",
+    "zh-TW": "更新",
+    "en": "Updated",
+    "ru": "Обновлено",
+    "fr": "Mis à jour"
   }
 }

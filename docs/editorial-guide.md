@@ -43,6 +43,8 @@ draft: false
 | author | 是 | 作者名称 |
 | authorRole | 否 | 使用当前语言的作者说明；新闻整理稿注明资料整理 |
 | date | 是 | 带引号的 YYYY-MM-DD，不使用 YAML 自动日期类型 |
+| publishedAt | 否 | 只有可核实的原始发布时间才填写，格式为带秒及明确时区的 ISO 8601 字符串，例如 `2026-10-25T07:24:29.538Z`；其自身时区的日期必须与 date 相同，且不能晚于校验时刻。保留已发布的原始时间，不以重新构建时间替换 |
+| updatedAt | 否 | 真实编辑修订日，带引号的 YYYY-MM-DD，不能早于 date；未发生实际修订不填写。不用于替换原始发布时间 |
 | description | 是 | 当前语言的摘要 |
 | cover | 是 | public/ 中的合适图片，发布稿必填；优先获准转载原图，缺图时用标注的AI示意图或相关授权照片 |
 | coverAlt | 是 | 当前语言的准确图片说明；生成图片须标明AI示意图，草稿的 cover 与 coverAlt 可同时为空 |
@@ -51,6 +53,10 @@ draft: false
 | draft | 否 | true 不进入网站；默认 false |
 
 期号不等于发布日期。例如 2026-09-02 表示九月第二期，文章可以在九月八日发布。
+
+历史稿件若只知道刊发日，继续只填写 `date`，不能补造午夜、中午或当前部署时刻。HTML 的 `<time>`、Open Graph 和 NewsArticle 共用同一发布日期规则：有可核实 `publishedAt` 时保留精确时间，否则保留日精度。RSS 2.0 的文章 `pubDate` 是可选字段；只有日期而没有时间的稿件省略它，保留原有链接和 GUID，不因此重新发布文章。详见 [RSS 2.0 规范](https://www.rssboard.org/rss-specification#ltpubdategtSubelementOfLtitemgt)。
+
+Sitemap 的文章 `lastmod` 按真实 `updatedAt`、原始 `publishedAt`、`date` 顺序取值。集合页从对应内容计算最新变化；同日存在只精确到日的修订时，不声称较早的精确发布时间就是最终修改时间。信息页与标签说明的真实文字修订单独记录在 `lib/page-revisions.mjs`，不得随构建或部署自动刷新。
 
 ## 选题边界与长文深度
 

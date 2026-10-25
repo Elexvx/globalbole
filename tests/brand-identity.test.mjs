@@ -26,7 +26,7 @@ test('descriptions and About introductions naturally identify the same five-lang
     const shortName = locale === 'zh-CN' ? '全球伯乐' : locale === 'zh-TW' ? '全球伯樂' : 'Global Bole News';
     assert.ok(homeSeo[locale].description.startsWith(shortName));
   }
-  const info = readFileSync('components/info-view.tsx', 'utf8');
+  const info = readFileSync('lib/editorial-policy.ts', 'utf8');
   assert.equal((info.match(/GlobalBole/g) || []).length, 5);
   assert.doesNotMatch(info, /当前内容为功能测试示例|構建時自動生成|build-time demonstration/);
 });

@@ -1,5 +1,5 @@
 ---
-title: "奧迪投資：效益如何衡量"
+title: "奧迪擬建美國佐治亞州工廠"
 slug: "audi-georgia-production-plan-2026-10-25"
 translationKey: "audi-georgia-production-plan-2026-10-25"
 issue: "2026-10-25"
@@ -8,7 +8,9 @@ category: "business"
 author: "全球伯樂 News"
 authorRole: "資料整理"
 date: "2026-10-25"
-description: "大型工廠公告同時涉及投資、職位和產能。理解其地區意義，需要區分建設節點、實際產出、附加價值，以及最終受益的人群。"
+publishedAt: "2026-10-25T07:24:29.538Z"
+updatedAt: "2026-10-25"
+description: "建廠計畫中的投資、職位和年產能不是已實現的經濟成果。評估地區效益，需要分別核對建設進度、實際招聘、投產表現與供應鏈貢獻。"
 cover: "/news-media/2026-10-25/audi-q9-us.jpg"
 coverAlt: "奧迪Q9車頭與背景中的美國國旗，奧迪官方圖片"
 tags: ["汽車產業", "製造業", "就業"]

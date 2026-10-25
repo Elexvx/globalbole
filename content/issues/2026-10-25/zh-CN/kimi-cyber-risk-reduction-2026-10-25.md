@@ -1,5 +1,5 @@
 ---
-title: "Kimi与模型测试的边界"
+title: "Kimi K3.1 Pro网络安全基准测试：不等于真实攻击成功率"
 slug: "kimi-cyber-risk-reduction-2026-10-25"
 translationKey: "kimi-cyber-risk-reduction-2026-10-25"
 issue: "2026-10-25"
@@ -8,7 +8,9 @@ category: "technology"
 author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-10-25"
-description: "基准测试能够显示干预改变了模型表现，却不能单独证明部署安全。真正需要追问的是评估条件、访问权限，以及发布后的责任如何落实。"
+publishedAt: "2026-10-25T07:24:29.538Z"
+updatedAt: "2026-10-25"
+description: "受控网络安全基准测试不等于真实攻击成功率，也不能单独证明部署安全。本文区分评估条件、模型能力、访问权限与上线后的风险管理。"
 cover: "/news-media/2026-10-25/kimi-cyber-risk-concept.png"
 coverAlt: "AI生成示意图：发光的抽象计算核心、分层保护结构与电路连接"
 tags: ["人工智能", "网络安全", "AI安全"]

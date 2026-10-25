@@ -11,6 +11,7 @@ import Link from "@/components/localized-link";
 import { useState } from "react";
 import type { Story } from "@/lib/data";
 import { responsiveImageProps, responsiveAvifSourceProps } from "@/lib/image-assets";
+import { articlePublishedDate } from "@/lib/publication-dates.mjs";
 
 export function SectionHeading({
   eyebrow,
@@ -49,7 +50,7 @@ export function StoryMeta({ story, compact = false }: { story: Story; compact?: 
     <div className="flex flex-wrap items-center gap-x-3 gap-y-1 font-mono type-caption uppercase tracking-[0.1em] text-muted-foreground">
       <span className="text-accent">{story.categoryLabel}</span>
       <span>/</span>
-      <span>{story.displayDate}</span>
+      <time dateTime={articlePublishedDate(story)}>{story.displayDate}</time>
       {!compact ? (
         <>
           <span>/</span>
@@ -80,7 +81,7 @@ export function StoryCard({
           <div className="min-w-0">
             <Heading className="headline font-extrabold leading-[1.05] tracking-[-0.035em]">{story.title}</Heading>
             <div className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5 font-mono type-caption uppercase tracking-[0.1em] text-muted-foreground">
-              <span>{story.displayDate}</span>
+              <time dateTime={articlePublishedDate(story)}>{story.displayDate}</time>
               <span>/</span>
               <span className="text-accent">{story.categoryLabel}</span>
             </div>
@@ -103,7 +104,7 @@ export function StoryCard({
           <Heading className="headline mt-3 font-black leading-[0.96] tracking-[-0.065em]">{story.title}</Heading>
           <p className="dek mt-4 max-w-2xl text-base leading-7">{story.dek}</p>
           <p className="mt-5 font-mono type-caption uppercase tracking-[0.1em] text-muted-foreground">
-            <span className="font-sans font-bold text-foreground"><Text value="By"/> {story.author}</span> / {story.displayDate} / {story.readTime} <Text value="min"/>
+            <span className="font-sans font-bold text-foreground"><Text value="By"/> {story.author}</span> / <time dateTime={articlePublishedDate(story)}>{story.displayDate}</time> / {story.readTime} <Text value="min"/>
           </p>
         </div>
       </Link>

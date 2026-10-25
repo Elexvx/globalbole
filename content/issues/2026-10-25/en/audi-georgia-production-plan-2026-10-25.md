@@ -1,5 +1,5 @@
 ---
-title: "Audi: measuring an industrial promise"
+title: "Audi plans US factory in Georgia"
 slug: "audi-georgia-production-plan-2026-10-25"
 translationKey: "audi-georgia-production-plan-2026-10-25"
 issue: "2026-10-25"
@@ -8,7 +8,9 @@ category: "business"
 author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-25"
-description: "A major factory announcement combines investment, jobs and capacity. Understanding its regional significance requires separating construction milestones, actual output, value added and the people who benefit."
+publishedAt: "2026-10-25T07:24:29.538Z"
+updatedAt: "2026-10-25"
+description: "A factory plan is not achieved output or employment. Assessing its regional benefits means separating investment, capacity, actual hiring and local supply-chain contributions."
 cover: "/news-media/2026-10-25/audi-q9-us.jpg"
 coverAlt: "Official Audi image of a Q9 front end with a U.S. flag in the background"
 tags: ["Automotive industry", "Manufacturing", "Employment"]

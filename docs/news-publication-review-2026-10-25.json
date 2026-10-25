@@ -109,5 +109,46 @@
       "oldCanonicalAndLegacyUrl": "Rendered successfully"
     },
     "preservation": "All 425 prior article files and all 425 public article records are unchanged; prior publication batches and strict withdrawal records preserved."
+  },
+  "metadataRevision": {
+    "date": "2026-10-25",
+    "articles": [
+      "audi-georgia-production-plan-2026-10-25",
+      "kimi-cyber-risk-reduction-2026-10-25"
+    ],
+    "languages": [
+      "zh-CN",
+      "zh-TW",
+      "en",
+      "ru",
+      "fr"
+    ],
+    "scope": "Titles and descriptions only for Audi and Kimi; verified publishedAt added to all 25 editions; updatedAt added only to the ten editions with revised titles and descriptions.",
+    "publicationTimestamp": {
+      "publishedAt": "2026-10-25T07:24:29.538Z",
+      "deploymentId": "dpl_B9DjhyKqQQfzpKAxc1i1K5hZJ64x",
+      "readyAtEpochMs": 1792913069538,
+      "scope": "All 25 editions in the original October 25 publication",
+      "basis": "Verified READY timestamp of the original production deployment; not the timestamp of this metadata revision."
+    },
+    "preserved": [
+      "Canonical slugs",
+      "Translation keys",
+      "Article bodies",
+      "Source links",
+      "Media and image provenance",
+      "Original publication dates"
+    ],
+    "sourceUseAudit": "docs/news-media/2026-10-25/source-use-audit.json",
+    "verificationStatus": "Local metadata, source-use, content and multilingual regression checks passed. Full integrated build, export and production verification remain pending; original prepublication checks above are historical.",
+    "localChecks": {
+      "tests": {
+        "passed": 13,
+        "failed": 0,
+        "command": "node --test tests/multilingual.test.mjs tests/content.test.mjs tests/oct25-publication.test.mjs"
+      },
+      "preservation": "Compared all 25 manuscript bodies and all frontmatter outside title, description, publishedAt and updatedAt against the base commit; unchanged. Original publication-log batches and revision history unchanged; one revision appended.",
+      "diffWhitespace": "git diff --check passed"
+    }
   }
 }

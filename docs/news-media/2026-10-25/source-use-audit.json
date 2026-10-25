@@ -33,7 +33,15 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 34,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition.",
+                "title_counted_segments": [
+                  "奥迪",
+                  "拟建",
+                  "美国",
+                  "佐治亚州",
+                  "工厂"
+                ],
+                "title_basis": "The entire event-specific factory-plan headline is charged to the Audi release. No investment, job or capacity numbers are repeated in metadata."
               },
               "zh-TW": {
                 "title_words": 5,
@@ -43,29 +51,17 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 34,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition.",
+                "title_counted_segments": [
+                  "奧迪",
+                  "擬建",
+                  "美國",
+                  "佐治亞州",
+                  "工廠"
+                ],
+                "title_basis": "The entire event-specific factory-plan headline is charged to the Audi release. No investment, job or capacity numbers are repeated in metadata."
               },
               "en": {
-                "title_words": 5,
-                "description_words": 0,
-                "lead_words": 18,
-                "source_note_words_including_original_title": 18,
-                "repeated_reference_words": 0,
-                "segmentation_margin": 2,
-                "total": 43,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
-              },
-              "ru": {
-                "title_words": 5,
-                "description_words": 0,
-                "lead_words": 16,
-                "source_note_words_including_original_title": 18,
-                "repeated_reference_words": 0,
-                "segmentation_margin": 2,
-                "total": 41,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
-              },
-              "fr": {
                 "title_words": 6,
                 "description_words": 0,
                 "lead_words": 18,
@@ -73,10 +69,58 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 44,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition.",
+                "title_counted_segments": [
+                  "Audi",
+                  "plans",
+                  "US",
+                  "factory",
+                  "in",
+                  "Georgia"
+                ],
+                "title_basis": "The entire event-specific factory-plan headline is charged to the Audi release. No investment, job or capacity numbers are repeated in metadata."
+              },
+              "ru": {
+                "title_words": 6,
+                "description_words": 0,
+                "lead_words": 16,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 42,
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition.",
+                "title_counted_segments": [
+                  "Audi",
+                  "планирует",
+                  "завод",
+                  "в",
+                  "Джорджии",
+                  "США"
+                ],
+                "title_basis": "The entire event-specific factory-plan headline is charged to the Audi release. No investment, job or capacity numbers are repeated in metadata."
+              },
+              "fr": {
+                "title_words": 7,
+                "description_words": 0,
+                "lead_words": 18,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 45,
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition.",
+                "title_counted_segments": [
+                  "Audi",
+                  "prévoit",
+                  "une",
+                  "usine",
+                  "en",
+                  "Géorgie",
+                  "États-Unis"
+                ],
+                "title_basis": "The entire event-specific factory-plan headline is charged to the Audi release. No investment, job or capacity numbers are repeated in metadata."
               }
             },
-            "derived_words_all_five_editions": 196,
+            "derived_words_all_five_editions": 199,
             "facts_used": [
               "Planned first US factory; annual capacity up to 200,000."
             ],
@@ -98,7 +142,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 34,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition."
               },
               "zh-TW": {
                 "title_words": 0,
@@ -108,7 +152,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 34,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition."
               },
               "en": {
                 "title_words": 0,
@@ -118,7 +162,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 37,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition."
               },
               "ru": {
                 "title_words": 0,
@@ -128,7 +172,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 39,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition."
               },
               "fr": {
                 "title_words": 0,
@@ -138,7 +182,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 45,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "Generic distinction between factory plans and achieved output or employment; original editorial analysis supported by Census, BEA and BLS concepts, with no new project-specific claim or numerical repetition."
               }
             },
             "derived_words_all_five_editions": 189,
@@ -215,6 +259,32 @@
             "en": 5,
             "ru": 5,
             "fr": 5
+          }
+        },
+        "metadata_revision": {
+          "date": "2026-10-25",
+          "scope": "Event-specific title and analytical description; body, source notes and media unchanged.",
+          "title_and_description": {
+            "zh-CN": {
+              "title": "奥迪拟建美国佐治亚州工厂",
+              "description": "建厂计划中的投资、岗位和年产能不是已实现的经济成果。评估地区效益，需要分别核对建设进度、实际招聘、投产表现与供应链贡献。"
+            },
+            "zh-TW": {
+              "title": "奧迪擬建美國佐治亞州工廠",
+              "description": "建廠計畫中的投資、職位和年產能不是已實現的經濟成果。評估地區效益，需要分別核對建設進度、實際招聘、投產表現與供應鏈貢獻。"
+            },
+            "en": {
+              "title": "Audi plans US factory in Georgia",
+              "description": "A factory plan is not achieved output or employment. Assessing its regional benefits means separating investment, capacity, actual hiring and local supply-chain contributions."
+            },
+            "ru": {
+              "title": "Audi планирует завод в Джорджии, США",
+              "description": "План завода не равен достигнутому выпуску или занятости. Региональную отдачу нужно оценивать по инвестициям, мощности, фактическому найму и вкладу поставщиков."
+            },
+            "fr": {
+              "title": "Audi prévoit une usine en Géorgie (États-Unis)",
+              "description": "Un projet d’usine ne vaut pas production ou emplois réalisés. Ses retombées régionales exigent de distinguer investissement, capacité, embauches effectives et contribution des fournisseurs."
+            }
           }
         }
       }
@@ -923,7 +993,7 @@
           "ru",
           "fr"
         ],
-        "budget_method": "Latin/Cyrillic visible words counted after removal of markup and URL destinations. Bibliographic full source titles, source notes and repeated named references are included. Chinese uses explicitly recorded manual word segmentation plus a two-word per-edition margin, not whitespace counts. Only the source-dependent Kimi name in each analytical headline is charged to source1; the framing of model-test limits is original analysis rather than a company-source claim. Description and analytical body are separately attributed to federal sources and original reasoning, not commercial announcements. The general mathematical meaning of pass@3 and the limitation on real-world inference are original methodological explanation, not a paraphrase of additional company reporting.",
+        "budget_method": "Latin/Cyrillic visible words counted after removal of markup and URL destinations. Bibliographic full source titles, source notes and repeated named references are included. Chinese uses explicitly recorded manual word segmentation plus a two-word per-edition margin, not whitespace counts. The source-dependent full model name and cybersecurity-benchmark subject in each headline are charged to source1; the distinction from real-world attack rates is original methodological analysis rather than an additional company-source claim. Description and analytical body are separately attributed to federal sources and original reasoning, not commercial announcements. The general mathematical meaning of pass@3 and the limitation on real-world inference are original methodological explanation, not a paraphrase of additional company reporting.",
         "sources": [
           {
             "title": "Introducing Kimi K3.1 Pro",
@@ -934,62 +1004,96 @@
             "budget_all_five_editions": 200,
             "per_language": {
               "zh-CN": {
-                "title_words": 1,
+                "title_words": 5,
                 "description_words": 0,
                 "lead_words": 24,
                 "source_note_words_including_original_title": 6,
                 "repeated_reference_words": 1,
                 "segmentation_margin": 2,
-                "total": 34,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
-                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+                "total": 38,
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated.",
+                "title_basis": "The model name and cybersecurity-benchmark subject are charged to the Kimi release. The distinction from real-world attack rates is methodological explanation grounded in NIST and original analysis, not an additional company-source claim.",
+                "title_counted_segments": [
+                  "Kimi",
+                  "K3.1",
+                  "Pro",
+                  "网络安全",
+                  "基准测试"
+                ]
               },
               "zh-TW": {
-                "title_words": 1,
+                "title_words": 5,
                 "description_words": 0,
                 "lead_words": 24,
                 "source_note_words_including_original_title": 6,
                 "repeated_reference_words": 1,
                 "segmentation_margin": 2,
-                "total": 34,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
-                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+                "total": 38,
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated.",
+                "title_basis": "The model name and cybersecurity-benchmark subject are charged to the Kimi release. The distinction from real-world attack rates is methodological explanation grounded in NIST and original analysis, not an additional company-source claim.",
+                "title_counted_segments": [
+                  "Kimi",
+                  "K3.1",
+                  "Pro",
+                  "網路安全",
+                  "基準測試"
+                ]
               },
               "en": {
-                "title_words": 1,
+                "title_words": 5,
                 "description_words": 0,
                 "lead_words": 20,
                 "source_note_words_including_original_title": 6,
                 "repeated_reference_words": 1,
                 "segmentation_margin": 2,
-                "total": 30,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
-                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+                "total": 34,
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated.",
+                "title_basis": "The model name and cybersecurity-benchmark subject are charged to the Kimi release. The distinction from real-world attack rates is methodological explanation grounded in NIST and original analysis, not an additional company-source claim.",
+                "title_counted_segments": [
+                  "Kimi",
+                  "K3.1",
+                  "Pro",
+                  "cyber",
+                  "benchmarks"
+                ]
               },
               "ru": {
-                "title_words": 1,
+                "title_words": 4,
                 "description_words": 0,
                 "lead_words": 26,
                 "source_note_words_including_original_title": 7,
                 "repeated_reference_words": 1,
                 "segmentation_margin": 2,
-                "total": 37,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
-                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+                "total": 40,
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated.",
+                "title_basis": "The model name and cybersecurity-benchmark subject are charged to the Kimi release. The distinction from real-world attack rates is methodological explanation grounded in NIST and original analysis, not an additional company-source claim.",
+                "title_counted_segments": [
+                  "Kimi",
+                  "K3.1",
+                  "Pro",
+                  "кибертесты"
+                ]
               },
               "fr": {
-                "title_words": 1,
+                "title_words": 5,
                 "description_words": 0,
                 "lead_words": 30,
                 "source_note_words_including_original_title": 7,
                 "repeated_reference_words": 1,
                 "segmentation_margin": 2,
-                "total": 41,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
-                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+                "total": 45,
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated.",
+                "title_basis": "The model name and cybersecurity-benchmark subject are charged to the Kimi release. The distinction from real-world attack rates is methodological explanation grounded in NIST and original analysis, not an additional company-source claim.",
+                "title_counted_segments": [
+                  "Kimi",
+                  "K3.1",
+                  "Pro",
+                  "tests",
+                  "cyber"
+                ]
               }
             },
-            "derived_words_all_five_editions": 176,
+            "derived_words_all_five_editions": 195,
             "facts_used": [
               "Reported reduced internal xdev-bench-hard pass@3 after cyber-related mid-training/RL filtering.",
               "Test provides bug hints and has no hard time or output limits. Numerical scores and predecessor comparison omitted to preserve methodological qualifiers within the cumulative budget."
@@ -1012,7 +1116,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 31,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated."
               },
               "zh-TW": {
                 "title_words": 0,
@@ -1022,7 +1126,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 31,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated."
               },
               "en": {
                 "title_words": 0,
@@ -1032,7 +1136,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 32,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated."
               },
               "ru": {
                 "title_words": 0,
@@ -1042,7 +1146,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 33,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated."
               },
               "fr": {
                 "title_words": 0,
@@ -1052,7 +1156,7 @@
                 "repeated_reference_words": 0,
                 "segmentation_margin": 2,
                 "total": 36,
-                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+                "description_basis": "General controlled-evaluation versus operational-risk distinction and need for access controls, supported by NIST and original methodological explanation. No model-specific score, intervention result or release claim is repeated."
               }
             },
             "derived_words_all_five_editions": 163,
@@ -1112,6 +1216,32 @@
             "ru": 5,
             "fr": 5
           }
+        },
+        "metadata_revision": {
+          "date": "2026-10-25",
+          "scope": "Event-specific title and analytical description; body, source notes and media unchanged.",
+          "title_and_description": {
+            "zh-CN": {
+              "title": "Kimi K3.1 Pro网络安全基准测试：不等于真实攻击成功率",
+              "description": "受控网络安全基准测试不等于真实攻击成功率，也不能单独证明部署安全。本文区分评估条件、模型能力、访问权限与上线后的风险管理。"
+            },
+            "zh-TW": {
+              "title": "Kimi K3.1 Pro網路安全基準測試：不等於真實攻擊成功率",
+              "description": "受控網路安全基準測試不等於真實攻擊成功率，也不能單獨證明部署安全。本文區分評估條件、模型能力、存取權限與上線後的風險管理。"
+            },
+            "en": {
+              "title": "Kimi K3.1 Pro: cyber benchmarks do not measure real-world attack rates",
+              "description": "Controlled cyber benchmarks do not measure real-world attack success or establish deployment safety. Evaluation conditions, access controls and operational risk need separate scrutiny."
+            },
+            "ru": {
+              "title": "Kimi K3.1 Pro: кибертесты не измеряют успех реальных атак",
+              "description": "Контролируемые кибертесты не измеряют успех реальных атак и не доказывают безопасность внедрения. Важны условия оценки, права доступа и управление рисками."
+            },
+            "fr": {
+              "title": "Kimi K3.1 Pro : ce que les tests cyber ne disent pas des attaques réelles",
+              "description": "Les tests cyber contrôlés ne mesurent pas la réussite d’attaques réelles et ne prouvent pas la sûreté du déploiement. Protocole, accès et risques opérationnels restent à examiner."
+            }
+          }
         }
       }
     }
@@ -1119,103 +1249,103 @@
   "finalManuscripts": [
     {
       "path": "content/issues/2026-10-25/en/audi-georgia-production-plan-2026-10-25.md",
-      "sha256": "bde5f50f1c7751bf1d7f6bdec04ca1a974185248dc0a1ed0a0d8f754ccb7b027"
+      "sha256": "47807930ed32299bcb30edb1e4c74cc21a55bfa7f14e19fa676f779b5437f872"
     },
     {
       "path": "content/issues/2026-10-25/en/earnings-fed-week-preview-2026-10-25.md",
-      "sha256": "954b629670230bc7feb5e9876deff048cae2a0ee65fcab1aee6d9d388d0347d5"
+      "sha256": "266be5c5be385937bc325092e96f25ba09d2dd8b0aa68ba3f3f60cf44c542947"
     },
     {
       "path": "content/issues/2026-10-25/en/english-mayor-growth-finance-2026-10-25.md",
-      "sha256": "9c2255824c2f70b7b730f6ba903e84bb03913ba7ef3fffbc6173d83750e8810e"
+      "sha256": "63ff04003d3c933de63a92cd74bd6ca1f882c56a20b06382491dac772f423d43"
     },
     {
       "path": "content/issues/2026-10-25/en/kimi-cyber-risk-reduction-2026-10-25.md",
-      "sha256": "1cb8293c761bd63a375621129386777c779e851f51f7258b76dc0dab5cafedee"
+      "sha256": "c9f968aa3d5ab3f17c8458eec46c9219c6ef1a25cd4f87b86e6ba0359231fae9"
     },
     {
       "path": "content/issues/2026-10-25/en/varopreem-growth-strategy-2026-10-25.md",
-      "sha256": "200076b637c6cfbcab1bccf0057e4143b36a4581ffce90208dad0ab43e47f07c"
+      "sha256": "fde4677be9f68ccaea96b52c44d6d331b3fa28cb1326a8be7bbadd81e0757328"
     },
     {
       "path": "content/issues/2026-10-25/fr/audi-georgia-production-plan-2026-10-25.md",
-      "sha256": "6cf82af22c8018721464fd3dddb577f350663a4a0affcece890fdf28f827e9bb"
+      "sha256": "d026e418cda4b8fbc1de7a519d8cbe63f28a564dccc9fa51e9fb93c0213eb359"
     },
     {
       "path": "content/issues/2026-10-25/fr/earnings-fed-week-preview-2026-10-25.md",
-      "sha256": "c4a386fa128fb2cad19751995e0d36994dc9f533a03386fed144d30a49961773"
+      "sha256": "a785956e6a2cd0b8f9760ef2cc4aff19e3da424658cc76d09e2840b2b4a3da99"
     },
     {
       "path": "content/issues/2026-10-25/fr/english-mayor-growth-finance-2026-10-25.md",
-      "sha256": "a23b00f7607db20acdef2b8704efdb43788d195facab0e63e211a26f35cafd80"
+      "sha256": "5a5c736391b62a579400921f27285be467238805552a61ea8ea47f8803f18156"
     },
     {
       "path": "content/issues/2026-10-25/fr/kimi-cyber-risk-reduction-2026-10-25.md",
-      "sha256": "2cdba00258525debe2d48aa40880691b00a915ad34785d080fa3d760ac09ded9"
+      "sha256": "174e7fa2e3620590557df458b273b3f150aa4c7b82a10e08f17730dbe0ca3b6a"
     },
     {
       "path": "content/issues/2026-10-25/fr/varopreem-growth-strategy-2026-10-25.md",
-      "sha256": "8d09dd91c68e2bb4dbd04f0bdad570783e8ef378d2d8f2a01ad1e7a5062f6442"
+      "sha256": "93a575e7b84bb516c64fa601ce8c8b2019b28dba1a0b4b027c4fda40024fc9b8"
     },
     {
       "path": "content/issues/2026-10-25/ru/audi-georgia-production-plan-2026-10-25.md",
-      "sha256": "0caa7e477e1af845554febe25b6f1f19ec360e809aa1a7e2c72af4ff4ee01c47"
+      "sha256": "8446e657a333cf732fae82e2f59fa669d12fb952cedb395f98e34601d1f008db"
     },
     {
       "path": "content/issues/2026-10-25/ru/earnings-fed-week-preview-2026-10-25.md",
-      "sha256": "74a280eb78c41331e1788b195c5d136c4746ec900f5c179954c164a19e3480c6"
+      "sha256": "58cb606cc244e617bfbb74beccfcfd020a51c5c0227222f1c5eaa88f906ba4ca"
     },
     {
       "path": "content/issues/2026-10-25/ru/english-mayor-growth-finance-2026-10-25.md",
-      "sha256": "284c9545bf78dcd6783761076eba9bb579c14cb90465ea6e827579983333fb08"
+      "sha256": "9093dfcd8cf1215b13c9b4ff42e2f7f29734bd27a9901160301da69c3a936842"
     },
     {
       "path": "content/issues/2026-10-25/ru/kimi-cyber-risk-reduction-2026-10-25.md",
-      "sha256": "3ec1f3e51a17df8b26c8c716e564a1c75c449929f00622754fb66483c835bdd6"
+      "sha256": "a882ee426a5c9fa7c471c120d467a428d8dbc782e2cc0a504e1553939b5c2c67"
     },
     {
       "path": "content/issues/2026-10-25/ru/varopreem-growth-strategy-2026-10-25.md",
-      "sha256": "3ba4a54297edc70b326aefc86fe10754b8a1913577bbfaa59243faf3f09d8f3a"
+      "sha256": "9ff99d89edb423a5e58bb22271eaeaf0544a3f23c343e78a2d2e888eca2f7cfc"
     },
     {
       "path": "content/issues/2026-10-25/zh-CN/audi-georgia-production-plan-2026-10-25.md",
-      "sha256": "d667034ff03f2e37a4ccb6dc8d6023464b88bc5c6d83079b1be1b6b7755d524a"
+      "sha256": "665cd56f7740311517bd0df8afc03666605bfb1141ca6eea68dec7af100d296c"
     },
     {
       "path": "content/issues/2026-10-25/zh-CN/earnings-fed-week-preview-2026-10-25.md",
-      "sha256": "350769316d3a7a7084b963329710bc4f54802cda1cbda0c89a01a0dd11b62a6e"
+      "sha256": "1bf7f27749d0bf9d2ce2088cce06e61e44e3777f8af9db544eee7db01040177d"
     },
     {
       "path": "content/issues/2026-10-25/zh-CN/english-mayor-growth-finance-2026-10-25.md",
-      "sha256": "a74241e2fb91133376f9d7949cf985afabecdf4045e2d6e01217ef8ad65b392a"
+      "sha256": "47aa9ccb2b09d5c46186fcc254dd448150f22a0e83cacfed198417b0a6ed180f"
     },
     {
       "path": "content/issues/2026-10-25/zh-CN/kimi-cyber-risk-reduction-2026-10-25.md",
-      "sha256": "807a8349e9fa411675431ceb052c2cefc366188216b30256b57ca6b56a56457e"
+      "sha256": "4dd51d9b7b597e891c5e78b4c3b68a01cd53b197d033828ea19e51de07c626ff"
     },
     {
       "path": "content/issues/2026-10-25/zh-CN/varopreem-growth-strategy-2026-10-25.md",
-      "sha256": "d000b33600eac2ee825d9b9d30ee316f6de9a1a4af534a68bca173476610eb8f"
+      "sha256": "4894707404391cc1241ae625b915f0b71b26ba27664b8a7b9bfed5f179e41354"
     },
     {
       "path": "content/issues/2026-10-25/zh-TW/audi-georgia-production-plan-2026-10-25.md",
-      "sha256": "a70bd8cf40d2af0999abcd6535a8167d1a4d30959199548a148f97d2f177b600"
+      "sha256": "a196dc681a07bc58f5c5984a6f2209ed23f2b70a7e11b4f294143eaaa014d6df"
     },
     {
       "path": "content/issues/2026-10-25/zh-TW/earnings-fed-week-preview-2026-10-25.md",
-      "sha256": "3193b73efecacd9cff0b296f27886f42dca66e920a221295635963d829e000c8"
+      "sha256": "35f0cfaa0a74f9c56c05285b3c1088f36e9331efe1567279ffcf0e43c7631185"
     },
     {
       "path": "content/issues/2026-10-25/zh-TW/english-mayor-growth-finance-2026-10-25.md",
-      "sha256": "7a863c26a5c85371ea37599b4ca4a186570aced0434233e2aa0092ae199fbf59"
+      "sha256": "9f305acc6aac49fe37024f365ac6e2744f0cd223a077912f0596c2939db002b0"
     },
     {
       "path": "content/issues/2026-10-25/zh-TW/kimi-cyber-risk-reduction-2026-10-25.md",
-      "sha256": "43691c1033fab37579b4adf69344e4deed922bf980630277a09a60ed8c57bc7d"
+      "sha256": "15aedf6795cc3d2d6877fc14cea23c2b4d0f97359db495f56909694f8b930534"
     },
     {
       "path": "content/issues/2026-10-25/zh-TW/varopreem-growth-strategy-2026-10-25.md",
-      "sha256": "fb2aec906771470e9c68286302205bbf471c7f26b7321d5b8f40324fe9000e12"
+      "sha256": "a215cd106e4b05b2f2d8287aeb57aae61915f65cbb6944d5a9c70d1719ccdb60"
     }
   ]
 }

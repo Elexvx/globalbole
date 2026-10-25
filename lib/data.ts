@@ -16,6 +16,7 @@ export type Story = {
   author: string;
   authorRole: string;
   date: string;
+  publishedAt?: string;
   updatedAt?: string;
   displayDate: string;
   readTime: number;

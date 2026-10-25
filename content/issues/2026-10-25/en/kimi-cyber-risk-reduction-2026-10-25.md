@@ -1,5 +1,5 @@
 ---
-title: "Kimi and the limits of model tests"
+title: "Kimi K3.1 Pro: cyber benchmarks do not measure real-world attack rates"
 slug: "kimi-cyber-risk-reduction-2026-10-25"
 translationKey: "kimi-cyber-risk-reduction-2026-10-25"
 issue: "2026-10-25"
@@ -8,7 +8,9 @@ category: "technology"
 author: "Global Bole News"
 authorRole: "Research and compilation"
 date: "2026-10-25"
-description: "A benchmark can show that an intervention changes performance without establishing safety in deployment. The practical questions concern evaluation design, access controls and responsibility after release."
+publishedAt: "2026-10-25T07:24:29.538Z"
+updatedAt: "2026-10-25"
+description: "Controlled cyber benchmarks do not measure real-world attack success or establish deployment safety. Evaluation conditions, access controls and operational risk need separate scrutiny."
 cover: "/news-media/2026-10-25/kimi-cyber-risk-concept.png"
 coverAlt: "AI-generated editorial illustration of a glowing abstract computing core, layered protective structures and circuit connections"
 tags: ["Artificial intelligence", "Cybersecurity", "AI safety"]

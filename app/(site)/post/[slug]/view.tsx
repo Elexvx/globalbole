@@ -15,6 +15,7 @@ import { useI18n } from "@/lib/i18n";
 import { responsiveImageProps } from "@/lib/image-assets";
 import { hasInlineBodyImage } from "@/lib/article-media";
 import { ClientMarkdown } from "@/components/client-markdown";
+import { articlePublishedDate, publicationTimeLabel } from "@/lib/publication-dates.mjs";
 
 export default function PostPage({slugOverride,initialMarkdown,initialLocale,children}: {slugOverride?:string;initialMarkdown?:string;initialLocale?:Locale;children?:ReactNode} = {}) {
   const params = useParams<{ slug: string; path?:string[] }>();
@@ -48,13 +49,14 @@ export default function PostPage({slugOverride,initialMarkdown,initialLocale,chi
         {(story.lang || "en") !== locale ? <p role="status" className="mb-6 rounded-lg border border-border p-4">{t("Translation unavailable")}</p> : null}
         <div className="mx-auto max-w-5xl">
           <Link href={"/category/" + story.category + "/"} className="kicker inline-flex items-center gap-2 underline decoration-accent underline-offset-4">
-            {t(story.categoryLabel)} / {story.displayDate} / {story.readTime} {t("min read")}
+            {t(story.categoryLabel)} / <time dateTime={articlePublishedDate(story)}>{story.displayDate}{story.publishedAt ? ` · ${publicationTimeLabel(story)}` : ""}</time> / {story.readTime} {t("min read")}
           </Link>
+          {story.updatedAt ? <p className="mt-2 type-caption text-muted-foreground">{t("Updated")}: <time dateTime={story.updatedAt}>{story.updatedAt}</time></p> : null}
           <h1 className="headline mt-4 max-w-5xl font-black">{story.title}</h1>
           <p className="dek mt-4 max-w-3xl type-body">{story.dek}</p>
           <div className="mt-5 flex flex-wrap items-center justify-between gap-x-6 gap-y-2 border-y border-border py-3">
             <div className="min-w-0 text-sm leading-6">
-              <p className="font-semibold"><Text value="By"/> {story.author}</p>
+              <p className="font-semibold"><Text value="By"/> <Link href="/authors/" className="underline decoration-accent underline-offset-4">{story.author}</Link></p>
               {story.authorRole ? <p className="type-caption text-muted-foreground">{story.authorRole}</p> : null}
             </div>
             <ShareBar story={story} compact />

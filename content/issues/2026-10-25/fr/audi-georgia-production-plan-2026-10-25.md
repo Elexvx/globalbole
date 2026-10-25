@@ -1,5 +1,5 @@
 ---
-title: "Audi : mesurer les retombées industrielles"
+title: "Audi prévoit une usine en Géorgie (États-Unis)"
 slug: "audi-georgia-production-plan-2026-10-25"
 translationKey: "audi-georgia-production-plan-2026-10-25"
 issue: "2026-10-25"
@@ -8,7 +8,9 @@ category: "business"
 author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-25"
-description: "Une annonce industrielle associe investissement, emplois et capacité. Pour comprendre ses effets régionaux, il faut distinguer les étapes de construction, la production effective, la valeur ajoutée et les bénéficiaires."
+publishedAt: "2026-10-25T07:24:29.538Z"
+updatedAt: "2026-10-25"
+description: "Un projet d’usine ne vaut pas production ou emplois réalisés. Ses retombées régionales exigent de distinguer investissement, capacité, embauches effectives et contribution des fournisseurs."
 cover: "/news-media/2026-10-25/audi-q9-us.jpg"
 coverAlt: "Image officielle de l’avant d’une Audi Q9 avec un drapeau américain en arrière-plan"
 tags: ["Industrie automobile", "Industrie manufacturière", "Emploi"]

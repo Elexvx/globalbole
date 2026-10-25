@@ -1,5 +1,5 @@
 ---
-title: "Kimi et les limites des tests de modèles"
+title: "Kimi K3.1 Pro : ce que les tests cyber ne disent pas des attaques réelles"
 slug: "kimi-cyber-risk-reduction-2026-10-25"
 translationKey: "kimi-cyber-risk-reduction-2026-10-25"
 issue: "2026-10-25"
@@ -8,7 +8,9 @@ category: "technology"
 author: "Global Bole News"
 authorRole: "Compilation des sources"
 date: "2026-10-25"
-description: "Un test peut montrer qu’une intervention modifie les performances sans établir la sûreté du déploiement. Les questions pratiques portent sur le protocole, les droits d’accès et les responsabilités après publication."
+publishedAt: "2026-10-25T07:24:29.538Z"
+updatedAt: "2026-10-25"
+description: "Les tests cyber contrôlés ne mesurent pas la réussite d’attaques réelles et ne prouvent pas la sûreté du déploiement. Protocole, accès et risques opérationnels restent à examiner."
 cover: "/news-media/2026-10-25/kimi-cyber-risk-concept.png"
 coverAlt: "Illustration générée par l’IA d’un noyau informatique abstrait lumineux, de couches protectrices et de connexions électroniques"
 tags: ["Intelligence artificielle", "Cybersécurité", "Sécurité de l’IA"]

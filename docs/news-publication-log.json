@@ -4171,6 +4171,31 @@
       ],
       "audit": "docs/news-media/2026-10-04/ai-accord-repair-2026-10-15.json",
       "note": "Revised five editions and the corresponding background citation in five related editions; retained publication dates, routes and existing photographs. Other source-review findings for the related article remain open."
+    },
+    {
+      "date": "2026-10-25",
+      "type": "seo-metadata-and-publication-time-correction",
+      "issue": "2026-10-25",
+      "articles": [
+        "audi-georgia-production-plan-2026-10-25",
+        "kimi-cyber-risk-reduction-2026-10-25"
+      ],
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "audit": "docs/news-media/2026-10-25/source-use-audit.json",
+      "publicationTimestamp": {
+        "publishedAt": "2026-10-25T07:24:29.538Z",
+        "deploymentId": "dpl_B9DjhyKqQQfzpKAxc1i1K5hZJ64x",
+        "readyAtEpochMs": 1792913069538,
+        "scope": "All 25 editions in the original October 25 publication",
+        "basis": "Verified READY timestamp of the original production deployment; not the timestamp of this metadata revision."
+      },
+      "note": "Clarified Audi factory-plan headlines and Kimi K3.1 Pro cybersecurity-benchmark limits across five languages. Only these ten metadata-revised editions receive updatedAt. The other fifteen editions only receive the verified publication timestamp, which is not a substantive content revision. Slugs, article bodies, source links and media remain unchanged."
     }
   ]
 }

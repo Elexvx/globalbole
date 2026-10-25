@@ -1,6 +1,11 @@
 import { readFileSync, existsSync } from 'node:fs';
 import assert from 'node:assert/strict';
 import { homeSeo } from '../lib/home-seo.mjs';
+import { articleCitations, isRightsNotice } from '../lib/article-citations.mjs';
+import { tagDescription } from '../lib/tag-descriptions.mjs';
+import { tagMatchesSlug, tagLabel } from '../lib/tag-routes.mjs';
+import { articlePublishedDate, publicationTimeLabel, rssPublicationDate } from '../lib/publication-dates.mjs';
+import { routeLastModified } from '../lib/sitemap-dates.mjs';
 
 const articles = JSON.parse(readFileSync('content/generated/articles.json', 'utf8'));
 const languages = ['zh-CN', 'zh-TW', 'en', 'ru', 'fr'];
@@ -123,10 +128,18 @@ for (const article of articles) {
   const schema = graph(html).find(item => item['@type'] === 'NewsArticle');
   assert.equal(schema.headline, article.title, `${path}: structured headline stays equal to visible headline`);
   assert.equal(schema.description, article.dek, `${path}: structured description stays equal to the visible deck`);
-  assert.equal(schema.datePublished, article.date);
+  assert.equal(schema.datePublished, articlePublishedDate(article), `${path}: schema preserves evidenced publication precision`);
+  assert.equal(metaContent(html, 'property', 'article:published_time'), articlePublishedDate(article), `${path}: Open Graph uses the same publication date`);
+  const visibleDates = [...html.matchAll(/<time\b[^>]*>/gi)].map(match => attribute(match[0], 'datetime'));
+  assert.ok(visibleDates.includes(articlePublishedDate(article)), `${path}: visible date has matching semantic time`);
+  if (article.publishedAt) assert.ok(decode(html).includes(publicationTimeLabel(article)), `${path}: known publication time shows its timezone`);
   assert.equal(schema.dateModified, article.updatedAt, `${path}: modification date only comes from editorial updatedAt`);
+  if (article.updatedAt) assert.ok(html.includes(`<time dateTime="${article.updatedAt}">${article.updatedAt}</time>`), `${path}: real modification date is also visible`);
   assert.equal(schema.author.name, article.author);
-  assert.equal(schema.author.url, `${base}/`, 'Existing brand byline is linked to the actual publisher');
+  assert.equal(schema.author.url, `${base}/${article.lang}/authors/`, 'Existing organizational byline links to the substantive team page');
+  assert.ok(html.includes(`href="/${article.lang}/authors/"`), 'Visible byline links to the same team page');
+  assert.deepEqual(schema.citation || [], articleCitations(article.markdown), 'All factual source-note links are preserved, with rights notices separate');
+  assert.ok((schema.citation || []).every(item => !isRightsNotice(item.url)), 'Licensing notices are not falsely presented as factual citations');
   if (article.image) assert.equal(schema.image.url, base + article.image);
   else {
     assert.equal(schema.image, undefined, 'Text-only article must not invent a schema image');
@@ -160,6 +173,21 @@ for (const route of ['about', 'authors', 'contact', 'privacy', 'all-news', 'issu
   assert.ok(head(html).includes('noindex'));
 }
 
+
+for (const locale of languages) {
+  for (const route of ['about', 'authors', 'contact']) {
+    const html = readPage(`/${locale}/${route}/`);
+    const identity = graph(html).find(item => item['@type'] === 'Organization');
+    assert.equal(identity.email, 'globalbole@globalbole.com');
+    assert.equal(identity.contactPoint.url, `${base}/${locale}/contact/`);
+    assert.equal(identity.publishingPrinciples, `${base}/${locale}/about/`);
+    assert.equal(identity.correctionsPolicy, `${base}/${locale}/contact/`);
+    assert.ok(html.includes('mailto:globalbole@globalbole.com'), `${locale}/${route}: public contact is crawlable`);
+    assert.ok(graph(html).some(item => item['@type'] === (route === 'contact' ? 'ContactPage' : 'AboutPage')));
+    assert.ok((html.match(/<h2\b/g) || []).length >= 2, `${locale}/${route}: substantive explanatory sections`);
+  }
+}
+
 const sitemap = readFileSync('out/sitemap.xml', 'utf8');
 const sitemapEntries = [...sitemap.matchAll(/<url>(.*?)<\/url>/gs)].map(match => ({
   url: decode(match[1].match(/<loc>([^<]+)<\/loc>/)[1]),
@@ -175,14 +203,27 @@ assert.ok(!urls.some(url => new URL(url).pathname.startsWith('/post/')));
 const articleByUrl = new Map(articles.map(article => [`${base}/${article.lang}/post/${article.slug}/`, article]));
 for (const article of articles) assert.ok(sitemapByUrl.has(`${base}/${article.lang}/post/${article.slug}/`), 'Every canonical article appears in sitemap');
 for (const entry of sitemapEntries) {
-  const article = articleByUrl.get(entry.url);
-  assert.equal(entry.lastmod ? decode(entry.lastmod) : undefined, article?.updatedAt, `${entry.url}: sitemap lastmod only uses a real updatedAt value`);
+  const parts = new URL(entry.url).pathname.split('/').filter(Boolean).map(decodeURIComponent);
+  const locale = parts.length ? parts.shift() : 'zh-CN';
+  assert.equal(entry.lastmod ? decode(entry.lastmod) : undefined, routeLastModified(locale, parts, articles), `${entry.url}: sitemap lastmod is derived from actual content, never build time`);
 }
 for (const url of urls) {
   const target = new URL(url);
   assert.equal(target.origin, base, 'Sitemap uses the canonical origin');
   assert.ok(existsSync(`out${decodeURIComponent(target.pathname)}index.html`), `Sitemap target exists: ${url}`);
   const html = readPage(target.pathname);
+  const routeSegments = decodeURIComponent(target.pathname).split('/').filter(Boolean);
+  if (routeSegments[1] === 'tag') {
+    const [locale, , slug] = routeSegments;
+    const matching = articles.filter(article => article.lang === locale && article.tags.some(tag => tagMatchesSlug(tag, slug)));
+    const label = tagLabel(slug, articles.flatMap(article => article.tags));
+    const expected = tagDescription(locale, label, matching);
+    assert.equal(metaContent(html, 'name', 'description'), expected, `${url}: precise tag description`);
+    assert.ok(visibleText(html).includes(expected), `${url}: description is also visible`);
+    const collection = graph(html).find(item => item['@type'] === 'CollectionPage');
+    assert.equal(collection.mainEntity.numberOfItems, matching.length);
+    assert.equal(collection.mainEntity.itemListElement.length, matching.length);
+  }
   assert.equal(canonical(html), url, `Sitemap contains canonical URLs: ${url}`);
   assert.deepEqual(sitemapByUrl.get(url).alternates, alternates(html), `${url}: XML and HTML language alternates match`);
   assert.ok(!head(html).includes('noindex'), `Sitemap target is indexable: ${url}`);
@@ -200,11 +241,31 @@ assert.ok(readFileSync('out/robots.txt', 'utf8').includes(`Sitemap: ${base}/site
 
 const rss = readFileSync('out/rss.xml', 'utf8');
 const feedArticles = [...articles].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,50);
-assert.equal((rss.match(/<item>/g)||[]).length, feedArticles.length, 'Legacy RSS retains its configured recent-item limit');
-for (const article of feedArticles) assert.ok(rss.includes(`${base}/${article.lang}/post/${article.slug}/`), 'Legacy RSS points directly to canonical articles');
+function checkFeedDates(xml, expectedArticles, label) {
+  const items = [...xml.matchAll(/<item>(.*?)<\/item>/gs)].map(match => ({
+    link: decode(match[1].match(/<link>([^<]+)<\/link>/)?.[1] || ''),
+    guid: decode(match[1].match(/<guid>([^<]+)<\/guid>/)?.[1] || ''),
+    dates: [...match[1].matchAll(/<pubDate>([^<]+)<\/pubDate>/g)].map(date => decode(date[1])),
+  }));
+  assert.equal(items.length, expectedArticles.length, `${label}: expected item count is preserved`);
+  assert.equal(new Set(items.map(item => item.guid)).size, items.length, `${label}: stable unique GUIDs`);
+  for (const [index, article] of expectedArticles.entries()) {
+    const item = items[index];
+    const url = `${base}/${article.lang}/post/${article.slug}/`;
+    assert.equal(item.link, url, `${label}: canonical article link and order`);
+    assert.equal(item.guid, url, `${label}: canonical GUID stays unchanged`);
+    const published = rssPublicationDate(article);
+    assert.deepEqual(item.dates, published ? [published] : [], `${label}: no timestamp is invented for date-only articles`);
+    if (published) {
+      assert.ok(Date.parse(published) <= Date.now(), `${label}: no future RSS publication time`);
+      assert.equal(Date.parse(published), Math.floor(Date.parse(article.publishedAt) / 1000) * 1000, `${label}: RSS retains the original instant to its supported second precision`);
+    }
+  }
+}
+checkFeedDates(rss, feedArticles, 'Legacy RSS');
 for (const lang of languages) {
   const feed = readFileSync(`out/feeds/${lang}.xml`, 'utf8');
-  for (const article of articles.filter(item=>item.lang===lang)) assert.ok(feed.includes(`${base}/${lang}/post/${article.slug}/`), 'Localized RSS retains canonical articles');
+  checkFeedDates(feed, articles.filter(item=>item.lang===lang).sort((a,b)=>b.date.localeCompare(a.date)), `${lang} RSS`);
 }
 
 assert.equal(readFileSync('out/googleb6feb3c043d379fd.html', 'utf8'), 'google-site-verification: googleb6feb3c043d379fd.html', 'Google ownership proof must be served byte-for-byte');

@@ -63,7 +63,7 @@
 
 `total` 必须严格等于 `data.length`，代表所有语言总数，不是当前语言数量。`schemaVersion` 当前仅支持整数1。响应不得包含草稿、内部路径、密钥、审核备注或未发布内容。
 
-## 3. Article 数据字段（v1 全部必填）
+## 3. Article 数据字段（除注明可选外全部必填）
 
 | 字段 | 类型 / 限制 | 前端用途 / Markdown 来源 |
 | --- | --- | --- |
@@ -77,6 +77,8 @@
 | author | 非空string，按语言提供 | 作者和搜索；`author` |
 | authorRole | 非空string | 作者说明；`authorRole`，Markdown未填时按语言默认全球伯乐 News / 全球伯樂 News / Global Bole News |
 | date | 合法日历日期 `YYYY-MM-DD` | 倒序排序；`date`，不传时间戳 |
+| publishedAt | 可选 string；可核实的原始 ISO 8601 发布时间，含秒和 `Z` 或明确 UTC 偏移量，最多毫秒精度 | 与 date 在自身时区的日历日期一致，不能是未来时刻；HTML、NewsArticle、Open Graph 与 RSS 共用。历史稿件未知精确时间时省略，绝不由 date 补造时间 |
+| updatedAt | 可选合法日历日期 `YYYY-MM-DD`，不得早于 date | 只有真实编辑修订才填写；用于 dateModified 和 sitemap，不覆盖 publishedAt |
 | displayDate | 非空string，按lang本地化 | 卡片日期；从date按UTC生成，避免客户端时区偏移 |
 | readTime | integer，1–90 | 阅读分钟数；`readTime`，缺省由转换器估计 |
 | dek | 非空string，已翻译 | 摘要；Markdown的 `description` |
@@ -87,6 +89,8 @@
 | markdown | 非空string | 不含YAML头部的完整Markdown正文；支持GFM表格、列表、引用、代码块，不传HTML |
 
 额外字段会被客户端白名单移除，不参与渲染。`source`、`draft` 不属于公共契约。v1 不支持 `quote` 独立字段，请写入 Markdown 引用。
+
+`publishedAt` 和 `updatedAt` 是向后兼容的可选字段，不改变 schemaVersion。缺少 `publishedAt` 的旧数据继续以日精度展示与生成结构化数据；RSS 省略可选的 `pubDate`，不虚构精确时间。包含无效、与 date 不一致或未来的 `publishedAt` 时，整批数据拒绝。`updatedAt` 可以与 publishedAt 同一天而只保留日精度，不推断修订的小时、分钟或秒。
 
 | category | categoryLabel |
 | --- | --- |
