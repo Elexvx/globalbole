@@ -1,0 +1,1450 @@
+{
+  "date": "2026-10-25",
+  "assets": [
+    {
+      "id": "kimi-cyber-risk-concept-2026-10-25",
+      "article": "kimi-cyber-risk-reduction-2026-10-25",
+      "filename": "kimi-cyber-risk-concept.png",
+      "localPath": "/news-media/2026-10-25/kimi-cyber-risk-concept.png",
+      "kind": "ai_generated_editorial_illustration",
+      "sourceSelected": false,
+      "title": "AI capability and cybersecurity safeguards",
+      "titles": {
+        "zh-CN": "AI能力与网络安全边界",
+        "zh-TW": "AI能力與網路安全邊界",
+        "en": "AI capability and cybersecurity safeguards",
+        "ru": "Возможности ИИ и меры кибербезопасности",
+        "fr": "Capacités de l’IA et protections de cybersécurité"
+      },
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": "AI-generated editorial illustration",
+      "licenseURL": null,
+      "date": "2026-10-25",
+      "dateRole": "generation date",
+      "captions": {
+        "zh-CN": "AI生成示意图：以抽象计算核心与分层边界表现AI能力和网络安全防护。",
+        "zh-TW": "AI生成示意圖：以抽象運算核心與分層邊界表現AI能力和網路安全防護。",
+        "en": "AI-generated editorial illustration: an abstract computing core and layered boundaries representing AI capabilities and cybersecurity safeguards.",
+        "ru": "Иллюстрация, созданная ИИ: абстрактное вычислительное ядро и многоуровневые границы символизируют возможности ИИ и меры кибербезопасности.",
+        "fr": "Illustration générée par l’IA : un noyau informatique abstrait et des limites successives symbolisent les capacités de l’IA et les protections de cybersécurité."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：发光的抽象计算核心、分层保护结构与电路连接",
+        "zh-TW": "AI生成示意圖：發光的抽象運算核心、分層保護結構與電路連接",
+        "en": "AI-generated editorial illustration of a glowing abstract computing core, layered protective structures and circuit connections",
+        "ru": "Созданная ИИ иллюстрация светящегося абстрактного вычислительного ядра, защитных слоёв и электрических соединений",
+        "fr": "Illustration générée par l’IA d’un noyau informatique abstrait lumineux, de couches protectrices et de connexions électroniques"
+      },
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-25",
+      "checkedAt": "2026-10-25",
+      "rightsReverifiedAt": "2026-10-25",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Native generated PNG",
+      "recommendedCoverObjectPosition": "50% 50%",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "Use case: stylized-concept. Asset type: wide editorial illustration for a professional news article about AI model cyber-risk reduction and the tension between useful coding capabilities and safeguards. Create an elegant, visibly conceptual non-photorealistic 3D paper-and-metal illustration: a luminous abstract computational core inside an open but carefully segmented protective frame, fine interlocking circuits, one clear boundary separating orderly connections from a few scattered disconnected fragments. Calm midnight blue, cool silver and restrained amber light. Wide landscape composition, subject centered with generous breathing room, sophisticated editorial visual language rather than stock padlock cliché. No logos, brands, real products, people, recognizable locations, fake event photography, charts, graphs, axes, numbers, data, text, or watermark. This is conceptual art, not evidence of any event or actual system design.",
+      "rightsBasis": "Generated for this editorial article using the available OpenAI image_gen tool, without third-party input images. No claim of documentary or data accuracy.",
+      "reuseDecision": "Official Kimi brand files exist and offer limited editorial use but their download requires explicit acceptance of new Logo Usage Terms, outside this task’s approved scope. Supplied Reuters material is unlicensed; Commons screenshot underlying UI rights are unresolved. Use a visibly labeled conceptual illustration rather than misrepresenting these routes as licensed.",
+      "cropAssessment": "Landscape master; central luminous core remains in 16:9 and 4:3 cover crops. No text, data, real logo, person or news scene.",
+      "inputSha256": "0a4d9b7e130ca130aa6e3d473cac0727a8e75894583b237e7ed7aeeddfa97235",
+      "sha256": "0a4d9b7e130ca130aa6e3d473cac0727a8e75894583b237e7ed7aeeddfa97235",
+      "byteSize": 1926038,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [],
+      "caption": "AI生成示意图：以抽象计算核心与分层边界表现AI能力和网络安全防护。",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "contentCredentialsPreserved": true
+      },
+      "changes": "Native generated PNG copied unchanged. No EXIF, IPTC or XMP found. Existing caBX content-credentials block retained; pixels unchanged.",
+      "deliveryDerivatives": {
+        "status": "Generated and validated in the final static build on 2026-10-25; all editions were browser-checked at desktop and narrow CSS widths.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates proportional full-frame WebP and AVIF delivery images; these are distinct from the unchanged-pixel source master.",
+        "license": "AI-generated editorial illustration",
+        "licenseScope": "Image and delivery derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 3680,
+            "sha256": "6c818e394018b96d5214977f732f8aae1376285632de4beb39ff1767d0b075ce"
+          },
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 10470,
+            "sha256": "3d6f4c4721cd4296f329006e76494520507f7995ad0738805456765ca9d4fb00"
+          },
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 19236,
+            "sha256": "b88704132d8c4208a01a99f2f5928df84e901a115474964aa7c278802fa11a6d"
+          },
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 34758,
+            "sha256": "abc301d7a25cb41fb41bfdec896e9a170334c1fb0fa5ad25da470e582e3a4525"
+          },
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 44744,
+            "sha256": "9f933331b666006e362cdf5dbeb5b411602268071478c1a21512c47e09cc2e65"
+          },
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 55216,
+            "sha256": "81578e99becab35df3eb0a7ae54376664acfea54fc368bf32d781c43e568c7b6"
+          },
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 85166,
+            "sha256": "431642b435055a7461799deb1df5f270cf7736aea74e12b44d4f1c32134b43f8"
+          },
+          {
+            "src": "/optimized-assets/kimi-cyber-risk-concept-f5cef2a7bb2b-1672.webp",
+            "width": 1672,
+            "format": "webp",
+            "byteSize": 122850,
+            "sha256": "18ac530a579ebb6ca0c42a44c10f2e90204643305c3332f3e5d055ff157bc83b"
+          }
+        ],
+        "visualCheck": "Full-frame display derivatives and cover crops inspected; aspect ratio and important subject detail preserved.",
+        "avifQuality": null
+      }
+    },
+    {
+      "id": "audi-q9-us-2026-10-25",
+      "article": "audi-georgia-production-plan-2026-10-25",
+      "filename": "audi-q9-us.jpg",
+      "localPath": "/news-media/2026-10-25/audi-q9-us.jpg",
+      "kind": "official_editorial_photo",
+      "sourceSelected": false,
+      "title": "Audi in the United States",
+      "titles": {
+        "zh-CN": "奥迪在美国",
+        "zh-TW": "奧迪在美國",
+        "en": "Audi in the United States",
+        "ru": "Audi в США",
+        "fr": "Audi aux États-Unis"
+      },
+      "sourcePageURL": "https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046",
+      "sourceURL": "https://uploads.audi.com/system/production/media/134046/images/28dca249bbadd8f17d826284165ab539c8c2fd56/A264856_large.jpg?1792837695&disposition=attachment",
+      "rightsEvidenceURL": "https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046",
+      "license": "Free editorial use, AUDI AG",
+      "licenseURL": "https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046",
+      "date": "2026-10-25",
+      "dateRole": "source publication date, not the event or capture date",
+      "captions": {
+        "zh-CN": "奥迪Q9官方图片，2026年10月25日发布。作品《Audi in the United States》，图片编号A264856，© AUDI AG。[来源及免费编辑用途授权](https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046)。",
+        "zh-TW": "奧迪Q9官方圖片，2026年10月25日發布。作品《Audi in the United States》，圖片編號A264856，© AUDI AG。[來源及免費編輯用途授權](https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046)。",
+        "en": "Official Audi Q9 image, published October 25, 2026. “Audi in the United States”, image A264856, © AUDI AG. [Source and permission for free editorial use](https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046).",
+        "ru": "Официальное изображение Audi Q9, опубликовано 25 октября 2026 года. «Audi in the United States», снимок A264856, © AUDI AG. [Источник и разрешение на бесплатное редакционное использование](https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046).",
+        "fr": "Image officielle de l’Audi Q9, publiée le 25 octobre 2026. « Audi in the United States », image A264856, © AUDI AG. [Source et autorisation d’utilisation éditoriale gratuite](https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046)."
+      },
+      "alts": {
+        "zh-CN": "奥迪Q9车头与背景中的美国国旗，奥迪官方图片",
+        "zh-TW": "奧迪Q9車頭與背景中的美國國旗，奧迪官方圖片",
+        "en": "Official Audi image of a Q9 front end with a U.S. flag in the background",
+        "ru": "Официальный снимок передней части Audi Q9 с флагом США на заднем плане",
+        "fr": "Image officielle de l’avant d’une Audi Q9 avec un drapeau américain en arrière-plan"
+      },
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-25",
+      "checkedAt": "2026-10-25",
+      "rightsReverifiedAt": "2026-10-25",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Downloaded source image",
+      "recommendedCoverObjectPosition": "50% 65%",
+      "copyright": "© AUDI AG",
+      "creator": "AUDI AG",
+      "rightsEvidence": "Asset page explicitly states A264856, copyright AUDI AG, and Use for editorial purposes free of charge. Full downloadable JPEG metadata confirms AUDI AG and contains no conflicting fee or third-party restriction. Source release includes this exact image.",
+      "sourceCaptureDate": "2026-10-21",
+      "sourceCaptureDateBasis": "Embedded IPTC/XMP; public caption uses the separately verified publication date.",
+      "reuseDecision": "Use as official product/brand context, not as a photograph of the Georgia announcement or planned factory.",
+      "cropAssessment": "Wide car detail; position 50% 65% keeps the illuminated four rings and flag when cropped to 16:9. Full source remains uncropped in article body.",
+      "licenseObligations": "Retain AUDI AG attribution and editorial-only context; do not imply endorsement.",
+      "inputSha256": "3ca17296c885977210bace9b0218dd5b787df7cc218d4705aed939bd494816a5",
+      "sha256": "19521acc3cdefe183146dea12eb75118127c69557e8c1aef6a0f8bf858c8d0f2",
+      "byteSize": 5038379,
+      "width": 4961,
+      "height": 3304,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": true,
+      "iccUnchanged": true,
+      "removedSegments": [
+        "0xed",
+        "0xe1",
+        "0xe1"
+      ],
+      "caption": "奥迪Q9官方图片，2026年10月25日发布。作品《Audi in the United States》，图片编号A264856，© AUDI AG。[来源及免费编辑用途授权](https://www.audi.com/en/photos/detail/audi-in-the-united-states-134046)。",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "changes": "Only nonessential embedded metadata removed; source pixels and any ICC color profile are unchanged. No master cropping, resizing or re-encoding. Copyright and attribution remain in the visible captions and this record.",
+      "deliveryDerivatives": {
+        "status": "Generated and validated in the final static build on 2026-10-25; all editions were browser-checked at desktop and narrow CSS widths.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates proportional full-frame WebP and AVIF delivery images; these are distinct from the unchanged-pixel source master.",
+        "license": "Free editorial use, AUDI AG",
+        "licenseScope": "Image and delivery derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 2960,
+            "sha256": "fd9d606329c111a4c303caf4a68b44ae639537173791c7bc2ba241bc53685186"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 7328,
+            "sha256": "f3ea1e017ca0afa5bb12af217dd37ca6a68cbacd7c6a725a90518788049c3127"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 11938,
+            "sha256": "05dc218e4b3cd80dfeab10fca1b47ac3bdd9e2a4834a3c0d63c1a44d12247104"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 20050,
+            "sha256": "b4198859d010b9ce1855022e61936ed3209ef0718e950580fa9670bc4789cf9a"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 24850,
+            "sha256": "882d086839fffc9fc995a0f99f16bdbbfb1ea07f22ab4102bd3d53f89306ac87"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 29620,
+            "sha256": "0a4b3ed8ed17bd4fa2282466b73db6c73274dea7a09007e349073790143ef731"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 45086,
+            "sha256": "8a37fa5d66b4b36ab6b94d2310582b4481d29db2ee93310da5a443abb7a23cbc"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-45213344b4fb-1920.webp",
+            "width": 1920,
+            "format": "webp",
+            "byteSize": 80720,
+            "sha256": "295b299939724d0392208c65dd7bc9a62298438df64bdcdc681defb092c7c5c7"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-160.avif",
+            "width": 160,
+            "format": "avif",
+            "byteSize": 2871,
+            "sha256": "81ccf89dd1abfa67c8cea437ee56d2a84cbdf121de94e331b975f5657f9d22d4"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-320.avif",
+            "width": 320,
+            "format": "avif",
+            "byteSize": 6852,
+            "sha256": "00b12956d359ff34de32d5e3bb13ca6c4b095868e4836017a38a2045cf70d181"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-480.avif",
+            "width": 480,
+            "format": "avif",
+            "byteSize": 11110,
+            "sha256": "851e83620d017621b8647b9bb8c5c4a7c6691d428bcfa8aa68d34a64901854f9"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-704.avif",
+            "width": 704,
+            "format": "avif",
+            "byteSize": 18363,
+            "sha256": "3584b1efb33d91673246152bfab4c33aff558022dc4302a186b101653afb430f"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-832.avif",
+            "width": 832,
+            "format": "avif",
+            "byteSize": 22477,
+            "sha256": "813642d1a8f831c2a6d08188cabf8eaae41344d1d51c05ced78adb453cf56476"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-960.avif",
+            "width": 960,
+            "format": "avif",
+            "byteSize": 27134,
+            "sha256": "a76d2747ee23fa5540dda6ebcb59a4ba8bc259dc73d329edd02f1b32c8d22ad4"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-1280.avif",
+            "width": 1280,
+            "format": "avif",
+            "byteSize": 41929,
+            "sha256": "a84bf482df756fdc1344466628ae50ea5591d15001aa56b495496d4e965847de"
+          },
+          {
+            "src": "/optimized-assets/audi-q9-us-7d63d598f47f-1920.avif",
+            "width": 1920,
+            "format": "avif",
+            "byteSize": 87359,
+            "sha256": "df8769cfc64bf83135c90350226c6bbeabc26aedbd430ac4291f2f50d8fa67a6"
+          }
+        ],
+        "visualCheck": "Full-frame display derivatives and cover crops inspected; aspect ratio and important subject detail preserved.",
+        "avifQuality": 65
+      }
+    },
+    {
+      "id": "audi-gerd-walker-2026-10-25",
+      "article": "audi-georgia-production-plan-2026-10-25",
+      "filename": "audi-gerd-walker.jpg",
+      "localPath": "/news-media/2026-10-25/audi-gerd-walker.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "Gerd Walker",
+      "titles": {
+        "zh-CN": "格尔德·沃克",
+        "zh-TW": "格爾德·沃克",
+        "en": "Gerd Walker",
+        "ru": "Герд Уокер",
+        "fr": "Gerd Walker"
+      },
+      "sourcePageURL": "https://www.audi.com/en/photos/detail/gerd-walker-129436",
+      "sourceURL": "https://uploads.audi.com/system/production/media/129436/images/d42db2087557400cc58db0079cf28b5a53bfb76e/A260193_large.jpg?1770899171&disposition=attachment",
+      "rightsEvidenceURL": "https://www.audi.com/en/photos/detail/gerd-walker-129436",
+      "license": "Free editorial use, AUDI AG",
+      "licenseURL": "https://www.audi.com/en/photos/detail/gerd-walker-129436",
+      "date": "2026-01-21",
+      "dateRole": "photograph date confirmed by source page and embedded original date",
+      "captions": {
+        "zh-CN": "资料照片：2026年1月21日，奥迪负责生产与物流的管理董事会成员格尔德·沃克。摄影：Michaela Klose，图片编号A260193，© AUDI AG。[来源及免费编辑用途授权](https://www.audi.com/en/photos/detail/gerd-walker-129436)。",
+        "zh-TW": "資料照片：2026年1月21日，奧迪負責生產與物流的管理董事會成員格爾德·沃克。攝影：Michaela Klose，圖片編號A260193，© AUDI AG。[來源及免費編輯用途授權](https://www.audi.com/en/photos/detail/gerd-walker-129436)。",
+        "en": "Archive photograph: Gerd Walker, Audi Board of Management member for Production and Logistics, January 21, 2026. Photograph by Michaela Klose, image A260193, © AUDI AG. [Source and permission for free editorial use](https://www.audi.com/en/photos/detail/gerd-walker-129436).",
+        "ru": "Архивное фото: Герд Уокер, член правления Audi по производству и логистике, 21 января 2026 года. Фото: Michaela Klose, снимок A260193, © AUDI AG. [Источник и разрешение на бесплатное редакционное использование](https://www.audi.com/en/photos/detail/gerd-walker-129436).",
+        "fr": "Photo d’archives : Gerd Walker, membre du directoire d’Audi chargé de la production et de la logistique, le 21 janvier 2026. Photographie : Michaela Klose, image A260193, © AUDI AG. [Source et autorisation d’utilisation éditoriale gratuite](https://www.audi.com/en/photos/detail/gerd-walker-129436)."
+      },
+      "alts": {
+        "zh-CN": "2026年1月21日奥迪生产与物流负责人格尔德·沃克肖像资料照片",
+        "zh-TW": "2026年1月21日奧迪生產與物流負責人格爾德·沃克肖像資料照片",
+        "en": "Archival portrait of Audi production and logistics chief Gerd Walker, January 21, 2026",
+        "ru": "Архивный портрет руководителя производства и логистики Audi Герда Уокера, 21 января 2026 года",
+        "fr": "Portrait d’archives de Gerd Walker, responsable de la production et de la logistique chez Audi, le 21 janvier 2026"
+      },
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-25",
+      "checkedAt": "2026-10-25",
+      "rightsReverifiedAt": "2026-10-25",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Downloaded source image",
+      "recommendedCoverObjectPosition": "50% 50%",
+      "copyright": "© AUDI AG",
+      "creator": "Michaela Klose",
+      "photographer": "Michaela Klose",
+      "rightsEvidence": "Exact asset page grants free editorial use and credits AUDI AG; full JPEG EXIF and XMP identify Fotografin Michaela Klose and copyright AUDI AG, with no contradictory fee restriction. This exact image also appears in the Georgia production release.",
+      "reuseDecision": "Complementary body portrait of the production executive quoted in the source release, not an image of the October announcement.",
+      "cropAssessment": "Portrait is centered and fits a landscape frame; use full natural aspect ratio in body. This is not the recommended cover.",
+      "licenseObligations": "Retain Michaela Klose and AUDI AG attribution; editorial use only; no endorsement.",
+      "inputSha256": "b0b7f1f53993363a1de70a82f1c77f25a3aab8338ae0a8e562b2927d01ac575a",
+      "sha256": "bea8f474a3aa096bb7b5ca182d7e390864c57190455d5e5fd4547453ece464f5",
+      "byteSize": 1288963,
+      "width": 2880,
+      "height": 1920,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [
+        "0xe1",
+        "0xed",
+        "0xe1"
+      ],
+      "caption": "资料照片：2026年1月21日，奥迪负责生产与物流的管理董事会成员格尔德·沃克。摄影：Michaela Klose，图片编号A260193，© AUDI AG。[来源及免费编辑用途授权](https://www.audi.com/en/photos/detail/gerd-walker-129436)。",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": true,
+        "pixelsIdenticalToSource": true,
+        "retainedRightsXMP": {
+          "creator": "Michaela Klose",
+          "rights": "© AUDI AG. Permission: https://www.audi.com/en/photos/detail/gerd-walker-129436"
+        }
+      },
+      "changes": "Only nonessential embedded metadata removed; source pixels and any ICC color profile are unchanged. No master cropping, resizing or re-encoding. Copyright and attribution remain in the visible captions and this record.",
+      "deliveryDerivatives": {
+        "status": "Generated and validated in the final static build on 2026-10-25; all editions were browser-checked at desktop and narrow CSS widths.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates proportional full-frame WebP and AVIF delivery images; these are distinct from the unchanged-pixel source master.",
+        "license": "Free editorial use, AUDI AG",
+        "licenseScope": "Image and delivery derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 2376,
+            "sha256": "b962b03a65db393fbeaa13e4a3eb259f784d41b5fe0fe8aaaa5ee71fc1f3fe1e"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 5372,
+            "sha256": "9d2943c07cd3b33d4ecfe6522f900a88a416c9166e38c1d830ed942dc322b9e6"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 9072,
+            "sha256": "821dca75e368c0fa2f52e3fcf0d4658aefd0e58767c8744e8451101b983f0b65"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 16114,
+            "sha256": "5ff209e1fd273252700a09212ae653cadf19730ada0e643837130dcd90abd3dd"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 20546,
+            "sha256": "c698f56393f0b09d45cd21f4939684698ee84b209549287d5eb758c796f8f5da"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 25486,
+            "sha256": "e29b4ac48d81e0c33aa93a967bdd3a448c13ec703c974e0db5b705cb895b1381"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 43404,
+            "sha256": "b223def5b477ef7f4dd3fe17f9fe30f8f741078d859e38d09123d73c94a40057"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-d149c96e8259-1920.webp",
+            "width": 1920,
+            "format": "webp",
+            "byteSize": 96094,
+            "sha256": "bb84170e5a8f69dcc74ca5a389e12003847cb85b0a909b459b874492ab6549cf"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-160.avif",
+            "width": 160,
+            "format": "avif",
+            "byteSize": 2034,
+            "sha256": "e9e1071fa151f951fcf503c6553b7d75d48c4bf75e79a58b6d9d7fe70f2de7ad"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-320.avif",
+            "width": 320,
+            "format": "avif",
+            "byteSize": 4485,
+            "sha256": "c7f78cc49115e8fac72af9e20597472bd264a9a02fcd9eb06936a002f6ebb154"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-480.avif",
+            "width": 480,
+            "format": "avif",
+            "byteSize": 7673,
+            "sha256": "8636d24318154f2825e73ae1ed63ed6eb7bc3dbe960442e5a88b3ad4e4cfeab0"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-704.avif",
+            "width": 704,
+            "format": "avif",
+            "byteSize": 13511,
+            "sha256": "34a915d60d372abef15cdb346bda43ef2fdd61d32bc32c774968e3867988ae00"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-832.avif",
+            "width": 832,
+            "format": "avif",
+            "byteSize": 17764,
+            "sha256": "ae29821ec0588d8b8f55e0df45ac7e217eb4e67d344ee007ef1a50d4fbc1c92e"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-960.avif",
+            "width": 960,
+            "format": "avif",
+            "byteSize": 22160,
+            "sha256": "3075bcf07965b99755616368aac13352b944ef1238249c2dbf1988bdece9ce05"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-1280.avif",
+            "width": 1280,
+            "format": "avif",
+            "byteSize": 38269,
+            "sha256": "53516011ea5d8663bc47b6c5db0982f3e4b5b5f26b94cf240edc1acea5993bf3"
+          },
+          {
+            "src": "/optimized-assets/audi-gerd-walker-ff413cc3f8a7-1920.avif",
+            "width": 1920,
+            "format": "avif",
+            "byteSize": 84074,
+            "sha256": "c56ce84a239c73a21c0111739ddb47bad6ab2cfd8620582e00b8737599bd6b27"
+          }
+        ],
+        "visualCheck": "Full-frame display derivatives and cover crops inspected; aspect ratio and important subject detail preserved.",
+        "avifQuality": 55
+      }
+    },
+    {
+      "id": "fed-september-press-conference-2026-10-25",
+      "article": "earnings-fed-week-preview-2026-10-25",
+      "filename": "fed-september-press-conference.jpg",
+      "localPath": "/news-media/2026-10-25/fed-september-press-conference.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "FOMC press conference, September 16, 2026",
+      "titles": {
+        "zh-CN": "2026年9月16日FOMC记者会",
+        "zh-TW": "2026年9月16日FOMC記者會",
+        "en": "FOMC press conference, September 16, 2026",
+        "ru": "Пресс-конференция FOMC 16 сентября 2026 года",
+        "fr": "Conférence de presse du FOMC du 16 septembre 2026"
+      },
+      "sourcePageURL": "https://www.federalreserve.gov/photogallery.htm",
+      "sourceURL": "https://www.federalreserve.gov/photogallery/files/DSC_9050-pw.jpg",
+      "rightsEvidenceURL": "https://www.federalreserve.gov/photogallery.htm",
+      "license": "U.S. government work; public domain",
+      "licenseURL": "https://www.federalreserve.gov/disclaimer.htm",
+      "date": "2026-09-16",
+      "dateRole": "event/photo date stated in official gallery",
+      "captions": {
+        "zh-CN": "资料照片：2026年9月16日，联邦公开市场委员会记者会上的美联储主席凯文·沃什。来源：[美联储理事会图片库](https://www.federalreserve.gov/photogallery.htm)；[美国政府作品，公共领域](https://www.federalreserve.gov/disclaimer.htm)。",
+        "zh-TW": "資料照片：2026年9月16日，聯邦公開市場委員會記者會上的聯準會主席凱文·沃許。來源：[聯準會理事會圖片庫](https://www.federalreserve.gov/photogallery.htm)；[美國政府作品，公共領域](https://www.federalreserve.gov/disclaimer.htm)。",
+        "en": "Archive photograph: Federal Reserve Chair Kevin Warsh at the FOMC press conference on September 16, 2026. Source: [Federal Reserve Board photo gallery](https://www.federalreserve.gov/photogallery.htm); [U.S. government work, public domain](https://www.federalreserve.gov/disclaimer.htm).",
+        "ru": "Архивное фото: председатель ФРС Кевин Уорш на пресс-конференции FOMC 16 сентября 2026 года. Источник: [фотогалерея Совета управляющих ФРС](https://www.federalreserve.gov/photogallery.htm); [произведение правительства США, общественное достояние](https://www.federalreserve.gov/disclaimer.htm).",
+        "fr": "Photo d’archives : Kevin Warsh, président de la Réserve fédérale, lors de la conférence de presse du FOMC du 16 septembre 2026. Source : [photothèque du Conseil des gouverneurs de la Fed](https://www.federalreserve.gov/photogallery.htm) ; [œuvre du gouvernement des États-Unis, domaine public](https://www.federalreserve.gov/disclaimer.htm)."
+      },
+      "alts": {
+        "zh-CN": "2026年9月16日美联储主席凯文·沃什在记者会讲台前的资料照片",
+        "zh-TW": "2026年9月16日聯準會主席凱文·沃許在記者會講台前的資料照片",
+        "en": "Archival photograph of Federal Reserve Chair Kevin Warsh at the September 16, 2026 press conference",
+        "ru": "Архивное фото председателя ФРС Кевина Уорша на пресс-конференции 16 сентября 2026 года",
+        "fr": "Photo d’archives de Kevin Warsh, président de la Fed, lors de la conférence de presse du 16 septembre 2026"
+      },
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-25",
+      "checkedAt": "2026-10-25",
+      "rightsReverifiedAt": "2026-10-25",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Downloaded source image",
+      "recommendedCoverObjectPosition": "50% 40%",
+      "creator": "Board of Governors of the Federal Reserve System",
+      "copyright": "US_Federal_Government",
+      "rightsEvidence": "Official gallery identifies the precise file, Kevin Warsh and September 16, 2026. Downloaded file EXIF/IPTC/XMP all identify US_Federal_Government. Board disclaimer expressly permits copying/distribution of public-domain material and no non-Board copyright exception appears.",
+      "reuseDecision": "Earlier FOMC press-conference photograph for institutional context, not a photograph of the forthcoming October meeting.",
+      "cropAssessment": "Use 50% 40% at 16:9 to keep the chair’s head and podium. Audience foreground remains documentary context.",
+      "licenseObligations": "Credit the Federal Reserve Board; do not imply Board endorsement or use incidental insignia as an editorial brand.",
+      "inputSha256": "fb21571731f01ee36aee0ef9647bd332cbd2a50bdef5803f4345275f6042e47d",
+      "sha256": "ab53feca32eba679bf597c9663097647eb62957967ed1bcae4dcf120948a8f6f",
+      "byteSize": 491548,
+      "width": 1024,
+      "height": 683,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [
+        "0xe1",
+        "0xe1",
+        "0xed"
+      ],
+      "caption": "资料照片：2026年9月16日，联邦公开市场委员会记者会上的美联储主席凯文·沃什。来源：[美联储理事会图片库](https://www.federalreserve.gov/photogallery.htm)；[美国政府作品，公共领域](https://www.federalreserve.gov/disclaimer.htm)。",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "changes": "Only nonessential embedded metadata removed; source pixels and any ICC color profile are unchanged. No master cropping, resizing or re-encoding. Copyright and attribution remain in the visible captions and this record.",
+      "deliveryDerivatives": {
+        "status": "Generated and validated in the final static build on 2026-10-25; all editions were browser-checked at desktop and narrow CSS widths.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates proportional full-frame WebP and AVIF delivery images; these are distinct from the unchanged-pixel source master.",
+        "license": "U.S. government work; public domain",
+        "licenseScope": "Image and delivery derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/fed-september-press-conference-756d41849734-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 3688,
+            "sha256": "34b485c5e2b1038bb1462219ce60b5001baa23714cff9d997364c3ab5bd63134"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-756d41849734-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 10150,
+            "sha256": "0796ebf4d93c8815d67f8f0d5b3bae8107bac0903705fa9897798b9e66fe7ef7"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-756d41849734-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 18778,
+            "sha256": "1eb112c40b7c199dcc4bf39ee7f8328c89b260e1138291f1bc4a5d1c4513bc80"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-756d41849734-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 31590,
+            "sha256": "bb6f4f97613ee923dd41166a69c84788d553390a790698cdb2878307778eb562"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-756d41849734-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 39218,
+            "sha256": "34935edd2e2671d6d52afc18ba4b7fdf907a938a3aa0eac9ace92d9834730d1d"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-756d41849734-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 46772,
+            "sha256": "f835201354de09abda0767b37f23457dfc27591fb3fdbe1f44b3ad484ac4bf15"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-756d41849734-1024.webp",
+            "width": 1024,
+            "format": "webp",
+            "byteSize": 51066,
+            "sha256": "a952baacc17a5a6325c61fc66233ab87d0b80fa3be49b7e77f5b3257e1519c64"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-7f968d492071-160.avif",
+            "width": 160,
+            "format": "avif",
+            "byteSize": 3869,
+            "sha256": "03de032b34fbefbfc0553b4d093351bba60aba9585c637c5364c931ddd18a333"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-7f968d492071-320.avif",
+            "width": 320,
+            "format": "avif",
+            "byteSize": 9383,
+            "sha256": "fec65f5de8d02b08f001918fb6835656195af6359d09da3f3f4a1f79a2efa328"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-7f968d492071-480.avif",
+            "width": 480,
+            "format": "avif",
+            "byteSize": 16700,
+            "sha256": "45907ef979783966670d0da341974040a5586159f8fd9b4e64f196a48b3caf2a"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-7f968d492071-704.avif",
+            "width": 704,
+            "format": "avif",
+            "byteSize": 28264,
+            "sha256": "328a375f10d2b48bc745c0cfd78f18761d6ebcec600b5c797175282a3bcf9d79"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-7f968d492071-832.avif",
+            "width": 832,
+            "format": "avif",
+            "byteSize": 34677,
+            "sha256": "b023bb0743cf2be2b90137d074be1985f23df959e72dbcd484d871a044d5c957"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-7f968d492071-960.avif",
+            "width": 960,
+            "format": "avif",
+            "byteSize": 41000,
+            "sha256": "714b7c8470d466008aabe3ae067d37fce213a12d4263477af1fff54c8b5cac8d"
+          },
+          {
+            "src": "/optimized-assets/fed-september-press-conference-7f968d492071-1024.avif",
+            "width": 1024,
+            "format": "avif",
+            "byteSize": 45427,
+            "sha256": "7f5c36b9ba234f2e4a5c0df40dced46820aa79346d5e8c4ad594ce288a48cb7c"
+          }
+        ],
+        "visualCheck": "Full-frame display derivatives and cover crops inspected; aspect ratio and important subject detail preserved.",
+        "avifQuality": 65
+      }
+    },
+    {
+      "id": "fed-june-fomc-meeting-2026-10-25",
+      "article": "earnings-fed-week-preview-2026-10-25",
+      "filename": "fed-june-fomc-meeting.jpg",
+      "localPath": "/news-media/2026-10-25/fed-june-fomc-meeting.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "June 16–17, 2026 FOMC meeting",
+      "titles": {
+        "zh-CN": "2026年6月16日至17日FOMC会议",
+        "zh-TW": "2026年6月16日至17日FOMC會議",
+        "en": "June 16–17, 2026 FOMC meeting",
+        "ru": "Заседание FOMC 16–17 июня 2026 года",
+        "fr": "Réunion du FOMC des 16 et 17 juin 2026"
+      },
+      "sourcePageURL": "https://www.federalreserve.gov/photogallery.htm",
+      "sourceURL": "https://www.federalreserve.gov/photogallery/files/_DSC2515_pw.jpg",
+      "rightsEvidenceURL": "https://www.federalreserve.gov/photogallery.htm",
+      "license": "U.S. government work; public domain",
+      "licenseURL": "https://www.federalreserve.gov/disclaimer.htm",
+      "date": "2026-06-17",
+      "dateRole": "official gallery date for the June 16–17 meeting",
+      "captions": {
+        "zh-CN": "资料照片：2026年6月16日至17日联邦公开市场委员会会议。摄影：Britt Leckman。来源：[美联储理事会图片库](https://www.federalreserve.gov/photogallery.htm)；[美国政府作品，公共领域](https://www.federalreserve.gov/disclaimer.htm)。",
+        "zh-TW": "資料照片：2026年6月16日至17日聯邦公開市場委員會會議。攝影：Britt Leckman。來源：[聯準會理事會圖片庫](https://www.federalreserve.gov/photogallery.htm)；[美國政府作品，公共領域](https://www.federalreserve.gov/disclaimer.htm)。",
+        "en": "Archive photograph: the June 16–17, 2026 Federal Open Market Committee meeting. Photograph by Britt Leckman. Source: [Federal Reserve Board photo gallery](https://www.federalreserve.gov/photogallery.htm); [U.S. government work, public domain](https://www.federalreserve.gov/disclaimer.htm).",
+        "ru": "Архивное фото: заседание Федерального комитета по операциям на открытом рынке 16–17 июня 2026 года. Фото: Britt Leckman. Источник: [фотогалерея Совета управляющих ФРС](https://www.federalreserve.gov/photogallery.htm); [произведение правительства США, общественное достояние](https://www.federalreserve.gov/disclaimer.htm).",
+        "fr": "Photo d’archives : réunion du Comité fédéral de l’open market des 16 et 17 juin 2026. Photographie : Britt Leckman. Source : [photothèque du Conseil des gouverneurs de la Fed](https://www.federalreserve.gov/photogallery.htm) ; [œuvre du gouvernement des États-Unis, domaine public](https://www.federalreserve.gov/disclaimer.htm)."
+      },
+      "alts": {
+        "zh-CN": "2026年6月联邦公开市场委员会与会者围坐会议桌的资料照片",
+        "zh-TW": "2026年6月聯邦公開市場委員會與會者圍坐會議桌的資料照片",
+        "en": "Archival photograph of FOMC participants seated at the meeting table in June 2026",
+        "ru": "Архивное фото участников FOMC за столом заседания в июне 2026 года",
+        "fr": "Photo d’archives de participants au FOMC autour de la table de réunion en juin 2026"
+      },
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-25",
+      "checkedAt": "2026-10-25",
+      "rightsReverifiedAt": "2026-10-25",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Downloaded source image",
+      "recommendedCoverObjectPosition": "50% 50%",
+      "creator": "Britt Leckman",
+      "photographer": "Britt Leckman",
+      "copyright": "US GOVERNMENT WORK",
+      "rightsEvidence": "Official gallery identifies _DSC2515_pw.jpg and June 16–17, 2026 deliberations. Embedded XMP creator BRITT LECKMAN and EXIF/IPTC/XMP US GOVERNMENT WORK agree with the Board’s public-domain policy.",
+      "reuseDecision": "Complementary earlier meeting image illustrating policy deliberation, not an October meeting. Any obscuring of confidential source documents was already applied by the source.",
+      "cropAssessment": "Full 3:2 body photo preserves all visible participants and table. Not the recommended cover.",
+      "licenseObligations": "Credit Britt Leckman and the Federal Reserve Board. No endorsement implied.",
+      "inputSha256": "0997371542fa9cbc3695ea09e003ecfa00236229555cc4d4e4563f2d93ac04b7",
+      "sha256": "3c5fee4e4c615849d0813f2a44a4cc9e926714a5d10921afd27056eea02e5bc9",
+      "byteSize": 182319,
+      "width": 1024,
+      "height": 683,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [
+        "0xe1",
+        "0xe1",
+        "0xed"
+      ],
+      "caption": "资料照片：2026年6月16日至17日联邦公开市场委员会会议。摄影：Britt Leckman。来源：[美联储理事会图片库](https://www.federalreserve.gov/photogallery.htm)；[美国政府作品，公共领域](https://www.federalreserve.gov/disclaimer.htm)。",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": true,
+        "pixelsIdenticalToSource": true,
+        "retainedRightsXMP": {
+          "creator": "Britt Leckman",
+          "rights": "US GOVERNMENT WORK. Permission: https://www.federalreserve.gov/photogallery.htm"
+        }
+      },
+      "changes": "Only nonessential embedded metadata removed; source pixels and any ICC color profile are unchanged. No master cropping, resizing or re-encoding. Copyright and attribution remain in the visible captions and this record.",
+      "deliveryDerivatives": {
+        "status": "Generated and validated in the final static build on 2026-10-25; all editions were browser-checked at desktop and narrow CSS widths.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates proportional full-frame WebP and AVIF delivery images; these are distinct from the unchanged-pixel source master.",
+        "license": "U.S. government work; public domain",
+        "licenseScope": "Image and delivery derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-18c509a52a0f-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 3124,
+            "sha256": "92d76178d7d894cbc109de59de8a10c607a7e651f88ba0b2c8369d7c18fadbd6"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-18c509a52a0f-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 8484,
+            "sha256": "d4f205b68ac274549a52b7042d446546f4357b4d12913c52cd232795abcd04a6"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-18c509a52a0f-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 15660,
+            "sha256": "57d53272f023b0a0221c541264bac64e04aec3e2f84f0395e1ab0ed22b9af5d5"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-18c509a52a0f-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 26502,
+            "sha256": "151930b76a89ef367518f2cff1048fdadf78dd1af36e004294094c5b007a5ba9"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-18c509a52a0f-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 32954,
+            "sha256": "e764811f105b259c75759e1d631bfdc0d948d471ccf77df519fa83f2db6c7eb0"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-18c509a52a0f-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 39534,
+            "sha256": "c21d9c36bdd03c6921c3cc7f3ab0f0c811dd708364389d56457aca91e63e428e"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-18c509a52a0f-1024.webp",
+            "width": 1024,
+            "format": "webp",
+            "byteSize": 44036,
+            "sha256": "d5fb9138d136a0486048dba0f80405c16edcd2b8a3a0b45fd3800882833e6950"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-23af70eccfaf-160.avif",
+            "width": 160,
+            "format": "avif",
+            "byteSize": 3361,
+            "sha256": "16cd7b7c944cf4a6f27af4a860474b5b91cfb72d50d7e3f23305afa49b6f1c7c"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-23af70eccfaf-320.avif",
+            "width": 320,
+            "format": "avif",
+            "byteSize": 8702,
+            "sha256": "5a6d2dfc6688884b529fb44fb8b93c357fd083a14af60879f5b26fcd468f26b2"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-23af70eccfaf-480.avif",
+            "width": 480,
+            "format": "avif",
+            "byteSize": 15095,
+            "sha256": "c1c4ecabd6bfcbe8628dc8f4ae7424e31e88cd87ca04eebd695b200fefaae59e"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-23af70eccfaf-704.avif",
+            "width": 704,
+            "format": "avif",
+            "byteSize": 24905,
+            "sha256": "0eca88ba4e569b434612bca0ba4cf08733e0fe6346489361e0eeb45a63c26bb8"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-23af70eccfaf-832.avif",
+            "width": 832,
+            "format": "avif",
+            "byteSize": 31045,
+            "sha256": "c752e99c86637952154bcd8f7bb99c80f1f02197e6daa28a95b7c10276cf2ba0"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-23af70eccfaf-960.avif",
+            "width": 960,
+            "format": "avif",
+            "byteSize": 37205,
+            "sha256": "611978fc19e42808092e1e92e0d38130bb49d616f2e59af2fc4ce410c1617e73"
+          },
+          {
+            "src": "/optimized-assets/fed-june-fomc-meeting-23af70eccfaf-1024.avif",
+            "width": 1024,
+            "format": "avif",
+            "byteSize": 40587,
+            "sha256": "26d56e96c965abce60712b6a7220dbcd9a797781936113035a2f5add371f2b57"
+          }
+        ],
+        "visualCheck": "Full-frame display derivatives and cover crops inspected; aspect ratio and important subject detail preserved.",
+        "avifQuality": 65
+      }
+    },
+    {
+      "id": "varopreem-cressier-refinery-2026-10-25",
+      "article": "varopreem-growth-strategy-2026-10-25",
+      "filename": "varopreem-cressier-refinery.jpg",
+      "localPath": "/news-media/2026-10-25/varopreem-cressier-refinery.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "Cressier NE - Raffinerie.jpg",
+      "titles": {
+        "zh-CN": "克雷西耶炼油厂",
+        "zh-TW": "克雷西耶煉油廠",
+        "en": "Cressier refinery",
+        "ru": "НПЗ в Крессье",
+        "fr": "Raffinerie de Cressier"
+      },
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/1/10/Cressier_NE_-_Raffinerie.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2023-04-30",
+      "dateRole": "photograph date from asset-specific source page",
+      "captions": {
+        "zh-CN": "资料照片：2023年4月30日，瑞士克雷西耶炼油厂。作品《Cressier NE - Raffinerie》，摄影：Hadi。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+        "zh-TW": "資料照片：2023年4月30日，瑞士克雷西耶煉油廠。作品《Cressier NE - Raffinerie》，攝影：Hadi。來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg)；[CC0 1.0公共領域貢獻](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+        "en": "Archive photograph: Cressier refinery, Switzerland, April 30, 2023. “Cressier NE - Raffinerie”, photograph by Hadi. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg); [CC0 1.0 public-domain dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).",
+        "ru": "Архивное фото: нефтеперерабатывающий завод в Крессье, Швейцария, 30 апреля 2023 года. «Cressier NE - Raffinerie», автор Hadi. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg); [передано в общественное достояние по CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).",
+        "fr": "Photo d’archives : raffinerie de Cressier, Suisse, le 30 avril 2023. « Cressier NE - Raffinerie », photographie de Hadi. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg) ; [dédiée au domaine public sous CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)."
+      },
+      "alts": {
+        "zh-CN": "2023年4月30日瑞士克雷西耶炼油厂、储罐与附近建筑的资料照片",
+        "zh-TW": "2023年4月30日瑞士克雷西耶煉油廠、儲罐與附近建築的資料照片",
+        "en": "Archival photograph of the Cressier refinery, storage tanks and nearby buildings in Switzerland, April 30, 2023",
+        "ru": "Архивное фото НПЗ в Крессье, резервуаров и соседних зданий в Швейцарии, 30 апреля 2023 года",
+        "fr": "Photo d’archives de la raffinerie de Cressier, de ses réservoirs et de bâtiments voisins en Suisse, le 30 avril 2023"
+      },
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-25",
+      "checkedAt": "2026-10-25",
+      "rightsReverifiedAt": "2026-10-25",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Downloaded source image",
+      "recommendedCoverObjectPosition": "50% 30%",
+      "creator": "Hadi",
+      "photographer": "Hadi",
+      "rightsEvidence": "Exact Commons file page read and archived directly: own work, Hadi, 30 April 2023, and explicit CC0 1.0 dedication. Original full-resolution file obtained, not a search thumbnail. Source has no conflicting copyright metadata.",
+      "reuseDecision": "Independent documentary photograph of the actual Cressier refinery. It predates the current strategy and is clearly labeled archival. Company website images remain uncleared under its restrictive imprint.",
+      "cropAssessment": "Industrial complex is in upper half; 50% 30% 16:9 crop retains the red-and-white chimney and tanks, without focusing on foreground houses.",
+      "licenseObligations": "CC0 permits reuse without mandatory attribution; source, author, title and CC0 link retained voluntarily.",
+      "inputSha256": "878766187a79e080888c459654e763ea104cdb45c5d61c0e8a7dec20df9eef91",
+      "sha256": "48cae5a619f428d0d4c0f39ce4d8cc9dc4db6895780bbf2dc28a15d88a77bdaf",
+      "byteSize": 3431008,
+      "width": 4608,
+      "height": 3456,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [
+        "0xe1"
+      ],
+      "caption": "资料照片：2023年4月30日，瑞士克雷西耶炼油厂。作品《Cressier NE - Raffinerie》，摄影：Hadi。来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cressier_NE_-_Raffinerie.jpg)；[CC0 1.0公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "changes": "Only nonessential embedded metadata removed; source pixels and any ICC color profile are unchanged. No master cropping, resizing or re-encoding. Copyright and attribution remain in the visible captions and this record.",
+      "deliveryDerivatives": {
+        "status": "Generated and validated in the final static build on 2026-10-25; all editions were browser-checked at desktop and narrow CSS widths.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates proportional full-frame WebP and AVIF delivery images; these are distinct from the unchanged-pixel source master.",
+        "license": "CC0 1.0",
+        "licenseScope": "Image and delivery derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 4536,
+            "sha256": "95c4146edeff8949ae12a36750da3151c32144c6e54a6a781215833bb1f15bec"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 15772,
+            "sha256": "eb3f5984436b75b8a14ba7fb26bcf9575a9196fa08a73dd63ca4226c6bc86d0a"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 32744,
+            "sha256": "87484930104eb03ac9dc010400c402476ab2859f98a5f5d65f11a6a7bb53cc0b"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 67808,
+            "sha256": "04bec925228e2a5865fd4067118e5f5a869fe30b1a3ac71768af9d423e30f0c8"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 91194,
+            "sha256": "70fde14eea9f88dcae34f45a2fb13946c3b9fdfc033b3dbcac1a2125cfdb359d"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 124446,
+            "sha256": "169d3ed6e70acec3d45284dcd516be2f4ca56b64ce17d02958d938004b8ad71b"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 211010,
+            "sha256": "35c7b2fb9f4d8016ccf37961c27ae1d8440f13c870739f681e4351980e4cbe13"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-647b2b013dc6-1920.webp",
+            "width": 1920,
+            "format": "webp",
+            "byteSize": 425158,
+            "sha256": "ec78b45de4ee11ac2bc0445c24fb9c0616a44f63c1240eafeb1f3a5f3f8059ab"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-160.avif",
+            "width": 160,
+            "format": "avif",
+            "byteSize": 4185,
+            "sha256": "5404a0a88a76043ac4ffdd1d74b89c8d826c3373b24eddb836b82aaf0a7c92bc"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-320.avif",
+            "width": 320,
+            "format": "avif",
+            "byteSize": 13969,
+            "sha256": "9b3b79c131ca230b57f652e3e603f718b3e893b7cebe7524656e678bf9597e6c"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-480.avif",
+            "width": 480,
+            "format": "avif",
+            "byteSize": 28961,
+            "sha256": "a89c64ce3663b5b682d40b717322b522d4e70f449c0ac613c02c006dbf1210cc"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-704.avif",
+            "width": 704,
+            "format": "avif",
+            "byteSize": 60206,
+            "sha256": "ddb26ced1288d7640ea3765a4d98db3a4a063754162fc814ad01952e6a9118b8"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-832.avif",
+            "width": 832,
+            "format": "avif",
+            "byteSize": 80536,
+            "sha256": "1c9a7c469d8f40d9fed99d7a06dc496adde6e43872c6890c5fdebf118ef8bf78"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-960.avif",
+            "width": 960,
+            "format": "avif",
+            "byteSize": 110269,
+            "sha256": "54fe15248d65fda734408eaccc84ba1a85c2ccf74a31a24af16fabba7c5c2781"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-1280.avif",
+            "width": 1280,
+            "format": "avif",
+            "byteSize": 183506,
+            "sha256": "7e9ec8cee983e3c2267c63e376f00a953f1a03997224b4ffe2064ce45e739ca3"
+          },
+          {
+            "src": "/optimized-assets/varopreem-cressier-refinery-e3cbba50d1d4-1920.avif",
+            "width": 1920,
+            "format": "avif",
+            "byteSize": 368576,
+            "sha256": "809c4e4d348580db499444c6dad49c98474cab55d893d58f684a7f515a6ec81b"
+          }
+        ],
+        "visualCheck": "Full-frame display derivatives and cover crops inspected; aspect ratio and important subject detail preserved.",
+        "avifQuality": 60
+      }
+    },
+    {
+      "id": "uk-hm-treasury-plaque-2026-10-25",
+      "article": "english-mayor-growth-finance-2026-10-25",
+      "filename": "uk-hm-treasury-plaque.jpg",
+      "localPath": "/news-media/2026-10-25/uk-hm-treasury-plaque.jpg",
+      "kind": "archival_documentary_photo",
+      "sourceSelected": false,
+      "title": "HM Treasury building plaque",
+      "titles": {
+        "zh-CN": "英国财政部建筑标牌",
+        "zh-TW": "英國財政部建築標牌",
+        "en": "HM Treasury building plaque",
+        "ru": "Вывеска Министерства финансов Великобритании",
+        "fr": "Plaque du ministère britannique des Finances"
+      },
+      "sourcePageURL": "https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up",
+      "sourceURL": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg",
+      "rightsEvidenceURL": "https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up",
+      "license": "Open Government Licence v3.0",
+      "licenseURL": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "captions": {
+        "zh-CN": "资料照片：英国财政部建筑标牌。© Crown copyright。来源：[英国政府公告](https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up)；[开放政府许可3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)。",
+        "zh-TW": "資料照片：英國財政部建築標牌。© Crown copyright。來源：[英國政府公告](https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up)；[開放政府授權3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)。",
+        "en": "Archive photograph: the HM Treasury building plaque. © Crown copyright. Source: [UK government announcement](https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up); [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
+        "ru": "Архивное фото: вывеска Министерства финансов Великобритании. © Crown copyright. Источник: [сообщение правительства Великобритании](https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up); [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
+        "fr": "Photo d’archives : plaque du ministère britannique des Finances. © Crown copyright. Source : [communiqué du gouvernement britannique](https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up) ; [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)."
+      },
+      "alts": {
+        "zh-CN": "英国财政部建筑上刻有HM TREASURY字样的标牌资料照片",
+        "zh-TW": "英國財政部建築上刻有HM TREASURY字樣的標牌資料照片",
+        "en": "Archival photograph of the HM TREASURY lettering on the Treasury building",
+        "ru": "Архивное фото надписи HM TREASURY на здании Министерства финансов Великобритании",
+        "fr": "Photo d’archives de l’inscription HM TREASURY sur le bâtiment du ministère britannique des Finances"
+      },
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-25",
+      "checkedAt": "2026-10-25",
+      "rightsReverifiedAt": "2026-10-25",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Downloaded source image",
+      "recommendedCoverObjectPosition": "50% 50%",
+      "creator": "HM Treasury / UK Government",
+      "copyright": "© Crown copyright",
+      "rightsEvidence": "The exact announcement links this s960 photograph and declares all content OGL v3.0 except where stated. Its image markup/caption, downloaded EXIF/IPTC/XMP, and page contain no third-party credit or exception. GOV.UK image copyright standards expressly require third-party image credits on the destination page and otherwise permit Crown images under OGL; GOV.UK terms confirm that reuse rule. This is an asset-specific inspection, not automatic clearance of all government-hosted photos.",
+      "rightsSupportingURLs": [
+        "https://insidegovuk.blog.gov.uk/gov-uk-standards-and-guidelines/image-copyright-standards-for-gov-uk/",
+        "https://www.gov.uk/help/terms-conditions"
+      ],
+      "reuseDecision": "Use the exact neutral institutional photograph selected in the original government announcement, not the unlicensed Reuters politician photograph. Photo date is not established and is therefore omitted.",
+      "cropAssessment": "HM TREASURY lettering remains intact in centered 16:9 and 4:3 crops. Body uses full image.",
+      "licenseObligations": "Credit Crown copyright, link the source and OGL v3.0; do not imply government endorsement.",
+      "inputSha256": "3cf97fa0dc67dc08232af2c7e6530d098146b63aa3f5ce04652a507fd9092137",
+      "sha256": "cfc4e7d23304739c6470241e379432f52427365c5139088474f172caefeaa46c",
+      "byteSize": 180147,
+      "width": 960,
+      "height": 640,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [
+        "0xe1",
+        "0xe1"
+      ],
+      "caption": "资料照片：英国财政部建筑标牌。© Crown copyright。来源：[英国政府公告](https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up)；[开放政府许可3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)。",
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true
+      },
+      "changes": "Only nonessential embedded metadata removed; source pixels and any ICC color profile are unchanged. No master cropping, resizing or re-encoding. Copyright and attribution remain in the visible captions and this record.",
+      "deliveryDerivatives": {
+        "status": "Generated and validated in the final static build on 2026-10-25; all editions were browser-checked at desktop and narrow CSS widths.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing Sharp pipeline generates proportional full-frame WebP and AVIF delivery images; these are distinct from the unchanged-pixel source master.",
+        "license": "Open Government Licence v3.0",
+        "licenseScope": "Image and delivery derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-869bf9eec690-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 1802,
+            "sha256": "7e5cb30ac1f47562bcbffaeff4c3ae0209cec10561a485bf5b925f7dbb0f0aa3"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-869bf9eec690-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 4392,
+            "sha256": "c4cbc83cf539c4205a21e1263415334b7998050ea559d275f7ecabd0dc406663"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-869bf9eec690-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 7132,
+            "sha256": "0e5cb3f3fd2b1a473f8076efcbac6766f8718b1ff63e3068723f76f5e480c05f"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-869bf9eec690-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 13412,
+            "sha256": "ce80686d59ca3e509bad3602e53ac3dde0819364b786503348e55ff6d3e2bdec"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-869bf9eec690-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 22674,
+            "sha256": "0d11f057c15ffd7911ecb831e2b3919d7b638d42c474839d3bf33d1d5e3ebf26"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-869bf9eec690-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 51594,
+            "sha256": "39ac9abfa6caf2dae96fa2e821de11f6d2d64a314e1e292c76ca271dc16a03ed"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-040e39732c95-160.avif",
+            "width": 160,
+            "format": "avif",
+            "byteSize": 1474,
+            "sha256": "b8614f8e6dd5aac007e0487fdffd1206f2686c112e182295c5087bd94e003294"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-040e39732c95-320.avif",
+            "width": 320,
+            "format": "avif",
+            "byteSize": 3142,
+            "sha256": "6d53740bb8f7e246fbad91b16a308e551ef99361a903421f8912413d9500946a"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-040e39732c95-480.avif",
+            "width": 480,
+            "format": "avif",
+            "byteSize": 5267,
+            "sha256": "4586b0d66f7bee5e5fac2b20dc48f0e470ede14ce84d4f29a4ca7abb7afe1263"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-040e39732c95-704.avif",
+            "width": 704,
+            "format": "avif",
+            "byteSize": 8785,
+            "sha256": "eb226734e88b4ebd1ee0df3612b5fed44d32d5d6e04b3968f17f44e4a019b07a"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-040e39732c95-832.avif",
+            "width": 832,
+            "format": "avif",
+            "byteSize": 11804,
+            "sha256": "9f7e6d2315c3199118a1fd119d06ef93580ab21bf7867286ab35ab0f90838fe7"
+          },
+          {
+            "src": "/optimized-assets/uk-hm-treasury-plaque-040e39732c95-960.avif",
+            "width": 960,
+            "format": "avif",
+            "byteSize": 15332,
+            "sha256": "9b3791e07ecac9a7c5b70154780a2ede708b427c0c1cfa4c961ef53caafba0a7"
+          }
+        ],
+        "visualCheck": "Full-frame display derivatives and cover crops inspected; aspect ratio and important subject detail preserved.",
+        "avifQuality": 50
+      }
+    }
+  ],
+  "recommendedCovers": {
+    "kimi-cyber-risk-reduction-2026-10-25": "/news-media/2026-10-25/kimi-cyber-risk-concept.png",
+    "audi-georgia-production-plan-2026-10-25": "/news-media/2026-10-25/audi-q9-us.jpg",
+    "earnings-fed-week-preview-2026-10-25": "/news-media/2026-10-25/fed-september-press-conference.jpg",
+    "varopreem-growth-strategy-2026-10-25": "/news-media/2026-10-25/varopreem-cressier-refinery.jpg",
+    "english-mayor-growth-finance-2026-10-25": "/news-media/2026-10-25/uk-hm-treasury-plaque.jpg"
+  },
+  "excludedCandidates": [
+    {
+      "asset": "A234612 Gernot Döllner portrait",
+      "sourcePageURL": "https://www.audi.com/en/photos/detail/gernot-doellner-119380",
+      "decision": "excluded",
+      "reason": "Page offers free editorial use, but downloaded file metadata states use only against fee and credits Bernhard Huber. Do not remove that contradictory rights notice and publish. Separate Q9 and Walker images have been verified instead."
+    },
+    {
+      "asset": "Kimi brand downloads",
+      "sourcePageURL": "https://www.kimi.com/resources/kimi-brand",
+      "rightsURL": "https://www.kimi.com/zh-cn/policies/logo-usage-terms",
+      "decision": "not acquired",
+      "reason": "Editorial use is offered under Logo Usage Terms but download includes a required explicit acceptance checkbox. New agreements not authorized in this task; no acceptance made. This does not mean no brand originals exist."
+    },
+    {
+      "asset": "Kimi Commons UI screenshot",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Kimi-Screenshot-Rodrigo-Padula.png",
+      "decision": "excluded",
+      "reason": "Uploader CC BY 4.0 statement does not establish underlying application UI rights; image also does not document the present cyber-risk reduction release."
+    },
+    {
+      "asset": "VAROPreem company website photos",
+      "sourcePageURL": "https://www.varopreem.com/en/news/articles/varopreem-sets-out-value-growth-strategy-to-2030-driving-the-next-phase-of-growth/",
+      "rightsURL": "https://www.varopreem.com/en/imprint/",
+      "decision": "excluded",
+      "reason": "Imprint expressly reserves photographs and prohibits information/editorial reuse without written permission; no separate asset-level grant found."
+    },
+    {
+      "asset": "Cressier 02 (Paebi, October 13, 2015)",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Raffinerie_Cressier_02.JPG",
+      "decision": "not selected",
+      "reason": "Usable CC BY-SA 4.0 original was downloaded and inspected. Older close view with a barge in foreground adds little necessary story evidence compared with the clearer 2023 refinery overview; do not add only to inflate image count."
+    },
+    {
+      "asset": "All supplied commercial Reuters selections",
+      "decision": "not licensed",
+      "reason": "Source credits/metadata establish identity, not permission. No Reuters license has been acquired, no purchase attempted, and none of those files is published."
+    }
+  ],
+  "metadataMethod": "JPEG APP1/APP13/COM metadata segments removed without changing compressed image scan bytes; APP2 ICC and APP14 color interpretation retained. A minimal reviewed rights-only XMP packet replaces original metadata only where the source identifies an individual photographer. Generated PNG retained byte-for-byte including content credentials. Decoded pixels and ICC compared against acquisition files for each final master.",
+  "deliveryNote": "Use recommended cover file as the exact same file in article body, once per article. Additional complementary assets are Audi Walker and June FOMC. Covers require object-fit:cover at the manifest focus; source masters and body images remain uncropped. All seven assets have full five-language captions and alt text. No commit or push performed.",
+  "validation": {
+    "date": "2026-10-25",
+    "sharpMetadataCheck": "Passed: no EXIF/IPTC; only exact documented rights-only XMP in Walker and FOMC meeting assets.",
+    "pixelIdentity": "Passed for every final master.",
+    "iccIdentity": "Passed for every asset; Q9 retains its embedded Adobe RGB profile.",
+    "coverCropCheck": "Rendered 16:9 and 4:3 previews with each recommended focus and visually inspected.",
+    "publicFiles": 7,
+    "unlicensedReutersImagesPublished": 0,
+    "newTermsAccepted": false,
+    "purchases": false,
+    "browserCheck": "All 25 article editions: desktop 1180 CSS px and narrow 393 CSS px (388 usable), using ordinary browser zoom, not mobile emulation. All seven media assets loaded in each language; no horizontal page overflow."
+  },
+  "sourceSelectedImages": [
+    {
+      "candidate": 1,
+      "topic": "Kimi cyber-capability reduction",
+      "suppliedDescription": "Moonshot AI logo illustration, September 5, 2026; Reuters/Dado Ruvic.",
+      "sourceArticleURL": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/",
+      "identityFindings": "Reuters Connect has two matching-date Moonshot logo illustrations from Zenica by Dado Ruvic: RC27ENARK16O (4000 by 2667) and RC27ENA4HRS0 (4000 by 2666). The textual handoff does not distinguish which variant was selected.",
+      "assetPageURLs": [
+        "https://www.reutersconnect.com/item/illustration-shows-moonshot-ai-logo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjdFTkFSSzE2Tw",
+        "https://www.reutersconnect.com/item/illustration-shows-moonshot-ai-logo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjdFTkE0SFJTMA"
+      ],
+      "actualHandoffGaps": [
+        "Exact variant and source image file were not delivered",
+        "No acquired Reuters reuse licence was delivered"
+      ],
+      "resolution": "Commercial selections are not published. Kimi's brand download exists but requires explicit acceptance of new Logo Usage Terms, which was not undertaken. A separately generated and visibly labelled non-data conceptual illustration is used; it is not event evidence."
+    },
+    {
+      "candidate": 2,
+      "topic": "Proposed United States outbound-investment rules",
+      "suppliedDescription": "United States and Chinese flags illustration; Reuters/Dado Ruvic.",
+      "sourceArticleURL": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/",
+      "identityFindings": "The syndicated article caption identifies a Dado Ruvic illustration dated March 20, 2025. It is archival, not a photograph of the October 2026 proposal.",
+      "actualHandoffGaps": [
+        "Exact asset identifier and source image file were not delivered",
+        "No acquired Reuters reuse licence was delivered"
+      ],
+      "resolution": "Topic excluded under the editorial scope filter. No image published or licence purchase attempted."
+    },
+    {
+      "candidate": 3,
+      "topic": "Audi Georgia production plan",
+      "suppliedDescription": "Gold Audi vehicle outside a Perry, Georgia rally venue, October 24, 2026; Reuters/Bo Erickson.",
+      "sourceArticleURL": "https://www.reuters.com/business/autos-transportation/trump-set-announce-plan-by-audi-build-us-factory-georgia-source-says-2026-10-24/",
+      "identityFindings": "Reuters Connect identifies RC2X9OANU6AO: gold Audi Q9 outside the rally venue before the president's arrival, Perry, October 24, 2026; Bo Erickson; mobile-phone photograph, 4032 by 2688.",
+      "assetPageURLs": [
+        "https://www.reutersconnect.com/item/gold-audi-q9-suv-is-displayed-outside-of-the-venue-of-us-president-donald-trumps-rally-before-his-arrival-in-perry/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlg5T0FOVTZBTw"
+      ],
+      "actualHandoffGaps": [
+        "Original image file was not delivered",
+        "No acquired Reuters reuse licence was delivered"
+      ],
+      "resolution": "Reuters selection is not published. Audi's actual Q9 source-release image and a separately verified Gerd Walker portrait are used under asset-specific editorial permissions. A different portrait with contradictory fee-required metadata was excluded."
+    },
+    {
+      "candidate": 4,
+      "topic": "Coming earnings and Federal Reserve week",
+      "suppliedDescription": "AI and financial-market keyboard illustration; Reuters/Dado Ruvic.",
+      "sourceArticleURL": "https://www.reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23/",
+      "identityFindings": "The syndicated caption identifies an AI/financial keyboard illustration by Dado Ruvic dated October 19, 2026. It is an illustration, not a market-event photograph.",
+      "actualHandoffGaps": [
+        "Exact asset identifier and source image file were not delivered",
+        "No acquired Reuters reuse licence was delivered"
+      ],
+      "resolution": "Commercial selection is not published. Two public-domain Federal Reserve originals provide complementary press-conference and committee-meeting context, with their actual September and June 2026 dates."
+    },
+    {
+      "candidate": 5,
+      "topic": "VAROPreem growth strategy",
+      "suppliedDescription": "Cressier refinery aerial image dated April 23, 2026; Reuters. Photographer omitted from the handoff.",
+      "sourceArticleURL": "https://www.reuters.com/business/energy/swiss-energy-company-varopreem-looks-double-earnings-by-2030-europe-faces-fuel-2026-10-23/",
+      "identityFindings": "Reuters Connect contains a matching-date Cressier refinery record, RC2VUKA9X7NL, credited to Denis Balibouse. This is a candidate match, not proof that its pixels or view match the handed-off selection.",
+      "assetPageURLs": [
+        "https://www.reutersconnect.com/item/the-refinery-in-cressier/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlZVS0E5WDdOTA"
+      ],
+      "actualHandoffGaps": [
+        "Exact selected asset identity and original file remain unconfirmed",
+        "Photographer was absent from the supplied description",
+        "No acquired Reuters reuse licence was delivered"
+      ],
+      "resolution": "Reuters selection is not published. The corporate imprint reserves editorial photo reuse without permission. A separately verified CC0 photograph of the actual Cressier refinery, dated April 30, 2023, is used as archival context. A second licensed refinery view was inspected but omitted because it added little complementary information."
+    },
+    {
+      "candidate": 6,
+      "topic": "English mayoral growth finance proposal",
+      "suppliedDescription": "John Healey at the Labour conference in Liverpool; Reuters/Phil Noble.",
+      "sourceArticleURL": "https://www.reuters.com/world/uk/uk-budget-set-hand-english-mayors-new-borrowing-powers-growth-funding-2026-10-24/",
+      "identityFindings": "The Reuters syndication caption identifies Phil Noble's photograph of John Healey at the Liverpool Labour conference on September 28, 2026. A separately indexed interview image is not assumed to be the same asset.",
+      "verificationURLs": [
+        "https://uk.finance.yahoo.com/news/uk-budget-set-hand-english-213644760.html"
+      ],
+      "actualHandoffGaps": [
+        "Exact selected asset identifier and source file were not delivered",
+        "No acquired Reuters reuse licence was delivered"
+      ],
+      "resolution": "Commercial selection is not published. The HM Treasury plaque image actually accompanying the cited government investment-rules announcement is used under the Open Government Licence with source attribution; no unsupported capture date is supplied."
+    },
+    {
+      "candidate": 7,
+      "topic": "North Korean leader visit and New Yalu River Bridge",
+      "suppliedDescription": "Seoul railway station television image of Kim Jong Un, October 24, 2026; AP/Ahn Young-joon.",
+      "sourceArticleURL": "https://apnews.com/article/south-korea-north-kim-jong-un-china-2459fe49f876ceb0c1c17296c70627f7",
+      "identityFindings": "The syndicated caption identifies a photograph taken at Seoul railway station on October 24 of a television displaying a file image of Kim Jong Un. It is neither a photograph of the bridge nor direct evidence of the reported visit.",
+      "verificationURLs": [
+        "https://meadowlakenow.com/2026/10/24/north-korean-leader-kim-jong-un-visits-china-south-korean-media-report/"
+      ],
+      "actualHandoffGaps": [
+        "Exact AP asset identifier and original file were not delivered",
+        "No acquired AP reuse licence was delivered"
+      ],
+      "resolution": "Topic excluded under the editorial scope filter; bridge opening was October 15, not October 24. No image published or licence purchase attempted."
+    },
+    {
+      "candidate": 8,
+      "topic": "Brazil presidential-runoff campaigning",
+      "suppliedDescription": "Lula at a final campaign rally in São Paulo, October 24, 2026; AP/Natacha Pisarenko.",
+      "sourceArticleURL": "https://apnews.com/article/brazil-bolsonaro-lula-election-runoff-19592c4531adc831947e0d079dd84aab",
+      "identityFindings": "The article syndication verifies the Natacha Pisarenko rally caption. It contains three photographs with different credits, so the delivered description must not be applied to every picture in the article.",
+      "verificationURLs": [
+        "https://www.clickondetroit.com/news/world/2026/10/24/brazils-lula-bolsonaro-close-arguments-to-voters-ahead-of-nail-biting-election-runoff/"
+      ],
+      "actualHandoffGaps": [
+        "Exact AP asset identifier and original file were not delivered",
+        "No acquired AP reuse licence was delivered"
+      ],
+      "resolution": "Topic excluded under the editorial scope filter. No image published or licence purchase attempted."
+    }
+  ]
+}

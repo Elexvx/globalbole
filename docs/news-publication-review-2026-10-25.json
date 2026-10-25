@@ -1,0 +1,113 @@
+{
+  "issue": "2026-10-25",
+  "checkedAt": "2026-10-25",
+  "sourceDelivery": {
+    "candidateCount": 8,
+    "eventDateRange": "2026-10-23 through 2026-10-25, with older background separately identified",
+    "format": "Eight short Chinese news briefs with original article links and textual selected-image descriptions and credits. No full-length manuscripts, selected image files or acquired media licenses were supplied. Five topics were independently verified and developed into complete original articles."
+  },
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "mediaAudit": "docs/news-media/2026-10-25/provenance.json",
+  "selected": [
+    {
+      "candidate": 1,
+      "translationKey": "kimi-cyber-risk-reduction-2026-10-25",
+      "eventDate": "Hosted availability documented 2026-10-23; Reuters reporting 2026-10-24; undated original technical blog verified 2026-10-25"
+    },
+    {
+      "candidate": 3,
+      "translationKey": "audi-georgia-production-plan-2026-10-25",
+      "eventDate": "Georgia announcement 2026-10-24 and Audi release 2026-10-25; future investment and production milestones"
+    },
+    {
+      "candidate": 4,
+      "translationKey": "earnings-fed-week-preview-2026-10-25",
+      "eventDate": "Preview for week starting 2026-10-26; earnings 2026-10-28 and 2026-10-29; Fed meeting 2026-10-27 through 2026-10-28"
+    },
+    {
+      "candidate": 5,
+      "translationKey": "varopreem-growth-strategy-2026-10-25",
+      "eventDate": "2026-10-23 strategy announcement; earlier background dated separately"
+    },
+    {
+      "candidate": 6,
+      "translationKey": "english-mayor-growth-finance-2026-10-25",
+      "eventDate": "2026-10-24 pre-Budget report; 2026-10-22 government background; Budget scheduled 2026-10-28"
+    }
+  ],
+  "held": [
+    {
+      "candidate": 2,
+      "topic": "China reaction to proposed United States outbound-investment rules",
+      "reason": "The central hook is an interstate national-security dispute outside the selected editorial scope. No alternative-language publication. The proposal was announced by Treasury on October 22 and was not an effective final rule."
+    },
+    {
+      "candidate": 7,
+      "topic": "North Korean leader visit and New Yalu River Bridge",
+      "reason": "The new event centers on political and diplomatic relations. The bridge opened October 15, not October 24; relabeling the earlier infrastructure opening would also be inaccurate."
+    },
+    {
+      "candidate": 8,
+      "topic": "Brazil presidential-runoff campaigning",
+      "reason": "The candidate centers on electoral campaigning and political competition outside the selected editorial scope. No result was available at review time. Existing October 5 first-round coverage is not republished."
+    }
+  ],
+  "importantCorrections": [
+    "Kimi results are company-run internal pass@3 benchmark measurements, not independent certification or real-world attack-success rates. Hosted access and future weight release are distinct; the promise is by November 4.",
+    "Audi now has official investment-plan announcements. Capacity, investment and employment are future plans. Construction and production phases must not be flattened across differently worded official releases.",
+    "The coming earnings week and Fed meeting are scheduled events, not results. Different earnings-growth data snapshots are not mixed.",
+    "VAROPreem targets more than twice 2025 EBITDA under mid-cycle assumptions; the unverified approximately $1 billion 2025 baseline and derived dollar target are omitted.",
+    "English mayoral funding amounts are attributed pre-Budget reporting. Next year does not establish a specific fiscal-year allocation, operational facility or distributed funds.",
+    "The New Yalu River Bridge opened October 15. The October 24 political visit is not a new opening."
+  ],
+  "preservation": {
+    "baseCommit": "38b97e462d1de4d79037d51c1f1a17ed176a7a95",
+    "policy": "Preserve all 425 earlier editions and canonical routes, unrelated tracked files, established layout, and all withdrawn republish:false records. Publication-log additions are append-only for this batch."
+  },
+  "verificationStatus": "Prepublication test, build, export, source, media and browser checks passed. Durable backup, atomic main update and same-commit production verification remain release gates and are not asserted by this prepublication record.",
+  "sourceUseAudit": "docs/news-media/2026-10-25/source-use-audit.json",
+  "prepublicationChecks": {
+    "tests": {
+      "passed": 120,
+      "failed": 0
+    },
+    "build": "Passed: static production build",
+    "types": "Passed: tsc --noEmit",
+    "export": {
+      "htmlPages": 6364,
+      "localReferences": 405330,
+      "status": "Passed"
+    },
+    "seo": {
+      "canonicalArticleEditions": 450,
+      "localizedHomes": 5,
+      "sitemapUrls": 1255,
+      "status": "Passed"
+    },
+    "browser": {
+      "browser": "Cloud Chromium",
+      "desktopCssWidth": 1180,
+      "narrowCssWidth": 393,
+      "narrowUsableCssWidth": 388,
+      "method": "Ordinary 300% browser zoom; not device emulation; no DevTools used",
+      "detailEditionsPerViewport": 25,
+      "localizedHomesPerViewport": 5,
+      "mediaAssetsPerLanguage": 7,
+      "horizontalOverflowFailures": 0,
+      "imageLoadFailures": 0,
+      "languageSwitches": 5,
+      "sourceAnchorChecks": 5,
+      "localizedIssueCategoryTagAndAllNewsChecks": 20,
+      "mobileMenu": "Opened successfully at narrow width",
+      "rssSitemap": "Rendered in browser and verified by export/SEO tests",
+      "oldCanonicalAndLegacyUrl": "Rendered successfully"
+    },
+    "preservation": "All 425 prior article files and all 425 public article records are unchanged; prior publication batches and strict withdrawal records preserved."
+  }
+}

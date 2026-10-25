@@ -1,0 +1,1221 @@
+{
+  "issue": "2026-10-25",
+  "verificationDate": "2026-10-25",
+  "purpose": "Cumulative source-use accounting for the five complete language editions. Restricted-source claims are bounded; substantive depth additionally relies on verified public-domain or openly licensed institutional material. Exact original source titles are retained in the article notes.",
+  "audits": [
+    {
+      "group": "audi-georgia-production-plan-2026-10-25-source-audit.json",
+      "review": {
+        "translationKey": "audi-georgia-production-plan-2026-10-25",
+        "publication_date": "2026-10-25",
+        "five_editions": [
+          "zh-CN",
+          "zh-TW",
+          "en",
+          "ru",
+          "fr"
+        ],
+        "budget_method": "Latin/Cyrillic visible words counted after removal of markup and URL destinations. Bibliographic full source titles, source notes and repeated named references are included. Chinese uses explicitly recorded manual word segmentation plus a two-word per-edition margin, not whitespace counts. Titles are charged in full to source1. Description and analytical body are separately attributed to federal sources and original reasoning, not commercial announcements. The general mathematical meaning of pass@3 and the limitation on real-world inference are original methodological explanation, not a paraphrase of additional company reporting.",
+        "sources": [
+          {
+            "title": "Audi to establish first U.S. production site in Georgia, investing $4 billion and creating 4,500 jobs",
+            "url": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420",
+            "date": "2026-10-25",
+            "accessed": "2026-10-25",
+            "rights": "No open reuse license established; restricted 200-word cumulative budget across five editions. No prose quotation. Original bibliographic title is retained and counted.",
+            "budget_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "title_words": 5,
+                "description_words": 0,
+                "lead_words": 9,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 34,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "zh-TW": {
+                "title_words": 5,
+                "description_words": 0,
+                "lead_words": 9,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 34,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "en": {
+                "title_words": 5,
+                "description_words": 0,
+                "lead_words": 18,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 43,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "ru": {
+                "title_words": 5,
+                "description_words": 0,
+                "lead_words": 16,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 41,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "fr": {
+                "title_words": 6,
+                "description_words": 0,
+                "lead_words": 18,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 44,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              }
+            },
+            "derived_words_all_five_editions": 196,
+            "facts_used": [
+              "Planned first US factory; annual capacity up to 200,000."
+            ],
+            "retrieval": "Primary Audi English source fully available through search index; direct open failed. German original independently corroborates it. No facts derived from Reddit or AP."
+          },
+          {
+            "title": "Gov. Kemp: Audi AG Selects Georgia to Invest $4 Billion in First US Manufacturing Facility",
+            "url": "https://gov.georgia.gov/press-releases/2026-10-24/gov-kemp-audi-ag-selects-georgia-invest-4-billion-first-us-manufacturing",
+            "date": "2026-10-24",
+            "accessed": "2026-10-25",
+            "rights": "No open reuse license established; restricted 200-word cumulative budget across five editions. No prose quotation. Original bibliographic title is retained and counted.",
+            "budget_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 14,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 34,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "zh-TW": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 14,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 34,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "en": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 17,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 37,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "ru": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 19,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 39,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "fr": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 25,
+                "source_note_words_including_original_title": 18,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 45,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              }
+            },
+            "derived_words_all_five_editions": 189,
+            "facts_used": [
+              "Peach County Middle Georgia Megasite; approximately $4 billion and 4,500 planned jobs."
+            ],
+            "retrieval": "Primary release URL failed direct open. Full official release read through its Forth distribution at https://www.forth.news/lists/gagov/CgMztthVtLe8T5UiRvmez, identified as Georgia Gov. Brian Kemp. Same release treated as one cumulative source, not a second allowance."
+          },
+          {
+            "title": "Glossary",
+            "date": "2021-12-16 updated",
+            "url": "https://www.census.gov/programs-surveys/qpc/about/glossary.html",
+            "rights": "Federal-agency employee-authored methodological text, public-domain basis verified; foreign rights not assumed waived",
+            "license_proof": {
+              "url": "https://www2.census.gov/foia/ds_policies/ds027.pdf",
+              "title": "Research Transparency and Public Access",
+              "location": "DS027 page 9, lines 301–305; reviewed December 2024"
+            },
+            "used_for": [
+              "Definition of full production capacity under normal realistic conditions"
+            ],
+            "estimated_derived_words_all_five_editions": 350
+          },
+          {
+            "title": "What is gross output by industry and how does it differ from gross domestic product (or value added) by industry?",
+            "date": "2018-02-12; updated 2019-10-21",
+            "url": "https://www.bea.gov/help/faq/1197",
+            "rights": "Verified public domain",
+            "license_proof": {
+              "url": "https://www.bea.gov/help/faq/145",
+              "title": "Is permission needed to reproduce information from the BEA web site?",
+              "date": "2006-01-17"
+            },
+            "used_for": [
+              "Gross output versus value added",
+              "Intermediate inputs",
+              "Avoiding double counting"
+            ],
+            "estimated_derived_words_all_five_editions": 1250
+          },
+          {
+            "title": "Handbook of Methods: Quarterly Census of Employment and Wages: Concepts",
+            "date": "2026-08-31 updated",
+            "url": "https://www.bls.gov/opub/hom/cew/concepts.htm",
+            "rights": "Verified public domain",
+            "license_proof": {
+              "url": "https://www.bls.gov/opub/copyright-information.htm",
+              "title": "BLS Copyright Information"
+            },
+            "used_for": [
+              "Filled jobs by workplace",
+              "Reference pay period including 12th of month",
+              "Workplace versus residence measures",
+              "Multiple-job counting"
+            ],
+            "estimated_derived_words_all_five_editions": 1100
+          }
+        ],
+        "original_analysis": [
+          "Capacity, investment, output, employment and regional value added answer different economic questions.",
+          "Illustrative implementation or economic scenarios are explicitly not claims about the companies."
+        ],
+        "excluded_claims": [
+          "Q7/Q8/Q9 model mix",
+          "25,000 Scout capacity",
+          "16% sales claim",
+          "Construction timeline details due differing company/state milestones",
+          "Current jobs, spending or operating output claimed as already achieved"
+        ],
+        "validation": {
+          "section_counts": {
+            "zh-CN": 5,
+            "zh-TW": 5,
+            "en": 5,
+            "ru": 5,
+            "fr": 5
+          }
+        }
+      }
+    },
+    {
+      "group": "earnings-fed",
+      "review": {
+        "article": "earnings-fed-week-preview-2026-10-25",
+        "issue": "2026-10-25",
+        "publication_date": "2026-10-25",
+        "languages": [
+          "zh-CN",
+          "zh-TW",
+          "en",
+          "ru",
+          "fr"
+        ],
+        "budget_method": "Count every Han character as one conservative unit, and each Unicode word/numeric token elsewhere as one unit. Strip link targets, retain visible original titles, dates, publisher names and explanatory notes. Every restricted source includes its exact used claim and full source note in every language, plus a charged per-language allowance for repeated thematic/calendar context. No source-derived company facts or FactSet figures appear in titles, descriptions, tags or image text. URL strings are link targets, not quoted prose. This deliberately overcounts Chinese relative to normal word segmentation.",
+        "restricted_totals": {
+          "1": 195,
+          "3": 196,
+          "4": 185,
+          "5": 176
+        },
+        "sources": [
+          {
+            "footnote": 1,
+            "title": "S&P 500 Earnings Season Update: October 23, 2026",
+            "date": "2026-10-23",
+            "url": "https://insight.factset.com/sp-500-earnings-season-update-october-23-2026",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "Copyrighted or no open reuse license verified. Limited cumulative source use; no claimed generic facts exemption.",
+            "limit_units_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "body_units": 32,
+                "source_note_units": 11,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 6,
+                "charged_units": 49
+              },
+              "zh-TW": {
+                "body_units": 32,
+                "source_note_units": 11,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 6,
+                "charged_units": 49
+              },
+              "en": {
+                "body_units": 13,
+                "source_note_units": 11,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 6,
+                "charged_units": 30
+              },
+              "ru": {
+                "body_units": 16,
+                "source_note_units": 11,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 6,
+                "charged_units": 33
+              },
+              "fr": {
+                "body_units": 17,
+                "source_note_units": 11,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 6,
+                "charged_units": 34
+              }
+            },
+            "cumulative_exact_claim_and_note_units": 165,
+            "cumulative_charged_units_including_context_allowance": 195,
+            "remaining_units": 5,
+            "direct_prose_quotations": 0
+          },
+          {
+            "footnote": 2,
+            "title": "Calendar: October 2026",
+            "date": "October 2026 calendar; accessed 2026-10-25",
+            "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "Federal Reserve Board-authored website text, public domain unless otherwise indicated. No third-party figure, photograph, logo or other third-party material reused.",
+            "rights_policy_url": "https://www.federalreserve.gov/disclaimer.htm",
+            "rights_proof": "The official Board disclaimer states that, unless otherwise indicated, its website information is public domain and may be copied and distributed without permission; it requests citation to the Board. Opened and verified 2026-10-25.",
+            "attribution": "Board credited in all five source notes. Educational material identified as background; translation and adaptation credit included in source 7.",
+            "scope_of_use": "Meeting and announcement timetable.",
+            "budget_cap": "Not subject to the default copyrighted-source 200-word cap, based on the verified rights described above.",
+            "per_language_conservative_section_and_note_units": {
+              "zh-CN": 326,
+              "zh-TW": 326,
+              "en": 188,
+              "ru": 166,
+              "fr": 208
+            },
+            "cumulative_conservative_section_and_note_units": 1214,
+            "measurement_note": "Conservatively counts complete relevant sections, including independent editorial analysis and overlapping references; not an assertion that every word derives from this source."
+          },
+          {
+            "footnote": 3,
+            "title": "Alphabet Announces Date of Third Quarter 2026 Financial Results Conference Call",
+            "date": "2026-10-06",
+            "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx",
+            "verified_at": "2026-10-25",
+            "verification": "The supplied Alphabet direct URL was not accessible through web open. The indexed Publicnow text carries the original Alphabet announcement in full, says it was published by Alphabet 2026-10-06 and distributed unedited and unaltered. Its search result verifies October 28, 13:30 Pacific/16:30 Eastern and release before the call; opening the mirror returned 403. Do not represent the Alphabet direct URL as successfully opened.",
+            "rights": "Copyrighted or no open reuse license verified. Limited cumulative source use; no claimed generic facts exemption.",
+            "limit_units_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "body_units": 21,
+                "source_note_units": 19,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 48
+              },
+              "zh-TW": {
+                "body_units": 20,
+                "source_note_units": 19,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 47
+              },
+              "en": {
+                "body_units": 10,
+                "source_note_units": 15,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 33
+              },
+              "ru": {
+                "body_units": 9,
+                "source_note_units": 16,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 33
+              },
+              "fr": {
+                "body_units": 11,
+                "source_note_units": 16,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 35
+              }
+            },
+            "cumulative_exact_claim_and_note_units": 156,
+            "cumulative_charged_units_including_context_allowance": 196,
+            "remaining_units": 4,
+            "direct_prose_quotations": 0,
+            "corroborating_primary_release_republication": "https://www.publicnow.com/view/44136C85C4D5D099F2F1F5740EF199299B51D499",
+            "verification_evidence": "The indexed Publicnow republication at https://www.publicnow.com/view/44136C85C4D5D099F2F1F5740EF199299B51D499 reproduces the complete primary announcement and identifies Alphabet as its October 6 publisher."
+          },
+          {
+            "footnote": 4,
+            "title": "Microsoft announces quarterly earnings release date",
+            "date": "2026-10-07",
+            "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "Copyrighted or no open reuse license verified. Limited cumulative source use; no claimed generic facts exemption.",
+            "limit_units_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "body_units": 28,
+                "source_note_units": 9,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 45
+              },
+              "zh-TW": {
+                "body_units": 29,
+                "source_note_units": 9,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 46
+              },
+              "en": {
+                "body_units": 16,
+                "source_note_units": 8,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 32
+              },
+              "ru": {
+                "body_units": 15,
+                "source_note_units": 8,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 31
+              },
+              "fr": {
+                "body_units": 15,
+                "source_note_units": 8,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 31
+              }
+            },
+            "cumulative_exact_claim_and_note_units": 145,
+            "cumulative_charged_units_including_context_allowance": 185,
+            "remaining_units": 15,
+            "direct_prose_quotations": 0,
+            "time_conversion": "The official release gives 14:30 Pacific; the article uses 17:30 Eastern. Same October 28 date; three-hour conversion."
+          },
+          {
+            "footnote": 5,
+            "title": "Amazon.com to Webcast Third Quarter 2026 Financial Results Conference Call",
+            "date": "2026-10-15",
+            "url": "https://press.aboutamazon.com/2026/10/amazon-com-to-webcast-third-quarter-2026-financial-results-conference-call",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "Copyrighted or no open reuse license verified. Limited cumulative source use; no claimed generic facts exemption.",
+            "limit_units_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "body_units": 19,
+                "source_note_units": 15,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 42
+              },
+              "zh-TW": {
+                "body_units": 18,
+                "source_note_units": 15,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 41
+              },
+              "en": {
+                "body_units": 10,
+                "source_note_units": 13,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 31
+              },
+              "ru": {
+                "body_units": 9,
+                "source_note_units": 13,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 30
+              },
+              "fr": {
+                "body_units": 11,
+                "source_note_units": 13,
+                "front_matter_source_dependent_units": 0,
+                "repeated_context_conservative_allowance": 8,
+                "charged_units": 32
+              }
+            },
+            "cumulative_exact_claim_and_note_units": 136,
+            "cumulative_charged_units_including_context_allowance": 176,
+            "remaining_units": 24,
+            "direct_prose_quotations": 0
+          },
+          {
+            "footnote": 6,
+            "title": "Federal Reserve issues FOMC statement",
+            "date": "2026-09-16",
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "Federal Reserve Board-authored website text, public domain unless otherwise indicated. No third-party figure, photograph, logo or other third-party material reused.",
+            "rights_policy_url": "https://www.federalreserve.gov/disclaimer.htm",
+            "rights_proof": "The official Board disclaimer states that, unless otherwise indicated, its website information is public domain and may be copied and distributed without permission; it requests citation to the Board. Opened and verified 2026-10-25.",
+            "attribution": "Board credited in all five source notes. Educational material identified as background; translation and adaptation credit included in source 7.",
+            "scope_of_use": "Previous quarter-point rate increase and 3.75%–4.00% range.",
+            "budget_cap": "Not subject to the default copyrighted-source 200-word cap, based on the verified rights described above.",
+            "per_language_conservative_section_and_note_units": {
+              "zh-CN": 380,
+              "zh-TW": 380,
+              "en": 220,
+              "ru": 200,
+              "fr": 254
+            },
+            "cumulative_conservative_section_and_note_units": 1434,
+            "measurement_note": "Conservatively counts complete relevant sections, including independent editorial analysis and overlapping references; not an assertion that every word derives from this source."
+          },
+          {
+            "footnote": 7,
+            "title": "Monetary Policy: What Are Its Goals? How Does It Work?",
+            "date": "Updated 2021-07-29",
+            "url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "Federal Reserve Board-authored website text, public domain unless otherwise indicated. No third-party figure, photograph, logo or other third-party material reused.",
+            "rights_policy_url": "https://www.federalreserve.gov/disclaimer.htm",
+            "rights_proof": "The official Board disclaimer states that, unless otherwise indicated, its website information is public domain and may be copied and distributed without permission; it requests citation to the Board. Opened and verified 2026-10-25.",
+            "attribution": "Board credited in all five source notes. Educational material identified as background; translation and adaptation credit included in source 7.",
+            "scope_of_use": "Bank overnight reserve rate, short/floating-rate transmission, expected longer-term rates, communication, spending and investment channels; article-specific implications labeled analytically.",
+            "budget_cap": "Not subject to the default copyrighted-source 200-word cap, based on the verified rights described above.",
+            "per_language_conservative_section_and_note_units": {
+              "zh-CN": 415,
+              "zh-TW": 415,
+              "en": 240,
+              "ru": 219,
+              "fr": 285
+            },
+            "cumulative_conservative_section_and_note_units": 1574,
+            "measurement_note": "Conservatively counts complete relevant sections, including independent editorial analysis and overlapping references; not an assertion that every word derives from this source."
+          },
+          {
+            "footnote": 8,
+            "title": "Beginners' Guide to Financial Statements",
+            "date": "2014-01-12",
+            "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "SEC-authored government educational text or SEC staff interpretations; not a private company EDGAR filing. US government original text plus express website reuse permission.",
+            "rights_policy_url": "https://www.sec.gov/files/privacy.htm",
+            "rights_proof": "Official SEC Website Dissemination policy states that SEC.gov information is public information and may be copied or further distributed; seals, logos and artwork are excluded. Opened and verified 2026-10-25. Only SEC-authored text is used.",
+            "government_work_basis": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm",
+            "attribution": "SEC credited in every edition; translated/adapted educational and staff material identified in notes 8 and 9 with reuse policy.",
+            "scope_of_use": "Statement distinctions, non-cash and working-capital adjustments, capital investment versus depreciation timing, management discussion; computing-infrastructure applications are editorial analysis, not claimed new company facts.",
+            "budget_cap": "Not subject to the default copyrighted-source 200-word cap, based on the verified rights described above.",
+            "per_language_conservative_section_and_note_units": {
+              "zh-CN": 1117,
+              "zh-TW": 1115,
+              "en": 624,
+              "ru": 564,
+              "fr": 690
+            },
+            "cumulative_conservative_section_and_note_units": 4110,
+            "measurement_note": "Conservatively counts complete relevant sections, including independent editorial analysis and overlapping references; not an assertion that every word derives from this source."
+          },
+          {
+            "footnote": 9,
+            "title": "Non-GAAP Financial Measures",
+            "date": "Questions 100.02 and 102.07: 2016-05-17; collection updated 2022-12-13",
+            "url": "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures",
+            "verified_at": "2026-10-25",
+            "verification": "Opened official source through web tool.",
+            "rights": "SEC-authored government educational text or SEC staff interpretations; not a private company EDGAR filing. US government original text plus express website reuse permission.",
+            "rights_policy_url": "https://www.sec.gov/files/privacy.htm",
+            "rights_proof": "Official SEC Website Dissemination policy states that SEC.gov information is public information and may be copied or further distributed; seals, logos and artwork are excluded. Opened and verified 2026-10-25. Only SEC-authored text is used.",
+            "government_work_basis": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/html/USCODE-2024-title17-chap1-sec105.htm",
+            "attribution": "SEC credited in every edition; translated/adapted educational and staff material identified in notes 8 and 9 with reuse policy.",
+            "scope_of_use": "Free cash flow has no uniform definition, reconciliation and unavoidable uses, interperiod consistency; questions 100.02 and 102.07 only.",
+            "budget_cap": "Not subject to the default copyrighted-source 200-word cap, based on the verified rights described above.",
+            "per_language_conservative_section_and_note_units": {
+              "zh-CN": 392,
+              "zh-TW": 392,
+              "en": 221,
+              "ru": 192,
+              "fr": 259
+            },
+            "cumulative_conservative_section_and_note_units": 1456,
+            "measurement_note": "Conservatively counts complete relevant sections, including independent editorial analysis and overlapping references; not an assertion that every word derives from this source."
+          }
+        ],
+        "equivalence_check": {
+          "sections_per_language": 6,
+          "source_notes_per_language": 9,
+          "facts_retained": [
+            "179 S&P 500 reporters",
+            "Fed October 27–28, decision October 28 at 14:00 ET; press conference 14:30 ET",
+            "Alphabet Q3 October 28; call 16:30 ET",
+            "Microsoft FY2027 Q1 October 28 after close; call 17:30 ET",
+            "Amazon Q3 call October 29 17:00 ET",
+            "September 16 quarter-point increase to 3.75%–4.00%"
+          ],
+          "qualifiers_retained": [
+            "Preview, not results",
+            "Prior rate change, not October forecast",
+            "Company schedules establish no results",
+            "Fiscal versus calendar reporting labels",
+            "Overlapping announcements prevent attributing whole-day moves to one item without evidence",
+            "Profit, operating cash and financing are distinct",
+            "Capex and depreciation have different timing",
+            "Hypothetical infrastructure analysis is not a new spending announcement",
+            "Free cash flow definitions and reconciliation",
+            "Outlooks and realized returns differ"
+          ],
+          "excluded": [
+            "Divergent earnings-growth estimates",
+            "Historical Meta selloff presented as current news",
+            "Political speculation",
+            "Generated or redrawn charts"
+          ]
+        }
+      }
+    },
+    {
+      "group": "energy-uk",
+      "review": {
+        "createdAt": "2026-10-25T02:28:00Z",
+        "countingMethod": "Exact shared conservative formula: remove footnote markers; replace Markdown links with their visible labels; count each Han character [\\u3400-\\u9fff] as one unit; remove Han and count Unicode tokens [^\\W_]+(?:[’\\x27-][^\\W_]+)*. Original source titles, dates, publishers and explanatory notes are fully included. Source-dependent headline company names are separately charged. Additional context reserve is charged in every restricted-source/language pair. This deliberately overcounts Chinese relative to ordinary word segmentation. The prior English-equivalent estimates have been replaced, not retained as the operative audit.",
+        "sourceUse": [
+          {
+            "article": "varopreem-growth-strategy-2026-10-25",
+            "sourceId": 1,
+            "title": "VAROPreem sets out Value Growth Strategy to 2030 driving the next phase of growth",
+            "date": "2026-10-23",
+            "url": "https://www.varopreem.com/en/news/articles/varopreem-sets-out-value-growth-strategy-to-2030-driving-the-next-phase-of-growth/",
+            "license": "Restricted; default cumulative 200-word summarisation ceiling applied",
+            "licenseProof": null,
+            "budget": 200,
+            "accounting": "Core 2030 EBITDA exceeding twice 2025 under mid-cycle assumptions retained. Optional sustainable-energy share, capacity and synergy figures omitted in all five editions. The actual source date remains in the full source note. Exact claim and note measured with shared Han+Unicode-word formula; company name in title charged separately; four-unit reserve per edition covers repeated thematic context. Descriptions and tags are supported by licensed energy background. No 2025 dollar baseline or derived dollar target.",
+            "actualPerLanguageCounts": {
+              "zh-CN": {
+                "bodyUnits": 21,
+                "sourceNoteUnits": 16,
+                "sourceDependentFrontMatterUnits": 1,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 42
+              },
+              "zh-TW": {
+                "bodyUnits": 21,
+                "sourceNoteUnits": 16,
+                "sourceDependentFrontMatterUnits": 1,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 42
+              },
+              "en": {
+                "bodyUnits": 11,
+                "sourceNoteUnits": 16,
+                "sourceDependentFrontMatterUnits": 1,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 32
+              },
+              "ru": {
+                "bodyUnits": 14,
+                "sourceNoteUnits": 16,
+                "sourceDependentFrontMatterUnits": 1,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 35
+              },
+              "fr": {
+                "bodyUnits": 17,
+                "sourceNoteUnits": 16,
+                "sourceDependentFrontMatterUnits": 1,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 38
+              }
+            },
+            "exactClaimAndNoteUnits": 164,
+            "cumulativeChargedUnits": 189,
+            "remainingUnits": 11
+          },
+          {
+            "article": "varopreem-growth-strategy-2026-10-25",
+            "sourceId": 2,
+            "title": "VAROPreem marks 60 years of Cressier manufacturing hub at the heart of Switzerland’s energy system",
+            "date": "2026-10-06",
+            "url": "https://www.varopreem.com/en/news/articles/varopreem-marks-60-years-of-cressier-manufacturing-hub-at-the-heart-of-switzerland-s-energy-system/",
+            "license": "Restricted; default cumulative 200-word summarisation ceiling applied",
+            "licenseProof": null,
+            "budget": 200,
+            "accounting": "Annual co-processing plan for approximately 40,000 tonnes of renewable feedstock from 2027, complete original source title/date/publisher, plus three-unit reserve per edition for repeated Cressier/context mentions. No other Cressier statistics retained. Source date is October 6, not publication day.",
+            "actualPerLanguageCounts": {
+              "zh-CN": {
+                "bodyUnits": 24,
+                "sourceNoteUnits": 17,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 3,
+                "chargedUnits": 44
+              },
+              "zh-TW": {
+                "bodyUnits": 23,
+                "sourceNoteUnits": 17,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 3,
+                "chargedUnits": 43
+              },
+              "en": {
+                "bodyUnits": 16,
+                "sourceNoteUnits": 17,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 3,
+                "chargedUnits": 36
+              },
+              "ru": {
+                "bodyUnits": 16,
+                "sourceNoteUnits": 17,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 3,
+                "chargedUnits": 36
+              },
+              "fr": {
+                "bodyUnits": 17,
+                "sourceNoteUnits": 17,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 3,
+                "chargedUnits": 37
+              }
+            },
+            "exactClaimAndNoteUnits": 181,
+            "cumulativeChargedUnits": 196,
+            "remainingUnits": 4
+          },
+          {
+            "article": "varopreem-growth-strategy-2026-10-25",
+            "sourceId": 3,
+            "title": "Renewable Diesel",
+            "date": null,
+            "dateStatus": "No publication date displayed; not invented",
+            "accessedAt": "2026-10-25",
+            "url": "https://afdc.energy.gov/fuels/renewable-diesel",
+            "license": "U.S. government information in the public domain",
+            "licenseProof": {
+              "url": "https://www.energy.gov/web-policies",
+              "section": "Copyright, Restrictions and Permissions Notice",
+              "evidence": "Government information at DOE websites is in the public domain. The policy distinguishes protected third-party material. The AFDC page identifies itself as a DOE resource and links to this policy."
+            },
+            "budget": null,
+            "cumulativeEstimatedWords": 1500,
+            "accounting": "Government-authored prose only: hydrotreating, renewable-diesel/biodiesel distinction, ASTM D975, EN15940 and EN590 minimum-density caveat, feedstock/production-cost scaling challenges. No historical plant tables, sourced numerical emissions claims, logos, photographs or third-party research reproduced. All editions acknowledge DOE; non-English notes credit Global Bole News translation and adaptation."
+          },
+          {
+            "article": "varopreem-growth-strategy-2026-10-25",
+            "sourceId": 4,
+            "title": "Biofuels and the environment",
+            "date": null,
+            "dateStatus": "No publication date displayed; not invented",
+            "accessedAt": "2026-10-25",
+            "url": "https://www.eia.gov/energyexplained/biofuels/biofuels-and-the-environment.php",
+            "license": "U.S. government information in the public domain",
+            "licenseProof": {
+              "url": "https://www.eia.gov/about/copyrights_reuse.php",
+              "sections": [
+                "Public domain and use of EIA content",
+                "Quoting EIA content and translations"
+              ],
+              "evidence": "EIA permits use/distribution of its government information products and requests source/date acknowledgement and identification of the translating organisation with a link to the original."
+            },
+            "budget": null,
+            "cumulativeEstimatedWords": 1000,
+            "accounting": "Government background on combustion CO2, lifecycle boundaries, process heat, fossil hydrogen and used versus virgin lipid feedstocks. No third-party photograph or logo used. Undated/access date disclosed. Global Bole News explicitly credited for selection, adaptation and, in non-English notes, translation."
+          },
+          {
+            "article": "english-mayor-growth-finance-2026-10-25",
+            "sourceId": 1,
+            "title": "UK budget set to hand English mayors new borrowing powers, growth funding",
+            "date": "2026-10-24",
+            "url": "https://www.marketscreener.com/news/uk-budget-set-to-hand-english-mayors-new-borrowing-powers-growth-funding-ce785cdfde80f721",
+            "license": "Reuters copyright; default cumulative 200-word summarisation ceiling applied",
+            "licenseProof": null,
+            "budget": 200,
+            "accounting": "Only the proposed £1.5 billion borrowing facility for English mayors retained in natural complete-sentence leads. Optional £285m/£150m amounts, their timing and co-design detail omitted in every language. Actual Reuters date retained in complete source note. Four-unit context reserve per edition. No numbers repeated in metadata or body. The title and policy analysis are independently supported by licensed GOV.UK context. No FY2027/28 or unverified 2028 start date.",
+            "actualPerLanguageCounts": {
+              "zh-CN": {
+                "bodyUnits": 27,
+                "sourceNoteUnits": 15,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 46
+              },
+              "zh-TW": {
+                "bodyUnits": 27,
+                "sourceNoteUnits": 15,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 46
+              },
+              "en": {
+                "bodyUnits": 15,
+                "sourceNoteUnits": 15,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 34
+              },
+              "ru": {
+                "bodyUnits": 14,
+                "sourceNoteUnits": 15,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 33
+              },
+              "fr": {
+                "bodyUnits": 18,
+                "sourceNoteUnits": 15,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 37
+              }
+            },
+            "exactClaimAndNoteUnits": 176,
+            "cumulativeChargedUnits": 196,
+            "remainingUnits": 4
+          },
+          {
+            "article": "english-mayor-growth-finance-2026-10-25",
+            "sourceId": 2,
+            "title": "Budget Statement Wednesday 28 October",
+            "date": "2026-10-23",
+            "url": "https://www.parliament.uk/business/news/2026/october-2026/budget-statement-wednesday-28-october/",
+            "license": "Restricted for conservative budgeting; no broader reuse relied on",
+            "licenseProof": null,
+            "budget": 200,
+            "accounting": "Scheduled October 28 Budget date and complete source metadata only, plus four-unit context reserve per edition. No parliamentary photograph used.",
+            "actualPerLanguageCounts": {
+              "zh-CN": {
+                "bodyUnits": 12,
+                "sourceNoteUnits": 19,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 35
+              },
+              "zh-TW": {
+                "bodyUnits": 12,
+                "sourceNoteUnits": 19,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 35
+              },
+              "en": {
+                "bodyUnits": 7,
+                "sourceNoteUnits": 11,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 22
+              },
+              "ru": {
+                "bodyUnits": 6,
+                "sourceNoteUnits": 11,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 21
+              },
+              "fr": {
+                "bodyUnits": 8,
+                "sourceNoteUnits": 13,
+                "sourceDependentFrontMatterUnits": 0,
+                "repeatedContextReserve": 4,
+                "chargedUnits": 25
+              }
+            },
+            "exactClaimAndNoteUnits": 118,
+            "cumulativeChargedUnits": 138,
+            "remainingUnits": 62
+          },
+          {
+            "article": "english-mayor-growth-finance-2026-10-25",
+            "sourceId": 3,
+            "title": "PM puts communities first in government investment rules shake up",
+            "date": "2026-10-22",
+            "url": "https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up",
+            "license": "Crown copyright, Open Government Licence v3.0",
+            "licenseProof": {
+              "url": "https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up",
+              "section": "Footer",
+              "evidence": "All content is available under the Open Government Licence v3.0, except where otherwise stated. Government policy prose used; no third-party contribution or image reproduced.",
+              "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "budget": null,
+            "cumulativeEstimatedWords": 1250,
+            "accounting": "Place-based investment rationale, support for non-mayoral places, fiscal-devolution roadmap and control over allocations of a share of national taxes. Explicitly not used to establish Reuters amounts. Crown copyright/OGL link and translated surrounding source notes in every edition."
+          },
+          {
+            "article": "english-mayor-growth-finance-2026-10-25",
+            "sourceId": 4,
+            "title": "Capital finance: guidance on minimum revenue provision (5th edition)",
+            "date": "2024-04-10",
+            "dateType": "Displayed update date",
+            "url": "https://www.gov.uk/government/publications/capital-finance-guidance-on-minimum-revenue-provision-third-edition/capital-finance-guidance-on-minimum-revenue-provision-5th-edition",
+            "license": "Crown copyright 2024, Open Government Licence v3.0",
+            "licenseProof": {
+              "url": "https://www.gov.uk/government/publications/capital-finance-guidance-on-minimum-revenue-provision-third-edition/capital-finance-guidance-on-minimum-revenue-provision-5th-edition",
+              "section": "Opening licensing notice",
+              "evidence": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.",
+              "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "budget": null,
+            "cumulativeEstimatedWords": 750,
+            "accounting": "Existing Prudential Framework since 2004 and MRP affordability background. Not portrayed as final terms or automatic legal application of the proposed facility. No regulated legal advice or third-party code reproduced."
+          },
+          {
+            "article": "english-mayor-growth-finance-2026-10-25",
+            "sourceId": 5,
+            "title": "The Green Book (2026)",
+            "date": "2026-02-05",
+            "dateType": "Displayed update date",
+            "url": "https://www.gov.uk/government/publications/the-green-book--2/the-green-book-2026",
+            "license": "Crown copyright 2026, Open Government Licence v3.0",
+            "licenseProof": {
+              "url": "https://www.gov.uk/government/publications/the-green-book--2/the-green-book-2026",
+              "section": "Opening licensing notice",
+              "evidence": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.",
+              "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "budget": null,
+            "cumulativeEstimatedWords": 1750,
+            "accounting": "General appraisal, business-as-usual baseline, alternative options, distributional impacts, monetised/unmonetised value, optimism bias, sensitivity and monitoring/evaluation principles. No stale discount-rate statement used. Hypothetical access-to-employment/skills example and debt-service-versus-social-value analysis are identified editorial reasoning. Selection/adaptation/translation credits given in non-English notes."
+          }
+        ],
+        "checks": {
+          "fiveFullEditionsPerArticle": true,
+          "matchingSourceUrls": true,
+          "matchingFootnoteDefinitionsAndReferences": true,
+          "fourSubstantiveSectionsPerEdition": true,
+          "datesCorrect": true,
+          "metadata": true
+        },
+        "updatedAt": "2026-10-25T02:31:00Z"
+      }
+    },
+    {
+      "group": "kimi-cyber-risk-reduction-2026-10-25-source-audit.json",
+      "review": {
+        "translationKey": "kimi-cyber-risk-reduction-2026-10-25",
+        "publication_date": "2026-10-25",
+        "five_editions": [
+          "zh-CN",
+          "zh-TW",
+          "en",
+          "ru",
+          "fr"
+        ],
+        "budget_method": "Latin/Cyrillic visible words counted after removal of markup and URL destinations. Bibliographic full source titles, source notes and repeated named references are included. Chinese uses explicitly recorded manual word segmentation plus a two-word per-edition margin, not whitespace counts. Only the source-dependent Kimi name in each analytical headline is charged to source1; the framing of model-test limits is original analysis rather than a company-source claim. Description and analytical body are separately attributed to federal sources and original reasoning, not commercial announcements. The general mathematical meaning of pass@3 and the limitation on real-world inference are original methodological explanation, not a paraphrase of additional company reporting.",
+        "sources": [
+          {
+            "title": "Introducing Kimi K3.1 Pro",
+            "url": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
+            "date": null,
+            "accessed": "2026-10-25",
+            "rights": "No open reuse license established; restricted 200-word cumulative budget across five editions. No prose quotation. Original bibliographic title is retained and counted.",
+            "budget_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "title_words": 1,
+                "description_words": 0,
+                "lead_words": 24,
+                "source_note_words_including_original_title": 6,
+                "repeated_reference_words": 1,
+                "segmentation_margin": 2,
+                "total": 34,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
+                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+              },
+              "zh-TW": {
+                "title_words": 1,
+                "description_words": 0,
+                "lead_words": 24,
+                "source_note_words_including_original_title": 6,
+                "repeated_reference_words": 1,
+                "segmentation_margin": 2,
+                "total": 34,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
+                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+              },
+              "en": {
+                "title_words": 1,
+                "description_words": 0,
+                "lead_words": 20,
+                "source_note_words_including_original_title": 6,
+                "repeated_reference_words": 1,
+                "segmentation_margin": 2,
+                "total": 30,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
+                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+              },
+              "ru": {
+                "title_words": 1,
+                "description_words": 0,
+                "lead_words": 26,
+                "source_note_words_including_original_title": 7,
+                "repeated_reference_words": 1,
+                "segmentation_margin": 2,
+                "total": 37,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
+                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+              },
+              "fr": {
+                "title_words": 1,
+                "description_words": 0,
+                "lead_words": 30,
+                "source_note_words_including_original_title": 7,
+                "repeated_reference_words": 1,
+                "segmentation_margin": 2,
+                "total": 41,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated.",
+                "title_basis": "Only the source-dependent Kimi name is charged; discussion of model-test limits is original editorial framing grounded in NIST and methodological analysis."
+              }
+            },
+            "derived_words_all_five_editions": 176,
+            "facts_used": [
+              "Reported reduced internal xdev-bench-hard pass@3 after cyber-related mid-training/RL filtering.",
+              "Test provides bug hints and has no hard time or output limits. Numerical scores and predecessor comparison omitted to preserve methodological qualifiers within the cumulative budget."
+            ],
+            "title_verification": "Visible original H1 is Introducing Kimi K3.1 Pro; HTML/search title is Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence. Source note uses complete real H1, not an abbreviated invented title."
+          },
+          {
+            "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+            "url": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+            "date": "2026-10-23",
+            "accessed": "2026-10-25",
+            "rights": "No open reuse license established; restricted 200-word cumulative budget across five editions. No prose quotation. Original bibliographic title is retained and counted.",
+            "budget_all_five_editions": 200,
+            "per_language": {
+              "zh-CN": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 13,
+                "source_note_words_including_original_title": 16,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 31,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "zh-TW": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 13,
+                "source_note_words_including_original_title": 16,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 31,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "en": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 14,
+                "source_note_words_including_original_title": 16,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 32,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "ru": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 15,
+                "source_note_words_including_original_title": 16,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 33,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              },
+              "fr": {
+                "title_words": 0,
+                "description_words": 0,
+                "lead_words": 18,
+                "source_note_words_including_original_title": 16,
+                "repeated_reference_words": 0,
+                "segmentation_margin": 2,
+                "total": 36,
+                "description_basis": "Original editorial framing grounded in unrestricted federal source(s), with no company facts repeated."
+              }
+            },
+            "derived_words_all_five_editions": 163,
+            "facts_used": [
+              "Hosted K3.1 Pro and Highspeed availability; original line 140 promises weights by November 4, not necessarily on that day."
+            ]
+          },
+          {
+            "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+            "date": "2023-01",
+            "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+            "rights": "Verified federal/public reuse permission",
+            "license_proof": {
+              "url": "https://www.nist.gov/open/license",
+              "section": "NIST Technical Series Publications",
+              "attribution": "Each edition names NIST, identifies the publication and includes the courtesy/reuse statement. No figures, third-party adaptations or data charts reproduced."
+            },
+            "used_for": [
+              "Laboratory versus operational risk",
+              "Lifecycle and deployer responsibilities",
+              "Govern, Map, Measure, Manage",
+              "Uncertainty, independent assessment and deployment-relevant testing"
+            ],
+            "estimated_derived_words_all_five_editions": 2600
+          },
+          {
+            "title": "The NIST Cybersecurity Framework (CSF) 2.0",
+            "date": "2024-02-26",
+            "url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf",
+            "rights": "Verified federal/public reuse permission",
+            "license_proof": {
+              "url": "https://www.nist.gov/open/license",
+              "section": "NIST Technical Series Publications",
+              "attribution": "Each edition names NIST, identifies the publication and includes the courtesy/reuse statement. No figures, third-party adaptations or data charts reproduced."
+            },
+            "used_for": [
+              "Least privilege PR.AA-05",
+              "Monitoring and logs PR.PS-04",
+              "Response and recovery"
+            ],
+            "estimated_derived_words_all_five_editions": 700
+          }
+        ],
+        "original_analysis": [
+          "Causal attribution requires comparable evaluation conditions; model capability differs from deployment exposure.",
+          "Illustrative implementation or economic scenarios are explicitly not claims about the companies."
+        ],
+        "excluded_claims": [
+          "Actual attack-success interpretation",
+          "Released weights/on-November-4 certainty"
+        ],
+        "validation": {
+          "section_counts": {
+            "zh-CN": 5,
+            "zh-TW": 5,
+            "en": 5,
+            "ru": 5,
+            "fr": 5
+          }
+        }
+      }
+    }
+  ],
+  "finalManuscripts": [
+    {
+      "path": "content/issues/2026-10-25/en/audi-georgia-production-plan-2026-10-25.md",
+      "sha256": "bde5f50f1c7751bf1d7f6bdec04ca1a974185248dc0a1ed0a0d8f754ccb7b027"
+    },
+    {
+      "path": "content/issues/2026-10-25/en/earnings-fed-week-preview-2026-10-25.md",
+      "sha256": "954b629670230bc7feb5e9876deff048cae2a0ee65fcab1aee6d9d388d0347d5"
+    },
+    {
+      "path": "content/issues/2026-10-25/en/english-mayor-growth-finance-2026-10-25.md",
+      "sha256": "9c2255824c2f70b7b730f6ba903e84bb03913ba7ef3fffbc6173d83750e8810e"
+    },
+    {
+      "path": "content/issues/2026-10-25/en/kimi-cyber-risk-reduction-2026-10-25.md",
+      "sha256": "1cb8293c761bd63a375621129386777c779e851f51f7258b76dc0dab5cafedee"
+    },
+    {
+      "path": "content/issues/2026-10-25/en/varopreem-growth-strategy-2026-10-25.md",
+      "sha256": "200076b637c6cfbcab1bccf0057e4143b36a4581ffce90208dad0ab43e47f07c"
+    },
+    {
+      "path": "content/issues/2026-10-25/fr/audi-georgia-production-plan-2026-10-25.md",
+      "sha256": "6cf82af22c8018721464fd3dddb577f350663a4a0affcece890fdf28f827e9bb"
+    },
+    {
+      "path": "content/issues/2026-10-25/fr/earnings-fed-week-preview-2026-10-25.md",
+      "sha256": "c4a386fa128fb2cad19751995e0d36994dc9f533a03386fed144d30a49961773"
+    },
+    {
+      "path": "content/issues/2026-10-25/fr/english-mayor-growth-finance-2026-10-25.md",
+      "sha256": "a23b00f7607db20acdef2b8704efdb43788d195facab0e63e211a26f35cafd80"
+    },
+    {
+      "path": "content/issues/2026-10-25/fr/kimi-cyber-risk-reduction-2026-10-25.md",
+      "sha256": "2cdba00258525debe2d48aa40880691b00a915ad34785d080fa3d760ac09ded9"
+    },
+    {
+      "path": "content/issues/2026-10-25/fr/varopreem-growth-strategy-2026-10-25.md",
+      "sha256": "8d09dd91c68e2bb4dbd04f0bdad570783e8ef378d2d8f2a01ad1e7a5062f6442"
+    },
+    {
+      "path": "content/issues/2026-10-25/ru/audi-georgia-production-plan-2026-10-25.md",
+      "sha256": "0caa7e477e1af845554febe25b6f1f19ec360e809aa1a7e2c72af4ff4ee01c47"
+    },
+    {
+      "path": "content/issues/2026-10-25/ru/earnings-fed-week-preview-2026-10-25.md",
+      "sha256": "74a280eb78c41331e1788b195c5d136c4746ec900f5c179954c164a19e3480c6"
+    },
+    {
+      "path": "content/issues/2026-10-25/ru/english-mayor-growth-finance-2026-10-25.md",
+      "sha256": "284c9545bf78dcd6783761076eba9bb579c14cb90465ea6e827579983333fb08"
+    },
+    {
+      "path": "content/issues/2026-10-25/ru/kimi-cyber-risk-reduction-2026-10-25.md",
+      "sha256": "3ec1f3e51a17df8b26c8c716e564a1c75c449929f00622754fb66483c835bdd6"
+    },
+    {
+      "path": "content/issues/2026-10-25/ru/varopreem-growth-strategy-2026-10-25.md",
+      "sha256": "3ba4a54297edc70b326aefc86fe10754b8a1913577bbfaa59243faf3f09d8f3a"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-CN/audi-georgia-production-plan-2026-10-25.md",
+      "sha256": "d667034ff03f2e37a4ccb6dc8d6023464b88bc5c6d83079b1be1b6b7755d524a"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-CN/earnings-fed-week-preview-2026-10-25.md",
+      "sha256": "350769316d3a7a7084b963329710bc4f54802cda1cbda0c89a01a0dd11b62a6e"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-CN/english-mayor-growth-finance-2026-10-25.md",
+      "sha256": "a74241e2fb91133376f9d7949cf985afabecdf4045e2d6e01217ef8ad65b392a"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-CN/kimi-cyber-risk-reduction-2026-10-25.md",
+      "sha256": "807a8349e9fa411675431ceb052c2cefc366188216b30256b57ca6b56a56457e"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-CN/varopreem-growth-strategy-2026-10-25.md",
+      "sha256": "d000b33600eac2ee825d9b9d30ee316f6de9a1a4af534a68bca173476610eb8f"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-TW/audi-georgia-production-plan-2026-10-25.md",
+      "sha256": "a70bd8cf40d2af0999abcd6535a8167d1a4d30959199548a148f97d2f177b600"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-TW/earnings-fed-week-preview-2026-10-25.md",
+      "sha256": "3193b73efecacd9cff0b296f27886f42dca66e920a221295635963d829e000c8"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-TW/english-mayor-growth-finance-2026-10-25.md",
+      "sha256": "7a863c26a5c85371ea37599b4ca4a186570aced0434233e2aa0092ae199fbf59"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-TW/kimi-cyber-risk-reduction-2026-10-25.md",
+      "sha256": "43691c1033fab37579b4adf69344e4deed922bf980630277a09a60ed8c57bc7d"
+    },
+    {
+      "path": "content/issues/2026-10-25/zh-TW/varopreem-growth-strategy-2026-10-25.md",
+      "sha256": "fb2aec906771470e9c68286302205bbf471c7f26b7321d5b8f40324fe9000e12"
+    }
+  ]
+}

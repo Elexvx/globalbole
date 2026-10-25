@@ -1206,6 +1206,17 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
   object-position: 50% 0%;
 }
 
+/* Preserve the subjects of this edition's source photographs in cover frames. */
+.story-cover[data-source-image="/news-media/2026-10-25/audi-q9-us.jpg"] {
+  object-position: 50% 65%;
+}
+.story-cover[data-source-image="/news-media/2026-10-25/fed-september-press-conference.jpg"] {
+  object-position: 50% 40%;
+}
+.story-cover[data-source-image="/news-media/2026-10-25/varopreem-cressier-refinery.jpg"] {
+  object-position: 50% 30%;
+}
+
 
 
 /* Keep source notes visually separate while retaining readable links and backreferences. */

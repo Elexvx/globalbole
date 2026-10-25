@@ -8,6 +8,11 @@ import sharp from "sharp";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 25 portrait, lettering and refinery detail: reviewed against full-frame WebP.
+  // Exact paths preserve every earlier edition's encoder settings.
+  "/news-media/2026-10-25/audi-gerd-walker.jpg": 55,
+  "/news-media/2026-10-25/uk-hm-treasury-plaque.jpg": 50,
+  "/news-media/2026-10-25/varopreem-cressier-refinery.jpg": 60,
   // October 24 photos: full-frame review retains tank/sign and equipment detail.
   // Exact paths keep this transfer-budget adjustment isolated to the new issue.
   "/news-media/2026-10-24/oil-supply.jpg": 60,
