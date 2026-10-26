@@ -1219,6 +1219,11 @@ html[lang^="zh"] .markdown-body { letter-spacing: .02em; }
 
 
 
+/* Preserve the face and hat in this edition's archival portrait; body stays full-frame. */
+.story-cover[data-source-image="/news-media/2026-10-26/brazil-lula-official.jpg"] {
+  object-position: 50% 30%;
+}
+
 /* Keep source notes visually separate while retaining readable links and backreferences. */
 .markdown-body .footnotes {
   margin-top: 3rem;

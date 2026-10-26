@@ -8,6 +8,8 @@ import sharp from "sharp";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 26 archival portrait: reviewed full-frame against the WebP fallback.
+  "/news-media/2026-10-26/brazil-lula-official.jpg": 55,
   // October 25 portrait, lettering and refinery detail: reviewed against full-frame WebP.
   // Exact paths preserve every earlier edition's encoder settings.
   "/news-media/2026-10-25/audi-gerd-walker.jpg": 55,

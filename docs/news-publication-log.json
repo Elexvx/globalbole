@@ -4107,6 +4107,266 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-26-zh-CN",
+      "issue": "2026-10-26",
+      "publicationDate": "2026-10-26",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "brazil-runoff-official-result-2026-10-26",
+          "path": "content/issues/2026-10-26/zh-CN/brazil-runoff-official-result-2026-10-26.md",
+          "eventDate": "2026-10-25 runoff; official timestamped partial tally mathematically decisive",
+          "sources": [
+            {
+              "title": "Resultados — Eleição Geral Ordinária 2026, Presidente, 2º turno",
+              "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-25 22:25:37（巴西利亚时间；2026-10-26 01:25:37 UTC）· [Resultados — Eleição Geral Ordinária 2026, Presidente, 2º turno](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)",
+              "footnote": 1
+            },
+            {
+              "title": "Resultados — Eleição Geral Ordinária 2026, Presidente, 1º turno",
+              "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-05 12:51:05（页面当地时间）· [Resultados — Eleição Geral Ordinária 2026, Presidente, 1º turno](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados)",
+              "footnote": 2
+            },
+            {
+              "title": "Constituição da República Federativa do Brasil，art. 77",
+              "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "1988-10-05颁布、现行合并文本",
+              "footnote": 3
+            },
+            {
+              "title": "Esclarecimento sobre prorrogação da votação",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-25 18:44发布、19:02更新",
+              "footnote": 4
+            },
+            {
+              "title": "Resolução nº 23.751，art. 270",
+              "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-02-26",
+              "footnote": 5
+            },
+            {
+              "title": "Eleições 2026: confira as principais datas do calendário eleitoral",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-03-06发布，2026-10-14更新",
+              "footnote": 6
+            }
+          ]
+        },
+        {
+          "translationKey": "nextdc-grid-delay-governance-2026-10-26",
+          "path": "content/issues/2026-10-26/zh-CN/nextdc-grid-delay-governance-2026-10-26.md",
+          "eventDate": "2026-10-26 governance release; 2026-10-21 forecast background",
+          "sources": [
+            {
+              "title": "Board Renewal and AGM Voting Items",
+              "url": "https://announcements.asx.com.au/asxpdf/20261026/pdf/075rjd9h0g5q68.pdf",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-26",
+              "footnote": 1
+            },
+            {
+              "title": "M3 Melbourne Power Delay and Revised FY27 Guidance",
+              "url": "https://cdn.financialreports.eu/financialreports/media/filings/65467/2026/RNS/65467_rns_2026-10-20_75bfcf04-2cc3-47f9-a72f-c995645f8ff7.pdf",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-21",
+              "footnote": 2
+            },
+            {
+              "title": "The Sustainable Data Centre Action Plan",
+              "url": "https://djsir.vic.gov.au/__data/assets/pdf_file/0015/2502330/Sustainable-Data-Centre-Action-Plan-August-2026.pdf",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-09",
+              "footnote": 3
+            },
+            {
+              "title": "Data centres",
+              "url": "https://www.epa.vic.gov.au/data-centres",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-09-23更新",
+              "footnote": 4
+            },
+            {
+              "title": "PA2604231",
+              "url": "https://www.planning.vic.gov.au/planning-approvals/ministerial-permits-register/ministerial-permits/ef7039bf-cd0b-f111-8407-7c1e5262e60a?SQ_DESIGN_NAME=nodesign&SQ_PAINT_LAYOUT_NAME=drawer",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-02-17申请",
+              "footnote": 5
+            },
+            {
+              "title": "Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria",
+              "url": "https://www.planning.vic.gov.au/__data/assets/pdf_file/0046/778888/minister-for-planning-statement-of-expectation-for-use-and-development-of-data-centres-in-victoria.pdf",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-05",
+              "footnote": 6
+            }
+          ]
+        },
+        {
+          "translationKey": "serbia-concession-transition-2026-10-26",
+          "path": "content/issues/2026-10-26/zh-CN/serbia-concession-transition-2026-10-26.md",
+          "eventDate": "2026-10-25 concession; official partial tally 2026-10-26, not certified seats",
+          "sources": [
+            {
+              "title": "Vucic concedes defeat",
+              "url": "https://n1info.rs/english/news/vucic-concedes-defeat",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-25 21:44",
+              "footnote": 1
+            },
+            {
+              "title": "Резултати избора — Парламентарни 2026",
+              "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-26 02:25:00（塞尔维亚当地时间/CET；01:25:00 UTC）· [Резултати избора — Парламентарни 2026](https://www.rik.parlament.gov.rs/542645/rezultati/)",
+              "footnote": 2
+            },
+            {
+              "title": "Вучић предао дужност председника Републике председници Скупштине",
+              "url": "https://www.srbija.gov.rs/vest/1003514/vucic-predao-duznost-predsednika-republike-predsednici-skupstine.php",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-09-28",
+              "footnote": 3
+            },
+            {
+              "title": "Устав Републике Србије，чл. 100、127",
+              "url": "https://www.ustavni.sud.rs/ustav-rs-i-propisi/ustav-republike-srbije?lang_type=lat",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2006年宪法、现行修订合并文本",
+              "footnote": 4
+            },
+            {
+              "title": "Ванредна конференција за медије Републичке изборне комисије",
+              "url": "https://www.rik.parlament.gov.rs/vest/811343/vanredna-konferencija-za-medije-republicke-izborne-komisije.php",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-25，会议时间20:15",
+              "footnote": 5
+            },
+            {
+              "title": "Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto",
+              "url": "https://crta.rs/do-19-sati-izlaznost-na-parlamentarnim-izborima-iznosi-67-8-odsto/",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-25，19时估计",
+              "footnote": 6
+            },
+            {
+              "title": "XV. Relations between the National Assembly and the Government，arts. 268–271",
+              "url": "https://www.parlament.gov.rs/national-assembly/important-documents/rules-of-procedure-%28consolidated-text%29/relationship-between-the-national-assembly-and-the-government.1365.html",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "现行议事规则合并文本，核验于2026-10-26",
+              "footnote": 7
+            }
+          ]
+        },
+        {
+          "translationKey": "spacex-gpu-debt-claim-2026-10-26",
+          "path": "content/issues/2026-10-26/zh-CN/spacex-gpu-debt-claim-2026-10-26.md",
+          "eventDate": "2026-10-25 statement, not independently verified financing closing",
+          "sources": [
+            {
+              "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+              "url": "https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-25",
+              "footnote": 1
+            },
+            {
+              "title": "SpaceX Reports Third Quarter 2026 Results",
+              "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001181412/31b2b4f8-a7d7-44f3-a94b-9c2cba49b021.html",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-20",
+              "footnote": 2
+            },
+            {
+              "title": "Form 10-Q for the quarter ended September 30, 2026",
+              "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-22",
+              "footnote": 3
+            },
+            {
+              "title": "CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure",
+              "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/ex991pr.htm",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-08-10",
+              "footnote": 4
+            },
+            {
+              "title": "The Global Macro-financial Environment — Financial Stability Review",
+              "url": "https://www.rba.gov.au/publications/fsr/2026/oct/the-global-macro-financial-environment.html",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10",
+              "footnote": 5
+            },
+            {
+              "title": "The Opportunities and Risks AI Presents for the Economy and Financial System",
+              "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-05-27",
+              "footnote": 6
+            }
+          ]
+        },
+        {
+          "translationKey": "uk-rough-sleeping-funding-2026-10-26",
+          "path": "content/issues/2026-10-26/zh-CN/uk-rough-sleeping-funding-2026-10-26.md",
+          "eventDate": "2026-10-25 funding commitment; statistics periods identified separately",
+          "sources": [
+            {
+              "title": "PM confident every rough sleeper will have route off the street by Christmas as funding doubles",
+              "url": "https://www.gov.uk/government/news/pm-confident-every-rough-sleeper-will-have-route-off-the-street-by-christmas-as-funding-doubles",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-10-25",
+              "footnote": 1
+            },
+            {
+              "title": "Rough Sleeping Programme Guidance",
+              "url": "https://www.gov.uk/government/publications/rough-sleeping-programme/rough-sleeping-programme-guidance",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-08-19发布、2026-09-30更新",
+              "footnote": 2
+            },
+            {
+              "title": "Rough sleeping snapshot in England: autumn 2025",
+              "url": "https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-02-26",
+              "footnote": 3
+            },
+            {
+              "title": "Rough sleeping data framework, April to June 2026 - release",
+              "url": "https://www.gov.uk/government/publications/rough-sleeping-data-framework-april-to-june-2026/rough-sleeping-data-framework-april-to-june-2026-release",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-08-27",
+              "footnote": 4
+            },
+            {
+              "title": "Rough sleeping snapshot in England: autumn 2025 - technical report",
+              "url": "https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025-technical-report",
+              "verificationDate": "2026-10-26",
+              "dateInformation": "2026-02-26",
+              "footnote": 5
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

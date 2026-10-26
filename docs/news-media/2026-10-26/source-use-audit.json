@@ -1,0 +1,4527 @@
+{
+  "issue": "2026-10-26",
+  "preparedAt": "2026-10-26T01:30:00Z",
+  "status": "Final manuscript audit; production deployment is verified separately.",
+  "purpose": "Document source provenance, rights and cross-edition source-use budgets for independently written October 26 reporting.",
+  "methodology": {
+    "scope": "All five editions are aggregated. Protected source titles, visible endnotes, headline/description repetitions and repeated factual passages are included according to the recorded source-specific method.",
+    "licenceBoundary": "An unrestricted prose source is not a blanket licence for its images, third-party material or a government-hosted wire article. Media provenance is recorded separately.",
+    "countingTransparency": "Original source-specific ledgers are retained. Chinese segmentation methods differ by article and are explicitly disclosed rather than silently equated. SpaceX charged counts include its recorded conservative margins.",
+    "pathPolicy": "Only repository-relative manuscript paths are published; working directories and private research copies are not disclosed.",
+    "caution": "These are editorial reuse constraints and documented rights bases, not a claim that third-party source copyrights are owned by Global Bole News."
+  },
+  "finalManuscripts": [
+    {
+      "path": "content/issues/2026-10-26/en/brazil-runoff-official-result-2026-10-26.md",
+      "sha256": "30d0630693c73627d9795a2ed07efb4c7c57463640776075b545ab40121f81a1",
+      "byteSize": 9424
+    },
+    {
+      "path": "content/issues/2026-10-26/en/nextdc-grid-delay-governance-2026-10-26.md",
+      "sha256": "732a28672bc9229626ceca55a2739a06caedd5ba919de3aea9c2c46f82d3ccd9",
+      "byteSize": 9108
+    },
+    {
+      "path": "content/issues/2026-10-26/en/serbia-concession-transition-2026-10-26.md",
+      "sha256": "419c6f84e1dd9e7111a752ca18e8a7ecf8c70d35b8bc9e59efffb4902e00830d",
+      "byteSize": 10143
+    },
+    {
+      "path": "content/issues/2026-10-26/en/spacex-gpu-debt-claim-2026-10-26.md",
+      "sha256": "261df8f3412584f113fcaad45d12445505ed9522b853d8ba8f9a31837a765deb",
+      "byteSize": 9581
+    },
+    {
+      "path": "content/issues/2026-10-26/en/uk-rough-sleeping-funding-2026-10-26.md",
+      "sha256": "f280938127935b55020d5d84161c4889406614b027919f8a49d4ff2137e33257",
+      "byteSize": 11507
+    },
+    {
+      "path": "content/issues/2026-10-26/fr/brazil-runoff-official-result-2026-10-26.md",
+      "sha256": "6772b93a94c2af724b4a4f1e434148d9b7993c6d22e309d389d1d32397b82391",
+      "byteSize": 10535
+    },
+    {
+      "path": "content/issues/2026-10-26/fr/nextdc-grid-delay-governance-2026-10-26.md",
+      "sha256": "e3a68606d8d532139fe06a6f123a4430c90043617a2d028ac978150db9d5ba32",
+      "byteSize": 10926
+    },
+    {
+      "path": "content/issues/2026-10-26/fr/serbia-concession-transition-2026-10-26.md",
+      "sha256": "39e0c5f03636fc2c23abd233794cef0481c48d7da73573a03f239a56d9817530",
+      "byteSize": 11666
+    },
+    {
+      "path": "content/issues/2026-10-26/fr/spacex-gpu-debt-claim-2026-10-26.md",
+      "sha256": "381eb584fa9195dab5a776d21052aab83338b4b2df13a7882c372df0612db3fb",
+      "byteSize": 11400
+    },
+    {
+      "path": "content/issues/2026-10-26/fr/uk-rough-sleeping-funding-2026-10-26.md",
+      "sha256": "bcd0dce2db3afec5a54f990224d28ae980b100262fce1050de7ca8688728ac6b",
+      "byteSize": 13766
+    },
+    {
+      "path": "content/issues/2026-10-26/ru/brazil-runoff-official-result-2026-10-26.md",
+      "sha256": "58a4c8118f7225d1193fa0cc1263e6ed0ce9337cab94b60f41f85db1a9a7c4c8",
+      "byteSize": 16168
+    },
+    {
+      "path": "content/issues/2026-10-26/ru/nextdc-grid-delay-governance-2026-10-26.md",
+      "sha256": "088d448d9006744c3ef3639b2ee8a789e2ea8d68f8a355c8bc1b747851627138",
+      "byteSize": 16319
+    },
+    {
+      "path": "content/issues/2026-10-26/ru/serbia-concession-transition-2026-10-26.md",
+      "sha256": "fd6c0b41de208cf1660e696cb86991d64ceea4f215eef18f7b4ba436f033e98a",
+      "byteSize": 17374
+    },
+    {
+      "path": "content/issues/2026-10-26/ru/spacex-gpu-debt-claim-2026-10-26.md",
+      "sha256": "432eb5dea9d316b8387a27fd749a9992965138832816a603ace96167854192db",
+      "byteSize": 16837
+    },
+    {
+      "path": "content/issues/2026-10-26/ru/uk-rough-sleeping-funding-2026-10-26.md",
+      "sha256": "e9c53a5052efd64c677f777f7e79545ac5cda1bca90ad5660e0ea47a27e80198",
+      "byteSize": 19836
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-CN/brazil-runoff-official-result-2026-10-26.md",
+      "sha256": "3a87c5d57ce3d8a548ff3ac5351de02656fd3028a72ce271a18d96669a3c68cf",
+      "byteSize": 8204
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-CN/nextdc-grid-delay-governance-2026-10-26.md",
+      "sha256": "9574091699ac6d199c264f760748c212d7eb74aea2ec07ae2eded0aa332939a1",
+      "byteSize": 7677
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-CN/serbia-concession-transition-2026-10-26.md",
+      "sha256": "e686f13e8e7387070979fe16c782ff1ce98e8f443897b6a349db988f1e87fd1d",
+      "byteSize": 8841
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-CN/spacex-gpu-debt-claim-2026-10-26.md",
+      "sha256": "e4e4adcf81e99a58e799c5ebdd698cb5e089c4e21029cc36aa1a6ad69ab372a7",
+      "byteSize": 8130
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-CN/uk-rough-sleeping-funding-2026-10-26.md",
+      "sha256": "da67f605fab5cf6a20c8f5a07f465cefd47cc65c5b2ab01a05d41972687d8c81",
+      "byteSize": 9351
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-TW/brazil-runoff-official-result-2026-10-26.md",
+      "sha256": "ea578b9aa702674392fed22a0837dc20994cbd41ef0cbe2487b8c25c39b6fd09",
+      "byteSize": 8180
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-TW/nextdc-grid-delay-governance-2026-10-26.md",
+      "sha256": "48c0da367b40fc9ecee14581212dc41fa4bd449047e91cd45434daccf98b9765",
+      "byteSize": 7689
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-TW/serbia-concession-transition-2026-10-26.md",
+      "sha256": "165151c3032d2def02cef765114c92bc11919029b3220703dae447604cb3e6d1",
+      "byteSize": 8838
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-TW/spacex-gpu-debt-claim-2026-10-26.md",
+      "sha256": "2909267946a505ab259f9a45d859d89e9684a2f7278d41e2fb87adb03e604b7d",
+      "byteSize": 8136
+    },
+    {
+      "path": "content/issues/2026-10-26/zh-TW/uk-rough-sleeping-funding-2026-10-26.md",
+      "sha256": "76eaddf13b505d985eb9cfe6dc775525fc64b4fb57e6699c3e1da05ad6557101",
+      "byteSize": 9408
+    }
+  ],
+  "articles": [
+    {
+      "translationKey": "nextdc-grid-delay-governance-2026-10-26",
+      "editions": 5,
+      "languages": [
+        "zh-CN",
+        "en",
+        "fr",
+        "ru",
+        "zh-TW"
+      ],
+      "manuscriptPaths": {
+        "zh-CN": "content/issues/2026-10-26/zh-CN/nextdc-grid-delay-governance-2026-10-26.md",
+        "en": "content/issues/2026-10-26/en/nextdc-grid-delay-governance-2026-10-26.md",
+        "fr": "content/issues/2026-10-26/fr/nextdc-grid-delay-governance-2026-10-26.md",
+        "ru": "content/issues/2026-10-26/ru/nextdc-grid-delay-governance-2026-10-26.md",
+        "zh-TW": "content/issues/2026-10-26/zh-TW/nextdc-grid-delay-governance-2026-10-26.md"
+      },
+      "sources": [
+        {
+          "sourceNumber": 1,
+          "title": "Board Renewal and AGM Voting Items",
+          "url": "https://announcements.asx.com.au/asxpdf/20261026/pdf/075rjd9h0g5q68.pdf",
+          "dateInformation": "2026-10-26",
+          "rightsBasis": "NEXTDC issuer-authored release; no open licence established. PDF marked “For personal use only”. Conservative aggregate 200-word source budget applies.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-26 · [Board Renewal and AGM Voting Items](https://announcements.asx.com.au/asxpdf/20261026/pdf/075rjd9h0g5q68.pdf) · NEXTDC。",
+          "budgetWords": 200,
+          "cumulativeWords": 199,
+          "actualCumulativeWords": 199,
+          "wordsByLanguage": {
+            "zh-CN": 37,
+            "zh-TW": 37,
+            "en": 36,
+            "fr": 48,
+            "ru": 41
+          },
+          "countingMethod": {
+            "aggregation": "All five editions together; source-derived headline and description fragments, factual core, conservative analytical callbacks and complete visible source endnote text are counted. URLs and markdown labels are excluded. Dates and publisher names are included.",
+            "tokenization": "Unicode lexical tokens; internal apostrophes/hyphens are one word; numerals are tokens. Chinese manually segmented into normal semantic words, displayed explicitly. These are actual language tokens, not English-equivalent estimates.",
+            "exclusions": "Original analytical reasoning is not a paraphrase of an issuer source. Licensed State of Victoria and EPA background is tracked separately, not charged to issuer sources.",
+            "caveat": "Strict callback-inclusive accounting is conservative. No budget pass is claimed for totals above 200. The approved section-five revision is a general conditional analysis, not a repeated assertion about NEXTDC compensation."
+          },
+          "sourceUseLedger": {
+            "source_footnote": "1",
+            "limit": 200,
+            "languages": {
+              "zh-CN": {
+                "count": 37,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "NEXTDC/削减/高管/激励",
+                    "tokens": [
+                      "NEXTDC",
+                      "削减",
+                      "高管",
+                      "激励"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "description",
+                    "text_or_segmentation": "NEXTDC/的/治理/调整",
+                    "tokens": [
+                      "NEXTDC",
+                      "的",
+                      "治理",
+                      "调整"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "10月26日/NEXTDC/宣布/CEO/放弃/2027/财年/激励/现任/非执行/董事/费用/下调/10%/并/推进/董事长/继任",
+                    "tokens": [
+                      "10月26日",
+                      "NEXTDC",
+                      "宣布",
+                      "CEO",
+                      "放弃",
+                      "2027",
+                      "财年",
+                      "激励",
+                      "现任",
+                      "非执行",
+                      "董事",
+                      "费用",
+                      "下调",
+                      "10%",
+                      "并",
+                      "推进",
+                      "董事长",
+                      "继任"
+                    ],
+                    "count": 18
+                  },
+                  {
+                    "location": "closing callback",
+                    "text_or_segmentation": "一次/薪酬/动作",
+                    "tokens": [
+                      "一次",
+                      "薪酬",
+                      "动作"
+                    ],
+                    "count": 3
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-26/Board Renewal and AGM Voting Items/NEXTDC",
+                    "tokens": [
+                      "2026-10-26",
+                      "Board",
+                      "Renewal",
+                      "and",
+                      "AGM",
+                      "Voting",
+                      "Items",
+                      "NEXTDC"
+                    ],
+                    "count": 8
+                  }
+                ]
+              },
+              "zh-TW": {
+                "count": 37,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "NEXTDC/削減/高管/激勵",
+                    "tokens": [
+                      "NEXTDC",
+                      "削減",
+                      "高管",
+                      "激勵"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "description",
+                    "text_or_segmentation": "NEXTDC/的/治理/調整",
+                    "tokens": [
+                      "NEXTDC",
+                      "的",
+                      "治理",
+                      "調整"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "10月26日/NEXTDC/宣布/CEO/放棄/2027/財年/激勵/現任/非執行/董事/費用/下調/10%/並/推進/董事長/繼任",
+                    "tokens": [
+                      "10月26日",
+                      "NEXTDC",
+                      "宣布",
+                      "CEO",
+                      "放棄",
+                      "2027",
+                      "財年",
+                      "激勵",
+                      "現任",
+                      "非執行",
+                      "董事",
+                      "費用",
+                      "下調",
+                      "10%",
+                      "並",
+                      "推進",
+                      "董事長",
+                      "繼任"
+                    ],
+                    "count": 18
+                  },
+                  {
+                    "location": "closing callback",
+                    "text_or_segmentation": "一次/薪酬/動作",
+                    "tokens": [
+                      "一次",
+                      "薪酬",
+                      "動作"
+                    ],
+                    "count": 3
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-26/Board Renewal and AGM Voting Items/NEXTDC",
+                    "tokens": [
+                      "2026-10-26",
+                      "Board",
+                      "Renewal",
+                      "and",
+                      "AGM",
+                      "Voting",
+                      "Items",
+                      "NEXTDC"
+                    ],
+                    "count": 8
+                  }
+                ]
+              },
+              "en": {
+                "count": 36,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "NEXTDC cuts incentives",
+                    "tokens": [
+                      "NEXTDC",
+                      "cuts",
+                      "incentives"
+                    ],
+                    "count": 3
+                  },
+                  {
+                    "location": "description",
+                    "text_or_segmentation": "NEXTDC’s governance changes",
+                    "tokens": [
+                      "NEXTDC’s",
+                      "governance",
+                      "changes"
+                    ],
+                    "count": 3
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "On October 26, NEXTDC announced its CEO’s FY27 incentive waiver, incumbent non-executive directors’ 10% fee cut and chair succession.",
+                    "tokens": [
+                      "On",
+                      "October",
+                      "26",
+                      "NEXTDC",
+                      "announced",
+                      "its",
+                      "CEO’s",
+                      "FY27",
+                      "incentive",
+                      "waiver",
+                      "incumbent",
+                      "non-executive",
+                      "directors",
+                      "10",
+                      "fee",
+                      "cut",
+                      "and",
+                      "chair",
+                      "succession"
+                    ],
+                    "count": 19
+                  },
+                  {
+                    "location": "closing callback",
+                    "text_or_segmentation": "a pay adjustment",
+                    "tokens": [
+                      "a",
+                      "pay",
+                      "adjustment"
+                    ],
+                    "count": 3
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-26 · Board Renewal and AGM Voting Items · NEXTDC.",
+                    "tokens": [
+                      "2026-10-26",
+                      "Board",
+                      "Renewal",
+                      "and",
+                      "AGM",
+                      "Voting",
+                      "Items",
+                      "NEXTDC"
+                    ],
+                    "count": 8
+                  }
+                ]
+              },
+              "fr": {
+                "count": 48,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "NEXTDC réduit les incitations",
+                    "tokens": [
+                      "NEXTDC",
+                      "réduit",
+                      "les",
+                      "incitations"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "description",
+                    "text_or_segmentation": "les changements de gouvernance de NEXTDC",
+                    "tokens": [
+                      "les",
+                      "changements",
+                      "de",
+                      "gouvernance",
+                      "de",
+                      "NEXTDC"
+                    ],
+                    "count": 6
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "Le 26 octobre, NEXTDC annonce : renoncement du PDG aux incitations FY27, baisse de 10 % des honoraires des administrateurs non exécutifs en poste, succession à la présidence.",
+                    "tokens": [
+                      "Le",
+                      "26",
+                      "octobre",
+                      "NEXTDC",
+                      "annonce",
+                      "renoncement",
+                      "du",
+                      "PDG",
+                      "aux",
+                      "incitations",
+                      "FY27",
+                      "baisse",
+                      "de",
+                      "10",
+                      "des",
+                      "honoraires",
+                      "des",
+                      "administrateurs",
+                      "non",
+                      "exécutifs",
+                      "en",
+                      "poste",
+                      "succession",
+                      "à",
+                      "la",
+                      "présidence"
+                    ],
+                    "count": 26
+                  },
+                  {
+                    "location": "closing callback",
+                    "text_or_segmentation": "une mesure de rémunération",
+                    "tokens": [
+                      "une",
+                      "mesure",
+                      "de",
+                      "rémunération"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-26 · Board Renewal and AGM Voting Items · NEXTDC.",
+                    "tokens": [
+                      "2026-10-26",
+                      "Board",
+                      "Renewal",
+                      "and",
+                      "AGM",
+                      "Voting",
+                      "Items",
+                      "NEXTDC"
+                    ],
+                    "count": 8
+                  }
+                ]
+              },
+              "ru": {
+                "count": 41,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "NEXTDC сокращает стимулирующие выплаты",
+                    "tokens": [
+                      "NEXTDC",
+                      "сокращает",
+                      "стимулирующие",
+                      "выплаты"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "description",
+                    "text_or_segmentation": "изменений управления NEXTDC",
+                    "tokens": [
+                      "изменений",
+                      "управления",
+                      "NEXTDC"
+                    ],
+                    "count": 3
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "26 октября NEXTDC объявила об отказе гендиректора от стимулирующих выплат за FY27, сокращении вознаграждения действующих неисполнительных директоров на 10% и подготовке смены председателя.",
+                    "tokens": [
+                      "26",
+                      "октября",
+                      "NEXTDC",
+                      "объявила",
+                      "об",
+                      "отказе",
+                      "гендиректора",
+                      "от",
+                      "стимулирующих",
+                      "выплат",
+                      "за",
+                      "FY27",
+                      "сокращении",
+                      "вознаграждения",
+                      "действующих",
+                      "неисполнительных",
+                      "директоров",
+                      "на",
+                      "10",
+                      "и",
+                      "подготовке",
+                      "смены",
+                      "председателя"
+                    ],
+                    "count": 23
+                  },
+                  {
+                    "location": "closing callback",
+                    "text_or_segmentation": "разовое изменение вознаграждения",
+                    "tokens": [
+                      "разовое",
+                      "изменение",
+                      "вознаграждения"
+                    ],
+                    "count": 3
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-26 · Board Renewal and AGM Voting Items · NEXTDC.",
+                    "tokens": [
+                      "2026-10-26",
+                      "Board",
+                      "Renewal",
+                      "and",
+                      "AGM",
+                      "Voting",
+                      "Items",
+                      "NEXTDC"
+                    ],
+                    "count": 8
+                  }
+                ]
+              }
+            },
+            "total": 199,
+            "pass": true
+          }
+        },
+        {
+          "sourceNumber": 2,
+          "title": "M3 Melbourne Power Delay and Revised FY27 Guidance",
+          "url": "https://cdn.financialreports.eu/financialreports/media/filings/65467/2026/RNS/65467_rns_2026-10-20_75bfcf04-2cc3-47f9-a72f-c995645f8ff7.pdf",
+          "dateInformation": "2026-10-21",
+          "rightsBasis": "NEXTDC issuer-authored release; no open licence established. Mirror and syndicated copies share one aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-21 · [M3 Melbourne Power Delay and Revised FY27 Guidance](https://cdn.financialreports.eu/financialreports/media/filings/65467/2026/RNS/65467_rns_2026-10-20_75bfcf04-2cc3-47f9-a72f-c995645f8ff7.pdf) · NEXTDC。",
+          "budgetWords": 200,
+          "cumulativeWords": 200,
+          "actualCumulativeWords": 200,
+          "wordsByLanguage": {
+            "zh-CN": 40,
+            "zh-TW": 40,
+            "en": 37,
+            "fr": 45,
+            "ru": 38
+          },
+          "countingMethod": {
+            "aggregation": "All five editions together; source-derived headline and description fragments, factual core, conservative analytical callbacks and complete visible source endnote text are counted. URLs and markdown labels are excluded. Dates and publisher names are included.",
+            "tokenization": "Unicode lexical tokens; internal apostrophes/hyphens are one word; numerals are tokens. Chinese manually segmented into normal semantic words, displayed explicitly. These are actual language tokens, not English-equivalent estimates.",
+            "exclusions": "Original analytical reasoning is not a paraphrase of an issuer source. Licensed State of Victoria and EPA background is tracked separately, not charged to issuer sources.",
+            "caveat": "Strict callback-inclusive accounting is conservative. No budget pass is claimed for totals above 200. The approved section-five revision is a general conditional analysis, not a repeated assertion about NEXTDC compensation."
+          },
+          "sourceUseLedger": {
+            "source_footnote": "2",
+            "limit": 200,
+            "languages": {
+              "zh-CN": {
+                "count": 40,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "M3/延期",
+                    "tokens": [
+                      "M3",
+                      "延期"
+                    ],
+                    "count": 2
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "M3/供电/延期/后/原/预测/包含/的/净收入/和/基础/EBITDA/各/约/1.4亿/澳元/被/剔除/机房/继续/施工/客户/合同/权利/仍/影响/实际/贡献",
+                    "tokens": [
+                      "M3",
+                      "供电",
+                      "延期",
+                      "后",
+                      "原",
+                      "预测",
+                      "包含",
+                      "的",
+                      "净收入",
+                      "和",
+                      "基础",
+                      "EBITDA",
+                      "各",
+                      "约",
+                      "1.4亿",
+                      "澳元",
+                      "被",
+                      "剔除",
+                      "机房",
+                      "继续",
+                      "施工",
+                      "客户",
+                      "合同",
+                      "权利",
+                      "仍",
+                      "影响",
+                      "实际",
+                      "贡献"
+                    ],
+                    "count": 28
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-21/M3 Melbourne Power Delay and Revised FY27 Guidance/NEXTDC",
+                    "tokens": [
+                      "2026-10-21",
+                      "M3",
+                      "Melbourne",
+                      "Power",
+                      "Delay",
+                      "and",
+                      "Revised",
+                      "FY27",
+                      "Guidance",
+                      "NEXTDC"
+                    ],
+                    "count": 10
+                  }
+                ]
+              },
+              "zh-TW": {
+                "count": 40,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "M3/延期",
+                    "tokens": [
+                      "M3",
+                      "延期"
+                    ],
+                    "count": 2
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "M3/供電/延期/後/原/預測/包含/的/淨收入/和/基礎/EBITDA/各/約/1.4億/澳元/被/剔除/機房/繼續/施工/客戶/合約/權利/仍/影響/實際/貢獻",
+                    "tokens": [
+                      "M3",
+                      "供電",
+                      "延期",
+                      "後",
+                      "原",
+                      "預測",
+                      "包含",
+                      "的",
+                      "淨收入",
+                      "和",
+                      "基礎",
+                      "EBITDA",
+                      "各",
+                      "約",
+                      "1.4億",
+                      "澳元",
+                      "被",
+                      "剔除",
+                      "機房",
+                      "繼續",
+                      "施工",
+                      "客戶",
+                      "合約",
+                      "權利",
+                      "仍",
+                      "影響",
+                      "實際",
+                      "貢獻"
+                    ],
+                    "count": 28
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-21/M3 Melbourne Power Delay and Revised FY27 Guidance/NEXTDC",
+                    "tokens": [
+                      "2026-10-21",
+                      "M3",
+                      "Melbourne",
+                      "Power",
+                      "Delay",
+                      "and",
+                      "Revised",
+                      "FY27",
+                      "Guidance",
+                      "NEXTDC"
+                    ],
+                    "count": 10
+                  }
+                ]
+              },
+              "en": {
+                "count": 37,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "M3 delay",
+                    "tokens": [
+                      "M3",
+                      "delay"
+                    ],
+                    "count": 2
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "M3’s power delay removed about A$140 million each of forecast net revenue and underlying EBITDA; construction continues, while customer contractual rights affect actual contributions.",
+                    "tokens": [
+                      "M3’s",
+                      "power",
+                      "delay",
+                      "removed",
+                      "about",
+                      "A",
+                      "140",
+                      "million",
+                      "each",
+                      "of",
+                      "forecast",
+                      "net",
+                      "revenue",
+                      "and",
+                      "underlying",
+                      "EBITDA",
+                      "construction",
+                      "continues",
+                      "while",
+                      "customer",
+                      "contractual",
+                      "rights",
+                      "affect",
+                      "actual",
+                      "contributions"
+                    ],
+                    "count": 25
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-21 · M3 Melbourne Power Delay and Revised FY27 Guidance · NEXTDC.",
+                    "tokens": [
+                      "2026-10-21",
+                      "M3",
+                      "Melbourne",
+                      "Power",
+                      "Delay",
+                      "and",
+                      "Revised",
+                      "FY27",
+                      "Guidance",
+                      "NEXTDC"
+                    ],
+                    "count": 10
+                  }
+                ]
+              },
+              "fr": {
+                "count": 45,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "le retard de M3",
+                    "tokens": [
+                      "le",
+                      "retard",
+                      "de",
+                      "M3"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "Le retard électrique de M3 retranche environ 140 millions AUD des prévisions de chiffre d’affaires net et autant d’EBITDA sous-jacent ; les travaux continuent, les droits contractuels des clients influençant la contribution.",
+                    "tokens": [
+                      "Le",
+                      "retard",
+                      "électrique",
+                      "de",
+                      "M3",
+                      "retranche",
+                      "environ",
+                      "140",
+                      "millions",
+                      "AUD",
+                      "des",
+                      "prévisions",
+                      "de",
+                      "chiffre",
+                      "d’affaires",
+                      "net",
+                      "et",
+                      "autant",
+                      "d’EBITDA",
+                      "sous-jacent",
+                      "les",
+                      "travaux",
+                      "continuent",
+                      "les",
+                      "droits",
+                      "contractuels",
+                      "des",
+                      "clients",
+                      "influençant",
+                      "la",
+                      "contribution"
+                    ],
+                    "count": 31
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-21 · M3 Melbourne Power Delay and Revised FY27 Guidance · NEXTDC.",
+                    "tokens": [
+                      "2026-10-21",
+                      "M3",
+                      "Melbourne",
+                      "Power",
+                      "Delay",
+                      "and",
+                      "Revised",
+                      "FY27",
+                      "Guidance",
+                      "NEXTDC"
+                    ],
+                    "count": 10
+                  }
+                ]
+              },
+              "ru": {
+                "count": 38,
+                "segments": [
+                  {
+                    "location": "headline",
+                    "text_or_segmentation": "задержка M3",
+                    "tokens": [
+                      "задержка",
+                      "M3"
+                    ],
+                    "count": 2
+                  },
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "Задержка электроснабжения M3 исключила из прогноза примерно по 140 млн австралийских долларов чистой выручки и базовой EBITDA; строительство продолжается, договорные права клиентов влияют на фактический вклад.",
+                    "tokens": [
+                      "Задержка",
+                      "электроснабжения",
+                      "M3",
+                      "исключила",
+                      "из",
+                      "прогноза",
+                      "примерно",
+                      "по",
+                      "140",
+                      "млн",
+                      "австралийских",
+                      "долларов",
+                      "чистой",
+                      "выручки",
+                      "и",
+                      "базовой",
+                      "EBITDA",
+                      "строительство",
+                      "продолжается",
+                      "договорные",
+                      "права",
+                      "клиентов",
+                      "влияют",
+                      "на",
+                      "фактический",
+                      "вклад"
+                    ],
+                    "count": 26
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-21 · M3 Melbourne Power Delay and Revised FY27 Guidance · NEXTDC.",
+                    "tokens": [
+                      "2026-10-21",
+                      "M3",
+                      "Melbourne",
+                      "Power",
+                      "Delay",
+                      "and",
+                      "Revised",
+                      "FY27",
+                      "Guidance",
+                      "NEXTDC"
+                    ],
+                    "count": 10
+                  }
+                ]
+              }
+            },
+            "total": 200,
+            "pass": true
+          }
+        },
+        {
+          "sourceNumber": 3,
+          "title": "The Sustainable Data Centre Action Plan",
+          "url": "https://djsir.vic.gov.au/__data/assets/pdf_file/0015/2502330/Sustainable-Data-Centre-Action-Plan-August-2026.pdf",
+          "dateInformation": "2026-09",
+          "rightsBasis": "© State of Victoria 2026. Document page 2 expressly licenses original material under Creative Commons Attribution 3.0 Australia.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://creativecommons.org/licenses/by/3.0/au/"
+          ],
+          "permittedUseScope": "Original state policy prose only, with attribution and translation/adaptation notice; no third-party photographs or figures reused.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-09 · [The Sustainable Data Centre Action Plan](https://djsir.vic.gov.au/__data/assets/pdf_file/0015/2502330/Sustainable-Data-Centre-Action-Plan-August-2026.pdf) · © State of Victoria 2026，[CC BY 3.0 AU](https://creativecommons.org/licenses/by/3.0/au/)；本文对相关政策内容作中文编译与分析。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 4,
+          "title": "Data centres",
+          "url": "https://www.epa.vic.gov.au/data-centres",
+          "dateInformation": "2026-09-23更新",
+          "rightsBasis": "EPA Victoria original explanatory prose under CC BY 4.0. Attribution retained: © Copyright State Government of Victoria.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.epa.vic.gov.au/copyright",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ],
+          "permittedUseScope": "EPA-authored guidance only; no third-party material, photographs or branding reused. Translation/adaptation disclosed.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-09-23更新 · [Data centres](https://www.epa.vic.gov.au/data-centres) · EPA Victoria；© Copyright State Government of Victoria，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)；本文作中文编译。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 5,
+          "title": "PA2604231",
+          "url": "https://www.planning.vic.gov.au/planning-approvals/ministerial-permits-register/ministerial-permits/ef7039bf-cd0b-f111-8407-7c1e5262e60a?SQ_DESIGN_NAME=nodesign&SQ_PAINT_LAYOUT_NAME=drawer",
+          "dateInformation": "2026-02-17申请",
+          "rightsBasis": "No open licence independently established for this register entry; factual use conservatively held within the aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-02-17申请 · [PA2604231](https://www.planning.vic.gov.au/planning-approvals/ministerial-permits-register/ministerial-permits/ef7039bf-cd0b-f111-8407-7c1e5262e60a?SQ_DESIGN_NAME=nodesign&SQ_PAINT_LAYOUT_NAME=drawer) · 维州交通与规划部门，2026-10-26查阅。",
+          "budgetWords": 200,
+          "cumulativeWords": 111,
+          "actualCumulativeWords": 111,
+          "wordsByLanguage": {
+            "zh-CN": 21,
+            "zh-TW": 21,
+            "en": 21,
+            "fr": 27,
+            "ru": 21
+          },
+          "countingMethod": {
+            "aggregation": "All five editions together; source-derived headline and description fragments, factual core, conservative analytical callbacks and complete visible source endnote text are counted. URLs and markdown labels are excluded. Dates and publisher names are included.",
+            "tokenization": "Unicode lexical tokens; internal apostrophes/hyphens are one word; numerals are tokens. Chinese manually segmented into normal semantic words, displayed explicitly. These are actual language tokens, not English-equivalent estimates.",
+            "exclusions": "Original analytical reasoning is not a paraphrase of an issuer source. Licensed State of Victoria and EPA background is tracked separately, not charged to issuer sources.",
+            "caveat": "Strict callback-inclusive accounting is conservative. No budget pass is claimed for totals above 200. The approved section-five revision is a general conditional analysis, not a repeated assertion about NEXTDC compensation."
+          },
+          "sourceUseLedger": {
+            "source_footnote": "5",
+            "limit": 200,
+            "languages": {
+              "zh-CN": {
+                "count": 21,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "M3/相关/申请/PA2604231/登记/的/收件/日期/为/2026年/2月17日",
+                    "tokens": [
+                      "M3",
+                      "相关",
+                      "申请",
+                      "PA2604231",
+                      "登记",
+                      "的",
+                      "收件",
+                      "日期",
+                      "为",
+                      "2026年",
+                      "2月17日"
+                    ],
+                    "count": 11
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-02-17/申请/PA2604231/维州/交通/与/规划/部门/2026-10-26/查阅",
+                    "tokens": [
+                      "2026-02-17",
+                      "申请",
+                      "PA2604231",
+                      "维州",
+                      "交通",
+                      "与",
+                      "规划",
+                      "部门",
+                      "2026-10-26",
+                      "查阅"
+                    ],
+                    "count": 10
+                  }
+                ]
+              },
+              "zh-TW": {
+                "count": 21,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "M3/相關/申請/PA2604231/登記/的/收件/日期/為/2026年/2月17日",
+                    "tokens": [
+                      "M3",
+                      "相關",
+                      "申請",
+                      "PA2604231",
+                      "登記",
+                      "的",
+                      "收件",
+                      "日期",
+                      "為",
+                      "2026年",
+                      "2月17日"
+                    ],
+                    "count": 11
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-02-17/申請/PA2604231/維州/交通/與/規劃/部門/2026-10-26/查閱",
+                    "tokens": [
+                      "2026-02-17",
+                      "申請",
+                      "PA2604231",
+                      "維州",
+                      "交通",
+                      "與",
+                      "規劃",
+                      "部門",
+                      "2026-10-26",
+                      "查閱"
+                    ],
+                    "count": 10
+                  }
+                ]
+              },
+              "en": {
+                "count": 21,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "M3 application PA2604231 was received on February 17, 2026.",
+                    "tokens": [
+                      "M3",
+                      "application",
+                      "PA2604231",
+                      "was",
+                      "received",
+                      "on",
+                      "February",
+                      "17",
+                      "2026"
+                    ],
+                    "count": 9
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "Application received 2026-02-17 · PA2604231 · Victoria Department of Transport and Planning, accessed 2026-10-26.",
+                    "tokens": [
+                      "Application",
+                      "received",
+                      "2026-02-17",
+                      "PA2604231",
+                      "Victoria",
+                      "Department",
+                      "of",
+                      "Transport",
+                      "and",
+                      "Planning",
+                      "accessed",
+                      "2026-10-26"
+                    ],
+                    "count": 12
+                  }
+                ]
+              },
+              "fr": {
+                "count": 27,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "La demande M3 PA2604231 a été reçue le 17 février 2026.",
+                    "tokens": [
+                      "La",
+                      "demande",
+                      "M3",
+                      "PA2604231",
+                      "a",
+                      "été",
+                      "reçue",
+                      "le",
+                      "17",
+                      "février",
+                      "2026"
+                    ],
+                    "count": 11
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "Demande reçue le 2026-02-17 · PA2604231 · Département des transports et de l’urbanisme de Victoria, consulté le 2026-10-26.",
+                    "tokens": [
+                      "Demande",
+                      "reçue",
+                      "le",
+                      "2026-02-17",
+                      "PA2604231",
+                      "Département",
+                      "des",
+                      "transports",
+                      "et",
+                      "de",
+                      "l’urbanisme",
+                      "de",
+                      "Victoria",
+                      "consulté",
+                      "le",
+                      "2026-10-26"
+                    ],
+                    "count": 16
+                  }
+                ]
+              },
+              "ru": {
+                "count": 21,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "Заявка M3 PA2604231 получена 17 февраля 2026 года.",
+                    "tokens": [
+                      "Заявка",
+                      "M3",
+                      "PA2604231",
+                      "получена",
+                      "17",
+                      "февраля",
+                      "2026",
+                      "года"
+                    ],
+                    "count": 8
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "Заявка получена 2026-02-17 · PA2604231 · Департамент транспорта и планирования штата Виктория, дата обращения: 2026-10-26.",
+                    "tokens": [
+                      "Заявка",
+                      "получена",
+                      "2026-02-17",
+                      "PA2604231",
+                      "Департамент",
+                      "транспорта",
+                      "и",
+                      "планирования",
+                      "штата",
+                      "Виктория",
+                      "дата",
+                      "обращения",
+                      "2026-10-26"
+                    ],
+                    "count": 13
+                  }
+                ]
+              }
+            },
+            "total": 111,
+            "pass": true
+          }
+        },
+        {
+          "sourceNumber": 6,
+          "title": "Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria",
+          "url": "https://www.planning.vic.gov.au/__data/assets/pdf_file/0046/778888/minister-for-planning-statement-of-expectation-for-use-and-development-of-data-centres-in-victoria.pdf",
+          "dateInformation": "2026-10-05",
+          "rightsBasis": "Open licence not independently established for this specific statement; minimal factual use conservatively held within aggregate 200 words.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-05 · [Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria](https://www.planning.vic.gov.au/__data/assets/pdf_file/0046/778888/minister-for-planning-statement-of-expectation-for-use-and-development-of-data-centres-in-victoria.pdf) · 维州规划部长。",
+          "budgetWords": 200,
+          "cumulativeWords": 195,
+          "actualCumulativeWords": 195,
+          "wordsByLanguage": {
+            "zh-CN": 37,
+            "zh-TW": 37,
+            "en": 39,
+            "fr": 43,
+            "ru": 39
+          },
+          "countingMethod": {
+            "aggregation": "All five editions together; source-derived headline and description fragments, factual core, conservative analytical callbacks and complete visible source endnote text are counted. URLs and markdown labels are excluded. Dates and publisher names are included.",
+            "tokenization": "Unicode lexical tokens; internal apostrophes/hyphens are one word; numerals are tokens. Chinese manually segmented into normal semantic words, displayed explicitly. These are actual language tokens, not English-equivalent estimates.",
+            "exclusions": "Original analytical reasoning is not a paraphrase of an issuer source. Licensed State of Victoria and EPA background is tracked separately, not charged to issuer sources.",
+            "caveat": "Strict callback-inclusive accounting is conservative. No budget pass is claimed for totals above 200. The approved section-five revision is a general conditional analysis, not a repeated assertion about NEXTDC compensation."
+          },
+          "sourceUseLedger": {
+            "source_footnote": "6",
+            "limit": 200,
+            "languages": {
+              "zh-CN": {
+                "count": 37,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "10月/签署/的/声明/适用于/9月23日/起/递交/的/申请/不含/先前/申请/及/相关/修订",
+                    "tokens": [
+                      "10月",
+                      "签署",
+                      "的",
+                      "声明",
+                      "适用于",
+                      "9月23日",
+                      "起",
+                      "递交",
+                      "的",
+                      "申请",
+                      "不含",
+                      "先前",
+                      "申请",
+                      "及",
+                      "相关",
+                      "修订"
+                    ],
+                    "count": 16
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-05/Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria/维州/规划/部长",
+                    "tokens": [
+                      "2026-10-05",
+                      "Minister",
+                      "for",
+                      "Planning’s",
+                      "Statement",
+                      "of",
+                      "Expectation",
+                      "for",
+                      "the",
+                      "Use",
+                      "and",
+                      "Development",
+                      "of",
+                      "a",
+                      "Data",
+                      "Centre",
+                      "in",
+                      "Victoria",
+                      "维州",
+                      "规划",
+                      "部长"
+                    ],
+                    "count": 21
+                  }
+                ]
+              },
+              "zh-TW": {
+                "count": 37,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "10月/簽署/的/聲明/適用於/9月23日/起/遞交/的/申請/不含/先前/申請/及/相關/修訂",
+                    "tokens": [
+                      "10月",
+                      "簽署",
+                      "的",
+                      "聲明",
+                      "適用於",
+                      "9月23日",
+                      "起",
+                      "遞交",
+                      "的",
+                      "申請",
+                      "不含",
+                      "先前",
+                      "申請",
+                      "及",
+                      "相關",
+                      "修訂"
+                    ],
+                    "count": 16
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-05/Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria/維州/規劃/部長",
+                    "tokens": [
+                      "2026-10-05",
+                      "Minister",
+                      "for",
+                      "Planning’s",
+                      "Statement",
+                      "of",
+                      "Expectation",
+                      "for",
+                      "the",
+                      "Use",
+                      "and",
+                      "Development",
+                      "of",
+                      "a",
+                      "Data",
+                      "Centre",
+                      "in",
+                      "Victoria",
+                      "維州",
+                      "規劃",
+                      "部長"
+                    ],
+                    "count": 21
+                  }
+                ]
+              },
+              "en": {
+                "count": 39,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "Signed in October, the statement covers applications lodged from September 23, excluding earlier filings and related amendments.",
+                    "tokens": [
+                      "Signed",
+                      "in",
+                      "October",
+                      "the",
+                      "statement",
+                      "covers",
+                      "applications",
+                      "lodged",
+                      "from",
+                      "September",
+                      "23",
+                      "excluding",
+                      "earlier",
+                      "filings",
+                      "and",
+                      "related",
+                      "amendments"
+                    ],
+                    "count": 17
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-05 · Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria · Victoria Minister for Planning.",
+                    "tokens": [
+                      "2026-10-05",
+                      "Minister",
+                      "for",
+                      "Planning’s",
+                      "Statement",
+                      "of",
+                      "Expectation",
+                      "for",
+                      "the",
+                      "Use",
+                      "and",
+                      "Development",
+                      "of",
+                      "a",
+                      "Data",
+                      "Centre",
+                      "in",
+                      "Victoria",
+                      "Victoria",
+                      "Minister",
+                      "for",
+                      "Planning"
+                    ],
+                    "count": 22
+                  }
+                ]
+              },
+              "fr": {
+                "count": 43,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "Signée en octobre, la déclaration couvre les demandes déposées depuis le 23 septembre, excluant les demandes antérieures et modifications connexes.",
+                    "tokens": [
+                      "Signée",
+                      "en",
+                      "octobre",
+                      "la",
+                      "déclaration",
+                      "couvre",
+                      "les",
+                      "demandes",
+                      "déposées",
+                      "depuis",
+                      "le",
+                      "23",
+                      "septembre",
+                      "excluant",
+                      "les",
+                      "demandes",
+                      "antérieures",
+                      "et",
+                      "modifications",
+                      "connexes"
+                    ],
+                    "count": 20
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-05 · Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria · Ministre de l’Urbanisme de Victoria.",
+                    "tokens": [
+                      "2026-10-05",
+                      "Minister",
+                      "for",
+                      "Planning’s",
+                      "Statement",
+                      "of",
+                      "Expectation",
+                      "for",
+                      "the",
+                      "Use",
+                      "and",
+                      "Development",
+                      "of",
+                      "a",
+                      "Data",
+                      "Centre",
+                      "in",
+                      "Victoria",
+                      "Ministre",
+                      "de",
+                      "l’Urbanisme",
+                      "de",
+                      "Victoria"
+                    ],
+                    "count": 23
+                  }
+                ]
+              },
+              "ru": {
+                "count": 39,
+                "segments": [
+                  {
+                    "location": "news core",
+                    "text_or_segmentation": "Подписанное в октябре заявление охватывает заявки, поданные с 23 сентября; более ранние заявки и связанные изменения исключены.",
+                    "tokens": [
+                      "Подписанное",
+                      "в",
+                      "октябре",
+                      "заявление",
+                      "охватывает",
+                      "заявки",
+                      "поданные",
+                      "с",
+                      "23",
+                      "сентября",
+                      "более",
+                      "ранние",
+                      "заявки",
+                      "и",
+                      "связанные",
+                      "изменения",
+                      "исключены"
+                    ],
+                    "count": 17
+                  },
+                  {
+                    "location": "visible source endnote",
+                    "text_or_segmentation": "2026-10-05 · Minister for Planning’s Statement of Expectation for the Use and Development of a Data Centre in Victoria · Министр планирования штата Виктория.",
+                    "tokens": [
+                      "2026-10-05",
+                      "Minister",
+                      "for",
+                      "Planning’s",
+                      "Statement",
+                      "of",
+                      "Expectation",
+                      "for",
+                      "the",
+                      "Use",
+                      "and",
+                      "Development",
+                      "of",
+                      "a",
+                      "Data",
+                      "Centre",
+                      "in",
+                      "Victoria",
+                      "Министр",
+                      "планирования",
+                      "штата",
+                      "Виктория"
+                    ],
+                    "count": 22
+                  }
+                ]
+              }
+            },
+            "total": 195,
+            "pass": true
+          }
+        }
+      ]
+    },
+    {
+      "translationKey": "spacex-gpu-debt-claim-2026-10-26",
+      "editions": 5,
+      "languages": [
+        "zh-CN",
+        "en",
+        "fr",
+        "ru",
+        "zh-TW"
+      ],
+      "manuscriptPaths": {
+        "zh-CN": "content/issues/2026-10-26/zh-CN/spacex-gpu-debt-claim-2026-10-26.md",
+        "en": "content/issues/2026-10-26/en/spacex-gpu-debt-claim-2026-10-26.md",
+        "fr": "content/issues/2026-10-26/fr/spacex-gpu-debt-claim-2026-10-26.md",
+        "ru": "content/issues/2026-10-26/ru/spacex-gpu-debt-claim-2026-10-26.md",
+        "zh-TW": "content/issues/2026-10-26/zh-TW/spacex-gpu-debt-claim-2026-10-26.md"
+      },
+      "sources": [
+        {
+          "sourceNumber": 1,
+          "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+          "url": "https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471",
+          "dateInformation": "2026-10-25",
+          "rightsBasis": "Reuters copyrighted news, read via CNA syndication. Reuters original and all mirrors share a single aggregate 200-word allocation; no separate mirror allowance.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Musk’s attributed claim only, not independent confirmation of completed financing; no Reuters photograph or long excerpt reused.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-25 · [Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout](https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471) · Reuters，经CNA刊载。",
+          "budgetWords": 200,
+          "cumulativeWords": 194,
+          "actualCumulativeWords": 184,
+          "wordsByLanguage": {
+            "zh-CN": 40,
+            "zh-TW": 40,
+            "en": 36,
+            "fr": 41,
+            "ru": 37
+          },
+          "actualWordsByLanguage": {
+            "zh-CN": 38,
+            "zh-TW": 38,
+            "en": 34,
+            "fr": 39,
+            "ru": 35
+          },
+          "conservativeMarginWords": 10,
+          "countingMethod": "Counts source-specific facts, headline prefixes, actually repeated source-derived identification and full visible endnotes including original titles and dates. Latin/Cyrillic words use the recorded tokenizer; CJK is explicitly segmented, with a two-unit margin per language and source. No restricted-source prose quotations. Remaining analytical clauses are original reasoning or attributed RBA CC BY 4.0 / Federal Reserve public-domain context, not additional issuer or Reuters facts. Translation titles exclude amounts.",
+          "tokenizer": "[\\w]+(?:[’\\x27-][\\w]+)*(?:[.,][0-9]+)*",
+          "sourceUseLedger": {
+            "source": 1,
+            "url": "https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471",
+            "budgetAllFiveEditions": 200,
+            "languages": {
+              "zh-CN": {
+                "segments": [
+                  {
+                    "role": "event-specific headline prefix; remainder is original analytical framing",
+                    "text": "SpaceX的GPU融资声明",
+                    "tokens": [
+                      "SpaceX",
+                      "的",
+                      "GPU",
+                      "融资",
+                      "声明"
+                    ],
+                    "count": 5
+                  },
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "马斯克称SpaceX筹得400亿美元GPU债务融资；交割含义和定价仍不明确。",
+                    "tokens": [
+                      "马斯克",
+                      "称",
+                      "SpaceX",
+                      "筹得",
+                      "400亿",
+                      "美元",
+                      "GPU",
+                      "债务",
+                      "融资",
+                      "交割",
+                      "含义",
+                      "和",
+                      "定价",
+                      "仍",
+                      "不",
+                      "明确"
+                    ],
+                    "count": 16
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-25 · Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout · Reuters，经CNA刊载。",
+                    "tokens": [
+                      "2026-10-25",
+                      "Musk",
+                      "says",
+                      "SpaceX",
+                      "raised",
+                      "40",
+                      "billion",
+                      "in",
+                      "debt",
+                      "deal",
+                      "predicts",
+                      "neocloud",
+                      "shakeout",
+                      "Reuters",
+                      "经",
+                      "CNA",
+                      "刊载"
+                    ],
+                    "count": 17
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 40
+              },
+              "zh-TW": {
+                "segments": [
+                  {
+                    "role": "event-specific headline prefix; remainder is original analytical framing",
+                    "text": "SpaceX的GPU融資聲明",
+                    "tokens": [
+                      "SpaceX",
+                      "的",
+                      "GPU",
+                      "融資",
+                      "聲明"
+                    ],
+                    "count": 5
+                  },
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "馬斯克稱SpaceX籌得400億美元GPU債務融資；交割含義和定價仍不明確。",
+                    "tokens": [
+                      "馬斯克",
+                      "稱",
+                      "SpaceX",
+                      "籌得",
+                      "400億",
+                      "美元",
+                      "GPU",
+                      "債務",
+                      "融資",
+                      "交割",
+                      "含義",
+                      "和",
+                      "定價",
+                      "仍",
+                      "不",
+                      "明確"
+                    ],
+                    "count": 16
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-25 · Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout · Reuters，經CNA刊載。",
+                    "tokens": [
+                      "2026-10-25",
+                      "Musk",
+                      "says",
+                      "SpaceX",
+                      "raised",
+                      "40",
+                      "billion",
+                      "in",
+                      "debt",
+                      "deal",
+                      "predicts",
+                      "neocloud",
+                      "shakeout",
+                      "Reuters",
+                      "經",
+                      "CNA",
+                      "刊載"
+                    ],
+                    "count": 17
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 40
+              },
+              "en": {
+                "segments": [
+                  {
+                    "role": "event-specific headline prefix; remainder is original analytical framing",
+                    "text": "SpaceX’s GPU financing claim",
+                    "tokens": [
+                      "SpaceX’s",
+                      "GPU",
+                      "financing",
+                      "claim"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "Musk says SpaceX raised $40 billion in GPU debt; closing and pricing remain unclear.",
+                    "tokens": [
+                      "Musk",
+                      "says",
+                      "SpaceX",
+                      "raised",
+                      "40",
+                      "billion",
+                      "in",
+                      "GPU",
+                      "debt",
+                      "closing",
+                      "and",
+                      "pricing",
+                      "remain",
+                      "unclear"
+                    ],
+                    "count": 14
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-25 · Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout · Reuters, via CNA.",
+                    "tokens": [
+                      "2026-10-25",
+                      "Musk",
+                      "says",
+                      "SpaceX",
+                      "raised",
+                      "40",
+                      "billion",
+                      "in",
+                      "debt",
+                      "deal",
+                      "predicts",
+                      "neocloud",
+                      "shakeout",
+                      "Reuters",
+                      "via",
+                      "CNA"
+                    ],
+                    "count": 16
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 36
+              },
+              "fr": {
+                "segments": [
+                  {
+                    "role": "event-specific headline prefix; remainder is original analytical framing",
+                    "text": "L’annonce de financement GPU de SpaceX",
+                    "tokens": [
+                      "L’annonce",
+                      "de",
+                      "financement",
+                      "GPU",
+                      "de",
+                      "SpaceX"
+                    ],
+                    "count": 6
+                  },
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "SpaceX aurait emprunté 40 milliards de dollars pour des GPU, selon Musk ; clôture et tarification restent floues.",
+                    "tokens": [
+                      "SpaceX",
+                      "aurait",
+                      "emprunté",
+                      "40",
+                      "milliards",
+                      "de",
+                      "dollars",
+                      "pour",
+                      "des",
+                      "GPU",
+                      "selon",
+                      "Musk",
+                      "clôture",
+                      "et",
+                      "tarification",
+                      "restent",
+                      "floues"
+                    ],
+                    "count": 17
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-25 · Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout · Reuters, via CNA.",
+                    "tokens": [
+                      "2026-10-25",
+                      "Musk",
+                      "says",
+                      "SpaceX",
+                      "raised",
+                      "40",
+                      "billion",
+                      "in",
+                      "debt",
+                      "deal",
+                      "predicts",
+                      "neocloud",
+                      "shakeout",
+                      "Reuters",
+                      "via",
+                      "CNA"
+                    ],
+                    "count": 16
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 41
+              },
+              "ru": {
+                "segments": [
+                  {
+                    "role": "event-specific headline prefix; remainder is original analytical framing",
+                    "text": "Заявление SpaceX о GPU-финансировании",
+                    "tokens": [
+                      "Заявление",
+                      "SpaceX",
+                      "о",
+                      "GPU-финансировании"
+                    ],
+                    "count": 4
+                  },
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "Маск заявляет: SpaceX привлекла $40 млрд на GPU в долг; закрытие сделки и ценообразование неясны.",
+                    "tokens": [
+                      "Маск",
+                      "заявляет",
+                      "SpaceX",
+                      "привлекла",
+                      "40",
+                      "млрд",
+                      "на",
+                      "GPU",
+                      "в",
+                      "долг",
+                      "закрытие",
+                      "сделки",
+                      "и",
+                      "ценообразование",
+                      "неясны"
+                    ],
+                    "count": 15
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-25 · Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout · Reuters, публикация CNA.",
+                    "tokens": [
+                      "2026-10-25",
+                      "Musk",
+                      "says",
+                      "SpaceX",
+                      "raised",
+                      "40",
+                      "billion",
+                      "in",
+                      "debt",
+                      "deal",
+                      "predicts",
+                      "neocloud",
+                      "shakeout",
+                      "Reuters",
+                      "публикация",
+                      "CNA"
+                    ],
+                    "count": 16
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 37
+              }
+            },
+            "cumulativeChargedUnits": 194,
+            "withinBudget": true
+          }
+        },
+        {
+          "sourceNumber": 2,
+          "title": "SpaceX Reports Third Quarter 2026 Results",
+          "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001181412/31b2b4f8-a7d7-44f3-a94b-9c2cba49b021.html",
+          "dateInformation": "2026-10-20",
+          "rightsBasis": "Issuer-authored financial disclosure; SEC filing or hosting does not make company text public domain. Aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-20 · [SpaceX Reports Third Quarter 2026 Results](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001181412/31b2b4f8-a7d7-44f3-a94b-9c2cba49b021.html) · SpaceX。",
+          "budgetWords": 200,
+          "cumulativeWords": 109,
+          "actualCumulativeWords": 99,
+          "wordsByLanguage": {
+            "zh-CN": 21,
+            "zh-TW": 22,
+            "en": 21,
+            "fr": 24,
+            "ru": 21
+          },
+          "actualWordsByLanguage": {
+            "zh-CN": 19,
+            "zh-TW": 20,
+            "en": 19,
+            "fr": 22,
+            "ru": 19
+          },
+          "conservativeMarginWords": 10,
+          "countingMethod": "Counts source-specific facts, headline prefixes, actually repeated source-derived identification and full visible endnotes including original titles and dates. Latin/Cyrillic words use the recorded tokenizer; CJK is explicitly segmented, with a two-unit margin per language and source. No restricted-source prose quotations. Remaining analytical clauses are original reasoning or attributed RBA CC BY 4.0 / Federal Reserve public-domain context, not additional issuer or Reuters facts. Translation titles exclude amounts.",
+          "tokenizer": "[\\w]+(?:[’\\x27-][\\w]+)*(?:[.,][0-9]+)*",
+          "sourceUseLedger": {
+            "source": 2,
+            "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001181412/31b2b4f8-a7d7-44f3-a94b-9c2cba49b021.html",
+            "budgetAllFiveEditions": 200,
+            "languages": {
+              "zh-CN": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "SpaceX三季度收入为145.75亿美元，资本支出195.93亿美元。",
+                    "tokens": [
+                      "SpaceX",
+                      "三",
+                      "季度",
+                      "收入",
+                      "为",
+                      "145.75亿",
+                      "美元",
+                      "资本",
+                      "支出",
+                      "195.93亿",
+                      "美元"
+                    ],
+                    "count": 11
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-20 · SpaceX Reports Third Quarter 2026 Results · SpaceX。",
+                    "tokens": [
+                      "2026-10-20",
+                      "SpaceX",
+                      "Reports",
+                      "Third",
+                      "Quarter",
+                      "2026",
+                      "Results",
+                      "SpaceX"
+                    ],
+                    "count": 8
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 21
+              },
+              "zh-TW": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "SpaceX第三季收入為145.75億美元，資本支出195.93億美元。",
+                    "tokens": [
+                      "SpaceX",
+                      "第",
+                      "三",
+                      "季",
+                      "收入",
+                      "為",
+                      "145.75億",
+                      "美元",
+                      "資本",
+                      "支出",
+                      "195.93億",
+                      "美元"
+                    ],
+                    "count": 12
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-20 · SpaceX Reports Third Quarter 2026 Results · SpaceX。",
+                    "tokens": [
+                      "2026-10-20",
+                      "SpaceX",
+                      "Reports",
+                      "Third",
+                      "Quarter",
+                      "2026",
+                      "Results",
+                      "SpaceX"
+                    ],
+                    "count": 8
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 22
+              },
+              "en": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "SpaceX’s third-quarter revenue was $14.575 billion; capital expenditure was $19.593 billion.",
+                    "tokens": [
+                      "SpaceX’s",
+                      "third-quarter",
+                      "revenue",
+                      "was",
+                      "14.575",
+                      "billion",
+                      "capital",
+                      "expenditure",
+                      "was",
+                      "19.593",
+                      "billion"
+                    ],
+                    "count": 11
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-20 · SpaceX Reports Third Quarter 2026 Results · SpaceX.",
+                    "tokens": [
+                      "2026-10-20",
+                      "SpaceX",
+                      "Reports",
+                      "Third",
+                      "Quarter",
+                      "2026",
+                      "Results",
+                      "SpaceX"
+                    ],
+                    "count": 8
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 21
+              },
+              "fr": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "SpaceX au troisième trimestre : revenus de 14,575 milliards de dollars, investissements de 19,593 milliards.",
+                    "tokens": [
+                      "SpaceX",
+                      "au",
+                      "troisième",
+                      "trimestre",
+                      "revenus",
+                      "de",
+                      "14,575",
+                      "milliards",
+                      "de",
+                      "dollars",
+                      "investissements",
+                      "de",
+                      "19,593",
+                      "milliards"
+                    ],
+                    "count": 14
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-20 · SpaceX Reports Third Quarter 2026 Results · SpaceX.",
+                    "tokens": [
+                      "2026-10-20",
+                      "SpaceX",
+                      "Reports",
+                      "Third",
+                      "Quarter",
+                      "2026",
+                      "Results",
+                      "SpaceX"
+                    ],
+                    "count": 8
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 24
+              },
+              "ru": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "Выручка SpaceX за третий квартал — $14,575 млрд; капитальные затраты — $19,593 млрд.",
+                    "tokens": [
+                      "Выручка",
+                      "SpaceX",
+                      "за",
+                      "третий",
+                      "квартал",
+                      "14,575",
+                      "млрд",
+                      "капитальные",
+                      "затраты",
+                      "19,593",
+                      "млрд"
+                    ],
+                    "count": 11
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-20 · SpaceX Reports Third Quarter 2026 Results · SpaceX.",
+                    "tokens": [
+                      "2026-10-20",
+                      "SpaceX",
+                      "Reports",
+                      "Third",
+                      "Quarter",
+                      "2026",
+                      "Results",
+                      "SpaceX"
+                    ],
+                    "count": 8
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 21
+              }
+            },
+            "cumulativeChargedUnits": 109,
+            "withinBudget": true
+          }
+        },
+        {
+          "sourceNumber": 3,
+          "title": "Form 10-Q for the quarter ended September 30, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+          "dateInformation": "2026-10-22",
+          "rightsBasis": "Issuer-authored SEC filing; not US-government-authored public-domain material. Aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-22 · [Form 10-Q for the quarter ended September 30, 2026](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm) · SpaceX，未经审计季度报告。",
+          "budgetWords": 200,
+          "cumulativeWords": 165,
+          "actualCumulativeWords": 155,
+          "wordsByLanguage": {
+            "zh-CN": 35,
+            "zh-TW": 35,
+            "en": 31,
+            "fr": 35,
+            "ru": 29
+          },
+          "actualWordsByLanguage": {
+            "zh-CN": 33,
+            "zh-TW": 33,
+            "en": 29,
+            "fr": 33,
+            "ru": 27
+          },
+          "conservativeMarginWords": 10,
+          "countingMethod": "Counts source-specific facts, headline prefixes, actually repeated source-derived identification and full visible endnotes including original titles and dates. Latin/Cyrillic words use the recorded tokenizer; CJK is explicitly segmented, with a two-unit margin per language and source. No restricted-source prose quotations. Remaining analytical clauses are original reasoning or attributed RBA CC BY 4.0 / Federal Reserve public-domain context, not additional issuer or Reuters facts. Translation titles exclude amounts.",
+          "tokenizer": "[\\w]+(?:[’\\x27-][\\w]+)*(?:[.,][0-9]+)*",
+          "sourceUseLedger": {
+            "source": 3,
+            "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+            "budgetAllFiveEditions": 200,
+            "languages": {
+              "zh-CN": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "前九个月经营现金流为130.97亿美元，同期购置物业、厂房和设备支出480.69亿美元。",
+                    "tokens": [
+                      "前",
+                      "九",
+                      "个",
+                      "月",
+                      "经营",
+                      "现金流",
+                      "为",
+                      "130.97亿",
+                      "美元",
+                      "同期",
+                      "购置",
+                      "物业",
+                      "厂房",
+                      "和",
+                      "设备",
+                      "支出",
+                      "480.69亿",
+                      "美元"
+                    ],
+                    "count": 18
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-22 · Form 10-Q for the quarter ended September 30, 2026 · SpaceX，未经审计季度报告。",
+                    "tokens": [
+                      "2026-10-22",
+                      "Form",
+                      "10-Q",
+                      "for",
+                      "the",
+                      "quarter",
+                      "ended",
+                      "September",
+                      "30",
+                      "2026",
+                      "SpaceX",
+                      "未经",
+                      "审计",
+                      "季度",
+                      "报告"
+                    ],
+                    "count": 15
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 35
+              },
+              "zh-TW": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "前九個月營業現金流為130.97億美元，同期購置不動產、廠房和設備支出480.69億美元。",
+                    "tokens": [
+                      "前",
+                      "九",
+                      "個",
+                      "月",
+                      "營業",
+                      "現金流",
+                      "為",
+                      "130.97億",
+                      "美元",
+                      "同期",
+                      "購置",
+                      "不動產",
+                      "廠房",
+                      "和",
+                      "設備",
+                      "支出",
+                      "480.69億",
+                      "美元"
+                    ],
+                    "count": 18
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-22 · Form 10-Q for the quarter ended September 30, 2026 · SpaceX，未經審計季度報告。",
+                    "tokens": [
+                      "2026-10-22",
+                      "Form",
+                      "10-Q",
+                      "for",
+                      "the",
+                      "quarter",
+                      "ended",
+                      "September",
+                      "30",
+                      "2026",
+                      "SpaceX",
+                      "未經",
+                      "審計",
+                      "季度",
+                      "報告"
+                    ],
+                    "count": 15
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 35
+              },
+              "en": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "Nine-month operating cash flow was $13.097 billion; property, plant and equipment purchases were $48.069 billion.",
+                    "tokens": [
+                      "Nine-month",
+                      "operating",
+                      "cash",
+                      "flow",
+                      "was",
+                      "13.097",
+                      "billion",
+                      "property",
+                      "plant",
+                      "and",
+                      "equipment",
+                      "purchases",
+                      "were",
+                      "48.069",
+                      "billion"
+                    ],
+                    "count": 15
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-22 · Form 10-Q for the quarter ended September 30, 2026 · SpaceX, unaudited quarterly report.",
+                    "tokens": [
+                      "2026-10-22",
+                      "Form",
+                      "10-Q",
+                      "for",
+                      "the",
+                      "quarter",
+                      "ended",
+                      "September",
+                      "30",
+                      "2026",
+                      "SpaceX",
+                      "unaudited",
+                      "quarterly",
+                      "report"
+                    ],
+                    "count": 14
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 31
+              },
+              "fr": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "Sur neuf mois : flux de trésorerie d’exploitation de 13,097 milliards de dollars ; acquisitions d’immobilisations corporelles de 48,069 milliards.",
+                    "tokens": [
+                      "Sur",
+                      "neuf",
+                      "mois",
+                      "flux",
+                      "de",
+                      "trésorerie",
+                      "d’exploitation",
+                      "de",
+                      "13,097",
+                      "milliards",
+                      "de",
+                      "dollars",
+                      "acquisitions",
+                      "d’immobilisations",
+                      "corporelles",
+                      "de",
+                      "48,069",
+                      "milliards"
+                    ],
+                    "count": 18
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-22 · Form 10-Q for the quarter ended September 30, 2026 · SpaceX, rapport trimestriel non audité.",
+                    "tokens": [
+                      "2026-10-22",
+                      "Form",
+                      "10-Q",
+                      "for",
+                      "the",
+                      "quarter",
+                      "ended",
+                      "September",
+                      "30",
+                      "2026",
+                      "SpaceX",
+                      "rapport",
+                      "trimestriel",
+                      "non",
+                      "audité"
+                    ],
+                    "count": 15
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 35
+              },
+              "ru": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "Операционный денежный поток за девять месяцев — $13,097 млрд; приобретение основных средств — $48,069 млрд.",
+                    "tokens": [
+                      "Операционный",
+                      "денежный",
+                      "поток",
+                      "за",
+                      "девять",
+                      "месяцев",
+                      "13,097",
+                      "млрд",
+                      "приобретение",
+                      "основных",
+                      "средств",
+                      "48,069",
+                      "млрд"
+                    ],
+                    "count": 13
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-10-22 · Form 10-Q for the quarter ended September 30, 2026 · SpaceX, неаудированный квартальный отчёт.",
+                    "tokens": [
+                      "2026-10-22",
+                      "Form",
+                      "10-Q",
+                      "for",
+                      "the",
+                      "quarter",
+                      "ended",
+                      "September",
+                      "30",
+                      "2026",
+                      "SpaceX",
+                      "неаудированный",
+                      "квартальный",
+                      "отчёт"
+                    ],
+                    "count": 14
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 29
+              }
+            },
+            "cumulativeChargedUnits": 165,
+            "withinBudget": true
+          }
+        },
+        {
+          "sourceNumber": 4,
+          "title": "CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/ex991pr.htm",
+          "dateInformation": "2026-08-10",
+          "rightsBasis": "CoreWeave issuer-authored SEC exhibit; no open licence established. Aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-08-10 · [CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/ex991pr.htm) · CoreWeave。",
+          "budgetWords": 200,
+          "cumulativeWords": 194,
+          "actualCumulativeWords": 184,
+          "wordsByLanguage": {
+            "zh-CN": 43,
+            "zh-TW": 43,
+            "en": 37,
+            "fr": 36,
+            "ru": 35
+          },
+          "actualWordsByLanguage": {
+            "zh-CN": 41,
+            "zh-TW": 41,
+            "en": 35,
+            "fr": 34,
+            "ru": 33
+          },
+          "conservativeMarginWords": 10,
+          "countingMethod": "Counts source-specific facts, headline prefixes, actually repeated source-derived identification and full visible endnotes including original titles and dates. Latin/Cyrillic words use the recorded tokenizer; CJK is explicitly segmented, with a two-unit margin per language and source. No restricted-source prose quotations. Remaining analytical clauses are original reasoning or attributed RBA CC BY 4.0 / Federal Reserve public-domain context, not additional issuer or Reuters facts. Translation titles exclude amounts.",
+          "tokenizer": "[\\w]+(?:[’\\x27-][\\w]+)*(?:[.,][0-9]+)*",
+          "sourceUseLedger": {
+            "source": 4,
+            "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/ex991pr.htm",
+            "budgetAllFiveEditions": 200,
+            "languages": {
+              "zh-CN": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "CoreWeave八月披露的一笔贷款期限约五年，而对应客户合同平均约三年。",
+                    "tokens": [
+                      "CoreWeave",
+                      "八月",
+                      "披露",
+                      "的",
+                      "一笔",
+                      "贷款",
+                      "期限",
+                      "约",
+                      "五",
+                      "年",
+                      "而",
+                      "对应",
+                      "客户",
+                      "合同",
+                      "平均",
+                      "约",
+                      "三",
+                      "年"
+                    ],
+                    "count": 18
+                  },
+                  {
+                    "role": "repeated contextual identification of the historical disclosed example",
+                    "text": "这是一个已披露结构的历史例子",
+                    "tokens": [
+                      "这",
+                      "是",
+                      "一个",
+                      "已",
+                      "披露",
+                      "结构",
+                      "的",
+                      "历史",
+                      "例子"
+                    ],
+                    "count": 9
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-08-10 · CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure · CoreWeave。",
+                    "tokens": [
+                      "2026-08-10",
+                      "CoreWeave",
+                      "Closes",
+                      "2.6",
+                      "Billion",
+                      "Loan",
+                      "Facility",
+                      "Expanding",
+                      "Financing",
+                      "Flexibility",
+                      "for",
+                      "AI",
+                      "Infrastructure",
+                      "CoreWeave"
+                    ],
+                    "count": 14
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 43
+              },
+              "zh-TW": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "CoreWeave八月揭露的一筆貸款期限約五年，而對應客戶合約平均約三年。",
+                    "tokens": [
+                      "CoreWeave",
+                      "八月",
+                      "揭露",
+                      "的",
+                      "一筆",
+                      "貸款",
+                      "期限",
+                      "約",
+                      "五",
+                      "年",
+                      "而",
+                      "對應",
+                      "客戶",
+                      "合約",
+                      "平均",
+                      "約",
+                      "三",
+                      "年"
+                    ],
+                    "count": 18
+                  },
+                  {
+                    "role": "repeated contextual identification of the historical disclosed example",
+                    "text": "這是一個已揭露結構的歷史例子",
+                    "tokens": [
+                      "這",
+                      "是",
+                      "一個",
+                      "已",
+                      "揭露",
+                      "結構",
+                      "的",
+                      "歷史",
+                      "例子"
+                    ],
+                    "count": 9
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-08-10 · CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure · CoreWeave。",
+                    "tokens": [
+                      "2026-08-10",
+                      "CoreWeave",
+                      "Closes",
+                      "2.6",
+                      "Billion",
+                      "Loan",
+                      "Facility",
+                      "Expanding",
+                      "Financing",
+                      "Flexibility",
+                      "for",
+                      "AI",
+                      "Infrastructure",
+                      "CoreWeave"
+                    ],
+                    "count": 14
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 43
+              },
+              "en": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "CoreWeave’s August loan had an approximately five-year term; customer contracts averaged three.",
+                    "tokens": [
+                      "CoreWeave’s",
+                      "August",
+                      "loan",
+                      "had",
+                      "an",
+                      "approximately",
+                      "five-year",
+                      "term",
+                      "customer",
+                      "contracts",
+                      "averaged",
+                      "three"
+                    ],
+                    "count": 12
+                  },
+                  {
+                    "role": "repeated contextual identification of the historical disclosed example",
+                    "text": "This is a historical example of a disclosed structure",
+                    "tokens": [
+                      "This",
+                      "is",
+                      "a",
+                      "historical",
+                      "example",
+                      "of",
+                      "a",
+                      "disclosed",
+                      "structure"
+                    ],
+                    "count": 9
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-08-10 · CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure · CoreWeave.",
+                    "tokens": [
+                      "2026-08-10",
+                      "CoreWeave",
+                      "Closes",
+                      "2.6",
+                      "Billion",
+                      "Loan",
+                      "Facility",
+                      "Expanding",
+                      "Financing",
+                      "Flexibility",
+                      "for",
+                      "AI",
+                      "Infrastructure",
+                      "CoreWeave"
+                    ],
+                    "count": 14
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 37
+              },
+              "fr": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "CoreWeave : prêt d’août d’environ cinq ans, contrats clients de trois ans en moyenne.",
+                    "tokens": [
+                      "CoreWeave",
+                      "prêt",
+                      "d’août",
+                      "d’environ",
+                      "cinq",
+                      "ans",
+                      "contrats",
+                      "clients",
+                      "de",
+                      "trois",
+                      "ans",
+                      "en",
+                      "moyenne"
+                    ],
+                    "count": 13
+                  },
+                  {
+                    "role": "repeated contextual identification of the historical disclosed example",
+                    "text": "Cet exemple historique décrit une structure publiée",
+                    "tokens": [
+                      "Cet",
+                      "exemple",
+                      "historique",
+                      "décrit",
+                      "une",
+                      "structure",
+                      "publiée"
+                    ],
+                    "count": 7
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-08-10 · CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure · CoreWeave.",
+                    "tokens": [
+                      "2026-08-10",
+                      "CoreWeave",
+                      "Closes",
+                      "2.6",
+                      "Billion",
+                      "Loan",
+                      "Facility",
+                      "Expanding",
+                      "Financing",
+                      "Flexibility",
+                      "for",
+                      "AI",
+                      "Infrastructure",
+                      "CoreWeave"
+                    ],
+                    "count": 14
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 36
+              },
+              "ru": {
+                "segments": [
+                  {
+                    "role": "complete source-derived fact sentence",
+                    "text": "Августовский кредит CoreWeave рассчитан примерно на пять лет; клиентские договоры — в среднем на три.",
+                    "tokens": [
+                      "Августовский",
+                      "кредит",
+                      "CoreWeave",
+                      "рассчитан",
+                      "примерно",
+                      "на",
+                      "пять",
+                      "лет",
+                      "клиентские",
+                      "договоры",
+                      "в",
+                      "среднем",
+                      "на",
+                      "три"
+                    ],
+                    "count": 14
+                  },
+                  {
+                    "role": "repeated contextual identification of the historical disclosed example",
+                    "text": "Это исторический пример раскрытой структуры",
+                    "tokens": [
+                      "Это",
+                      "исторический",
+                      "пример",
+                      "раскрытой",
+                      "структуры"
+                    ],
+                    "count": 5
+                  },
+                  {
+                    "role": "full visible source endnote including date, complete original title and attribution; URL destination excluded",
+                    "text": "2026-08-10 · CoreWeave Closes $2.6 Billion Loan Facility, Expanding Financing Flexibility for AI Infrastructure · CoreWeave.",
+                    "tokens": [
+                      "2026-08-10",
+                      "CoreWeave",
+                      "Closes",
+                      "2.6",
+                      "Billion",
+                      "Loan",
+                      "Facility",
+                      "Expanding",
+                      "Financing",
+                      "Flexibility",
+                      "for",
+                      "AI",
+                      "Infrastructure",
+                      "CoreWeave"
+                    ],
+                    "count": 14
+                  }
+                ],
+                "segmentationAndContextMargin": 2,
+                "chargedUnits": 35
+              }
+            },
+            "cumulativeChargedUnits": 194,
+            "withinBudget": true
+          }
+        },
+        {
+          "sourceNumber": 5,
+          "title": "The Global Macro-financial Environment — Financial Stability Review",
+          "url": "https://www.rba.gov.au/publications/fsr/2026/oct/the-global-macro-financial-environment.html",
+          "dateInformation": "2026-10",
+          "rightsBasis": "Reserve Bank of Australia original qualitative prose under CC BY 4.0; attribution, adaptation notice and non-endorsement notice retained.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.rba.gov.au/copyright/",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ],
+          "permittedUseScope": "RBA-authored qualitative analysis only. Third-party or mixed-source data, charts and numerical industry estimates are not reused under this licence.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10 · [The Global Macro-financial Environment — Financial Stability Review](https://www.rba.gov.au/publications/fsr/2026/oct/the-global-macro-financial-environment.html) · Source: Reserve Bank of Australia 2026；相关原创文字按[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)作中文编译与分析，不代表RBA认可本文。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 6,
+          "title": "The Opportunities and Risks AI Presents for the Economy and Financial System",
+          "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+          "dateInformation": "2026-05-27",
+          "rightsBasis": "Federal Reserve Board-authored speech is public-domain US-government material under the Board disclaimer; third-party footnotes are not treated as public domain.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.federalreserve.gov/disclaimer.htm"
+          ],
+          "permittedUseScope": "Cook’s original qualitative discussion only; no third-party figures or datasets from cited material.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-05-27 · [The Opportunities and Risks AI Presents for the Economy and Financial System](https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm) · Lisa D. Cook，美联储理事会；本文对公有领域演讲作中文编译与分析。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        }
+      ]
+    },
+    {
+      "translationKey": "uk-rough-sleeping-funding-2026-10-26",
+      "editions": 5,
+      "languages": [
+        "zh-CN",
+        "en",
+        "fr",
+        "ru",
+        "zh-TW"
+      ],
+      "manuscriptPaths": {
+        "zh-CN": "content/issues/2026-10-26/zh-CN/uk-rough-sleeping-funding-2026-10-26.md",
+        "en": "content/issues/2026-10-26/en/uk-rough-sleeping-funding-2026-10-26.md",
+        "fr": "content/issues/2026-10-26/fr/uk-rough-sleeping-funding-2026-10-26.md",
+        "ru": "content/issues/2026-10-26/ru/uk-rough-sleeping-funding-2026-10-26.md",
+        "zh-TW": "content/issues/2026-10-26/zh-TW/uk-rough-sleeping-funding-2026-10-26.md"
+      },
+      "sources": [
+        {
+          "sourceNumber": 1,
+          "title": "PM confident every rough sleeper will have route off the street by Christmas as funding doubles",
+          "url": "https://www.gov.uk/government/news/pm-confident-every-rough-sleeper-will-have-route-off-the-street-by-christmas-as-funding-doubles",
+          "dateInformation": "2026-10-25",
+          "rightsBasis": "Crown copyright; original UK-government publication expressly reusable under Open Government Licence v3.0, with attribution. No third-party text used.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-25 · [PM confident every rough sleeper will have route off the street by Christmas as funding doubles](https://www.gov.uk/government/news/pm-confident-every-rough-sleeper-will-have-route-off-the-street-by-christmas-as-funding-doubles) · 英国首相办公室；政府公开信息依[OGL v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)使用。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 2,
+          "title": "Rough Sleeping Programme Guidance",
+          "url": "https://www.gov.uk/government/publications/rough-sleeping-programme/rough-sleeping-programme-guidance",
+          "dateInformation": "2026-08-19发布、2026-09-30更新",
+          "rightsBasis": "Crown copyright; original UK-government publication expressly reusable under Open Government Licence v3.0, with attribution. No third-party text used.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-08-19发布、2026-09-30更新 · [Rough Sleeping Programme Guidance](https://www.gov.uk/government/publications/rough-sleeping-programme/rough-sleeping-programme-guidance) · 英国住房、社区与地方政府部，适用于英格兰；OGL v3.0。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 3,
+          "title": "Rough sleeping snapshot in England: autumn 2025",
+          "url": "https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025",
+          "dateInformation": "2026-02-26",
+          "rightsBasis": "Crown copyright; original UK-government publication expressly reusable under Open Government Licence v3.0, with attribution. No third-party text used.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+          ],
+          "permittedUseScope": "Original statistical explanation and licensed original chart; chart rights and unchanged-byte evidence separately recorded in media provenance.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-02-26 · [Rough sleeping snapshot in England: autumn 2025](https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025) · 英国住房、社区与地方政府部；© Crown copyright 2026，OGL v3.0。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 4,
+          "title": "Rough sleeping data framework, April to June 2026 - release",
+          "url": "https://www.gov.uk/government/publications/rough-sleeping-data-framework-april-to-june-2026/rough-sleeping-data-framework-april-to-june-2026-release",
+          "dateInformation": "2026-08-27",
+          "rightsBasis": "Crown copyright; original UK-government publication expressly reusable under Open Government Licence v3.0, with attribution. No third-party text used.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-08-27 · [Rough sleeping data framework, April to June 2026 - release](https://www.gov.uk/government/publications/rough-sleeping-data-framework-april-to-june-2026/rough-sleeping-data-framework-april-to-june-2026-release) · 英国住房、社区与地方政府部；数据期2026年4—6月，本文数字为6月；OGL v3.0。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 5,
+          "title": "Rough sleeping snapshot in England: autumn 2025 - technical report",
+          "url": "https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025-technical-report",
+          "dateInformation": "2026-02-26",
+          "rightsBasis": "Crown copyright; original UK-government publication expressly reusable under Open Government Licence v3.0, with attribution. No third-party text used.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-02-26 · [Rough sleeping snapshot in England: autumn 2025 - technical report](https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025-technical-report) · 英国住房、社区与地方政府部；OGL v3.0。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        }
+      ]
+    },
+    {
+      "translationKey": "brazil-runoff-official-result-2026-10-26",
+      "editions": 5,
+      "languages": [
+        "zh-CN",
+        "en",
+        "fr",
+        "ru",
+        "zh-TW"
+      ],
+      "manuscriptPaths": {
+        "zh-CN": "content/issues/2026-10-26/zh-CN/brazil-runoff-official-result-2026-10-26.md",
+        "en": "content/issues/2026-10-26/en/brazil-runoff-official-result-2026-10-26.md",
+        "fr": "content/issues/2026-10-26/fr/brazil-runoff-official-result-2026-10-26.md",
+        "ru": "content/issues/2026-10-26/ru/brazil-runoff-official-result-2026-10-26.md",
+        "zh-TW": "content/issues/2026-10-26/zh-TW/brazil-runoff-official-result-2026-10-26.md"
+      },
+      "sources": [
+        {
+          "sourceNumber": 1,
+          "title": "Resultados — Eleição Geral Ordinária 2026, Presidente, 2º turno",
+          "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+          "dateInformation": "2026-10-25 22:25:37（巴西利亚时间；2026-10-26 01:25:37 UTC）· [Resultados — Eleição Geral Ordinária 2026, Presidente, 2º turno](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)",
+          "rightsBasis": "Underlying official numerical data are distinct from protected database selection/arrangement under Brazil Law 9,610, art. 7 §2; source-credit reuse supported by TSE open-data guidance.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm?rel=outbound",
+            "https://dadosabertos.tse.jus.br/pages/perguntasfrequentes"
+          ],
+          "permittedUseScope": "Numerical facts and original arithmetic only; no UI design, screenshot, photograph or journalistic prose reproduced.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-25 22:05:12（巴西利亚时间；2026-10-26 01:05:12 UTC）· [Resultados — Eleição Geral Ordinária 2026, Presidente, 2º turno](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados) · 巴西最高选举法院（TSE），官方实时结果快照。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 2,
+          "title": "Resultados — Eleição Geral Ordinária 2026, Presidente, 1º turno",
+          "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados",
+          "dateInformation": "2026-10-05 12:51:05（页面当地时间）· [Resultados — Eleição Geral Ordinária 2026, Presidente, 1º turno](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados)",
+          "rightsBasis": "Underlying official numerical data are distinct from protected database selection/arrangement under Brazil Law 9,610, art. 7 §2; source-credit reuse supported by TSE open-data guidance.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm?rel=outbound",
+            "https://dadosabertos.tse.jus.br/pages/perguntasfrequentes"
+          ],
+          "permittedUseScope": "Numerical facts and original arithmetic only; no UI design, screenshot, photograph or journalistic prose reproduced.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-05 12:51:05（页面当地时间）· [Resultados — Eleição Geral Ordinária 2026, Presidente, 1º turno](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados) · 巴西最高选举法院（TSE），全部投票区汇总。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 3,
+          "title": "Constituição da República Federativa do Brasil，art. 77",
+          "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao",
+          "dateInformation": "1988-10-05颁布、现行合并文本",
+          "rightsBasis": "Actual constitutional/legal text excluded from copyright protection by Brazil Law 9,610 art. 8 IV; not a press-story adaptation.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm?rel=outbound"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "1988-10-05颁布、现行合并文本 · [Constituição da República Federativa do Brasil，art. 77](https://www4.planalto.gov.br/legislacao/legis-federal/constituicao) · 巴西总统府。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 4,
+          "title": "Esclarecimento sobre prorrogação da votação",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao",
+          "dateInformation": "2026-10-25 18:44发布、19:02更新",
+          "rightsBasis": "TSE press-page prose conservatively treated as restricted; no blanket open licence inferred from government ownership. Aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-25 18:44发布、19:02更新 · [Esclarecimento sobre prorrogação da votação](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao) · 巴西最高选举法院（TSE）。",
+          "budgetWords": 200,
+          "cumulativeWords": 195,
+          "wordsByLanguage": {
+            "zh-CN": 47,
+            "en": 35,
+            "fr": 36,
+            "ru": 34,
+            "zh-TW": 43
+          },
+          "countingMethod": "Actual source-derived prose plus repeated scope caveat and full visible bibliographic text, including each repeated original title, dates, update labels and institutional attribution. URLs and footnote markers excluded. Chinese editions use explicit faithful English word-equivalent glosses; hyphenated and apostrophized lexical words count as one, dates/times as one. Not a whitespace-only Chinese count. Source 4 scope limitation is charged twice because repeated.",
+          "countUnitNote": "Chinese editions use the explicitly recorded faithful English-equivalent gloss, not a claim of whitespace-based Chinese word counting. Other editions count their published text.",
+          "sourceUseLedger": {
+            "source_number": 4,
+            "limit": 200,
+            "aggregate_words": 195,
+            "editions": [
+              {
+                "lang": "zh-CN",
+                "source_derived_body": "选举当晚，TSE说明，依最高法院决定，仅17时尚未结束投票的地点继续投票；19时之后恢复接收投票记录、汇总和公布结果。[^4]",
+                "footnote": "[^4]: 2026-10-25 18:44发布、19:02更新 · [Esclarecimento sobre prorrogação da votação](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao) · 巴西最高选举法院（TSE）。",
+                "counting_body": "On election night, TSE said a Supreme Court order continued voting only where unfinished at 17:00; record receipt, tabulation and publication would resume after 19:00.",
+                "counting_footnote": "2026-10-25 published 18:44 updated 19:02 Esclarecimento sobre prorrogação da votação Brazil’s Superior Electoral Court TSE",
+                "body_words": 25,
+                "full_footnote_words": 15,
+                "total_words": 47,
+                "repeated_scope_caveat": "却不能被扩大成全国所有投票站一律延长开放",
+                "scope_counting_text": "This does not imply a nationwide extension.",
+                "scope_words": 7
+              },
+              {
+                "lang": "en",
+                "source_derived_body": "A Supreme Court order continued voting only where unfinished at 17:00; receipt, tabulation and publication would resume after 19:00.[^4]",
+                "footnote": "[^4]: 2026-10-25 18:44, updated 19:02 · [Esclarecimento sobre prorrogação da votação](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao) · TSE.",
+                "counting_body": "A Supreme Court order continued voting only where unfinished at 17:00; receipt, tabulation and publication would resume after 19:00.",
+                "counting_footnote": " 2026-10-25 18:44, updated 19:02 · [Esclarecimento sobre prorrogação da votação] · TSE.",
+                "body_words": 19,
+                "full_footnote_words": 10,
+                "total_words": 35,
+                "repeated_scope_caveat": "It was not a nationwide extension.",
+                "scope_counting_text": "It was not a nationwide extension.",
+                "scope_words": 6
+              },
+              {
+                "lang": "fr",
+                "source_derived_body": "La Cour suprême prolongeait uniquement le vote encore ouvert à 17:00 ; réception, totalisation et publication des résultats reprendraient après 19:00.[^4]",
+                "footnote": "[^4]: 2026-10-25 18:44 (actualisation 19:02) · [Esclarecimento sobre prorrogação da votação](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao) · TSE.",
+                "counting_body": "La Cour suprême prolongeait uniquement le vote encore ouvert à 17:00 ; réception, totalisation et publication des résultats reprendraient après 19:00.",
+                "counting_footnote": " 2026-10-25 18:44 (actualisation 19:02) · [Esclarecimento sobre prorrogação da votação] · TSE.",
+                "body_words": 20,
+                "full_footnote_words": 10,
+                "total_words": 36,
+                "repeated_scope_caveat": "Ce n’était pas une prolongation nationale.",
+                "scope_counting_text": "Ce n’était pas une prolongation nationale.",
+                "scope_words": 6
+              },
+              {
+                "lang": "ru",
+                "source_derived_body": "По решению Верховного суда продолжалось только голосование, не завершённое к 17:00; приём протоколов, сведение и публикация результатов возобновятся после 19:00.[^4]",
+                "footnote": "[^4]: 2026-10-25 18:44 (обновлено 19:02) · [Esclarecimento sobre prorrogação da votação](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao) · TSE.",
+                "counting_body": "По решению Верховного суда продолжалось только голосование, не завершённое к 17:00; приём протоколов, сведение и публикация результатов возобновятся после 19:00.",
+                "counting_footnote": " 2026-10-25 18:44 (обновлено 19:02) · [Esclarecimento sobre prorrogação da votação] · TSE.",
+                "body_words": 20,
+                "full_footnote_words": 10,
+                "total_words": 34,
+                "repeated_scope_caveat": "Продление не было всеобщим.",
+                "scope_counting_text": "Продление не было всеобщим.",
+                "scope_words": 4
+              },
+              {
+                "lang": "zh-TW",
+                "source_derived_body": "選舉當晚，TSE說明，依最高法院決定，僅17時尚未結束投票的地點繼續投票；19時之後恢復接收投票紀錄、彙總和公布結果。[^4]",
+                "footnote": "[^4]: 2026-10-25，18:44發布、19:02更新 · [Esclarecimento sobre prorrogação da votação](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao) · TSE.",
+                "counting_body": "On election night, TSE said a Supreme Court order continued voting only where unfinished at 17:00; record receipt, tabulation and publication would resume after 19:00.",
+                "counting_footnote": "2026-10-25 published 18:44 updated 19:02 Esclarecimento sobre prorrogação da votação TSE",
+                "body_words": 25,
+                "full_footnote_words": 11,
+                "total_words": 43,
+                "repeated_scope_caveat": "卻不能被擴大成全國所有投票所一律延長開放",
+                "scope_counting_text": "This does not imply a nationwide extension.",
+                "scope_words": 7
+              }
+            ]
+          }
+        },
+        {
+          "sourceNumber": 5,
+          "title": "Resolução nº 23.751，art. 270",
+          "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+          "dateInformation": "2026-02-26",
+          "rightsBasis": "Actual regulation/official-act text excluded from copyright protection by Brazil Law 9,610 art. 8 IV; not a press-story adaptation.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm?rel=outbound"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-02-26 · [Resolução nº 23.751，art. 270](https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026) · 巴西最高选举法院（TSE）。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 6,
+          "title": "Eleições 2026: confira as principais datas do calendário eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral",
+          "dateInformation": "2026-03-06发布，2026-10-14更新",
+          "rightsBasis": "TSE calendar press-page prose conservatively treated as restricted; underlying law is distinct. Aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-03-06发布，2026-10-14更新 · [Eleições 2026: confira as principais datas do calendário eleitoral](https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral) · 巴西最高选举法院（TSE）。",
+          "budgetWords": 200,
+          "cumulativeWords": 173,
+          "wordsByLanguage": {
+            "zh-CN": 33,
+            "en": 33,
+            "fr": 41,
+            "ru": 33,
+            "zh-TW": 33
+          },
+          "countingMethod": "Actual source-derived prose plus repeated scope caveat and full visible bibliographic text, including each repeated original title, dates, update labels and institutional attribution. URLs and footnote markers excluded. Chinese editions use explicit faithful English word-equivalent glosses; hyphenated and apostrophized lexical words count as one, dates/times as one. Not a whitespace-only Chinese count. Source 4 scope limitation is charged twice because repeated.",
+          "countUnitNote": "Chinese editions use the explicitly recorded faithful English-equivalent gloss, not a claim of whitespace-based Chinese word counting. Other editions count their published text.",
+          "sourceUseLedger": {
+            "source_number": 6,
+            "limit": 200,
+            "aggregate_words": 173,
+            "editions": [
+              {
+                "lang": "zh-CN",
+                "source_derived_body": "TSE更新后的选举日历另列明，总统和副总统将在2027年1月5日就职。",
+                "footnote": "[^6]: 2026-03-06发布，2026-10-14更新 · [Eleições 2026: confira as principais datas do calendário eleitoral](https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral) · 巴西最高选举法院（TSE）。",
+                "counting_body": "TSE’s updated election calendar lists January 5, 2027, for the president’s and vice president’s inauguration.",
+                "counting_footnote": "Published 2026-03-06 updated 2026-10-14 Eleições 2026: confira as principais datas do calendário eleitoral Brazil’s Superior Electoral Court TSE",
+                "body_words": 15,
+                "full_footnote_words": 18,
+                "total_words": 33
+              },
+              {
+                "lang": "en",
+                "source_derived_body": "TSE’s updated election calendar lists January 5, 2027, for the president’s and vice president’s inauguration.",
+                "footnote": "[^6]: Published 2026-03-06; updated 2026-10-14 · [Eleições 2026: confira as principais datas do calendário eleitoral](https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral) · Brazil’s Superior Electoral Court (TSE).",
+                "counting_body": "TSE’s updated election calendar lists January 5, 2027, for the president’s and vice president’s inauguration.",
+                "counting_footnote": " Published 2026-03-06; updated 2026-10-14 · [Eleições 2026: confira as principais datas do calendário eleitoral] · Brazil’s Superior Electoral Court (TSE).",
+                "body_words": 15,
+                "full_footnote_words": 18,
+                "total_words": 33
+              },
+              {
+                "lang": "fr",
+                "source_derived_body": "Le calendrier actualisé du TSE fixe au 5 janvier 2027 l’entrée en fonction du président et du vice-président.",
+                "footnote": "[^6]: Publication le 2026-03-06, mise à jour le 2026-10-14 · [Eleições 2026: confira as principais datas do calendário eleitoral](https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral) · Tribunal supérieur électoral du Brésil (TSE).",
+                "counting_body": "Le calendrier actualisé du TSE fixe au 5 janvier 2027 l’entrée en fonction du président et du vice-président.",
+                "counting_footnote": " Publication le 2026-03-06, mise à jour le 2026-10-14 · [Eleições 2026: confira as principais datas do calendário eleitoral] · Tribunal supérieur électoral du Brésil (TSE).",
+                "body_words": 18,
+                "full_footnote_words": 23,
+                "total_words": 41
+              },
+              {
+                "lang": "ru",
+                "source_derived_body": "Обновлённый календарь TSE назначает вступление президента и вице-президента в должность на 5 января 2027 года.",
+                "footnote": "[^6]: Опубликовано 2026-03-06, обновлено 2026-10-14 · [Eleições 2026: confira as principais datas do calendário eleitoral](https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral) · Высший избирательный суд Бразилии (TSE).",
+                "counting_body": "Обновлённый календарь TSE назначает вступление президента и вице-президента в должность на 5 января 2027 года.",
+                "counting_footnote": " Опубликовано 2026-03-06, обновлено 2026-10-14 · [Eleições 2026: confira as principais datas do calendário eleitoral] · Высший избирательный суд Бразилии (TSE).",
+                "body_words": 15,
+                "full_footnote_words": 18,
+                "total_words": 33
+              },
+              {
+                "lang": "zh-TW",
+                "source_derived_body": "TSE更新後的選舉日曆另列明，總統和副總統將於2027年1月5日就職。",
+                "footnote": "[^6]: 2026-03-06發布，2026-10-14更新 · [Eleições 2026: confira as principais datas do calendário eleitoral](https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral) · 巴西最高選舉法院（TSE）。",
+                "counting_body": "TSE’s updated election calendar lists January 5, 2027, for the president’s and vice president’s inauguration.",
+                "counting_footnote": "Published 2026-03-06 updated 2026-10-14 Eleições 2026: confira as principais datas do calendário eleitoral Brazil’s Superior Electoral Court TSE",
+                "body_words": 15,
+                "full_footnote_words": 18,
+                "total_words": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "translationKey": "serbia-concession-transition-2026-10-26",
+      "editions": 5,
+      "languages": [
+        "zh-CN",
+        "en",
+        "fr",
+        "ru",
+        "zh-TW"
+      ],
+      "manuscriptPaths": {
+        "zh-CN": "content/issues/2026-10-26/zh-CN/serbia-concession-transition-2026-10-26.md",
+        "en": "content/issues/2026-10-26/en/serbia-concession-transition-2026-10-26.md",
+        "fr": "content/issues/2026-10-26/fr/serbia-concession-transition-2026-10-26.md",
+        "ru": "content/issues/2026-10-26/ru/serbia-concession-transition-2026-10-26.md",
+        "zh-TW": "content/issues/2026-10-26/zh-TW/serbia-concession-transition-2026-10-26.md"
+      },
+      "sources": [
+        {
+          "sourceNumber": 1,
+          "title": "Vucic concedes defeat",
+          "url": "https://n1info.rs/english/news/vucic-concedes-defeat",
+          "dateInformation": "2026-10-25 21:44",
+          "rightsBasis": "N1 copyrighted news; no open licence established. Aggregate 200-word budget includes headline, summary and repeated factual callbacks.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-25 21:44 · [Vucic concedes defeat](https://n1info.rs/english/news/vucic-concedes-defeat) · N1 Belgrade。",
+          "budgetWords": 200,
+          "cumulativeWords": 198,
+          "actualCumulativeWords": 198,
+          "wordsByLanguage": {
+            "zh-CN": 46,
+            "zh-TW": 41,
+            "en": 31,
+            "fr": 46,
+            "ru": 34
+          },
+          "countingMethod": "Actual exact source-derived strings, including title/description repetitions, repeated body facts and complete visible endnote text (dates, original titles and attribution). URLs and Markdown markers excluded. Counts use ICU Intl.Segmenter word boundaries, isWordLike, for every language; Chinese token arrays retained. Original analysis of denominators, procedures and inferential limits is not attributed to the short protected news sources. CRTA high-participation interpretation is original inference from published numbers, not an extra reported fact.",
+          "sourceUseLedger": {
+            "url": "https://n1info.rs/english/news/vucic-concedes-defeat",
+            "note": 1,
+            "aggregateWordCount": 198,
+            "budget": 200,
+            "pass": true,
+            "editions": [
+              {
+                "lang": "zh-CN",
+                "path": "content/issues/2026-10-26/zh-CN/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "武契奇承认败选",
+                    "wordCount": 6,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "承认",
+                      "败",
+                      "选"
+                    ]
+                  },
+                  {
+                    "text": "认输声明",
+                    "wordCount": 3,
+                    "tokens": [
+                      "认",
+                      "输",
+                      "声明"
+                    ]
+                  },
+                  {
+                    "text": "据N1报道，武契奇当晚在政党总部承认败选。",
+                    "wordCount": 14,
+                    "tokens": [
+                      "据",
+                      "N1",
+                      "报道",
+                      "武",
+                      "契",
+                      "奇",
+                      "当",
+                      "晚",
+                      "在",
+                      "政党",
+                      "总部",
+                      "承认",
+                      "败",
+                      "选"
+                    ]
+                  },
+                  {
+                    "text": "但认输",
+                    "wordCount": 3,
+                    "tokens": [
+                      "但",
+                      "认",
+                      "输"
+                    ]
+                  },
+                  {
+                    "text": "武契奇认输",
+                    "wordCount": 5,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "认",
+                      "输"
+                    ]
+                  },
+                  {
+                    "text": "武契奇认输",
+                    "wordCount": 5,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "认",
+                      "输"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25 21:44 · Vucic concedes defeat · N1 Belgrade。",
+                    "wordCount": 10,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "21",
+                      "44",
+                      "Vucic",
+                      "concedes",
+                      "defeat",
+                      "N1",
+                      "Belgrade"
+                    ]
+                  }
+                ],
+                "wordCount": 46,
+                "sha256": "8f95f31ac054d021ef2b1b637aad7e9864bbc133139fd09a355c11e2d3b5c25f"
+              },
+              {
+                "lang": "zh-TW",
+                "path": "content/issues/2026-10-26/zh-TW/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "武契奇承認敗選",
+                    "wordCount": 6,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "承認",
+                      "敗",
+                      "選"
+                    ]
+                  },
+                  {
+                    "text": "認輸聲明",
+                    "wordCount": 2,
+                    "tokens": [
+                      "認輸",
+                      "聲明"
+                    ]
+                  },
+                  {
+                    "text": "據N1報導，武契奇當晚在政黨總部承認敗選。",
+                    "wordCount": 13,
+                    "tokens": [
+                      "據",
+                      "N1",
+                      "報導",
+                      "武",
+                      "契",
+                      "奇",
+                      "當晚",
+                      "在",
+                      "政黨",
+                      "總部",
+                      "承認",
+                      "敗",
+                      "選"
+                    ]
+                  },
+                  {
+                    "text": "但認輸",
+                    "wordCount": 2,
+                    "tokens": [
+                      "但",
+                      "認輸"
+                    ]
+                  },
+                  {
+                    "text": "武契奇認輸",
+                    "wordCount": 4,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "認輸"
+                    ]
+                  },
+                  {
+                    "text": "武契奇認輸",
+                    "wordCount": 4,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "認輸"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25 21:44 · Vucic concedes defeat · N1 Belgrade。",
+                    "wordCount": 10,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "21",
+                      "44",
+                      "Vucic",
+                      "concedes",
+                      "defeat",
+                      "N1",
+                      "Belgrade"
+                    ]
+                  }
+                ],
+                "wordCount": 41,
+                "sha256": "197aa04a38c5864d8d1017bdc7eb8adba340719a121363efca775e2d962a554b"
+              },
+              {
+                "lang": "en",
+                "path": "content/issues/2026-10-26/en/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "Vučić concedes defeat",
+                    "wordCount": 3,
+                    "tokens": [
+                      "Vučić",
+                      "concedes",
+                      "defeat"
+                    ]
+                  },
+                  {
+                    "text": "A concession",
+                    "wordCount": 2,
+                    "tokens": [
+                      "A",
+                      "concession"
+                    ]
+                  },
+                  {
+                    "text": "N1 reported Vučić’s concession at party headquarters that evening.",
+                    "wordCount": 9,
+                    "tokens": [
+                      "N1",
+                      "reported",
+                      "Vučić’s",
+                      "concession",
+                      "at",
+                      "party",
+                      "headquarters",
+                      "that",
+                      "evening"
+                    ]
+                  },
+                  {
+                    "text": "But a concession",
+                    "wordCount": 3,
+                    "tokens": [
+                      "But",
+                      "a",
+                      "concession"
+                    ]
+                  },
+                  {
+                    "text": "Vučić’s concession",
+                    "wordCount": 2,
+                    "tokens": [
+                      "Vučić’s",
+                      "concession"
+                    ]
+                  },
+                  {
+                    "text": "Vučić’s concession",
+                    "wordCount": 2,
+                    "tokens": [
+                      "Vučić’s",
+                      "concession"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25 21:44 · Vucic concedes defeat · N1 Belgrade.",
+                    "wordCount": 10,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "21",
+                      "44",
+                      "Vucic",
+                      "concedes",
+                      "defeat",
+                      "N1",
+                      "Belgrade"
+                    ]
+                  }
+                ],
+                "wordCount": 31,
+                "sha256": "79927385b405e3e36a400b6c004547d2397e0459acfa11f269c01f5f2f769561"
+              },
+              {
+                "lang": "fr",
+                "path": "content/issues/2026-10-26/fr/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "Vučić reconnaît sa défaite",
+                    "wordCount": 4,
+                    "tokens": [
+                      "Vučić",
+                      "reconnaît",
+                      "sa",
+                      "défaite"
+                    ]
+                  },
+                  {
+                    "text": "Reconnaître une défaite",
+                    "wordCount": 3,
+                    "tokens": [
+                      "Reconnaître",
+                      "une",
+                      "défaite"
+                    ]
+                  },
+                  {
+                    "text": "selon N1, Vučić a reconnu sa défaite au siège du parti ce soir-là.",
+                    "wordCount": 14,
+                    "tokens": [
+                      "selon",
+                      "N1",
+                      "Vučić",
+                      "a",
+                      "reconnu",
+                      "sa",
+                      "défaite",
+                      "au",
+                      "siège",
+                      "du",
+                      "parti",
+                      "ce",
+                      "soir",
+                      "là"
+                    ]
+                  },
+                  {
+                    "text": "Mais cette reconnaissance",
+                    "wordCount": 3,
+                    "tokens": [
+                      "Mais",
+                      "cette",
+                      "reconnaissance"
+                    ]
+                  },
+                  {
+                    "text": "La reconnaissance de défaite de Vučić",
+                    "wordCount": 6,
+                    "tokens": [
+                      "La",
+                      "reconnaissance",
+                      "de",
+                      "défaite",
+                      "de",
+                      "Vučić"
+                    ]
+                  },
+                  {
+                    "text": "la reconnaissance de défaite de Vučić",
+                    "wordCount": 6,
+                    "tokens": [
+                      "la",
+                      "reconnaissance",
+                      "de",
+                      "défaite",
+                      "de",
+                      "Vučić"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25 21:44 · Vucic concedes defeat · N1 Belgrade.",
+                    "wordCount": 10,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "21",
+                      "44",
+                      "Vucic",
+                      "concedes",
+                      "defeat",
+                      "N1",
+                      "Belgrade"
+                    ]
+                  }
+                ],
+                "wordCount": 46,
+                "sha256": "b063f602fad2787071e950095f63656033cfd24d2c5ccff621b86241cd517fe9"
+              },
+              {
+                "lang": "ru",
+                "path": "content/issues/2026-10-26/ru/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "Вучич признал поражение",
+                    "wordCount": 3,
+                    "tokens": [
+                      "Вучич",
+                      "признал",
+                      "поражение"
+                    ]
+                  },
+                  {
+                    "text": "Признание поражения",
+                    "wordCount": 2,
+                    "tokens": [
+                      "Признание",
+                      "поражения"
+                    ]
+                  },
+                  {
+                    "text": "N1 сообщил: Вучич вечером признал поражение в партийной штаб-квартире.",
+                    "wordCount": 10,
+                    "tokens": [
+                      "N1",
+                      "сообщил",
+                      "Вучич",
+                      "вечером",
+                      "признал",
+                      "поражение",
+                      "в",
+                      "партийной",
+                      "штаб",
+                      "квартире"
+                    ]
+                  },
+                  {
+                    "text": "Однако признание поражения",
+                    "wordCount": 3,
+                    "tokens": [
+                      "Однако",
+                      "признание",
+                      "поражения"
+                    ]
+                  },
+                  {
+                    "text": "Признание поражения Вучичем",
+                    "wordCount": 3,
+                    "tokens": [
+                      "Признание",
+                      "поражения",
+                      "Вучичем"
+                    ]
+                  },
+                  {
+                    "text": "признание поражения Вучичем",
+                    "wordCount": 3,
+                    "tokens": [
+                      "признание",
+                      "поражения",
+                      "Вучичем"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25 21:44 · Vucic concedes defeat · N1 Belgrade.",
+                    "wordCount": 10,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "21",
+                      "44",
+                      "Vucic",
+                      "concedes",
+                      "defeat",
+                      "N1",
+                      "Belgrade"
+                    ]
+                  }
+                ],
+                "wordCount": 34,
+                "sha256": "df0e747ea11e736ca3d8b5227e279c11de3a56a18523f60ad9d4570140d9ffd5"
+              }
+            ]
+          }
+        },
+        {
+          "sourceNumber": 2,
+          "title": "Резултати избора — Парламентарни 2026",
+          "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
+          "dateInformation": "2026-10-26 02:25:00（塞尔维亚当地时间/CET；01:25:00 UTC）· [Резултати избора — Парламентарни 2026](https://www.rik.parlament.gov.rs/542645/rezultati/)",
+          "rightsBasis": "Original official numerical results and author calculations, not protected news expression; Serbian official state-body material exclusion corroborated by Intellectual Property Office guidance.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.zis.gov.rs/en/rights/copyright-and-related-rights/"
+          ],
+          "permittedUseScope": "Raw numerical facts and original calculation only; RIK site imagery and BY-NC-ND presentation assets are not reused.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-26 02:05:00（塞尔维亚当地时间/CET；01:05:00 UTC）· [Резултати избора — Парламентарни 2026](https://www.rik.parlament.gov.rs/542645/rezultati/) · 共和国选举委员会（RIK）；页面依次选择“Парламентарни”和“Парламентарни 2026”，全国部分结果快照。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 3,
+          "title": "Вучић предао дужност председника Републике председници Скупштине",
+          "url": "https://www.srbija.gov.rs/vest/1003514/vucic-predao-duznost-predsednika-republike-predsednici-skupstine.php",
+          "dateInformation": "2026-09-28",
+          "rightsBasis": "Government-hosted article carries Tanjug authorship; it is conservatively treated as copyrighted third-party reporting, not blanket public-domain government text. Aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-09-28 · [Вучић предао дужност председника Републике председници Скупштине](https://www.srbija.gov.rs/vest/1003514/vucic-predao-duznost-predsednika-republike-predsednici-skupstine.php) · 塞尔维亚政府。",
+          "budgetWords": 200,
+          "cumulativeWords": 181,
+          "actualCumulativeWords": 181,
+          "wordsByLanguage": {
+            "zh-CN": 41,
+            "zh-TW": 41,
+            "en": 33,
+            "fr": 35,
+            "ru": 31
+          },
+          "countingMethod": "Actual exact source-derived strings, including title/description repetitions, repeated body facts and complete visible endnote text (dates, original titles and attribution). URLs and Markdown markers excluded. Counts use ICU Intl.Segmenter word boundaries, isWordLike, for every language; Chinese token arrays retained. Original analysis of denominators, procedures and inferential limits is not attributed to the short protected news sources. CRTA high-participation interpretation is original inference from published numbers, not an extra reported fact.",
+          "sourceUseLedger": {
+            "url": "https://www.srbija.gov.rs/vest/1003514/vucic-predao-duznost-predsednika-republike-predsednici-skupstine.php",
+            "note": 3,
+            "aggregateWordCount": 181,
+            "budget": 200,
+            "pass": true,
+            "editions": [
+              {
+                "lang": "zh-CN",
+                "path": "content/issues/2026-10-26/zh-CN/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "武契奇已于9月辞任总统，议会议长安娜·布尔纳比奇代理职责。",
+                    "wordCount": 19,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "已",
+                      "于",
+                      "9",
+                      "月",
+                      "辞任",
+                      "总统",
+                      "议会",
+                      "议长",
+                      "安娜",
+                      "布",
+                      "尔",
+                      "纳",
+                      "比",
+                      "奇",
+                      "代理",
+                      "职责"
+                    ]
+                  },
+                  {
+                    "text": "这位前总统",
+                    "wordCount": 3,
+                    "tokens": [
+                      "这位",
+                      "前",
+                      "总统"
+                    ]
+                  },
+                  {
+                    "text": "不是一项刚刚发生的总统辞职",
+                    "wordCount": 7,
+                    "tokens": [
+                      "不是",
+                      "一项",
+                      "刚刚",
+                      "发生",
+                      "的",
+                      "总统",
+                      "辞职"
+                    ]
+                  },
+                  {
+                    "text": "2026-09-28 · Вучић предао дужност председника Републике председници Скупштине · 塞尔维亚政府。",
+                    "wordCount": 12,
+                    "tokens": [
+                      "2026",
+                      "09",
+                      "28",
+                      "Вучић",
+                      "предао",
+                      "дужност",
+                      "председника",
+                      "Републике",
+                      "председници",
+                      "Скупштине",
+                      "塞尔维亚",
+                      "政府"
+                    ]
+                  }
+                ],
+                "wordCount": 41,
+                "sha256": "8f95f31ac054d021ef2b1b637aad7e9864bbc133139fd09a355c11e2d3b5c25f"
+              },
+              {
+                "lang": "zh-TW",
+                "path": "content/issues/2026-10-26/zh-TW/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "武契奇已於9月辭任總統，議會議長安娜·布爾納比奇代理職責。",
+                    "wordCount": 19,
+                    "tokens": [
+                      "武",
+                      "契",
+                      "奇",
+                      "已於",
+                      "9",
+                      "月",
+                      "辭",
+                      "任",
+                      "總統",
+                      "議會",
+                      "議長",
+                      "安娜",
+                      "布",
+                      "爾",
+                      "納",
+                      "比",
+                      "奇",
+                      "代理",
+                      "職責"
+                    ]
+                  },
+                  {
+                    "text": "這位前總統",
+                    "wordCount": 3,
+                    "tokens": [
+                      "這位",
+                      "前",
+                      "總統"
+                    ]
+                  },
+                  {
+                    "text": "不是一項剛剛發生的總統辭職",
+                    "wordCount": 7,
+                    "tokens": [
+                      "不是",
+                      "一項",
+                      "剛剛",
+                      "發生",
+                      "的",
+                      "總統",
+                      "辭職"
+                    ]
+                  },
+                  {
+                    "text": "2026-09-28 · Вучић предао дужност председника Републике председници Скупштине · 塞爾維亞政府。",
+                    "wordCount": 12,
+                    "tokens": [
+                      "2026",
+                      "09",
+                      "28",
+                      "Вучић",
+                      "предао",
+                      "дужност",
+                      "председника",
+                      "Републике",
+                      "председници",
+                      "Скупштине",
+                      "塞爾維亞",
+                      "政府"
+                    ]
+                  }
+                ],
+                "wordCount": 41,
+                "sha256": "197aa04a38c5864d8d1017bdc7eb8adba340719a121363efca775e2d962a554b"
+              },
+              {
+                "lang": "en",
+                "path": "content/issues/2026-10-26/en/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "Vučić resigned as president in September; Assembly Speaker Ana Brnabić assumed his duties.",
+                    "wordCount": 13,
+                    "tokens": [
+                      "Vučić",
+                      "resigned",
+                      "as",
+                      "president",
+                      "in",
+                      "September",
+                      "Assembly",
+                      "Speaker",
+                      "Ana",
+                      "Brnabić",
+                      "assumed",
+                      "his",
+                      "duties"
+                    ]
+                  },
+                  {
+                    "text": "the former president",
+                    "wordCount": 3,
+                    "tokens": [
+                      "the",
+                      "former",
+                      "president"
+                    ]
+                  },
+                  {
+                    "text": "or a fresh resignation",
+                    "wordCount": 4,
+                    "tokens": [
+                      "or",
+                      "a",
+                      "fresh",
+                      "resignation"
+                    ]
+                  },
+                  {
+                    "text": "2026-09-28 · Вучић предао дужност председника Републике председници Скупштине · Government of Serbia.",
+                    "wordCount": 13,
+                    "tokens": [
+                      "2026",
+                      "09",
+                      "28",
+                      "Вучић",
+                      "предао",
+                      "дужност",
+                      "председника",
+                      "Републике",
+                      "председници",
+                      "Скупштине",
+                      "Government",
+                      "of",
+                      "Serbia"
+                    ]
+                  }
+                ],
+                "wordCount": 33,
+                "sha256": "79927385b405e3e36a400b6c004547d2397e0459acfa11f269c01f5f2f769561"
+              },
+              {
+                "lang": "fr",
+                "path": "content/issues/2026-10-26/fr/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "Vučić a démissionné de la présidence en septembre ; la présidente de l’Assemblée, Ana Brnabić, assure l’intérim.",
+                    "wordCount": 16,
+                    "tokens": [
+                      "Vučić",
+                      "a",
+                      "démissionné",
+                      "de",
+                      "la",
+                      "présidence",
+                      "en",
+                      "septembre",
+                      "la",
+                      "présidente",
+                      "de",
+                      "l’Assemblée",
+                      "Ana",
+                      "Brnabić",
+                      "assure",
+                      "l’intérim"
+                    ]
+                  },
+                  {
+                    "text": "cet ancien président",
+                    "wordCount": 3,
+                    "tokens": [
+                      "cet",
+                      "ancien",
+                      "président"
+                    ]
+                  },
+                  {
+                    "text": "ni une nouvelle démission",
+                    "wordCount": 4,
+                    "tokens": [
+                      "ni",
+                      "une",
+                      "nouvelle",
+                      "démission"
+                    ]
+                  },
+                  {
+                    "text": "2026-09-28 · Вучић предао дужност председника Републике председници Скупштине · Gouvernement serbe.",
+                    "wordCount": 12,
+                    "tokens": [
+                      "2026",
+                      "09",
+                      "28",
+                      "Вучић",
+                      "предао",
+                      "дужност",
+                      "председника",
+                      "Републике",
+                      "председници",
+                      "Скупштине",
+                      "Gouvernement",
+                      "serbe"
+                    ]
+                  }
+                ],
+                "wordCount": 35,
+                "sha256": "b063f602fad2787071e950095f63656033cfd24d2c5ccff621b86241cd517fe9"
+              },
+              {
+                "lang": "ru",
+                "path": "content/issues/2026-10-26/ru/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "Вучич ушёл с поста президента в сентябре; его обязанности исполняет председатель парламента Ана Брнабич.",
+                    "wordCount": 14,
+                    "tokens": [
+                      "Вучич",
+                      "ушёл",
+                      "с",
+                      "поста",
+                      "президента",
+                      "в",
+                      "сентябре",
+                      "его",
+                      "обязанности",
+                      "исполняет",
+                      "председатель",
+                      "парламента",
+                      "Ана",
+                      "Брнабич"
+                    ]
+                  },
+                  {
+                    "text": "бывшего президента",
+                    "wordCount": 2,
+                    "tokens": [
+                      "бывшего",
+                      "президента"
+                    ]
+                  },
+                  {
+                    "text": "не новой отставки",
+                    "wordCount": 3,
+                    "tokens": [
+                      "не",
+                      "новой",
+                      "отставки"
+                    ]
+                  },
+                  {
+                    "text": "2026-09-28 · Вучић предао дужност председника Републике председници Скупштине · Правительство Сербии.",
+                    "wordCount": 12,
+                    "tokens": [
+                      "2026",
+                      "09",
+                      "28",
+                      "Вучић",
+                      "предао",
+                      "дужност",
+                      "председника",
+                      "Републике",
+                      "председници",
+                      "Скупштине",
+                      "Правительство",
+                      "Сербии"
+                    ]
+                  }
+                ],
+                "wordCount": 31,
+                "sha256": "df0e747ea11e736ca3d8b5227e279c11de3a56a18523f60ad9d4570140d9ffd5"
+              }
+            ]
+          }
+        },
+        {
+          "sourceNumber": 4,
+          "title": "Устав Републике Србије，чл. 100、127",
+          "url": "https://www.ustavni.sud.rs/ustav-rs-i-propisi/ustav-republike-srbije?lang_type=lat",
+          "dateInformation": "2006年宪法、现行修订合并文本",
+          "rightsBasis": "Official constitutional/legal text excluded from copyright protection under Serbian law, corroborated by official Intellectual Property Office guidance.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.zis.gov.rs/en/rights/copyright-and-related-rights/"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2006年宪法、现行修订合并文本 · [Устав Републике Србије，чл. 100、127](https://www.ustavni.sud.rs/ustav-rs-i-propisi/ustav-republike-srbije?lang_type=lat) · 塞尔维亚宪法法院。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 5,
+          "title": "Ванредна конференција за медије Републичке изборне комисије",
+          "url": "https://www.rik.parlament.gov.rs/vest/811343/vanredna-konferencija-za-medije-republicke-izborne-komisije.php",
+          "dateInformation": "2026-10-25，会议时间20:15",
+          "rightsBasis": "Identifiable original official material of the Republic Electoral Commission, a state body, excluded from protected works under Serbian copyright rules as explained by the Intellectual Property Office.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.zis.gov.rs/en/rights/copyright-and-related-rights/"
+          ],
+          "permittedUseScope": "RIK’s administrative explanatory text only; exclusion is not extended to third-party news, photos or site branding.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-25，会议时间20:15 · [Ванредна конференција за медије Републичке изборне комисије](https://www.rik.parlament.gov.rs/vest/811343/vanredna-konferencija-za-medije-republicke-izborne-komisije.php) · 共和国选举委员会（RIK）。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        },
+        {
+          "sourceNumber": 6,
+          "title": "Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto",
+          "url": "https://crta.rs/do-19-sati-izlaznost-na-parlamentarnim-izborima-iznosi-67-8-odsto/",
+          "dateInformation": "2026-10-25，19时估计",
+          "rightsBasis": "CRTA original third-party reporting; no open licence established. Aggregate 200-word budget.",
+          "restricted": true,
+          "rightsEvidence": [],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "2026-10-25，19时估计 · [Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto](https://crta.rs/do-19-sati-izlaznost-na-parlamentarnim-izborima-iznosi-67-8-odsto/) · CRTA。",
+          "budgetWords": 200,
+          "cumulativeWords": 188,
+          "actualCumulativeWords": 188,
+          "wordsByLanguage": {
+            "zh-CN": 39,
+            "zh-TW": 37,
+            "en": 38,
+            "fr": 38,
+            "ru": 36
+          },
+          "countingMethod": "Actual exact source-derived strings, including title/description repetitions, repeated body facts and complete visible endnote text (dates, original titles and attribution). URLs and Markdown markers excluded. Counts use ICU Intl.Segmenter word boundaries, isWordLike, for every language; Chinese token arrays retained. Original analysis of denominators, procedures and inferential limits is not attributed to the short protected news sources. CRTA high-participation interpretation is original inference from published numbers, not an extra reported fact.",
+          "sourceUseLedger": {
+            "url": "https://crta.rs/do-19-sati-izlaznost-na-parlamentarnim-izborima-iznosi-67-8-odsto/",
+            "note": 6,
+            "aggregateWordCount": 188,
+            "budget": 200,
+            "pass": true,
+            "editions": [
+              {
+                "lang": "zh-CN",
+                "path": "content/issues/2026-10-26/zh-CN/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "独立观察组织CRTA估计，25日19时的投票率为67.8%，误差范围为正负0.9个百分点。",
+                    "wordCount": 23,
+                    "tokens": [
+                      "独立",
+                      "观察",
+                      "组织",
+                      "CRTA",
+                      "估计",
+                      "25",
+                      "日",
+                      "19",
+                      "时",
+                      "的",
+                      "投票",
+                      "率",
+                      "为",
+                      "67.8",
+                      "误差",
+                      "范围",
+                      "为",
+                      "正",
+                      "负",
+                      "0.9",
+                      "个",
+                      "百分",
+                      "点"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25，19时估计 · Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto · CRTA。",
+                    "wordCount": 16,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25，19",
+                      "时",
+                      "估计",
+                      "Do",
+                      "19",
+                      "sati",
+                      "izlaznost",
+                      "na",
+                      "parlamentarnim",
+                      "izborima",
+                      "iznosi",
+                      "67.8",
+                      "odsto",
+                      "CRTA"
+                    ]
+                  }
+                ],
+                "wordCount": 39,
+                "sha256": "8f95f31ac054d021ef2b1b637aad7e9864bbc133139fd09a355c11e2d3b5c25f"
+              },
+              {
+                "lang": "zh-TW",
+                "path": "content/issues/2026-10-26/zh-TW/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "獨立觀察組織CRTA估計，25日19時的投票率為67.8%，誤差範圍為正負0.9個百分點。",
+                    "wordCount": 21,
+                    "tokens": [
+                      "獨立",
+                      "觀察",
+                      "組織",
+                      "CRTA",
+                      "估計",
+                      "25",
+                      "日",
+                      "19",
+                      "時",
+                      "的",
+                      "投票",
+                      "率",
+                      "為",
+                      "67.8",
+                      "誤差",
+                      "範圍",
+                      "為",
+                      "正負",
+                      "0.9",
+                      "個",
+                      "百分點"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25，19時估計 · Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto · CRTA。",
+                    "wordCount": 16,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25，19",
+                      "時",
+                      "估計",
+                      "Do",
+                      "19",
+                      "sati",
+                      "izlaznost",
+                      "na",
+                      "parlamentarnim",
+                      "izborima",
+                      "iznosi",
+                      "67.8",
+                      "odsto",
+                      "CRTA"
+                    ]
+                  }
+                ],
+                "wordCount": 37,
+                "sha256": "197aa04a38c5864d8d1017bdc7eb8adba340719a121363efca775e2d962a554b"
+              },
+              {
+                "lang": "en",
+                "path": "content/issues/2026-10-26/en/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "Independent monitor CRTA estimated turnout at 67.8% at 19:00 on October 25, with a margin of ±0.9 percentage points.",
+                    "wordCount": 20,
+                    "tokens": [
+                      "Independent",
+                      "monitor",
+                      "CRTA",
+                      "estimated",
+                      "turnout",
+                      "at",
+                      "67.8",
+                      "at",
+                      "19",
+                      "00",
+                      "on",
+                      "October",
+                      "25",
+                      "with",
+                      "a",
+                      "margin",
+                      "of",
+                      "0.9",
+                      "percentage",
+                      "points"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25; estimate at 19:00 · Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto · CRTA.",
+                    "wordCount": 18,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "estimate",
+                      "at",
+                      "19",
+                      "00",
+                      "Do",
+                      "19",
+                      "sati",
+                      "izlaznost",
+                      "na",
+                      "parlamentarnim",
+                      "izborima",
+                      "iznosi",
+                      "67.8",
+                      "odsto",
+                      "CRTA"
+                    ]
+                  }
+                ],
+                "wordCount": 38,
+                "sha256": "79927385b405e3e36a400b6c004547d2397e0459acfa11f269c01f5f2f769561"
+              },
+              {
+                "lang": "fr",
+                "path": "content/issues/2026-10-26/fr/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "CRTA, observateur indépendant, estimait la participation à 67,8 % à 19 heures le 25 octobre, avec une marge de ±0,9 point.",
+                    "wordCount": 20,
+                    "tokens": [
+                      "CRTA",
+                      "observateur",
+                      "indépendant",
+                      "estimait",
+                      "la",
+                      "participation",
+                      "à",
+                      "67,8",
+                      "à",
+                      "19",
+                      "heures",
+                      "le",
+                      "25",
+                      "octobre",
+                      "avec",
+                      "une",
+                      "marge",
+                      "de",
+                      "0,9",
+                      "point"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25 ; estimation de 19 heures · Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto · CRTA.",
+                    "wordCount": 18,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "estimation",
+                      "de",
+                      "19",
+                      "heures",
+                      "Do",
+                      "19",
+                      "sati",
+                      "izlaznost",
+                      "na",
+                      "parlamentarnim",
+                      "izborima",
+                      "iznosi",
+                      "67.8",
+                      "odsto",
+                      "CRTA"
+                    ]
+                  }
+                ],
+                "wordCount": 38,
+                "sha256": "b063f602fad2787071e950095f63656033cfd24d2c5ccff621b86241cd517fe9"
+              },
+              {
+                "lang": "ru",
+                "path": "content/issues/2026-10-26/ru/serbia-concession-transition-2026-10-26.md",
+                "segments": [
+                  {
+                    "text": "По оценке независимой наблюдательной организации CRTA, явка к 19:00 25 октября составляла 67,8%, погрешность — ±0,9 процентного пункта.",
+                    "wordCount": 18,
+                    "tokens": [
+                      "По",
+                      "оценке",
+                      "независимой",
+                      "наблюдательной",
+                      "организации",
+                      "CRTA",
+                      "явка",
+                      "к",
+                      "19",
+                      "00",
+                      "25",
+                      "октября",
+                      "составляла",
+                      "67,8",
+                      "погрешность",
+                      "0,9",
+                      "процентного",
+                      "пункта"
+                    ]
+                  },
+                  {
+                    "text": "2026-10-25; оценка на 19:00 · Do 19 sati izlaznost na parlamentarnim izborima iznosi 67.8 odsto · CRTA.",
+                    "wordCount": 18,
+                    "tokens": [
+                      "2026",
+                      "10",
+                      "25",
+                      "оценка",
+                      "на",
+                      "19",
+                      "00",
+                      "Do",
+                      "19",
+                      "sati",
+                      "izlaznost",
+                      "na",
+                      "parlamentarnim",
+                      "izborima",
+                      "iznosi",
+                      "67.8",
+                      "odsto",
+                      "CRTA"
+                    ]
+                  }
+                ],
+                "wordCount": 36,
+                "sha256": "df0e747ea11e736ca3d8b5227e279c11de3a56a18523f60ad9d4570140d9ffd5"
+              }
+            ]
+          }
+        },
+        {
+          "sourceNumber": 7,
+          "title": "XV. Relations between the National Assembly and the Government，arts. 268–271",
+          "url": "https://www.parlament.gov.rs/national-assembly/important-documents/rules-of-procedure-%28consolidated-text%29/relationship-between-the-national-assembly-and-the-government.1365.html",
+          "dateInformation": "现行议事规则合并文本，核验于2026-10-26",
+          "rightsBasis": "Official legal/procedural text excluded from copyright protection under Serbian law, corroborated by official Intellectual Property Office guidance.",
+          "restricted": false,
+          "rightsEvidence": [
+            "https://www.zis.gov.rs/en/rights/copyright-and-related-rights/"
+          ],
+          "permittedUseScope": "Original factual paraphrase and independent analysis; no source images or protected full text republished.",
+          "editions": 5,
+          "bibliographicNoteFromMaster": "现行议事规则合并文本，核验于2026-10-26 · [XV. Relations between the National Assembly and the Government，arts. 268–271](https://www.parlament.gov.rs/national-assembly/important-documents/rules-of-procedure-%28consolidated-text%29/relationship-between-the-national-assembly-and-the-government.1365.html) · 塞尔维亚国民议会。",
+          "budgetWords": null,
+          "cumulativeWords": null,
+          "budgetStatus": "Not subject to the conservative restricted-source paraphrase cap for the specified licensed/public-domain/data use; attribution and scope restrictions still apply."
+        }
+      ]
+    }
+  ],
+  "inputLedgerPins": [
+    {
+      "artifact": "nextdc-source-budget.json",
+      "sha256": "b5edd72b396436f38747526fa7badb6ee16829cc1284d8a34f5dbdc8ecea1929"
+    },
+    {
+      "artifact": "spacex-source-budget.json",
+      "sha256": "1647118bec568232bb9436169cc1b263f4b9df95ef279c97e38878564ec2936a"
+    },
+    {
+      "artifact": "brazil-source-budget.json",
+      "sha256": "fd7400b06707571cb3010d72bb3228a3a9ec8be3c71cacf8b673134201e1df59"
+    },
+    {
+      "artifact": "serbia-source-budget.json",
+      "sha256": "65563362cc032afd750d41267450ac44fb53da98c1cce0235b4a9902b98a032a"
+    }
+  ],
+  "postAuditIntegration": "Canonical existing tag translations reused. The Serbian legal source URL uses equivalent percent-encoded parentheses to preserve the full visible link and structured citation. Restricted-source prose and budgets are unchanged."
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-10-26",
+  "cutoffPolicy": "Time-stamped official page observations. Partial counts are not certification; this record is frozen at the cited source update times.",
+  "brazil": {
+    "sourceTitle": "Resultados — Eleição Geral Ordinária 2026, Presidente, 2º turno",
+    "sourceUrl": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+    "sourceUpdatedAtLocal": "2026-10-25T22:25:37-03:00",
+    "sourceUpdatedAtUtc": "2026-10-26T01:25:37Z",
+    "observedAtUtc": "2026-10-26T01:29:58Z",
+    "sourceTimezone": "America/Sao_Paulo (Brasília, UTC−03:00)",
+    "statusAsDisplayed": "Eleição matematicamente definida (Eleito)",
+    "count": {
+      "total_sections": 499248,
+      "totalized_sections": 499223,
+      "totalized_percentage_displayed": 99.99,
+      "lula_votes": 64252284,
+      "lula_percentage_displayed": 51.78,
+      "flavio_votes": 59824250,
+      "flavio_percentage_displayed": 48.22,
+      "valid_votes": 124076534,
+      "blank_votes": 1430438,
+      "null_votes": 2723197,
+      "cast_votes": 128230169,
+      "eligible_voters": 158745502,
+      "electorate_unprocessed_sections": 7311,
+      "electorate_totalized_sections": 158738191,
+      "electorate_installed_sections": 158737768,
+      "electorate_noninstalled_sections": 423,
+      "abstention_count": 30507599,
+      "turnout_percentage_displayed": 80.78,
+      "abstention_percentage_displayed": 19.22
+    },
+    "firstRoundComparison": {
+      "sourceUrl": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados",
+      "sourceUpdatedAtLocal": "2026-10-05T12:51:05-03:00",
+      "totalizedSections": 499248,
+      "totalSections": 499248,
+      "lulaVotes": 53879538,
+      "flavioVotes": 56104503,
+      "turnoutPercentageDisplayed": 78.92
+    },
+    "editorialCalculations": {
+      "lula_lead": 4428034,
+      "displayed_percentage_point_gap": 3.56,
+      "lula_increase_vs_first_round": 10372746,
+      "flavio_increase_vs_first_round": 3719747,
+      "lula_increase_rounded_millions": 10.37,
+      "flavio_increase_rounded_millions": 3.72
+    },
+    "limitations": [
+      "The system marks a mathematically determined winner, not completion of every legal procedure.",
+      "25 polling sections remained untotalized. The vote totals and turnout percentage are snapshot values, not a claim of final certification.",
+      "Changes from first-round totals do not track individual voter transfers."
+    ]
+  },
+  "serbia": {
+    "sourceTitle": "Резултати избора — Парламентарни 2026",
+    "sourceUrl": "https://www.rik.parlament.gov.rs/542645/rezultati/",
+    "selection": [
+      "Парламентарни",
+      "Парламентарни 2026"
+    ],
+    "geographicScope": "National aggregate; no region selected",
+    "sourceUpdatedAtLocal": "2026-10-26T02:25:00+01:00",
+    "sourceUpdatedAtUtc": "2026-10-26T01:25:00Z",
+    "observedAtUtc": "2026-10-26T01:30:56Z",
+    "sourceTimezone": "Europe/Belgrade (CET, UTC+01:00)",
+    "count": {
+      "registered_voters": 6451292,
+      "cast_voters_in_processed_stations_only": 2662212,
+      "total_stations": 8392,
+      "processed_stations": 6172,
+      "student_list_votes": 1307404,
+      "student_list_percentage_displayed": 49.14,
+      "vucic_list_votes": 1103415,
+      "vucic_list_percentage_displayed": 41.48
+    },
+    "listNames": {
+      "student": "СТУДЕНТСКА ЛИСТА - СТУДЕНТИ ПОБЕЂУЈУ",
+      "vucic": "АЛЕКСАНДАР ВУЧИЋ – УЈЕДИЊЕНА СРБИЈА"
+    },
+    "editorialCalculations": {
+      "processed_station_percentage": 73.54623450905623,
+      "rounded_processed_station_percentage": 73.55,
+      "student_list_lead": 203989
+    },
+    "limitations": [
+      "Partial official administrative results, not certified seats or formation of a government.",
+      "The processed-station percentage is not the share of ballots counted.",
+      "The displayed candidate/list percentages are reproduced as displayed; no unverified denominator is assigned.",
+      "The number of voters who voted refers only to processed stations; dividing it by the national registration total does not produce final national turnout."
+    ]
+  }
+}

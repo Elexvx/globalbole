@@ -1,0 +1,1010 @@
+{
+  "date": "2026-10-26",
+  "assets": [
+    {
+      "filename": "spacex-gpu-finance.png",
+      "generationTool": "OpenAI image_gen",
+      "generationDate": "2026-10-26",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial news illustration, approximately 16:9, designed to also crop safely to 4:3. Primary request: a visibly conceptual sculpture about financing GPU infrastructure through borrowing. A central bank of unbranded computing modules on a carefully balanced architectural bridge of layered paper-like financial sheets, connected by fine metallic cables, suggesting dependence between capital and physical infrastructure without implying collapse. Sophisticated tactile paper-and-metal 3D editorial art; deep blue, graphite and restrained warm amber. Generous breathing room around the centered subject. No real company or hardware design, no spacecraft or launch, no people, logos, writing, numerals, currency symbols, charts, graphs, axes, data, watermarks or documentary photography. This is conceptual art, not a depiction or proof of any actual transaction.",
+      "kind": "ai_generated_editorial_illustration",
+      "rightsBasis": "Generated for this editorial task without any third-party input image.",
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "pixelsInspected": true,
+      "captions": {
+        "zh-CN": "AI生成示意图：以计算设备和纸张构成的桥表现算力投资与融资之间的联系。",
+        "zh-TW": "AI生成示意圖：以運算設備和紙張構成的橋表現算力投資與融資之間的聯繫。",
+        "en": "AI-generated editorial illustration: computing equipment on a bridge made of paper represents the relationship between infrastructure investment and financing.",
+        "ru": "Иллюстрация, созданная ИИ: вычислительное оборудование на бумажном мосту символизирует связь инвестиций в инфраструктуру с финансированием.",
+        "fr": "Illustration générée par l’IA : des équipements informatiques sur un pont de papier symbolisent le lien entre investissement dans l’infrastructure et financement."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：以计算设备和纸张构成的桥表现算力投资与融资之间的联系。",
+        "zh-TW": "AI生成示意圖：以運算設備和紙張構成的橋表現算力投資與融資之間的聯繫。",
+        "en": "AI-generated editorial illustration: computing equipment on a bridge made of paper represents the relationship between infrastructure investment and financing.",
+        "ru": "Иллюстрация, созданная ИИ: вычислительное оборудование на бумажном мосту символизирует связь инвестиций в инфраструктуру с финансированием.",
+        "fr": "Illustration générée par l’IA : des équipements informatiques sur un pont de papier symbolisent le lien entre investissement dans l’infrastructure et financement."
+      },
+      "recommendedCoverObjectPosition": "50% 50%",
+      "id": "spacex-gpu-finance-2026-10-26",
+      "article": "spacex-gpu-debt-claim-2026-10-26",
+      "localPath": "/news-media/2026-10-26/spacex-gpu-finance.png",
+      "sourceSelected": false,
+      "title": "GPU infrastructure and financing",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": "AI-generated editorial illustration",
+      "licenseURL": null,
+      "date": "2026-10-26",
+      "dateRole": "generation date",
+      "pixelsInspectedAt": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "rightsReverifiedAt": "2026-10-26",
+      "sourceImageType": "Native generated PNG",
+      "inputSha256": "c915a6456eb39e2b296082afc9e44d9f9c864ae13c523e8f69cd58852be49db4",
+      "sha256": "c915a6456eb39e2b296082afc9e44d9f9c864ae13c523e8f69cd58852be49db4",
+      "byteSize": 2102574,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "contentCredentialsPreserved": true
+      },
+      "changes": "Native generated PNG retained unchanged. No EXIF, IPTC or XMP metadata found; caBX content credentials retained.",
+      "cropAssessment": "Landscape master visually reviewed; final responsive cover framing remains a browser QA gate.",
+      "caption": "AI生成示意图：以计算设备和纸张构成的桥表现算力投资与融资之间的联系。",
+      "deliveryDerivatives": {
+        "status": "Generated variants recorded; integrated browser QA pending",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing image pipeline produces proportional full-frame responsive WebP versions and, for the JPEG photograph, AVIF versions. Cover display may crop the frame without replacing the full-frame body image.",
+        "license": "AI-generated editorial illustration",
+        "licenseScope": "Image and image derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 3912,
+            "sha256": "c57405d8c5fb43820be0e622b3ce9a6761e35538173e4e0859c4440460fb7fb8"
+          },
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 11990,
+            "sha256": "a59c55cfef587efbba234041e21a2600817c06c1cdcee5204b14683ccf9a3d5a"
+          },
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 22844,
+            "sha256": "b845d308390d827026d3e02f1349b4909ba4b94d9473edd080baeca5c6287440"
+          },
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 41964,
+            "sha256": "43e6515662313d0dc9ae9844c82045245a1f57b44446554c05447fcb7b7b9e29"
+          },
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 56290,
+            "sha256": "50fd06614e97373f176ed8a6ffec023a2e048853eecc497f6656b4a9fda488fd"
+          },
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 71912,
+            "sha256": "f4100085f22cb127fbf84009345e8d7da9877b7c24e37c9ce5dbbabeeba5d7a9"
+          },
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 112220,
+            "sha256": "d52c8662066024281c8a86823ab8ca0ea9d1469cde03870319d8d147c1f8f674"
+          },
+          {
+            "src": "/optimized-assets/spacex-gpu-finance-4f757878ad16-1672.webp",
+            "width": 1672,
+            "format": "webp",
+            "byteSize": 169424,
+            "sha256": "97cf41a62b1dbb9855e1121881247fa9acc755cb64e0c9532f604ae26163448f"
+          }
+        ]
+      }
+    },
+    {
+      "filename": "nextdc-grid.png",
+      "generationTool": "OpenAI image_gen",
+      "generationDate": "2026-10-26",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial news illustration, approximately 16:9, also safe for 4:3 central cover crop. Primary request: the gap between a completed data-center building and usable electrical-grid capacity. A precise but clearly miniature abstract data-center structure and an orderly electrical substation are separated by one unfinished connection in a broad cable; use warm light on the grid side and quieter cool light on the computing building. Elegant tactile 3D paper-and-metal editorial art, neutral stone, graphite and muted teal. Center all essential subjects with breathing room. No actual NEXTDC facility, real place, brands, logos, text, numbers, people, charts, graphs, data or watermark. Do not depict a blackout, fire or accident. Clearly conceptual, not documentary event evidence.",
+      "kind": "ai_generated_editorial_illustration",
+      "rightsBasis": "Generated for this editorial task without any third-party input image.",
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "pixelsInspected": true,
+      "captions": {
+        "zh-CN": "AI生成示意图：以数据中心、变电设施和未接通的电缆表现基础设施交付与电网连接的关系。",
+        "zh-TW": "AI生成示意圖：以資料中心、變電設施和未接通的電纜表現基礎設施交付與電網連接的關係。",
+        "en": "AI-generated editorial illustration: a data center, substation and unconnected cable represent the relationship between infrastructure delivery and grid connection.",
+        "ru": "Иллюстрация, созданная ИИ: дата-центр, подстанция и неподключённый кабель символизируют связь готовности инфраструктуры с подключением к электросети.",
+        "fr": "Illustration générée par l’IA : un centre de données, un poste électrique et un câble non raccordé symbolisent le lien entre livraison d’infrastructures et raccordement au réseau."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：以数据中心、变电设施和未接通的电缆表现基础设施交付与电网连接的关系。",
+        "zh-TW": "AI生成示意圖：以資料中心、變電設施和未接通的電纜表現基礎設施交付與電網連接的關係。",
+        "en": "AI-generated editorial illustration: a data center, substation and unconnected cable represent the relationship between infrastructure delivery and grid connection.",
+        "ru": "Иллюстрация, созданная ИИ: дата-центр, подстанция и неподключённый кабель символизируют связь готовности инфраструктуры с подключением к электросети.",
+        "fr": "Illustration générée par l’IA : un centre de données, un poste électrique et un câble non raccordé symbolisent le lien entre livraison d’infrastructures et raccordement au réseau."
+      },
+      "recommendedCoverObjectPosition": "50% 50%",
+      "id": "nextdc-grid-2026-10-26",
+      "article": "nextdc-grid-delay-governance-2026-10-26",
+      "localPath": "/news-media/2026-10-26/nextdc-grid.png",
+      "sourceSelected": false,
+      "title": "Data-centre delivery and grid connection",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": "AI-generated editorial illustration",
+      "licenseURL": null,
+      "date": "2026-10-26",
+      "dateRole": "generation date",
+      "pixelsInspectedAt": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "rightsReverifiedAt": "2026-10-26",
+      "sourceImageType": "Native generated PNG",
+      "inputSha256": "cf9dc812558a88be4c7e72576f6339e28a53a286a708883135cdf53183b2f86e",
+      "sha256": "cf9dc812558a88be4c7e72576f6339e28a53a286a708883135cdf53183b2f86e",
+      "byteSize": 2203120,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "contentCredentialsPreserved": true
+      },
+      "changes": "Native generated PNG retained unchanged. No EXIF, IPTC or XMP metadata found; caBX content credentials retained.",
+      "cropAssessment": "Landscape master visually reviewed; final responsive cover framing remains a browser QA gate.",
+      "caption": "AI生成示意图：以数据中心、变电设施和未接通的电缆表现基础设施交付与电网连接的关系。",
+      "deliveryDerivatives": {
+        "status": "Generated variants recorded; integrated browser QA pending",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing image pipeline produces proportional full-frame responsive WebP versions and, for the JPEG photograph, AVIF versions. Cover display may crop the frame without replacing the full-frame body image.",
+        "license": "AI-generated editorial illustration",
+        "licenseScope": "Image and image derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 4384,
+            "sha256": "7a3289b66d01d10705c25a20e6e9e8ca4473d43aafb6a8f8aa79364d74df2aeb"
+          },
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 13566,
+            "sha256": "370502e1ca28ef063874fac62a2382d8a5e8b28e1b066eed264e86035d68ffca"
+          },
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 26468,
+            "sha256": "33c7c7827792a45adf0075113d209dc4efd575eac013881c47b3f6eaf4150b05"
+          },
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 49812,
+            "sha256": "d0f172ddf0e36cedd3ce2606a618417624f1a6a4a3e00b13258c03bd69affc0b"
+          },
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 65160,
+            "sha256": "6985102ab264b6ae9adfc3ffd0ac4f7564e83b29df345fbb69a38bcdb8e91f30"
+          },
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 82420,
+            "sha256": "ec00d6f193e3c1906c19bec39cb20a6364033bb4bc84236ae14d89a1ef29efc0"
+          },
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 126886,
+            "sha256": "d81fea528de891670d8bfee95c74342993fdec21af1a7da9550505efc06655eb"
+          },
+          {
+            "src": "/optimized-assets/nextdc-grid-7f1391dd1f60-1672.webp",
+            "width": 1672,
+            "format": "webp",
+            "byteSize": 182170,
+            "sha256": "5005121691da3c2a5642007b68f2b699dd927a589bf38adfbd675aaf6fc45421"
+          }
+        ]
+      }
+    },
+    {
+      "filename": "uk-housing-support.png",
+      "generationTool": "OpenAI image_gen",
+      "generationDate": "2026-10-26",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial illustration for a news article, approximately 16:9 with central subject safe for a 4:3 crop. Primary request: a dignified conceptual pathway from insecurity to durable housing and continuing support. Interconnected small architectural forms lead through an open warmly lit doorway toward a simple stable home; a subtle unbranded key rests near the entrance and supportive arches connect the path. Thoughtful tactile paper-and-clay miniature art, warm cream, subdued brick and cool blue-grey surroundings, calm and humane, without promising an achieved outcome. No people, poverty spectacle, real location, politicians, logos, text, numbers, charts, graphs, data or watermark. Clearly an editorial metaphor, never documentary photography.",
+      "kind": "ai_generated_editorial_illustration",
+      "rightsBasis": "Generated for this editorial task without any third-party input image.",
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "pixelsInspected": true,
+      "captions": {
+        "zh-CN": "AI生成示意图：以通往明亮房屋的路径、门和钥匙表现稳定住房与持续支持。",
+        "zh-TW": "AI生成示意圖：以通往明亮房屋的路徑、門和鑰匙表現穩定住房與持續支持。",
+        "en": "AI-generated editorial illustration: a path toward a brightly lit home, an open door and a key represent stable housing and continuing support.",
+        "ru": "Иллюстрация, созданная ИИ: путь к освещённому дому, открытая дверь и ключ символизируют стабильное жильё и постоянную поддержку.",
+        "fr": "Illustration générée par l’IA : un chemin vers une maison éclairée, une porte ouverte et une clé symbolisent un logement stable et un accompagnement durable."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：以通往明亮房屋的路径、门和钥匙表现稳定住房与持续支持。",
+        "zh-TW": "AI生成示意圖：以通往明亮房屋的路徑、門和鑰匙表現穩定住房與持續支持。",
+        "en": "AI-generated editorial illustration: a path toward a brightly lit home, an open door and a key represent stable housing and continuing support.",
+        "ru": "Иллюстрация, созданная ИИ: путь к освещённому дому, открытая дверь и ключ символизируют стабильное жильё и постоянную поддержку.",
+        "fr": "Illustration générée par l’IA : un chemin vers une maison éclairée, une porte ouverte et une clé symbolisent un logement stable et un accompagnement durable."
+      },
+      "recommendedCoverObjectPosition": "55% 50%",
+      "id": "uk-housing-support-2026-10-26",
+      "article": "uk-rough-sleeping-funding-2026-10-26",
+      "localPath": "/news-media/2026-10-26/uk-housing-support.png",
+      "sourceSelected": false,
+      "title": "Stable housing and continuing support",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": "AI-generated editorial illustration",
+      "licenseURL": null,
+      "date": "2026-10-26",
+      "dateRole": "generation date",
+      "pixelsInspectedAt": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "rightsReverifiedAt": "2026-10-26",
+      "sourceImageType": "Native generated PNG",
+      "inputSha256": "ebeccd51dbccecd8096af85b16b0d310f98ab6c63ea618395d92cd6952c57b7f",
+      "sha256": "ebeccd51dbccecd8096af85b16b0d310f98ab6c63ea618395d92cd6952c57b7f",
+      "byteSize": 2353470,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "contentCredentialsPreserved": true
+      },
+      "changes": "Native generated PNG retained unchanged. No EXIF, IPTC or XMP metadata found; caBX content credentials retained.",
+      "cropAssessment": "Landscape master visually reviewed; final responsive cover framing remains a browser QA gate.",
+      "caption": "AI生成示意图：以通往明亮房屋的路径、门和钥匙表现稳定住房与持续支持。",
+      "deliveryDerivatives": {
+        "status": "Generated variants recorded; integrated browser QA pending",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing image pipeline produces proportional full-frame responsive WebP versions and, for the JPEG photograph, AVIF versions. Cover display may crop the frame without replacing the full-frame body image.",
+        "license": "AI-generated editorial illustration",
+        "licenseScope": "Image and image derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 4808,
+            "sha256": "7a77e2f076c84c65b4440b7f5932185a32e8cabe075957c193425fb28a6f5aaf"
+          },
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 14694,
+            "sha256": "df09b1fa9c33f533ef5d6a63f81b7a6acbd20365e859237b48f460929ae957ff"
+          },
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 28008,
+            "sha256": "4d7b7f164a72ec99dd6e174e5d3129a3cd62bf0969b07b6c1e3b8399970554ae"
+          },
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 52734,
+            "sha256": "c5f6cf382256c0d4e427835ec503cc9afc4db9a329792edef1fdac6dcbc3aa96"
+          },
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 69798,
+            "sha256": "044429dcdb45bcc47fbc8a25e32caa59df9ad69b1547141d897b4318206a6a46"
+          },
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 88352,
+            "sha256": "ab8d42441605ba0ce531ee9718f87b8e8c1010dca2a3c4d1771675fe7929f3f3"
+          },
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 135672,
+            "sha256": "2871fa29fd77d55f06b0eeb2d89d677e63bcee6423fc247a128779a1e2280ed6"
+          },
+          {
+            "src": "/optimized-assets/uk-housing-support-50eb192e24d7-1672.webp",
+            "width": 1672,
+            "format": "webp",
+            "byteSize": 197092,
+            "sha256": "74363b7a9a2f72e4a1ad8df8c22d413f2f60d72004d62ae1ad7ddcd629e45c28"
+          }
+        ]
+      }
+    },
+    {
+      "filename": "serbia-transition.png",
+      "generationTool": "OpenAI image_gen",
+      "generationDate": "2026-10-26",
+      "prompt": "Use case: stylized-concept. Asset type: landscape editorial news illustration, approximately 16:9, central subject also safe for a 4:3 cover crop. Primary request: a neutral conceptual illustration of a parliamentary transition following an election concession. A blank folded ballot beside an abstract semicircle of empty miniature assembly seats, with an open doorway beyond suggesting the next institutional step rather than a completed government. Tactile paper-and-wood 3D editorial art, warm ivory, muted slate blue and restrained brick red; calm, balanced, nontriumphal composition. No actual seat count or recognizable parliament, real people, politicians, parties, flags, badges, text, numbers, charts, graphs, data or watermarks. Clearly a conceptual illustration, never documentary event evidence.",
+      "kind": "ai_generated_editorial_illustration",
+      "rightsBasis": "Generated for this editorial task without any third-party input image.",
+      "eventEvidence": false,
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "pixelsInspected": true,
+      "captions": {
+        "zh-CN": "AI生成示意图：空白选票、抽象议席和敞开的门表现选举后的制度性步骤。",
+        "zh-TW": "AI生成示意圖：空白選票、抽象議席和敞開的門表現選舉後的制度性步驟。",
+        "en": "AI-generated editorial illustration: a blank ballot, abstract assembly seats and an open doorway represent the institutional steps following an election.",
+        "ru": "Иллюстрация, созданная ИИ: пустой бюллетень, условные парламентские места и открытая дверь символизируют институциональные этапы после выборов.",
+        "fr": "Illustration générée par l’IA : un bulletin vierge, des sièges parlementaires abstraits et une porte ouverte symbolisent les étapes institutionnelles après une élection."
+      },
+      "alts": {
+        "zh-CN": "AI生成示意图：空白选票、抽象议席和敞开的门表现选举后的制度性步骤。",
+        "zh-TW": "AI生成示意圖：空白選票、抽象議席和敞開的門表現選舉後的制度性步驟。",
+        "en": "AI-generated editorial illustration: a blank ballot, abstract assembly seats and an open doorway represent the institutional steps following an election.",
+        "ru": "Иллюстрация, созданная ИИ: пустой бюллетень, условные парламентские места и открытая дверь символизируют институциональные этапы после выборов.",
+        "fr": "Illustration générée par l’IA : un bulletin vierge, des sièges parlementaires abstraits et une porte ouverte symbolisent les étapes institutionnelles après une élection."
+      },
+      "recommendedCoverObjectPosition": "50% 50%",
+      "id": "serbia-transition-2026-10-26",
+      "article": "serbia-concession-transition-2026-10-26",
+      "localPath": "/news-media/2026-10-26/serbia-transition.png",
+      "sourceSelected": false,
+      "title": "Post-election institutional steps",
+      "sourcePageURL": null,
+      "sourceURL": null,
+      "rightsEvidenceURL": null,
+      "license": "AI-generated editorial illustration",
+      "licenseURL": null,
+      "date": "2026-10-26",
+      "dateRole": "generation date",
+      "pixelsInspectedAt": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "rightsReverifiedAt": "2026-10-26",
+      "sourceImageType": "Native generated PNG",
+      "inputSha256": "305c86facb4235a2c566bd1b16df3bb3f712ad6f2d4c2afc7e3c4fcd9ae469f1",
+      "sha256": "305c86facb4235a2c566bd1b16df3bb3f712ad6f2d4c2afc7e3c4fcd9ae469f1",
+      "byteSize": 1811846,
+      "width": 1672,
+      "height": 941,
+      "pixelIdentityVerified": true,
+      "preservedICCProfile": false,
+      "iccUnchanged": true,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "contentCredentialsPreserved": true
+      },
+      "changes": "Native generated PNG retained unchanged. No EXIF, IPTC or XMP metadata found; caBX content credentials retained.",
+      "cropAssessment": "Landscape master visually reviewed; final responsive cover framing remains a browser QA gate.",
+      "caption": "AI生成示意图：空白选票、抽象议席和敞开的门表现选举后的制度性步骤。",
+      "deliveryDerivatives": {
+        "status": "Generated variants recorded; integrated browser QA pending",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing image pipeline produces proportional full-frame responsive WebP versions and, for the JPEG photograph, AVIF versions. Cover display may crop the frame without replacing the full-frame body image.",
+        "license": "AI-generated editorial illustration",
+        "licenseScope": "Image and image derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 3670,
+            "sha256": "7cc911db94c853d35fa5ffc16c6ff237e148669941a9d838606e6145469daf7c"
+          },
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 9820,
+            "sha256": "0c8c40cd81a117dda2826162e448901589d6aba858a1cbaef94c4950242f3b11"
+          },
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 17174,
+            "sha256": "b3c7ab3319f7a8873f39aed1c2ee9592201ad6061494b09e104763d786489879"
+          },
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 29538,
+            "sha256": "4ce6f7e57cb2f73efa9f08f4999fa1da14ccd181d80669a1598ad793e5dd8ab0"
+          },
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 37148,
+            "sha256": "b628e10144a434d111aa00869a5ccf29a047abaf0cecf82c557f66bb9713a13c"
+          },
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 44504,
+            "sha256": "6e25d665201fc069b0f3b19ce8ec63e62c916b44981f32460aee307645db22d5"
+          },
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 65544,
+            "sha256": "5bb050b5a98c5f544eb2eacf3f7bcae65b2fc6c1e0e776fd43679107451b74cb"
+          },
+          {
+            "src": "/optimized-assets/serbia-transition-c969f063af28-1672.webp",
+            "width": 1672,
+            "format": "webp",
+            "byteSize": 93838,
+            "sha256": "e6537d23acf29b1932166d51af01ded8b8c5630087f8c7d7008157c3fb7d4c4e"
+          }
+        ]
+      }
+    },
+    {
+      "id": "uk-rough-sleeping-official-2026-10-26",
+      "article": "uk-rough-sleeping-funding-2026-10-26",
+      "filename": "uk-rough-sleeping-official.svg",
+      "localPath": "/news-media/2026-10-26/uk-rough-sleeping-official.svg",
+      "kind": "publisher_original_chart",
+      "sourceSelected": false,
+      "title": "Figure 1: Estimated number of people sleeping rough on a single night in autumn in England, 2010 to 2025",
+      "sourcePageURL": "https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025",
+      "sourceURL": "https://assets.publishing.service.gov.uk/media/699c787de1c6bad1576fbbf1/Figure_1_main_findings.svg",
+      "rightsEvidenceURL": "https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025",
+      "license": "Open Government Licence v3.0",
+      "licenseURL": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "date": "2026-02-26",
+      "dateRole": "original publication date",
+      "dataPeriod": "Autumn single-night estimates, England, 2010–2025",
+      "creator": "Ministry of Housing, Communities and Local Government",
+      "copyright": "© Crown copyright 2026",
+      "rightsBasis": "The original government statistical publication expressly licenses its content under OGL v3.0. No third-party credit appears on this chart; the original asset is reproduced unchanged with attribution and licence link.",
+      "captions": {
+        "zh-CN": "英格兰2010—2025年秋季单夜露宿人数估计。原图：英国住房、社区与地方政府部，2026年2月26日发布；© Crown copyright 2026，[OGL v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)。[^3]",
+        "zh-TW": "英格蘭2010—2025年秋季單夜露宿人數估計。原圖：英國住房、社區與地方政府部，2026年2月26日發布；© Crown copyright 2026，[OGL v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)。[^3]",
+        "en": "Estimated number of people sleeping rough on a single autumn night in England, 2010–2025. Original chart: Ministry of Housing, Communities and Local Government, published February 26, 2026; © Crown copyright 2026, [OGL v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).[^3]",
+        "ru": "Оценка числа ночующих на улице в Англии в одну осеннюю ночь, 2010–2025 годы. Оригинальная диаграмма: Министерство жилищного строительства, общин и местного самоуправления, опубликована 26 февраля 2026 года; © Crown copyright 2026, [OGL v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).[^3]",
+        "fr": "Estimation du nombre de personnes dormant dehors en Angleterre lors d’une nuit d’automne, 2010–2025. Graphique original : ministère du Logement, des Communautés et des Collectivités locales, publié le 26 février 2026 ; © Crown copyright 2026, [OGL v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).[^3]"
+      },
+      "alts": {
+        "zh-CN": "英格兰2010—2025年秋季单夜露宿人数估计，2025年为4,793人",
+        "zh-TW": "英格蘭2010—2025年秋季單夜露宿人數估計，2025年為4,793人",
+        "en": "Estimated number of people sleeping rough on a single autumn night in England, 2010–2025; the 2025 estimate is 4,793",
+        "ru": "Оценка числа ночующих на улице в Англии в одну осеннюю ночь за 2010–2025 годы; показатель 2025 года — 4 793 человека",
+        "fr": "Estimation du nombre de personnes dormant dehors en Angleterre lors d’une nuit d’automne, de 2010 à 2025 ; l’estimation pour 2025 est de 4 793 personnes"
+      },
+      "caption": "英格兰2010—2025年秋季单夜露宿人数估计。原图：英国住房、社区与地方政府部，2026年2月26日发布；© Crown copyright 2026，[OGL v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)。[^3]",
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "rightsReverifiedAt": "2026-10-26",
+      "coverAllowed": false,
+      "bodyAllowed": true,
+      "eventEvidence": false,
+      "sourceImageType": "Original SVG chart",
+      "sourceBytesUnchanged": true,
+      "inputSha256": "fd49a654f6bf46f4f48db10d0cd9763364469900def1e735796954113f8cfd41",
+      "sha256": "fd49a654f6bf46f4f48db10d0cd9763364469900def1e735796954113f8cfd41",
+      "byteSize": 21193,
+      "width": 960,
+      "height": 640,
+      "pixelIdentityVerified": true,
+      "removedSegments": [],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "scripts": false,
+        "externalReferences": false,
+        "metadataElement": false,
+        "sourceBytesUnchanged": true
+      },
+      "changes": "None. Original SVG bytes and English chart labels preserved; accompanying captions and alt text are localized.",
+      "cropAssessment": "Body-only original chart must retain complete frame, axes, numerical labels and annotations. It is not used as a cropped cover.",
+      "deliveryDerivatives": {
+        "status": "Not generated",
+        "process": "Original SVG served directly; no reconstructed or translated chart generated.",
+        "license": "Open Government Licence v3.0"
+      }
+    },
+    {
+      "id": "brazil-lula-official-2026-10-26",
+      "article": "brazil-runoff-official-result-2026-10-26",
+      "filename": "brazil-lula-official.jpg",
+      "localPath": "/news-media/2026-10-26/brazil-lula-official.jpg",
+      "kind": "licensed_archival_photo",
+      "sourceSelected": false,
+      "title": "08.08.2026 - FOTOS OFICIAIS",
+      "sourcePageURL": "https://www.flickr.com/photos/lulaoficial/55450244258/",
+      "sourceURL": "https://live.staticflickr.com/65535/55450244258_57123acbe2_4k.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/lulaoficial/55450244258/",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "date": "2026-08-08",
+      "dateRole": "official source image date; archival portrait",
+      "creator": "Ricardo Stuckert",
+      "uploader": "Lula Oficial",
+      "copyright": "Ricardo Stuckert / Lula Oficial",
+      "isArchival": true,
+      "eventEvidence": false,
+      "sourceImageType": "Publisher-provided 4K official archival JPEG portrait, 2931×4096",
+      "rightsBasis": "The individual official Flickr image record licenses this photograph under CC BY-SA 4.0, permitting commercial reuse with attribution, source, licence link and required change indication. The licence applies to the photo and adapted photo assets, not to unrelated article text.",
+      "captions": {
+        "zh-CN": "资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 采用发布者4K版本，仅移除无关元数据；网页另提供等比例格式转换版本。",
+        "zh-TW": "資料肖像：2026年8月8日，魯拉。攝影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[來源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 採用發布者4K版本，僅移除無關中繼資料；網頁另提供等比例格式轉換版本。",
+        "en": "Archived portrait: Lula, August 8, 2026. Photograph: Ricardo Stuckert / Lula Oficial; original title: “08.08.2026 - FOTOS OFICIAIS”; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The publisher-provided 4K version is used; only unrelated metadata was removed. The website also provides proportionally resized format-converted versions.",
+        "ru": "Архивный портрет: Лула, 8 августа 2026 года. Фотограф: Ricardo Stuckert / Lula Oficial; оригинальное название: «08.08.2026 - FOTOS OFICIAIS»; [источник](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Использована предоставленная издателем версия 4K; удалены только посторонние метаданные. На сайте также доступны версии с пропорциональным изменением размера и преобразованием формата.",
+        "fr": "Portrait d’archives : Lula, le 8 août 2026. Photographie : Ricardo Stuckert / Lula Oficial ; titre original : « 08.08.2026 - FOTOS OFICIAIS » ; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Version 4K fournie par l’éditeur ; seules les métadonnées sans rapport ont été retirées. Le site propose aussi des versions converties et redimensionnées proportionnellement."
+      },
+      "alts": {
+        "zh-CN": "2026年8月8日卢拉身着蓝色西装、戴浅色帽子的官方资料肖像",
+        "zh-TW": "2026年8月8日魯拉身穿藍色西裝、戴淺色帽子的官方資料肖像",
+        "en": "Archived official portrait of Lula in a blue suit and light-colored hat, dated August 8, 2026",
+        "ru": "Архивный официальный портрет Лулы в синем костюме и светлой шляпе от 8 августа 2026 года",
+        "fr": "Portrait officiel d’archives de Lula en costume bleu et chapeau clair, daté du 8 août 2026"
+      },
+      "caption": "资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 采用发布者4K版本，仅移除无关元数据；网页另提供等比例格式转换版本。",
+      "pixelsInspected": true,
+      "pixelsInspectedAt": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "rightsReverifiedAt": "2026-10-26",
+      "coverAllowed": true,
+      "bodyAllowed": true,
+      "inputSha256": "50452c05d42f67555d4ff160e50f77de1dbe26389bb369b103ae47736e8d0b08",
+      "sha256": "2b1b6b9ded60c82e557731a98038d1bec38c30d87799c7c20d1aa399890f32ae",
+      "byteSize": 3232216,
+      "width": 2931,
+      "height": 4096,
+      "pixelIdentityVerified": true,
+      "sourceBytesUnchanged": false,
+      "preservedICCProfile": true,
+      "iccUnchanged": true,
+      "removedSegments": [
+        {
+          "marker": "0xed",
+          "bytes": 110
+        }
+      ],
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "pixelsIdenticalToSource": true,
+        "ICCUnchanged": true,
+        "remainingMetadata": [
+          "jfif",
+          "jfif_version",
+          "jfif_unit",
+          "jfif_density",
+          "icc_profile"
+        ]
+      },
+      "changes": "Selected the publisher-provided 4K version of the same licensed photograph. Removed nonessential IPTC metadata without re-encoding its image pixels; decoded pixels and ICC match the acquired 4K source exactly. The smaller publisher rendition is not claimed to have pixel identity with the full-resolution original. Responsive delivery versions are proportional format conversions under CC BY-SA 4.0.",
+      "licenseObligations": [
+        "Retain creator, original work title, original source and CC BY-SA 4.0 link.",
+        "Identify archival date; do not describe this as October election-event photography.",
+        "Indicate metadata removal and delivery-format adaptations.",
+        "Any distributed adapted photo retains CC BY-SA 4.0; do not impose a different exclusive licence.",
+        "Do not imply endorsement by the photographer, uploader or subject."
+      ],
+      "recommendedCoverObjectPosition": "50% 30%",
+      "cropAssessment": "Portrait master retains full frame in the body. Existing image-specific CSS uses 50% 30% for this new cover only; no old cover or layout rule is changed. Final responsive page rendering is checked against production.",
+      "deliveryDerivatives": {
+        "status": "All 16 photo variants decoded and byte-budget tested from the publisher-provided 4K source. Independent full-frame 832px/1280px visual review supports the exact-path AVIF quality 55 override.",
+        "masterIsPixelIdenticalToAcquiredSource": true,
+        "process": "Existing image pipeline produces proportional full-frame responsive WebP versions and, for the JPEG photograph, AVIF versions. Cover display may crop the frame without replacing the full-frame body image.",
+        "license": "CC BY-SA 4.0",
+        "licenseScope": "Image and image derivatives only, not the article or website.",
+        "variants": [
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-160.webp",
+            "width": 160,
+            "format": "webp",
+            "byteSize": 3276,
+            "sha256": "ea3788607ee307416d246685014b556d1e8b6605c85c115683bc2ddaaae51988"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-320.webp",
+            "width": 320,
+            "format": "webp",
+            "byteSize": 8778,
+            "sha256": "7a54683eab612e28a5137210de2ef7b78cf05a316a24a6fdfec6a7b195c79d06"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-480.webp",
+            "width": 480,
+            "format": "webp",
+            "byteSize": 18484,
+            "sha256": "4554ff99ecbff9aef985ad4217fd74f9b1e17d63f51bddfe013af7889194b49d"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-704.webp",
+            "width": 704,
+            "format": "webp",
+            "byteSize": 37760,
+            "sha256": "ab09c69642f3e0c9a7dbcf70e23483c2a4dfef283b33f8e73266b3314a8efc8a"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-832.webp",
+            "width": 832,
+            "format": "webp",
+            "byteSize": 51424,
+            "sha256": "55586b4900c107194cf8d1a3fca11c29e1f11d53fff2472ce58d71aaa016ca0c"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-960.webp",
+            "width": 960,
+            "format": "webp",
+            "byteSize": 69944,
+            "sha256": "b83acc12ebda782c3d6f0e8f86fe2b0bbb974113df4d97fb2e6dcaca5ead7627"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-1280.webp",
+            "width": 1280,
+            "format": "webp",
+            "byteSize": 152568,
+            "sha256": "7a712c5a09e4e67b87378083ae8081e604e3c05d6280acda101f4eb80e097673"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-02d26470cd8f-1920.webp",
+            "width": 1920,
+            "format": "webp",
+            "byteSize": 450280,
+            "sha256": "f7b9a8ec1cb26e7db6a862900cebd6f96c1a6a4a847df254aa5110f38cffe8e3"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-160.avif",
+            "width": 160,
+            "format": "avif",
+            "byteSize": 2638,
+            "sha256": "094511a91bd696b4f65ccf0f93b1aa71c11b7029be4d260d1d616759a3ebdf66"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-320.avif",
+            "width": 320,
+            "format": "avif",
+            "byteSize": 6519,
+            "sha256": "79d5553aae1ec50f25480a7d4565148f84c2f1d9f149b8343fc0d88796453585"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-480.avif",
+            "width": 480,
+            "format": "avif",
+            "byteSize": 12944,
+            "sha256": "321ed5c8b82ec2bcf5ba614627d8e0fe7c2da118f265915007f1dc46c9cae033"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-704.avif",
+            "width": 704,
+            "format": "avif",
+            "byteSize": 26731,
+            "sha256": "c59441ef59a9c50aef014cf71967ad0aae59a1abd23e47973e36854095a7dd36"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-832.avif",
+            "width": 832,
+            "format": "avif",
+            "byteSize": 37048,
+            "sha256": "65c2f070fd6dc4c7d800ddc6c38faf87b487598de6c9f76fb1555346c7bf31d1"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-960.avif",
+            "width": 960,
+            "format": "avif",
+            "byteSize": 50375,
+            "sha256": "593862bf82270a5442df9a68b964ef9d4bce35ab6c1db95f28b26738f12082df"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-1280.avif",
+            "width": 1280,
+            "format": "avif",
+            "byteSize": 105418,
+            "sha256": "0fd09c9bf2bc6e3bd36052149f44f2e721de34ccffad258786872ba83ccc79b9"
+          },
+          {
+            "src": "/optimized-assets/brazil-lula-official-4ccfb40d76fe-1920.avif",
+            "width": 1920,
+            "format": "avif",
+            "byteSize": 285925,
+            "sha256": "81e5bf8efb87cf9d56e9a6c82edde1b03e735efdeca6cdb01dffec401405643a"
+          }
+        ],
+        "qualityReview": {
+          "sourceVariant": "Publisher-provided 4K",
+          "avifQuality": 55,
+          "chromaSubsampling": "4:4:4",
+          "effort": 6,
+          "visualWidths": [
+            832,
+            1280
+          ],
+          "allAvifBytes": 527598,
+          "allWebpBytes": 792514,
+          "sourceMasterPixelsUnchangedFromPublisher4K": true
+        }
+      },
+      "priorAcquiredOriginal": {
+        "sourceURL": "https://live.staticflickr.com/65535/55450244258_cf4e8fda27_o.jpg",
+        "sha256": "ff1b5d0a94b97f2660b7982e592729a648654a9c50b203d2bdbfcb271f81573d",
+        "width": 4539,
+        "height": 6343,
+        "published": false,
+        "reason": "The full-resolution file exceeded the GitHub MCP request-body limit when base64 encoded. Retained privately; publisher-provided 4K variant selected instead, under the same image licence."
+      },
+      "sourceVariantPageURL": "https://www.flickr.com/photos/lulaoficial/55450244258/sizes/4k/",
+      "pixelIdentityScope": "Compared against the acquired publisher-provided 4K source, not the larger full-resolution original.",
+      "publisherVariantVerification": {
+        "page": "https://www.flickr.com/photos/lulaoficial/55450244258/sizes/4k/",
+        "cdnEqualsOfficialDownloadBytes": true,
+        "rawBytes": 3232326,
+        "rawSha256": "50452c05d42f67555d4ff160e50f77de1dbe26389bb369b103ae47736e8d0b08",
+        "iccProfile": "Adobe RGB (1998)",
+        "iccSha256": "e5f6ffb83b6d3491301dd750975684cc5cc2a1951c994a14b08cfdaa0d75a041",
+        "selectionReason": "Same official source photograph and image-specific CC BY-SA licence, in a high-resolution publisher rendition that fits the tool transport limit. No AI photo editing or changed publishing channel."
+      }
+    }
+  ],
+  "sourceSelectedImages": [
+    {
+      "candidate": 1,
+      "topic": "Claude and Georgia aggregate vote-count data",
+      "suppliedDescription": "Claude logo and keyboard illustration, reportedly October 19, 2026; Reuters/Dado Ruvic.",
+      "sourceArticleURL": "https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-2026-10-25/",
+      "identityFindings": "Direct original-page review identified a different current image: a Claude app-icon illustration by Dado Ruvic dated June 5, 2026. The supplied keyboard/date description must not be treated as verified.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "Topic not selected; no image published."
+    },
+    {
+      "candidate": 2,
+      "topic": "SpaceX GPU financing claim",
+      "suppliedDescription": "Archival photograph of Elon Musk at VivaTech in Paris; Reuters.",
+      "sourceArticleURL": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/",
+      "identityFindings": "Original-page review identifies Gonzalo Fuentes’s archival VivaTech photograph, Paris, June 16, 2023; not an image of the current financing.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "Reuters selection excluded. Use a clearly labelled original GPU-financing concept image."
+    },
+    {
+      "candidate": 3,
+      "topic": "NEXTDC governance and grid delay",
+      "suppliedDescription": "Sydney NEXTDC S3 data centre, reportedly June 22, 2026; Reuters/Hollie Adams.",
+      "sourceArticleURL": "https://www.reuters.com/world/asia-pacific/australias-nextdc-ceo-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-2026-10-25/",
+      "identityFindings": "The supplied caption describes S3, not M3; no right to reproduce either facility image was established. The brief description is not independently licensed.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "Reuters selection excluded. Relevant official gallery reuse permission was not established; use a labelled data-centre/grid concept."
+    },
+    {
+      "candidate": 4,
+      "topic": "Iron-ore market commentary",
+      "suppliedDescription": "Archival Simandou iron-ore mining image in Guinea; Reuters.",
+      "sourceArticleURL": "https://www.reuters.com/commentary/reuters-open-interest/chinas-tug-of-war-with-australian-miners-lurks-beneath-iron-ore-calm-2026-10-25/",
+      "identityFindings": "Original-page review identifies Luc Gnago’s Simandou blocks 3/4 image in Guinea dated November 4, 2025; it is archival and not evidence of contract negotiations.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "Commentary not selected for this batch; no image published."
+    },
+    {
+      "candidate": 5,
+      "topic": "GM/VAC magnet contract dispute",
+      "suppliedDescription": "General Motors headquarters sign in Detroit, reportedly January 12, 2026; Reuters/Rebecca Cook.",
+      "sourceArticleURL": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+      "identityFindings": "No acquired licence or source file supplied. Image identity/date description is retained as a handoff claim, not a licence.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "No fresh October 25–26 development established; topic and image excluded."
+    },
+    {
+      "candidate": 6,
+      "topic": "UK rough-sleeping support",
+      "suppliedDescription": "Archival rough-sleeping photograph in London, reportedly August 21, 2026; Reuters/Chris J. Ratcliffe.",
+      "sourceArticleURL": "https://www.reuters.com/world/uk/uk-commits-further-432-million-end-rough-sleeping-2026-10-25/",
+      "identityFindings": "No acquired licence or source file supplied. The reported archival image does not establish current programme delivery.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "Reuters selection excluded. Retain the original OGL statistical chart and use a labelled housing-support concept as cover."
+    },
+    {
+      "candidate": 7,
+      "topic": "Brazil presidential runoff result",
+      "suppliedDescription": "Lula campaigning in São Paulo on October 24, 2026; Reuters/Amanda Perobelli.",
+      "sourceArticleURL": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/",
+      "identityFindings": "No acquired licence or source file supplied. The reported campaign image is not an official result record.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "Reuters selection excluded. Use an individually licensed official August archival portrait, clearly dated and credited."
+    },
+    {
+      "candidate": 8,
+      "topic": "Serbia concession and parliamentary transition",
+      "suppliedDescription": "Aleksandar Vučić in Belgrade at his October 25, 2026 concession; Reuters/Zorana Jevtic.",
+      "sourceArticleURL": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "identityFindings": "No acquired licence or source file supplied. An article caption or Reuters image appearing on another publisher’s page does not grant reuse rights.",
+      "actualHandoffGaps": [
+        "No original image file delivered",
+        "No acquired Reuters republication licence delivered"
+      ],
+      "permissionStatus": "Not cleared for reuse",
+      "published": false,
+      "resolution": "Reuters selection excluded. RIK source photo licence does not supply unrestricted commercial/adaptation permission; use a neutral labelled concept."
+    }
+  ],
+  "fallbackDecisions": [
+    {
+      "story": "uk-rough-sleeping",
+      "candidate": "Original government release photograph of 10 Downing Street",
+      "sourceUrl": "https://www.gov.uk/government/news/pm-confident-every-rough-sleeper-will-have-route-off-the-street-by-christmas-as-funding-doubles",
+      "assetUrl": "https://assets.publishing.service.gov.uk/media/5a37dae940f0b649cceb1841/s300_number10.jpg",
+      "rightsEvidenceUrls": [
+        "https://www.gov.uk/help/terms-conditions",
+        "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+      ],
+      "inspection": "Downloaded and visually inspected, 300x195. Generic door/exterior, not October25 summit. No known capture date or photographer; no third-party credit on release.",
+      "permissionStatus": "GOV.UK OGL general permission is stated; no contrary image credit found, but no event-specific image supplied.",
+      "fallbackDecision": "Use clearly labeled generated conceptual housing/support illustration as cover for suitability/resolution, not because every government image is prohibited. Retain separate original official OGL chart as informative body image.",
+      "retainedOriginal": {
+        "assetUrl": "https://assets.publishing.service.gov.uk/media/699c787de1c6bad1576fbbf1/Figure_1_main_findings.svg",
+        "sourceUrl": "https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2025/rough-sleeping-snapshot-in-england-autumn-2025",
+        "license": "OGL-3.0",
+        "sha256": "fd49a654f6bf46f4f48db10d0cd9763364469900def1e735796954113f8cfd41",
+        "inspection": "Original SVG, no scripts/external references/metadata; visual review completed; preserve whole chart and English source labels with translated caption/alt and text equivalent."
+      }
+    },
+    {
+      "story": "spacex-gpu-debt",
+      "candidate": "SpaceX official photo/video library, plus Reuters attributed photo in source report",
+      "sourceUrl": "https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471",
+      "rightsEvidenceUrls": [
+        "https://new.spacex.com/trademark",
+        "https://www.flickr.com/photos/spacexphotos/"
+      ],
+      "inspection": "Official current trademark page specifically describes photo/video offer as non-commercial use. No particular current GPU-financing photo with broader permission was located or downloaded. Reuters attribution and article access are not a licence.",
+      "permissionStatus": "Commercial reuse permission for a relevant source image not established. This does not negate a separately verified older image-specific open licence.",
+      "fallbackDecision": "Use clearly labeled conceptual GPU-financing editorial illustration, avoiding fake Musk event, company facility, real transaction document or numerical chart."
+    },
+    {
+      "story": "nextdc-grid-delay-governance",
+      "candidate": "NEXTDC official M3 Melbourne facility photographs / resource-news hub",
+      "sourceUrl": "https://www.nextdc.com/data-centres/melbourne-data-centres/m3-melbourne",
+      "candidateImageLabel": "M3 Melbourne front of building",
+      "rightsEvidenceUrls": [
+        "https://www.nextdc.com/terms-and-conditions",
+        "https://www.nextdc.com/resources?type=news",
+        "https://www.nextdc.com/investor-centre"
+      ],
+      "inspection": "Official homepage led to news/resource hub, investor centre, M3 facility page and footer terms. M3 page has facility photo gallery; no media-download/editorial licence statement found in reviewed pages. Resource hub/investor centre had no media asset permission wording.",
+      "permissionStatus": "Website terms intellectual-property statement requires prior written permission to reproduce/publish site materials. No overriding press-asset licence or written permission was established for these photographs. This is a bounded inability to establish permission, not a claim that all possible NEXTDC imagery is prohibited.",
+      "fallbackDecision": "Do not republish official facility photographs merely because publicly downloadable. Use labeled conceptual data-centre/grid illustration; do not claim it depicts actual M3 construction, an outage or a specific delayed connection.",
+      "assetUrl": "https://www.nextdc.com/hubfs/Data%20centre%20images/M3%20Melbourne/M3-cpm_kapitol_032-resized.jpg"
+    },
+    {
+      "story": "serbia-concession",
+      "candidate": "RIK original press-conference photograph, October25 2026",
+      "sourceUrl": "https://www.rik.parlament.gov.rs/vest/811343/vanredna-konferencija-za-medije-republicke-izborne-komisije.php",
+      "assetUrl": "https://www.rik.parlament.gov.rs/static/sr/3377/0/img_3377.jpg",
+      "creatorCredit": "фото © РИК",
+      "rightsEvidenceUrls": [
+        "https://www.rik.parlament.gov.rs/vest/811343/vanredna-konferencija-za-medije-republicke-izborne-komisije.php",
+        "https://creativecommons.org/licenses/by-nc-nd/3.0/rs/"
+      ],
+      "inspection": "Article HTML directly identifies image link and photo credit. Footer explicitly links CC BY-NC-ND 3.0 Serbia. Image not downloaded for publication because the permission condition is already unsuitable/unresolved.",
+      "permissionStatus": "Source offers noncommercial, no-derivatives licence, not unrestricted commercial/cropped-cover permission. No separate broader permission established.",
+      "fallbackDecision": "Use labeled neutral election-process illustration, not synthetic concession speech, crowd, result board or documentary event scene. Do not imply RIK certified a winner."
+    },
+    {
+      "story": "brazil-runoff-official-result",
+      "candidate": "Official archival Lula portrait",
+      "sourceUrl": "https://www.flickr.com/photos/lulaoficial/55450244258/",
+      "assetUrl": "https://live.staticflickr.com/65535/55450244258_cf4e8fda27_o.jpg",
+      "rightsEvidenceUrls": [
+        "https://www.flickr.com/photos/lulaoficial/55450244258/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "permissionStatus": "Individual image CC BY-SA 4.0 licence verified; commercial reuse allowed subject to attribution, share-alike and change indication.",
+      "inspection": "Complete original transfer verified; full image decoded and visually inspected. Published master has pixel-identical privacy metadata removal with ICC preserved.",
+      "fallbackDecision": "Use lawful original archival portrait rather than generating an unnecessary Brazil concept image. Do not present it as election-day photography.",
+      "finalSelectedVariant": "Publisher-provided 4K 2931×4096 version of the same photograph; full-resolution original retained privately and not pushed."
+    }
+  ],
+  "publicationStatus": "Six source masters and 48 delivery derivatives verified locally. Production-domain delivery and responsive cover rendering are checked in the release evidence after native deployment.",
+  "preservation": "Earlier issues and their media are not altered by this candidate.",
+  "sourcePolicy": "All eight source-brief images were textual selections, not supplied image files or acquired reuse licences. Attribution, public accessibility and commercial licensing links alone do not establish permission. Four clearly labelled original non-data AI illustrations replace unsuitable or uncleared source imagery; the official chart and individually licensed archival portrait are retained."
+}
