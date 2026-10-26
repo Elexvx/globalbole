@@ -599,11 +599,11 @@
       "sourceImageType": "Publisher-provided 4K official archival JPEG portrait, 2931×4096",
       "rightsBasis": "The individual official Flickr image record licenses this photograph under CC BY-SA 4.0, permitting commercial reuse with attribution, source, licence link and required change indication. The licence applies to the photo and adapted photo assets, not to unrelated article text.",
       "captions": {
-        "zh-CN": "资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 采用发布者4K版本，仅移除无关元数据；网页另提供等比例格式转换版本。",
-        "zh-TW": "資料肖像：2026年8月8日，魯拉。攝影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[來源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 採用發布者4K版本，僅移除無關中繼資料；網頁另提供等比例格式轉換版本。",
-        "en": "Archived portrait: Lula, August 8, 2026. Photograph: Ricardo Stuckert / Lula Oficial; original title: “08.08.2026 - FOTOS OFICIAIS”; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The publisher-provided 4K version is used; only unrelated metadata was removed. The website also provides proportionally resized format-converted versions.",
-        "ru": "Архивный портрет: Лула, 8 августа 2026 года. Фотограф: Ricardo Stuckert / Lula Oficial; оригинальное название: «08.08.2026 - FOTOS OFICIAIS»; [источник](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Использована предоставленная издателем версия 4K; удалены только посторонние метаданные. На сайте также доступны версии с пропорциональным изменением размера и преобразованием формата.",
-        "fr": "Portrait d’archives : Lula, le 8 août 2026. Photographie : Ricardo Stuckert / Lula Oficial ; titre original : « 08.08.2026 - FOTOS OFICIAIS » ; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Version 4K fournie par l’éditeur ; seules les métadonnées sans rapport ont été retirées. Le site propose aussi des versions converties et redimensionnées proportionnellement."
+        "zh-CN": "资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "資料肖像：2026年8月8日，魯拉。攝影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[來源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "en": "Archived portrait: Lula, August 8, 2026. Photograph: Ricardo Stuckert / Lula Oficial; original title: “08.08.2026 - FOTOS OFICIAIS”; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Архивный портрет: Лула, 8 августа 2026 года. Фотограф: Ricardo Stuckert / Lula Oficial; оригинальное название: «08.08.2026 - FOTOS OFICIAIS»; [источник](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Portrait d’archives : Lula, le 8 août 2026. Photographie : Ricardo Stuckert / Lula Oficial ; titre original : « 08.08.2026 - FOTOS OFICIAIS » ; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
       },
       "alts": {
         "zh-CN": "2026年8月8日卢拉身着蓝色西装、戴浅色帽子的官方资料肖像",
@@ -612,7 +612,7 @@
         "ru": "Архивный официальный портрет Лулы в синем костюме и светлой шляпе от 8 августа 2026 года",
         "fr": "Portrait officiel d’archives de Lula en costume bleu et chapeau clair, daté du 8 août 2026"
       },
-      "caption": "资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 采用发布者4K版本，仅移除无关元数据；网页另提供等比例格式转换版本。",
+      "caption": "资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
       "pixelsInspected": true,
       "pixelsInspectedAt": "2026-10-26",
       "checkedAt": "2026-10-26",
@@ -810,7 +810,8 @@
         "iccProfile": "Adobe RGB (1998)",
         "iccSha256": "e5f6ffb83b6d3491301dd750975684cc5cc2a1951c994a14b08cfdaa0d75a041",
         "selectionReason": "Same official source photograph and image-specific CC BY-SA licence, in a high-resolution publisher rendition that fits the tool transport limit. No AI photo editing or changed publishing channel."
-      }
+      },
+      "publicCaptionPolicy": "Only evidenced archive date, subject, photographer, original title, source and licence appear in the visible caption. Publisher rendition, metadata and delivery-format details remain in this provenance record, not the caption."
     }
   ],
   "sourceSelectedImages": [
@@ -819,112 +820,378 @@
       "topic": "Claude and Georgia aggregate vote-count data",
       "suppliedDescription": "Claude logo and keyboard illustration, reportedly October 19, 2026; Reuters/Dado Ruvic.",
       "sourceArticleURL": "https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-2026-10-25/",
-      "identityFindings": "Direct original-page review identified a different current image: a Claude app-icon illustration by Dado Ruvic dated June 5, 2026. The supplied keyboard/date description must not be treated as verified.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "Topic not selected; no image published."
+      "resolution": "Topic not selected; no image published.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 1,
+        "topic": "Claude and Georgia aggregate vote-count data",
+        "sourceArticleURL": "https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-2026-10-25/",
+        "observedArticleTitle": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+        "readAtUtc": "2026-10-26T02:14:46Z",
+        "imageSrcReadAtUtc": "2026-10-26T02:15:02Z",
+        "readScope": "Original page's lead figure, image element, adjacent caption/licensing link and footer; no image-file download or licence checkout.",
+        "sourceImageURL": "https://www.reuters.com/resizer/v2/VSXVAPPYNZNMVJGWX3HT2WT7ZE.jpg?auth=217aa82bd80e02e5e15ab70f46382d32423380e469ca5ff06c83293f696a2939&width=1920&quality=80",
+        "sourceImageURLUnavailableReason": null,
+        "imageIdentity": {
+          "subject": "Claude app icon illustration",
+          "imageDate": "2026-06-05",
+          "creator": "Dado Ruvic",
+          "credit": "Reuters",
+          "archival": true,
+          "suppliedDescriptionDiscrepancy": "The current original-page image is not verified as an October 19 keyboard illustration. The adjacent caption identifies June 5, 2026."
+        },
+        "licensingEvidence": {
+          "licensingLabelObserved": "Purchase Licensing Rights",
+          "licensingURLObserved": "https://www.reutersconnect.com/item/illustration-shows-claude-app-icon/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlVOTEE4TU1IRA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "licensingLinkScope": "Image-specific Reuters Connect link observed beside the lead figure; destination checkout not opened.",
+          "footerCopyrightObserved": true,
+          "sharedRightsEvidence": "sharedLicensingEvidence",
+          "openReuseLicenceObserved": false,
+          "acquiredLicenceSuppliedOrObtained": false
+        },
+        "recommendation": "skip",
+        "reason": "Topic was not selected; no republication licence established. Do not infer permission from a reachable display image.",
+        "published": false
+      },
+      "sourceImageURL": "https://www.reuters.com/resizer/v2/VSXVAPPYNZNMVJGWX3HT2WT7ZE.jpg?auth=217aa82bd80e02e5e15ab70f46382d32423380e469ca5ff06c83293f696a2939&width=1920&quality=80",
+      "sourceImageURLUnavailableReason": null,
+      "decision": "skip"
     },
     {
       "candidate": 2,
       "topic": "SpaceX GPU financing claim",
       "suppliedDescription": "Archival photograph of Elon Musk at VivaTech in Paris; Reuters.",
       "sourceArticleURL": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/",
-      "identityFindings": "Original-page review identifies Gonzalo Fuentes’s archival VivaTech photograph, Paris, June 16, 2023; not an image of the current financing.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "Reuters selection excluded. Use a clearly labelled original GPU-financing concept image."
+      "resolution": "Reuters selection excluded. Use a clearly labelled original GPU-financing concept image.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 2,
+        "topic": "SpaceX GPU financing claim",
+        "sourceArticleURL": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/",
+        "observedArticleTitle": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+        "readAtUtc": "2026-10-26T02:15:02Z",
+        "imageSrcReadAtUtc": "2026-10-26T02:15:58Z",
+        "readScope": "Original page's lead figure, image element, adjacent caption/licensing link and footer; no image-file download or licence checkout.",
+        "sourceImageURL": "https://www.reuters.com/resizer/v2/NN2YWUNWYZNAJIZBDN64XHSSRI.jpg?auth=d62a73233af3310f218a5f6a0f7c79bfd80cea3e173380ad0bba9ee34ef70ed0&width=1920&quality=80",
+        "sourceImageURLUnavailableReason": null,
+        "imageIdentity": {
+          "subject": "Elon Musk at VivaTech in Paris",
+          "imageDate": "2023-06-16",
+          "creator": "Gonzalo Fuentes",
+          "credit": "Reuters",
+          "archival": true,
+          "eventEvidenceLimit": "Not a photograph of the current GPU financing."
+        },
+        "licensingEvidence": {
+          "licensingLabelObserved": "Purchase Licensing Rights",
+          "licensingURLObserved": "https://www.reutersconnect.com/item/tesla-ceo-and-x-owner-elon-musk-attends-the-vivatech-conference-in-paris/dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX1JDMkZLMUFSQktORQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "licensingLinkScope": "Image-specific Reuters Connect link observed beside the lead figure; destination checkout not opened.",
+          "footerCopyrightObserved": true,
+          "sharedRightsEvidence": "sharedLicensingEvidence",
+          "openReuseLicenceObserved": false,
+          "acquiredLicenceSuppliedOrObtained": false
+        },
+        "recommendation": "skip",
+        "reason": "No republication licence established. Retain the clearly labelled original GPU-financing concept illustration rather than republish this archival Reuters photograph.",
+        "published": false
+      },
+      "sourceImageURL": "https://www.reuters.com/resizer/v2/NN2YWUNWYZNAJIZBDN64XHSSRI.jpg?auth=d62a73233af3310f218a5f6a0f7c79bfd80cea3e173380ad0bba9ee34ef70ed0&width=1920&quality=80",
+      "sourceImageURLUnavailableReason": null,
+      "decision": "skip"
     },
     {
       "candidate": 3,
       "topic": "NEXTDC governance and grid delay",
       "suppliedDescription": "Sydney NEXTDC S3 data centre, reportedly June 22, 2026; Reuters/Hollie Adams.",
       "sourceArticleURL": "https://www.reuters.com/world/asia-pacific/australias-nextdc-ceo-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-2026-10-25/",
-      "identityFindings": "The supplied caption describes S3, not M3; no right to reproduce either facility image was established. The brief description is not independently licensed.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "Reuters selection excluded. Relevant official gallery reuse permission was not established; use a labelled data-centre/grid concept."
+      "resolution": "Reuters selection excluded. Relevant official gallery reuse permission was not established; use a labelled data-centre/grid concept.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 3,
+        "topic": "NEXTDC governance and grid delay",
+        "sourceArticleURL": "https://www.reuters.com/world/asia-pacific/australias-nextdc-ceo-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-2026-10-25/",
+        "observedArticleTitle": "Australia's NEXTDC CEO to forgo fiscal 2027 bonuses after forecast cut, project delay",
+        "readAtUtc": "2026-10-26T02:15:58Z",
+        "imageSrcReadAtUtc": "2026-10-26T02:16:19Z",
+        "readScope": "Original page's lead figure, image element, adjacent caption/licensing link and footer; no image-file download or licence checkout.",
+        "sourceImageURL": "https://www.reuters.com/resizer/v2/D3BN6RJIGVNANMXROPNAY5PDYQ.jpg?auth=d4df55042f9c4bbcddecd98b5ff36964213a2314385a4fdedb0c3b73161e7090&width=1920&quality=80",
+        "sourceImageURLUnavailableReason": null,
+        "imageIdentity": {
+          "subject": "NEXTDC S3 data centre exterior, Sydney",
+          "imageDate": "2026-06-22",
+          "creator": "Hollie Adams",
+          "credit": "Reuters",
+          "archival": true,
+          "eventEvidenceLimit": "The photographed facility is Sydney S3, not Melbourne M3."
+        },
+        "licensingEvidence": {
+          "licensingLabelObserved": "Purchase Licensing Rights",
+          "licensingURLObserved": "https://www.reutersconnect.com/item/a-man-walks-past-the-nextdc-s3-data-centre-in-sydney/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlFZTEFFRlNHNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "licensingLinkScope": "Image-specific Reuters Connect link observed beside the lead figure; destination checkout not opened.",
+          "footerCopyrightObserved": true,
+          "sharedRightsEvidence": "sharedLicensingEvidence",
+          "openReuseLicenceObserved": false,
+          "acquiredLicenceSuppliedOrObtained": false
+        },
+        "recommendation": "skip",
+        "reason": "No republication licence established; additionally not the M3 project discussed. Retain the labelled original data-centre/grid illustration.",
+        "published": false
+      },
+      "sourceImageURL": "https://www.reuters.com/resizer/v2/D3BN6RJIGVNANMXROPNAY5PDYQ.jpg?auth=d4df55042f9c4bbcddecd98b5ff36964213a2314385a4fdedb0c3b73161e7090&width=1920&quality=80",
+      "sourceImageURLUnavailableReason": null,
+      "decision": "skip"
     },
     {
       "candidate": 4,
       "topic": "Iron-ore market commentary",
       "suppliedDescription": "Archival Simandou iron-ore mining image in Guinea; Reuters.",
       "sourceArticleURL": "https://www.reuters.com/commentary/reuters-open-interest/chinas-tug-of-war-with-australian-miners-lurks-beneath-iron-ore-calm-2026-10-25/",
-      "identityFindings": "Original-page review identifies Luc Gnago’s Simandou blocks 3/4 image in Guinea dated November 4, 2025; it is archival and not evidence of contract negotiations.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "Commentary not selected for this batch; no image published."
+      "resolution": "Commentary not selected for this batch; no image published.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 4,
+        "topic": "Iron-ore market commentary",
+        "sourceArticleURL": "https://www.reuters.com/commentary/reuters-open-interest/chinas-tug-of-war-with-australian-miners-lurks-beneath-iron-ore-calm-2026-10-25/",
+        "observedArticleTitle": "China's tug-of-war with Australian miners lurks beneath iron ore calm",
+        "readAtUtc": "2026-10-26T02:16:19Z",
+        "imageSrcReadAtUtc": "2026-10-26T02:16:40Z",
+        "readScope": "Original page's lead figure, image element, adjacent caption/licensing link and footer; no image-file download or licence checkout.",
+        "sourceImageURL": "https://www.reuters.com/resizer/v2/PMZ6UDTLZND6FHPBSXXUU3GJ64.JPG?auth=754470b3a128a39011e0d655eb9b7e2c4c613b6805c8a5a1458364d41e9cb997&width=1920&quality=80",
+        "sourceImageURLUnavailableReason": null,
+        "imageIdentity": {
+          "subject": "Simandou blocks 3 and 4 mining vehicles, Guinea",
+          "imageDate": "2025-11-04",
+          "creator": "Luc Gnago",
+          "credit": "Reuters",
+          "archival": true,
+          "eventEvidenceLimit": "An archival mine image, not evidence of current contract negotiations."
+        },
+        "licensingEvidence": {
+          "licensingLabelObserved": "Purchase Licensing Rights",
+          "licensingURLObserved": "https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "licensingLinkScope": "Generic Reuters content-licensing route beside this figure. No image-specific Reuters Connect item link was exposed there; none is guessed.",
+          "footerCopyrightObserved": true,
+          "sharedRightsEvidence": "sharedLicensingEvidence",
+          "openReuseLicenceObserved": false,
+          "acquiredLicenceSuppliedOrObtained": false
+        },
+        "recommendation": "skip",
+        "reason": "Commentary not selected, and no republication licence established.",
+        "published": false
+      },
+      "sourceImageURL": "https://www.reuters.com/resizer/v2/PMZ6UDTLZND6FHPBSXXUU3GJ64.JPG?auth=754470b3a128a39011e0d655eb9b7e2c4c613b6805c8a5a1458364d41e9cb997&width=1920&quality=80",
+      "sourceImageURLUnavailableReason": null,
+      "decision": "skip"
     },
     {
       "candidate": 5,
       "topic": "GM/VAC magnet contract dispute",
       "suppliedDescription": "General Motors headquarters sign in Detroit, reportedly January 12, 2026; Reuters/Rebecca Cook.",
       "sourceArticleURL": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-      "identityFindings": "No acquired licence or source file supplied. Image identity/date description is retained as a handoff claim, not a licence.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "No fresh October 25–26 development established; topic and image excluded."
+      "resolution": "No fresh October 25–26 development established; topic and image excluded.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 5,
+        "sourceArticleURL": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+        "readAt": "2026-10-26T02:17:07.636Z",
+        "sourcePageAccessible": true,
+        "scope": "Original article lead image caption, image DOM src/currentSrc and footer.",
+        "imageURL": "https://www.reuters.com/resizer/v2/SXNAJ2DPF5MYVCCC2JN3UFP5CQ.jpg?auth=b5de707c0cbfbb18a981755706968727e71b33c476f0a97563fc868ac3c3133b&width=1920&quality=80",
+        "renderedImageURL": "https://www.reuters.com/resizer/v2/SXNAJ2DPF5MYVCCC2JN3UFP5CQ.jpg?auth=b5de707c0cbfbb18a981755706968727e71b33c476f0a97563fc868ac3c3133b&width=640&quality=80",
+        "imageURLType": "Actual Reuters resizer URL returned from rendered page DOM, not an acquired full-resolution distribution file.",
+        "identity": {
+          "subject": "GM logo at the new Detroit headquarters",
+          "photoDate": "2026-01-12",
+          "credit": "Reuters/Rebecca Cook",
+          "status": "File photograph; identity/date confirmed in original page caption."
+        },
+        "licensingEvidence": {
+          "purchaseLink": "https://www.reutersconnect.com/item/the-gm-logo-is-displayed-at-the-new-location-of-the-general-motors-headquarters-in-detroit-michigan/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhaSUE1TjlLSg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "linkLabel": "Purchase Licensing Rights",
+          "copyrightNotice": "© 2026 Reuters. All rights reserved",
+          "termsURL": "https://www.reuters.com/info-pages/terms-of-use/",
+          "copyrightURL": "https://www.thomsonreuters.com/en/policies/copyright.html",
+          "evidenceScope": "Link hrefs and footer actually observed on this article; purchase/terms destination not opened, no purchase initiated and no licence supplied."
+        },
+        "recommendation": "skip",
+        "reason": "Topic excluded as no fresh Oct25–26 development; independently, no acquired image republication licence.",
+        "published": false,
+        "downloaded": false
+      },
+      "sourceImageURL": "https://www.reuters.com/resizer/v2/SXNAJ2DPF5MYVCCC2JN3UFP5CQ.jpg?auth=b5de707c0cbfbb18a981755706968727e71b33c476f0a97563fc868ac3c3133b&width=1920&quality=80",
+      "sourceImageURLUnavailableReason": null,
+      "decision": "skip"
     },
     {
       "candidate": 6,
       "topic": "UK rough-sleeping support",
       "suppliedDescription": "Archival rough-sleeping photograph in London, reportedly August 21, 2026; Reuters/Chris J. Ratcliffe.",
       "sourceArticleURL": "https://www.reuters.com/world/uk/uk-commits-further-432-million-end-rough-sleeping-2026-10-25/",
-      "identityFindings": "No acquired licence or source file supplied. The reported archival image does not establish current programme delivery.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "Reuters selection excluded. Retain the original OGL statistical chart and use a labelled housing-support concept as cover."
+      "resolution": "Reuters selection excluded. Retain the original OGL statistical chart and use a labelled housing-support concept as cover.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 6,
+        "sourceArticleURL": "https://www.reuters.com/world/uk/uk-commits-further-432-million-end-rough-sleeping-2026-10-25/",
+        "readAt": "2026-10-26T02:17:07.712Z",
+        "sourcePageAccessible": true,
+        "scope": "Original article lead image caption, image DOM src/currentSrc and footer.",
+        "imageURL": "https://www.reuters.com/resizer/v2/NDTIBWQNKJPSRP6H5S7RUJURSA.jpg?auth=6ee6d202035dbb6342d976266038f115008ef2fbf92f8ed29d29dd809f6a2ea2&width=1920&quality=80",
+        "renderedImageURL": "https://www.reuters.com/resizer/v2/NDTIBWQNKJPSRP6H5S7RUJURSA.jpg?auth=6ee6d202035dbb6342d976266038f115008ef2fbf92f8ed29d29dd809f6a2ea2&width=640&quality=80",
+        "imageURLType": "Actual Reuters resizer URL returned from rendered page DOM, not an acquired full-resolution distribution file.",
+        "identity": {
+          "subject": "Person lying in a London doorway",
+          "photoDate": "2026-08-21",
+          "credit": "Reuters/Chris J. Ratcliffe",
+          "status": "File photograph; original caption confirms archival scene, not October programme delivery."
+        },
+        "licensingEvidence": {
+          "purchaseLink": "https://www.reutersconnect.com/item/homelessness-in-london/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlkyTkFTUjM4Wg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "linkLabel": "Purchase Licensing Rights",
+          "copyrightNotice": "© 2026 Reuters. All rights reserved",
+          "termsURL": "https://www.reuters.com/info-pages/terms-of-use/",
+          "copyrightURL": "https://www.thomsonreuters.com/en/policies/copyright.html",
+          "evidenceScope": "Link hrefs and footer actually observed on this article; purchase/terms destination not opened, no purchase initiated and no licence supplied."
+        },
+        "recommendation": "skip",
+        "reason": "No acquired image republication licence; use separately documented lawful fallback.",
+        "published": false,
+        "downloaded": false
+      },
+      "sourceImageURL": "https://www.reuters.com/resizer/v2/NDTIBWQNKJPSRP6H5S7RUJURSA.jpg?auth=6ee6d202035dbb6342d976266038f115008ef2fbf92f8ed29d29dd809f6a2ea2&width=1920&quality=80",
+      "sourceImageURLUnavailableReason": null,
+      "decision": "skip"
     },
     {
       "candidate": 7,
       "topic": "Brazil presidential runoff result",
       "suppliedDescription": "Lula campaigning in São Paulo on October 24, 2026; Reuters/Amanda Perobelli.",
       "sourceArticleURL": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/",
-      "identityFindings": "No acquired licence or source file supplied. The reported campaign image is not an official result record.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "Reuters selection excluded. Use an individually licensed official August archival portrait, clearly dated and credited."
+      "resolution": "Reuters selection excluded. Use an individually licensed official August archival portrait, clearly dated and credited.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 7,
+        "sourceArticleURL": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/",
+        "readAt": "2026-10-26T02:17:13Z",
+        "sourcePageAccessible": true,
+        "scope": "Original article accessibility snapshot: gallery item 1 of 2 caption, individual licensing link and Reuters rights-reserved footer. Article headline had updated while URL was unchanged.",
+        "imageURL": null,
+        "renderedImageURL": null,
+        "imageURLUnavailableReason": "The article and selected image caption/licensing link were successfully returned. Subsequent DOM image-attribute extraction failed with Page.getFrameTree timeout; a current-state read failed with DOMSnapshot.captureSnapshot timeout; the focused gallery-open attempt failed with Runtime.evaluate timeout. No actual image src was returned; none inferred from the Reuters Connect item identifier. This is a bounded browser inspection limitation, not a finding that the photograph or page is inaccessible.",
+        "identity": {
+          "subject": "Lula waving a flag at his closing campaign rally in São Paulo",
+          "photoDate": "2026-10-24",
+          "credit": "Reuters/Amanda Perobelli",
+          "status": "Original article gallery item 1 of 2; campaign image rather than election-result documentation."
+        },
+        "licensingEvidence": {
+          "purchaseLink": "https://www.reutersconnect.com/item/brazilian-president-lula-attends-a-closing-campaign-rally-ahead-of-the-presidential-runoff-in-sao-paulo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlU5T0FRS0xRVw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "linkLabel": "Purchase Licensing Rights",
+          "copyrightNotice": "© 2026 Reuters. All rights reserved",
+          "evidenceScope": "Individual image purchase link and rights-reserved footer observed in original article accessibility snapshot; no permission acquired and no photo downloaded."
+        },
+        "recommendation": "skip",
+        "reason": "No acquired image republication licence; separately licensed official August portrait remains the selected alternative.",
+        "published": false,
+        "downloaded": false
+      },
+      "sourceImageURL": null,
+      "sourceImageURLUnavailableReason": "The article and selected image caption/licensing link were successfully returned. Subsequent DOM image-attribute extraction failed with Page.getFrameTree timeout; a current-state read failed with DOMSnapshot.captureSnapshot timeout; the focused gallery-open attempt failed with Runtime.evaluate timeout. No actual image src was returned; none inferred from the Reuters Connect item identifier. This is a bounded browser inspection limitation, not a finding that the photograph or page is inaccessible.",
+      "decision": "skip"
     },
     {
       "candidate": 8,
       "topic": "Serbia concession and parliamentary transition",
       "suppliedDescription": "Aleksandar Vučić in Belgrade at his October 25, 2026 concession; Reuters/Zorana Jevtic.",
       "sourceArticleURL": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-      "identityFindings": "No acquired licence or source file supplied. An article caption or Reuters image appearing on another publisher’s page does not grant reuse rights.",
+      "identityFindings": "Direct original-page caption and visible image review independently verified the image identity below. A reachable web-display rendition is not a republication licence.",
       "actualHandoffGaps": [
         "No original image file delivered",
         "No acquired Reuters republication licence delivered"
       ],
-      "permissionStatus": "Not cleared for reuse",
+      "permissionStatus": "No republication licence acquired; not cleared for reuse",
       "published": false,
-      "resolution": "Reuters selection excluded. RIK source photo licence does not supply unrestricted commercial/adaptation permission; use a neutral labelled concept."
+      "resolution": "Reuters selection excluded. RIK source photo licence does not supply unrestricted commercial/adaptation permission; use a neutral labelled concept.",
+      "sourcePageAccessible": true,
+      "directPageVerification": {
+        "candidate": 8,
+        "sourceArticleURL": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+        "readAt": "2026-10-26T02:18:59.701Z",
+        "sourcePageAccessible": true,
+        "scope": "Original article caption/footer plus expanded first gallery item (02:19:55 UTC).",
+        "imageURL": "https://www.reuters.com/resizer/v2/EPPTANUIOBMALASQUKIH4INCKQ.jpg?auth=dd9a7ae53a1b119b80e34552c157acf65eded78841c29deda0991f232f5680d3&width=1080&quality=80",
+        "renderedImageURL": "https://www.reuters.com/resizer/v2/EPPTANUIOBMALASQUKIH4INCKQ.jpg?auth=dd9a7ae53a1b119b80e34552c157acf65eded78841c29deda0991f232f5680d3&width=960&quality=80",
+        "imageURLType": "Actual Reuters resizer URL returned from rendered page DOM, not an acquired full-resolution distribution file.",
+        "identity": {
+          "subject": "Former president Aleksandar Vučić taking the stage for his concession in Belgrade",
+          "photoDate": "2026-10-25",
+          "credit": "Reuters/Zorana Jevtic",
+          "status": "Original gallery item 1 of 8; source caption expressly identifies him as former president."
+        },
+        "licensingEvidence": {
+          "purchaseLink": "https://www.reutersconnect.com/item/parliamentary-election-in-serbia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkxBT0FIUk44Ng%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "linkLabel": "Purchase Licensing Rights",
+          "copyrightNotice": "© 2026 Reuters. All rights reserved",
+          "termsURL": "https://www.reuters.com/info-pages/terms-of-use/",
+          "copyrightURL": "https://www.thomsonreuters.com/en/policies/copyright.html",
+          "evidenceScope": "Link hrefs and footer actually observed on this article; purchase/terms destination not opened, no purchase initiated and no licence supplied."
+        },
+        "recommendation": "skip",
+        "reason": "No acquired image republication licence; use separately documented lawful fallback.",
+        "published": false,
+        "downloaded": false
+      },
+      "sourceImageURL": "https://www.reuters.com/resizer/v2/EPPTANUIOBMALASQUKIH4INCKQ.jpg?auth=dd9a7ae53a1b119b80e34552c157acf65eded78841c29deda0991f232f5680d3&width=1080&quality=80",
+      "sourceImageURLUnavailableReason": null,
+      "decision": "skip"
     }
   ],
   "fallbackDecisions": [
@@ -1006,5 +1273,19 @@
   ],
   "publicationStatus": "Six source masters and 48 delivery derivatives verified locally. Production-domain delivery and responsive cover rendering are checked in the release evidence after native deployment.",
   "preservation": "Earlier issues and their media are not altered by this candidate.",
-  "sourcePolicy": "All eight source-brief images were textual selections, not supplied image files or acquired reuse licences. Attribution, public accessibility and commercial licensing links alone do not establish permission. Four clearly labelled original non-data AI illustrations replace unsuitable or uncleared source imagery; the official chart and individually licensed archival portrait are retained."
+  "sourcePolicy": "All eight source-brief images were textual selections, not supplied image files or acquired reuse licences. Attribution, public accessibility and commercial licensing links alone do not establish permission. Four clearly labelled original non-data AI illustrations replace unsuitable or uncleared source imagery; the official chart and individually licensed archival portrait are retained.",
+  "sourceSelectedImageRightsEvidence": {
+    "copyrightPageRequestedURL": "https://www.thomsonreuters.com/en/policies/copyright.html",
+    "copyrightPageObservedURL": "https://www.thomsonreuters.com/en/policies/copyright",
+    "copyrightPageReadAtUtc": "2026-10-26T02:16:40Z",
+    "copyrightPageTitle": "Copyright notice",
+    "copyrightNoticeScope": "The rights holder says republication or redistribution requires prior written consent and directs users to rights and permissions channels, including a pictures/graphics channel. This is a rights-reservation statement, not an open-reuse grant.",
+    "footerCopyrightText": "© 2026 Reuters. All rights reserved",
+    "footerRightsURL": "https://www.thomsonreuters.com/en/policies/copyright.html",
+    "footerPurchaseLicensingURL": "https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-footer&utm_campaign=rcom-rcp-lead",
+    "termsLinkObserved": "https://www.reuters.com/info-pages/terms-of-use/",
+    "termsPageReadStatus": "Footer link was observed; web extraction returned a non-retryable open error. No terms-page content is represented as read.",
+    "rightsConclusion": "No acquired licence was supplied or obtained. A visible Purchase Licensing Rights link offers a licensing route, not existing authorization. Recommendation is to skip all four Reuters images for this publication."
+  },
+  "sourceSelectedImageURLMeaning": "Each value below is the exact src attribute returned by the article's identified visible image element. It is a Reuters web-display rendition URL, not a licensed original file, and its retrieval as metadata does not grant reuse rights. No image request outside ordinary page rendering was made."
 }

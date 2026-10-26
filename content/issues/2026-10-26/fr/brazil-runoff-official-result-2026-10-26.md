@@ -20,7 +20,7 @@ L’issue du second tour de la présidentielle brésilienne du 25 octobre ne rel
 
 ![Portrait officiel d’archives de Lula en costume bleu et chapeau clair, daté du 8 août 2026](/news-media/2026-10-26/brazil-lula-official.jpg)
 
-Portrait d’archives : Lula, le 8 août 2026. Photographie : Ricardo Stuckert / Lula Oficial ; titre original : « 08.08.2026 - FOTOS OFICIAIS » ; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Version 4K fournie par l’éditeur ; seules les métadonnées sans rapport ont été retirées. Le site propose aussi des versions converties et redimensionnées proportionnellement.
+Portrait d’archives : Lula, le 8 août 2026. Photographie : Ricardo Stuckert / Lula Oficial ; titre original : « 08.08.2026 - FOTOS OFICIAIS » ; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Deux faits sont simultanément établis : le système officiel confirme que l’issue ne peut plus être inversée mathématiquement, mais la totalisation de toutes les sections n’est pas achevée. Il est donc possible d’annoncer la victoire de Lula au second tour, sans présenter ces nombres de voix comme les totaux définitifs. Le statut affiché sur la page des résultats ne signifie pas non plus que toutes les procédures légales ultérieures sont terminées.
 

@@ -56,6 +56,7 @@ test('October 26 assets have exact bytes, lawful provenance and five-language ca
     assert.equal(a.pixelsInspected, true);
     assert.equal(a.bodyAllowed, true);
     assert.ok(a.rightsBasis);
+    for (const caption of Object.values(a.captions)) assert.doesNotMatch(caption, /4K|元数据|中繼資料|metadata|métadonnées|метаданные|format-converted/i, 'Visible captions retain attribution, not asset-processing notes');
     assert.deepEqual(Object.keys(a.captions).sort(), [...languages].sort());
     assert.deepEqual(Object.keys(a.alts).sort(), [...languages].sort());
     for (const article of articles.filter(article => article.translationKey === a.article)) {

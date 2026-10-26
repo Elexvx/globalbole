@@ -20,7 +20,7 @@ draft: false
 
 ![2026年8月8日卢拉身着蓝色西装、戴浅色帽子的官方资料肖像](/news-media/2026-10-26/brazil-lula-official.jpg)
 
-资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。 采用发布者4K版本，仅移除无关元数据；网页另提供等比例格式转换版本。
+资料肖像：2026年8月8日，卢拉。摄影：Ricardo Stuckert／Lula Oficial；作品《08.08.2026 - FOTOS OFICIAIS》，[来源](https://www.flickr.com/photos/lulaoficial/55450244258/)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。
 
 这里有两个同时成立的事实：官方系统已经确认胜负在数学上不可逆，全部投票区的汇总却尚未完成。因此，可以报道卢拉赢得这场决选，不能把这一时点的票数写成最终封存数字，也不能把结果页状态直接等同于后续所有法定程序已经结束。
 

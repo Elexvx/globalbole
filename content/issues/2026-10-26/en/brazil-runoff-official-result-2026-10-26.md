@@ -20,7 +20,7 @@ The outcome of Brazil’s October 25 presidential runoff is no longer merely a m
 
 ![Archived official portrait of Lula in a blue suit and light-colored hat, dated August 8, 2026](/news-media/2026-10-26/brazil-lula-official.jpg)
 
-Archived portrait: Lula, August 8, 2026. Photograph: Ricardo Stuckert / Lula Oficial; original title: “08.08.2026 - FOTOS OFICIAIS”; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The publisher-provided 4K version is used; only unrelated metadata was removed. The website also provides proportionally resized format-converted versions.
+Archived portrait: Lula, August 8, 2026. Photograph: Ricardo Stuckert / Lula Oficial; original title: “08.08.2026 - FOTOS OFICIAIS”; [source](https://www.flickr.com/photos/lulaoficial/55450244258/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Two facts hold at the same time: the official system has established that the outcome cannot mathematically be reversed, while the totalization of all polling sections remains unfinished. Lula can therefore be reported as the runoff winner, but these vote totals should not be presented as the final closed count. Nor does the status on the results page mean that every subsequent legal procedure has been completed.
 

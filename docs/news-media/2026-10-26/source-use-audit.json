@@ -13,8 +13,8 @@
   "finalManuscripts": [
     {
       "path": "content/issues/2026-10-26/en/brazil-runoff-official-result-2026-10-26.md",
-      "sha256": "30d0630693c73627d9795a2ed07efb4c7c57463640776075b545ab40121f81a1",
-      "byteSize": 9424
+      "sha256": "2d41c7603fa007247d5249f91a040be239d01d6f7d6bf7ba212a6f9d49e1b1e8",
+      "byteSize": 9268
     },
     {
       "path": "content/issues/2026-10-26/en/nextdc-grid-delay-governance-2026-10-26.md",
@@ -38,8 +38,8 @@
     },
     {
       "path": "content/issues/2026-10-26/fr/brazil-runoff-official-result-2026-10-26.md",
-      "sha256": "6772b93a94c2af724b4a4f1e434148d9b7993c6d22e309d389d1d32397b82391",
-      "byteSize": 10535
+      "sha256": "a07435dcb4b433d548e8373570a934a5b9a1eff0856151c89378643ebf511963",
+      "byteSize": 10351
     },
     {
       "path": "content/issues/2026-10-26/fr/nextdc-grid-delay-governance-2026-10-26.md",
@@ -63,8 +63,8 @@
     },
     {
       "path": "content/issues/2026-10-26/ru/brazil-runoff-official-result-2026-10-26.md",
-      "sha256": "58a4c8118f7225d1193fa0cc1263e6ed0ce9337cab94b60f41f85db1a9a7c4c8",
-      "byteSize": 16168
+      "sha256": "f18ce7bdb6962f7b360f0105afc48d79124d7dc4d46ae6aaafb008cd0585d50c",
+      "byteSize": 15824
     },
     {
       "path": "content/issues/2026-10-26/ru/nextdc-grid-delay-governance-2026-10-26.md",
@@ -88,8 +88,8 @@
     },
     {
       "path": "content/issues/2026-10-26/zh-CN/brazil-runoff-official-result-2026-10-26.md",
-      "sha256": "3a87c5d57ce3d8a548ff3ac5351de02656fd3028a72ce271a18d96669a3c68cf",
-      "byteSize": 8204
+      "sha256": "fab3c0ecf6a90193ab8b4d459277530d241995560692bd76d70ae123d31103ca",
+      "byteSize": 8105
     },
     {
       "path": "content/issues/2026-10-26/zh-CN/nextdc-grid-delay-governance-2026-10-26.md",
@@ -113,8 +113,8 @@
     },
     {
       "path": "content/issues/2026-10-26/zh-TW/brazil-runoff-official-result-2026-10-26.md",
-      "sha256": "ea578b9aa702674392fed22a0837dc20994cbd41ef0cbe2487b8c25c39b6fd09",
-      "byteSize": 8180
+      "sha256": "b7396dc352e09352e70afd4ef71c9762ad46bd6a7e8e13d72f4d47613f0d273c",
+      "byteSize": 8078
     },
     {
       "path": "content/issues/2026-10-26/zh-TW/nextdc-grid-delay-governance-2026-10-26.md",
