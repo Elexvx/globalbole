@@ -1,0 +1,52 @@
+{
+  "issue": "2026-10-28",
+  "received": {
+    "candidateCount": 8,
+    "completeChineseManuscripts": 6,
+    "actualImageUrlsAndAssetPages": true,
+    "adoptedAssetsRightsIndependentlyVerified": true,
+    "excludedOriginalPhotoClaims": "Three excluded subjects retain source handoff claims only; they are not independently certified, licensed or adopted."
+  },
+  "selected": [
+    "meta-nvidia-equity-financing-2026-10-28",
+    "microsoft-voluntary-exit-eligibility-2026-10-28",
+    "irena-renewables-grid-outlook-2026-10-28",
+    "us-august-house-prices-mortgage-rates-2026-10-28",
+    "epa-methane-rule-proposal-2026-10-28"
+  ],
+  "notSelected": [
+    {
+      "topic": "Israel election",
+      "reason": "Outside the permitted sensitive-political selection scope."
+    },
+    {
+      "topic": "Global inflation survey",
+      "reason": "No sufficiently independent detailed questionnaire/data handoff for complete treatment."
+    },
+    {
+      "topic": "Industrial lab-grown diamonds",
+      "reason": "New interview claims lack sufficient independent corroboration; earlier company filing is not new October 28 evidence."
+    }
+  ],
+  "publicationDatePrecision": "Date only; no invented exact time. RSS optional pubDate must remain absent for date-only articles.",
+  "oldContentPolicy": "No old article republished; withdrawn record and removed routes/assets retained.",
+  "scope": "Five original subject angles from complete received manuscripts, with bounded factual and rights corrections, necessary primary-source context, and complete translations.",
+  "editorialReview": "PASS: independent full25 content review and bounded refresh validation completed 2026-10-29. Tests, Git approval and production acceptance remain separate gates.",
+  "currentState": "Editorial and local validation complete; authorized for direct-main native Git release. This source review is not the separate production acceptance receipt.",
+  "candidatePublicationDate": "2026-10-29",
+  "freshnessReview": "2026-10-29: original sources rechecked, Meta original announcement timing anchored, EPA public-inspection scheduled date added without claiming formal publication; historical data periods preserved.",
+  "independentReview": "Independent reviewer oct28_release_qa; exact final manuscript hashes bound in source-use-audit.json.",
+  "localAcceptance": {
+    "checkedOn": "2026-10-29",
+    "scope": "Combined uncommitted October28 recovery and October29 batch; not a production receipt",
+    "build": "PASS",
+    "export": "7078 HTML pages /455603 local references PASS",
+    "seo": "525 canonical articles /1400 sitemap URLs PASS",
+    "existing475Records": "Unchanged, exact object comparison",
+    "withdrawn": "Absent from all export routes, assets and text payloads",
+    "productionAcceptance": "Separate live receipt required: same approved main SHA READY, canonical-domain language/image/feed/link/withdrawal and desktop/narrow checks.",
+    "tests": "148/148 PASS; fail0/skipped0; both batches retested together",
+    "lint": "PASS"
+  },
+  "releaseFreshnessReview": "2026-10-29 06:18–06:21 UTC: official Meta/NVIDIA, Microsoft, Google, EPA, SK and MEA sources rechecked; no new supported facts requiring manuscript changes."
+}

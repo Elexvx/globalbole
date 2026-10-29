@@ -1,0 +1,225 @@
+{
+  "issue": "2026-10-29",
+  "status": "PASS for independent content/editorial/media-rights snapshot; not publication acceptance",
+  "reviewedAt": "2026-10-29T03:44:43.229036+00:00",
+  "method": "Same protected work across all five languages shares one 200-word allowance. Exact fact-bearing spans, including metadata repetitions, are listed. Chinese is normalized to an explicit complete English-equivalent sentence, never whitespace counted. EN/RU/FR use lexical tokens preserving compounds, apostrophes and decimals. Generic independent accounting, engineering, evaluation, and outcome-vs-plan reasoning is distinguished from source-specific reporting; bibliography retains the requested exact original work identifiers and is listed separately, not rewritten to disguise copying. Figures are conservative editorial word-equivalent allocations, not exact multilingual copyright-law counts.",
+  "languageOrder": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "protectedSources": [
+    {
+      "source": "Google October28 Gemini4 Carbon announcement",
+      "allocationEstimate": [
+        29,
+        29,
+        29,
+        33,
+        33
+      ],
+      "total": 153,
+      "cap": 200,
+      "scope": "Dated planned limited access and vendor-reported unguardrailed benchmark, plus repeated product/access identifiers in title, tags and section heading. No prices, second/third benchmark, internal uplift, or current availability assertion. Remaining evaluation context is separately sourced government-authored NIST methodology or original analysis."
+    },
+    {
+      "source": "Microsoft FY2027 Q1 earnings release",
+      "allocationEstimate": [
+        32,
+        32,
+        32,
+        41,
+        40
+      ],
+      "total": 177,
+      "cap": 200,
+      "scope": "Quarter revenue, Azure growth and GAAP/adjusted net-income growth, including repeated result/dual-rate identifiers in title, tags and section heading. Deleted the redundant revenue-evidence clause in all five editions. No FY2026 annual-report facts or current contract amounts; the shared October28 annual-report allocation is not reused."
+    },
+    {
+      "source": "SK hynix October28 3Q26 preliminary results",
+      "allocationEstimate": [
+        30,
+        30,
+        30,
+        37,
+        42
+      ],
+      "total": 169,
+      "cap": 200,
+      "scope": "Preliminary consolidated K-IFRS revenue, unfinished review and agreements covering over half total2027–28 capacity; preliminary/company/result identifiers in title and tags included. No operating-profit table, customer count, HBM4 shipment forecasts or2030 market forecast. Separate historical NIST project and packaging context is identified as such."
+    },
+    {
+      "source": "Maryland Governor October26 program launch",
+      "allocationEstimate": [
+        31,
+        31,
+        31,
+        40,
+        43
+      ],
+      "total": 176,
+      "cap": 200,
+      "scope": "October26 launch and stated supply/price objectives, including title and description repetition. Targets are not represented as measured outcomes; enacted statutory amounts use the distinct government-edict text, not a manufactured second license for the governor prose."
+    },
+    {
+      "source": "Maryland MEA FY27 FOA and overlapping program webpage",
+      "allocationEstimate": [
+        31,
+        31,
+        30,
+        39,
+        37
+      ],
+      "total": 168,
+      "cap": 200,
+      "scope": "Actual sealed-bid subsidy unit over full commercial lifetime grid-delivered energy and first-phase deadline, plus repeated subsidy-competition heading. Deleted redundant next-paragraph definition in every edition. The public-support versus household-price distinction and outcome caveats are independent interpretation; same FOA and overlapping program page share one budget."
+    }
+  ],
+  "licensedOrGovernmentSources": [
+    {
+      "source": "Federal Reserve October28 FOMC statement and implementation note; open-market and ON RRP explanations",
+      "basis": "Federal Reserve original policy and educational material; explicit public-domain reuse statement checked. Does not license third-party photographs."
+    },
+    {
+      "source": "SEC Financial Reporting Manual Topic8, sections8120–8130",
+      "basis": "Federal-agency-authored explanatory material and SEC reuse policy; not a claim that privately authored SEC filings are public domain."
+    },
+    {
+      "source": "NIST AI RMF Core / AI RMF1.0",
+      "basis": "Government-authored voluntary2023 framework and NIST reproduction policy; required courtesy notice retained in all five versions. No endorsement/certification claimed."
+    },
+    {
+      "source": "NIST SK hynix Indiana project and2024 award announcement",
+      "basis": "Federal original historical project/award information, dates and expected milestones preserved. Not new evidence of current construction or payout completion."
+    },
+    {
+      "source": "NIST National Advanced Packaging Manufacturing Program vision paper",
+      "basis": "Government-authored2023 technical publication under NIST publication reuse policy. Selected mechanism paragraphs, not third-party images."
+    },
+    {
+      "source": "Maryland enacted Chapter353/HB1532 statutory text",
+      "basis": "Government edict/statute; state agency prose is NOT blanket-labelled public domain. FOA and governor narrative are separately capped above."
+    }
+  ],
+  "bibliographicTreatment": "Requested original source titles, source dates, publishers and URLs are retained verbatim as bibliographic identification, separately recorded in the private span audit. They are not substituted with invented shorter titles or used to hide reporting in footnotes. Source narrative itself is not quoted verbatim. Photo captions concern separately licensed/cleared works. The allocations are editorial word-equivalent estimates, not a legal opinion.",
+  "notUsedAsNarrativeSources": [
+    "Microsoft FY2026 annual report (used only in separate heldOct28 article)",
+    "Microsoft voluntary exit blog/Reuters reporting (separate heldOct28 event)",
+    "Alphabet earnings candidate",
+    "CXMT anonymous production/yield story",
+    "AI-law-firm attack trend story"
+  ],
+  "finalManuscripts": [
+    {
+      "path": "content/issues/2026-10-29/en/fed-october-rate-hold-dissent-2026-10-29.md",
+      "sha256": "e305bdeddcf929d8d369548caadacced9e4f2f74675101cc8b0871be797573b3"
+    },
+    {
+      "path": "content/issues/2026-10-29/en/google-carbon-access-benchmarks-2026-10-29.md",
+      "sha256": "7808ff761849703be5d365167dcada94640210857cd2f07ff518a0ead6f90d80"
+    },
+    {
+      "path": "content/issues/2026-10-29/en/maryland-clean-energy-grant-applications-2026-10-29.md",
+      "sha256": "1f27dc8a9bc5fb42c96da582971f17274fe4f5db1db29d711b3e93cea7ffb712"
+    },
+    {
+      "path": "content/issues/2026-10-29/en/microsoft-quarterly-earnings-accounting-2026-10-29.md",
+      "sha256": "98dc0d177de291cb6837f36f9045d5c5ee2122517c81e0f156e151c9a474e1d0"
+    },
+    {
+      "path": "content/issues/2026-10-29/en/skhynix-preliminary-results-capacity-2026-10-29.md",
+      "sha256": "bea32c98842cbee918fde25efcab7f09c9cb6d9f7fa11f3d5aa6f286d068f09a"
+    },
+    {
+      "path": "content/issues/2026-10-29/fr/fed-october-rate-hold-dissent-2026-10-29.md",
+      "sha256": "a6e0a92b8ed91622d32e35802edd2334204df3c82cbd93f6bfc5ebb81dafba07"
+    },
+    {
+      "path": "content/issues/2026-10-29/fr/google-carbon-access-benchmarks-2026-10-29.md",
+      "sha256": "fadbd7f3b16f54a5f485c784df456399072b51a53eafe4dc9bd3aad9470da9d4"
+    },
+    {
+      "path": "content/issues/2026-10-29/fr/maryland-clean-energy-grant-applications-2026-10-29.md",
+      "sha256": "29534c59178b3229dd6bf9d29e3705b7fd59499f4c2608374950e925c8310953"
+    },
+    {
+      "path": "content/issues/2026-10-29/fr/microsoft-quarterly-earnings-accounting-2026-10-29.md",
+      "sha256": "2b6f3677251034154284ee35bbbeb508409ac8256b93b53f317fc763f3a422d2"
+    },
+    {
+      "path": "content/issues/2026-10-29/fr/skhynix-preliminary-results-capacity-2026-10-29.md",
+      "sha256": "36641af723991318ccaa32114a56d999d323f1a3b183c928628e49e874370e59"
+    },
+    {
+      "path": "content/issues/2026-10-29/ru/fed-october-rate-hold-dissent-2026-10-29.md",
+      "sha256": "9ff656cfee5d2438997fdd164065e635b39a4bf8fef82dc41524e068cc2fc4ef"
+    },
+    {
+      "path": "content/issues/2026-10-29/ru/google-carbon-access-benchmarks-2026-10-29.md",
+      "sha256": "a0c6f78f20f342fbe99514f00f8f71ebf9c6c6c2d1268cd66fc681618d5ae65a"
+    },
+    {
+      "path": "content/issues/2026-10-29/ru/maryland-clean-energy-grant-applications-2026-10-29.md",
+      "sha256": "3cccf5a918aa19a394ef2afc5fe9d03d0325b3399a4690fefaa51821ec47adc0"
+    },
+    {
+      "path": "content/issues/2026-10-29/ru/microsoft-quarterly-earnings-accounting-2026-10-29.md",
+      "sha256": "c84c1b61abda87388ff3048fb974612251b44ff9b275ebba1d30e09fbf8f9e18"
+    },
+    {
+      "path": "content/issues/2026-10-29/ru/skhynix-preliminary-results-capacity-2026-10-29.md",
+      "sha256": "4f3315e690d0b6664506f300c9b6a05748e2e96a73edb844625b000f2e27bd0c"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-CN/fed-october-rate-hold-dissent-2026-10-29.md",
+      "sha256": "bbd7fa1390fdc2c2ca07348fe742237c4cbb9887a07b781261874d4b44e3259f"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-CN/google-carbon-access-benchmarks-2026-10-29.md",
+      "sha256": "bbd887a660c7badf2239dfa13c94b0227abb5224ad333bd7a559309f55deb911"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-CN/maryland-clean-energy-grant-applications-2026-10-29.md",
+      "sha256": "b17f74342643372267196679d389a85e5d6d1e84ebda999a2b403086d6355a4c"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-CN/microsoft-quarterly-earnings-accounting-2026-10-29.md",
+      "sha256": "46d78b3b348c75b601b53618db49fe153eaa9f8c6f412c3ccbc6e29f128fa421"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-CN/skhynix-preliminary-results-capacity-2026-10-29.md",
+      "sha256": "a12d506a271e9f7f747682a0c7b936a9ec87d46d6078dcb4f07d7c5572b79825"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-TW/fed-october-rate-hold-dissent-2026-10-29.md",
+      "sha256": "3e1a2cc554cb0c72a017935837bd762ed6306a490e643008e2a370d82966b479"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-TW/google-carbon-access-benchmarks-2026-10-29.md",
+      "sha256": "dc50c96a2f47f41d3659cd5cf4b75ca13e94cb9126d950a6f4524dd48171d657"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-TW/maryland-clean-energy-grant-applications-2026-10-29.md",
+      "sha256": "842a12a3cd31a2864026a239626ef157d53c41f1bfbae80bbbf9163a5ff66bda"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-TW/microsoft-quarterly-earnings-accounting-2026-10-29.md",
+      "sha256": "dc97a8d7e05d0e9e94b4ac83c96aa0a29599cf30796cd8c60d3d6fbc43e1379f"
+    },
+    {
+      "path": "content/issues/2026-10-29/zh-TW/skhynix-preliminary-results-capacity-2026-10-29.md",
+      "sha256": "b785e218c0c759740774be900ff0a67347c11a2a85b649cd3ebae9d7d1ff99b6"
+    }
+  ],
+  "remainingGate": "Integrated25 manifest refreshed and independently rechecked against actual bytes with zero mismatches. Tests, optimized-image render checks, backup, approvals and exact-SHA native production acceptance are publisher gates; no Git write or publication is certified here.",
+  "boundedRevision": {
+    "change": "Five Maryland FOA URLs encode(FOA) as%28FOA%29 to preserve complete Markdown citation targets; decoded URLs are identical.",
+    "changedManuscripts": 5,
+    "unchangedManuscripts": 20,
+    "sourceNarrativeAllocationsUnchanged": true,
+    "inverseHashVerification": "5/5 match pre-encoding independently reviewed bytes",
+    "manifestVerification": "25/25 latest actual hashes match refreshed integrated manifest"
+  }
+}

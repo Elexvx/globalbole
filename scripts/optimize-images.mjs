@@ -8,6 +8,13 @@ import sharp from "sharp";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 29: reviewed product lettering and module detail at full-frame display size.
+  "/news-media/2026-10-29/skhynix-ddr5-mrdimm.jpg": 60,
+  // October 28: exact-path settings retain archival photo detail within the WebP budget.
+  "/news-media/2026-10-28/meta-headquarters.jpg": 60,
+  "/news-media/2026-10-28/microsoft-campus.jpg": 60,
+  "/news-media/2026-10-28/renewable-windfarm.jpg": 60,
+  "/news-media/2026-10-28/us-home-sale.jpg": 60,
   // October 26 archival portrait: reviewed full-frame against the WebP fallback.
   "/news-media/2026-10-26/brazil-lula-official.jpg": 55,
   // October 25 portrait, lettering and refinery detail: reviewed against full-frame WebP.

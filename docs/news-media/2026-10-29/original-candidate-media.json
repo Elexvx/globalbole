@@ -1,0 +1,429 @@
+{
+  "issue": "2026-10-29",
+  "handoff": {
+    "completeManuscripts": 5,
+    "claimedDirectImages": 5,
+    "actualDirectImageRecords": 4,
+    "marylandImageMissingAtHandoff": true,
+    "sourceClaimNotAcceptedBlindly": true
+  },
+  "sourceProposed": [
+    {
+      "topic": "Fed",
+      "status": "adopted archival annex after primary Flickr/Commons rights and pixels check",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+    },
+    {
+      "topic": "Microsoft",
+      "status": "licensed old campus alternative; new official press-licensed campus selected",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Microsoft_campus_-_panoramio.jpg"
+    },
+    {
+      "topic": "Google",
+      "status": "licensed portrait alternative; same-author licensed landscape selected for existing cover fit",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Googleplex_sign.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Googleplex_sign.jpg"
+    },
+    {
+      "topic": "SK hynix",
+      "status": "licensed generic microelectronic wafer, weaker match; actual company DDR5 product photo selected",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Semiconductor_Wafer_of_Microelectronics.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/Semiconductor_Wafer_of_Microelectronics.jpg"
+    },
+    {
+      "topic": "Maryland",
+      "status": "no licensed file handed off; original iStock asset later read/viewed and excluded, county-owned Maryland photo rights verified",
+      "originalURL": "https://energy.maryland.gov/SiteAssets/Pages/MegawattsForMaryland/iStock-1590656113.jpg"
+    }
+  ],
+  "originalArticleMedia": {
+    "Fed": {
+      "articleImages": [
+        "/images/icon-us-flag.svg",
+        "/images/expand_more.svg",
+        "https://designsystem.digital.gov/assets/img/icon-dot-gov.svg",
+        "https://designsystem.digital.gov/assets/img/icon-https.svg",
+        "/images/USAGov%402x.png",
+        "/images/OpenGov%402x.png"
+      ],
+      "decision": "Statement and implementationnote contain no event photograph; logos/seals not adopted. Source-proposed lawfullylicensed archival photograph selected."
+    },
+    "Microsoft": {
+      "id": "microsoft-official",
+      "file": "microsoft-official-campus.jpg",
+      "source_page": "https://news.microsoft.com/redmond-campus/",
+      "original_url": "https://msftstories.thesourcemediaassets.com/sites/733/2025/08/Building9_Building10_L2_Plaza_Building9_Terrace_L3_2024-1-scaled.jpg",
+      "credit": "Microsoft",
+      "capture_date": null,
+      "individual_photographer": null,
+      "license": "Microsoft News Center editorial press permission",
+      "rights_url": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions",
+      "required_credit": "Used with permission from Microsoft.",
+      "status": "eligible_editorial_press_candidate",
+      "visual": "Campus buildings, terrace and people; not an earnings meeting",
+      "rights_caveat": "Press editorial use only; do not imply endorsement or identify pictured individuals as participants in financial or employment events; third-party/individual-consent responsibility retained",
+      "bytes": 916927,
+      "sha256": "18958576e0ebb9a879d25735b5f246b70b9e79782d1581af08b43b052f13019a",
+      "stored_dimensions": [
+        2560,
+        1708
+      ],
+      "display_dimensions": [
+        2560,
+        1708
+      ],
+      "exif_orientation": null,
+      "viewed": true,
+      "pixel_edits_this_audit": false
+    },
+    "Google": {
+      "id": "google-original-hero",
+      "file": "google-carbon-announcement-1600.webp",
+      "source_page": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "original_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.width-1600.format-webp.webp",
+      "credit": "Google; individual creator not specified",
+      "capture_date": null,
+      "source_publication_date": "2026-10-28",
+      "license": null,
+      "rights_url": "https://blog.google/image-library/",
+      "status": "do_not_adopt_permission_for_specific_asset_unverified",
+      "visual": "Abstract iridescent crystal with white4s, promotional illustration",
+      "rights_caveat": "Press Corner permission says images on that page; Carbon hero not established as included. This is missing affirmative permission, not rights denial.",
+      "bytes": 21706,
+      "sha256": "646ddc28958f7c53e015323748b11d2b5648b5ca7d5099cb251af7400b296a21",
+      "stored_dimensions": [
+        1600,
+        900
+      ],
+      "display_dimensions": [
+        1600,
+        900
+      ],
+      "exif_orientation": null,
+      "viewed": true,
+      "pixel_edits_this_audit": false
+    },
+    "SKhynix": {
+      "file": "company-results-image-NOT-CLEARED.png",
+      "assetPage": "https://news.skhynix.com/en/q3-2026-business-results-1/",
+      "originalUrl": "https://d18r0a86za96sg.cloudfront.net/wp-content/uploads/2026/10/28081256/SK-hynix-Announces-3Q26-Financial-Results_etc_info_press_2026_05.png",
+      "visualInspection": "Completed; financial infographic, not photograph",
+      "termsUrl": "https://news.skhynix.com/en/terms-of-use/",
+      "permission": "No separate grant found; prior written consent required under source terms; media download button insufficient. No request sent, no refusal claimed.",
+      "decision": "DO_NOT_PUBLISH_OR_REDRAW"
+    },
+    "Maryland": {
+      "checkedAt": "2026-10-29T02:59:00Z",
+      "selected": {
+        "assetPage": "https://www.flickr.com/photos/baltimorecounty/54844058516",
+        "title": "Parkton-Solar-2",
+        "originalUrl": "https://live.staticflickr.com/65535/54844058516_ab3bcfcc09_o.jpg",
+        "usedUrl": "https://live.staticflickr.com/65535/54844058516_83a895a650_k.jpg",
+        "author": "Baltimore County Government",
+        "dateTaken": "2025-10-09",
+        "dateUploaded": "2025-10-10",
+        "location": "Parkton Landfill, Parkton, Maryland, USA",
+        "locationEvidence": "https://www.flickr.com/photos/baltimorecounty/sets/72177720329567521",
+        "rights": "Public Domain Work / Public Domain Mark 1.0; originating official account asset-specific declaration",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "evidenceFiles": [
+          "parkton2-flickr.html",
+          "parkton-album.html",
+          "pdm.html"
+        ],
+        "selectedFile": {
+          "file": "parkton2-selected-2048.jpg",
+          "bytes": 657729,
+          "sha256": "ae82cdd2a0a4325fc1c527f4d4102034cd733da5c3d245d6bfcafda5014405df",
+          "dimensions": [
+            2048,
+            1365
+          ]
+        },
+        "originalFile": {
+          "file": "parkton2-original.jpg",
+          "bytes": 11597699,
+          "sha256": "dc73f39e38634d7e4287d73facc984e471721247b50b0d9fbc060e701cf915b4",
+          "dimensions": [
+            5472,
+            3648
+          ]
+        },
+        "visuallyInspected": [
+          "parkton2-selected-2048.jpg",
+          "parkton2-original.jpg"
+        ],
+        "edits": "None by agent; publisher-provided 2048px rendition selected. This processing description must not appear in public caption.",
+        "archiveOnly": true,
+        "not2026GranteeEvidence": true
+      },
+      "originalSourceCandidate": {
+        "url": "https://energy.maryland.gov/SiteAssets/Pages/MegawattsForMaryland/iStock-1590656113.jpg",
+        "file": {
+          "file": "original-istock.jpg",
+          "bytes": 4567381,
+          "sha256": "c39b716b8a3ae1792f5eba300711047839c4e3d4e4e0e4dc7280b4057ab1c98e",
+          "dimensions": [
+            2121,
+            1413
+          ]
+        },
+        "visuallyInspected": true,
+        "metadataFile": "original-istock-xmp.xml",
+        "creator": "Bim",
+        "credit": "Getty Images",
+        "country": "Germany",
+        "dateCreated": "2023-07-10",
+        "rightsUrl": "https://www.istockphoto.com/legal/license-agreement",
+        "decision": "Not selected: no acquired Globalbole license; not Maryland. Not rights-denied."
+      },
+      "otherCandidates": [
+        {
+          "assetPage": "https://www.flickr.com/photos/chesbayprogram/52706879583",
+          "decision": "Permission requested by published terms; not contacted/not obtained; pixels not downloaded."
+        },
+        {
+          "assetPage": "https://www.flickr.com/photos/baltimorecounty/54844058086",
+          "decision": "PDM verified, preview viewed; ceremony image less appropriate than panel-only same-album photo."
+        },
+        {
+          "assetPage": "https://www.flickr.com/photos/baltimorecounty/54844057426",
+          "decision": "PDM verified, preview viewed; ceremony image less appropriate than panel-only same-album photo."
+        },
+        {
+          "assetPage": "https://www.loc.gov/item/2016648246/",
+          "decision": "Public domain verified by Highsmith collection/rights;2172px downloaded/viewed; rooftop thermal-looking equipment less fitting than actual ground PV."
+        },
+        {
+          "assetPage": "https://www.loc.gov/item/2016648248/",
+          "decision": "Same LOC rights verified;2172px downloaded/viewed; alternative not adopted."
+        }
+      ],
+      "allEvidenceFiles": [
+        {
+          "file": "dedup.json",
+          "bytes": 703,
+          "sha256": "f0854f9d907183d1605067ddb212ea69ae0a2a7e50a86282ba7007c924057635"
+        },
+        {
+          "file": "foa-page1.png",
+          "bytes": 204819,
+          "sha256": "9115f27c9ae67733e8fdc5589b40047db24350029886ec4bd5f68a63913d9476",
+          "dimensions": [
+            1237,
+            1600
+          ]
+        },
+        {
+          "file": "foa-page8.png",
+          "bytes": 299446,
+          "sha256": "242e5d19cb903ab3d22b7aa20844d84f947db4aabc80493fb60f9e7caab9d3b7",
+          "dimensions": [
+            1237,
+            1600
+          ]
+        },
+        {
+          "file": "foa.pdf",
+          "bytes": 601952,
+          "sha256": "14f6446ef628601c5fc032a6424834e9c07ca381ef7d24eef977e87236e092e1"
+        },
+        {
+          "file": "foa.txt",
+          "bytes": 119470,
+          "sha256": "5802943e3f8f8ee366350312c5835508e001474592046205bd58a0f1a1504dc5"
+        },
+        {
+          "file": "governor.html",
+          "bytes": 71047,
+          "sha256": "541b003399b2a027177bdae9e943f113e746f4325e5b0893b128367f202bbd15"
+        },
+        {
+          "file": "istock-page.html",
+          "bytes": 195,
+          "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7"
+        },
+        {
+          "file": "law-chapter353.pdf",
+          "bytes": 2936894,
+          "sha256": "cec30f5ad89f334df7a074330879a83b6eca9d6a2f4b05a8a1d7eb21a6121a6d"
+        },
+        {
+          "file": "law-chapter353.txt",
+          "bytes": 550464,
+          "sha256": "ed55c1951f7a15e80d6fba29d56469df9605b80aa6adda59c1e09349dc11709c"
+        },
+        {
+          "file": "live-articles.json",
+          "bytes": 4510626,
+          "sha256": "249f18919d18dc52f55b77e5815c58f0fccfe0d7184248da5192fbf509ca3c1e"
+        },
+        {
+          "file": "loc-archive-rights.json",
+          "bytes": 67193,
+          "sha256": "e6b27c387d59fad11ad75cb9faf208f2c13c58932ac533d370ceab99606adf8b"
+        },
+        {
+          "file": "loc-copyright-advisory.html",
+          "bytes": 40963,
+          "sha256": "b46bda002bc7fa17c724461e098ee334188952cff1a0269945b88799b8162998"
+        },
+        {
+          "file": "loc-copyright-advisory.txt",
+          "bytes": 22309,
+          "sha256": "5bf863289e5e8167db156f124f8e76962df1bc2e754defb6f73d3bee3ebba200"
+        },
+        {
+          "file": "loc-highsmith-rights-record.json",
+          "bytes": 1489,
+          "sha256": "5f64a9f18b779ee3e87727d7952f49b0eeb6a4ecdf2984f27d77bab14633c6c2"
+        },
+        {
+          "file": "loc-rights-records.csv",
+          "bytes": 1105202,
+          "sha256": "3c7ad29bc2ad742dc3b0b37145b71ce9b3aadeab19bbbdc359b2190a22b9f43c"
+        },
+        {
+          "file": "loc-solar-page.html",
+          "bytes": 56805,
+          "sha256": "4bdcd6a362490ea1499329d673483d0b9d54184de2c5d8af18c8529ed3d0eb85"
+        },
+        {
+          "file": "loc-solar-selected-2172.jpg",
+          "bytes": 450483,
+          "sha256": "fd837cb4b89060141ee14ff84ff46deffc1e146d7adcde7cf4ba8d1ee6361f7d",
+          "dimensions": [
+            2172,
+            1448
+          ]
+        },
+        {
+          "file": "loc-solar2-page.json",
+          "bytes": 56805,
+          "sha256": "1f09a16eb4daf4ffa392e2a819c6347143309a0989c1f64b65ed0f8be3d0413c"
+        },
+        {
+          "file": "loc-solar2-selected-2172.jpg",
+          "bytes": 292423,
+          "sha256": "04de54b52a1d6a1b372a24a9e52469c87162783d2860839d3df479279d81aaa4",
+          "dimensions": [
+            2172,
+            1448
+          ]
+        },
+        {
+          "file": "original-istock-xmp.xml",
+          "bytes": 1875,
+          "sha256": "b9abe959d2c72d56766770e75bb2ef80ddef166d76bee90f8d1296daf5c0cc72"
+        },
+        {
+          "file": "original-istock.jpg",
+          "bytes": 4567381,
+          "sha256": "c39b716b8a3ae1792f5eba300711047839c4e3d4e4e0e4dc7280b4057ab1c98e",
+          "dimensions": [
+            2121,
+            1413
+          ]
+        },
+        {
+          "file": "parkton-album.html",
+          "bytes": 660765,
+          "sha256": "278a0f21bdab9e303a73e326a2414239dfffac8d0102f776c8e577ee81cafdf7"
+        },
+        {
+          "file": "parkton-commons.html",
+          "bytes": 127647,
+          "sha256": "5339ca142531162ebb2df613c8823f7c622e6192d3bb910349d5287c7da04589"
+        },
+        {
+          "file": "parkton-flickr.html",
+          "bytes": 498059,
+          "sha256": "da55281e7be4d7a3479a1b817ca6dcd06f4df07dc1e29df86a9991208d92f71b"
+        },
+        {
+          "file": "parkton-preview.jpg",
+          "bytes": 247502,
+          "sha256": "2fd7be09b52078d39071e0c1e36fc130d13c74ecf6dd23cd40166a15dfff855a",
+          "dimensions": [
+            1024,
+            683
+          ]
+        },
+        {
+          "file": "parkton2-flickr.html",
+          "bytes": 524186,
+          "sha256": "12e9f9d6d62e305c4bc4406e4475aa834bacf2cac4c83efcb835f220ce3c1899"
+        },
+        {
+          "file": "parkton2-original.jpg",
+          "bytes": 11597699,
+          "sha256": "dc73f39e38634d7e4287d73facc984e471721247b50b0d9fbc060e701cf915b4",
+          "dimensions": [
+            5472,
+            3648
+          ]
+        },
+        {
+          "file": "parkton2-preview.jpg",
+          "bytes": 172383,
+          "sha256": "20ba2a304772cc2ca6f71e3fe2900c3c6cd882ac8fe52422f74d14e3d2db52b1",
+          "dimensions": [
+            1024,
+            683
+          ]
+        },
+        {
+          "file": "parkton2-selected-2048.jpg",
+          "bytes": 657729,
+          "sha256": "ae82cdd2a0a4325fc1c527f4d4102034cd733da5c3d245d6bfcafda5014405df",
+          "dimensions": [
+            2048,
+            1365
+          ]
+        },
+        {
+          "file": "parkton2-url-list.json",
+          "bytes": 1123,
+          "sha256": "6973675c52e12a028167921c972de3a2477c161d1f8722af3a408829c4aefd4e"
+        },
+        {
+          "file": "parkton39-flickr.html",
+          "bytes": 524166,
+          "sha256": "33b2054e7fc6144cf77e53af9fddf42c3c47c644f433b92aef8665acdb26f990"
+        },
+        {
+          "file": "parkton39-preview.jpg",
+          "bytes": 210866,
+          "sha256": "a3af7e39a85dc00fdb39874653fbea366fbb2f196e44e574157595bc538895f9",
+          "dimensions": [
+            960,
+            640
+          ]
+        },
+        {
+          "file": "pdm.html",
+          "bytes": 31377,
+          "sha256": "28b3199d4df73c35c3593b1b42b41300fdfbd9a22ca851fd18e1c87a506f43ff"
+        },
+        {
+          "file": "program.html",
+          "bytes": 66536,
+          "sha256": "3576b1093eaf8030dcd916ec1e6df1d75e08d4b9cc10faec29a289dc0ba5188d"
+        },
+        {
+          "file": "retrievals.json",
+          "bytes": 1571,
+          "sha256": "603ce9c557196e733ebf1c1e6bf6ed992ef309815796d1781f0f3eeeed4b7d47"
+        },
+        {
+          "file": "state-terms.html",
+          "bytes": 40334,
+          "sha256": "937cf4857ab4b12f7d066624f3a672b765f6323c28f4c3fa56b19ba9d83197a1"
+        }
+      ]
+    }
+  },
+  "notAdoptedMeaning": "Permission unverified or unacquired is not permission refusal; no claim that an accessible asset does not exist."
+}

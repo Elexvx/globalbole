@@ -1,0 +1,901 @@
+{
+  "date": "2026-10-28",
+  "assets": [
+    {
+      "title": "Meta Headquarters Sign",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Meta_Headquarters_Sign.jpg",
+      "author": "Nokia621",
+      "date": "2022-05-12",
+      "location": "Menlo Park, California, United States",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "fallbackReason": "Reuters preview and official promotional attachment were retrieved, but no republication permission was established. Licensed relevant archival photograph chosen; it is not a transaction scene.",
+      "filename": "meta-headquarters.jpg",
+      "inputSha256": "633804fc73655539f014d45219ca4ad8878ce70f09f0b768237fbf0a772116dd",
+      "sha256": "0a64cbad6e29a3a754c837da9a5d1a5909ca0d4564fc0fe1a18ae2a50ccb5343",
+      "byteSize": 176957,
+      "width": 1080,
+      "height": 810,
+      "removedSegments": [
+        {
+          "marker": "0xed",
+          "bytes": 126
+        }
+      ],
+      "compressedScanSha256": "bbee4db8d06479fc494fbcf31eb298e30402a13771c47ff3f0fa6061e1faefb0",
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "6ca13a39696c25b29180a3435caf5c10f76e7427d6eb93985f8f0f8a096b043f",
+      "ICCunchanged": true,
+      "publicMetadataKeys": [
+        "jfif",
+        "jfif_version",
+        "jfif_unit",
+        "jfif_density",
+        "progressive",
+        "progression"
+      ],
+      "changes": "Nonessential EXIF/XMP/IPTC/comment metadata removed where present; compressed image scan and decoded RGB pixels unchanged. Attribution and license retained in captions and provenance.",
+      "article": "meta-nvidia-equity-financing-2026-10-28",
+      "localPath": "/news-media/2026-10-28/meta-headquarters.jpg",
+      "kind": "licensed_archival_photo",
+      "eventEvidence": false,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg",
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-28",
+      "dateRole": "capture date",
+      "caption": "资料图：2022 年 5 月 12 日，美国加利福尼亚州门洛帕克。[Meta Headquarters Sign](https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg)，摄影：Nokia621；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+      "coverAlt": "Meta 总部标志资料照片。",
+      "licenseScope": "Photograph and any qualifying image adaptation only, not unrelated article text or website. Attribution retained; no endorsement.",
+      "deliveryDerivatives": {
+        "process": "Existing site pipeline generates proportional full-frame responsive formats; the same image license applies to image adaptations. Body image preserves the full frame. No AI editing.",
+        "quality": {
+          "webp": 76,
+          "avif": 60,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Full-frame AVIF and WebP inspected at 1080 px for Meta and 1280 px for the other four photographs; subject, lettering, foliage and structural details remain clear.",
+        "aggregateBytes": {
+          "avif": 366705,
+          "webp": 397778
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/meta-headquarters-a7bef7fb1a13-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 3784,
+            "sha256": "576a76eab4c917c1401b3b7df4f04c63c8311b74be8a5b56667d0fe28c31fb5a"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-a7bef7fb1a13-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 11942,
+            "sha256": "e2baaba6845aaf065ef30f37929435ac757a348d7fb11031ecd45fe59bf9dc22"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-a7bef7fb1a13-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 25188,
+            "sha256": "7172a6600ad4112bea26e38a40ae70a6e5af2e613ba75a211136c01efbd162cb"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-a7bef7fb1a13-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 52520,
+            "sha256": "64698068d0cbcbea594989fce0ff2130feeaa369de64566cf70ad5a31bca4ed8"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-a7bef7fb1a13-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 73822,
+            "sha256": "0d17943694b1153afcfcf4282360d4ec8ede8140062f0c322ca74d3127db08fe"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-a7bef7fb1a13-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 98132,
+            "sha256": "36de2b7c4939a7209733aec77fdcc60ce2590c5743c2ccbdbb674e2dddd83b9b"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-a7bef7fb1a13-1080.webp",
+            "format": "webp",
+            "width": 1080,
+            "bytes": 132390,
+            "sha256": "3c92fccb78a2f60a138e2a44ba6709d29fb285fd64b616640363d5df592fcde3"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-427e5609f00f-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 3253,
+            "sha256": "937946fcbe0593d5651f65f23c370fb51062e99dcef5082477dedfb74b32197c"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-427e5609f00f-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 10774,
+            "sha256": "cdba34449127ea207539b68822717286d080da1367e54c6ed1b0196e3cab96e1"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-427e5609f00f-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 23439,
+            "sha256": "9d6c56ff604e03b0b3ba18f72dc7fe24e74b86655577103ea5d4a4b569871c7a"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-427e5609f00f-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 50101,
+            "sha256": "6f75035bf0c7748bb4893193684f23038591045f7c93161cad117ce7fd9fedb9"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-427e5609f00f-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 69771,
+            "sha256": "cbc5ec05a86b7e11737c2b706c5e73a98e23ebc83279d9a1f33b73a4c52a20f2"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-427e5609f00f-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 91412,
+            "sha256": "cf50ecadc4706f35ac68b0ec1208c05ff301bebcc3771af6e233f65ebc169d18"
+          },
+          {
+            "path": "/optimized-assets/meta-headquarters-427e5609f00f-1080.avif",
+            "format": "avif",
+            "width": 1080,
+            "bytes": 117955,
+            "sha256": "85f2e332d13576ea1d3c982f3616ba3c09ae3da9a9b887397859ca78ce54ff9d"
+          }
+        ]
+      },
+      "captions": {
+        "zh-CN": "资料图：2022 年 5 月 12 日，美国加利福尼亚州门洛帕克。[Meta Headquarters Sign](https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg)，摄影：Nokia621；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "資料圖：2022 年 5 月 12 日，美國加利福尼亞州門洛帕克。[Meta Headquarters Sign](https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg)，攝影：Nokia621；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "en": "Archival photograph: May 12, 2022, Menlo Park, California, United States. [Meta Headquarters Sign](https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg), photograph by Nokia621; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Архивная фотография: 12 мая 2022 года, Менло-Парк, Калифорния, США. [Meta Headquarters Sign](https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg), фотограф: Nokia621; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Photo d’archives : 12 mai 2022, Menlo Park, Californie, États-Unis. [Meta Headquarters Sign](https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg), photographie : Nokia621 ; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "alts": {
+        "zh-CN": "Meta 总部标志资料照片。",
+        "zh-TW": "Meta 總部標誌資料照片。",
+        "en": "Archival photograph of the sign at Meta's headquarters.",
+        "ru": "Архивная фотография вывески у штаб-квартиры Meta.",
+        "fr": "Photo d’archives du panneau du siège de Meta."
+      }
+    },
+    {
+      "title": "Microsoft campus",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Microsoft_campus_-_panoramio.jpg",
+      "author": "logopop / Kristian A. Bognaes",
+      "date": "2011-10-26",
+      "location": "Redmond west campus, Washington, United States",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fallbackReason": "Reuters candidate not licensed; its exact original-article association remains unconfirmed. Microsoft official press-image permission found, but the relevant image and ZIP could not be retrieved (HTTP 403, not rights refusal). Licensed archival campus photo chosen.",
+      "filename": "microsoft-campus.jpg",
+      "inputSha256": "aa1b8a7a48733899b7ddeb4ba7a8dc4a73d30af9da3a2561e14f6005a5e8c810",
+      "sha256": "aa1b8a7a48733899b7ddeb4ba7a8dc4a73d30af9da3a2561e14f6005a5e8c810",
+      "byteSize": 6155956,
+      "width": 5184,
+      "height": 3456,
+      "removedSegments": [],
+      "compressedScanSha256": "4b6ab39432953d6c7c214d5472c8e670410afee6f61e705558cfa5ca28f15bbc",
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "45f9fe734df9af1b235a89fd7a333a3068a0c54b2ba3de4ed4b04f2fc569bde7",
+      "ICCunchanged": true,
+      "publicMetadataKeys": [],
+      "changes": "Nonessential EXIF/XMP/IPTC/comment metadata removed where present; compressed image scan and decoded RGB pixels unchanged. Attribution and license retained in captions and provenance.",
+      "article": "microsoft-voluntary-exit-eligibility-2026-10-28",
+      "localPath": "/news-media/2026-10-28/microsoft-campus.jpg",
+      "kind": "licensed_archival_photo",
+      "eventEvidence": false,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg",
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-28",
+      "dateRole": "capture date",
+      "caption": "资料图：2011 年 10 月 26 日，美国华盛顿州雷德蒙德西园区。[Microsoft campus](https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg)，摄影：logopop／Kristian A. Bognaes；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。",
+      "coverAlt": "美国华盛顿州雷德蒙德微软园区资料照片。",
+      "licenseScope": "Photograph and any qualifying image adaptation only, not unrelated article text or website. Attribution retained; no endorsement.",
+      "deliveryDerivatives": {
+        "process": "Existing site pipeline generates proportional full-frame responsive formats; the same image license applies to image adaptations. Body image preserves the full frame. No AI editing.",
+        "quality": {
+          "webp": 76,
+          "avif": 60,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Full-frame AVIF and WebP inspected at 1080 px for Meta and 1280 px for the other four photographs; subject, lettering, foliage and structural details remain clear.",
+        "aggregateBytes": {
+          "avif": 482865,
+          "webp": 488830
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 3656,
+            "sha256": "dde02ac2c09d9d4108b541f17712657f2598e1b4b859d9304b5e12a27df61288"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 11974,
+            "sha256": "f9d60edb8a8408b49d09a0a774fc9a3670a398d54964dceac3cbb837cd08944b"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 22762,
+            "sha256": "ecc45b39785bd6d46f8797c8c85b70616a6c7406b065e4ba5ed5874abd949df7"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 43150,
+            "sha256": "157fff47d6b2ca57af994298f5b754eb1c2241e83aaec78a5e4725232682f2e5"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 55064,
+            "sha256": "c79d35c2009e3e6c76f89a25878e83b48dd34fbcf22a5593e0d8c155f6d98dcd"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 66556,
+            "sha256": "e31f070084626e3ebf68c6234fa9c481446024b16628a2a97e256cbd12d12b34"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 104034,
+            "sha256": "1b9bd8cc09fc1a302b409489183c6b1155f974d17154638955b10d65851f1fdf"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-bd91c88e43ba-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 181634,
+            "sha256": "2621e72ebd93a6420bc3d9e4cebdd57474724b5ef68a78586fd31f393ae55898"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 3782,
+            "sha256": "1f97259b33dc16f4f6935da7fb305c2fa7f831a9100ef8c22c12638a66b6ae94"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 11286,
+            "sha256": "dd8753197cd6bf31b1637a93512453e6bedeb1cace8e8fa002beae0e5bb9ce7d"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 21558,
+            "sha256": "93ea233b3dca655e516f76fc288e4ec9493a1979bf1347d860dada59435bf59b"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 41472,
+            "sha256": "10ac9bb48fd60299467c304af58e224168424ca5ad53464be78f945a82f6e707"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 53332,
+            "sha256": "a0acb1d6ed2734c544f64ae9a7600d8c28ee5f5519c03858d92c82b59d28c61f"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 65156,
+            "sha256": "9cdd6a8082dbb2b11d8d7a9ebe8aaa08e70a644ad9caac9dfad320529fa47792"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 103073,
+            "sha256": "c4b1b4ebf1ed43eb8b94b0f14757eafc5ef48481ea67aedaa499b44416527ce6"
+          },
+          {
+            "path": "/optimized-assets/microsoft-campus-8c29ddbadb1c-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 183206,
+            "sha256": "c9ea9d81d28fd77ab57796108b875b799276946f111454fbc8c802b887073fdf"
+          }
+        ]
+      },
+      "captions": {
+        "zh-CN": "资料图：2011 年 10 月 26 日，美国华盛顿州雷德蒙德西园区。[Microsoft campus](https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg)，摄影：logopop／Kristian A. Bognaes；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。",
+        "zh-TW": "資料圖：2011 年 10 月 26 日，美國華盛頓州雷德蒙德西園區。[Microsoft campus](https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg)，攝影：logopop／Kristian A. Bognaes；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。",
+        "en": "Archival photograph: October 26, 2011, Microsoft West Campus, Redmond, Washington, United States. [Microsoft campus](https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg), photograph by logopop / Kristian A. Bognaes; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).",
+        "ru": "Архивная фотография: 26 октября 2011 года, западный кампус в Редмонде, штат Вашингтон, США. [Microsoft campus](https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg), фотограф: logopop / Kristian A. Bognaes; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).",
+        "fr": "Photo d’archives : 26 octobre 2011, campus ouest de Redmond, État de Washington, États-Unis. [Microsoft campus](https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg), photographie : logopop / Kristian A. Bognaes ; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)."
+      },
+      "alts": {
+        "zh-CN": "美国华盛顿州雷德蒙德微软园区资料照片。",
+        "zh-TW": "美國華盛頓州雷德蒙德微軟園區資料照片。",
+        "en": "Archival photograph of the Microsoft campus in Redmond, Washington, United States.",
+        "ru": "Архивная фотография кампуса Microsoft в Редмонде, штат Вашингтон, США.",
+        "fr": "Photo d’archives du campus de Microsoft à Redmond, dans l’État de Washington, aux États-Unis."
+      }
+    },
+    {
+      "title": "Wind farm Kanyakumari",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Wind_farm_Kanyakumari.jpg/3840px-Wind_farm_Kanyakumari.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wind_farm_Kanyakumari.jpg",
+      "author": "Roshan Gracious",
+      "date": null,
+      "location": "Kanyakumari, India",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "fallbackReason": "Reuters preview available but no acquired reuse right; current SIEW official photo rights require written commercial permission notheld; IRENA PDF photographs attributed third-partyShutterstock.",
+      "filename": "renewable-windfarm.jpg",
+      "inputSha256": "22dd88c63b340f738ddbb36cbc50ad40bef4592c24fdead601dd2bc6080cf9cb",
+      "sha256": "22dd88c63b340f738ddbb36cbc50ad40bef4592c24fdead601dd2bc6080cf9cb",
+      "byteSize": 1950111,
+      "width": 3840,
+      "height": 2553,
+      "removedSegments": [],
+      "compressedScanSha256": "8a724f1f88efe12c438bede1d7160f2e3d2d1e51eedc26259b07be2639ae8e33",
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "6c82aade40eeee118b266624ad38901adfae63bf4b2898b9f6b9308ad59e5a42",
+      "ICCunchanged": true,
+      "publicMetadataKeys": [],
+      "changes": "Nonessential EXIF/XMP/IPTC/comment metadata removed where present; compressed image scan and decoded RGB pixels unchanged. Attribution and license retained in captions and provenance.",
+      "article": "irena-renewables-grid-outlook-2026-10-28",
+      "localPath": "/news-media/2026-10-28/renewable-windfarm.jpg",
+      "kind": "licensed_archival_photo",
+      "eventEvidence": false,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg",
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-28",
+      "dateRole": "unknown capture date; omitted from caption",
+      "caption": "资料图：印度 Kanyakumari 风电场。[Wind farm Kanyakumari](https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg)，摄影：Roshan Gracious；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+      "coverAlt": "印度 Kanyakumari 风电场的资料照片。",
+      "licenseScope": "Photograph and any qualifying image adaptation only, not unrelated article text or website. Attribution retained; no endorsement.",
+      "deliveryDerivatives": {
+        "process": "Existing site pipeline generates proportional full-frame responsive formats; the same image license applies to image adaptations. Body image preserves the full frame. No AI editing.",
+        "quality": {
+          "webp": 76,
+          "avif": 60,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Full-frame AVIF and WebP inspected at 1080 px for Meta and 1280 px for the other four photographs; subject, lettering, foliage and structural details remain clear.",
+        "aggregateBytes": {
+          "avif": 506186,
+          "webp": 521334
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 2722,
+            "sha256": "650651cd49fd00a3fefdae172bde3725747643a999f347b208598aeb53c474df"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 8700,
+            "sha256": "32903a0eb4f9ca00e5d0f44920abd03d2999eb5ed16a12bf3c3485459fcd6211"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 17402,
+            "sha256": "4657e833fca72a65b100292cefee726962cb1877d6345e060968d621e5f05287"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 34596,
+            "sha256": "a62bdcbd1546db3cc0f66971b46e8201b25e1427b0c19bc8c2d8c469712cc160"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 47806,
+            "sha256": "f49942448cb4152c22f2e30fcf679d37d3830748024824e8fba696f0e6ea4fac"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 61846,
+            "sha256": "7cfcd062c8cc943aefee865c850120430b28d21d42da537845352bd315d222dc"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 107238,
+            "sha256": "0a8ca53456ca4c708ca9becae54cc3a629bbeab89c652680129797a2e56569c2"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-ec0bd7803ff1-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 241024,
+            "sha256": "9baade2270559ae291abca6256fa75e28e731ff550e64cceffa0404f498e2a36"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 3165,
+            "sha256": "ccbdbe1b1fe013f536de7f212ad7f35a85002a795817c8962a3ebc3a3232ba87"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 8833,
+            "sha256": "adf0635a54834cb33e5affd3bf3bfb271e90818ce970ef421ed582f59fb5732e"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 17361,
+            "sha256": "5fa46915c42d810b18fe69b766dad4d46936c4cb315da73fd031c4f8c591c23b"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 33773,
+            "sha256": "caa8d5845795752152a03a722e7464065b25ea9723ba5659c467efc4c20227b8"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 46944,
+            "sha256": "9e29b8d6d8a75fe2c5cd8e811e0d228c88824f9757c2f41e5ed371067795d525"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 60896,
+            "sha256": "4bd3b7cbe0d663f75ff60fa368416d02f03df55b1c19db5d98901e59ad093e75"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 104076,
+            "sha256": "b0e9786f53172c8f214d0ab1cbd321773ed16f03ae3f774507691d7a14b80595"
+          },
+          {
+            "path": "/optimized-assets/renewable-windfarm-bb6dbc3ebdcf-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 231138,
+            "sha256": "a5edbfe8af3897c9ea2e577ac0c77240b7119eca46466e9e752a47904fdf4342"
+          }
+        ]
+      },
+      "captions": {
+        "zh-CN": "资料图：印度 Kanyakumari 风电场。[Wind farm Kanyakumari](https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg)，摄影：Roshan Gracious；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "zh-TW": "資料圖：印度 Kanyakumari 風電場。[Wind farm Kanyakumari](https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg)，攝影：Roshan Gracious；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "en": "Archival photograph: a wind farm in Kanyakumari, India. [Wind farm Kanyakumari](https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg), photograph by Roshan Gracious; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "ru": "Архивная фотография: ветропарк в Каньякумари, Индия. [Wind farm Kanyakumari](https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg), фотограф: Roshan Gracious; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "fr": "Photo d’archives : parc éolien de Kanyakumari, en Inde. [Wind farm Kanyakumari](https://commons.wikimedia.org/wiki/File:Wind_farm_Kanyakumari.jpg), photographie : Roshan Gracious ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+      },
+      "alts": {
+        "zh-CN": "印度 Kanyakumari 风电场的资料照片。",
+        "zh-TW": "印度 Kanyakumari 風電場的資料照片。",
+        "en": "Archival photograph of a wind farm in Kanyakumari, India.",
+        "ru": "Архивная фотография ветропарка в Каньякумари, Индия.",
+        "fr": "Photo d’archives du parc éolien de Kanyakumari, en Inde."
+      }
+    },
+    {
+      "title": "Prieur Street, Broadmoor, New Orleans - New house for sale, Sept 2023",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Prieur_Street%2C_Broadmoor%2C_New_Orleans_-_New_house_for_sale%2C_Sept_2023.jpg/3840px-Prieur_Street%2C_Broadmoor%2C_New_Orleans_-_New_house_for_sale%2C_Sept_2023.jpg",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Prieur_Street%2C_Broadmoor%2C_New_Orleans_-_New_house_for_sale%2C_Sept_2023.jpg",
+      "author": "Infrogmation of New Orleans",
+      "date": "2023-09-07",
+      "location": "Prieur Street, Broadmoor, New Orleans, Louisiana, United States",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "fallbackReason": "Original Reuters candidate not cleared; exact association unconfirmed. FHFA source has statistics and seal, not a residential photograph; Freddie media assets had no confirmed specific reuse terms. Source-proposed House_for_sale.jpg rejected because it depicts the United Kingdom, despite a valid license.",
+      "filename": "us-home-sale.jpg",
+      "inputSha256": "d7f13963ecd1db31a8f8330f8f0b09726cb4abc9c3d55012513cbdea25fd8a5d",
+      "sha256": "e076dfcfc736e785f0186387c216f75225bc9afdd5379b5ad17709fe3c24ecf6",
+      "byteSize": 2240783,
+      "width": 3840,
+      "height": 2535,
+      "removedSegments": [
+        {
+          "marker": "0xe1",
+          "bytes": 80
+        }
+      ],
+      "compressedScanSha256": "cea3cf2d70040a1189c62dd78d55e39adf2843f25d5a154759fd3bcfc3c8a892",
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "e34837dca3e608098327d2b35eb8d7775647c58077d890075b16df75a7e32556",
+      "ICCunchanged": true,
+      "publicMetadataKeys": [],
+      "changes": "Nonessential EXIF/XMP/IPTC/comment metadata removed where present; compressed image scan and decoded RGB pixels unchanged. Attribution and license retained in captions and provenance.",
+      "article": "us-august-house-prices-mortgage-rates-2026-10-28",
+      "localPath": "/news-media/2026-10-28/us-home-sale.jpg",
+      "kind": "licensed_archival_photo",
+      "eventEvidence": false,
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg",
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-28",
+      "dateRole": "capture date",
+      "caption": "资料图：2023 年 9 月 7 日，美国新奥尔良 Broadmoor 区 Prieur Street。[New house for sale, Sept 2023](https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg)，摄影：Infrogmation of New Orleans；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+      "coverAlt": "美国新奥尔良 Broadmoor 区 Prieur Street 的待售住宅资料照片，摄于 2023 年 9 月 7 日。",
+      "licenseScope": "Photograph and any qualifying image adaptation only, not unrelated article text or website. Attribution retained; no endorsement.",
+      "deliveryDerivatives": {
+        "process": "Existing site pipeline generates proportional full-frame responsive formats; the same image license applies to image adaptations. Body image preserves the full frame. No AI editing.",
+        "quality": {
+          "webp": 76,
+          "avif": 60,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Full-frame AVIF and WebP inspected at 1080 px for Meta and 1280 px for the other four photographs; subject, lettering, foliage and structural details remain clear.",
+        "aggregateBytes": {
+          "avif": 531099,
+          "webp": 600812
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 3716,
+            "sha256": "4f327a529abff334d60e845bba016793bbbf23034c35c6ecf49751af146acd32"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 11668,
+            "sha256": "3de7129fe0c59145e4732e688cc7f8e73b921dd2f5ffc9301f2445c5699d9aa7"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 23532,
+            "sha256": "72caab5256560abd2f3b4dc5b7657e6857d5ed4d77f67d24001255a84d638956"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 43534,
+            "sha256": "0cf7bb431f09a2195483834788cc77ae540a6f8067ba1a4bf2fd05b2ac295ccd"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 59360,
+            "sha256": "736304f32945685c91a555545587afd4a0d4b0f7de69cbebe7c80e89e93ea4ca"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 75666,
+            "sha256": "14595244f8cbefe799dd20127edee4f0cfb6afeec61f547523a203e9e886fa53"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 120904,
+            "sha256": "f3325a79e88211a9a7c6b7b4336ab7cf5a9f6ed6725980675b79d045448fab08"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-df5dc23bb8e1-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 262432,
+            "sha256": "9dd227bd5219fa7f21a21a14460f75258ce78aeae353352efefbdbb2ffd781c0"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 3437,
+            "sha256": "2e6a4d6917899eecbfb6fbb0ae88060c8c4a340d70127acaf5405366c43daa7b"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 9978,
+            "sha256": "fa4818017afa1d65f3edcb67df05d51243a1f7ece346a285bba1214c8bd5332d"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 20202,
+            "sha256": "8a866d3c5ee6cf860170eee42029ade7804edd765f6d07f06cb213c063e8f63c"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 37376,
+            "sha256": "6d630308fa981b1010344af4d216afac795c53dad27a517480517ac8d4b0a048"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 50934,
+            "sha256": "8a59d9c7a7438ce2a08087f3423f484649a6fc3457f109e476002cb34da0de7d"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 64808,
+            "sha256": "007e60bf817fd2375278d06ef9ec821f1cdf9200d31574fa69e24d24c1749499"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 105710,
+            "sha256": "072235a1ebca43674ada2b2bfa3dfaad72129f7a8e85f49acd552de71c587ada"
+          },
+          {
+            "path": "/optimized-assets/us-home-sale-8811a15db641-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 238654,
+            "sha256": "2bbeed3aa30e2c0654c76c8cfcf5b6ac956bc12b9185bb9bb0e3ffd23ef8c8a5"
+          }
+        ]
+      },
+      "captions": {
+        "zh-CN": "资料图：2023 年 9 月 7 日，美国新奥尔良 Broadmoor 区 Prieur Street。[New house for sale, Sept 2023](https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg)，摄影：Infrogmation of New Orleans；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "資料圖：2023 年 9 月 7 日，美國新奧爾良 Broadmoor 區 Prieur Street。[New house for sale, Sept 2023](https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg)，攝影：Infrogmation of New Orleans；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "en": "Archival photograph: September 7, 2023, Prieur Street, Broadmoor, New Orleans, United States. [New house for sale, Sept 2023](https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg), photograph by Infrogmation of New Orleans; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Архивная фотография: 7 сентября 2023 года, Prieur Street, район Broadmoor, Новый Орлеан, США. [New house for sale, Sept 2023](https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg), фотограф: Infrogmation of New Orleans; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Photo d’archives : 7 septembre 2023, Prieur Street, quartier de Broadmoor, La Nouvelle-Orléans, États-Unis. [New house for sale, Sept 2023](https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg), photographie : Infrogmation of New Orleans ; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "alts": {
+        "zh-CN": "美国新奥尔良 Broadmoor 区 Prieur Street 的待售住宅资料照片，摄于 2023 年 9 月 7 日。",
+        "zh-TW": "美國新奧爾良 Broadmoor 區 Prieur Street 的待售住宅資料照片，攝於 2023 年 9 月 7 日。",
+        "en": "Archival photograph of a house for sale on Prieur Street in Broadmoor, New Orleans, United States, taken on September 7, 2023.",
+        "ru": "Архивная фотография дома на продажу на Prieur Street в районе Broadmoor, Новый Орлеан, США, 7 сентября 2023 года.",
+        "fr": "Photo d’archives d’une maison à vendre dans Prieur Street, quartier de Broadmoor à La Nouvelle-Orléans, aux États-Unis, prise le 7 septembre 2023."
+      }
+    },
+    {
+      "title": "Natural Gas Flare",
+      "sourcePageURL": "https://www.flickr.com/photos/usgeologicalsurvey/14962464723",
+      "sourceURL": "https://live.staticflickr.com/3942/14962464723_064c37906d_k.jpg",
+      "originalURL": "https://live.staticflickr.com/3942/14962464723_7231129de7_o.jpg",
+      "author": "Alex Demas / USGS",
+      "date": null,
+      "location": "Liberty, Mississippi, United States",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "fallbackReason": "AP exact original photograph downloaded and viewed, but no license acquired. EPA release contains flag/seal/icons rather than editorial event photography. USGS creator-published archival photograph has explicit CC0 declaration; October 20, 2014 is upload date, not verified capture date.",
+      "filename": "natural-gas-flare.jpg",
+      "inputSha256": "3da477968caf58b6022142b67a0c20d52c273ea5a639a4dc63966cbe6cb2b527",
+      "sha256": "4199d1081d62b9b044afd61b4992ee38f1be113868cf87c1e3b9f9320e1924a7",
+      "byteSize": 1388626,
+      "width": 2048,
+      "height": 1536,
+      "removedSegments": [
+        {
+          "marker": "0xed",
+          "bytes": 134
+        }
+      ],
+      "compressedScanSha256": "857b5e9c4a7570fcd50d81ff6fa918cbb45834753b8b0748bc9d75456ad5cd15",
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "05d75184d8eb97d4a68f33fa77ab35071e4d8cb575e794c57e3e204f07a818d1",
+      "ICCunchanged": true,
+      "publicMetadataKeys": [
+        "jfif",
+        "jfif_version",
+        "jfif_unit",
+        "jfif_density"
+      ],
+      "changes": "Nonessential EXIF/XMP/IPTC/comment metadata removed where present; compressed image scan and decoded RGB pixels unchanged. Attribution and license retained in captions and provenance.",
+      "article": "epa-methane-rule-proposal-2026-10-28",
+      "localPath": "/news-media/2026-10-28/natural-gas-flare.jpg",
+      "kind": "licensed_archival_photo",
+      "eventEvidence": false,
+      "rightsEvidenceURL": "https://www.flickr.com/photos/usgeologicalsurvey/14962464723",
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-28",
+      "dateRole": "unknown capture date; omitted from caption",
+      "caption": "资料图：美国密西西比州 Liberty。[Natural Gas Flare](https://www.flickr.com/photos/usgeologicalsurvey/14962464723)，摄影：Alex Demas／美国地质调查局；[CC0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+      "coverAlt": "美国密西西比州 Liberty 的天然气火炬资料照片。",
+      "licenseScope": "Photograph and any qualifying image adaptation only, not unrelated article text or website. Attribution retained; no endorsement.",
+      "deliveryDerivatives": {
+        "process": "Existing site pipeline generates proportional full-frame responsive formats; the same image license applies to image adaptations. Body image preserves the full frame. No AI editing.",
+        "quality": {
+          "webp": 76,
+          "avif": 65,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Full-frame AVIF and WebP inspected at 1080 px for Meta and 1280 px for the other four photographs; subject, lettering, foliage and structural details remain clear.",
+        "aggregateBytes": {
+          "avif": 1327418,
+          "webp": 1455084
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 5256,
+            "sha256": "6ccd572b6d888a2bffb7658c445640dd2882398c9bea27dffd0bf04a97ff1146"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 19262,
+            "sha256": "ab35fa9d2d1665b6b3c71a7ce2efb9bf253cadb74e24fe30c1c74de02e6237b9"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 45010,
+            "sha256": "b19470c08cadaded853350f5eeb76da9e85397cb5cbf7c92d6356a8f967b32f1"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 96358,
+            "sha256": "0869b2d912f01151cf820fe623f4affcf39f4d82ab981d5fecd4abde4bf8c71a"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 133662,
+            "sha256": "20488c453ee7c5f37900306c90848df3e9d40ca9d259f7419cfa2e057e6e4c6b"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 175754,
+            "sha256": "e81e74b9228d689dcf74640797d4d5d3e8a765d5e72aebe45233b9a7994d5d6c"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 309668,
+            "sha256": "f0d9240184380aff77fd9e354df02e49f081687eaaaf3a5e4dc662147ba3e9f3"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-b7d8b708ffb1-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 670114,
+            "sha256": "60f605a95ea47c246567c2b105b07a96bd8ec4a752c14ce6dd7774d80bdc71dd"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 4507,
+            "sha256": "58de2b8e7961580fe8a418e66415997cbf110c12b607e98213e3d24dd1a3a76c"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 16425,
+            "sha256": "cd740afe8b18c55189997de08919c5f204748504a9674a26781c0e79131e828d"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 38357,
+            "sha256": "4fd4d856d409cd53b1f38ce527a84377cf4de0306cff3f5b350ebdae629d237a"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 85458,
+            "sha256": "4c052fc5382b5f3c14d660dd3c39715e2f8303a6019080467f67eadb1b474038"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 119609,
+            "sha256": "2e78014002270df6c41f6579a42a439f3dd8fbdb7db93d93773115982d01c428"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 159618,
+            "sha256": "44b7066253c7c578516d28c9967ecdcecef5ea223b73b537b70459d72808ce7a"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 287644,
+            "sha256": "f54202543177cb5a3d0b36c5d562cba861b1a8429c33ac197e50d38253c43f5e"
+          },
+          {
+            "path": "/optimized-assets/natural-gas-flare-69b736100869-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 615800,
+            "sha256": "838af7b2921becaf36d8c3bd29d20776e6ee96df7ae2e88c3da2c49f308d9f0c"
+          }
+        ]
+      },
+      "captions": {
+        "zh-CN": "资料图：美国密西西比州 Liberty。[Natural Gas Flare](https://www.flickr.com/photos/usgeologicalsurvey/14962464723)，摄影：Alex Demas／美国地质调查局；[CC0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "zh-TW": "資料圖：美國密西西比州 Liberty。[Natural Gas Flare](https://www.flickr.com/photos/usgeologicalsurvey/14962464723)，攝影：Alex Demas／美國地質調查局；[CC0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "en": "Archival photograph: Liberty, Mississippi, United States. [Natural Gas Flare](https://www.flickr.com/photos/usgeologicalsurvey/14962464723), photograph by Alex Demas / US Geological Survey; [CC0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "ru": "Архивная фотография: Либерти, штат Миссисипи, США. [Natural Gas Flare](https://www.flickr.com/photos/usgeologicalsurvey/14962464723), фотограф: Alex Demas / Геологическая служба США; [CC0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "fr": "Photo d’archives : Liberty, Mississippi, États-Unis. [Natural Gas Flare](https://www.flickr.com/photos/usgeologicalsurvey/14962464723), photographie : Alex Demas / United States Geological Survey ; [CC0](https://creativecommons.org/publicdomain/zero/1.0/)."
+      },
+      "alts": {
+        "zh-CN": "美国密西西比州 Liberty 的天然气火炬资料照片。",
+        "zh-TW": "美國密西西比州 Liberty 的天然氣火炬資料照片。",
+        "en": "Archival photograph of a natural gas flare in Liberty, Mississippi, United States.",
+        "ru": "Архивная фотография факела сжигания природного газа в Либерти, штат Миссисипи, США.",
+        "fr": "Photo d’archives d’une torchère de gaz naturel à Liberty, dans le Mississippi, aux États-Unis."
+      }
+    }
+  ]
+}

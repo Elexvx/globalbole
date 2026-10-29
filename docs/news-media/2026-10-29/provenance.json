@@ -1,0 +1,887 @@
+{
+  "issue": "2026-10-29",
+  "allRealPhotos": true,
+  "aiGeneratedImages": 0,
+  "assets": [
+    {
+      "article": "fed-october-rate-hold-dissent-2026-10-29",
+      "title": "The Federal Reserve Building - Washington D.C.",
+      "filename": "federal-reserve-annex.jpg",
+      "localPath": "/news-media/2026-10-29/federal-reserve-annex.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+      "author": "Tony Webster",
+      "date": "2024-05-31",
+      "dateRole": "capture date",
+      "location": "Washington, D.C., United States",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/diversey/53766027112/",
+      "adoptionReason": "Federal Reserve annex, not the October2026 meeting. Original statement has site icons/logos but no event photograph.",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-29",
+      "sha256": "ba85864e8932a48a00594fdb93ac4002aaf4254da39833e3cc34a16cee59a3b6",
+      "inputSha256": "bf5599e2516e17b41a6f5c169ccb0a001cb6e07add685fae4f6c2110a198e604",
+      "byteSize": 1342965,
+      "width": 3840,
+      "height": 2560,
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "62b7191b3386b537b3457174c1ade936bd5039c83eda452efd637dc4998aed99",
+      "ICCunchanged": true,
+      "removedSegments": [
+        {
+          "marker": "0xe1",
+          "bytes": 150
+        }
+      ],
+      "changes": "Nonessential metadata removed; no retouching, AI generation or pixel alteration. Public attribution and license retained. Existing full-frame proportional delivery derivatives inherit applicable photo terms.",
+      "captions": {
+        "zh-CN": "资料图：2024 年 5 月 31 日，美国华盛顿特区美联储附属大楼。[The Federal Reserve Building - Washington D.C.](https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg)，摄影及版权：Tony Webster；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。",
+        "zh-TW": "資料照片：2024 年 5 月 31 日，美國華盛頓特區聯準會附屬大樓。[The Federal Reserve Building - Washington D.C.](https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg)，攝影及著作權：Tony Webster；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。",
+        "en": "Archival photograph: the Federal Reserve annex building in Washington, D.C., United States, on May 31, 2024. [The Federal Reserve Building - Washington D.C.](https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg). Photograph and copyright: Tony Webster; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).",
+        "ru": "Архивная фотография: 31 мая 2024 года, дополнительное здание Федеральной резервной системы, Вашингтон, округ Колумбия, США. [The Federal Reserve Building - Washington D.C.](https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg), фотограф и правообладатель: Tony Webster; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).",
+        "fr": "Photo d’archives : le 31 mai 2024, bâtiment annexe de la Réserve fédérale à Washington, aux États-Unis. [The Federal Reserve Building - Washington D.C.](https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg), photographie et droits d’auteur : Tony Webster ; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "美国华盛顿特区美联储附属大楼的资料照片。",
+        "zh-TW": "美國華盛頓特區聯準會附屬大樓的資料照片。",
+        "en": "Archival photograph of the Federal Reserve annex building in Washington, D.C., United States.",
+        "ru": "Архивная фотография дополнительного здания Федеральной резервной системы в Вашингтоне, округ Колумбия, США.",
+        "fr": "Photo d’archives du bâtiment annexe de la Réserve fédérale à Washington, aux États-Unis."
+      },
+      "deliveryDerivatives": {
+        "process": "Existing proportional full-frame responsive image pipeline. No crop, retouching or AI edit in the delivered files; archival source attribution and applicable image license retained.",
+        "quality": {
+          "webp": 76,
+          "avif": 65,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Publisher inspected final WebP and AVIF full frames at 1280px against original photographs. Building lines, solar grid, Google wordmark, campus detail, DDR5 product and lettering remain legible. AVIF was decoded to PNG solely for internal viewing because the image viewer does not directly support AVIF. This is not browser or production-page acceptance.",
+        "aggregateBytes": {
+          "webp": 353500,
+          "avif": 336763
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 3122,
+            "sha256": "fd299d39bb59dbce121d3ed0491139d1426682702e1ae37aee042614ed1bc14f"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 9002,
+            "sha256": "24a2765fd8699408043dbbe840e6625b17192000f41555079a14bcafeb0fe416"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 16474,
+            "sha256": "458c7a466a33d8b09b77b5a2ab552a7640abf92667f00efe545bb1c64346a54d"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 28790,
+            "sha256": "343578b09681a918dd2151ccd90dda26cd9dbc97bd9d4917ae14366677f17c60"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 38044,
+            "sha256": "6cb1e6a17d1886b2e31e07c2a68a8b9e7fc31121612cd45f512d36af2db023d7"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 47202,
+            "sha256": "ed37a5731969916bdd9d131c1abe0d6ead71181faaa7721164838b0081727d72"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 73214,
+            "sha256": "9e30f6d40f017b8518354f2296c925a1911d92b84f6130fb27efa3fe7d5504be"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2d8dd7cd03ff-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 137652,
+            "sha256": "76920867681885fac7817adeff7daf33bcb8426980b533c7293d790da59c2cad"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 3225,
+            "sha256": "70ed310135566d877ec2e4648c75084f5f02ce357dd6e25d3c9ab9a88461da86"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 7963,
+            "sha256": "66fbb18fc47d06c38310d5840ae57a0888b826af60ac22eb50519f74181fc570"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 15224,
+            "sha256": "f416c81547f1b12678da1a09195465127335bdabd099e93619b3a75cdc72df23"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 27115,
+            "sha256": "cfda23138995876df404c74c0438f76e906ca92fcd3bfc14c0beb78402699e05"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 35350,
+            "sha256": "3a8be032b3431ebf17c0c188296c2053077e54b334d39db3f00f3d45a4893484"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 43845,
+            "sha256": "af9eedbe3683aab465668857a7c486aa4964a136540d9a2fd5d3699180e4125d"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 68920,
+            "sha256": "8411354c4db210994a96b234cb04987130d65ce6430857c419ef7be76da8142b"
+          },
+          {
+            "path": "/optimized-assets/federal-reserve-annex-2c427435c653-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 135121,
+            "sha256": "6bd11792e8bc9ee8d2ed712451d4f6336e9661aa99509d85e13aed16dff3db18"
+          }
+        ]
+      },
+      "caption": "资料图：2024 年 5 月 31 日，美国华盛顿特区美联储附属大楼。[The Federal Reserve Building - Washington D.C.](https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg)，摄影及版权：Tony Webster；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。"
+    },
+    {
+      "article": "microsoft-quarterly-earnings-accounting-2026-10-29",
+      "title": "Microsoft Redmond campus",
+      "filename": "microsoft-redmond-campus.jpg",
+      "localPath": "/news-media/2026-10-29/microsoft-redmond-campus.jpg",
+      "sourcePageURL": "https://news.microsoft.com/redmond-campus/",
+      "sourceURL": "https://msftstories.thesourcemediaassets.com/sites/733/2025/08/Building9_Building10_L2_Plaza_Building9_Terrace_L3_2024-1-scaled.jpg",
+      "author": "Microsoft",
+      "date": null,
+      "dateRole": "unknown, omitted publicly",
+      "location": "Redmond, Washington, United States",
+      "license": "Microsoft editorial press permission",
+      "licenseURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions",
+      "rightsEvidenceURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions",
+      "adoptionReason": "Official News Center campus image. Exact capture date and individual photographer unknown; filename not used as date. Required credit retained, no endorsement or identification of pictured people as participants in financial/employment events.",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-29",
+      "sha256": "f30f93d3c728644b1aefb84635ff018e903e3351fdd69c6f85ed14bc499e928d",
+      "inputSha256": "18958576e0ebb9a879d25735b5f246b70b9e79782d1581af08b43b052f13019a",
+      "byteSize": 916866,
+      "width": 2560,
+      "height": 1708,
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "71bdfac0416233817e2633e8af05c0d71f2588d5b76423167c0cc7a92a42e458",
+      "ICCunchanged": true,
+      "removedSegments": [
+        {
+          "marker": "0xfe",
+          "bytes": 61
+        }
+      ],
+      "changes": "Nonessential metadata removed; no retouching, AI generation or pixel alteration. Public attribution and license retained. Existing full-frame proportional delivery derivatives inherit applicable photo terms.",
+      "captions": {
+        "zh-CN": "资料照片：美国华盛顿州雷德蒙德[微软园区](https://news.microsoft.com/redmond-campus/)。图片：Microsoft；[Used with permission from Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions)",
+        "zh-TW": "資料照片：美國華盛頓州雷德蒙德[微軟園區](https://news.microsoft.com/redmond-campus/)。圖片：Microsoft；[Used with permission from Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions)",
+        "en": "Archival photograph: the [Microsoft campus](https://news.microsoft.com/redmond-campus/) in Redmond, Washington, United States. Image: Microsoft; [Used with permission from Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions)",
+        "ru": "Архивная фотография: [кампус Microsoft](https://news.microsoft.com/redmond-campus/), Редмонд, штат Вашингтон, США. Изображение: Microsoft; [Used with permission from Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions)",
+        "fr": "Photo d’archives : [campus Microsoft](https://news.microsoft.com/redmond-campus/) à Redmond, dans l’État de Washington, aux États-Unis. Image : Microsoft ; [Used with permission from Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions)"
+      },
+      "coverAlt": {
+        "zh-CN": "美国华盛顿州雷德蒙德微软园区资料照片。",
+        "zh-TW": "美國華盛頓州雷德蒙德微軟園區資料照片。",
+        "en": "Archival photograph of the Microsoft campus in Redmond, Washington, United States.",
+        "ru": "Архивная фотография кампуса Microsoft в Редмонде, штат Вашингтон, США.",
+        "fr": "Photo d’archives du campus Microsoft à Redmond, dans l’État de Washington, aux États-Unis."
+      },
+      "deliveryDerivatives": {
+        "process": "Existing proportional full-frame responsive image pipeline. No crop, retouching or AI edit in the delivered files; archival source attribution and applicable image license retained.",
+        "quality": {
+          "webp": 76,
+          "avif": 65,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Publisher inspected final WebP and AVIF full frames at 1280px against original photographs. Building lines, solar grid, Google wordmark, campus detail, DDR5 product and lettering remain legible. AVIF was decoded to PNG solely for internal viewing because the image viewer does not directly support AVIF. This is not browser or production-page acceptance.",
+        "aggregateBytes": {
+          "webp": 854812,
+          "avif": 724055
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 5370,
+            "sha256": "6f0e678c7a3d703602737b1b82e3134d989546d84327cdea96593d68287d66e7"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 17928,
+            "sha256": "d100b12463605c111fcd9efe634f20cd3284d3f03fb40a4210ad1162d1dee0c7"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 34474,
+            "sha256": "781cc6ead4055b07de6bf923021fcce7e9e51836198c854b2e9a42108f47ea32"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 67660,
+            "sha256": "ccbf0491b8eb68a559412b350306040de92218924e709d7669f33cf8399bde7c"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 89366,
+            "sha256": "ac208be9a561d422ef1cb44962d6c4e8c73632aed15f4cefc892aff6d3cb46c9"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 114960,
+            "sha256": "cef3915fc7931b001b897c9b59e03f2da82fcbbd5bd711a70ae4188a6472541e"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 183468,
+            "sha256": "ba035ae65628f77153dada75fdebc05cabc0b505861d6a1bf873b582275669b8"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-3cf03d33b350-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 341586,
+            "sha256": "a3857aac4e841baee2e37cc5a687d31e9b6caeee161b31540d609bc58a93faf8"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 5199,
+            "sha256": "ac8d706f86d5b48fc1eb3684db1f462f296a25f534b1dee7273cd1339c319336"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 15785,
+            "sha256": "56fcbe4d9bd933f700c684c4718ec1a10ecf696a101390ac7ce2a6e4d67393ce"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 30291,
+            "sha256": "69f6eff7a6c9d06afe662f2eaf9d562e189153d0efbbf16861a9c028e2a208cd"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 58231,
+            "sha256": "4ad87aae4ac97dcf0a434ba7a98e9ffd7f0f9996e1bfbe5a6316dd1e01052984"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 76546,
+            "sha256": "a5800df5caf13e8e0e92af32d97453976f996827a9fc3b46aa3fc33ecdcc29ae"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 96974,
+            "sha256": "1dc73939509be99ba9292a27520d3993a93f8f3393e1af7c4101befdd9050c1f"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 154127,
+            "sha256": "263b9305d569f5d51a2e90756c7b450f5e8ceb2e08f2c777983929606ad4861f"
+          },
+          {
+            "path": "/optimized-assets/microsoft-redmond-campus-b73284cf8cb7-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 286902,
+            "sha256": "62d40ca938ea0642780b9c5538758c085bfbe56e8ce42c24524c5d6ae30166c2"
+          }
+        ]
+      },
+      "caption": "资料照片：美国华盛顿州雷德蒙德[微软园区](https://news.microsoft.com/redmond-campus/)。图片：Microsoft；[Used with permission from Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions)"
+    },
+    {
+      "article": "google-carbon-access-benchmarks-2026-10-29",
+      "title": "Googleplex plaza",
+      "filename": "googleplex-plaza.jpg",
+      "localPath": "/news-media/2026-10-29/googleplex-plaza.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Googleplex_plaza.jpg",
+      "author": "Runner1928",
+      "date": "2014-07-18",
+      "dateRole": "capture date",
+      "location": "Mountain View, California, United States",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg",
+      "adoptionReason": "Historical campus plaza, not a model interface or launch scene. Original promotional hero was downloaded/viewed but no permission specific to that asset established. Portrait sign also licensed, but landscape keeps wordmark in existing cover layout.",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-29",
+      "sha256": "fdf3da1ea0b2a32a35c799edd95d5864631cb39d42decbf8186d7255bf9a4da5",
+      "inputSha256": "d9a0091420ce2539d7c89f13d40098d6cfdc558f5bf4f70d3a0ca3e44d1f73c0",
+      "byteSize": 3486552,
+      "width": 3264,
+      "height": 2448,
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "af6a957a4f01d7e6bb49a9c97adf05f7e69f93a64bf83c558901b4a9719cf50b",
+      "ICCunchanged": true,
+      "removedSegments": [
+        {
+          "marker": "0xe1",
+          "bytes": 12288
+        }
+      ],
+      "changes": "Nonessential metadata removed; no retouching, AI generation or pixel alteration. Public attribution and license retained. Existing full-frame proportional delivery derivatives inherit applicable photo terms.",
+      "captions": {
+        "zh-CN": "资料照片：2014 年 7 月 18 日，美国加州山景城 [Googleplex 园区广场](https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg)。摄影：Runner1928／Wikimedia Commons；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。",
+        "zh-TW": "資料照片：2014 年 7 月 18 日，美國加州山景城 [Googleplex 園區廣場](https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg)。攝影：Runner1928／Wikimedia Commons；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。",
+        "en": "Archival photograph: [Googleplex plaza](https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg), Mountain View, California, United States, July 18, 2014. Photograph: Runner1928 / Wikimedia Commons; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).",
+        "ru": "Архивная фотография: 18 июля 2014 года, [площадь кампуса Googleplex](https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg), Маунтин-Вью, Калифорния, США. Фотограф: Runner1928 / Wikimedia Commons; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).",
+        "fr": "Photo d’archives : le 18 juillet 2014, [place du campus Googleplex](https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg) à Mountain View, en Californie, aux États-Unis. Photographie : Runner1928 / Wikimedia Commons ; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "美国加州山景城 Googleplex 园区广场资料照片。",
+        "zh-TW": "美國加州山景城 Googleplex 園區廣場資料照片。",
+        "en": "Archival photograph of the Googleplex plaza in Mountain View, California, United States.",
+        "ru": "Архивная фотография площади кампуса Googleplex в Маунтин-Вью, Калифорния, США.",
+        "fr": "Photo d’archives de la place du campus Googleplex à Mountain View, en Californie, aux États-Unis."
+      },
+      "deliveryDerivatives": {
+        "process": "Existing proportional full-frame responsive image pipeline. No crop, retouching or AI edit in the delivered files; archival source attribution and applicable image license retained.",
+        "quality": {
+          "webp": 76,
+          "avif": 65,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Publisher inspected final WebP and AVIF full frames at 1280px against original photographs. Building lines, solar grid, Google wordmark, campus detail, DDR5 product and lettering remain legible. AVIF was decoded to PNG solely for internal viewing because the image viewer does not directly support AVIF. This is not browser or production-page acceptance.",
+        "aggregateBytes": {
+          "webp": 912774,
+          "avif": 894884
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 4364,
+            "sha256": "017b666b7682f6d5b487b1200d71da4a67b7ac1ce53669f5a20a162ff8cc2219"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 14424,
+            "sha256": "f03bcb874e3a77dc29d78142642136f6d76e81c4ee36750ab64e3110e5aa6b18"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 31476,
+            "sha256": "94f912d5d37b087666a5e1293d2832f3b01fefd619a93bb9860466a974ad4977"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 65090,
+            "sha256": "02c0524602ca96cf5fcb589241368917203f9366d226bfa83c49fe1131eba149"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 87734,
+            "sha256": "8721140550126b7491225bd0a5bd9a23ee93c3bc4b93d9e8e876acee048ceed8"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 113664,
+            "sha256": "7ac8b0fe91ea2ae14dc89f18d1b06374f9269991f068e9e64b8637eac55b4c41"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 198836,
+            "sha256": "7528ebb15eda0c09cd828b278cdd69270646384d7e5985cf6c577f91a55ee333"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-0287220d5545-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 397186,
+            "sha256": "dab739f2166b3eca0c2824a45fc717abc4f96542e8315b9074b718cea1a36f27"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 4422,
+            "sha256": "d9a931672020d4873195d6c36ee2e5d39cdb5de7e897c7b0206e4675f6aa2ee0"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 14169,
+            "sha256": "aadc69f2b246dd87d306a030a724c03c314aa75bdca87175e9abccaac2c994a8"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 30709,
+            "sha256": "bd8dac4aaece0d50d24d8392056068047f32547b7b62482f05276ac1f6ea26ed"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 64299,
+            "sha256": "6b5f8d8b66762420ebec1fbc6f00f8e871b03e57fc37369fbfc4d109fa6ca413"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 86946,
+            "sha256": "e31e74e67863384f1567320eed38f58dbaf1bcf40436ac51e4708a1be5ad95b8"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 112733,
+            "sha256": "17409ed7ed10121c199641562086250ad3576d1976211b012f3274f7d5dc8b0a"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 194466,
+            "sha256": "84a8f74e4f20aeaf057e2780bb433ed4c31413d90dd5b202d526b4c32bf3ac5a"
+          },
+          {
+            "path": "/optimized-assets/googleplex-plaza-4533f5c89f62-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 387140,
+            "sha256": "e628500432ebc517431555a56294795faab72f543cdd1c81bafd5380c4fad7b7"
+          }
+        ]
+      },
+      "caption": "资料照片：2014 年 7 月 18 日，美国加州山景城 [Googleplex 园区广场](https://commons.wikimedia.org/wiki/File:Googleplex_plaza.jpg)。摄影：Runner1928／Wikimedia Commons；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。"
+    },
+    {
+      "article": "skhynix-preliminary-results-capacity-2026-10-29",
+      "title": "SK Hynix DDR5 Tall MRDIMM",
+      "filename": "skhynix-ddr5-mrdimm.jpg",
+      "localPath": "/news-media/2026-10-29/skhynix-ddr5-mrdimm.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/b/b1/SK_Hynix_DDR5_Tall_MRDIMM.jpg",
+      "author": "4300streetcar",
+      "date": "2025-05-23",
+      "dateRole": "capture date",
+      "location": "Computex, Taipei",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/w/index.php?title=File:SK_Hynix_DDR5_Tall_MRDIMM.jpg&oldid=1236478218",
+      "adoptionReason": "Historical DDR5 MRDIMM product, not HBM4 or current shipment evidence. Company source asset is financial infographic, downloaded/viewed but prior written republication consent unacquired; no refusal claimed.",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-29",
+      "sha256": "559499862b449348855e62091bf4f89eb01f14a8383605a2eb5ca57a6d29dbd4",
+      "inputSha256": "559499862b449348855e62091bf4f89eb01f14a8383605a2eb5ca57a6d29dbd4",
+      "byteSize": 2012776,
+      "width": 3840,
+      "height": 2880,
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "e6083e40f1a7c839217777fb2cfe81fa76bafcb7a387e1f68aeaa34dbc2ffa4f",
+      "ICCunchanged": true,
+      "removedSegments": [],
+      "changes": "Nonessential metadata removed; no retouching, AI generation or pixel alteration. Public attribution and license retained. Existing full-frame proportional delivery derivatives inherit applicable photo terms.",
+      "captions": {
+        "zh-CN": "资料图：2025 年 5 月 23 日，台北 Computex 展出的 [SK hynix DDR5 Tall MRDIMM](https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg)。摄影：4300streetcar／Wikimedia Commons；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "zh-TW": "資料照片：2025 年 5 月 23 日，台北 Computex 展出的 [SK hynix DDR5 Tall MRDIMM](https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg)。攝影：4300streetcar／Wikimedia Commons；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "en": "Archival photograph: [SK hynix DDR5 Tall MRDIMM](https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg) displayed at Computex in Taipei, May 23, 2025. Photograph: 4300streetcar / Wikimedia Commons; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "ru": "Архивная фотография: 23 мая 2025 года, [SK hynix DDR5 Tall MRDIMM](https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg) на выставке Computex в Тайбэе. Фотограф: 4300streetcar / Wikimedia Commons; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "fr": "Photo d’archives : le 23 mai 2025, [SK hynix DDR5 Tall MRDIMM](https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg) présentés au salon Computex de Taipei. Photographie : 4300streetcar / Wikimedia Commons ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "Computex 展会上 SK hynix DDR5 Tall MRDIMM 资料照片。",
+        "zh-TW": "Computex 展會上 SK hynix DDR5 Tall MRDIMM 的資料照片。",
+        "en": "Archival photograph of SK hynix DDR5 Tall MRDIMM displayed at Computex.",
+        "ru": "Архивная фотография SK hynix DDR5 Tall MRDIMM на выставке Computex.",
+        "fr": "Photo d’archives de modules SK hynix DDR5 Tall MRDIMM présentés au salon Computex."
+      },
+      "deliveryDerivatives": {
+        "process": "Existing proportional full-frame responsive image pipeline. No crop, retouching or AI edit in the delivered files; archival source attribution and applicable image license retained.",
+        "quality": {
+          "webp": 76,
+          "avif": 60,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Publisher inspected final WebP and AVIF full frames at 1280px against original photographs. Building lines, solar grid, Google wordmark, campus detail, DDR5 product and lettering remain legible. AVIF was decoded to PNG solely for internal viewing because the image viewer does not directly support AVIF. This is not browser or production-page acceptance.",
+        "aggregateBytes": {
+          "webp": 468392,
+          "avif": 449636
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 2760,
+            "sha256": "09f6b52d9c8334ced3e651942bc4ae0aa2475e29c1fd87096266079ab4db6e64"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 8386,
+            "sha256": "ddad93956d7551a59a4d8a8a812db52d3284efdc6a79121f2a064c1ececc5b4d"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 16438,
+            "sha256": "5756fc0a3d90ca26443d5466d7a66a11b4ec009c4a3d9081eda7bbac4848fa15"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 29584,
+            "sha256": "dc654031beba9ffff52c55c2456bfc02f0fb40c749b8530372882434f986ec0d"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 40934,
+            "sha256": "c337890f7d94dab5e21ea6d39c48fcf15f2162b041a5ae1cbad4163a65e2232e"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 53884,
+            "sha256": "3b7d8b4383e4c5946ff7b29c8b3b99845f5db84b59eb3ee07875586effbca59e"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 92256,
+            "sha256": "b1f48b83304d3885ea33a6e5b7338f32f4e173c05cf7ad03d82fc03f9d1baf47"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-03d6cc6e921c-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 224150,
+            "sha256": "15b2d71fc6ef238a4c81b2ced1e7e677155eecdeb2166ac141b543a06b543699"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 2711,
+            "sha256": "b1644faae5dcba410be175391e4ce188ad93ed45f8ce4b52bbab1e1e78d5679f"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 8156,
+            "sha256": "af6e27f1ac26def827c4fe0866b1c80c60bb90f4f8097cb0d938d4c4e2a83b37"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 15161,
+            "sha256": "1b5f188bedd27401ecc0436c0450d9e0c84730bdbda116a5ce683edbb256a799"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 28605,
+            "sha256": "062320395f28bfad942f926b3bb6c09d3140987db2cbbbdb3e08584899a35ab3"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 40045,
+            "sha256": "c2287e862339e1d3627788404b7612da9fb87bd87e1121dbdd890c46b9e78317"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 51547,
+            "sha256": "3c34acbe144e4db8a1bd6aa7e108f3d8b6867e2dc283a5388eb3201d26d21d67"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 90227,
+            "sha256": "6c6dad678918c961660db1afd6becce2824b7c991b93e86b3ce68c721b6cba3a"
+          },
+          {
+            "path": "/optimized-assets/skhynix-ddr5-mrdimm-6a9a70af2076-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 213184,
+            "sha256": "0140b0024fdbc90587a1d8186bc1dca48a96af00c7f093278368096eedeadc8f"
+          }
+        ]
+      },
+      "caption": "资料图：2025 年 5 月 23 日，台北 Computex 展出的 [SK hynix DDR5 Tall MRDIMM](https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg)。摄影：4300streetcar／Wikimedia Commons；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。"
+    },
+    {
+      "article": "maryland-clean-energy-grant-applications-2026-10-29",
+      "title": "Parkton-Solar-2",
+      "filename": "maryland-parkton-solar.jpg",
+      "localPath": "/news-media/2026-10-29/maryland-parkton-solar.jpg",
+      "sourcePageURL": "https://www.flickr.com/photos/baltimorecounty/54844058516",
+      "sourceURL": "https://live.staticflickr.com/65535/54844058516_ab3bcfcc09_o.jpg",
+      "author": "Baltimore County Government",
+      "date": "2025-10-09",
+      "dateRole": "capture date",
+      "location": "Closed Parkton Landfill, Maryland, United States",
+      "license": "Public Domain Mark 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/baltimorecounty/54844058516",
+      "adoptionReason": "Existing county solar array, not a beneficiary of the current grant program. Exact work marked Public Domain Work by originating official account; PDM is not CC0. Original MEA iStock asset depicts Germany and has no acquired Globalbole reuse license.",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "pixelsInspected": true,
+      "checkedAt": "2026-10-29",
+      "sha256": "3f14bb77317c9f37d9c38fda06f81bc0a9198bf473fd1092021ce781bfabccf2",
+      "inputSha256": "ae82cdd2a0a4325fc1c527f4d4102034cd733da5c3d245d6bfcafda5014405df",
+      "byteSize": 657617,
+      "width": 2048,
+      "height": 1365,
+      "pixelsIdentical": true,
+      "decodedRGBSha256": "96cea3c07e3df8f25ee9edd338d09383a0ea54effd11983eb55bbe02e89fa9f6",
+      "ICCunchanged": true,
+      "removedSegments": [
+        {
+          "marker": "0xed",
+          "bytes": 112
+        }
+      ],
+      "changes": "Nonessential metadata removed; no retouching, AI generation or pixel alteration. Public attribution and license retained. Existing full-frame proportional delivery derivatives inherit applicable photo terms.",
+      "captions": {
+        "zh-CN": "资料图：2025 年 10 月 9 日，美国马里兰州 Parkton 已关闭填埋场的[太阳能阵列](https://www.flickr.com/photos/baltimorecounty/54844058516)。摄影／供图：Baltimore County Government；[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)。",
+        "zh-TW": "資料照片：2025 年 10 月 9 日，美國馬里蘭州 Parkton 已關閉的掩埋場內的[太陽能陣列](https://www.flickr.com/photos/baltimorecounty/54844058516)。攝影／供圖：Baltimore County Government；[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)。",
+        "en": "Archival photograph: a [solar array](https://www.flickr.com/photos/baltimorecounty/54844058516) at a closed landfill in Parkton, Maryland, United States, October 9, 2025. Photograph / supplied by: Baltimore County Government; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).",
+        "ru": "Архивная фотография: 9 октября 2025 года, [солнечная установка](https://www.flickr.com/photos/baltimorecounty/54844058516) на закрытом полигоне отходов в Парктоне, Мэриленд, США. Фотография и предоставление изображения: Baltimore County Government; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).",
+        "fr": "Photo d’archives : le 9 octobre 2025, [installation solaire](https://www.flickr.com/photos/baltimorecounty/54844058516) sur une décharge fermée de Parkton, dans le Maryland, aux États-Unis. Photographie / image fournie par : Baltimore County Government ; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "马里兰州 Parkton 地面光伏阵列资料照片。",
+        "zh-TW": "馬里蘭州 Parkton 地面型太陽光電陣列資料照片。",
+        "en": "Archival photograph of a ground-mounted solar array in Parkton, Maryland.",
+        "ru": "Архивная фотография наземной солнечной установки в Парктоне, штат Мэриленд.",
+        "fr": "Photo d’archives d’une installation photovoltaïque au sol à Parkton, dans le Maryland."
+      },
+      "deliveryDerivatives": {
+        "process": "Existing proportional full-frame responsive image pipeline. No crop, retouching or AI edit in the delivered files; archival source attribution and applicable image license retained.",
+        "quality": {
+          "webp": 76,
+          "avif": 65,
+          "avifChroma": "4:4:4"
+        },
+        "visualReview": "Publisher inspected final WebP and AVIF full frames at 1280px against original photographs. Building lines, solar grid, Google wordmark, campus detail, DDR5 product and lettering remain legible. AVIF was decoded to PNG solely for internal viewing because the image viewer does not directly support AVIF. This is not browser or production-page acceptance.",
+        "aggregateBytes": {
+          "webp": 444558,
+          "avif": 388184
+        },
+        "variants": [
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-160.webp",
+            "format": "webp",
+            "width": 160,
+            "bytes": 2442,
+            "sha256": "852401039d0f731fbb9e55c41562f1e36709cf8d3e79e5d864be3e05eb92b0ea"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-320.webp",
+            "format": "webp",
+            "width": 320,
+            "bytes": 7578,
+            "sha256": "7b2bc189a0b01b71a729794aafda61cfb29cc38587ea250113b4b4e57c56b818"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-480.webp",
+            "format": "webp",
+            "width": 480,
+            "bytes": 15356,
+            "sha256": "707f315c11e5451c7d61830a145e9fe1b5d5e87ad7b60e8314dc82bbcc2c67f5"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-704.webp",
+            "format": "webp",
+            "width": 704,
+            "bytes": 32874,
+            "sha256": "f8860dcf21f12b80039b40df0aeb9d76890b48404781b953f6f385415a0f60e4"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-832.webp",
+            "format": "webp",
+            "width": 832,
+            "bytes": 44954,
+            "sha256": "86979267dd54da7cefff15638b70f980f08ac5cda9c5a941bef544276d430455"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-960.webp",
+            "format": "webp",
+            "width": 960,
+            "bytes": 58010,
+            "sha256": "6a21ec24acda885cf2d092114a028dc04c90e904c166f711a490d5e7af91d2ad"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-1280.webp",
+            "format": "webp",
+            "width": 1280,
+            "bytes": 98278,
+            "sha256": "f7f3f36b89a4c5d51f1f6790283e9f880f69ed04e92aee41cf3333d90f5c4206"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-25a1f5c419c8-1920.webp",
+            "format": "webp",
+            "width": 1920,
+            "bytes": 185066,
+            "sha256": "6d6cdd4dffc8caa6b814c09d6834bd0936afec10287a4a9c7471622b1458ea52"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-160.avif",
+            "format": "avif",
+            "width": 160,
+            "bytes": 2421,
+            "sha256": "1580247fd14e497dbc60bf87b75294304c028d3b5b1e94182c18072799c7d120"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-320.avif",
+            "format": "avif",
+            "width": 320,
+            "bytes": 6983,
+            "sha256": "4e5b78aa16889d2c4c7ef810eefed4d3add1eb18bce6e5b5fdf72ad4ff537be7"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-480.avif",
+            "format": "avif",
+            "width": 480,
+            "bytes": 13645,
+            "sha256": "0830a3e9ea7d6f9b182f4ab411695c25381c13ba58f7831b27a635cd69c82250"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-704.avif",
+            "format": "avif",
+            "width": 704,
+            "bytes": 28559,
+            "sha256": "b10c0e1d3bbd1e4c884d61071e984fd9732d5dec420285dd033eed838acea35d"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-832.avif",
+            "format": "avif",
+            "width": 832,
+            "bytes": 39339,
+            "sha256": "37e3850b2ce0cf2dc348f8eb88c2ff6ba667d9b0966e70684e403a2dd2d45df6"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-960.avif",
+            "format": "avif",
+            "width": 960,
+            "bytes": 50191,
+            "sha256": "6c08d3c931223eeec9ab2bbc94463164f942e1b1d8b30846a42188ce31ea3677"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-1280.avif",
+            "format": "avif",
+            "width": 1280,
+            "bytes": 84885,
+            "sha256": "7141a2ce141bd654efdba0bd5ba4720199ff5244388f158a03aefd042474d729"
+          },
+          {
+            "path": "/optimized-assets/maryland-parkton-solar-0b931f67bd3f-1920.avif",
+            "format": "avif",
+            "width": 1920,
+            "bytes": 162161,
+            "sha256": "1816c49bcdd34759f2bde20b2b7a61eee85e26750373c60c24ee8d408d977197"
+          }
+        ]
+      },
+      "caption": "资料图：2025 年 10 月 9 日，美国马里兰州 Parkton 已关闭填埋场的[太阳能阵列](https://www.flickr.com/photos/baltimorecounty/54844058516)。摄影／供图：Baltimore County Government；[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)。"
+    }
+  ]
+}

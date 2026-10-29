@@ -4367,6 +4367,345 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-28-zh-CN",
+      "issue": "2026-10-28",
+      "publicationDate": "2026-10-29",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "meta-nvidia-equity-financing-2026-10-28",
+          "path": "content/issues/2026-10-28/zh-CN/meta-nvidia-equity-financing-2026-10-28.md",
+          "eventDate": "2026-10-27 cooperation; 2026-10-26/27 offering disclosures",
+          "sources": [
+            {
+              "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+              "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Meta-to-Expand-Collaboration-on-Muse-and-Muse-Family-of-Models-Amid-Robust-Growth/default.aspx",
+              "footnote": 1,
+              "dateInformation": "2026-10-27",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Meta Announces Pricing of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
+              "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
+              "footnote": 2,
+              "dateInformation": "页面标示 2026-10-27，稿件署期 2026-10-26",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
+              "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
+              "footnote": 3,
+              "dateInformation": "2026-10-26",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Beginners' Guide to Financial Statement",
+              "url": "https://www.sec.gov/investor/pubs/begfinstmtguide.htm",
+              "footnote": 4,
+              "dateInformation": "2007-02-04",
+              "verificationDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "translationKey": "microsoft-voluntary-exit-eligibility-2026-10-28",
+          "path": "content/issues/2026-10-28/zh-CN/microsoft-voluntary-exit-eligibility-2026-10-28.md",
+          "eventDate": "2026-10-26 offer; workforce baseline 2026-06-30",
+          "sources": [
+            {
+              "title": "Introducing a Voluntary Exit Offer",
+              "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
+              "footnote": 1,
+              "dateInformation": "2026-10-26",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
+              "url": "https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/",
+              "footnote": 2,
+              "dateInformation": "2026-10-26 16:10 UTC",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Microsoft 2026 Annual Report",
+              "url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+              "footnote": 3,
+              "dateInformation": "2026 财年，员工数据截至 2026-06-30",
+              "verificationDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "translationKey": "irena-renewables-grid-outlook-2026-10-28",
+          "path": "content/issues/2026-10-28/zh-CN/irena-renewables-grid-outlook-2026-10-28.md",
+          "eventDate": "2026-10-27 interview; capacity data 2025; flexibility report 2026-01",
+          "sources": [
+            {
+              "title": "World to add less clean energy capacity this year, renewables agency chief says",
+              "url": "https://www.reuters.com/business/energy/world-add-less-clean-energy-capacity-this-year-renewables-agency-chief-says-2026-10-27/",
+              "footnote": 1,
+              "dateInformation": "2026-10-27 09:54 UTC",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Renewable capacity statistics 2026",
+              "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf",
+              "footnote": 2,
+              "dateInformation": "2026-03",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Flexibility for a secure and affordable power sector transformation",
+              "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Jan/IRENA_TEC_Flexibility_power_sector_2026.pdf",
+              "footnote": 3,
+              "dateInformation": "2026-01",
+              "verificationDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-august-house-prices-mortgage-rates-2026-10-28",
+          "path": "content/issues/2026-10-28/zh-CN/us-august-house-prices-mortgage-rates-2026-10-28.md",
+          "eventDate": "2026-10-27 release; prices 2026-08; mortgage rates week of 2026-10-22",
+          "sources": [
+            {
+              "title": "U.S. House Price Index — October 2026",
+              "url": "https://www.fhfa.gov/reports/house-price-index/2026/10",
+              "footnote": 1,
+              "dateInformation": "2026-10-27",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "FHFA House Price Index® Up 0.3 Percent in August; Up 2.4 Percent from Last Year",
+              "url": "https://www.fhfa.gov/news/news-release/fhfa-house-price-index-up-0.3-percent-in-august-up-2.4-percent-from-last-year",
+              "footnote": 2,
+              "dateInformation": "2026-10-27",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Mortgage Rates Decrease to 7.32%",
+              "url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-decrease-732",
+              "footnote": 3,
+              "dateInformation": "2026-10-22",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Primary Mortgage Market Survey",
+              "url": "https://www.freddiemac.com/pmms",
+              "footnote": 4,
+              "dateInformation": "2026-10-28 查阅",
+              "verificationDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "translationKey": "epa-methane-rule-proposal-2026-10-28",
+          "path": "content/issues/2026-10-28/zh-CN/epa-methane-rule-proposal-2026-10-28.md",
+          "eventDate": "2026-10-27 proposed rule, not final; existing delay 2027-01-22",
+          "sources": [
+            {
+              "title": "EPA Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations",
+              "url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas",
+              "footnote": 1,
+              "dateInformation": "2026-10-27",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Methane Super Emitter Program",
+              "url": "https://www.epa.gov/compliance/methane-super-emitter-program",
+              "footnote": 2,
+              "dateInformation": "2026-10-28 查阅",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+              "url": "https://www.epa.gov/system/files/documents/2026-10/san-12726-ong-reconsideration-2-nprm-preamble-20261015-clean.admin_disclaimer.pdf",
+              "footnote": 3,
+              "dateInformation": "2026-10-27 签署",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Anticipated EPA methane rollback proposal would encourage worst forms of pollution and waste",
+              "url": "https://www.edf.org/media/anticipated-epa-methane-rollback-proposal-would-encourage-worst-forms-pollution-and-waste",
+              "footnote": 4,
+              "dateInformation": "2026-10-27，提案宣布前声明",
+              "verificationDate": "2026-10-28"
+            },
+            {
+              "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+              "url": "https://public-inspection.federalregister.gov/2026-22082.pdf",
+              "footnote": 5,
+              "dateInformation": "2026-10-29 scheduled; checked 03:11 UTC",
+              "verificationDate": "2026-10-29"
+            }
+          ]
+        }
+      ],
+      "publicationStatus": "release-ready",
+      "dateNote": "Date-only publication date; no invented exact time. Editorial/local validation complete for authorized direct-main release; actual production acceptance is recorded separately."
+    },
+    {
+      "id": "2026-10-29-zh-CN",
+      "issue": "2026-10-29",
+      "publicationDate": "2026-10-29",
+      "publicationStatus": "release-ready",
+      "dateNote": "Date-only publication date; no invented exact time. Editorial/local validation complete for authorized direct-main release; actual production acceptance is recorded separately.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "fed-october-rate-hold-dissent-2026-10-29",
+          "path": "content/issues/2026-10-29/zh-CN/fed-october-rate-hold-dissent-2026-10-29.md",
+          "eventDate": "2026-10-28",
+          "sources": [
+            {
+              "title": "Federal Reserve issues FOMC statement",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+              "footnote": 1,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Implementation Note issued October 28, 2026",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm",
+              "footnote": 2,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Open Market Operations",
+              "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+              "footnote": 3,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Overnight Reverse Repurchase Agreement Operations",
+              "url": "https://www.federalreserve.gov/monetarypolicy/overnight-reverse-repurchase-agreements.htm",
+              "footnote": 4,
+              "verificationDate": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "translationKey": "google-carbon-access-benchmarks-2026-10-29",
+          "path": "content/issues/2026-10-29/zh-CN/google-carbon-access-benchmarks-2026-10-29.md",
+          "eventDate": "2026-10-28",
+          "sources": [
+            {
+              "title": "Gemini 4 Carbon: our next frontier model",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+              "footnote": 1,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "5 AI RMF Core",
+              "url": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+              "footnote": 2,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+              "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+              "footnote": 3,
+              "verificationDate": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "translationKey": "maryland-clean-energy-grant-applications-2026-10-29",
+          "path": "content/issues/2026-10-29/zh-CN/maryland-clean-energy-grant-applications-2026-10-29.md",
+          "eventDate": "2026-10-26",
+          "sources": [
+            {
+              "title": "Governor Moore Launches Program to Increase Energy Generation, Lower Electricity Costs",
+              "url": "https://governor.maryland.gov/news/press-releases/governor-moore-launches-program-increase-energy-generation-lower-electricity-costs",
+              "footnote": 1,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "2026 Laws of Maryland — Chapter 353 (HB1532)",
+              "url": "https://mgaleg.maryland.gov/2026rs/Chapters_noln/CH_353_hb1532e.pdf",
+              "footnote": 2,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Funding Opportunity Announcement (FOA) FY27 Megawatts for Maryland",
+              "url": "https://energy.maryland.gov/SiteAssets/Pages/MegawattsForMaryland/FY27%20MEA%20MW4MD%20Funding%20Opportunity%20Announcement%20(FOA)%20-%20Issued%2010.26.26.pdf",
+              "footnote": 3,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Megawatts For Maryland",
+              "url": "https://energy.maryland.gov/Pages/MegawattsForMaryland.aspx",
+              "footnote": 3,
+              "verificationDate": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "translationKey": "microsoft-quarterly-earnings-accounting-2026-10-29",
+          "path": "content/issues/2026-10-29/zh-CN/microsoft-quarterly-earnings-accounting-2026-10-29.md",
+          "eventDate": "2026-10-28",
+          "sources": [
+            {
+              "title": "Microsoft Announces First Quarter Results",
+              "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+              "footnote": 1,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Financial Reporting Manual — Topic 8",
+              "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/financial-reporting-manual/frm-topic-8",
+              "footnote": 2,
+              "verificationDate": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "translationKey": "skhynix-preliminary-results-capacity-2026-10-29",
+          "path": "content/issues/2026-10-29/zh-CN/skhynix-preliminary-results-capacity-2026-10-29.md",
+          "eventDate": "2026-10-28",
+          "sources": [
+            {
+              "title": "SK hynix Announces 3Q26 Financial Results",
+              "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+              "footnote": 1,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "SK hynix (Indiana)",
+              "url": "https://www.nist.gov/chips/sk-hynix-indiana-west-lafayette",
+              "footnote": 2,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "Biden-Harris Administration Announces CHIPS Incentives Award with SK hynix to Advance U.S. Technological Leadership and Expand Capacity of Chips Crucial to the AI Supply Chain",
+              "url": "https://www.nist.gov/news-events/news/2024/12/biden-harris-administration-announces-chips-incentives-award-sk-hynix",
+              "footnote": 3,
+              "verificationDate": "2026-10-29"
+            },
+            {
+              "title": "The Vision for the National Advanced Packaging Manufacturing Program",
+              "url": "https://www.nist.gov/system/files/documents/2023/11/19/NAPMP-Vision-Paper-20231120.pdf",
+              "footnote": 4,
+              "verificationDate": "2026-10-29"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

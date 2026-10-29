@@ -1,0 +1,55 @@
+{
+  "issue": "2026-10-29",
+  "currentState": "Editorial and local validation complete; authorized for direct-main native Git release. This source review is not the separate production acceptance receipt.",
+  "received": {
+    "completeChineseManuscripts": 5,
+    "actualImageUrlRecords": 4,
+    "marylandImageMissing": true
+  },
+  "selected": [
+    "fed-october-rate-hold-dissent-2026-10-29",
+    "google-carbon-access-benchmarks-2026-10-29",
+    "maryland-clean-energy-grant-applications-2026-10-29",
+    "microsoft-quarterly-earnings-accounting-2026-10-29",
+    "skhynix-preliminary-results-capacity-2026-10-29"
+  ],
+  "notSelected": [
+    {
+      "topic": "Alphabet quarterly results",
+      "reason": "Source withheld separate manuscript; no need to duplicate corporate coverage or manufacture a full story."
+    },
+    {
+      "topic": "CXMT production/yields",
+      "reason": "Source withheld manuscript because key anonymous claims lacked primary corroboration; not independently certified or published."
+    },
+    {
+      "topic": "AI-assisted law-firm attacks",
+      "reason": "Source withheld manuscript without original underlying study; not independently certified or published."
+    }
+  ],
+  "factualCorrections": [
+    "Fed vote total is12:10–2, not ten total.",
+    "Carbon limited access is planned, not confirmed started.",
+    "SK preliminary K-IFRS review unfinished; trillionKRW conversion checked; contracts cover total capacity, not onlyHBM.",
+    "Maryland launchOct26; funding ceiling not payments; competitive bid $/MWh-ac uses expected lifetime grid delivery."
+  ],
+  "editorialScope": "Full source manuscripts with necessary bounded factual/rights editing, specific independent official context, and full translations; not expansion of a failed short-brief handoff.",
+  "media": "Five actual rights-checked photographs; no AI; original source assets individually inspected, not assumed unavailable.",
+  "publicationDatePrecision": "Candidate date only; no invented precise first-live timestamp. Actual publication date must be refreshed if later; no RSS noon fallback permitted.",
+  "independentReview": "Independent reviewer oct28_release_qa; exact final manuscript hashes bound in source-use-audit.json.",
+  "oldContent": "475 authoritative main records preserved; October28 is separate unposted25-record recovery batch. Withdrawn records/routes/assets remain withdrawn.",
+  "editorialReview": "PASS: independent full25 content review and bounded refresh validation completed 2026-10-29. Tests, Git approval and production acceptance remain separate gates.",
+  "localAcceptance": {
+    "checkedOn": "2026-10-29",
+    "scope": "Combined uncommitted October28 recovery and October29 batch; not a production receipt",
+    "build": "PASS",
+    "export": "7078 HTML pages /455603 local references PASS",
+    "seo": "525 canonical articles /1400 sitemap URLs PASS",
+    "existing475Records": "Unchanged, exact object comparison",
+    "withdrawn": "Absent from all export routes, assets and text payloads",
+    "productionAcceptance": "Separate live receipt required: same approved main SHA READY, canonical-domain language/image/feed/link/withdrawal and desktop/narrow checks.",
+    "tests": "148/148 PASS; fail0/skipped0; both batches retested together",
+    "lint": "PASS"
+  },
+  "releaseFreshnessReview": "2026-10-29 06:18–06:21 UTC: official Meta/NVIDIA, Microsoft, Google, EPA, SK and MEA sources rechecked; no new supported facts requiring manuscript changes."
+}
