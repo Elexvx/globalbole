@@ -1,0 +1,871 @@
+{
+  "issue": "2026-10-30",
+  "allRealPhotos": true,
+  "aiGeneratedImages": 0,
+  "assets": [
+    {
+      "article": "us-q3-gdp-advance-2026-10-30",
+      "filename": "commerce-hoover-building.jpg",
+      "localPath": "/news-media/2026-10-30/commerce-hoover-building.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Herbert_C._Hoover_Building.jpg/1280px-Herbert_C._Hoover_Building.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "originalCandidateURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Herbert_C._Hoover_Building.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "APK",
+      "date": "2020-08-19",
+      "dateRole": "capture date",
+      "location": "Washington, D.C.",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "adoptionReason": "The BEA release provides statistical charts, not a suitable licensed news photograph. A verified Commerce Department archive building photo identifies the publishing institution without fabricating a 2026 event; an AI recreation of this real institution would be less appropriate. It is not identified as BEA’s present office.",
+      "pixelsInspected": true,
+      "pixelsIdentical": true,
+      "checkedAt": "2026-10-30",
+      "sha256": "5c4614e239c97d04fdc5282c27bd52b4c4adf9e1fd5e4a43b1534a42dbab7d69",
+      "inputSha256": "5c4614e239c97d04fdc5282c27bd52b4c4adf9e1fd5e4a43b1534a42dbab7d69",
+      "byteSize": 385858,
+      "width": 1280,
+      "height": 936,
+      "ICCunchanged": true,
+      "changes": "Nonessential metadata removed where present without pixel alteration; required attribution/license remain in visible captions. Normal proportional delivery derivatives inherit applicable rights.",
+      "caption": "资料图：2020 年 8 月 19 日，美国华盛顿特区。[Herbert C. Hoover Building](https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg)，摄影及版权：APK；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+      "captions": {
+        "zh-CN": "资料图：2020 年 8 月 19 日，美国华盛顿特区。[Herbert C. Hoover Building](https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg)，摄影及版权：APK；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "資料照片：2020 年 8 月 19 日，美國華盛頓特區。[Herbert C. Hoover Building（赫伯特・胡佛大樓）](https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg)，攝影及著作權：APK；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "en": "Archival photograph: August 19, 2020, Washington, D.C., United States. [Herbert C. Hoover Building](https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg). Photograph and copyright: APK; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Архивная фотография: 19 августа 2020 года, Вашингтон, округ Колумбия, США. [Herbert C. Hoover Building](https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg), фотография и авторские права: APK; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Archives : 19 août 2020, Washington, D.C., États-Unis. [Herbert C. Hoover Building](https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg). Photographie et droits d’auteur : APK ; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "美国商务部大楼的资料照片。",
+        "zh-TW": "美國商務部大樓的資料照片。",
+        "en": "Archival photograph of the U.S. Department of Commerce building.",
+        "ru": "Архивная фотография здания Министерства торговли США.",
+        "fr": "Photographie d’archives du bâtiment du département américain du Commerce."
+      },
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "GPS": false,
+        "contactInformation": false,
+        "originalPixelsUnchanged": true,
+        "ICCpreserved": true
+      },
+      "derivatives": {
+        "fullFrame": true,
+        "visualReview": "PASS: complete frame, equipment/building/produce detail retained at the largest useful display size; not evidence of 2026 events.",
+        "webpQuality": 76,
+        "avifQuality": 65,
+        "variants": [
+          {
+            "src": "/optimized-assets/commerce-hoover-building-b5dd266c4862-160.webp",
+            "width": 160,
+            "bytes": 4528,
+            "sha256": "6d285672ef28d098c2f3ce62a833a71318150186e6ae3383a2beab1f0fa3f041"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-b5dd266c4862-320.webp",
+            "width": 320,
+            "bytes": 15690,
+            "sha256": "d24a509616383f97b669a0dbd9d8980e96a79c396bdb83ce71ef469f9b415dd9"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-b5dd266c4862-480.webp",
+            "width": 480,
+            "bytes": 34300,
+            "sha256": "80894214f2f3b5311bd0adb8134f90cecaa62f4eeffa038a8291be80ecfcc5f8"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-b5dd266c4862-704.webp",
+            "width": 704,
+            "bytes": 72424,
+            "sha256": "b8c5697479bffaf773e382331ec5344646102a040cbd48c3da6b8ceefc18646f"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-b5dd266c4862-832.webp",
+            "width": 832,
+            "bytes": 99388,
+            "sha256": "8ab53fd9afebe173f3bb2035a5a930446fa2a8fffbf8e368559c440048f93fd1"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-b5dd266c4862-960.webp",
+            "width": 960,
+            "bytes": 130056,
+            "sha256": "73e4edb2da2f60ff28ff1bdb3e2e926615e6ce72d42a42caffec4c25ec267301"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-b5dd266c4862-1280.webp",
+            "width": 1280,
+            "bytes": 225294,
+            "sha256": "112debcf57ddfe1fa5ef5d1e546fc8c7ff02b1a499bfe42236245c3c05e20470"
+          }
+        ],
+        "avifVariants": [
+          {
+            "src": "/optimized-assets/commerce-hoover-building-58a30cc228dd-160.avif",
+            "width": 160,
+            "bytes": 4396,
+            "sha256": "e68d041719c66305c4a58beae21f3950f8e6104e34116ac73884220475d8f742"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-58a30cc228dd-320.avif",
+            "width": 320,
+            "bytes": 14488,
+            "sha256": "51911eca77ec77b65f058bc33c231737c1e30b6d3695b81b2ca8c51ee4532d56"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-58a30cc228dd-480.avif",
+            "width": 480,
+            "bytes": 31832,
+            "sha256": "3e94b57307eb2ad69892717551349373fd580b6f1f3823fbb7450a43132f7dd3"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-58a30cc228dd-704.avif",
+            "width": 704,
+            "bytes": 66228,
+            "sha256": "ec81c51e9bc6e61b261c121b8ae502b41d56b88a46561eb0c61e3671a267f14a"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-58a30cc228dd-832.avif",
+            "width": 832,
+            "bytes": 90922,
+            "sha256": "d5dfafa433d292192813da9a87707ce74daf681ebbe15595ff3ade41cbcf401a"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-58a30cc228dd-960.avif",
+            "width": 960,
+            "bytes": 117229,
+            "sha256": "fd628271f8f593e978938f0c4bded605f0a21ea06d0347374cff757599a6c0bf"
+          },
+          {
+            "src": "/optimized-assets/commerce-hoover-building-58a30cc228dd-1280.avif",
+            "width": 1280,
+            "bytes": 203891,
+            "sha256": "58ff985f1afb9600c80e78b69972380bf02f56662f8b0239bc099ea60cd81643"
+          }
+        ],
+        "avifBytes": 528986,
+        "webpBytes": 581680
+      }
+    },
+    {
+      "article": "us-september-income-pce-2026-10-30",
+      "filename": "las-vegas-supermarket.jpg",
+      "localPath": "/news-media/2026-10-30/las-vegas-supermarket.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith's_supermarket_in_Las_Vegas,_Nevada.jpg",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas%2C_Nevada.jpg/3840px-The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas%2C_Nevada.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "originalCandidateURL": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas%2C_Nevada.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith's_supermarket_in_Las_Vegas,_Nevada.jpg",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Harrison Keely",
+      "date": "2023-05-04",
+      "dateRole": "capture date",
+      "location": "Las Vegas, Nevada, USA",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "adoptionReason": "The BEA release provides statistics, not a suitable licensed consumer-scene photograph. A dated real supermarket archive is more appropriate than inventing shoppers or prices; no current price evidence is inferred.",
+      "pixelsInspected": true,
+      "pixelsIdentical": true,
+      "checkedAt": "2026-10-30",
+      "sha256": "4cad414779021fe6011c6c8c27bdfdd7704773ca42e5bfead77b9e613841abdc",
+      "inputSha256": "4cad414779021fe6011c6c8c27bdfdd7704773ca42e5bfead77b9e613841abdc",
+      "byteSize": 2348427,
+      "width": 3840,
+      "height": 2176,
+      "ICCunchanged": true,
+      "changes": "Nonessential metadata removed where present without pixel alteration; required attribution/license remain in visible captions. Normal proportional delivery derivatives inherit applicable rights.",
+      "caption": "资料图：2023 年 5 月 4 日，美国内华达州拉斯维加斯。[The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，摄影及版权：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+      "captions": {
+        "zh-CN": "资料图：2023 年 5 月 4 日，美国内华达州拉斯维加斯。[The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，摄影及版权：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "zh-TW": "資料照片：2023 年 5 月 4 日，美國內華達州拉斯維加斯。[內華達州拉斯維加斯 Smith’s 超市內部](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，攝影及著作權：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "en": "Archival photograph: May 4, 2023, Las Vegas, Nevada, United States. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg). Photograph and copyright: Harrison Keely; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "ru": "Архивная фотография: 4 мая 2023 года, Лас-Вегас, Невада, США. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg), фотография и авторские права: Harrison Keely; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "fr": "Archives : 4 mai 2023, Las Vegas, Nevada, États-Unis. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg). Photographie et droits d’auteur : Harrison Keely ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "拉斯维加斯超市内部的资料照片。",
+        "zh-TW": "拉斯維加斯超市內部的資料照片。",
+        "en": "Archival photograph of the interior of a Las Vegas supermarket.",
+        "ru": "Архивная фотография интерьера супермаркета в Лас-Вегасе.",
+        "fr": "Photographie d’archives de l’intérieur d’un supermarché de Las Vegas."
+      },
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "GPS": false,
+        "contactInformation": false,
+        "originalPixelsUnchanged": true,
+        "ICCpreserved": true
+      },
+      "derivatives": {
+        "fullFrame": true,
+        "visualReview": "PASS: complete frame, equipment/building/produce detail retained at the largest useful display size; not evidence of 2026 events.",
+        "webpQuality": 76,
+        "avifQuality": 61,
+        "variants": [
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-160.webp",
+            "width": 160,
+            "bytes": 4270,
+            "sha256": "3628f6f4061a4c5718b29acc9dabfb28ca6bed0fc93db7cca4a7fcb25cc1a7cb"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-320.webp",
+            "width": 320,
+            "bytes": 13600,
+            "sha256": "2d5c955015003813454abdba56a529c53908aa92f5dcf7432f248c9f778644f2"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-480.webp",
+            "width": 480,
+            "bytes": 27958,
+            "sha256": "c8183eb1ade22eafb0edca4e2e443906a891a1241201139e6249c3054fcec742"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-704.webp",
+            "width": 704,
+            "bytes": 54474,
+            "sha256": "5ac7b7116ed38f358ff89746222dc351faa220b416fa40d073961e761c718c94"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-832.webp",
+            "width": 832,
+            "bytes": 75020,
+            "sha256": "22168dc5a308ee158cadb5264266934c026c60977446d63fd45e50f408e04b2d"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-960.webp",
+            "width": 960,
+            "bytes": 96010,
+            "sha256": "39e5de90785e93690a92ad3448e24bbc3d0f56eaef4e83fd56d7e9fff782499c"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-1280.webp",
+            "width": 1280,
+            "bytes": 158770,
+            "sha256": "814940b0c5619b4e99dfabd469a1d325bf91ad1d12ef43977d35c17ee80963bc"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-3faf031d5466-1920.webp",
+            "width": 1920,
+            "bytes": 348342,
+            "sha256": "ab760ed204e12ac2353dd6bf8ab75fc6273a339905c157c612c9bfbc0f4d4bcc"
+          }
+        ],
+        "avifVariants": [
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-160.avif",
+            "width": 160,
+            "bytes": 4159,
+            "sha256": "f2df872ded982bf51c09f37cd4bd0b74990047853dc0bb2564bb93d659b46e25"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-320.avif",
+            "width": 320,
+            "bytes": 12795,
+            "sha256": "4a57171bb1f6ca2f26a872d44435b51de668927a78a032e884fed6aa02b2180e"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-480.avif",
+            "width": 480,
+            "bytes": 25364,
+            "sha256": "4687cd6a981594b5efbc1ca754f7b01193be8c41cde3290e7fbde191b362e05c"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-704.avif",
+            "width": 704,
+            "bytes": 50224,
+            "sha256": "2e4806b0b74d740f65d9dfccfd270d17ec977e2ad08ad67deeac5eb2f0b20d1c"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-832.avif",
+            "width": 832,
+            "bytes": 68582,
+            "sha256": "bc8388beed137707ee39d445dd4013cc35d83406a23d652248d3c41f4de55c51"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-960.avif",
+            "width": 960,
+            "bytes": 87715,
+            "sha256": "9b7a0d08d4c7b435dee4dc4858830940a41802c4a96b7b0af7d43afa8bee7e60"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-1280.avif",
+            "width": 1280,
+            "bytes": 143372,
+            "sha256": "4d74e33f69b635345d0f7e728bbb01229a1b463c6f702732824bf57c5309450b"
+          },
+          {
+            "src": "/optimized-assets/las-vegas-supermarket-c5cc6a6dfd4f-1920.avif",
+            "width": 1920,
+            "bytes": 312342,
+            "sha256": "99ad539c31a74d09339a0c25e89e6bfc498b4c7494abc4fef6d67af2239be415"
+          }
+        ],
+        "avifBytes": 704553,
+        "webpBytes": 778444
+      }
+    },
+    {
+      "article": "us-2025-consumer-expenditures-2026-10-30",
+      "filename": "manhattan-apartments.jpg",
+      "localPath": "/news-media/2026-10-30/manhattan-apartments.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1104_1010.jpg/3840px-Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1104_1010.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "originalCandidateURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1104_1010.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Jakub Hałun",
+      "date": "2023-10-01",
+      "dateRole": "capture date",
+      "location": "Manhattan, New York City, USA",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "adoptionReason": "The BLS release has text and tables, not a suitable licensed housing photograph. A dated real building archive provides a verifiable housing context; AI-generated homes would add no factual value. This is not a survey household or representative national sample.",
+      "pixelsInspected": true,
+      "pixelsIdentical": true,
+      "checkedAt": "2026-10-30",
+      "sha256": "38f324b85208fcb9e53a5b643ffd1f00ba34b53998ddf72cdb1b792df39b852d",
+      "inputSha256": "dd73da3f18a1dc5d3b50788b4af50bf5cccdc1c34729fb7c61a747fe99bd8d23",
+      "byteSize": 2015141,
+      "width": 3840,
+      "height": 2604,
+      "ICCunchanged": true,
+      "changes": "Nonessential metadata removed where present without pixel alteration; required attribution/license remain in visible captions. Normal proportional delivery derivatives inherit applicable rights.",
+      "caption": "资料图：2023 年 10 月 1 日，美国纽约曼哈顿。[Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg)，摄影及版权：Jakub Hałun；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+      "captions": {
+        "zh-CN": "资料图：2023 年 10 月 1 日，美国纽约曼哈顿。[Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg)，摄影及版权：Jakub Hałun；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "zh-TW": "資料照片：2023 年 10 月 1 日，美國紐約曼哈頓。[紐約市曼哈頓東河岸住宅樓](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg)，攝影及著作權：Jakub Hałun；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "en": "Archival photograph: October 1, 2023, Manhattan, New York, United States. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg). Photograph and copyright: Jakub Hałun; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "ru": "Архивная фотография: 1 октября 2023 года, Манхэттен, Нью-Йорк, США. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg), фотография и авторские права: Jakub Hałun; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "fr": "Archives : 1er octobre 2023, Manhattan, New York, États-Unis. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg). Photographie et droits d’auteur : Jakub Hałun ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "纽约曼哈顿东河岸住宅楼的资料照片。",
+        "zh-TW": "紐約曼哈頓東河岸住宅樓的資料照片。",
+        "en": "Archival photograph of apartment buildings along the East River in Manhattan, New York.",
+        "ru": "Архивная фотография жилых домов на берегу Ист-Ривер в Манхэттене, Нью-Йорк.",
+        "fr": "Photographie d’archives d’immeubles résidentiels au bord de l’East River, à Manhattan, New York."
+      },
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "GPS": false,
+        "contactInformation": false,
+        "originalPixelsUnchanged": true,
+        "ICCpreserved": true
+      },
+      "derivatives": {
+        "fullFrame": true,
+        "visualReview": "PASS: complete frame, equipment/building/produce detail retained at the largest useful display size; not evidence of 2026 events.",
+        "webpQuality": 76,
+        "avifQuality": 63,
+        "variants": [
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-160.webp",
+            "width": 160,
+            "bytes": 3270,
+            "sha256": "7e86c1615f609841483434b5144271812b1b82530069b27907fde6dccee0de83"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-320.webp",
+            "width": 320,
+            "bytes": 11606,
+            "sha256": "d19303b17e78e0ee8040a1741e5bac9241b7731dc0fc4182aa932c16b3f5f186"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-480.webp",
+            "width": 480,
+            "bytes": 25914,
+            "sha256": "d8b6e29f8622dbcb6a320d7c18c904f761a7f3057e7233670220e7bc0f105ef2"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-704.webp",
+            "width": 704,
+            "bytes": 50972,
+            "sha256": "4258be685418c7c75d40a9704e3d60e430596dbabf39805d76fbcfd7e59d428f"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-832.webp",
+            "width": 832,
+            "bytes": 71702,
+            "sha256": "6a1a024accf8b87d333aef2607b744c4a861d624552256d2995c70df100c36e4"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-960.webp",
+            "width": 960,
+            "bytes": 92312,
+            "sha256": "607bda8c3713a0180aba49e646da7a391eb2b1b18f6fd465fc554c1e102354f8"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-1280.webp",
+            "width": 1280,
+            "bytes": 154210,
+            "sha256": "03b93215ad5db2a9d86a883325ea03bd775daf55cefd1d5fe55cc1a42a6f90d4"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-b3a5774ad85b-1920.webp",
+            "width": 1920,
+            "bytes": 326206,
+            "sha256": "4761624083155d0f4a63d63cfb7372a4962ebe7f9e1b7b2613718f41cc3e4c72"
+          }
+        ],
+        "avifVariants": [
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-160.avif",
+            "width": 160,
+            "bytes": 3713,
+            "sha256": "dfe15c81511b5a1baf123493988406b48e1cdf11960a16048195c995eebc59cd"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-320.avif",
+            "width": 320,
+            "bytes": 11062,
+            "sha256": "4a8a7e12e735877d2150b3e44571ef33a20daf3adb014c91e5a63dc33fbf7516"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-480.avif",
+            "width": 480,
+            "bytes": 24294,
+            "sha256": "5fa8ed73fff8987fca6b691f5aecad3cfe900f60c1640c76926b445c6270c9ac"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-704.avif",
+            "width": 704,
+            "bytes": 46613,
+            "sha256": "bb85585e251224f81483c56d9b5ad2b434363fbb0b5796e44aa40bb1cfa6fdd4"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-832.avif",
+            "width": 832,
+            "bytes": 64346,
+            "sha256": "8a84bc2bb367fd81a2680108b5c9d653b591c6309630064ad43c49a2b55f8ce1"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-960.avif",
+            "width": 960,
+            "bytes": 82395,
+            "sha256": "66fda9fe6ee55c29a851f2dede85abc29bb1b450491b33e0a0a6309ed3c25fe0"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-1280.avif",
+            "width": 1280,
+            "bytes": 136768,
+            "sha256": "9c43320078865cc1235d0f67792d71031f4dabce768289fd2ff8d1ba5d61c012"
+          },
+          {
+            "src": "/optimized-assets/manhattan-apartments-787df6163862-1920.avif",
+            "width": 1920,
+            "bytes": 289033,
+            "sha256": "83bf0ffa2f8ba0a9fa4be687319e0d2ad6a8afc0dcf593cd0f9edc3fc31d97ec"
+          }
+        ],
+        "avifBytes": 658224,
+        "webpBytes": 736192
+      }
+    },
+    {
+      "article": "mistral-large4-open-weights-2026-10-30",
+      "filename": "nersc-server-rack.jpg",
+      "localPath": "/news-media/2026-10-30/nersc-server-rack.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Rear_of_rack_at_NERSC_data_center_-_closeup.jpg/960px-Rear_of_rack_at_NERSC_data_center_-_closeup.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "originalCandidateURL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/dcoetzee/6271241131/",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Chiara Coetzee",
+      "date": "2011-10-14",
+      "dateRole": "capture date",
+      "location": "NERSC data center",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "adoptionReason": "Mistral marketing hero exists but no applicable image reuse grant was established; model-documentation permission does not extend automatically to marketing images. A verified dated real NERSC rack is more appropriate than fabricated model-specific hardware. Explicitly not Mistral facilities or its current deployment.",
+      "pixelsInspected": true,
+      "pixelsIdentical": true,
+      "checkedAt": "2026-10-30",
+      "sha256": "6f5d7467ab472753a74fe9546057fc32093d498bc87d95474c507a85b209b2a8",
+      "inputSha256": "4438a8e4b2163b25d08be76c5cff7607c577d10db9ba8fa5075b394d998a2dab",
+      "byteSize": 433412,
+      "width": 960,
+      "height": 1445,
+      "ICCunchanged": true,
+      "changes": "Nonessential metadata removed where present without pixel alteration; required attribution/license remain in visible captions. Normal proportional delivery derivatives inherit applicable rights.",
+      "caption": "资料图：2011 年 10 月 14 日，NERSC 数据中心。[Rear of rack at NERSC data center - closeup](https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg)，摄影：[Chiara Coetzee](https://www.flickr.com/photos/dcoetzee/6271241131/)；[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+      "captions": {
+        "zh-CN": "资料图：2011 年 10 月 14 日，NERSC 数据中心。[Rear of rack at NERSC data center - closeup](https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg)，摄影：[Chiara Coetzee](https://www.flickr.com/photos/dcoetzee/6271241131/)；[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "zh-TW": "資料照片：2011 年 10 月 14 日，NERSC 資料中心。[NERSC 資料中心機架背面近照](https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg)，攝影：[Chiara Coetzee](https://www.flickr.com/photos/dcoetzee/6271241131/)；[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "en": "Archival photograph: October 14, 2011, NERSC data center. [Rear of rack at NERSC data center - closeup](https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg). Photograph: [Chiara Coetzee](https://www.flickr.com/photos/dcoetzee/6271241131/); [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "ru": "Архивная фотография: 14 октября 2011 года, дата-центр NERSC. [Rear of rack at NERSC data center - closeup](https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg), фотография: [Chiara Coetzee](https://www.flickr.com/photos/dcoetzee/6271241131/); [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "fr": "Archives : 14 octobre 2011, centre de données NERSC. [Rear of rack at NERSC data center - closeup](https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg). Photographie : [Chiara Coetzee](https://www.flickr.com/photos/dcoetzee/6271241131/) ; [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "NERSC 数据中心机架背面的资料照片，不是 Mistral 设施。",
+        "zh-TW": "NERSC 資料中心機架背面的資料照片，並非 Mistral 設施。",
+        "en": "Archival photograph of the rear of a rack at the NERSC data center, not a Mistral facility.",
+        "ru": "Архивная фотография задней стороны стойки в дата-центре NERSC; это не объект Mistral.",
+        "fr": "Photographie d’archives de l’arrière d’une baie du centre de données NERSC, et non d’une installation de Mistral."
+      },
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "GPS": false,
+        "contactInformation": false,
+        "originalPixelsUnchanged": true,
+        "ICCpreserved": true
+      },
+      "derivatives": {
+        "fullFrame": true,
+        "visualReview": "PASS: complete frame, equipment/building/produce detail retained at the largest useful display size; not evidence of 2026 events.",
+        "webpQuality": 76,
+        "avifQuality": 65,
+        "variants": [
+          {
+            "src": "/optimized-assets/nersc-server-rack-960ad998702c-160.webp",
+            "width": 160,
+            "bytes": 9822,
+            "sha256": "c7271af2480f5e3c738204bf865071a3490ed8b567f72223a31184f6fbe1df71"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-960ad998702c-320.webp",
+            "width": 320,
+            "bytes": 30806,
+            "sha256": "3cfb2b3c1cbc1f59b77e3e2adb73563ac9c59d73ae01fccf7dcadfc4a185d82b"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-960ad998702c-480.webp",
+            "width": 480,
+            "bytes": 59082,
+            "sha256": "a072adea7b94af81a5718b7cc951261da89493c6677915f68dcb036b81d7e912"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-960ad998702c-704.webp",
+            "width": 704,
+            "bytes": 114508,
+            "sha256": "e09f9d2a5de57bba94a2c1822d57e4df2e0e9067e08fdffa137a1c577a28bedf"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-960ad998702c-832.webp",
+            "width": 832,
+            "bytes": 159432,
+            "sha256": "14002edb5d67a2790494e35ef1fb0abc20c92e2ddf47a9803b5b038e835aa35f"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-960ad998702c-960.webp",
+            "width": 960,
+            "bytes": 236232,
+            "sha256": "cfd933c19eec80d2accebadd0d0a54aa035adc81eedd55829b19079e25bcfb17"
+          }
+        ],
+        "avifVariants": [
+          {
+            "src": "/optimized-assets/nersc-server-rack-1a95c245c4ca-160.avif",
+            "width": 160,
+            "bytes": 8502,
+            "sha256": "2e859ce8134068272a95b50af18e9e9bce60dcff98bd172efdeb1dd412f676ec"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-1a95c245c4ca-320.avif",
+            "width": 320,
+            "bytes": 25621,
+            "sha256": "8044fe2c307d533d0773bfac777e5a784a93fe5457182d71bb86632b31e7ed56"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-1a95c245c4ca-480.avif",
+            "width": 480,
+            "bytes": 49977,
+            "sha256": "6a2bc4ec662eb169a1b75fdbd79d006eb9e6afbd57cc31f85dedf7a8f62f5198"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-1a95c245c4ca-704.avif",
+            "width": 704,
+            "bytes": 103039,
+            "sha256": "dcbbe1cd866b867b289cb3e1e2c37eeb4eecdd52fac29d67aa9f6b094302a0e3"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-1a95c245c4ca-832.avif",
+            "width": 832,
+            "bytes": 144377,
+            "sha256": "357731a5321362c3ee89e2762ee49e457b21e6261b9f6f01b5b01b824691d006"
+          },
+          {
+            "src": "/optimized-assets/nersc-server-rack-1a95c245c4ca-960.avif",
+            "width": 960,
+            "bytes": 220570,
+            "sha256": "872e62c00d8e9196af5f97c0306d5c59c20e527c5b5c1eb79532408b31cc5927"
+          }
+        ],
+        "avifBytes": 552086,
+        "webpBytes": 609882
+      }
+    },
+    {
+      "article": "us-battery-strategy-battman-2026-10-30",
+      "filename": "argonne-electrode-winding.jpg",
+      "localPath": "/news-media/2026-10-30/argonne-electrode-winding.jpg",
+      "sourcePageURL": "https://www.flickr.com/photos/departmentofenergy/9404258514/",
+      "sourceURL": "https://live.staticflickr.com/3738/9404258514_e4f426445a_b.jpg",
+      "originalCandidateURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/U.S._Department_of_Energy_-_Science_-_389_029_001_%289404258514%29.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/departmentofenergy/9404258514/",
+      "license": "United States government work",
+      "licenseURL": "https://www.usa.gov/government-copyright",
+      "author": "Wes Agresta / Argonne National Laboratory",
+      "date": "2011-07-15",
+      "dateRole": "capture date",
+      "location": "Argonne National Laboratory",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "adoptionReason": "The two DOE announcement bodies contain no story photo; the strategy PDF header photo lacks individually verified rights. These specific DOE-published archive works have explicit government-work declarations, corroborated by Commons review. Their real electrode-processing and X-ray-research scenes convey complementary manufacturing/research context without AI-fabricating a new BattMan event. Argonne’s general permission-contact profile was reviewed and did not revoke either specific declaration.",
+      "pixelsInspected": true,
+      "pixelsIdentical": true,
+      "checkedAt": "2026-10-30",
+      "sha256": "989ec0cf824c2c084f370915ac02c9d64007b2131061ed31863e75c4e2b836ae",
+      "inputSha256": "f4aa141de6c3355bf21d5006e7ef3727140910c0dc090fd184ecd7a2cf171014",
+      "byteSize": 203013,
+      "width": 1024,
+      "height": 680,
+      "ICCunchanged": true,
+      "changes": "Nonessential metadata removed where present without pixel alteration; required attribution/license remain in visible captions. Normal proportional delivery derivatives inherit applicable rights.",
+      "caption": "资料图：2011 年 7 月 15 日，阿贡国家实验室电极卷绕实验。摄影：Wes Agresta / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258514/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。",
+      "captions": {
+        "zh-CN": "资料图：2011 年 7 月 15 日，阿贡国家实验室电极卷绕实验。摄影：Wes Agresta / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258514/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。",
+        "zh-TW": "資料照片：2011 年 7 月 15 日，阿岡國家實驗室電極捲繞實驗。攝影：Wes Agresta / Argonne National Laboratory；由[美國能源部發布](https://www.flickr.com/photos/departmentofenergy/9404258514/)，該作品頁標示為[美國政府作品](https://www.usa.gov/government-copyright)。",
+        "en": "Archival photograph: July 15, 2011, an electrode-winding experiment at Argonne National Laboratory. Photograph: Wes Agresta / Argonne National Laboratory; [published by the U.S. Department of Energy](https://www.flickr.com/photos/departmentofenergy/9404258514/), with the individual asset page marked as a [U.S. government work](https://www.usa.gov/government-copyright).",
+        "ru": "Архивная фотография: 15 июля 2011 года, эксперимент по намотке электродов в Аргоннской национальной лаборатории. Фотография: Wes Agresta / Argonne National Laboratory; [опубликовано Министерством энергетики США](https://www.flickr.com/photos/departmentofenergy/9404258514/), на странице работы указано, что это [произведение правительства США](https://www.usa.gov/government-copyright).",
+        "fr": "Archives : 15 juillet 2011, travail expérimental d’enroulement d’électrodes au laboratoire national d’Argonne. Photographie : Wes Agresta / Argonne National Laboratory ; [publication du département américain de l’Énergie](https://www.flickr.com/photos/departmentofenergy/9404258514/), dont la page propre à l’image la désigne comme une [œuvre du gouvernement des États-Unis](https://www.usa.gov/government-copyright)."
+      },
+      "coverAlt": {
+        "zh-CN": "阿贡国家实验室电极卷绕实验的资料照片。",
+        "zh-TW": "阿岡國家實驗室電極捲繞實驗的資料照片。",
+        "en": "Archival photograph of an electrode-winding experiment at Argonne National Laboratory.",
+        "ru": "Архивная фотография эксперимента по намотке электродов в Аргоннской национальной лаборатории.",
+        "fr": "Photographie d’archives d’un travail expérimental d’enroulement d’électrodes au laboratoire national d’Argonne."
+      },
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "GPS": false,
+        "contactInformation": false,
+        "originalPixelsUnchanged": true,
+        "ICCpreserved": true
+      },
+      "derivatives": {
+        "fullFrame": true,
+        "visualReview": "PASS: complete frame, equipment/building/produce detail retained at the largest useful display size; not evidence of 2026 events.",
+        "webpQuality": 76,
+        "avifQuality": 65,
+        "variants": [
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-d56e48d573f4-160.webp",
+            "width": 160,
+            "bytes": 4580,
+            "sha256": "4c047c79df9e0ce6e6ff9449f5c3e945f9edd7691af096078ec5a1755b878ffa"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-d56e48d573f4-320.webp",
+            "width": 320,
+            "bytes": 12754,
+            "sha256": "3e7133534b1052fa6d94ccbf0fcfe522af326aaea0e47033cf49b16a5634f914"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-d56e48d573f4-480.webp",
+            "width": 480,
+            "bytes": 23020,
+            "sha256": "6ee0267fa807913564e2f912d06e16ea1d669adda2622ac229871269fe2a57bf"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-d56e48d573f4-704.webp",
+            "width": 704,
+            "bytes": 40312,
+            "sha256": "5bbb2f5637a63bb33b5bb11c74eb5d6db23017f4e8a18c8929fa608a57ab600c"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-d56e48d573f4-832.webp",
+            "width": 832,
+            "bytes": 50562,
+            "sha256": "7c2f004026dcb6cc865f775b2d077cb8f9cd1453fe90ff2d45bfa04f55940250"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-d56e48d573f4-960.webp",
+            "width": 960,
+            "bytes": 61358,
+            "sha256": "8adc4dc86ed616fece19236efe1c763501fc73faa4d68e75c684b026fe2dbb4d"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-d56e48d573f4-1024.webp",
+            "width": 1024,
+            "bytes": 70464,
+            "sha256": "2ce2d0abcbd5de1accb1fb1be5080e4d25f59d1fbee8cad30504093333068fd9"
+          }
+        ],
+        "avifVariants": [
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-e9b48154b5e7-160.avif",
+            "width": 160,
+            "bytes": 4326,
+            "sha256": "7a65b1bc4553ab7cbb091a40c0d2086815f1890e0d81f6f5509e6d7100359ed2"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-e9b48154b5e7-320.avif",
+            "width": 320,
+            "bytes": 11972,
+            "sha256": "aefd421a37e8fd37e995fc1313d78f4d6c428eed7aed31a3286c7e0906911865"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-e9b48154b5e7-480.avif",
+            "width": 480,
+            "bytes": 21974,
+            "sha256": "855c15892dd88502fe1592324887f310ec73a4fe813e9b53d101d8c5f776773a"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-e9b48154b5e7-704.avif",
+            "width": 704,
+            "bytes": 39159,
+            "sha256": "53ed0bce158e25f106394202b82426c97c41c85c322f0a2ef804aef878a06c8d"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-e9b48154b5e7-832.avif",
+            "width": 832,
+            "bytes": 49895,
+            "sha256": "73b6e083c1d5155fe69aae52e68c7363ca58906408341d49307587bbf76b504d"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-e9b48154b5e7-960.avif",
+            "width": 960,
+            "bytes": 61384,
+            "sha256": "2763b72b3e8ad340ff7aecd51df7e591237d8de19b146440c6e5e022c58fa9e8"
+          },
+          {
+            "src": "/optimized-assets/argonne-electrode-winding-e9b48154b5e7-1024.avif",
+            "width": 1024,
+            "bytes": 72953,
+            "sha256": "d85f3d56ae650a2d214cd64900d96da79364287ee9cea97be6c2b41d1ec76e25"
+          }
+        ],
+        "avifBytes": 261663,
+        "webpBytes": 263050
+      }
+    },
+    {
+      "article": "us-battery-strategy-battman-2026-10-30",
+      "filename": "argonne-battery-xray.jpg",
+      "localPath": "/news-media/2026-10-30/argonne-battery-xray.jpg",
+      "sourcePageURL": "https://www.flickr.com/photos/departmentofenergy/9404258684/",
+      "sourceURL": "https://live.staticflickr.com/7316/9404258684_c5aaa0cc62_b.jpg",
+      "originalCandidateURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/U.S._Department_of_Energy_-_Science_-_389_030_001_%289404258684%29.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/departmentofenergy/9404258684/",
+      "license": "United States government work",
+      "licenseURL": "https://www.usa.gov/government-copyright",
+      "author": "Geo Joch / Argonne National Laboratory",
+      "date": "2010-08-31",
+      "dateRole": "capture date",
+      "location": "Argonne National Laboratory",
+      "kind": "cleared_archival_photo",
+      "eventEvidence": false,
+      "adoptionReason": "The two DOE announcement bodies contain no story photo; the strategy PDF header photo lacks individually verified rights. These specific DOE-published archive works have explicit government-work declarations, corroborated by Commons review. Their real electrode-processing and X-ray-research scenes convey complementary manufacturing/research context without AI-fabricating a new BattMan event. Argonne’s general permission-contact profile was reviewed and did not revoke either specific declaration.",
+      "pixelsInspected": true,
+      "pixelsIdentical": true,
+      "checkedAt": "2026-10-30",
+      "sha256": "9fc95b5503fdf212a89344f55749650381f7bed09b0baaacf0b4f51e0511fbaf",
+      "inputSha256": "0150235afa4bcd6cbc7b6fa146e521e1a8f910f747d5cc88a8282a1ae25a7f22",
+      "byteSize": 268908,
+      "width": 680,
+      "height": 1024,
+      "ICCunchanged": true,
+      "changes": "Nonessential metadata removed where present without pixel alteration; required attribution/license remain in visible captions. Normal proportional delivery derivatives inherit applicable rights.",
+      "caption": "资料图：2010 年 8 月 31 日，阿贡国家实验室先进光子源电池研究实验。摄影：Geo Joch / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258684/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。",
+      "captions": {
+        "zh-CN": "资料图：2010 年 8 月 31 日，阿贡国家实验室先进光子源电池研究实验。摄影：Geo Joch / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258684/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。",
+        "zh-TW": "資料照片：2010 年 8 月 31 日，阿岡國家實驗室先進光子源電池研究實驗。攝影：Geo Joch / Argonne National Laboratory；由[美國能源部發布](https://www.flickr.com/photos/departmentofenergy/9404258684/)，該作品頁標示為[美國政府作品](https://www.usa.gov/government-copyright)。",
+        "en": "Archival photograph: August 31, 2010, a battery research experiment at Argonne National Laboratory's Advanced Photon Source. Photograph: Geo Joch / Argonne National Laboratory; [published by the U.S. Department of Energy](https://www.flickr.com/photos/departmentofenergy/9404258684/), with the individual asset page marked as a [U.S. government work](https://www.usa.gov/government-copyright).",
+        "ru": "Архивная фотография: 31 августа 2010 года, эксперимент по исследованию батарей на источнике Advanced Photon Source Аргоннской национальной лаборатории. Фотография: Geo Joch / Argonne National Laboratory; [опубликовано Министерством энергетики США](https://www.flickr.com/photos/departmentofenergy/9404258684/), на странице работы указано, что это [произведение правительства США](https://www.usa.gov/government-copyright).",
+        "fr": "Archives : 31 août 2010, expérience de recherche sur les batteries à l’Advanced Photon Source du laboratoire national d’Argonne. Photographie : Geo Joch / Argonne National Laboratory ; [publication du département américain de l’Énergie](https://www.flickr.com/photos/departmentofenergy/9404258684/), dont la page propre à l’image la désigne comme une [œuvre du gouvernement des États-Unis](https://www.usa.gov/government-copyright)."
+      },
+      "coverAlt": {
+        "zh-CN": "阿贡国家实验室先进光子源电池研究实验的资料照片。",
+        "zh-TW": "阿岡國家實驗室先進光子源電池研究實驗的資料照片。",
+        "en": "Archival photograph of a battery research experiment at Argonne National Laboratory's Advanced Photon Source.",
+        "ru": "Архивная фотография эксперимента по исследованию батарей на источнике Advanced Photon Source Аргоннской национальной лаборатории.",
+        "fr": "Photographie d’archives d’une expérience de recherche sur les batteries à l’Advanced Photon Source du laboratoire national d’Argonne."
+      },
+      "privacySanitization": {
+        "EXIF": false,
+        "IPTC": false,
+        "XMP": false,
+        "GPS": false,
+        "contactInformation": false,
+        "originalPixelsUnchanged": true,
+        "ICCpreserved": true
+      },
+      "derivatives": {
+        "fullFrame": true,
+        "visualReview": "PASS: complete frame, equipment/building/produce detail retained at the largest useful display size; not evidence of 2026 events.",
+        "webpQuality": 76,
+        "avifQuality": 65,
+        "variants": [
+          {
+            "src": "/optimized-assets/argonne-battery-xray-b9f0402d240c-160.webp",
+            "width": 160,
+            "bytes": 10810,
+            "sha256": "bc6b8f43349aa7b9957791434315e4cfc5c3da3150a4c695720365b7ec2f8822"
+          },
+          {
+            "src": "/optimized-assets/argonne-battery-xray-b9f0402d240c-320.webp",
+            "width": 320,
+            "bytes": 35438,
+            "sha256": "a168f1df707588428cdae225b243683b64abb52cd33422650d937484e20f94eb"
+          },
+          {
+            "src": "/optimized-assets/argonne-battery-xray-b9f0402d240c-480.webp",
+            "width": 480,
+            "bytes": 67016,
+            "sha256": "b15adf966069ba48cdf4550e212c654c29a7ceb700ae650e423e0a989df06055"
+          },
+          {
+            "src": "/optimized-assets/argonne-battery-xray-b9f0402d240c-680.webp",
+            "width": 680,
+            "bytes": 112984,
+            "sha256": "4853fae3d0e2c57afb46a31ca60880077dc7c899eeda882498d22900c7c63452"
+          }
+        ],
+        "avifVariants": [
+          {
+            "src": "/optimized-assets/argonne-battery-xray-d3607f62bdd4-160.avif",
+            "width": 160,
+            "bytes": 10702,
+            "sha256": "8e7f22b88ce1658fcd506ebefea5fd809f82c8132b40809821c10c211f30af89"
+          },
+          {
+            "src": "/optimized-assets/argonne-battery-xray-d3607f62bdd4-320.avif",
+            "width": 320,
+            "bytes": 34039,
+            "sha256": "e27c5386335623758e3ee9eec2b2bc62180065f208dc1932d8a282bd05969253"
+          },
+          {
+            "src": "/optimized-assets/argonne-battery-xray-d3607f62bdd4-480.avif",
+            "width": 480,
+            "bytes": 64721,
+            "sha256": "4bfa6621f1837eed42920b30fd0496b01c11dedf01348613bdc0c89158f22545"
+          },
+          {
+            "src": "/optimized-assets/argonne-battery-xray-d3607f62bdd4-680.avif",
+            "width": 680,
+            "bytes": 115017,
+            "sha256": "0782e42b4383f227df34f892fd7ff49452112a8e804be3ed909706f6d73609a6"
+          }
+        ],
+        "avifBytes": 224479,
+        "webpBytes": 226248
+      }
+    }
+  ]
+}

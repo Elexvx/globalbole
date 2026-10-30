@@ -1,0 +1,100 @@
+{
+  "issue": "2026-10-30",
+  "assets": [
+    {
+      "id": "M1",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Herbert_C._Hoover_Building.jpg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg",
+      "adoptedPublisherVersionURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Herbert_C._Hoover_Building.jpg/1280px-Herbert_C._Hoover_Building.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg",
+      "license": "CC BY-SA 4.0",
+      "decision": "adopt",
+      "reason": "The BEA release provides statistical charts, not a suitable licensed news photograph. A verified Commerce Department archive building photo identifies the publishing institution without fabricating a 2026 event; an AI recreation of this real institution would be less appropriate. It is not identified as BEA’s present office.",
+      "archiveDate": "2020-08-19",
+      "sourceClaimOriginalHTTP200": "Source handoff claim only; not used as publisher verification.",
+      "publisherVerification": "Actual publisher version obtained and visually checked; original default-client 403 is retained as an access-policy event, not a copyright rejection.",
+      "originalAssetPage": "https://commons.wikimedia.org/wiki/File:Herbert_C._Hoover_Building.jpg"
+    },
+    {
+      "id": "M2",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas%2C_Nevada.jpg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith's_supermarket_in_Las_Vegas,_Nevada.jpg",
+      "adoptedPublisherVersionURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas%2C_Nevada.jpg/3840px-The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas%2C_Nevada.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith's_supermarket_in_Las_Vegas,_Nevada.jpg",
+      "license": "CC BY 4.0",
+      "decision": "adopt",
+      "reason": "The BEA release provides statistics, not a suitable licensed consumer-scene photograph. A dated real supermarket archive is more appropriate than inventing shoppers or prices; no current price evidence is inferred.",
+      "archiveDate": "2023-05-04",
+      "sourceClaimOriginalHTTP200": "Source handoff claim only; not used as publisher verification.",
+      "publisherVerification": "Actual publisher version obtained and visually checked; original default-client 403 is retained as an access-policy event, not a copyright rejection.",
+      "originalAssetPage": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith's_supermarket_in_Las_Vegas,_Nevada.jpg"
+    },
+    {
+      "id": "M3",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1104_1010.jpg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg",
+      "adoptedPublisherVersionURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1104_1010.jpg/3840px-Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1104_1010.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg",
+      "license": "CC BY 4.0",
+      "decision": "adopt",
+      "reason": "The BLS release has text and tables, not a suitable licensed housing photograph. A dated real building archive provides a verifiable housing context; AI-generated homes would add no factual value. This is not a survey household or representative national sample.",
+      "archiveDate": "2023-10-01",
+      "sourceClaimOriginalHTTP200": "Source handoff claim only; not used as publisher verification.",
+      "publisherVerification": "Actual publisher version obtained and visually checked; original default-client 403 is retained as an access-policy event, not a copyright rejection.",
+      "originalAssetPage": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg"
+    },
+    {
+      "id": "M4",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+      "adoptedPublisherVersionURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Rear_of_rack_at_NERSC_data_center_-_closeup.jpg/960px-Rear_of_rack_at_NERSC_data_center_-_closeup.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/dcoetzee/6271241131/",
+      "license": "CC0 1.0",
+      "decision": "adopt",
+      "reason": "Mistral marketing hero exists but no applicable image reuse grant was established; model-documentation permission does not extend automatically to marketing images. A verified dated real NERSC rack is more appropriate than fabricated model-specific hardware. Explicitly not Mistral facilities or its current deployment.",
+      "archiveDate": "2011-10-14",
+      "sourceClaimOriginalHTTP200": "Source handoff claim only; not used as publisher verification.",
+      "publisherVerification": "Actual publisher version obtained and visually checked; original default-client 403 is retained as an access-policy event, not a copyright rejection.",
+      "originalAssetPage": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg"
+    },
+    {
+      "id": "M5",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_WHO_Headquarters%2C_Geneva%2C_Switzerland.jpg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:The_WHO_Headquarters,_Geneva,_Switzerland.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:The_WHO_Headquarters,_Geneva,_Switzerland.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Yuval Baer",
+      "decision": "not-adopted",
+      "reason": "WHO article held for cumulative five-language text-source budget; no adverse photo-rights finding. Asset-page date conflicts with digitization metadata; actual original/thumbnail returned client-policy 403, so no pixels were claimed reviewed. No additional request made after article hold.",
+      "originalAssetPage": "https://commons.wikimedia.org/wiki/File:The_WHO_Headquarters,_Geneva,_Switzerland.jpg"
+    },
+    {
+      "id": "M6",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/U.S._Department_of_Energy_-_Science_-_389_029_001_%289404258514%29.jpg",
+      "assetPage": "https://www.flickr.com/photos/departmentofenergy/9404258514/",
+      "adoptedPublisherVersionURL": "https://live.staticflickr.com/3738/9404258514_e4f426445a_b.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/departmentofenergy/9404258514/",
+      "license": "United States government work",
+      "decision": "adopt",
+      "reason": "The two DOE announcement bodies contain no story photo; the strategy PDF header photo lacks individually verified rights. These specific DOE-published archive works have explicit government-work declarations, corroborated by Commons review. Their real electrode-processing and X-ray-research scenes convey complementary manufacturing/research context without AI-fabricating a new BattMan event. Argonne’s general permission-contact profile was reviewed and did not revoke either specific declaration.",
+      "archiveDate": "2011-07-15",
+      "sourceClaimOriginalHTTP200": "Source handoff claim only; not used as publisher verification.",
+      "publisherVerification": "Actual publisher version obtained and visually checked; original default-client 403 is retained as an access-policy event, not a copyright rejection.",
+      "originalAssetPage": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_389_029_001_(9404258514).jpg"
+    },
+    {
+      "id": "M7",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/U.S._Department_of_Energy_-_Science_-_389_030_001_%289404258684%29.jpg",
+      "assetPage": "https://www.flickr.com/photos/departmentofenergy/9404258684/",
+      "adoptedPublisherVersionURL": "https://live.staticflickr.com/7316/9404258684_c5aaa0cc62_b.jpg",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/departmentofenergy/9404258684/",
+      "license": "United States government work",
+      "decision": "adopt",
+      "reason": "The two DOE announcement bodies contain no story photo; the strategy PDF header photo lacks individually verified rights. These specific DOE-published archive works have explicit government-work declarations, corroborated by Commons review. Their real electrode-processing and X-ray-research scenes convey complementary manufacturing/research context without AI-fabricating a new BattMan event. Argonne’s general permission-contact profile was reviewed and did not revoke either specific declaration.",
+      "archiveDate": "2010-08-31",
+      "sourceClaimOriginalHTTP200": "Source handoff claim only; not used as publisher verification.",
+      "publisherVerification": "Actual publisher version obtained and visually checked; original default-client 403 is retained as an access-policy event, not a copyright rejection.",
+      "originalAssetPage": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_389_030_001_(9404258684).jpg"
+    }
+  ]
+}

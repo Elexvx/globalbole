@@ -8,6 +8,9 @@ import sharp from "sharp";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // October 30: reviewed full-frame supermarket signs and apartment/building detail.
+  "/news-media/2026-10-30/las-vegas-supermarket.jpg": 61,
+  "/news-media/2026-10-30/manhattan-apartments.jpg": 63,
   // October 29: reviewed product lettering and module detail at full-frame display size.
   "/news-media/2026-10-29/skhynix-ddr5-mrdimm.jpg": 60,
   // October 28: exact-path settings retain archival photo detail within the WebP budget.

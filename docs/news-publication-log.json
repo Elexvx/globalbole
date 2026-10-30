@@ -4706,6 +4706,136 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-30-zh-CN",
+      "issue": "2026-10-30",
+      "publicationDate": "2026-10-30",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication date. No invented original precise timestamp. Deployment and formal-domain acceptance are verified separately.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "mistral-large4-open-weights-2026-10-30",
+          "path": "content/issues/2026-10-30/zh-CN/mistral-large4-open-weights-2026-10-30.md",
+          "eventDate": "2026-10-29",
+          "sources": [
+            {
+              "title": "Mistral Large 4 - Le Chonk",
+              "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/f12dabdc0c1e99e7f7924461a6f308859b05af4d/README.md",
+              "footnote": 1,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+              "url": "https://huggingface.co/blog/mistral-large4",
+              "footnote": 2,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "Introducing Mistral Large 4",
+              "url": "https://mistral.ai/news/mistral-large-4/",
+              "footnote": 3,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "Mistral Ecosystem Open-Weight License",
+              "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/f12dabdc0c1e99e7f7924461a6f308859b05af4d/LICENSE",
+              "footnote": 4,
+              "verificationDate": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-2025-consumer-expenditures-2026-10-30",
+          "path": "content/issues/2026-10-30/zh-CN/us-2025-consumer-expenditures-2026-10-30.md",
+          "eventDate": "2026-10-29",
+          "sources": [
+            {
+              "title": "Consumer Expenditures—2025",
+              "url": "https://www.bls.gov/news.release/cesan.nr0.htm",
+              "footnote": 1,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "2025 Federal Government Shutdown Impact on the Consumer Expenditure Surveys",
+              "url": "https://www.bls.gov/cex/2025-federal-government-shutdown-impact-ce.htm",
+              "footnote": 2,
+              "verificationDate": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-battery-strategy-battman-2026-10-30",
+          "path": "content/issues/2026-10-30/zh-CN/us-battery-strategy-battman-2026-10-30.md",
+          "eventDate": "2026-10-28",
+          "sources": [
+            {
+              "title": "DOE’s Office of Critical Minerals and Energy Innovation Unveils New Strategy and Initiative to Strengthen American Battery Leadership",
+              "url": "https://www.energy.gov/cmei/articles/does-office-critical-minerals-and-energy-innovation-unveils-new-strategy-and",
+              "footnote": 1,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "A National Strategy for American Leadership in Batteries",
+              "url": "https://www.energy.gov/sites/default/files/2026-10/national-strategy-for-american-leadership-in-batteries_102826.pdf",
+              "footnote": 2,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "DOE Launches Battery Manufacturing Accelerator to Strengthen U.S. Competitiveness",
+              "url": "https://www.energy.gov/cmei/ammto/articles/doe-launches-battery-manufacturing-accelerator-strengthen-us-competitiveness",
+              "footnote": 3,
+              "verificationDate": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-q3-gdp-advance-2026-10-30",
+          "path": "content/issues/2026-10-30/zh-CN/us-q3-gdp-advance-2026-10-30.md",
+          "eventDate": "2026-10-29",
+          "sources": [
+            {
+              "title": "GDP (Advance Estimate), 3rd Quarter 2026",
+              "url": "https://www.bea.gov/index.php/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+              "footnote": 1,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "GDP Release: Additional Information",
+              "url": "https://www.bea.gov/news/gdp-release-additional-information",
+              "footnote": 2,
+              "verificationDate": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-september-income-pce-2026-10-30",
+          "path": "content/issues/2026-10-30/zh-CN/us-september-income-pce-2026-10-30.md",
+          "eventDate": "2026-10-29",
+          "sources": [
+            {
+              "title": "Personal Income and Outlays, September 2026",
+              "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+              "footnote": 1,
+              "verificationDate": "2026-10-30"
+            },
+            {
+              "title": "Personal Income and Outlays: Additional Information",
+              "url": "https://www.bea.gov/news/pio-release-additional-information",
+              "footnote": 2,
+              "verificationDate": "2026-10-30"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

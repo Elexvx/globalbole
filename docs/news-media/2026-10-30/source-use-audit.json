@@ -1,0 +1,473 @@
+{
+  "issue": "2026-10-30",
+  "reviewedAt": "2026-10-30T03:15:32.615357+00:00",
+  "status": "PASS",
+  "scope": "Read-only full-text editorial and source-use review, not production acceptance",
+  "manualCoverage": "Every full article in all five languages was actually read. Final bounded headline/source-note/lead fixes reread, all final files pinned below. This is not only structural counting.",
+  "tokenization": "Each Han character counts as one; other Unicode word/number sequences count as one, allowing internal apostrophes or hyphens. Complete visible titles/metadata/source notes counted for any protected-source-derived content. Nonvisible markdown/URLs excluded. No independent per-language reset.",
+  "marketingSourceAccountingScope": "Final marketing-source-derived content is confined to each dated lead clause and corresponding complete visible source note. Titles/deks now describe deployability/control/license from separately read licensed model documentation and original analysis, with no preview-history repeat. All later design/deployment/benchmark/license paragraphs derive from licensed README/LICENSE; interpretations and cautions are editorial analysis. Bibliographic source titles are included each time in the 200-word total. No marketing prose is directly quoted in the body.",
+  "protectedSources": [
+    {
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "limitWords": 200,
+      "wordCount": 113,
+      "remainingWords": 87,
+      "pass": true,
+      "languages": [
+        {
+          "language": "zh-CN",
+          "sha256": "0ddac5113dc785006bb66e09415730dfb3722cec863af82aa84f9f9f35a2b17a",
+          "wordCount": 25
+        },
+        {
+          "language": "zh-TW",
+          "sha256": "cbf640c6895215ebf0ad230264c3d8fa892067da9685e5f7e6d810b96b04d4d1",
+          "wordCount": 27
+        },
+        {
+          "language": "en",
+          "sha256": "840559bfcfc38a0baea5ff8a5338ac31f09eb4b03e69107de14ab368f6a20765",
+          "wordCount": 20
+        },
+        {
+          "language": "fr",
+          "sha256": "0dac78e60493fd25f0cc2fdbf506a254443d62e3e0d13ce9f9ef1d3929734916",
+          "wordCount": 21
+        },
+        {
+          "language": "ru",
+          "sha256": "9a17bb7449ec45a29267d0d4e37bfa4be530c279ee9d76233c82913ba361234a",
+          "wordCount": 20
+        }
+      ],
+      "verbatimBodyQuotationWords": 0,
+      "bibliographicOriginalTitleRepeatedInAllFiveEditions": true,
+      "source": "https://huggingface.co/blog/mistral-large4",
+      "cap": 200,
+      "allocationEstimate": [
+        25,
+        27,
+        20,
+        20,
+        21
+      ],
+      "total": 113,
+      "directQuotation": "Only bibliographic source titles; no marketing body prose quoted."
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "limitWords": 200,
+      "wordCount": 127,
+      "remainingWords": 73,
+      "pass": true,
+      "languages": [
+        {
+          "language": "zh-CN",
+          "sha256": "0ddac5113dc785006bb66e09415730dfb3722cec863af82aa84f9f9f35a2b17a",
+          "wordCount": 28
+        },
+        {
+          "language": "zh-TW",
+          "sha256": "cbf640c6895215ebf0ad230264c3d8fa892067da9685e5f7e6d810b96b04d4d1",
+          "wordCount": 28
+        },
+        {
+          "language": "en",
+          "sha256": "840559bfcfc38a0baea5ff8a5338ac31f09eb4b03e69107de14ab368f6a20765",
+          "wordCount": 23
+        },
+        {
+          "language": "fr",
+          "sha256": "0dac78e60493fd25f0cc2fdbf506a254443d62e3e0d13ce9f9ef1d3929734916",
+          "wordCount": 27
+        },
+        {
+          "language": "ru",
+          "sha256": "9a17bb7449ec45a29267d0d4e37bfa4be530c279ee9d76233c82913ba361234a",
+          "wordCount": 21
+        }
+      ],
+      "verbatimBodyQuotationWords": 0,
+      "bibliographicOriginalTitleRepeatedInAllFiveEditions": true,
+      "source": "https://mistral.ai/news/mistral-large-4/",
+      "cap": 200,
+      "allocationEstimate": [
+        28,
+        28,
+        23,
+        21,
+        27
+      ],
+      "total": 127,
+      "directQuotation": "Only bibliographic source titles; no marketing body prose quoted."
+    }
+  ],
+  "licenseAttachment": {
+    "path": "public/news-sources/2026-10-30/mistral-ecosystem-open-weight-license.txt",
+    "bytes": 2632,
+    "sha256": "d242ebedb53ffd7e26c220e3305665ca47e4e5267fa62ff4cdeb3953b8353c78",
+    "byteIdenticalToUpstream": true,
+    "allFiveEmbeddedNoticesFullOriginal": true
+  },
+  "finalManuscripts": [
+    {
+      "path": "content/issues/2026-10-30/en/mistral-large4-open-weights-2026-10-30.md",
+      "language": "en",
+      "article": "mistral-large4-open-weights-2026-10-30",
+      "bytes": 8961,
+      "sha256": "840559bfcfc38a0baea5ff8a5338ac31f09eb4b03e69107de14ab368f6a20765",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 4,
+      "bodyImageCount": 1,
+      "fullOriginalLicenseVerbatim": true,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/en/us-2025-consumer-expenditures-2026-10-30.md",
+      "language": "en",
+      "article": "us-2025-consumer-expenditures-2026-10-30",
+      "bytes": 4423,
+      "sha256": "520f600bc3a35db3975489ae09fd2b172336adf701ef2ab410334b5cc0947ab5",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/en/us-battery-strategy-battman-2026-10-30.md",
+      "language": "en",
+      "article": "us-battery-strategy-battman-2026-10-30",
+      "bytes": 5612,
+      "sha256": "66b68f3024bbf50911503cf2f404f1dc5b7504bd3138f2574f7cb728c93d1667",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 3,
+      "bodyImageCount": 2,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/en/us-q3-gdp-advance-2026-10-30.md",
+      "language": "en",
+      "article": "us-q3-gdp-advance-2026-10-30",
+      "bytes": 4484,
+      "sha256": "5792a5a48588b77989d0bde1fa031443ecb50fd3f208e7a3e1bf5c1238737ea5",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/en/us-september-income-pce-2026-10-30.md",
+      "language": "en",
+      "article": "us-september-income-pce-2026-10-30",
+      "bytes": 4493,
+      "sha256": "7d5aefbd15b1271d9b50507295276f12ce73ab8e802a895162e2faba6ead8c08",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/fr/mistral-large4-open-weights-2026-10-30.md",
+      "language": "fr",
+      "article": "mistral-large4-open-weights-2026-10-30",
+      "bytes": 10078,
+      "sha256": "0dac78e60493fd25f0cc2fdbf506a254443d62e3e0d13ce9f9ef1d3929734916",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 4,
+      "bodyImageCount": 1,
+      "fullOriginalLicenseVerbatim": true,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/fr/us-2025-consumer-expenditures-2026-10-30.md",
+      "language": "fr",
+      "article": "us-2025-consumer-expenditures-2026-10-30",
+      "bytes": 5321,
+      "sha256": "a30c145ec1b5f7088cb4e77c60e39c10727142e1ac3a8a0e89033709e03c09bd",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/fr/us-battery-strategy-battman-2026-10-30.md",
+      "language": "fr",
+      "article": "us-battery-strategy-battman-2026-10-30",
+      "bytes": 6488,
+      "sha256": "0f221c3ca41c18c854877b6ee088ecb52679f28d9d2617b4c06a5d7efa4d0b38",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 3,
+      "bodyImageCount": 2,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/fr/us-q3-gdp-advance-2026-10-30.md",
+      "language": "fr",
+      "article": "us-q3-gdp-advance-2026-10-30",
+      "bytes": 5078,
+      "sha256": "531bd004a1dc9e82872decde8fade191e6005e7f13361b62e597960c6e883419",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/fr/us-september-income-pce-2026-10-30.md",
+      "language": "fr",
+      "article": "us-september-income-pce-2026-10-30",
+      "bytes": 5011,
+      "sha256": "9d6cd75aed3f2260e271bcb032c971440e958795974a88bd96ed5b7df009d187",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/ru/mistral-large4-open-weights-2026-10-30.md",
+      "language": "ru",
+      "article": "mistral-large4-open-weights-2026-10-30",
+      "bytes": 13632,
+      "sha256": "9a17bb7449ec45a29267d0d4e37bfa4be530c279ee9d76233c82913ba361234a",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 4,
+      "bodyImageCount": 1,
+      "fullOriginalLicenseVerbatim": true,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/ru/us-2025-consumer-expenditures-2026-10-30.md",
+      "language": "ru",
+      "article": "us-2025-consumer-expenditures-2026-10-30",
+      "bytes": 7419,
+      "sha256": "18a0ebcbdb55a64a4c27c117752b5e382b160f24693bd8eb098447b947ee5475",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/ru/us-battery-strategy-battman-2026-10-30.md",
+      "language": "ru",
+      "article": "us-battery-strategy-battman-2026-10-30",
+      "bytes": 9236,
+      "sha256": "1b884926234bd03dda560d01cce4e92be394b5bef09b37bd5aad93454cf60aa6",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 3,
+      "bodyImageCount": 2,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/ru/us-q3-gdp-advance-2026-10-30.md",
+      "language": "ru",
+      "article": "us-q3-gdp-advance-2026-10-30",
+      "bytes": 7411,
+      "sha256": "8218b7b5aa1fefcaa11e555fdb4394fc2c8944f0f7ff7aff5dff0852024f5271",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/ru/us-september-income-pce-2026-10-30.md",
+      "language": "ru",
+      "article": "us-september-income-pce-2026-10-30",
+      "bytes": 7496,
+      "sha256": "a4e4c9cf4a3961167b16daae4711979a76a3521a6b8c09091434f8b4fa2c88a4",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-CN/mistral-large4-open-weights-2026-10-30.md",
+      "language": "zh-CN",
+      "article": "mistral-large4-open-weights-2026-10-30",
+      "bytes": 7744,
+      "sha256": "0ddac5113dc785006bb66e09415730dfb3722cec863af82aa84f9f9f35a2b17a",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 4,
+      "bodyImageCount": 1,
+      "fullOriginalLicenseVerbatim": true,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-CN/us-2025-consumer-expenditures-2026-10-30.md",
+      "language": "zh-CN",
+      "article": "us-2025-consumer-expenditures-2026-10-30",
+      "bytes": 3618,
+      "sha256": "efb1c5e3b7025062288217b7a840877b0125c7e0b11c5aada40638ecd92260bc",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-CN/us-battery-strategy-battman-2026-10-30.md",
+      "language": "zh-CN",
+      "article": "us-battery-strategy-battman-2026-10-30",
+      "bytes": 4452,
+      "sha256": "8cc69faceb4da44cf80e7af92651d10ba40df38623982936f98250ba186f0b48",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 3,
+      "bodyImageCount": 2,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-CN/us-q3-gdp-advance-2026-10-30.md",
+      "language": "zh-CN",
+      "article": "us-q3-gdp-advance-2026-10-30",
+      "bytes": 3375,
+      "sha256": "1d6fbca4f4c9113d8c539d1b2854b04b7aada765bae6af2ba5e74dc068fff437",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-CN/us-september-income-pce-2026-10-30.md",
+      "language": "zh-CN",
+      "article": "us-september-income-pce-2026-10-30",
+      "bytes": 3548,
+      "sha256": "e00e578662801e845f978073fa303c4a1076d2426bfaae8bd6aa0d2c3091353f",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-TW/mistral-large4-open-weights-2026-10-30.md",
+      "language": "zh-TW",
+      "article": "mistral-large4-open-weights-2026-10-30",
+      "bytes": 7863,
+      "sha256": "cbf640c6895215ebf0ad230264c3d8fa892067da9685e5f7e6d810b96b04d4d1",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 4,
+      "bodyImageCount": 1,
+      "fullOriginalLicenseVerbatim": true,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-TW/us-2025-consumer-expenditures-2026-10-30.md",
+      "language": "zh-TW",
+      "article": "us-2025-consumer-expenditures-2026-10-30",
+      "bytes": 3634,
+      "sha256": "659ba0b538e551a4c492f0436b3400ff798ddacd6c858eabcbe531856ae0b54f",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-TW/us-battery-strategy-battman-2026-10-30.md",
+      "language": "zh-TW",
+      "article": "us-battery-strategy-battman-2026-10-30",
+      "bytes": 4539,
+      "sha256": "496976886641c1f7e51a525c46409451c4aba13d71342858904e880f817770da",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 3,
+      "bodyImageCount": 2,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-TW/us-q3-gdp-advance-2026-10-30.md",
+      "language": "zh-TW",
+      "article": "us-q3-gdp-advance-2026-10-30",
+      "bytes": 3411,
+      "sha256": "7cf5d2a817f2c65a2efad8b860e562bcebe81b896c7697408c394368f2c3ddd0",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    },
+    {
+      "path": "content/issues/2026-10-30/zh-TW/us-september-income-pce-2026-10-30.md",
+      "language": "zh-TW",
+      "article": "us-september-income-pce-2026-10-30",
+      "bytes": 3584,
+      "sha256": "27a413652c5f5683a8731405b201545cc2381677054eee65010c8a6bc490c35e",
+      "draftByteIdentical": true,
+      "manuallyReadComplete": true,
+      "dateOnlyIssue20261030": true,
+      "sourceNoteCount": 2,
+      "bodyImageCount": 1,
+      "sameOriginalSourceTitlesAndURLsAsMaster": true
+    }
+  ],
+  "errors": [],
+  "licensedOrPublicDomainSources": [
+    {
+      "institution": "BEA",
+      "scope": "Agency-authored GDP and Personal Income and Outlays releases, methods and statistics; no third-party photographs or charts reused.",
+      "rightsEvidenceURL": "https://www.bea.gov/help/faq/145",
+      "basis": "Public-domain United States government material; attribution retained. Full equivalent five-language statistical reporting, with definitions and source notes."
+    },
+    {
+      "institution": "BLS",
+      "scope": "Agency-authored Consumer Expenditures release, tables and shutdown-method note; annual 2025 data scope retained.",
+      "rightsEvidenceURL": "https://www.bls.gov/bls/linksite.htm",
+      "basis": "Public-domain federal statistical material except identified third-party works; no third-party image/license inference."
+    },
+    {
+      "institution": "DOE",
+      "scope": "Agency-authored strategy and BattMan announcements and strategy text.",
+      "rightsEvidenceURL": "https://www.energy.gov/web-policies",
+      "basis": "Government-authored material with third-party exceptions. BNEF demand forecast expressly attributed; no BNEF or Benchmark graphic copied, redrawn or generated."
+    },
+    {
+      "institution": "Mistral AI",
+      "scope": "Specifically read model-associated README and LICENSE at f12dabdc0c1e99e7f7924461a6f308859b05af4d; design, configuration, developer benchmarks and license conditions.",
+      "rightsEvidenceURL": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/f12dabdc0c1e99e7f7924461a6f308859b05af4d/LICENSE",
+      "basis": "Explicit license includes associated documentation. Copyright and complete original license notice included in every edition and identical public attachment. No marketing-image or third-party benchmark-chart permission inferred."
+    }
+  ],
+  "evidencePolicy": "The public audit records counts, scope and final hashes rather than republishing the protected source-derived prose or private raw HTTP traces. Full segment-level review is retained in the private evidence backup.",
+  "tagAliasCorrection": "Independent review: three GDP frontmatter aliases reuse existing GDP/GDP/PIB labels; all article bodies and protected-source totals unchanged."
+}

@@ -1,0 +1,41 @@
+{
+  "issue": "2026-10-30",
+  "receivedFullChineseDrafts": 6,
+  "candidateCount": 8,
+  "suppliedImageCandidates": 7,
+  "selectedArticles": 5,
+  "languageEditions": 25,
+  "selectedKeys": [
+    "mistral-large4-open-weights-2026-10-30",
+    "us-2025-consumer-expenditures-2026-10-30",
+    "us-battery-strategy-battman-2026-10-30",
+    "us-q3-gdp-advance-2026-10-30",
+    "us-september-income-pce-2026-10-30"
+  ],
+  "held": [
+    {
+      "topic": "WHO Director-General candidates",
+      "reason": "Complete source draft received and facts checked; two protected source pages cannot support equivalent full-depth five-language reuse within cumulative budgets. No applicable broader reuse grant. Not a political/medical exclusion, rights-holder refusal or assertion that no image exists."
+    },
+    {
+      "topic": "Ember China cleantech exports",
+      "reason": "Selected data explorer updated 2026-10-23, no independently verified new Oct29 report in the handoff.",
+      "url": "https://ember-energy.org/data/china-cleantech-export-data/"
+    },
+    {
+      "topic": "CATL Australia battery candidate",
+      "reason": "Supplied accessible official item is dated 2026-05-07, not the claimed Oct29 launch.",
+      "url": "https://www.catl.com/en/news/6813.html"
+    }
+  ],
+  "boundedCorrections": [
+    "GDP private fixed investment includes residential investment",
+    "PCE dollar values and dollar changes SAAR, percentage changes monthly",
+    "BLS consumer unit title, missing interviews and eleven-month CPI caveat",
+    "Mistral model documentation license and precise MaaS condition/exceptions, marketing source budgets",
+    "DOE projections attributed to BNEF, strategy targets not completed capacity"
+  ],
+  "withdrawalPreserved": "taiwan-national-day-maritime-tensions-2026-10-11",
+  "sourcePriorityReviewed": true,
+  "publicationAcceptance": "Not established by this review; exact main SHA READY and live checks required."
+}
