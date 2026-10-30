@@ -3,6 +3,7 @@ import { createHash, randomUUID } from "node:crypto";
 import { availableParallelism } from "node:os";
 import path from "node:path";
 import sharp from "sharp";
+import {createImageBuildCache} from "./image-build-cache.mjs";
 
 // Per-photo quality was checked against the existing WebP at display resolutions.
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
@@ -90,7 +91,7 @@ export async function runImageJobs(jobs, concurrency) {
   if (failure) throw failure;
 }
 
-export async function optimizeImages({rootDir = process.cwd(), concurrency = imageConcurrency()} = {}) {
+export async function optimizeImages({rootDir = process.cwd(), concurrency = imageConcurrency(), planOnly = false} = {}) {
   concurrency = imageConcurrency(concurrency);
   const started = performance.now();
   const articlesPath = path.resolve(rootDir, "content/generated/articles.json");
@@ -106,7 +107,9 @@ export async function optimizeImages({rootDir = process.cwd(), concurrency = ima
   mkdirSync(outputDir, { recursive: true });
   const manifest = {};
   const jobs = new Map();
+  const descriptors = new Map();
   let encoded = 0;
+  const cache = planOnly ? null : createImageBuildCache({rootDir});
   for (const image of images) {
     const input = path.resolve(rootDir, "public", image.slice(1));
     if (!existsSync(input)) throw new Error(`Missing image: ${image}`);
@@ -120,28 +123,36 @@ export async function optimizeImages({rootDir = process.cwd(), concurrency = ima
     const widths = [...new Set([160, 320, 480, 704, 832, 960, 1280, Math.min(width, 1920)].filter(w => w <= width))].sort((a,b)=>a-b);
 
     function derivatives(format, options, targetWidths, encoder) {
-      const hash = createHash("sha256").update(bytes).update(JSON.stringify(encoder)).digest("hex").slice(0, 12);
+      const fingerprint = createHash("sha256").update(bytes).update(JSON.stringify(encoder)).digest("hex");
+      const hash = fingerprint.slice(0, 12);
+      const sourceSha256 = createHash("sha256").update(bytes).digest("hex");
       const variants = [];
       for (const target of targetWidths) {
         const filename = `${stem}-${hash}-${target}.${format}`;
         const output = path.join(outputDir, filename);
+        descriptors.set(`/optimized-assets/${filename}`, {src: `/optimized-assets/${filename}`, sourcePath: image, sourceSha256, fingerprint, encoder, format, width: target, height: Math.round(height * target / width)});
         // A content/encoder hash makes immutable derivatives safe to reuse on rebuilds.
         if (!jobs.has(output)) jobs.set(output, async () => {
+          let damagedExisting = false;
+          const descriptor = descriptors.get(`/optimized-assets/${filename}`);
           if (existsSync(output)) {
+            damagedExisting = true;
             try {
               const cached = await sharp(output).metadata();
-              if (cached.format === (format === "avif" ? "heif" : format) &&
+              if (cache.acceptExisting(descriptor, output) && cached.format === (format === "avif" ? "heif" : format) &&
                   cached.width === target && cached.height > 0 &&
                   Math.abs(cached.height - height * target / width) <= 1) {
                 // Metadata alone can succeed for truncated files left by the old
                 // direct-write pipeline. Decode all pixels before reusing them.
                 await sharp(output).stats();
+                await cache.remember(descriptor, output);
                 return;
               }
             } catch {
               // Regenerate unreadable/incomplete legacy cache entries locally.
             }
           }
+          if (!damagedExisting && await cache.restore(descriptor, output)) return;
           // The cache-visible name is published only after a complete encode.
           // A cancelled build must never leave a partial file that a retry reuses.
           const temporary = `${output}.${randomUUID()}.tmp`;
@@ -149,6 +160,7 @@ export async function optimizeImages({rootDir = process.cwd(), concurrency = ima
             await sharp(input).rotate().resize({width: target, withoutEnlargement: true})
               [format](options).toFile(temporary);
             renameSync(temporary, output);
+            await cache.remember(descriptor, output, {overwrite: true});
             encoded++;
           } finally {
             rmSync(temporary, {force: true});
@@ -178,12 +190,15 @@ export async function optimizeImages({rootDir = process.cwd(), concurrency = ima
       {version:1, rotate:true, lossless:true, effort:6, sharp:sharp.versions.sharp, webp:sharp.versions.webp});
     manifest[image] = asset;
   }
+  if (planOnly) return {manifest, descriptors: [...descriptors.values()]};
+  await cache.prime([...descriptors.values()]);
   await runImageJobs([...jobs.values()], concurrency);
   writeFileSync(path.resolve(rootDir, "content/generated/image-manifest.json"), JSON.stringify(manifest, null, 2) + "\n");
   const count = Object.values(manifest).reduce((sum,image)=>sum + image.variants.length + (image.avifVariants?.length || 0) + (image.bodyVariants?.length || 0), 0);
   const seconds = ((performance.now() - started) / 1000).toFixed(1);
   console.log(`Responsive images: ${images.length} sources / ${count} content-hashed variants generated or reused (${encoded} encoded, concurrency ${concurrency}, ${seconds}s).`);
-  return {sources: images.length, variants: count, encoded, concurrency};
+  console.log(`Image build cache: ${JSON.stringify(cache.stats)}`);
+  return {sources: images.length, variants: count, encoded, concurrency, cache: cache.stats};
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve("scripts/optimize-images.mjs")) await optimizeImages();
