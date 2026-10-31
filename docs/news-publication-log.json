@@ -4836,6 +4836,89 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-31-zh-CN",
+      "issue": "2026-10-31",
+      "publicationDate": "2026-10-31",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication date. No invented original precise timestamp. Native deployment and formal-domain acceptance verified separately.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "uk-cma-meta-commercial-terms-2026-10-31",
+          "path": "content/issues/2026-10-31/zh-CN/uk-cma-meta-commercial-terms-2026-10-31.md",
+          "eventDate": "2026-10-30",
+          "sourceDate": "2026-10-30",
+          "sources": [
+            {
+              "title": "CMA opens investigation into Meta’s commercial terms",
+              "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+              "footnote": 1,
+              "verificationDate": "2026-10-31"
+            },
+            {
+              "title": "Suspected abuse of a dominant position in relation to Meta’s commercial terms",
+              "url": "https://www.gov.uk/cma-cases/suspected-abuse-of-a-dominant-position-in-relation-to-metas-commercial-terms",
+              "footnote": 2,
+              "verificationDate": "2026-10-31"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-q3-employment-cost-index-2026-10-31",
+          "path": "content/issues/2026-10-31/zh-CN/us-q3-employment-cost-index-2026-10-31.md",
+          "eventDate": "2026-10-30",
+          "sourceDate": "2026-10-30",
+          "sources": [
+            {
+              "title": "Employment Cost Index Summary — September 2026",
+              "url": "https://www.bls.gov/news.release/eci.nr0.htm",
+              "footnote": 1,
+              "verificationDate": "2026-10-31"
+            },
+            {
+              "title": "Employment Cost Index",
+              "url": "https://www.bls.gov/eci/",
+              "footnote": 2,
+              "verificationDate": "2026-10-31"
+            },
+            {
+              "title": "Introducing 2025 fixed employment weights and removing Workers’ Compensation costs from the Employment Cost Index (ECI)",
+              "url": "https://www.bls.gov/eci/notices/2026/eci-2025-fixed-weights-and-removing-workers-compensation.htm",
+              "footnote": 3,
+              "verificationDate": "2026-10-31"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-solar-battery-colocation-2026-10-31",
+          "path": "content/issues/2026-10-31/zh-CN/us-solar-battery-colocation-2026-10-31.md",
+          "eventDate": "2026-10-30",
+          "sourceDate": "2026-10-30",
+          "sources": [
+            {
+              "title": "The share of solar generation with co-located battery storage is increasing",
+              "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
+              "footnote": 1,
+              "verificationDate": "2026-10-31"
+            },
+            {
+              "title": "Copyrights and Reuse",
+              "url": "https://www.eia.gov/about/copyrights_reuse.php",
+              "footnote": 2,
+              "verificationDate": "2026-10-31"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

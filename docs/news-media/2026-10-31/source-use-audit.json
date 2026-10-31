@@ -1,0 +1,156 @@
+{
+  "issue": "2026-10-31",
+  "status": "Passed: full-text editorial and cumulative five-language source-rights review of all 15 articles completed; attribution, localized source notes and chart credits verified",
+  "cumulativeLanguages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "protectedSourcesUsed": [],
+  "licensedSources": [
+    {
+      "publisher": "CMA / GOV.UK",
+      "license": "Open Government Licence v3.0",
+      "evidence": "https://www.gov.uk/help/terms-conditions",
+      "scope": "Both official announcement and case text; required attribution retained in all editions; third-party iStock excluded."
+    },
+    {
+      "publisher": "BLS",
+      "license": "Public domain agency text and data",
+      "evidence": "https://www.bls.gov/opub/copyright-information.htm",
+      "scope": "Agency-produced release, program definitions and methods notice; copyrighted photos excluded."
+    },
+    {
+      "publisher": "EIA",
+      "license": "Public domain original data, reports and charts",
+      "evidence": "https://www.eia.gov/about/copyrights_reuse.php",
+      "scope": "Source/date credit and translation organization plus original link required in all editions; privately licensed photos excluded."
+    }
+  ],
+  "heldProtectedSources": [
+    {
+      "topic": "OpenAI/IETF AI-training preference signal",
+      "reason": "Full draft received; protected OpenAI sources and limited IETF TLP extraction/translation grant do not establish permission for full-depth adapted prose across five languages. Preserved, not replaced with a brief."
+    },
+    {
+      "topic": "WHO Barbados mother-to-child HIV transmission certification",
+      "reason": "Full draft and primary facts verified; no applicable full-depth commercial multilingual news reuse grant. WHO and PAHO joint release are one source, not separate budgets. Medical topic is not excluded. Suitable hospital photo exists but story held."
+    },
+    {
+      "topic": "OpenAI Rosalind 6",
+      "reason": "Full draft received; system card PDF/HTML are one source and no broader reuse license established. Full five-language depth exceeds cumulative protected-source budgets."
+    }
+  ],
+  "noPerLanguageBudgetReset": true,
+  "noCopiedProtectedBodyProse": true,
+  "finalManuscripts": [
+    {
+      "path": "content/issues/2026-10-31/en/uk-cma-meta-commercial-terms-2026-10-31.md",
+      "sha256": "7b243e1ecfd5e9f120fdff94d68a3714b9f96210b01646a417b7a5e88cd0829b",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "en"
+    },
+    {
+      "path": "content/issues/2026-10-31/en/us-q3-employment-cost-index-2026-10-31.md",
+      "sha256": "d8e96dda37037ae01b1a9ac1dc69dc453fd3736166050ff83df845f6149543c4",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "en"
+    },
+    {
+      "path": "content/issues/2026-10-31/en/us-solar-battery-colocation-2026-10-31.md",
+      "sha256": "203a7433d2ee6e536d5a8ddee2753539c8f76120c01c1b533984fd156c41d543",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "en"
+    },
+    {
+      "path": "content/issues/2026-10-31/fr/uk-cma-meta-commercial-terms-2026-10-31.md",
+      "sha256": "32b9ecba80f617f32a99cc6d15c4598d88e0b8f7a818807ed5b4f34e54071fc8",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "fr"
+    },
+    {
+      "path": "content/issues/2026-10-31/fr/us-q3-employment-cost-index-2026-10-31.md",
+      "sha256": "b60fe06c74facc88d7ff036fa3ad613524c770a2dec712e63206a022a289bad3",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "fr"
+    },
+    {
+      "path": "content/issues/2026-10-31/fr/us-solar-battery-colocation-2026-10-31.md",
+      "sha256": "352c24c41fad10b684afa0a8c4e589084075b2429c626f58cdeae7573a5e9ffb",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "fr"
+    },
+    {
+      "path": "content/issues/2026-10-31/ru/uk-cma-meta-commercial-terms-2026-10-31.md",
+      "sha256": "9720aa475c2170d2d752ae6f0ae3ccb2f5e188117b9f10393f2b91e8db13c0fb",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "ru"
+    },
+    {
+      "path": "content/issues/2026-10-31/ru/us-q3-employment-cost-index-2026-10-31.md",
+      "sha256": "1510252a777653d8538af29a8735e2e8fcbd03ae81c7c481048687497c0a8777",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "ru"
+    },
+    {
+      "path": "content/issues/2026-10-31/ru/us-solar-battery-colocation-2026-10-31.md",
+      "sha256": "8c49c5f1fc052dbaf3e3072b01489cd98c8e90d9322b94fbbb737ac37db0cc41",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "ru"
+    },
+    {
+      "path": "content/issues/2026-10-31/zh-CN/uk-cma-meta-commercial-terms-2026-10-31.md",
+      "sha256": "67e2823e0a30ca32711402f9af22227b0dcc539a820fae7c0012de2419779825",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "zh-CN"
+    },
+    {
+      "path": "content/issues/2026-10-31/zh-CN/us-q3-employment-cost-index-2026-10-31.md",
+      "sha256": "4d4256e586e5c4bd46dfac0ef70f124ebfbbfc99f092319092f3b1d74afda323",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "zh-CN"
+    },
+    {
+      "path": "content/issues/2026-10-31/zh-CN/us-solar-battery-colocation-2026-10-31.md",
+      "sha256": "9a0ae840132ac401d8d6679d4b718e0dcdec745313392011e13b019a60f02828",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "zh-CN"
+    },
+    {
+      "path": "content/issues/2026-10-31/zh-TW/uk-cma-meta-commercial-terms-2026-10-31.md",
+      "sha256": "0889d1c027cc4acc437557681875efd0ba417c4f39495a5e4346b305848dcc7b",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "zh-TW"
+    },
+    {
+      "path": "content/issues/2026-10-31/zh-TW/us-q3-employment-cost-index-2026-10-31.md",
+      "sha256": "656a560e8cdd4c1be2ab5fa9f4b2d26924957d9993e4a849e3e703ccb16720bb",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "zh-TW"
+    },
+    {
+      "path": "content/issues/2026-10-31/zh-TW/us-solar-battery-colocation-2026-10-31.md",
+      "sha256": "c555955560d067a06ca4f48358761ff5e7c91663b4db80a0c1fc4d3f92e912d3",
+      "verdict": "pass",
+      "fullTextRead": true,
+      "language": "zh-TW"
+    }
+  ],
+  "fullTextReview": "All fifteen complete editions independently read; details in pinned manuscript records."
+}

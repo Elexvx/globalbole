@@ -1,0 +1,3 @@
+# October 31 media review
+
+Five actual supplied media records are individually recorded. Two EIA original charts are adopted unchanged in body, with full localized explanations and source/rights links. The three other records belong to held articles; absent rights or pixel verification is not concealed. CMA source iStock photography is excluded; no eligible BLS source photo was established. Three separately documented conceptual AI illustrations are visibly labeled and reused in body and cover. They are not documentary photographs or invented data charts. No private source-conversation identifiers are published.

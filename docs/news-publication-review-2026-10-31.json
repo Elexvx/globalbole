@@ -1,0 +1,43 @@
+{
+  "issue": "2026-10-31",
+  "receivedFullChineseDrafts": 6,
+  "candidateCount": 8,
+  "suppliedImageCandidates": 5,
+  "selectedArticles": 3,
+  "languageEditions": 15,
+  "selectedKeys": [
+    "uk-cma-meta-commercial-terms-2026-10-31",
+    "us-q3-employment-cost-index-2026-10-31",
+    "us-solar-battery-colocation-2026-10-31"
+  ],
+  "held": [
+    {
+      "topic": "OpenAI/IETF AI-training preference signal",
+      "reason": "Full draft received; protected OpenAI sources and limited IETF TLP extraction/translation grant do not establish permission for full-depth adapted prose across five languages. Preserved, not replaced with a brief."
+    },
+    {
+      "topic": "WHO Barbados mother-to-child HIV transmission certification",
+      "reason": "Full draft and primary facts verified; no applicable full-depth commercial multilingual news reuse grant. WHO and PAHO joint release are one source, not separate budgets. Medical topic is not excluded. Suitable hospital photo exists but story held."
+    },
+    {
+      "topic": "OpenAI Rosalind 6",
+      "reason": "Full draft received; system card PDF/HTML are one source and no broader reuse license established. Full five-language depth exceeds cumulative protected-source budgets."
+    },
+    {
+      "topic": "Rail grants candidate",
+      "reason": "Conflicting amounts $1.24 billion and $1.146528 billion were not resolved in source selection."
+    },
+    {
+      "topic": "Kodiak candidate",
+      "reason": "Primary source inaccessible and readiness claim not independently verified."
+    }
+  ],
+  "boundedCorrections": [
+    "CMA existing terms or revisions; no infringement finding; indicative timeline not deadline",
+    "BLS January 2027 publication of December 2026 data: 2025 weights and workers compensation removal",
+    "EIA capacity rather than generated energy; observed September versus full-year planned additions; stacked chart denominator total generating capacity"
+  ],
+  "withdrawalPreserved": "taiwan-national-day-maritime-tensions-2026-10-11",
+  "sourcePriorityReviewed": true,
+  "publicationAcceptance": "Requires exact Git SHA READY and formal-domain acceptance; this record alone is not acceptance."
+}

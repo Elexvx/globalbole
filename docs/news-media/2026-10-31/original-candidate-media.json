@@ -1,0 +1,103 @@
+{
+  "issue": "2026-10-31",
+  "actualSuppliedRecords": 5,
+  "records": [
+    {
+      "id": "M1",
+      "article": "I",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/Robots_txt.svg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Robots_txt.svg",
+      "author": "Belbury",
+      "date": "2024-02-18",
+      "title": "Robots txt.svg",
+      "licenseEvidence": "Commons PD-text tag: ordinary unoriginal text; do not confuse structured metadata CC0 with image license",
+      "reportedDimensions": "864x351",
+      "reportedBytes": 2905,
+      "reportedSHA1": "4a2358c5933b746349331706af6a3dce45e23490",
+      "actualBytesVerified": false,
+      "actualPixelsVerified": false,
+      "decision": "hold",
+      "reason": "Generic robots.txt example, not new IETF config; original file could not be inspected in this run; article rights hold",
+      "captionCandidate": "robots.txt 通用示例图，2024 年 2 月 18 日；Belbury，公有领域。并非本次草案的配置示例。",
+      "adopted": false
+    },
+    {
+      "id": "M2",
+      "article": "us-solar-battery-colocation-2026-10-31",
+      "originalURL": "https://www.eia.gov/todayinenergy/images/2026.10.30/main.svg",
+      "assetPage": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
+      "author": "U.S. Energy Information Administration",
+      "date": "2026-10-30",
+      "license": "EIA public-domain original chart reuse",
+      "licenseEvidenceURL": "https://www.eia.gov/about/copyrights_reuse.php",
+      "adopted": true,
+      "use": "body original data chart, not cover",
+      "reason": "Original data chart retained unaltered; cropping as cover would lose labels. Conceptual cover is separately disclosed, not a replacement for the supplied chart.",
+      "actualPixelsVerified": true,
+      "bytes": 12326,
+      "sha256": "585b1041445a2a172feab31a1b88d03fa9e9ce58be4a27ccd02d0625dd51bf4e"
+    },
+    {
+      "id": "M3",
+      "article": "us-solar-battery-colocation-2026-10-31",
+      "originalURL": "https://www.eia.gov/todayinenergy/images/2026.10.30/chart2.svg",
+      "assetPage": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
+      "author": "U.S. Energy Information Administration",
+      "date": "2026-10-30",
+      "license": "EIA public-domain original chart reuse",
+      "licenseEvidenceURL": "https://www.eia.gov/about/copyrights_reuse.php",
+      "adopted": true,
+      "use": "body original data chart, not cover",
+      "reason": "Original data chart retained unaltered; cropping as cover would lose labels. Conceptual cover is separately disclosed, not a replacement for the supplied chart.",
+      "actualPixelsVerified": true,
+      "bytes": 6943,
+      "sha256": "3343486aeaad7ef12bbfbbdb79bf946f504007dc15117c4f5b0dddd1bc80fee5"
+    },
+    {
+      "id": "M4",
+      "article": "WHO Barbados held",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbados_Queen_Elizabeth_Hospital%2C_Bridgetown-1.jpg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Barbados_Queen_Elizabeth_Hospital,_Bridgetown-1.jpg",
+      "author": "CaribDigita",
+      "date": "2010-10-24",
+      "license": "PD-self",
+      "licenseEvidenceURL": "https://commons.wikimedia.org/wiki/File:Barbados_Queen_Elizabeth_Hospital,_Bridgetown-1.jpg",
+      "adopted": false,
+      "reason": "Photo rights and actual pixels verified; article text rights remain held. Not a certification event photograph.",
+      "actualPixelsVerified": true,
+      "sha256": "06380a5371b71bbc3e6013a2e69cef56e3681e59ee837bb8eb67abb150f99f8f",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": "M5",
+      "article": "VI",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/Scientist_working_in_laboratory_%282%29.jpg",
+      "assetPage": "https://commons.wikimedia.org/wiki/File:Scientist_working_in_laboratory_(2).jpg",
+      "primaryAssetPage": "https://visualsonline.cancer.gov/details.cfm?imageid=3865",
+      "author": "Diane A. Reid",
+      "provider": "National Cancer Institute",
+      "date": "2005-01-27",
+      "title": "Scientist Working in Laboratory",
+      "licenseEvidence": "Commons transcribes NCI Reuse Restrictions None and marks public domain; original NCI asset page fetch502, so primary claim not freshly verified",
+      "reportedDimensions": "2398x1989",
+      "actualBytesVerified": false,
+      "actualPixelsVerified": false,
+      "metadataPrivacyInspected": false,
+      "decision": "hold",
+      "reason": "Original pixels not acquired; no verified location; article rights hold",
+      "captionCandidate": "研究人员使用显微镜，2005 年 1 月 27 日资料照片；摄影：Diane A. Reid／美国国家癌症研究所，公有领域。非 OpenAI 或 Rosalind 客户实验室照片。",
+      "adopted": false
+    }
+  ],
+  "missingSourceAssets": [
+    {
+      "article": "uk-cma-meta-commercial-terms-2026-10-31",
+      "reason": "Official announcement credits iStock; no asset-specific reuse permission established. Not adopted."
+    },
+    {
+      "article": "us-q3-employment-cost-index-2026-10-31",
+      "reason": "No actual eligible original photo supplied or established on official release; dynamic charts are not verified standalone media files."
+    }
+  ]
+}
