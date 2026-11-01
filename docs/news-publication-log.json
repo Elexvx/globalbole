@@ -4919,6 +4919,103 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-01-zh-CN",
+      "issue": "2026-11-01",
+      "publicationDate": "2026-11-01",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication date; no invented precise original timestamp. Native deployment and formal acceptance verified separately.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-october-pmi-2026-11-01",
+          "path": "content/issues/2026-11-01/zh-CN/china-october-pmi-2026-11-01.md",
+          "eventDate": "2026-10-31",
+          "sourceDate": "2026-10-31",
+          "sources": [
+            {
+              "title": "2026年10月中国采购经理指数运行情况",
+              "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html",
+              "footnote": 1,
+              "verificationDate": "2026-11-01"
+            },
+            {
+              "title": "国家统计局服务业调查中心首席统计师霍丽慧解读2026年10月中国采购经理指数",
+              "url": "https://www.stats.gov.cn/sj/sjjd/202610/t20261031_1965719.html",
+              "footnote": 2,
+              "verificationDate": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "translationKey": "amazon-q3-cloud-cashflow-investment-2026-11-01",
+          "path": "content/issues/2026-11-01/zh-CN/amazon-q3-cloud-cashflow-investment-2026-11-01.md",
+          "eventDate": "2026-10-30",
+          "sourceDate": "2026-10-30",
+          "sources": [
+            {
+              "title": "Form 10-Q, Quarterly Report for the Period Ended September 30, 2026",
+              "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+              "footnote": 1,
+              "verificationDate": "2026-11-01"
+            },
+            {
+              "title": "Amazon.com Announces Third Quarter Results",
+              "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
+              "footnote": 2,
+              "verificationDate": "2026-11-01"
+            },
+            {
+              "title": "OpenAI and Amazon announce strategic partnership",
+              "url": "https://openai.com/index/amazon-partnership/",
+              "footnote": 3,
+              "verificationDate": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "translationKey": "delhi-october-air-quality-2026-11-01",
+          "path": "content/issues/2026-11-01/zh-CN/delhi-october-air-quality-2026-11-01.md",
+          "eventDate": "2026-10-31",
+          "sourceDate": "2026-10-31",
+          "sources": [
+            {
+              "title": "Delhi Records Lowest Average AQI for October in the Last Eight Years at 166",
+              "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2331032&lang=1&reg=3",
+              "footnote": 1,
+              "verificationDate": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "translationKey": "india-panchayat-ev-charging-mou-2026-11-01",
+          "path": "content/issues/2026-11-01/zh-CN/india-panchayat-ev-charging-mou-2026-11-01.md",
+          "eventDate": "2026-10-30",
+          "sourceDate": "2026-10-31",
+          "sources": [
+            {
+              "title": "Union Minister Shri Rajiv Ranjan Singh Urges Concerted Efforts to Build ‘Atmanirbhar Panchayats’ at National Workshop on People’s Plan Campaign, in New Delhi",
+              "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330751&lang=1&reg=1",
+              "footnote": 1,
+              "verificationDate": "2026-11-01"
+            },
+            {
+              "title": "Tenders",
+              "url": "https://www.convergence.co.in/tender",
+              "footnote": 2,
+              "verificationDate": "2026-11-01"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

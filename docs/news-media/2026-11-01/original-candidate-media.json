@@ -1,0 +1,280 @@
+{
+  "issue": "2026-11-01",
+  "records": [
+    {
+      "id": "M1",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Main_entrance_of_the_UN_Biodiversity_Conference_COP17_at_Meridian_Expo_Center%2C_Yerevan.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_the_UN_Biodiversity_Conference_COP17_at_Meridian_Expo_Center,_Yerevan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Mammysou17",
+      "workDate": "2026-10-19",
+      "verifiedWorkPage": true,
+      "downloadStatus": 403,
+      "fullPixelsVerified": false,
+      "accepted": false,
+      "decision": "hold: original direct asset HTTP 403; no alternate transport attempted",
+      "contentCaveat": "COP17 entrance, not closing decision scene"
+    },
+    {
+      "id": "M2",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/WWF_Press_Conference_at_UN_Biodiversity_Conference_COP17_Yerevan_Armenia_2026.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:WWF_Press_Conference_at_UN_Biodiversity_Conference_COP17_Yerevan_Armenia_2026.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Mammysou17",
+      "workDate": "2026-10-19",
+      "verifiedWorkPage": true,
+      "downloadStatus": 403,
+      "fullPixelsVerified": false,
+      "accepted": false,
+      "decision": "hold: original direct asset HTTP 403; no alternate transport attempted",
+      "contentCaveat": "WWF press conference, not Parties vote"
+    },
+    {
+      "id": "M3",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/20220609_Ceramic_Grinding_Wheels_Manufacturing_Workshop_of_National_No.2_Grinding_Wheel_Factory_02.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:20220609_Ceramic_Grinding_Wheels_Manufacturing_Workshop_of_National_No.2_Grinding_Wheel_Factory_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Windmemories",
+      "workDate": "2022-06-09",
+      "verifiedWorkPage": true,
+      "downloadStatus": 403,
+      "fullPixelsVerified": false,
+      "accepted": false,
+      "decision": "hold: original direct asset HTTP 403; no alternate transport attempted",
+      "contentCaveat": "historical grinding-wheel factory workshop/site; not verified current production or PMI sample"
+    },
+    {
+      "id": "M4",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Day_1_Tower_Seattle_WA_Jan_17.jpg",
+      "status": "accepted-for-amazon",
+      "bytes": 2777577,
+      "sha256": "0e5e0c8833b85a4c016ea5ecaf062f9e85e1b87828b8403804d5cfa0ac1b60b1",
+      "width": 4032,
+      "height": 3024,
+      "format": "JPEG",
+      "decoded": true,
+      "workTitle": "Day 1 Tower Seattle WA Jan 17",
+      "page": "https://commons.wikimedia.org/wiki/File:Day_1_Tower_Seattle_WA_Jan_17.jpg",
+      "creator": "Adamajreynolds",
+      "date": "2017-01-18",
+      "location": "Seattle, Washington, United States",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "type": "related archival photograph, not source-report image",
+      "visualReview": "Full tower visible after EXIF orientation 6; no actual earnings event pictured. Portrait original is 3024x4032 after orientation; cover crop must preserve building subject.",
+      "publicPath": "/news-media/2026-11-01/amazon-day1-2017.jpg",
+      "sanitization": {
+        "id": "M4",
+        "sha256": "7fedfb413c7981b8bba2ece10a9f6ffffdebb4761b3304f9669de299afc232fb",
+        "bytes": 2767073,
+        "rawPixelSha256": "540ad374f88bf17a64b730bd87d3f50909c42242914a4ef457690223bb1f9ee3",
+        "pixelsUnchanged": true,
+        "displayOrientationPreserved": 6,
+        "remainingExifTags": [
+          "Orientation"
+        ],
+        "removedSegments": [
+          "0xe1"
+        ],
+        "iccPreserved": true
+      },
+      "pixelInspection": "Full-file decoded; displayed inspection derivative reviewed",
+      "changes": "Only nonessential EXIF/IPTC/XMP/comments removed; encoded image scan, decoded pixels, orientation and ICC retained. Any published responsive derivatives must retain attribution/license; CC BY-SA applies to adaptations."
+    },
+    {
+      "id": "M5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/A_trio_of_CubeSats_is_ejected_into_Earth_orbit_from_a_small_satellite_orbital_deployer_%28iss072e352045%29.jpg",
+      "status": "rights-and-pixels-cleared-but-article-held",
+      "bytes": 3329093,
+      "sha256": "b06e51a1395f89518e40172a8be30ed7a91245b52bb1cab6f6a2380faaacb8d9",
+      "width": 8256,
+      "height": 5504,
+      "format": "JPEG",
+      "decoded": true,
+      "workTitle": "A trio of CubeSats is ejected into Earth orbit from a small satellite orbital deployer (iss072e352045)",
+      "page": "https://commons.wikimedia.org/wiki/File:A_trio_of_CubeSats_is_ejected_into_Earth_orbit_from_a_small_satellite_orbital_deployer_(iss072e352045).jpg",
+      "creator": "NASA / Butch Wilmore",
+      "date": "2024-12-09",
+      "location": "International Space Station",
+      "license": "NASA U.S. government work; editorial informational use",
+      "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "type": "related archival photograph, not Project Suncatcher",
+      "visualReview": "Three small deployed satellites against space/Earth with ISS hardware. No identifiable people. Must not imply Google satellite or NASA endorsement.",
+      "sanitization": {
+        "id": "M5",
+        "sha256": "c2dd6d2f12352ad9922870a84584b0428e7882eb4dbad360ee87ed0369c7afe5",
+        "bytes": 3306659,
+        "rawPixelSha256": "3c88a5b7d32a06d8690ac65c623e54215678acc44ff2f4c7c84865da9c9b2f80",
+        "pixelsUnchanged": true,
+        "displayOrientationPreserved": 1,
+        "remainingExifTags": [
+          "Orientation"
+        ],
+        "removedSegments": [
+          "0xe1",
+          "0xed",
+          "0xe1"
+        ],
+        "iccPreserved": true
+      },
+      "pixelInspection": "Full-file decoded; displayed inspection derivative reviewed",
+      "changes": "Only nonessential EXIF/IPTC/XMP/comments removed; encoded image scan, decoded pixels, orientation and ICC retained. Any published responsive derivatives must retain attribution/license; CC BY-SA applies to adaptations."
+    },
+    {
+      "id": "M6",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tensor_Processing_Unit_3.0.jpg",
+      "status": "rights-and-pixels-cleared-but-article-held",
+      "bytes": 572876,
+      "sha256": "d39f7396fc1af642d990845c161d257aedeaf82c5fcc93a02df14fa590799052",
+      "width": 1960,
+      "height": 1398,
+      "format": "JPEG",
+      "decoded": true,
+      "workTitle": "Tensor Processing Unit 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tensor_Processing_Unit_3.0.jpg",
+      "creator": "Zinskauf",
+      "date": "2019-03-12",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "type": "related archival photograph, not flight hardware",
+      "visualReview": "Close view of four-chip circuit board with coolant tubing. Not current in-orbit TPU; label TPU 3.0 archival. Exact location unverified and omitted.",
+      "sanitization": {
+        "id": "M6",
+        "sha256": "727e7d7f4fd2d536168e5306bdf3060118a2a87c2978a80141ba85ddeb55f071",
+        "bytes": 570413,
+        "rawPixelSha256": "3e84defe80cd3d231da7f09a973b4dd6f48117b77c4ad4852df9dd6c3fa99b52",
+        "pixelsUnchanged": true,
+        "displayOrientationPreserved": 1,
+        "remainingExifTags": [
+          "Orientation"
+        ],
+        "removedSegments": [
+          "0xe1",
+          "0xe1",
+          "0xed"
+        ],
+        "iccPreserved": true
+      },
+      "pixelInspection": "Full-file decoded; displayed inspection derivative reviewed",
+      "changes": "Only nonessential EXIF/IPTC/XMP/comments removed; encoded image scan, decoded pixels, orientation and ICC retained. Any published responsive derivatives must retain attribution/license; CC BY-SA applies to adaptations."
+    },
+    {
+      "id": "Google-original-share",
+      "url": "https://i.ytimg.com/vi_webp/epqzfAi16us/maxresdefault.webp",
+      "sourcePage": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "discovery": "Exact og:image and twitter:image:src in original HTML",
+      "status": "held-no-specific-reuse-grant",
+      "licenseFinding": "Google image-library grants publication for images on that page, not automatically this YouTube thumbnail. No asset-specific license established; do not publish.",
+      "downloadResult": {
+        "bytes": 195,
+        "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+        "decoded": false,
+        "error": "Pillow could not identify returned 195-byte payload; no usable original image bytes obtained"
+      }
+    },
+    {
+      "id": "M7",
+      "status": "accepted",
+      "role": [
+        "cover",
+        "body"
+      ],
+      "sourceType": "supplied-related-archival-photo",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Delhi_skyline.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Delhi_skyline.jpg",
+      "author": "Mrstulipsua",
+      "date": "2026-08-19",
+      "location": "Delhi, India",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsEvidence": "Commons own-work declaration and explicit license verified on 2026-11-01",
+      "file": "/news-media/2026-11-01/delhi-sunset-archive.jpg",
+      "sourceSha256": "d8868921e1df7ecad55fc170b1f2e5d908ca841fb7e95114a7f69c764c4a348e",
+      "sha256": "c686487c124ac36e1f2f2ac2eaa57b4771734de29641604249123d8cce45036f",
+      "bytes": 3719858,
+      "width": 3072,
+      "height": 4096,
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "pixelsPreserved": true,
+      "iccPreserved": true,
+      "metadataRemoved": [
+        "0xe1"
+      ],
+      "reason": "Actual pixels are a Delhi street at sunset, not pollution measurement or October event evidence. Caption corrected from skyline to street sunset.",
+      "adaptationNotice": "No pixel edits to source; metadata only removed. Responsive derivatives retain source attribution and license.",
+      "shareAlikeRequired": false
+    },
+    {
+      "id": "M8",
+      "status": "accepted",
+      "role": [
+        "cover",
+        "body"
+      ],
+      "sourceType": "supplied-related-archival-photo",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Electric_Vehicle_Charging_Station_at_Government_Secretariat%2C_Thiruvananthapuram.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Electric_Vehicle_Charging_Station_at_Government_Secretariat,_Thiruvananthapuram.jpg",
+      "author": "Shagil Kannur",
+      "date": "2020-08-26",
+      "location": "Government Secretariat, Thiruvananthapuram, India",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsEvidence": "Commons own-work declaration and explicit license verified on 2026-11-01",
+      "file": "/news-media/2026-11-01/india-charging-archive.jpg",
+      "sourceSha256": "21ae4fc8c3024c7c54e122f9a23e7a232d47c8cdb6512e53710e78fba2b7bc0b",
+      "sha256": "cc3372a2447354ccf8d47df6a681213ee9b6c7f9810860c4e1c2611f38c7f239",
+      "bytes": 3494576,
+      "width": 2404,
+      "height": 4274,
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "pixelsPreserved": true,
+      "iccPreserved": true,
+      "metadataRemoved": [
+        "0xe1",
+        "0xe1",
+        "0xed"
+      ],
+      "reason": "Existing archival charger is not part of the new MoU. Date is supplied by Commons from EXIF.",
+      "adaptationNotice": "No pixel edits to source; metadata only removed. Responsive derivatives retain source attribution and license.",
+      "shareAlikeRequired": true
+    },
+    {
+      "id": "PIB-original-1",
+      "status": "held",
+      "sourceType": "supplied-original-report-photo",
+      "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/oct/image001_20261031113510_916ebe.jpg",
+      "articleUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330751&lang=1&reg=1",
+      "sourceSha256": "45a025d5b0f772855bc131bb15ac755695b97e6ce48a2f104e88384c0a49cfff",
+      "bytes": 44551,
+      "width": 621,
+      "height": 344,
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "license": null,
+      "author": null,
+      "reason": "No verified asset-specific ownership; PIB policy excludes third-party material, so hosting is insufficient permission."
+    },
+    {
+      "id": "PIB-original-2",
+      "status": "held",
+      "sourceType": "supplied-original-report-photo",
+      "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/oct/image002_20261031113517_a9128f.jpg",
+      "articleUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330751&lang=1&reg=1",
+      "sourceSha256": "af854759a2042123163b00b3d6db6ba206b511b239bbd93b2e2c928cd36cc482",
+      "bytes": 46295,
+      "width": 621,
+      "height": 579,
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "license": null,
+      "author": null,
+      "reason": "No verified asset-specific ownership; PIB policy excludes third-party material, so hosting is insufficient permission."
+    }
+  ],
+  "note": "Original handoff records are reviewed individually; generation is tracked separately. Access-denied original assets were not retried via alternate transport."
+}

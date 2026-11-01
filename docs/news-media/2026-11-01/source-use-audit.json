@@ -1,0 +1,58 @@
+{
+  "issue": "2026-11-01",
+  "reviewDate": "2026-11-01",
+  "scope": "Complete five-language editions assessed cumulatively; no shortening to bypass source-use limits.",
+  "sources": [
+    {
+      "translationKey": "china-october-pmi-2026-11-01",
+      "status": "accepted",
+      "basis": "NBS explicit statistical-data reuse and good-faith public information terms; prominent NBS attribution. Personally signed explanatory prose is limited to a short kernel, no more than 20 English-equivalent words per language across five editions.",
+      "rightsURLs": [
+        "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html"
+      ]
+    },
+    {
+      "translationKey": "amazon-q3-cloud-cashflow-investment-2026-11-01",
+      "status": "accepted",
+      "basis": "SEC expressly permits reuse of EDGAR public filing content. All substantive financial detail is drawn from the 10-Q. This is affirmative reuse guidance, not an assumption of government authorship. Company announcement only identifies announcement timing; OpenAI historical investment kernel stays about 25 English-equivalent words per language.",
+      "rightsURLs": [
+        "https://www.sec.gov/about/webmaster-frequently-asked-questions",
+        "https://www.sec.gov/about/privacy-information"
+      ]
+    },
+    {
+      "translationKey": "delhi-october-air-quality-2026-11-01",
+      "status": "accepted",
+      "basis": "PIB permits accurate reproduction with prominent attribution. Institutional government text is used; third-party media excluded.",
+      "rightsURLs": [
+        "https://www.pib.gov.in/ContentPage.aspx?lang=2&menuid=19&reg=48"
+      ]
+    },
+    {
+      "translationKey": "india-panchayat-ev-charging-mou-2026-11-01",
+      "status": "accepted",
+      "basis": "PIB permits institutional government text reproduction with attribution and no distortion. CESL tender background is one short sentence per language and under 200 cumulative words; no old project counts imported.",
+      "rightsURLs": [
+        "https://www.pib.gov.in/ContentPage.aspx?lang=2&menuid=19&reg=48"
+      ]
+    }
+  ],
+  "held": [
+    {
+      "subject": "COP17 Yerevan Pathway",
+      "reason": "Unresolved full-depth five-language reuse: press release is explicitly not an official document; CBD official-text exception does not clearly cover it under restrictive general terms."
+    },
+    {
+      "subject": "Google Project Suncatcher model response",
+      "reason": "No adequate full-depth five-language reuse permission established for corporate progress posts."
+    },
+    {
+      "subject": "Anthropic automated safety-testing research",
+      "reason": "Source-stage hold: precise new publication date not established."
+    },
+    {
+      "subject": "WHO World Cities Day housing appeal",
+      "reason": "Source-stage hold: principal estimate predates this issue, not republished as new statistical news."
+    }
+  ]
+}

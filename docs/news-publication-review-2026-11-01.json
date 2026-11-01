@@ -1,0 +1,29 @@
+{
+  "issue": "2026-11-01",
+  "receivedCompleteDrafts": 6,
+  "candidateDecisions": 8,
+  "selectedSubjects": 4,
+  "plannedEditions": 20,
+  "suppliedIndividualMedia": 8,
+  "additionalOriginalPIBPhotos": 2,
+  "selectedMedia": 4,
+  "held": [
+    {
+      "subject": "COP17 Yerevan Pathway",
+      "reason": "Unresolved full-depth five-language reuse: press release is explicitly not an official document; CBD official-text exception does not clearly cover it under restrictive general terms."
+    },
+    {
+      "subject": "Google Project Suncatcher model response",
+      "reason": "No adequate full-depth five-language reuse permission established for corporate progress posts."
+    },
+    {
+      "subject": "Anthropic automated safety-testing research",
+      "reason": "Source-stage hold: precise new publication date not established."
+    },
+    {
+      "subject": "WHO World Cities Day housing appeal",
+      "reason": "Source-stage hold: principal estimate predates this issue, not republished as new statistical news."
+    }
+  ],
+  "scopeNote": "Complete supplied source reports independently verified, edited and localized; archival photos marked as archival, and one clearly labeled conceptual illustration. Full validation and production acceptance tracked separately."
+}
