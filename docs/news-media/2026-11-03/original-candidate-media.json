@@ -1,0 +1,340 @@
+{
+  "issue": "2026-11-03",
+  "checkedAt": "2026-11-03",
+  "originalCandidateCount": 9,
+  "additionalSourceAssetCount": 1,
+  "records": [
+    {
+      "id": "A1",
+      "story": "OpenAI",
+      "title": "Real Estate",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Datacenter_Server_Racks_%2822370909788%29.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+      "creator": "Carl Lender",
+      "date": "2015-11-04 11:52",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": [
+        6000,
+        4000
+      ],
+      "decision": "hold_current_download_403",
+      "currentPixelsInspected": false,
+      "decodedDimensions": null,
+      "decodedRGBSHA256": null,
+      "sha256": null,
+      "bytes": null,
+      "reason": "Exact original request returned 403 in recovery. Not retried or bypassed. Current work page independently confirms date, creator and CC BY 2.0, including 2015 Flickr review. No current binary or pixel inspection. Not a Georgia site image.",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:15Z",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "A2",
+      "story": "OpenAI",
+      "title": "Electrical substation transformer, Love Lane, Liverpool",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Electrical_substation_transformer%2C_Love_Lane%2C_Liverpool.JPG",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Electrical_substation_transformer,_Love_Lane,_Liverpool.JPG",
+      "creator": "Rept0n1x",
+      "date": "2012-09-29 10:24:51",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": [
+        3240,
+        4320
+      ],
+      "decision": "hold_prior_download_403",
+      "currentPixelsInspected": false,
+      "decodedDimensions": null,
+      "decodedRGBSHA256": null,
+      "sha256": null,
+      "bytes": null,
+      "reason": "Prior exact-original request was denied; not retried. Current work page confirms attribution, date, Liverpool location and CC BY-SA 3.0. Pixels not available. Not Georgia infrastructure.",
+      "currentRetrieval": {
+        "status": "not_retried",
+        "priorOutcome": "HTTP 403 on the exact original URL",
+        "decodedPixelsAvailable": false
+      }
+    },
+    {
+      "id": "B1",
+      "story": "ISM",
+      "title": "New Marlin Steel robot 6",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Marlin_Steel_robot_6.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:New_Marlin_Steel_robot_6.jpg",
+      "creator": "Aratner1",
+      "date": "2009-08-14",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": [
+        320,
+        214
+      ],
+      "decision": "hold_prior_download_403_and_low_resolution",
+      "currentPixelsInspected": false,
+      "decodedDimensions": null,
+      "decodedRGBSHA256": null,
+      "sha256": null,
+      "bytes": null,
+      "reason": "Prior exact-original request was denied; not retried. Current work page confirms date, author, license and Baltimore wire-shaping robot description. Its declared original is only 320×214, unsuitable as a large cover. No pixel inspection; not evidence of an ISM sample company or October 2026 production.",
+      "currentRetrieval": {
+        "status": "not_retried",
+        "priorOutcome": "HTTP 403 on the exact original URL",
+        "decodedPixelsAvailable": false
+      }
+    },
+    {
+      "id": "C1",
+      "story": "UNESCO",
+      "title": "Journalists march in Delhi in defense of press freedom, 2018",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Journalists_march_in_Delhi_in_defense_of_press_freedom%2C_2018.png",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Journalists_march_in_Delhi_in_defense_of_press_freedom,_2018.png",
+      "creator": "NewsClick",
+      "date": "2018-03-26",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": [
+        1920,
+        1080
+      ],
+      "decision": "hold_story_out_of_scope_and_current_download_403",
+      "currentPixelsInspected": false,
+      "decodedDimensions": null,
+      "decodedRGBSHA256": null,
+      "sha256": null,
+      "bytes": null,
+      "reason": "Work page confirms NewsClick video still from Delhi, date and CC BY 3.0. The page flags an existing watermark/credit, which must not be removed. Exact binary request returned 403; not retried. No current pixels inspected. Unrelated to specific 2026 UNESCO cases.",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:15Z",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "D1",
+      "story": "WFP",
+      "title": "Ukrainian police delivers humanitarian aid to Maryinka, 25 March 2022 (03)",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ukrainian_police_delivers_humanitarian_aid_to_Maryinka%2C_25_March_2022_%2803%29.jpg",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Ukrainian_police_delivers_humanitarian_aid_to_Maryinka,_25_March_2022_(03).jpg",
+      "creator": "National Police of Ukraine",
+      "date": "2022-03-25",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": [
+        1280,
+        640
+      ],
+      "decision": "hold_story_out_of_scope_and_current_download_403",
+      "currentPixelsInspected": false,
+      "decodedDimensions": null,
+      "decodedRGBSHA256": null,
+      "sha256": null,
+      "bytes": null,
+      "reason": "Current work page confirms Ukraine police, Maryinka, date, CC BY 4.0 with npu.gov.ua attribution. Binary request returned 403; not retried. No current pixels inspected. Not WFP, Oleshky or the 2026 evacuation.",
+      "additionalAttributionURL": "https://npu.gov.ua/",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:15Z",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "O1",
+      "story": "OpenAI",
+      "title": "Introducing the Grid Protectors Program social cover",
+      "sourceURL": "https://images.ctfassets.net/kftzwdyauwt9/0147SbQFof5ozkgFJTdG0j/1daae8bb107fb504ef83be52e10e550f/introducing-the-grid-protectors-program-social.png?w=1600&h=900&fit=fill",
+      "sourcePageURL": "https://openai.com/index/grid-protectors-program/",
+      "creator": null,
+      "date": null,
+      "license": null,
+      "licenseURL": null,
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": [
+        1600,
+        900
+      ],
+      "decision": "hold_no_asset_specific_republication_grant",
+      "currentPixelsInspected": true,
+      "decodedDimensions": [
+        1600,
+        900
+      ],
+      "decodedRGBSHA256": "e65960f3a976486771ab32a4ac60bee73f1246f70b02bcc868e036da62e60cee",
+      "sha256": "803795d6a4ddb7264327cfc26b56c6b73427c1e35567c6581280bb9d2eb8437f",
+      "bytes": 1552118,
+      "reason": "Actual pixels inspected: orange/pink gradient with announcement title; a branded social graphic, not an event photograph. Source page is dated 2026-11-02; that is not a known image-creation date. No asset-specific reuse grant established.",
+      "publisher": "OpenAI",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:15Z",
+        "status": 200,
+        "content_type": "image/png",
+        "received_bytes": 1552118
+      }
+    },
+    {
+      "id": "O2",
+      "story": "ISM",
+      "title": "ISM large logo",
+      "sourceURL": "https://www.ismworld.org/globalassets/pub/navigation-images/ism-logo-lg.png",
+      "sourcePageURL": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "creator": null,
+      "date": null,
+      "license": null,
+      "licenseURL": null,
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": null,
+      "decision": "hold_no_asset_specific_republication_grant_and_current_download_403",
+      "currentPixelsInspected": false,
+      "decodedDimensions": null,
+      "decodedRGBSHA256": null,
+      "sha256": null,
+      "bytes": null,
+      "reason": "Exact logo download returned 403; no retry. Prior full source inspection identified an institutional logo, not a documentary manufacturing photograph. No current pixel inspection or asset-specific reuse grant. Logo/brand ownership is not an image republication license.",
+      "publisher": "Institute for Supply Management",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:15Z",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "O3",
+      "story": "UNESCO",
+      "title": "Safety of Journalists source cover",
+      "sourceURL": "https://www.unesco.org/sites/default/files/styles/best_image/article/2024-11/hub_safety_of_journalists_1900x800.jpg.webp?itok=Dm1217X2",
+      "sourcePageURL": "https://www.unesco.org/en/articles/six-out-seven-journalists-killings-are-not-brought-justice-reversing-progress-fight-against-impunity",
+      "creator": "Shutterstock (source credit; individual photographer not supplied)",
+      "date": null,
+      "license": null,
+      "licenseURL": null,
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": null,
+      "decision": "hold_third_party_stock_rights_and_story_out_of_scope",
+      "currentPixelsInspected": true,
+      "decodedDimensions": [
+        1200,
+        628
+      ],
+      "decodedRGBSHA256": "5c8438427c8df88abdc90900f958a00c758eda60d83b990a96c77abdbb5aa3e4",
+      "sha256": "c5373d5fa6522c6135a5fb0204805c6a9d5ca88b41d7688ee65f0bd0eb1addf6",
+      "bytes": 37658,
+      "reason": "Actual pixels inspected: camera-holder with helmet/respirator in a smoky street. The source page credits Shutterstock, not a permissive image license. Date and location not supplied. No right to republish this stock photograph established.",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:20Z",
+        "status": 200,
+        "content_type": "image/webp",
+        "received_bytes": 37658
+      }
+    },
+    {
+      "id": "O4",
+      "story": "WFP",
+      "title": "News Release fallback",
+      "sourceURL": "https://www.wfp.org/modules/custom/wfp_metatag/images/metatag-news-fallback.jpg",
+      "sourcePageURL": "https://www.wfp.org/news/world-food-programme-ground-providing-emergency-food-assistance-oleshky-evacuees-ukraine",
+      "creator": null,
+      "date": null,
+      "license": null,
+      "licenseURL": null,
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": null,
+      "decision": "hold_generic_brand_graphic_and_story_out_of_scope",
+      "currentPixelsInspected": true,
+      "decodedDimensions": [
+        1200,
+        630
+      ],
+      "decodedRGBSHA256": "98bcfb4783b4fc94139ee4963861baa477972a189e82dbf1443a514bbe282dcf",
+      "sha256": "9df62414e9a647f44c0753d9c2524c62cfefa928f6e6aadfd8089fa6fbe1be7d",
+      "bytes": 128368,
+      "reason": "Actual pixels inspected: blue WFP logo/news-release card. Current downloaded HTML confirms this OG/Twitter fallback and only logo/menu image elements, no event photo. No per-asset license established. Does not depict evacuees.",
+      "publisher": "World Food Programme",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:20Z",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "received_bytes": 128368
+      }
+    },
+    {
+      "id": "E1",
+      "story": "ISM",
+      "title": "Survey promotional keyboard graphic",
+      "sourceURL": "https://www.ismworld.org/globalassets/pub/553x359/553x359_survey.jpg",
+      "sourcePageURL": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "creator": null,
+      "date": null,
+      "license": null,
+      "licenseURL": null,
+      "rightsCheckedAt": "2026-11-03T04:51:44Z",
+      "declaredSourceDimensions": null,
+      "decision": "hold_promotional_graphic_and_current_download_403",
+      "currentPixelsInspected": false,
+      "decodedDimensions": null,
+      "decodedRGBSHA256": null,
+      "sha256": null,
+      "bytes": null,
+      "reason": "Current exact binary request returned 403; not retried. Earlier inspection during preparation identified a 553×359 survey/keyboard promotional graphic, no asset-specific reuse grant, not a documentary factory photo. That is historical inspection, not current decoded-pixel evidence.",
+      "currentRetrieval": {
+        "attempt_utc": "2026-11-03T04:49:20Z",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "earlierInspection": {
+        "dimensions": [
+          553,
+          359
+        ],
+        "type": "keyboard survey promotional graphic",
+        "currentReinspection": false
+      }
+    }
+  ],
+  "sourceInventory": {
+    "ISM": {
+      "reportURL": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "newsReleaseURL": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
+      "earlierCompletedInspection": {
+        "reportTables": 16,
+        "reportImages": [
+          "institutional logo",
+          "survey keyboard promotion"
+        ],
+        "newsReleaseImages": [
+          "institutional logo"
+        ],
+        "documentaryFactoryPhotoFound": false,
+        "scope": "These exact report and news-release pages; no claim about all ISM or other publishers’ imagery."
+      },
+      "currentCheck": "Both pages were readable through a web text representation, but subsequent exact raw HTML requests returned HTTP 403. The full image inventory above is from the earlier completed inspection, not a fresh full HTML inventory. No denied route was retried. Current logo and survey graphic binary requests also returned HTTP 403.",
+      "publicationChoice": "An independently verified, licensed real archival factory photo was selected instead of generating an illustration."
+    },
+    "WFP": {
+      "currentHTMLInspected": true,
+      "imageInventory": "Institutional logos and menu controls only; OG and Twitter image both point to the generic news-release fallback. No documentary event photograph present in the inspected HTML."
+    },
+    "UNESCO": {
+      "currentHTMLInspected": true,
+      "imageInventory": "Article hero credited to Shutterstock; auxiliary portraits, navigation and related-story images are not evidence of the report findings. No applicable reuse grant for the article hero established."
+    }
+  },
+  "selectedAlternatives": [
+    {
+      "story": "OpenAI",
+      "localPath": "/news-media/2026-10-23/datacenter.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "license": "CC0 1.0"
+    },
+    {
+      "story": "ISM",
+      "localPath": "/news-media/2026-10-17/ford-kansas-assembly.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Kansas_City_Assembly.png",
+      "license": "CC BY 2.0"
+    }
+  ],
+  "allSelectedAssetsAreRealPhotographs": true,
+  "generatedImages": 0,
+  "scopeNotes": "UNESCO and WFP stories are held outside this edition’s selected scope. Candidate copyright eligibility, actual retrieval, decoded pixels and editorial suitability are recorded separately; a readable work page does not mean the original image was obtained."
+}

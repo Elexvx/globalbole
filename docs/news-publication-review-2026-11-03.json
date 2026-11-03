@@ -1,0 +1,36 @@
+{
+  "issue": "2026-11-03",
+  "receivedCompleteChineseDrafts": 4,
+  "candidateDecisions": 8,
+  "selectedSubjects": 2,
+  "plannedEditions": 10,
+  "suppliedArchivalMediaRecords": 5,
+  "suppliedSourceAssetRecords": 4,
+  "heldCandidates": [
+    {
+      "subject": "UNESCO journalist safety",
+      "reason": "Ambiguous sensitive political subject; conservative scope hold, not a categorical organization ban."
+    },
+    {
+      "subject": "WFP Oleshky aid",
+      "reason": "Active-war ceasefire/access subject; conservative scope hold, not a categorical country or humanitarian-news ban."
+    },
+    {
+      "subject": "RatingDog China manufacturing PMI",
+      "reason": "Complete original primary release was not obtained in supplied handoff."
+    },
+    {
+      "subject": "Japan disaster agency",
+      "reason": "Original official details inaccessible in supplied handoff."
+    },
+    {
+      "subject": "US DOE grid supply-chain funding opportunity",
+      "reason": "October 30 announcement without a new development; not relabeled as November news."
+    },
+    {
+      "subject": "US JOLTS",
+      "reason": "Release scheduled after handoff cutoff; no unpublished data reported."
+    }
+  ],
+  "dateNote": "November 3 issue; no backdating into the missing November 2 handoff."
+}

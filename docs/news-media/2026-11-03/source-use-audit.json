@@ -1,0 +1,30 @@
+{
+  "issue": "2026-11-03",
+  "basis": "Transformation of supplied original editorial manuscripts, with primary-source fact checking and limited necessary factual corrections. Publicly reported facts and original editorial analysis are distinguished from protected source expression.",
+  "textUse": {
+    "copiedReportPassages": false,
+    "respondentQuotations": false,
+    "recreatedCharts": false,
+    "newThirdPartyMaterial": [
+      {
+        "source": "Georgia Power August 26 contract announcement",
+        "detail": "The household savings example is for 1,000 kWh per month.",
+        "maximumWordsPerEdition": 20,
+        "editions": 5,
+        "maximumAggregateWords": 100
+      }
+    ],
+    "sourceTitles": "Bibliographic titles and links retained from the supplied manuscripts."
+  },
+  "openaiCorrections": [
+    "Electricity-use reduction rather than an unsupported claim about reducing computing load.",
+    "Contract maximum and future campus are not measured operating results.",
+    "Projected savings belong to the portfolio and expected growth, not this campus alone."
+  ],
+  "ismCorrections": [
+    "Prices and deliveries are diffusion indices, not inflation or delivery-speed measurements.",
+    "GDP relationship is a model estimate, not an observed monthly GDP result.",
+    "Capacity and margin implications remain explicitly conditional."
+  ],
+  "images": "Individual rights and access decisions are recorded separately; a readable image or corporate attribution does not alone grant reuse rights."
+}

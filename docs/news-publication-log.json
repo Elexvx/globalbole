@@ -5016,6 +5016,69 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-03-zh-CN",
+      "issue": "2026-11-03",
+      "publicationDate": "2026-11-03",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication date; no invented precise original timestamp. Native deployment and formal acceptance verified separately.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "openai-grid-protectors-program-2026-11-03",
+          "path": "content/issues/2026-11-03/zh-CN/openai-grid-protectors-program-2026-11-03.md",
+          "eventDate": "2026-11-02",
+          "sourceDate": "2026-11-02",
+          "sources": [
+            {
+              "title": "Introducing the Grid Protectors Program",
+              "url": "https://openai.com/index/grid-protectors-program/",
+              "footnote": 1,
+              "verificationDate": "2026-11-03"
+            },
+            {
+              "title": "Georgia Power to serve OpenAI project in Effingham County",
+              "url": "https://www.georgiapower.com/news-hub/press-releases/georgia-power-to-serve-openai-project-in-effingham-county.html",
+              "footnote": 2,
+              "verificationDate": "2026-11-03"
+            },
+            {
+              "title": "Georgia Power’s contract with OpenAI approved; Latest approval part of portfolio of large-load contracts delivering approximately $950 million in annual savings beginning in 2029",
+              "url": "https://www.georgiapower.com/news-hub/press-releases/contract-openai-approved-part-portfolio-delivering-950-million-annual-savings.html",
+              "footnote": 3,
+              "verificationDate": "2026-11-03"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-october-ism-manufacturing-pmi-2026-11-03",
+          "path": "content/issues/2026-11-03/zh-CN/us-october-ism-manufacturing-pmi-2026-11-03.md",
+          "eventDate": "2026-11-02",
+          "sourceDate": "2026-11-02",
+          "sources": [
+            {
+              "title": "October 2026 ISM® Manufacturing PMI® Report",
+              "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+              "footnote": 1,
+              "verificationDate": "2026-11-03"
+            },
+            {
+              "title": "Manufacturing PMI® at 55.5%; October 2026 ISM® Manufacturing PMI® Report",
+              "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
+              "footnote": 2,
+              "verificationDate": "2026-11-03"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [
