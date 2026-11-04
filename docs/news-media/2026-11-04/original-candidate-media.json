@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "issue": "2026-11-04",
+  "verifiedAt": "2026-11-04T03:05:43.983776+00:00",
+  "originalSelections": [
+    {
+      "id": "M1",
+      "articleKey": "us-september-jolts-2026-11-04",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/First_Source_Jobs_Program_job_fair.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg",
+      "author": "Mscalafani",
+      "date": "2014-10-24",
+      "location": null,
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseEvidence": "The Commons work page identifies Mscalafani as the author and rights holder, own work dated 24 October 2014, licensed under CC BY-SA 4.0.",
+      "decision": "retain",
+      "roles": [
+        "cover",
+        "body"
+      ],
+      "finalAssetPath": "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg",
+      "selectionOrigin": "original editorial selection",
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "originalSha256": "adb315c292effe7c2596caabc18665c24209a844da913dfed4762073f134886e",
+      "decodedRgbSha256": "1c57b79a35a02b6fec58c359fce1fa482d19643efbc60304bb02a550f50e384f",
+      "width": 5184,
+      "height": 3456,
+      "bytes": 4413180
+    },
+    {
+      "id": "M2",
+      "articleKey": "openai-physical-engineering-prototypes-2026-11-04",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Printed_circuit_boards_20240831_083726.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg",
+      "author": "IMG 4512",
+      "date": "2024-08-31",
+      "location": null,
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseEvidence": "The Commons work page identifies IMG 4512 as author of the original photograph dated 31 August 2024 and supplies CC0 1.0.",
+      "decision": "retain",
+      "roles": [
+        "cover",
+        "body"
+      ],
+      "finalAssetPath": "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg",
+      "selectionOrigin": "original editorial selection",
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "originalSha256": "9022761e1d9594024c530c81e7b62c52077087ec580cdd92082a9e676ab07ecf",
+      "decodedRgbSha256": "eb0df9600048995f5f280f0740a4a402408a693488dcd414be3689dddb5f3e88",
+      "width": 4000,
+      "height": 3000,
+      "bytes": 4631791
+    },
+    {
+      "id": "M3",
+      "articleKey": "lg-energy-storage-orders-capacity-2026-11-04",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Stanton_Battery_Energy_Storage_%28SBES%29_10-8-2024.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Stanton_Battery_Energy_Storage_(SBES)_10-8-2024.jpg",
+      "author": "Sig. Chiocciola",
+      "date": "2024-10-08",
+      "location": "Stanton, California, United States",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseEvidence": "The Commons work page identifies Sig. Chiocciola, own work, Stanton, California, 8 October 2024 and CC0 1.0.",
+      "decision": "retain",
+      "roles": [
+        "body"
+      ],
+      "finalAssetPath": "/news-media/2026-11-04/stanton-battery-storage-2024-chiocciola.jpg",
+      "coverDecision": "Do not use as landscape cover; retain portrait body photograph.",
+      "supplementId": "F3",
+      "reason": "Only 538×672 pixels; full-width fill-cover would require disproportionate cropping and enlargement.",
+      "selectionOrigin": "original editorial selection",
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "originalSha256": "c83bd491cff86f6e329ea8dda3173dedaaa0a05fb95833204bedfd82551dd534",
+      "decodedRgbSha256": "e92e49bf21104c4afd64134d193bb6c1da93fe100706ccad03bdfefb0be94650",
+      "width": 538,
+      "height": 672,
+      "bytes": 447530
+    },
+    {
+      "id": "M4",
+      "articleKey": "camillus-solar-operating-permission-2026-11-04",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Geschlossene_M%C3%BClldeponie_Eichelbuck_im_Freiburger_Mooswald_mit_Photovoltaik.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Geschlossene_M%C3%BClldeponie_Eichelbuck_im_Freiburger_Mooswald_mit_Photovoltaik.jpg",
+      "author": "Andreas Schwarzkopf",
+      "date": "2019-03-29",
+      "location": "Eichelbuck, Freiburg im Breisgau, Germany",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseEvidence": "The Commons work page identifies Andreas Schwarzkopf, own work dated 29 March 2019, and CC BY-SA 4.0.",
+      "decision": "retain",
+      "roles": [
+        "cover",
+        "body"
+      ],
+      "finalAssetPath": "/news-media/2026-11-04/eichelbuck-landfill-solar-2019-schwarzkopf.jpg",
+      "selectionOrigin": "original editorial selection",
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "originalSha256": "1bcb2d8e99d7be8f23d0553c8c9b160eabe150a4965d76f87ed272b1c821ff3a",
+      "decodedRgbSha256": "369356d9d4d692ed67c7700b77911058115d9e4d325282568f6a331d4691feca",
+      "width": 3552,
+      "height": 2752,
+      "bytes": 4668435
+    },
+    {
+      "id": "M5",
+      "articleKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/SOC_Security_Monitors.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:SOC_Security_Monitors.jpg",
+      "author": "UMD-Eskin",
+      "date": null,
+      "location": "University of Maryland, United States",
+      "license": "Creator worldwide public-domain release with unconditional-use fallback; not CC0",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:SOC_Security_Monitors.jpg#Licensing",
+      "licenseEvidence": "The work page states a worldwide public-domain release by the rights holder, with a fallback grant for any purpose subject only to law. The upload timestamp 2008-08-03 is not a reliable capture date.",
+      "decision": "exclude-from-publication",
+      "reason": "Actual pixels show campus physical-security CCTV feeds and operators, not cybersecurity operations. Labeling it an AI or cybersecurity scene would mislead. Native resolution is also only 601×432.",
+      "replacementId": "F5b",
+      "replacementIsSourceOriginal": false,
+      "selectionOrigin": "original editorial selection",
+      "pixelsInspected": true,
+      "fullyDecoded": true,
+      "originalSha256": "ed6214841c391fdae3d22d40d1f8b81ed81332c98ed1e96acbc165f4ca4ee1c3",
+      "decodedRgbSha256": "9c815bd4f5732d09affbef058973c00a0d23c012f051e4e49ea4e9fcf8490b74",
+      "width": 601,
+      "height": 432,
+      "bytes": 126696
+    }
+  ],
+  "originalArticleMedia": [
+    {
+      "id": "BLS-emblem",
+      "articleKey": "us-september-jolts-2026-11-04",
+      "sourcePage": "https://www.bls.gov/news.release/jolts.htm",
+      "sourceUrl": "https://www.bls.gov/images/bls_emblem_trans.png",
+      "depiction": "Agency emblem, not a recruiting photograph",
+      "decision": "exclude",
+      "rightsEvidenceUrl": "https://www.bls.gov/bls/linksite.htm",
+      "rightsStatus": "BLS identifies its emblem as a registered trademark and prohibits unauthorized emblem use. Do not treat it as a public-domain cover.",
+      "verificationGap": "Agency emblem identified. Social-card metadata and all dynamically loaded media were not exhaustively inspected."
+    },
+    {
+      "id": "OpenAI-prototype-enclosure-diagram",
+      "articleKey": "openai-physical-engineering-prototypes-2026-11-04",
+      "sourcePage": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "sourceUrl": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+      "depiction": "Prototype device enclosure diagram",
+      "decision": "exclude-pending-rights",
+      "rightsStatus": "No specific downstream republication permission was established.",
+      "recreation": "Not recreated, reconstructed or replaced by a look-alike diagram.",
+      "verificationGap": "The direct image was identified but could not be independently visually verified for this publication. A specific republication license was not established."
+    },
+    {
+      "id": "OpenAI-Mazda-aerodynamics-media",
+      "articleKey": "openai-physical-engineering-prototypes-2026-11-04",
+      "sourcePage": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "depiction": "Mazda aerodynamics media in the original article",
+      "decision": "exclude-explicit-prohibition",
+      "rightsStatus": "Explicit article prohibition on downstream republication/reuse, irrespective of OpenAI’s own permission from Mazda.",
+      "rightsEvidenceQuote": "Any republication or reuse elsewhere is strictly prohibited.",
+      "recreation": "Not recreated or reconstructed.",
+      "verificationGap": "The explicit prohibition is established, but exact dynamically loaded asset URLs remain unenumerated. Original Mazda media are excluded, not claimed to be absent."
+    },
+    {
+      "id": "LG-original-media-discovery-gap",
+      "articleKey": "lg-energy-storage-orders-capacity-2026-11-04",
+      "sourcePages": [
+        "https://www.lgcorp.com/media/release/30742",
+        "https://lg.co.kr/media/release/30650"
+      ],
+      "decision": "exclude-unestablished-image-rights",
+      "rightsStatus": "Readable articles did not establish a specific reusable factory/storage photo; an all-rights-reserved footer was present.",
+      "verificationGap": "No reusable factory or storage photograph was established from the readable releases. The generic social-image description was not independently verified; this does not establish image absence."
+    },
+    {
+      "id": "PowerBank-Camillus-media-discovery-gap",
+      "articleKey": "camillus-solar-operating-permission-2026-11-04",
+      "sourcePages": [
+        "https://www.prnewswire.com/news-releases/powerbank-secures-permission-to-operate-for-3-26-mw-new-york-solar-project-valued-at-us7-3-million-302927417.html",
+        "https://powerbankcorp.com/7-3-million-usd-transaction-entered-into-with-solar-advocate-development-llc-for-the-sale-and-construction-of-the-camillus-solar-project/"
+      ],
+      "decision": "exclude-unestablished-image-rights",
+      "rightsStatus": "No work-specific Camillus photo with a verified reuse grant was established; company site carried an all-rights-reserved footer.",
+      "verificationGap": "No work-specific Camillus photograph accompanied by a verified reuse grant was established. This does not establish that no authorized photograph exists."
+    },
+    {
+      "id": "CrowdStrike-press-release-share-image",
+      "articleKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "sourcePage": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-delivers-ai-security-safety-for-the-enterprise/",
+      "decision": "exclude-unestablished-image-rights",
+      "rightsStatus": "No reusable event-specific photo or reuse grant was established in the press-release extraction.",
+      "verificationGap": "Share-image pixels and a specific direct URL were not independently verified."
+    },
+    {
+      "id": "CrowdStrike-blog-hero",
+      "articleKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "sourcePage": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+      "sourceUrl": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/Blog-Introducing-AI-Kill-Switch-1?fmt=png-alpha&hei=698&op_usm=3.0%2C0.3%2C2%2C0&qlt=95%2C0&resMode=sharp2&wid=1060",
+      "depiction": "Substantive article hero, omitted from the original handoff inventory",
+      "decision": "exclude-pending-rights-and-pixels",
+      "rightsStatus": "No republication grant found; CrowdStrike copyright notice present.",
+      "verificationGap": "The direct image request did not produce inspectable pixels. URL transformation dimensions were not measured original dimensions. No reuse grant was established."
+    },
+    {
+      "id": "CrowdStrike-blog-Figure-1",
+      "articleKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "sourcePage": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+      "sourceUrl": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/Blog-KillSwitch-1?fmt=png-alpha&hei=1132&op_usm=3.0%2C0.3%2C2%2C0&qlt=95%2C0&resMode=sharp2&wid=2048",
+      "depiction": "Figure 1: AI Kill Switch within Falcon Guardian",
+      "decision": "exclude-pending-rights-and-pixels",
+      "rightsStatus": "No republication grant found; CrowdStrike copyright notice present.",
+      "recreation": "Not recreated, reconstructed or replaced by a keyword-similar interface.",
+      "verificationGap": "The direct image request did not produce inspectable pixels. URL transformation dimensions were not measured original dimensions. No reuse grant was established."
+    }
+  ],
+  "supplementalAndFallbackCandidates": [
+    {
+      "id": "F3",
+      "articleKey": "lg-energy-storage-orders-capacity-2026-11-04",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Reid_Gardner_BESS.jpg",
+      "decision": "adopt",
+      "reason": "Adds a high-resolution landscape view for the unchanged fill-cover layout. M3 remains in the article body; this is not presented as an original source selection.",
+      "selectionOrigin": "publication-stage licensed photograph"
+    },
+    {
+      "id": "F5b",
+      "articleKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "workPage": "https://commons.wikimedia.org/wiki/File:AFCYBER_Airmen_reach_%E2%80%98firsts%E2%80%99_in_global_exercises_(5267410).jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/AFCYBER_Airmen_reach_%E2%80%98firsts%E2%80%99_in_global_exercises_%285267410%29.jpg",
+      "decision": "adopt",
+      "reason": "Replaces excluded M5 campus CCTV imagery with a documented cyber-operations photograph. It is a new licensed fallback, not an image selected by the source conversation.",
+      "selectionOrigin": "publication-stage licensed photograph"
+    },
+    {
+      "id": "F5a",
+      "articleKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "workPage": "https://commons.wikimedia.org/wiki/File:210303-F-ZY709-1002_616th_Operations_Center.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/210303-F-ZY709-1002_616th_Operations_Center.jpg",
+      "decision": "not-selected-redundant-alternative",
+      "reason": "Real 616th Operations Center photograph was opened, but F5b provides a larger, tighter cyber-work scene with readable primary DVIDS evidence. No need to add a second generic military cyber scene.",
+      "author": "U.S. Air Force / Vincent Childress",
+      "date": "2021-03-03",
+      "location": "Joint Base San Antonio-Lackland, Texas, United States",
+      "license": "Public domain in the United States (U.S. Air Force official work)",
+      "selectionOrigin": "publication-stage licensed photograph",
+      "verificationGap": "The linked primary article returned HTTP 403. Its Commons page and photographic pixels were readable; the separately documented F5b was selected instead."
+    }
+  ],
+  "inventoryScope": "All five original editorial image selections are preserved. Dynamic source-article media were not exhaustively enumerated; specific reading and reuse-permission gaps are retained."
+}

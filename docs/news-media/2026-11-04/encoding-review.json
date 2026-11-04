@@ -1,0 +1,190 @@
+{
+  "editionDate": "2026-11-04",
+  "reviewedAt": "2026-11-04T03:17:00Z",
+  "scope": "Four exact-path AVIF quality adjustments for new photographs only. Earlier photographs, source pixels, derivative dimensions and WebP encodings remain unchanged.",
+  "encoder": {
+    "rotate": true,
+    "resize": "Full frame; original aspect ratio; without enlargement",
+    "avif": {
+      "effort": 6,
+      "chromaSubsampling": "4:4:4",
+      "defaultQuality": 65
+    },
+    "webp": {
+      "quality": 76,
+      "effort": 5
+    }
+  },
+  "aggregate": {
+    "webpBytes": 32918218,
+    "avifBytes": 29590793,
+    "avifToWebpRatio": 0.8989184347706792,
+    "maximumRatioExclusive": 0.9,
+    "marginBelowLimitBytes": 35603.199999999255,
+    "status": "Calculated from actual candidate bytes plus unchanged existing derivatives; verify after the production build."
+  },
+  "photos": [
+    {
+      "path": "/news-media/2026-11-04/eichelbuck-landfill-solar-2019-schwarzkopf.jpg",
+      "avifQuality": 61,
+      "exactPathOverride": true,
+      "sourceDimensions": {
+        "width": 3552,
+        "height": 2752
+      },
+      "derivativeWidths": [
+        160,
+        320,
+        480,
+        704,
+        832,
+        960,
+        1280,
+        1920
+      ],
+      "webpBytes": 1325288,
+      "avifBytes": 1110802,
+      "avifToWebpRatio": 0.8381589511110038,
+      "visualReview": "At full-frame 1280 px, solar-panel row boundaries, fine branches, distant turbines and foreground blossoms remain clear and comparable with the WebP fallback.",
+      "fullFrame1280PsnrDb": {
+        "avif": 31.64595031709824,
+        "webp": 31.06413245201656,
+        "reference": "Identically rotated and resized original source; RGB PSNR is supporting evidence, not a substitute for visual review."
+      }
+    },
+    {
+      "path": "/news-media/2026-11-04/air-force-cyber-operations-2018-biermann.jpg",
+      "avifQuality": 65,
+      "exactPathOverride": false,
+      "sourceDimensions": {
+        "width": 4447,
+        "height": 3006
+      },
+      "derivativeWidths": [
+        160,
+        320,
+        480,
+        704,
+        832,
+        960,
+        1280,
+        1920
+      ],
+      "webpBytes": 252630,
+      "avifBytes": 249420,
+      "avifToWebpRatio": 0.9872936705854412,
+      "visualReview": "The unchanged quality 65 AVIF was checked at full-frame 1280 px. Facial and hair detail, monitor outlines and dark gradients remain clear."
+    },
+    {
+      "path": "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg",
+      "avifQuality": 59,
+      "exactPathOverride": true,
+      "sourceDimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "derivativeWidths": [
+        160,
+        320,
+        480,
+        704,
+        832,
+        960,
+        1280,
+        1920
+      ],
+      "webpBytes": 515440,
+      "avifBytes": 501465,
+      "avifToWebpRatio": 0.9728872419680273,
+      "visualReview": "At full-frame 1280 px, battery enclosure labels and edges, fencing, mountain texture and cloud edges remain clear and comparable with the WebP fallback.",
+      "fullFrame1280PsnrDb": {
+        "avif": 37.59939180315523,
+        "webp": 35.67869223752512,
+        "reference": "Identically rotated and resized original source; RGB PSNR is supporting evidence, not a substitute for visual review."
+      }
+    },
+    {
+      "path": "/news-media/2026-11-04/stanton-battery-storage-2024-chiocciola.jpg",
+      "avifQuality": 65,
+      "exactPathOverride": false,
+      "sourceDimensions": {
+        "width": 538,
+        "height": 672
+      },
+      "derivativeWidths": [
+        160,
+        320,
+        480,
+        538
+      ],
+      "webpBytes": 217410,
+      "avifBytes": 181334,
+      "avifToWebpRatio": 0.8340646704383423,
+      "visualReview": "The unchanged quality 65 AVIF was checked at the full native 538 px width. Battery enclosures, equipment and wires remain clear. No enlargement was introduced."
+    },
+    {
+      "path": "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg",
+      "avifQuality": 61,
+      "exactPathOverride": true,
+      "sourceDimensions": {
+        "width": 4000,
+        "height": 3000
+      },
+      "derivativeWidths": [
+        160,
+        320,
+        480,
+        704,
+        832,
+        960,
+        1280,
+        1920
+      ],
+      "webpBytes": 669942,
+      "avifBytes": 632212,
+      "avifToWebpRatio": 0.943681691847951,
+      "visualReview": "At full-frame 1280 px, small chip lettering, solder joints, connector pins and circuit traces retain clear definition comparable with the WebP fallback.",
+      "fullFrame1280PsnrDb": {
+        "avif": 35.38527094736908,
+        "webp": 34.60976614993172,
+        "reference": "Identically rotated and resized original source; RGB PSNR is supporting evidence, not a substitute for visual review."
+      }
+    },
+    {
+      "path": "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg",
+      "avifQuality": 62,
+      "exactPathOverride": true,
+      "sourceDimensions": {
+        "width": 5184,
+        "height": 3456
+      },
+      "derivativeWidths": [
+        160,
+        320,
+        480,
+        704,
+        832,
+        960,
+        1280,
+        1920
+      ],
+      "webpBytes": 212574,
+      "avifBytes": 207807,
+      "avifToWebpRatio": 0.9775748680459511,
+      "visualReview": "At full-frame 1280 px, facial detail, hair, fabric folds and the projected First Source sign remain comparable with the WebP fallback.",
+      "fullFrame1280PsnrDb": {
+        "avif": 41.54448953667921,
+        "webp": 38.55092016320757,
+        "reference": "Identically rotated and resized original source; RGB PSNR is supporting evidence, not a substitute for visual review."
+      }
+    }
+  ],
+  "validation": {
+    "allPhotosSmallerThanWebp": true,
+    "globalRatioBelowPointNine": true,
+    "allCandidateFilesFullyDecoded": true,
+    "fullFrameDimensionsValidated": true,
+    "visualComparisons": "Actual full-frame display-resolution comparisons against the existing WebP fallback, not enlarged thumbnail crops.",
+    "qualitySelection": "High practical passing settings selected from tested candidates. No claim of an exhaustive integer-quality optimum."
+  }
+}

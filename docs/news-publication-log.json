@@ -5079,6 +5079,129 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-04-zh-CN",
+      "issue": "2026-11-04",
+      "publicationDate": "2026-11-04",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only issue and publication date. The five principal announcements are dated November 3, 2026; older background releases retain their original dates. No precise publication timestamp is invented. Production acceptance is verified separately.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "us-september-jolts-2026-11-04",
+          "path": "content/issues/2026-11-04/zh-CN/us-september-jolts-2026-11-04.md",
+          "eventDate": "2026-11-03",
+          "sourceDate": "2026-11-03",
+          "sources": [
+            {
+              "title": "Job Openings and Labor Turnover Survey News Release — September 2026",
+              "url": "https://www.bls.gov/news.release/jolts.htm",
+              "footnote": 1,
+              "sourceDate": "2026-11-03",
+              "publisher": "US Bureau of Labor Statistics",
+              "verificationDate": "2026-11-04",
+              "sourcePublicationTime": "10:00 ET"
+            }
+          ]
+        },
+        {
+          "translationKey": "openai-physical-engineering-prototypes-2026-11-04",
+          "path": "content/issues/2026-11-04/zh-CN/openai-physical-engineering-prototypes-2026-11-04.md",
+          "eventDate": "2026-11-03",
+          "sourceDate": "2026-11-03",
+          "sources": [
+            {
+              "title": "Accelerating engineering for the physical world",
+              "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+              "footnote": 1,
+              "sourceDate": "2026-11-03",
+              "publisher": "OpenAI",
+              "verificationDate": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "translationKey": "lg-energy-storage-orders-capacity-2026-11-04",
+          "path": "content/issues/2026-11-04/zh-CN/lg-energy-storage-orders-capacity-2026-11-04.md",
+          "eventDate": "2026-11-03",
+          "sourceDate": "2026-11-03",
+          "sources": [
+            {
+              "title": "LG Energy Solution Releases 2026 Third-Quarter Financial Results",
+              "url": "https://www.lgcorp.com/media/release/30742",
+              "footnote": 1,
+              "sourceDate": "2026-11-03",
+              "publisher": "LG Energy Solution, published by LG",
+              "verificationDate": "2026-11-04"
+            },
+            {
+              "title": "2026년 3분기 잠정실적 발표",
+              "url": "https://lg.co.kr/media/release/30650",
+              "footnote": 2,
+              "sourceDate": "2026-10-08",
+              "publisher": "LG Energy Solution, published by LG",
+              "verificationDate": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "translationKey": "camillus-solar-operating-permission-2026-11-04",
+          "path": "content/issues/2026-11-04/zh-CN/camillus-solar-operating-permission-2026-11-04.md",
+          "eventDate": "2026-11-03",
+          "sourceDate": "2026-11-03",
+          "sources": [
+            {
+              "title": "PowerBank Secures Permission to Operate for 3.26 MW New York Solar Project Valued at US$7.3 Million",
+              "url": "https://www.prnewswire.com/news-releases/powerbank-secures-permission-to-operate-for-3-26-mw-new-york-solar-project-valued-at-us7-3-million-302927417.html",
+              "footnote": 1,
+              "sourceDate": "2026-11-03",
+              "publisher": "PowerBank Corporation, distributed by PR Newswire",
+              "verificationDate": "2026-11-04",
+              "sourcePublicationTime": "09:00 ET"
+            },
+            {
+              "title": "$7.3 million USD Transaction Entered into with Solar Advocate Development LLC for the Sale and Construction of the Camillus Solar Project",
+              "url": "https://powerbankcorp.com/7-3-million-usd-transaction-entered-into-with-solar-advocate-development-llc-for-the-sale-and-construction-of-the-camillus-solar-project/",
+              "footnote": 2,
+              "sourceDate": "2025-03-19",
+              "publisher": "SolarBank, now PowerBank",
+              "verificationDate": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "translationKey": "crowdstrike-ai-kill-switch-2026-11-04",
+          "path": "content/issues/2026-11-04/zh-CN/crowdstrike-ai-kill-switch-2026-11-04.md",
+          "eventDate": "2026-11-03",
+          "sourceDate": "2026-11-03",
+          "sources": [
+            {
+              "title": "CrowdStrike Delivers AI Security and Safety for the Enterprise",
+              "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-delivers-ai-security-safety-for-the-enterprise/",
+              "footnote": 1,
+              "sourceDate": "2026-11-03",
+              "publisher": "CrowdStrike",
+              "verificationDate": "2026-11-04"
+            },
+            {
+              "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+              "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+              "footnote": 2,
+              "sourceDate": "2026-11-03",
+              "publisher": "CrowdStrike",
+              "verificationDate": "2026-11-04"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

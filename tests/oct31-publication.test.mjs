@@ -67,4 +67,13 @@ const repairBaseline={
   "scripts/optimize-images.mjs": "4541c29519997ae03a1ae1472bc164beb65fa1f5cb255b1f7cd765947e4c72e0",
   "tests/image-build-cache.test.mjs": "dbcddeae08c969b1eeb993f9c90ec1e753bfc9a9fe6139ec183c97b4504a60a5"
 };
-test('October31 preserves all five accepted image-cache repair files byte-for-byte',()=>{for(const [file,sha]of Object.entries(repairBaseline))assert.equal(hash(file),sha,file);});
+// Only the reviewed November 4 exact-path quality entries may extend this repair baseline.
+const approvedNov4AvifAddition = "  // November 4: reviewed full-frame equipment, circuitry, faces and solar-panel detail.\n  \"/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg\": 59,\n  \"/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg\": 61,\n  \"/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg\": 62,\n  \"/news-media/2026-11-04/eichelbuck-landfill-solar-2019-schwarzkopf.jpg\": 61,\n";
+function acceptedRepairHash(file) {
+  if (file !== 'scripts/optimize-images.mjs') return hash(file);
+  const current = read(file);
+  assert.equal(current.split(approvedNov4AvifAddition).length, 2, 'approved November 4 quality block occurs exactly once');
+  assert.ok(current.includes('const photoAvifQuality = {\n' + approvedNov4AvifAddition), 'approved entries remain inside the per-photo map');
+  return createHash('sha256').update(current.replace(approvedNov4AvifAddition, '')).digest('hex');
+}
+test('October31 preserves all five accepted image-cache repair files byte-for-byte',()=>{for(const [file,sha]of Object.entries(repairBaseline))assert.equal(acceptedRepairHash(file),sha,file);});

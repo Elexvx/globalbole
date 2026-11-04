@@ -9,6 +9,11 @@ import {createImageBuildCache} from "./image-build-cache.mjs";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // November 4: reviewed full-frame equipment, circuitry, faces and solar-panel detail.
+  "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg": 59,
+  "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg": 61,
+  "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg": 62,
+  "/news-media/2026-11-04/eichelbuck-landfill-solar-2019-schwarzkopf.jpg": 61,
   // October 30: reviewed full-frame supermarket signs and apartment/building detail.
   "/news-media/2026-10-30/las-vegas-supermarket.jpg": 61,
   "/news-media/2026-10-30/manhattan-apartments.jpg": 63,

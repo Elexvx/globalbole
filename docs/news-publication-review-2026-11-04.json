@@ -1,0 +1,242 @@
+{
+  "issue": "2026-11-04",
+  "publicationDate": "2026-11-04",
+  "receivedCompleteChineseDrafts": 5,
+  "candidateCount": 8,
+  "sourceStageCandidates": 8,
+  "sourceStageFullManuscripts": 5,
+  "selectedSubjects": 5,
+  "plannedEditions": 25,
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedKeys": [
+    "us-september-jolts-2026-11-04",
+    "openai-physical-engineering-prototypes-2026-11-04",
+    "lg-energy-storage-orders-capacity-2026-11-04",
+    "camillus-solar-operating-permission-2026-11-04",
+    "crowdstrike-ai-kill-switch-2026-11-04"
+  ],
+  "originalSourceNotes": 8,
+  "selectionSummary": "Eight candidates were assessed at source selection; five complete manuscripts were supplied and all five remain selected. The only three story holds are the original source-stage decisions below. Media substitutions do not exclude any of the five stories.",
+  "additionalStoryExclusions": [],
+  "heldCandidates": [
+    {
+      "subject": "IBM Agent Identity",
+      "sourceURL": "https://www.ibm.com/new/announcements/ibm-agent-identity-is-now-generally-available-building-trust-for-the-agentic-era",
+      "sourceDate": "2026-10-26",
+      "stage": "source-selection",
+      "reason": "The original announcement was dated October 26. No new development sufficient for a November 3–4 follow-up was established."
+    },
+    {
+      "subject": "California customer energy resources coordination framework",
+      "sourceURL": "https://webproda.cpuc.ca.gov/news-and-updates/all-news/cpuc-advances-integration-of-customer-energy-resources",
+      "sourceDate": "2026-10-29",
+      "stage": "source-selection",
+      "reason": "Both the decision and announcement were dated October 29. No new November 3–4 implementation development was verified."
+    },
+    {
+      "subject": "Children killed and injured in airstrikes in Rakhine, Myanmar",
+      "sourceURL": "https://www.unicef.org/asia-pacific/press-releases/unicef-statement-children-killed-and-injured-airstrikes-rakhine-myanmar",
+      "stage": "source-selection",
+      "reason": "UNICEF described reports it had received. Independently verified incident details were insufficient; reported casualty numbers were not treated as confirmed final totals."
+    }
+  ],
+  "dateReview": {
+    "mainEventDate": "2026-11-03",
+    "issueAndPublicationDate": "2026-11-04",
+    "precisePublicationTimestampAssigned": false,
+    "note": "Source-release dates, economic data periods and older contractual or earnings background dates remain distinct. The September JOLTS data period and November 3 release date are retained because the BLS release URL changes over time."
+  },
+  "factualReview": [
+    {
+      "translationKey": "us-september-jolts-2026-11-04",
+      "dataPeriod": "2026-09",
+      "preservedFacts": [
+        "7.5 million openings and a 4.5% openings rate; 5.4 million hires; 5.3 million total separations; 3.4 million quits; 1.6 million layoffs and discharges.",
+        "August openings revised upward by 111,000 to 7.2 million.",
+        "State and local government openings excluding education rose by 104,000; accommodation and food-services hires rose by 158,000 and quits by 197,000; health-care and social-assistance layoffs and discharges fell by 70,000."
+      ],
+      "qualifiers": [
+        "Month-end openings are a stock; hires and separations are monthly flows. These measures cannot simply be subtracted to estimate employment growth.",
+        "Single-month industry changes do not establish a market-wide turning point."
+      ],
+      "novelty": "A new September data release, distinct from earlier coverage using August JOLTS as background."
+    },
+    {
+      "translationKey": "openai-physical-engineering-prototypes-2026-11-04",
+      "preservedFacts": [
+        "Two members designed a test device in under a week alongside other work; a contract manufacturer produced a small prototype batch in under a month.",
+        "Hardware-team token usage reached 23 times its February baseline. BenchCAD 2.0 scores were 0.875 for a newer internal model and 0.594 for GPT-6 Astra at its highest reasoning setting.",
+        "Human manufacturing review, production constraints, tolerances, assembly limitations and the Chip Ganassi Racing scan-to-CAD exploration remain explicit."
+      ],
+      "qualifiers": [
+        "No unsupported GPT-6-first/Astra-second sequence is asserted.",
+        "Usage is not productivity; prototype progress and benchmark scores are not proof of independent commercial hardware development, reliability or manufacturing cost.",
+        "These are attributed company disclosures, not independently validated industry performance."
+      ]
+    },
+    {
+      "translationKey": "lg-energy-storage-orders-capacity-2026-11-04",
+      "dataPeriod": "2026 third quarter; capacity target by end-2027",
+      "preservedFacts": [
+        "New information concerns the first direct-supply behind-the-meter storage project for a large technology customer, NVIDIA DSX Ready BESS partner qualification, Arizona production-line completion and phased Ohio pack-capacity expansion.",
+        "Planned conversion of North American electric-vehicle pouch-battery lines and additional prismatic storage lines support a target above 70 GWh by end-2027.",
+        "October 8 preliminary revenue of KRW 9.6434 trillion and operating profit of KRW 756 billion were previously reported. The November release’s approximately KRW 9.6 trillion revenue, KRW 756 billion operating profit and KRW 416.9 billion production incentives remain background."
+      ],
+      "qualifiers": [
+        "Customer name, project value and actual delivery volumes were not disclosed.",
+        "The 2027 capacity target is a plan, not operating, installed or sold capacity; partner status is not independent certification of every application.",
+        "The Arizona line is described neutrally without assigning an unsupported technical meaning to its descriptor."
+      ],
+      "novelty": "Follow-up, not a duplicate of the October 9 preliminary-earnings article. That earlier article did not report the newly disclosed order, production-line progress or capacity target."
+    },
+    {
+      "translationKey": "camillus-solar-operating-permission-2026-11-04",
+      "preservedFacts": [
+        "Camillus received permission to operate; design capacity is 3.26 MW DC on a closed landfill.",
+        "Solar Advocate Development LLC is the project owner; Solar Simplified provides customer recruitment, enrollment and subscription services.",
+        "US$7.3 million is the value of the sale and construction arrangements announced March 19, 2025."
+      ],
+      "qualifiers": [
+        "The November 3 development is operating permission, not new financing, a newly signed transaction or confirmation of all contract revenue.",
+        "Permission and design capacity do not establish measured generation, subscriber totals or realised electricity-bill savings.",
+        "Contract execution, construction and financing risks and the need for operating evidence are retained."
+      ]
+    },
+    {
+      "translationKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "preservedFacts": [
+        "Guardian had already been available since September; November 3 announced updated features and availability.",
+        "Current AI Kill Switch controls block model access through connected Falcon or third-party gateways.",
+        "Endpoint network inspection is generally available on Windows and in early access on Mac; broader coordinated containment and agentic identity controls remain future capabilities.",
+        "Fiddler AI acquisition language expresses intention, not completion."
+      ],
+      "qualifiers": [
+        "Gateway model-access blocking is not universal termination of agent processes across endpoints, browsers, cloud and SaaS systems.",
+        "No independent detection-rate or false-positive performance is inferred.",
+        "Unreleased features remain subject to change; bypass routes and already-issued tool calls require separate evaluation."
+      ]
+    }
+  ],
+  "translationReview": {
+    "editionsReviewed": 25,
+    "substantiveBodyParagraphs": 100,
+    "secondLevelHeadings": 50,
+    "sourceNoteDefinitions": 40,
+    "result": "All five language editions retain the complete reporting, analysis, figures, attribution and scope qualifiers. No complete manuscript was replaced with a brief. All eight original bibliographic titles, URLs and dates are preserved in every applicable edition."
+  },
+  "sourceUseReview": {
+    "basis": "Five complete supplied manuscripts, including their original analysis, were adapted into five languages. Transformation of that supplied material is distinct from copying or translating newly retrieved external expression.",
+    "newlyImportedSourceBodyQuotationWords": 0,
+    "newlyAddedExternalPassagesOrSummaries": 0,
+    "accounting": "New external expression is reviewed per source cumulatively across all five editions, rather than resetting an allowance for each language. Source titles already supplied as bibliographic identifiers are not newly imported source-body quotations. The supplied manuscripts and original analysis are not blanket-counted as newly copied external prose.",
+    "boundedCorrections": [
+      "Removed an unsupported strict model-use chronology from the OpenAI manuscript.",
+      "Clarified that token usage reached 23 times the February baseline.",
+      "Described the Arizona production line neutrally without an unsupported technical interpretation."
+    ],
+    "rightsBoundary": "A publicly accessible company page does not confer general republication rights. Text adaptation does not authorize reuse of photographs, illustrations or video; source-original media require a separate rights basis."
+  },
+  "mediaReview": {
+    "suppliedArchivalCandidates": 5,
+    "finalPhotographs": 6,
+    "aiGeneratedImages": 0,
+    "eventPhotographs": 0,
+    "provenance": "docs/news-media/2026-11-04/provenance.json",
+    "policy": "All adopted photographs are historical illustrative material, not evidence of the November 2026 announcements. Visible credits retain the creator, work-page link, applicable rights link and truthful historical context. Final article integration and desktop/mobile rendering are separate acceptance checks.",
+    "suppliedImageOutcomes": [
+      {
+        "workPage": "https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg",
+        "author": "Mscalafani",
+        "date": "2014-10-24",
+        "license": "CC BY-SA 4.0",
+        "outcome": "Retained for the JOLTS cover and body. No photographed location is inferred from signage."
+      },
+      {
+        "workPage": "https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg",
+        "author": "IMG 4512",
+        "date": "2024-08-31",
+        "license": "CC0 1.0",
+        "outcome": "Retained for the OpenAI cover and body. Generic circuit boards, not an OpenAI prototype or product."
+      },
+      {
+        "workPage": "https://commons.wikimedia.org/wiki/File:Stanton_Battery_Energy_Storage_(SBES)_10-8-2024.jpg",
+        "author": "Sig. Chiocciola",
+        "date": "2024-10-08",
+        "license": "CC0 1.0",
+        "outcome": "Retained as the second LG body photograph. Its 538×672 portrait format is supplemented by a higher-resolution landscape cover; not identified as an LG facility or product."
+      },
+      {
+        "workPage": "https://commons.wikimedia.org/wiki/File:Geschlossene_M%C3%BClldeponie_Eichelbuck_im_Freiburger_Mooswald_mit_Photovoltaik.jpg",
+        "author": "Andreas Schwarzkopf",
+        "date": "2019-03-29",
+        "license": "CC BY-SA 4.0",
+        "outcome": "Retained for the Camillus article cover and body. The photograph depicts Eichelbuck in Freiburg, Germany, not Camillus, New York."
+      },
+      {
+        "workPage": "https://commons.wikimedia.org/wiki/File:SOC_Security_Monitors.jpg",
+        "author": "UMD-Eskin",
+        "date": null,
+        "license": "Creator worldwide public-domain release with unconditional-use fallback; not CC0",
+        "outcome": "Not published. Actual pixels depict University of Maryland campus physical-security/CCTV monitoring, not cybersecurity operations. Resolution is 601×432. The upload date is not asserted as a photography date."
+      }
+    ],
+    "newArchivalSelections": [
+      {
+        "workPage": "https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg",
+        "author": "Sig. Chiocciola",
+        "date": "2025-03-24",
+        "license": "CC0 1.0",
+        "outcome": "Adopted as LG cover and first body photograph, supplementing the retained Stanton image. It depicts the Reid Gardner BESS near Moapa, Nevada, and is not identified as an LG factory, product or newly announced customer project."
+      },
+      {
+        "workPage": "https://commons.wikimedia.org/wiki/File:AFCYBER_Airmen_reach_%E2%80%98firsts%E2%80%99_in_global_exercises_(5267410).jpg",
+        "author": "U.S. Air Force / Tech. Sgt. R.J. Biermann",
+        "date": "2018-10-23",
+        "license": "Public domain in the United States as an official U.S. federal government work",
+        "rightsURL": "https://www.dvidshub.net/about/copyright",
+        "outcome": "Adopted as the CrowdStrike cover and body photograph. It depicts historical cyber operations at Joint Base San Antonio-Lackland, Texas, not CrowdStrike offices, Falcon Guardian software or the announcement. The required non-endorsement notice is retained."
+      }
+    ],
+    "rightsRequirements": [
+      "CC BY-SA photographs retain attribution and licence links. Changes to images must be identified and adaptations licensed under the same or a compatible licence; this does not automatically apply to the surrounding article.",
+      "CC0 and public-domain status do not waive unrelated privacy, publicity or trademark rights or imply endorsement.",
+      "Photographic masters preserve decoded pixels and embedded ICC profiles. Nonessential metadata is removed without lossy recompression, enlargement or generated reconstruction."
+    ]
+  },
+  "originalSourceMediaReview": [
+    {
+      "translationKey": "us-september-jolts-2026-11-04",
+      "outcome": "The accessible BLS emblem is an agency trademark, not a recruiting photograph or an automatically reusable public-domain cover. It is not used.",
+      "rightsURL": "https://www.bls.gov/bls/linksite.htm",
+      "readingLimit": "No claim of exhaustive dynamic-media enumeration."
+    },
+    {
+      "translationKey": "openai-physical-engineering-prototypes-2026-11-04",
+      "outcome": "The prototype enclosure diagram lacks established downstream republication permission and is not used or reconstructed. Mazda aerodynamics media carry an explicit prohibition on republication or reuse and remain excluded.",
+      "readingLimit": "The diagram link resolved but inspectable pixels were not obtained in the independent review. Exact Mazda dynamic asset URLs were not exposed; this is not described as absence of original media."
+    },
+    {
+      "translationKey": "lg-energy-storage-orders-capacity-2026-11-04",
+      "outcome": "No specific reusable factory or storage photograph with an established per-image rights grant was identified in the reviewed releases.",
+      "readingLimit": "The generic social-graphic assertion was not independently confirmed at the pixel or metadata level. This bounded discovery gap does not establish that original images are absent."
+    },
+    {
+      "translationKey": "camillus-solar-operating-permission-2026-11-04",
+      "outcome": "No work-specific Camillus photograph with a verified reuse grant was established in the reviewed announcements.",
+      "readingLimit": "A bounded discovery and rights gap, not proof that no authorised project photograph exists."
+    },
+    {
+      "translationKey": "crowdstrike-ai-kill-switch-2026-11-04",
+      "outcome": "The technical blog has a substantive hero image and Figure 1, AI Kill Switch within Falcon Guardian. Neither has an established republication grant; both are excluded and are not recreated.",
+      "readingLimit": "Direct requests for both blog images returned fetch errors, so original dimensions and pixels were not independently verified. The press release’s generic sharing-image pixels were not verified. The result is not recorded as no original media."
+    }
+  ],
+  "historicalPreservation": "Earlier articles, publication batches, revisions, withdrawal records and withdrawn-media restrictions remain unchanged. No withdrawn subject is restored.",
+  "publicationAcceptance": "Release-candidate record only. It does not assert a successful deployment. Acceptance requires the exact published revision to be READY and the formal-domain article, feed, index, media and desktop/mobile checks to pass."
+}
