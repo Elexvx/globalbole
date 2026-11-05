@@ -5202,6 +5202,178 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-05-zh-CN",
+      "issue": "2026-11-05",
+      "publicationDate": "2026-11-05",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication metadata. Principal source releases are dated November 4, with original data periods and background dates preserved. No precise original publication timestamp is invented. Native production acceptance is verified separately.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "us-september-trade-balance-2026-11-05",
+          "path": "content/issues/2026-11-05/zh-CN/us-september-trade-balance-2026-11-05.md",
+          "eventDate": "2026-11-04",
+          "sourceDate": "2026-11-04",
+          "dataPeriod": "2026-09",
+          "sources": [
+            {
+              "title": "U.S. International Trade in Goods and Services, September 2026",
+              "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+              "footnote": 1,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-october-adp-employment-2026-11-05",
+          "path": "content/issues/2026-11-05/zh-CN/us-october-adp-employment-2026-11-05.md",
+          "eventDate": "2026-11-04",
+          "sourceDate": "2026-11-04",
+          "dataPeriod": "2026-10",
+          "sources": [
+            {
+              "title": "ADP National Employment Report: Private-Sector Employment Increased by 86,000 Jobs in October",
+              "url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+              "footnote": 1,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "translationKey": "who-adolescent-physical-activity-2026-11-05",
+          "path": "content/issues/2026-11-05/zh-CN/who-adolescent-physical-activity-2026-11-05.md",
+          "eventDate": "2026-11-04",
+          "sourceDate": "2026-11-04",
+          "dataPeriod": "2025; trend 2010-2025",
+          "sources": [
+            {
+              "title": "One in four adolescents worldwide reported no active days in the previous week",
+              "url": "https://www.who.int/news/item/04-11-2026-one-in-four-adolescents-worldwide-reported-no-active-days-in-the-previous-week",
+              "footnote": 1,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            },
+            {
+              "title": "A generation missing out: global trends in adolescent physical activity, 2010–2025",
+              "url": "https://www.who.int/publications/i/item/387961",
+              "footnote": 2,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            },
+            {
+              "title": "Physical activity among adolescents, mean active days per week",
+              "url": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/physical-activity-among-adolescents-mean-active-days-per-week",
+              "footnote": 3,
+              "verificationDate": "2026-11-05",
+              "accessDate": "2026-11-05",
+              "dateNote": "No original page publication date established; this is the verification/access date."
+            }
+          ]
+        },
+        {
+          "translationKey": "unep-adaptation-finance-gap-2026-11-05",
+          "path": "content/issues/2026-11-05/zh-CN/unep-adaptation-finance-gap-2026-11-05.md",
+          "eventDate": "2026-11-04",
+          "sourceDate": "2026-11-04",
+          "dataPeriod": "2024 finance; 2035 scenario",
+          "sources": [
+            {
+              "title": "As world heads for overshoot of 1.5°C, adaptation is too slow",
+              "url": "https://www.unep.org/en/news-and-stories/press-release/world-heads-overshoot-15degc-adaptation-too-slow",
+              "footnote": 1,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            },
+            {
+              "title": "Adaptation Gap Report 2026",
+              "url": "https://wedocs.unep.org/bitstreams/77dd0e41-0bc7-415e-a17e-9af4c7dd59ba/download",
+              "footnote": 2,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "translationKey": "openai-pierre-acquisition-plan-2026-11-05",
+          "path": "content/issues/2026-11-05/zh-CN/openai-pierre-acquisition-plan-2026-11-05.md",
+          "eventDate": "2026-11-04",
+          "sourceDate": "2026-11-04",
+          "dataPeriod": "2026-11-04 announcement",
+          "sources": [
+            {
+              "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+              "url": "https://openai.com/index/openai-to-acquire-pierre/",
+              "footnote": 1,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "translationKey": "who-bundibugyo-vaccine-trial-2026-11-05",
+          "path": "content/issues/2026-11-05/zh-CN/who-bundibugyo-vaccine-trial-2026-11-05.md",
+          "eventDate": "2026-11-04",
+          "sourceDate": "2026-11-04",
+          "dataPeriod": "2026-11-02 expert meeting; 2026-11-04 announcement",
+          "sources": [
+            {
+              "title": "Two new candidate vaccines to join Ebola trial as treatment research advances",
+              "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances",
+              "footnote": 1,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            },
+            {
+              "title": "Fourth, fifth, sixth and seventh meetings of the WHO Technical Advisory Group on candidate vaccine prioritization (TAG–CVP) for Bundibugyo virus disease outbreak response: Meeting report, 1 September, 19 October, 22 October and 2 November 2026",
+              "url": "https://www.who.int/publications/i/item/B09970",
+              "footnote": 2,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            },
+            {
+              "title": "First participant vaccinated in pivotal Phase 2/3 Bundibugyo vaccine trial in DRC",
+              "url": "https://www.itg.be/en/health-stories/press-releases/tumaini-first-participant-vaccinated",
+              "footnote": 3,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "translationKey": "uk-energy-independence-bill-2026-11-05",
+          "path": "content/issues/2026-11-05/zh-CN/uk-energy-independence-bill-2026-11-05.md",
+          "eventDate": "2026-11-04",
+          "sourceDate": "2026-11-04",
+          "dataPeriod": "2026-11-04 first reading",
+          "sources": [
+            {
+              "title": "Energy reforms to cut bills and put power back in people's hands",
+              "url": "https://www.gov.uk/government/news/energy-reforms-to-cut-bills-and-put-power-back-in-peoples-hands",
+              "footnote": 1,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            },
+            {
+              "title": "Energy Independence Bill",
+              "url": "https://bills.parliament.uk/bills/4319",
+              "footnote": 2,
+              "verificationDate": "2026-11-05",
+              "sourceDate": "2026-11-04"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

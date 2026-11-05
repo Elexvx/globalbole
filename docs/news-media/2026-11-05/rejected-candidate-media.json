@@ -1,0 +1,80 @@
+[
+  {
+    "id": "M2",
+    "topic": "employment",
+    "sourceTitle": "Employe.jpg",
+    "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Employe.jpg",
+    "workPage": "https://commons.wikimedia.org/wiki/File:Employe.jpg",
+    "author": "Iradukuna",
+    "photographedDate": "2022-03-25",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localPath": "/news-media/2026-11-05/employment.jpg",
+    "caption": "室内人物资料图，作品页题名为 Employe，标注日期为2022年3月25日。地点及人物身份未核实，与ADP受调查企业没有已知关联。",
+    "pixelsInspected": true,
+    "eventEvidence": false,
+    "aiGenerated": false,
+    "rightsBasis": "Commons identifies the author, own work, and the stated license.",
+    "changes": "None. Original downloaded JPEG bytes retained.",
+    "editorialCaution": "Original source-draft caption calling this an office work scene was inaccurate. This is a standing indoor portrait; keep revised caption or replace.",
+    "sha256": "a12cd1be0343b2e0b2aa84da92afef3c649a050e37ae4a9bb643925b0a91e9f4",
+    "originalSha256": "a12cd1be0343b2e0b2aa84da92afef3c649a050e37ae4a9bb643925b0a91e9f4",
+    "width": 810,
+    "height": 1080,
+    "bytes": 47504,
+    "fullyDecoded": true,
+    "decodedRgbSha256": "e44b6d93ce27ba071f1d984d9372ff9c3da70e7b32e3745c667e7c88cb9b6c3a",
+    "decodedRgbBytes": 2624400,
+    "verifiedAt": "2026-11-05T02:23:00Z",
+    "captions": {
+      "zh-CN": "室内人物资料图，作品页题名为 Employe，标注日期为2022年3月25日。地点及人物身份未核实，与ADP受调查企业没有已知关联。 摄影：[Iradukuna](https://commons.wikimedia.org/wiki/File:Employe.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。"
+    },
+    "reuseObligations": {
+      "attributeCreator": true,
+      "linkWorkAndLicense": true,
+      "indicateVisualChangesIfMade": true,
+      "licenseAdaptationsUnder": "CC BY-SA 4.0 or compatible license",
+      "scope": "Image license; not automatically the surrounding article."
+    },
+    "selected": false
+  },
+  {
+    "id": "M6",
+    "topic": "vaccine",
+    "sourceTitle": "Study Participant Receives NIAID-GSK Candidate Ebola Vaccine.jpg",
+    "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Study_Participant_Receives_NIAID-GSK_Candidate_Ebola_Vaccine.jpg",
+    "workPage": "https://commons.wikimedia.org/wiki/File:Study_Participant_Receives_NIAID-GSK_Candidate_Ebola_Vaccine.jpg",
+    "author": "NIAID",
+    "photographedDate": "2014-09-04",
+    "license": "CC BY 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+    "localPath": "/news-media/2026-11-05/vaccine.jpg",
+    "caption": "历史研究资料图：2014年9月4日，美国马里兰州贝塞斯达 NIH 临床中心的一名志愿者参加另一项埃博拉候选疫苗研究（VRC207）。并非本次 Tumaini 试验，也非本次两款候选疫苗。",
+    "pixelsInspected": true,
+    "eventEvidence": false,
+    "aiGenerated": false,
+    "rightsBasis": "Commons identifies NIAID, links original Flickr, and records FlickreviewR verification of CC BY 2.0 on 2014-10-11.",
+    "changes": "None. Original downloaded JPEG bytes retained.",
+    "editorialCaution": "The unrelated historical-trial disclaimer must be immediately adjacent to every use, including prominent cover display.",
+    "sha256": "1441db963ede9604e6f8dbaa443a597c0e0919144ca6eb2cca8e0d86b445fa5e",
+    "originalSha256": "1441db963ede9604e6f8dbaa443a597c0e0919144ca6eb2cca8e0d86b445fa5e",
+    "width": 2216,
+    "height": 1583,
+    "bytes": 2148410,
+    "fullyDecoded": true,
+    "decodedRgbSha256": "7cbc20d07b56cb7ed8652dffde6efb4e849d4a9aef90aa0cd278cb8c3b128405",
+    "decodedRgbBytes": 10523784,
+    "verifiedAt": "2026-11-05T02:23:00Z",
+    "captions": {
+      "zh-CN": "历史研究资料图：2014年9月4日，美国马里兰州贝塞斯达 NIH 临床中心的一名志愿者参加另一项埃博拉候选疫苗研究（VRC207）。并非本次 Tumaini 试验，也非本次两款候选疫苗。 摄影：[NIAID](https://commons.wikimedia.org/wiki/File:Study_Participant_Receives_NIAID-GSK_Candidate_Ebola_Vaccine.jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。"
+    },
+    "reuseObligations": {
+      "attributeCreator": true,
+      "linkWorkAndLicense": true,
+      "indicateVisualChangesIfMade": true,
+      "licenseAdaptationsUnder": null,
+      "scope": "Image license; not automatically the surrounding article."
+    },
+    "selected": false
+  }
+]

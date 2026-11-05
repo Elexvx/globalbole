@@ -1,0 +1,612 @@
+{
+  "schemaVersion": 1,
+  "issue": "2026-11-05",
+  "verifiedAt": "2026-11-05T02:26:00Z",
+  "verification": "All source candidates rendered and decoded, with rights and captions verified. ADP uses an existing licensed job-fair asset; the vaccine article uses an inspected CDC Ebola micrograph. Coding retains losslessly sanitized original pixels. Five larger images use inspected full-frame publishing derivatives with proportional resizing and JPEG recompression; original source hashes and license records are retained. All ICC profiles are preserved.",
+  "assets": [
+    {
+      "id": "M1",
+      "topic": "trade",
+      "sourceTitle": "Container port of Piraeus 2026.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Container_port_of_Piraeus_2026.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg",
+      "author": "Aaaatu",
+      "photographedDate": "2026-05-31",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "localPath": "/news-media/2026-11-05/trade.jpg",
+      "caption": "希腊比雷埃夫斯港，2026年5月31日。航运资料图，并非美国9月贸易数据对应的新闻现场。 摄影：[Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+      "pixelsInspected": true,
+      "eventEvidence": false,
+      "aiGenerated": false,
+      "rightsBasis": "Commons identifies the author, own work, and the stated license.",
+      "changes": "Nonessential metadata removed from verified source; proportional full-frame resize and JPEG recompression for publication. No crop, retouching or AI alteration; original ICC profile preserved. See publishing-derivatives.json for exact dimensions and quality.",
+      "editorialCaution": null,
+      "sha256": "478dc47cb2475cc95d2ba801eea7a835c19aa19550ce444122159b7a163cd737",
+      "originalSha256": "6d7ed5ee02911e72cbf1ede4f73e071deccb1ae4c3288e504517b402840a9486",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 274757,
+      "fullyDecoded": true,
+      "decodedRgbSha256": "c5198865616cf76a483ce59fcdf4b4ba180704d62a52bcd518140b08a474f113",
+      "decodedRgbBytes": 5121600,
+      "verifiedAt": "2026-11-05T02:26:00Z",
+      "captions": {
+        "zh-CN": "希腊比雷埃夫斯港，2026年5月31日。航运资料图，并非美国9月贸易数据对应的新闻现场。 摄影：[Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "希臘比雷埃夫斯港，2026年5月31日。航運資料圖，並非美國9月貿易數據對應的新聞現場。 攝影：[Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "en": "Port of Piraeus, Greece, May 31, 2026. Archival shipping photograph, not a scene of the events covered by the US September trade data. Photo: [Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Порт Пирея, Греция, 31 мая 2026 года. Архивная фотография судоходства, а не снимок событий, отражённых в сентябрьской торговой статистике США. Фото: [Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Port du Pirée, Grèce, le 31 mai 2026. Photo d’archives du transport maritime, et non des événements couverts par les données commerciales américaines de septembre. Photo : [Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "reuseObligations": {
+        "attributeCreator": true,
+        "linkWorkAndLicense": true,
+        "indicateVisualChangesIfMade": true,
+        "licenseAdaptationsUnder": "CC BY-SA 4.0 or compatible license",
+        "scope": "Image license; not automatically the surrounding article."
+      },
+      "originalDecodedRgbSha256": "c7937d3c71a8fc37e246bbc49f5499bc311135fc3c9a94e3230a39793fd70ff4",
+      "iccProfileSha256": "0ff6958f98684c61f6bbdce1368ddeaf3873baf84545baba482e920d92a914c0",
+      "iccProfileBytes": 536,
+      "privacySanitization": {
+        "nonessentialExifIptcXmpRemoved": true,
+        "nonessentialCameraTrailerRemoved": false,
+        "trailerBytesRemoved": 0,
+        "removedMarkers": [
+          "0xe1",
+          "0xe1",
+          "0xea"
+        ],
+        "iccPreserved": true,
+        "decodedPixelsPreserved": false,
+        "lossyReencoding": true
+      },
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg",
+      "kind": "licensed_archival_photograph",
+      "coverAlt": {
+        "zh-CN": "资料照片：2026年5月31日希腊比雷埃夫斯集装箱港",
+        "zh-TW": "資料照片：2026年5月31日希臘比雷埃夫斯貨櫃港",
+        "en": "Archival photo: the container port of Piraeus, Greece, on May 31, 2026",
+        "ru": "Архивное фото: контейнерный порт Пирея, Греция, 31 мая 2026 года",
+        "fr": "Photo d’archives : le port à conteneurs du Pirée, en Grèce, le 31 mai 2026"
+      },
+      "article": "us-september-trade-balance-2026-11-05",
+      "verifiedFullResolutionSource": {
+        "sha256": "e8dd8f02e7a6f2b7d749878e3b4ca3aca2e0a2c061cca92184d73527dcb387f8",
+        "originalSha256": "6d7ed5ee02911e72cbf1ede4f73e071deccb1ae4c3288e504517b402840a9486",
+        "width": 6699,
+        "height": 4466,
+        "bytes": 9114643,
+        "decodedRgbSha256": "c7937d3c71a8fc37e246bbc49f5499bc311135fc3c9a94e3230a39793fd70ff4",
+        "decodedRgbBytes": 89753202,
+        "originalDecodedRgbSha256": "c7937d3c71a8fc37e246bbc49f5499bc311135fc3c9a94e3230a39793fd70ff4",
+        "iccProfileSha256": "0ff6958f98684c61f6bbdce1368ddeaf3873baf84545baba482e920d92a914c0",
+        "iccProfileBytes": 536,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1",
+            "0xea"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "gitBlobSha": "6bb6ac48a9937df4234bece13c5fb4d0822630ac",
+      "publishingDerivative": {
+        "fullFrame": true,
+        "proportional": true,
+        "jpegQuality": 88,
+        "chromaSubsampling": "4:2:0",
+        "visualInspection": "Full frame inspected at published resolution; subject and relevant detail remain clear.",
+        "reviewedAt": "2026-11-05T08:24:22.462641+00:00"
+      }
+    },
+    {
+      "id": "M3",
+      "topic": "activity",
+      "sourceTitle": "Children playing at park.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Children_playing_at_park.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg",
+      "author": "Wasiul Bahar",
+      "photographedDate": "2023-02-13",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "localPath": "/news-media/2026-11-05/activity.jpg",
+      "caption": "公园里的儿童活动，作品页标注日期为2023年2月13日。资料图，并非世卫组织调查现场；地点和人物身份未核实，不能据图确认其属于11至17岁调查组。 摄影：[Wasiul Bahar](https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+      "pixelsInspected": true,
+      "eventEvidence": false,
+      "aiGenerated": false,
+      "rightsBasis": "Commons identifies the author, own work, and the stated license.",
+      "changes": "Nonessential metadata removed from verified source; proportional full-frame resize and JPEG recompression for publication. No crop, retouching or AI alteration; original ICC profile preserved. See publishing-derivatives.json for exact dimensions and quality.",
+      "editorialCaution": "Children pictured appear younger than the study's 11–17 age range. Use only as broadly illustrative activity imagery; do not represent ages or inclusion in study.",
+      "sha256": "3733ab1cfee89c22dc72a4a3ba71a0b172c1f7fd4f6391190d2cd1c403e11044",
+      "originalSha256": "c72980ac02bf576e8709e0647c0769663d6eb3416619f7263099dd144900028c",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 276839,
+      "fullyDecoded": true,
+      "decodedRgbSha256": "1b1d78dac7d982ff83df02edd7487c454707666701c6c7db5cd8b0465ab3391c",
+      "decodedRgbBytes": 7372800,
+      "verifiedAt": "2026-11-05T02:26:00Z",
+      "captions": {
+        "zh-CN": "公园里的儿童活动，作品页标注日期为2023年2月13日。资料图，并非世卫组织调查现场；地点和人物身份未核实，不能据图确认其属于11至17岁调查组。 摄影：[Wasiul Bahar](https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "公園裡的兒童活動，作品頁標註日期為2023年2月13日。資料圖，並非世衛組織調查現場；地點和人物身分未核實，不能據圖確認其屬於11至17歲調查組。 攝影: [Wasiul Bahar](https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "en": "Children playing in a park; the work page gives February 13, 2023 as the date. Archival image, not a WHO survey scene. The location and identities have not been verified, and the image does not establish that the children belong to the 11–17 age group studied. Photo: [Wasiul Bahar](https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Дети играют в парке; на странице работы указана дата 13 февраля 2023 года. Архивное изображение, не место опроса ВОЗ. Место и личности не подтверждены; по снимку нельзя установить принадлежность детей к исследуемой группе 11–17 лет. Фото: [Wasiul Bahar](https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Des enfants jouent dans un parc ; la page de l’œuvre indique le 13 février 2023. Photo d’archives, hors d’une enquête de l’OMS. Le lieu et les identités ne sont pas vérifiés, et l’image ne permet pas d’établir que ces enfants appartiennent à la tranche de 11 à 17 ans étudiée. Photo: [Wasiul Bahar](https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "reuseObligations": {
+        "attributeCreator": true,
+        "linkWorkAndLicense": true,
+        "indicateVisualChangesIfMade": true,
+        "licenseAdaptationsUnder": "CC BY-SA 4.0 or compatible license",
+        "scope": "Image license; not automatically the surrounding article."
+      },
+      "originalDecodedRgbSha256": "b14ed0bc545137fdd9b443448911d028c01d10c0a7ff2ca1a76bbd22678a5ec7",
+      "iccProfileSha256": null,
+      "iccProfileBytes": 0,
+      "privacySanitization": {
+        "nonessentialExifIptcXmpRemoved": true,
+        "nonessentialCameraTrailerRemoved": true,
+        "trailerBytesRemoved": 378953,
+        "removedMarkers": [
+          "0xe1",
+          "0xe1",
+          "0xe2"
+        ],
+        "iccPreserved": true,
+        "decodedPixelsPreserved": false,
+        "lossyReencoding": true
+      },
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Children_playing_at_park.jpg",
+      "kind": "licensed_archival_photograph",
+      "coverAlt": {
+        "zh-CN": "资料照片：儿童在公园里活动，并非世卫组织调查取样现场。",
+        "zh-TW": "資料照片：兒童在公園裡活動，並非世衛組織調查取樣現場。",
+        "en": "Archival photo: children playing in a park, not a WHO survey site.",
+        "ru": "Архивное фото: дети играют в парке; это не место проведения опроса ВОЗ.",
+        "fr": "Photo d’archives : des enfants jouent dans un parc, hors d’un site d’enquête de l’OMS."
+      },
+      "article": "who-adolescent-physical-activity-2026-11-05",
+      "verifiedFullResolutionSource": {
+        "sha256": "92f0c3a66f5afbf25965d3494136b8071cf7911e3b91a4abec7e87058ce46e25",
+        "originalSha256": "c72980ac02bf576e8709e0647c0769663d6eb3416619f7263099dd144900028c",
+        "width": 6000,
+        "height": 4000,
+        "bytes": 6767023,
+        "decodedRgbSha256": "b14ed0bc545137fdd9b443448911d028c01d10c0a7ff2ca1a76bbd22678a5ec7",
+        "decodedRgbBytes": 72000000,
+        "originalDecodedRgbSha256": "b14ed0bc545137fdd9b443448911d028c01d10c0a7ff2ca1a76bbd22678a5ec7",
+        "iccProfileSha256": null,
+        "iccProfileBytes": 0,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": true,
+          "trailerBytesRemoved": 378953,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1",
+            "0xe2"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "gitBlobSha": "729d5a4f4292d5917598adc2557ba6413581ad4d",
+      "publishingDerivative": {
+        "fullFrame": true,
+        "proportional": true,
+        "jpegQuality": 84,
+        "chromaSubsampling": "4:2:0",
+        "visualInspection": "Full frame inspected at published resolution; subject and relevant detail remain clear.",
+        "reviewedAt": "2026-11-05T08:24:22.462641+00:00"
+      }
+    },
+    {
+      "id": "M4",
+      "topic": "adaptation",
+      "sourceTitle": "Mangrove in Ao Thalane.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mangrove_in_Ao_Thalane.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg",
+      "author": "Christophe95",
+      "photographedDate": "2018-06-08",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "localPath": "/news-media/2026-11-05/adaptation.jpg",
+      "caption": "泰国甲米府 Ao Thalane 红树林，2018年6月8日。生态适应主题资料图，并非UNEP报告项目现场。 摄影：[Christophe95](https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+      "pixelsInspected": true,
+      "eventEvidence": false,
+      "aiGenerated": false,
+      "rightsBasis": "Commons identifies the author, own work, and the stated license.",
+      "changes": "Nonessential metadata removed from verified source; proportional full-frame resize and JPEG recompression for publication. No crop, retouching or AI alteration; original ICC profile preserved. See publishing-derivatives.json for exact dimensions and quality.",
+      "editorialCaution": null,
+      "sha256": "d990fed31d0ed51964f0cde97772bca3cee5455c0e714b9c23633c15edd013e9",
+      "originalSha256": "5c119a3d93798cdee32009f6e3da46124ddf432776afc0ad4b3be0c1e2c76e0a",
+      "width": 1280,
+      "height": 960,
+      "bytes": 281174,
+      "fullyDecoded": true,
+      "decodedRgbSha256": "f7245bc8c94c201ed96e922ba73e309d3385c1874344d6aeb5692eb13769c301",
+      "decodedRgbBytes": 3686400,
+      "verifiedAt": "2026-11-05T02:26:00Z",
+      "captions": {
+        "zh-CN": "泰国甲米府 Ao Thalane 红树林，2018年6月8日。生态适应主题资料图，并非UNEP报告项目现场。 摄影：[Christophe95](https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "泰國甲米府 Ao Thalane 紅樹林，2018年6月8日。生態適應主題資料圖，並非UNEP報告專案現場。 攝影: [Christophe95](https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "en": "Mangroves at Ao Thalane in Krabi Province, Thailand, June 8, 2018. Archival image illustrating ecological adaptation, not a project site from the UNEP report. Photo: [Christophe95](https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Мангровые леса Ао-Талане в провинции Краби, Таиланд, 8 июня 2018 года. Архивное изображение на тему экологической адаптации, не площадка проекта из доклада ЮНЕП. Фото: [Christophe95](https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Mangroves d’Ao Thalane, dans la province de Krabi, en Thaïlande, le 8 juin 2018. Photo d’archives illustrant l’adaptation écologique, hors d’un projet présenté dans le rapport du PNUE. Photo: [Christophe95](https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "reuseObligations": {
+        "attributeCreator": true,
+        "linkWorkAndLicense": true,
+        "indicateVisualChangesIfMade": true,
+        "licenseAdaptationsUnder": "CC BY-SA 4.0 or compatible license",
+        "scope": "Image license; not automatically the surrounding article."
+      },
+      "originalDecodedRgbSha256": "99646095b1e853103bff905c25531505f5240bc4f405c67b0769bd3ae6ef7690",
+      "iccProfileSha256": null,
+      "iccProfileBytes": 0,
+      "privacySanitization": {
+        "nonessentialExifIptcXmpRemoved": true,
+        "nonessentialCameraTrailerRemoved": false,
+        "trailerBytesRemoved": 0,
+        "removedMarkers": [
+          "0xe1",
+          "0xe1"
+        ],
+        "iccPreserved": true,
+        "decodedPixelsPreserved": false,
+        "lossyReencoding": true
+      },
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Mangrove_in_Ao_Thalane.jpg",
+      "kind": "licensed_archival_photograph",
+      "coverAlt": {
+        "zh-CN": "资料照片：泰国Ao Thalane红树林，并非UNEP报告项目现场。",
+        "zh-TW": "資料照片：泰國Ao Thalane紅樹林，並非UNEP報告專案現場。",
+        "en": "Archival photo: mangroves at Ao Thalane, Thailand, not a project site from the UNEP report.",
+        "ru": "Архивное фото: мангровые леса Ао-Талане в Таиланде, не площадка проекта из доклада ЮНЕП.",
+        "fr": "Photo d’archives : mangroves d’Ao Thalane, en Thaïlande, hors d’un projet présenté dans le rapport du PNUE."
+      },
+      "article": "unep-adaptation-finance-gap-2026-11-05",
+      "verifiedFullResolutionSource": {
+        "sha256": "4190d13ba424fa2d5186a9c7db49d39eb020d1b5831ac0838a5d21bbe038229b",
+        "originalSha256": "5c119a3d93798cdee32009f6e3da46124ddf432776afc0ad4b3be0c1e2c76e0a",
+        "width": 4032,
+        "height": 3024,
+        "bytes": 2057182,
+        "decodedRgbSha256": "99646095b1e853103bff905c25531505f5240bc4f405c67b0769bd3ae6ef7690",
+        "decodedRgbBytes": 36578304,
+        "originalDecodedRgbSha256": "99646095b1e853103bff905c25531505f5240bc4f405c67b0769bd3ae6ef7690",
+        "iccProfileSha256": null,
+        "iccProfileBytes": 0,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "gitBlobSha": "2c5c7e45c37fa19245a313928a4a628eb7d71c7f",
+      "publishingDerivative": {
+        "fullFrame": true,
+        "proportional": true,
+        "jpegQuality": 84,
+        "chromaSubsampling": "4:2:0",
+        "visualInspection": "Full frame inspected at published resolution; subject and relevant detail remain clear.",
+        "reviewedAt": "2026-11-05T08:24:22.462641+00:00"
+      }
+    },
+    {
+      "id": "M5",
+      "topic": "coding",
+      "sourceTitle": "RustCodeOnScreen.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/8/8f/RustCodeOnScreen.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg",
+      "author": "Slashme",
+      "photographedDate": "2026-02-11",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "localPath": "/news-media/2026-11-05/coding.jpg",
+      "caption": "笔记本电脑上的 Rust 代码，2026年2月11日。软件开发资料图，并非Pierre或Codex产品截图。 摄影：[Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+      "pixelsInspected": true,
+      "eventEvidence": false,
+      "aiGenerated": false,
+      "rightsBasis": "Commons identifies the author, own work, and the stated license.",
+      "changes": "Nonessential metadata and camera trailer removed losslessly; exact original decoded RGB pixels and ICC profile preserved.",
+      "editorialCaution": null,
+      "sha256": "4d03b4e778d47129439b16acca57fbfa6c2c1f8322ea762990f3dce1e8d44d8c",
+      "originalSha256": "3f4ee231e67b6134ddff23a61e7265cfc3a410c4314adc517ade4ebf081e46b9",
+      "width": 1523,
+      "height": 1438,
+      "bytes": 293054,
+      "fullyDecoded": true,
+      "decodedRgbSha256": "a8e54bfb29f9d08645c0905c39c056f4afbbdca8ec4a833faedd7a550a3596fe",
+      "decodedRgbBytes": 6570222,
+      "verifiedAt": "2026-11-05T02:26:00Z",
+      "captions": {
+        "zh-CN": "笔记本电脑上的 Rust 代码，2026年2月11日。软件开发资料图，并非Pierre或Codex产品截图。 摄影：[Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "zh-TW": "筆記型電腦上的 Rust 程式碼，2026年2月11日。軟體開發資料圖，並非Pierre或Codex產品截圖。 攝影：[Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "en": "Rust code on a laptop, February 11, 2026. Software-development reference photo, not a Pierre or Codex product screenshot. Photo: [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "ru": "Код Rust на ноутбуке, 11 февраля 2026 года. Иллюстративная фотография разработки программного обеспечения, а не снимок экрана продукта Pierre или Codex. Фото: [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "fr": "Code Rust sur un ordinateur portable, le 11 février 2026. Photo d’illustration du développement logiciel, et non capture d’écran d’un produit Pierre ou Codex. Photo : [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)."
+      },
+      "reuseObligations": {
+        "attributeCreator": false,
+        "linkWorkAndLicense": true,
+        "indicateVisualChangesIfMade": true,
+        "licenseAdaptationsUnder": null,
+        "scope": "Image license; not automatically the surrounding article."
+      },
+      "originalDecodedRgbSha256": "a8e54bfb29f9d08645c0905c39c056f4afbbdca8ec4a833faedd7a550a3596fe",
+      "iccProfileSha256": "12afb4d9953adee0607d347daee5b78b18d6b3cab2d572b88970703f5edb37bc",
+      "iccProfileBytes": 456,
+      "privacySanitization": {
+        "nonessentialExifIptcXmpRemoved": true,
+        "nonessentialCameraTrailerRemoved": true,
+        "trailerBytesRemoved": 27527,
+        "removedMarkers": [
+          "0xe1",
+          "0xe1",
+          "0xe2",
+          "0xe2"
+        ],
+        "iccPreserved": true,
+        "decodedPixelsPreserved": true,
+        "lossyReencoding": false
+      },
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg",
+      "kind": "licensed_archival_photograph",
+      "coverAlt": {
+        "zh-CN": "资料图：笔记本电脑上的 Rust 代码，并非 Pierre 或 Codex 产品截图",
+        "zh-TW": "資料圖：筆記型電腦上的 Rust 程式碼，並非 Pierre 或 Codex 產品截圖",
+        "en": "Archival photo: Rust code on a laptop, not a Pierre or Codex product screenshot",
+        "ru": "Иллюстративное фото: код Rust на ноутбуке, не снимок экрана продукта Pierre или Codex",
+        "fr": "Photo d’illustration : code Rust sur un ordinateur portable, et non une capture d’un produit Pierre ou Codex"
+      },
+      "article": "openai-pierre-acquisition-plan-2026-11-05"
+    },
+    {
+      "id": "M7",
+      "topic": "energy",
+      "sourceTitle": "20250329 - Rampion Wind Farm offshore substation.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/d/d2/20250329_-_Rampion_Wind_Farm_offshore_substation.jpg",
+      "workPage": "https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg",
+      "author": "Russss (Russ Garrett)",
+      "photographedDate": "2025-03-29",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "localPath": "/news-media/2026-11-05/energy.jpg",
+      "caption": "英国 Rampion 海上风电场的海上变电站，2025年3月29日。清洁能源设施资料图，并非11月4日议会现场。 摄影：[Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+      "pixelsInspected": true,
+      "eventEvidence": false,
+      "aiGenerated": false,
+      "rightsBasis": "Commons identifies the author, own work, and the stated license.",
+      "changes": "Nonessential metadata removed from verified source; proportional full-frame resize and JPEG recompression for publication. No crop, retouching or AI alteration; original ICC profile preserved. See publishing-derivatives.json for exact dimensions and quality.",
+      "editorialCaution": null,
+      "sha256": "fa81b9e2c08e9944cdfc7bda75961fadaaf31c03137f80bffbea964fd9d8f236",
+      "originalSha256": "2271e5b2caf2c53ba43841ba7e8b2f87aaaf3072d1f7950996f57623a118d625",
+      "width": 1600,
+      "height": 1066,
+      "bytes": 248424,
+      "fullyDecoded": true,
+      "decodedRgbSha256": "5a8236a676830926f2cc91edf741c9a812bab69453fde358be3bd07eeb04872a",
+      "decodedRgbBytes": 5116800,
+      "verifiedAt": "2026-11-05T02:26:00Z",
+      "captions": {
+        "zh-CN": "英国 Rampion 海上风电场的海上变电站，2025年3月29日。清洁能源设施资料图，并非11月4日议会现场。 摄影：[Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "英國 Rampion 離岸風電場的海上變電站，2025年3月29日。潔淨能源設施資料圖，並非11月4日議會現場。 攝影: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "en": "The offshore substation at the UK’s Rampion wind farm, March 29, 2025. Archival image of clean-energy infrastructure, not the parliamentary proceedings of November 4. Photo: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Морская подстанция британской ветроэлектростанции Rampion, 29 марта 2025 года. Архивное изображение объекта чистой энергетики, не парламентское заседание 4 ноября. Фото: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "La sous-station en mer du parc éolien britannique Rampion, le 29 mars 2025. Photo d’archives d’une infrastructure d’énergie propre, hors des travaux parlementaires du 4 novembre. Photo: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "reuseObligations": {
+        "attributeCreator": true,
+        "linkWorkAndLicense": true,
+        "indicateVisualChangesIfMade": true,
+        "licenseAdaptationsUnder": "CC BY-SA 4.0 or compatible license",
+        "scope": "Image license; not automatically the surrounding article."
+      },
+      "originalDecodedRgbSha256": "be628e76efac9018a8335bc017ad00ff79cf39a28b72ced9af8d96c39ecc8452",
+      "iccProfileSha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e",
+      "iccProfileBytes": 3144,
+      "privacySanitization": {
+        "nonessentialExifIptcXmpRemoved": true,
+        "nonessentialCameraTrailerRemoved": false,
+        "trailerBytesRemoved": 0,
+        "removedMarkers": [
+          "0xe1",
+          "0xed",
+          "0xe1"
+        ],
+        "iccPreserved": true,
+        "decodedPixelsPreserved": false,
+        "lossyReencoding": true
+      },
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg",
+      "kind": "licensed_archival_photograph",
+      "coverAlt": {
+        "zh-CN": "资料照片：英国Rampion海上风电场的海上变电站，并非议会现场。",
+        "zh-TW": "資料照片：英國Rampion離岸風電場的海上變電站，並非議會現場。",
+        "en": "Archival photo: the offshore substation at the UK’s Rampion wind farm, not a parliamentary scene.",
+        "ru": "Архивное фото: морская подстанция британской ветроэлектростанции Rampion, не парламентское заседание.",
+        "fr": "Photo d’archives : la sous-station en mer du parc éolien britannique Rampion, hors du Parlement."
+      },
+      "article": "uk-energy-independence-bill-2026-11-05",
+      "verifiedFullResolutionSource": {
+        "sha256": "863c772f33099afd159d83506bddd431a21e337de20c1e09d3de6d38c6dea8a1",
+        "originalSha256": "2271e5b2caf2c53ba43841ba7e8b2f87aaaf3072d1f7950996f57623a118d625",
+        "width": 5408,
+        "height": 3605,
+        "bytes": 7404318,
+        "decodedRgbSha256": "be628e76efac9018a8335bc017ad00ff79cf39a28b72ced9af8d96c39ecc8452",
+        "decodedRgbBytes": 58487520,
+        "originalDecodedRgbSha256": "be628e76efac9018a8335bc017ad00ff79cf39a28b72ced9af8d96c39ecc8452",
+        "iccProfileSha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e",
+        "iccProfileBytes": 3144,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xed",
+            "0xe1"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "gitBlobSha": "f086e8d80277bf8a818be815db9e67208a41f7b4",
+      "publishingDerivative": {
+        "fullFrame": true,
+        "proportional": true,
+        "jpegQuality": 84,
+        "chromaSubsampling": "4:2:0",
+        "visualInspection": "Full frame inspected at published resolution; subject and relevant detail remain clear.",
+        "reviewedAt": "2026-11-05T08:24:22.462641+00:00"
+      }
+    },
+    {
+      "id": "M6b",
+      "topic": "vaccine",
+      "sourceTitle": "Ebola virus virion.jpg",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ebola_virus_virion.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Ebola_virus_virion.jpg",
+      "rightsEvidenceURL": "https://wwwn.cdc.gov/phil/details.aspx?pid=10816",
+      "author": "CDC/Cynthia Goldsmith",
+      "photographedDate": null,
+      "dateNote": "CDC PHIL creation-date field is blank. Do not substitute file-metadata digitization date for capture date.",
+      "license": "US federal-government work / public domain in the United States",
+      "licenseURL": "https://www.cdc.gov/other/agencymaterials.html",
+      "localPath": "/news-media/2026-11-05/ebola-virus-micrograph.jpg",
+      "caption": "埃博拉病毒颗粒的人工着色透射电镜资料图，并非本次邦迪布焦病毒试验样本或疫苗照片。图源：[CDC／Cynthia Goldsmith，PHIL 10816](https://wwwn.cdc.gov/phil/details.aspx?pid=10816)，CDC网站免费提供；[美国联邦政府公有领域作品及使用说明](https://www.cdc.gov/other/agencymaterials.html)。使用此图不代表CDC、HHS或美国政府认可本站。",
+      "captions": {
+        "zh-CN": "埃博拉病毒颗粒的人工着色透射电镜资料图，并非本次邦迪布焦病毒试验样本或疫苗照片。图源：[CDC／Cynthia Goldsmith，PHIL 10816](https://wwwn.cdc.gov/phil/details.aspx?pid=10816)，CDC网站免费提供；[美国联邦政府公有领域作品及使用说明](https://www.cdc.gov/other/agencymaterials.html)。使用此图不代表CDC、HHS或美国政府认可本站。",
+        "zh-TW": "伊波拉病毒顆粒的人工著色透射電鏡資料圖，並非本次邦迪布焦病毒試驗樣本或疫苗照片。圖源：[CDC／Cynthia Goldsmith，PHIL 10816](https://wwwn.cdc.gov/phil/details.aspx?pid=10816)，CDC網站免費提供；[美國聯邦政府公有領域作品及使用說明](https://www.cdc.gov/other/agencymaterials.html)。使用此圖不代表CDC、HHS或美國政府認可本站。",
+        "en": "Colorized archival transmission electron micrograph of an Ebola virus particle, not a specimen from the current Bundibugyo virus trial or a photograph of a vaccine. Source: [CDC/Cynthia Goldsmith, PHIL 10816](https://wwwn.cdc.gov/phil/details.aspx?pid=10816), available free of charge from the CDC website; [US federal-government public-domain work and conditions of use](https://www.cdc.gov/other/agencymaterials.html). Use of this image does not imply endorsement of this website by CDC, HHS or the US government.",
+        "ru": "Архивная искусственно окрашенная трансмиссионная электронная микрофотография частицы вируса Эбола, а не образец из нынешнего испытания против вируса Бундибуджио и не фотография вакцины. Источник: [CDC/Cynthia Goldsmith, PHIL 10816](https://wwwn.cdc.gov/phil/details.aspx?pid=10816); изображение бесплатно доступно на сайте CDC. [Работа федерального правительства США в общественном достоянии и условия использования](https://www.cdc.gov/other/agencymaterials.html). Использование изображения не означает одобрения этого сайта со стороны CDC, HHS или правительства США.",
+        "fr": "Micrographie électronique à transmission d’archives, colorisée, d’une particule du virus Ebola. Il ne s’agit ni d’un échantillon de l’essai actuel contre le virus Bundibugyo ni d’une photographie de vaccin. Source : [CDC/Cynthia Goldsmith, PHIL 10816](https://wwwn.cdc.gov/phil/details.aspx?pid=10816), disponible gratuitement sur le site des CDC ; [œuvre du gouvernement fédéral américain relevant du domaine public et conditions d’utilisation](https://www.cdc.gov/other/agencymaterials.html). L’utilisation de cette image ne signifie pas que les CDC, le HHS ou le gouvernement américain approuvent ce site."
+      },
+      "pixelsInspected": true,
+      "eventEvidence": false,
+      "aiGenerated": false,
+      "rightsBasis": "Commons identifies CDC employee work as public domain. CDC PHIL 10816 independently identifies CDC/Cynthia Goldsmith and states permitted public-domain reuse with agency/photographer credit and a free-source link. CDC agency-material terms checked; no endorsement disclaimer included in caption.",
+      "reuseObligations": {
+        "attributeCreator": true,
+        "linkWorkAndLicense": true,
+        "indicateVisualChangesIfMade": true,
+        "preserveSubstantiveContent": true,
+        "prominentNoEndorsementDisclaimer": true,
+        "identifyFreeAgencySource": true
+      },
+      "editorialCaution": "A generic historical Ebola-virus micrograph, not verified as Bundibugyo virus, not a vaccine, not a specimen from Tumaini. No person is pictured.",
+      "originalSha256": "e815e5d614b4f9f0ad1ca6cb122166bb8ffafc95bc99f83cb610d93d410f7a32",
+      "sha256": "c4ef1802fcebf8c53fb6cc55cc0019a0df1251b37216570c438d361ae9d46951",
+      "width": 1600,
+      "height": 736,
+      "bytes": 276014,
+      "fullyDecoded": true,
+      "originalDecodedRgbSha256": "5a1f4be2dbe78683dd4bff079f8a202faf182b1aa53633d7f29f78ee4d6827db",
+      "decodedRgbSha256": "3b035767ae050dc2ca62e776082f4fca732d26e59460464862a449e6f1386fbd",
+      "decodedRgbBytes": 3532800,
+      "iccProfileSha256": "3f6d674174f3804eb0dabdac90ae17486e898c5063a66f861c116ea033da8301",
+      "iccProfileBytes": 3144,
+      "verifiedAt": "2026-11-05T02:26:00Z",
+      "changes": "Nonessential metadata removed from verified source; proportional full-frame resize and JPEG recompression for publication. No crop, retouching or AI alteration; original ICC profile preserved. See publishing-derivatives.json for exact dimensions and quality.",
+      "privacySanitization": {
+        "nonessentialExifIptcXmpRemoved": true,
+        "nonessentialCameraTrailerRemoved": false,
+        "trailerBytesRemoved": 0,
+        "removedMarkers": [
+          "0xe1",
+          "0xe1"
+        ],
+        "iccPreserved": true,
+        "decodedPixelsPreserved": false,
+        "lossyReencoding": true
+      },
+      "kind": "licensed_archival_photograph",
+      "coverAlt": {
+        "zh-CN": "埃博拉病毒颗粒人工着色电镜资料图，非本次试验样本或疫苗照片",
+        "zh-TW": "伊波拉病毒顆粒人工著色電鏡資料圖，非本次試驗樣本或疫苗照片",
+        "en": "Colorized archival electron micrograph of an Ebola virus particle, not a trial specimen or vaccine photo",
+        "ru": "Архивная искусственно окрашенная электронная микрофотография частицы вируса Эбола, не образец нынешнего испытания и не фото вакцины",
+        "fr": "Micrographie électronique d’archives colorisée d’une particule du virus Ebola, et non échantillon de l’essai ou photo de vaccin"
+      },
+      "article": "who-bundibugyo-vaccine-trial-2026-11-05",
+      "verifiedFullResolutionSource": {
+        "sha256": "69f60d57330cfb538935939f2f771d258cb75ffd12121ba1ffec4d5489b4495e",
+        "originalSha256": "e815e5d614b4f9f0ad1ca6cb122166bb8ffafc95bc99f83cb610d93d410f7a32",
+        "width": 3679,
+        "height": 1692,
+        "bytes": 820148,
+        "decodedRgbSha256": "5a1f4be2dbe78683dd4bff079f8a202faf182b1aa53633d7f29f78ee4d6827db",
+        "decodedRgbBytes": 18674604,
+        "originalDecodedRgbSha256": "5a1f4be2dbe78683dd4bff079f8a202faf182b1aa53633d7f29f78ee4d6827db",
+        "iccProfileSha256": "3f6d674174f3804eb0dabdac90ae17486e898c5063a66f861c116ea033da8301",
+        "iccProfileBytes": 3144,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "gitBlobSha": "91c01aa85196454f3ec0fcac576ced62b4ab4370",
+      "publishingDerivative": {
+        "fullFrame": true,
+        "proportional": true,
+        "jpegQuality": 90,
+        "chromaSubsampling": "4:2:0",
+        "visualInspection": "Full frame inspected at published resolution; subject and relevant detail remain clear.",
+        "reviewedAt": "2026-11-05T08:24:22.462641+00:00"
+      }
+    }
+  ],
+  "reusedAssets": [
+    {
+      "topic": "employment",
+      "localPath": "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-04/provenance.json",
+      "sourceAssetId": "M1",
+      "sha256": "88760f17fe932ea10a5f4137745b9b77dd4be5569e85907048e6ee3309f0513c",
+      "workPage": "https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "captions": {
+        "en": "Applicants and employers talk at a First Source Jobs Program job fair on October 24, 2014. Archival photo. It is not a photograph of the November 2026 data release. Photo: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Des candidats échangent avec des employeurs lors d’un salon de l’emploi du First Source Jobs Program, le 24 octobre 2014. Photo d’archives. Ce cliché ne montre pas la publication des données de novembre 2026. Photo: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Соискатели общаются с работодателями на ярмарке вакансий First Source Jobs Program 24 октября 2014 года. Архивное фото. На фото не изображено событие, связанное с публикацией данных в ноябре 2026 года. Фото: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "zh-CN": "2014年10月24日，First Source Jobs Program 招聘会上的求职者与雇主交流。资料图。 并非2026年11月数据发布现场。 摄影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "zh-TW": "2014年10月24日，First Source Jobs Program 招聘會上的求職者與雇主交流。資料圖。 並非2026年11月數據發布現場。 攝影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "coverAlt": {
+        "en": "Archival photo: Job seekers and employers talking inside a meeting room at a First Source Jobs Program job fair",
+        "fr": "Photo d’archives : Des candidats et des employeurs discutent dans une salle lors d’un salon de l’emploi du First Source Jobs Program",
+        "ru": "Архивное фото: Соискатели и работодатели беседуют в зале на ярмарке вакансий First Source Jobs Program",
+        "zh-CN": "资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈",
+        "zh-TW": "資料圖：First Source Jobs Program 招聘會上，求職者與雇主站在會議室內交談"
+      },
+      "verification": "Work page rights/date/author rechecked and existing local image visually inspected. Reuse same caption/alt in all five languages; do not duplicate asset."
+    }
+  ]
+}

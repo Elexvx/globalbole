@@ -1,0 +1,216 @@
+{
+  "issue": "2026-11-05",
+  "checkedAt": "2026-11-05T08:24:22.462641+00:00",
+  "purpose": "Use suitable full-frame publishing derivatives after full-resolution binary object requests timed out. Source originals, authorship, licenses and captions remain unchanged.",
+  "method": "Sharp proportional Lanczos3 resize without enlargement; JPEG mozjpeg with 4:2:0 chroma subsampling, preserved ICC profile; no crop, retouching or AI alteration.",
+  "assets": [
+    {
+      "localPath": "/news-media/2026-11-05/trade.jpg",
+      "originalSanitizedSource": {
+        "sha256": "e8dd8f02e7a6f2b7d749878e3b4ca3aca2e0a2c061cca92184d73527dcb387f8",
+        "originalSha256": "6d7ed5ee02911e72cbf1ede4f73e071deccb1ae4c3288e504517b402840a9486",
+        "width": 6699,
+        "height": 4466,
+        "bytes": 9114643,
+        "decodedRgbSha256": "c7937d3c71a8fc37e246bbc49f5499bc311135fc3c9a94e3230a39793fd70ff4",
+        "decodedRgbBytes": 89753202,
+        "originalDecodedRgbSha256": "c7937d3c71a8fc37e246bbc49f5499bc311135fc3c9a94e3230a39793fd70ff4",
+        "iccProfileSha256": "0ff6958f98684c61f6bbdce1368ddeaf3873baf84545baba482e920d92a914c0",
+        "iccProfileBytes": 536,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1",
+            "0xea"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "published": {
+        "sha256": "478dc47cb2475cc95d2ba801eea7a835c19aa19550ce444122159b7a163cd737",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 274757,
+        "decodedRgbSha256": "c5198865616cf76a483ce59fcdf4b4ba180704d62a52bcd518140b08a474f113",
+        "decodedRgbBytes": 5121600,
+        "gitBlobSha": "6bb6ac48a9937df4234bece13c5fb4d0822630ac"
+      },
+      "jpegQuality": 88,
+      "fullFrameVisuallyVerified": true,
+      "iccPreserved": true,
+      "captionsAndRightsUnchanged": true,
+      "gitBlobUploadConfirmed": true
+    },
+    {
+      "localPath": "/news-media/2026-11-05/activity.jpg",
+      "originalSanitizedSource": {
+        "sha256": "92f0c3a66f5afbf25965d3494136b8071cf7911e3b91a4abec7e87058ce46e25",
+        "originalSha256": "c72980ac02bf576e8709e0647c0769663d6eb3416619f7263099dd144900028c",
+        "width": 6000,
+        "height": 4000,
+        "bytes": 6767023,
+        "decodedRgbSha256": "b14ed0bc545137fdd9b443448911d028c01d10c0a7ff2ca1a76bbd22678a5ec7",
+        "decodedRgbBytes": 72000000,
+        "originalDecodedRgbSha256": "b14ed0bc545137fdd9b443448911d028c01d10c0a7ff2ca1a76bbd22678a5ec7",
+        "iccProfileSha256": null,
+        "iccProfileBytes": 0,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": true,
+          "trailerBytesRemoved": 378953,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1",
+            "0xe2"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "published": {
+        "sha256": "3733ab1cfee89c22dc72a4a3ba71a0b172c1f7fd4f6391190d2cd1c403e11044",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 276839,
+        "decodedRgbSha256": "1b1d78dac7d982ff83df02edd7487c454707666701c6c7db5cd8b0465ab3391c",
+        "decodedRgbBytes": 7372800,
+        "gitBlobSha": "729d5a4f4292d5917598adc2557ba6413581ad4d"
+      },
+      "jpegQuality": 84,
+      "fullFrameVisuallyVerified": true,
+      "iccPreserved": true,
+      "captionsAndRightsUnchanged": true,
+      "gitBlobUploadConfirmed": true
+    },
+    {
+      "localPath": "/news-media/2026-11-05/adaptation.jpg",
+      "originalSanitizedSource": {
+        "sha256": "4190d13ba424fa2d5186a9c7db49d39eb020d1b5831ac0838a5d21bbe038229b",
+        "originalSha256": "5c119a3d93798cdee32009f6e3da46124ddf432776afc0ad4b3be0c1e2c76e0a",
+        "width": 4032,
+        "height": 3024,
+        "bytes": 2057182,
+        "decodedRgbSha256": "99646095b1e853103bff905c25531505f5240bc4f405c67b0769bd3ae6ef7690",
+        "decodedRgbBytes": 36578304,
+        "originalDecodedRgbSha256": "99646095b1e853103bff905c25531505f5240bc4f405c67b0769bd3ae6ef7690",
+        "iccProfileSha256": null,
+        "iccProfileBytes": 0,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "published": {
+        "sha256": "d990fed31d0ed51964f0cde97772bca3cee5455c0e714b9c23633c15edd013e9",
+        "width": 1280,
+        "height": 960,
+        "bytes": 281174,
+        "decodedRgbSha256": "f7245bc8c94c201ed96e922ba73e309d3385c1874344d6aeb5692eb13769c301",
+        "decodedRgbBytes": 3686400,
+        "gitBlobSha": "2c5c7e45c37fa19245a313928a4a628eb7d71c7f"
+      },
+      "jpegQuality": 84,
+      "fullFrameVisuallyVerified": true,
+      "iccPreserved": true,
+      "captionsAndRightsUnchanged": true,
+      "gitBlobUploadConfirmed": true
+    },
+    {
+      "localPath": "/news-media/2026-11-05/energy.jpg",
+      "originalSanitizedSource": {
+        "sha256": "863c772f33099afd159d83506bddd431a21e337de20c1e09d3de6d38c6dea8a1",
+        "originalSha256": "2271e5b2caf2c53ba43841ba7e8b2f87aaaf3072d1f7950996f57623a118d625",
+        "width": 5408,
+        "height": 3605,
+        "bytes": 7404318,
+        "decodedRgbSha256": "be628e76efac9018a8335bc017ad00ff79cf39a28b72ced9af8d96c39ecc8452",
+        "decodedRgbBytes": 58487520,
+        "originalDecodedRgbSha256": "be628e76efac9018a8335bc017ad00ff79cf39a28b72ced9af8d96c39ecc8452",
+        "iccProfileSha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e",
+        "iccProfileBytes": 3144,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xed",
+            "0xe1"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "published": {
+        "sha256": "fa81b9e2c08e9944cdfc7bda75961fadaaf31c03137f80bffbea964fd9d8f236",
+        "width": 1600,
+        "height": 1066,
+        "bytes": 248424,
+        "decodedRgbSha256": "5a8236a676830926f2cc91edf741c9a812bab69453fde358be3bd07eeb04872a",
+        "decodedRgbBytes": 5116800,
+        "gitBlobSha": "f086e8d80277bf8a818be815db9e67208a41f7b4"
+      },
+      "jpegQuality": 84,
+      "fullFrameVisuallyVerified": true,
+      "iccPreserved": true,
+      "captionsAndRightsUnchanged": true,
+      "gitBlobUploadConfirmed": true
+    },
+    {
+      "localPath": "/news-media/2026-11-05/ebola-virus-micrograph.jpg",
+      "originalSanitizedSource": {
+        "sha256": "69f60d57330cfb538935939f2f771d258cb75ffd12121ba1ffec4d5489b4495e",
+        "originalSha256": "e815e5d614b4f9f0ad1ca6cb122166bb8ffafc95bc99f83cb610d93d410f7a32",
+        "width": 3679,
+        "height": 1692,
+        "bytes": 820148,
+        "decodedRgbSha256": "5a1f4be2dbe78683dd4bff079f8a202faf182b1aa53633d7f29f78ee4d6827db",
+        "decodedRgbBytes": 18674604,
+        "originalDecodedRgbSha256": "5a1f4be2dbe78683dd4bff079f8a202faf182b1aa53633d7f29f78ee4d6827db",
+        "iccProfileSha256": "3f6d674174f3804eb0dabdac90ae17486e898c5063a66f861c116ea033da8301",
+        "iccProfileBytes": 3144,
+        "privacySanitization": {
+          "nonessentialExifIptcXmpRemoved": true,
+          "nonessentialCameraTrailerRemoved": false,
+          "trailerBytesRemoved": 0,
+          "removedMarkers": [
+            "0xe1",
+            "0xe1"
+          ],
+          "iccPreserved": true,
+          "decodedPixelsPreserved": true,
+          "lossyReencoding": false
+        }
+      },
+      "published": {
+        "sha256": "c4ef1802fcebf8c53fb6cc55cc0019a0df1251b37216570c438d361ae9d46951",
+        "width": 1600,
+        "height": 736,
+        "bytes": 276014,
+        "decodedRgbSha256": "3b035767ae050dc2ca62e776082f4fca732d26e59460464862a449e6f1386fbd",
+        "decodedRgbBytes": 3532800,
+        "gitBlobSha": "91c01aa85196454f3ec0fcac576ced62b4ab4370"
+      },
+      "jpegQuality": 90,
+      "fullFrameVisuallyVerified": true,
+      "iccPreserved": true,
+      "captionsAndRightsUnchanged": true,
+      "gitBlobUploadConfirmed": true
+    }
+  ]
+}

@@ -69,7 +69,11 @@ const repairBaseline={'.vercel_build_output/config/build.json':'1980a6f25e7fa065
 const approvedNov4AvifAddition = "  // November 4: reviewed full-frame equipment, circuitry, faces and solar-panel detail.\n  \"/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg\": 59,\n  \"/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg\": 61,\n  \"/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg\": 62,\n  \"/news-media/2026-11-04/eichelbuck-landfill-solar-2019-schwarzkopf.jpg\": 61,\n";
 function acceptedRepairHash(file) {
   if (file !== 'scripts/optimize-images.mjs') return hash(file);
-  const current = read(file);
+  const published = read(file);
+  const approvedNov5AvifAddition = "  // November 5: reviewed each full-frame 1280px output against its WebP fallback,\n  // retaining screen lettering, micrograph contours, structures and scene detail.\n  \"/news-media/2026-11-05/coding.jpg\": 60,\n  \"/news-media/2026-11-05/ebola-virus-micrograph.jpg\": 60,\n  \"/news-media/2026-11-05/energy.jpg\": 60,\n  \"/news-media/2026-11-05/adaptation.jpg\": 60,\n  \"/news-media/2026-11-05/trade.jpg\": 60,\n  \"/news-media/2026-11-05/activity.jpg\": 60,\n";
+  assert.equal(published.split(approvedNov5AvifAddition).length, 2, 'reviewed November 5 quality block occurs exactly once');
+  assert.ok(published.includes('const photoAvifQuality = {\n' + approvedNov5AvifAddition), 'reviewed November 5 entries remain inside the per-photo map');
+  const current = published.replace(approvedNov5AvifAddition, '');
   assert.equal(current.split(approvedNov4AvifAddition).length, 2, 'approved November 4 quality block occurs exactly once');
   assert.ok(current.includes('const photoAvifQuality = {\n' + approvedNov4AvifAddition), 'approved entries remain inside the per-photo map');
   return createHash('sha256').update(current.replace(approvedNov4AvifAddition, '')).digest('hex');

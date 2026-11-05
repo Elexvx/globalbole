@@ -1,0 +1,89 @@
+{
+  "issue": "2026-11-05",
+  "publicationDate": "2026-11-05",
+  "candidateCount": 8,
+  "receivedCompleteChineseDrafts": 7,
+  "sourceStageFullManuscripts": 7,
+  "receivedImageCandidates": 7,
+  "selectedSubjects": 7,
+  "plannedEditions": 35,
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedKeys": [
+    "us-september-trade-balance-2026-11-05",
+    "us-october-adp-employment-2026-11-05",
+    "who-adolescent-physical-activity-2026-11-05",
+    "unep-adaptation-finance-gap-2026-11-05",
+    "openai-pierre-acquisition-plan-2026-11-05",
+    "who-bundibugyo-vaccine-trial-2026-11-05",
+    "uk-energy-independence-bill-2026-11-05"
+  ],
+  "sourceReleaseDates": [
+    "2026-11-04"
+  ],
+  "selectionSummary": "Seven complete supplied Chinese manuscripts were independently checked and edited; none is replaced with a brief. Seven source-selected image candidates were reviewed separately; image substitutions do not exclude a story.",
+  "heldCandidates": [
+    {
+      "subject": "Leidos AI agent supervision platform",
+      "stage": "source-selection",
+      "sourceDate": "2026-11-04",
+      "reason": "Only vendor claims were available for cross-provider control and credential-protection effects, without independent deployment or performance evidence; the topic substantially overlaps recent AI-agent-control coverage."
+    }
+  ],
+  "factualCorrections": [
+    {
+      "translationKey": "us-september-trade-balance-2026-11-05",
+      "correction": "The July–September moving-average trade deficit is compared with the June–August moving average, not an earlier non-overlapping quarter or the previous release vintage."
+    },
+    {
+      "translationKey": "unep-adaptation-finance-gap-2026-11-05",
+      "correction": "The 28.2 and 31.7 billion dollar finance estimates reflect AGR and OECD methods. Only OECD rises about 1 billion year on year; AGR uses commitments and a 2024-price series that falls. The 305 billion dollar needs figure is in 2024 prices; with assumed 3% annual inflation it is about 420 billion in 2035. The 85–120 billion scenario therefore covers 20–29%; tripling means reaching three times baseline, not adding 300%."
+    }
+  ],
+  "scopeReview": "No selected subject concerns One-China, Taiwan sovereignty, cross-strait political disputes or a substantively equivalent dispute. Humanitarian, medical, ordinary technology and business topics are not categorically excluded.",
+  "deduplication": {
+    "baseCommit": "dc4ffab747739d9bc3024f2ae98e46346b8d88b0",
+    "mainArticleEditionsBefore": 620,
+    "productionArticleEditionsBefore": 620,
+    "productionBuildCommitBefore": "dc4ffab747739d9bc3024f2ae98e46346b8d88b0",
+    "comparison": "Source URLs, event/data periods and topics checked against current main publication log and formal-domain article data. No same-event republication found. Shared license URLs are not news-event duplicates.",
+    "withdrawnTranslationKeysPreserved": [
+      "taiwan-national-day-maritime-tensions-2026-10-11"
+    ],
+    "withdrawnRepublished": false
+  },
+  "mediaReview": "See the issue media provenance and candidate audit for pixel inspection, licensing, precise archival captions, privacy sanitization and substitutions.",
+  "verificationStatus": "Final publishing-derivative candidate passed all 188 automated tests, production-origin build, TypeScript/lint, static export and SEO checks. The seven subjects are present in all five languages (35 editions). Production deployment, exact deployed commit and real desktop/mobile browser acceptance remain pending; local checks are not evidence of publication.",
+  "localVerification": {
+    "completedAt": "2026-11-05T08:35:09Z",
+    "baseCommit": "dc4ffab747739d9bc3024f2ae98e46346b8d88b0",
+    "tests": {"passed": 188, "failed": 0, "skipped": 0, "cancelled": 0},
+    "productionOrigin": "https://www.globalbole.com",
+    "buildExitCode": 0,
+    "typecheckLintExitCode": 0,
+    "exportCheckExitCode": 0,
+    "seoCheckExitCode": 0,
+    "exportedHtmlPages": 8428,
+    "verifiedLocalReferences": 544210,
+    "canonicalArticleEditions": 655,
+    "newArticleEditions": 35,
+    "localizedHomepages": 5,
+    "sitemapUrls": 1660,
+    "localizedCategoryRoutes": 30,
+    "localizedTagRoutes": 3490,
+    "compatibilityTagRoutes": 698,
+    "imageSources": 144,
+    "responsiveImageVariants": 1704,
+    "avifTransferBytes": 31962509,
+    "webpTransferBytes": 35602560,
+    "avifSavingPercent": 10.224127141419048,
+    "eachPhotographAvifSmallerThanWebp": true,
+    "publishingDerivativeMetadata": "All five resized JPEGs match recorded file hashes, dimensions, byte counts and Pillow-decoded RGB hashes. Nonessential EXIF/IPTC/XMP are absent; original ICC profiles match. All five JPEGs and their largest AVIF derivatives were visually inspected at full frame.",
+    "pending": ["Production deployment and exact Git commit verification", "Formal-domain content and asset verification", "Real desktop and mobile browser acceptance"]
+  }
+}

@@ -9,6 +9,14 @@ import {createImageBuildCache} from "./image-build-cache.mjs";
 // Fine-detail scenes need higher AVIF quality; use that conservative default for
 // future photographs rather than applying portrait settings to every subject.
 const photoAvifQuality = {
+  // November 5: reviewed each full-frame 1280px output against its WebP fallback,
+  // retaining screen lettering, micrograph contours, structures and scene detail.
+  "/news-media/2026-11-05/coding.jpg": 60,
+  "/news-media/2026-11-05/ebola-virus-micrograph.jpg": 60,
+  "/news-media/2026-11-05/energy.jpg": 60,
+  "/news-media/2026-11-05/adaptation.jpg": 60,
+  "/news-media/2026-11-05/trade.jpg": 60,
+  "/news-media/2026-11-05/activity.jpg": 60,
   // November 4: reviewed full-frame equipment, circuitry, faces and solar-panel detail.
   "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg": 59,
   "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg": 61,
