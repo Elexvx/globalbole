@@ -1,0 +1,113 @@
+name: Globalbole CI Verification & Static Export
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      issue_date:
+        description: "Optional issue date (YYYY-MM-DD) to verify five-locale parity and provenance"
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  NEXT_PUBLIC_SITE_URL: https://www.globalbole.com
+
+jobs:
+  verify-and-build:
+    name: Test, Build & Audit Static Export
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Audit withdrawn slug exclusion & five-locale issue parity
+        env:
+          TARGET_ISSUE: ${{ inputs.issue_date }}
+        run: |
+          node - <<'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          const forbiddenSlug = 'taiwan-national-day-maritime-tensions-2026-10-11';
+          const locales = ['zh-CN', 'zh-TW', 'en', 'ru', 'fr'];
+          const issuesDir = path.join(process.cwd(), 'content', 'issues');
+
+          if (!fs.existsSync(issuesDir)) {
+            throw new Error('Missing content/issues directory');
+          }
+
+          const issues = fs.readdirSync(issuesDir).filter((d) =>
+            /^\d{4}-\d{2}-\d{2}$/.test(d) &&
+            fs.statSync(path.join(issuesDir, d)).isDirectory()
+          );
+
+          const targetIssues = process.env.TARGET_ISSUE
+            ? [process.env.TARGET_ISSUE]
+            : issues;
+
+          for (const issue of targetIssues) {
+            const baseSlugs = [];
+            for (const locale of locales) {
+              const localeDir = path.join(issuesDir, issue, locale);
+              if (!fs.existsSync(localeDir)) {
+                throw new Error(`Missing locale directory: content/issues/${issue}/${locale}`);
+              }
+              const files = fs.readdirSync(localeDir).filter((f) => f.endsWith('.md')).sort();
+              if (files.some((f) => f.includes(forbiddenSlug))) {
+                throw new Error(`Forbidden withdrawn article detected in ${issue}/${locale}`);
+              }
+              if (baseSlugs.length === 0) {
+                baseSlugs.push(...files);
+              } else if (JSON.stringify(baseSlugs) !== JSON.stringify(files)) {
+                throw new Error(`Locale file mismatch in issue ${issue} (${locale})`);
+              }
+            }
+          }
+          console.log(`Verified ${targetIssues.length} issue(s) across all 5 locales.`);
+          EOF
+
+      - name: Run publication & integrity test suite
+        run: npm test
+
+      - name: Run ESLint checks
+        run: npm run lint
+
+      - name: Build Next.js static export
+        run: npm run build
+
+      - name: Verify static export contract
+        run: npm run check:export
+
+      - name: Verify SEO metadata, canonical links & sitemaps
+        run: node scripts/check-seo.mjs
+
+      - name: Upload verified static export artifact
+        if: github.event_name == 'workflow_dispatch' || github.ref == 'refs/heads/main'
+        uses: actions/upload-artifact@v4
+        with:
+          name: globalbole-static-export-${{ github.sha }}
+          path: out/
+          retention-days: 7
