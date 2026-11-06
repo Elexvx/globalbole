@@ -5374,6 +5374,213 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-06-zh-CN",
+      "issue": "2026-11-06",
+      "publicationDate": "2026-11-06",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication metadata. Principal source releases are dated November 5, 2026 (with October 21 ONS CPI background and November 4 BNL SYNAPS-I context explicitly dated). No precise original publication timestamp is invented.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "uk-boe-november-rate-hike-energy-2026-11-06",
+          "path": "content/issues/2026-11-06/zh-CN/uk-boe-november-rate-hike-energy-2026-11-06.md",
+          "eventDate": "2026-11-05",
+          "sourceDate": "2026-11-05",
+          "dataPeriod": "2026-09 CPI; 15 working days to 2026-10-27 energy futures; Q1–Q2 2027 projections",
+          "sources": [
+            {
+              "title": "Monetary Policy Summary and minutes of the Monetary Policy Committee meeting ending on 4 November 2026",
+              "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+              "footnote": 1,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Bank of England"
+            },
+            {
+              "title": "Monetary Policy Report - November 2026",
+              "url": "https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026",
+              "footnote": 2,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Bank of England"
+            },
+            {
+              "title": "Consumer price inflation, UK: September 2026",
+              "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
+              "footnote": 3,
+              "sourceDate": "2026-10-21",
+              "verificationDate": "2026-11-06",
+              "publisher": "Office for National Statistics"
+            }
+          ]
+        },
+        {
+          "translationKey": "canada-budget-clean-electricity-investment-2026-11-06",
+          "path": "content/issues/2026-11-06/zh-CN/canada-budget-clean-electricity-investment-2026-11-06.md",
+          "eventDate": "2026-11-05",
+          "sourceDate": "2026-11-05",
+          "dataPeriod": "FY2025-26 to 2041-42 budget horizon; 2025 provincial economic accounts",
+          "sources": [
+            {
+              "title": "Government of Canada releases Budget 2026: Masters of our destiny",
+              "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
+              "footnote": 1,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Department of Finance Canada"
+            },
+            {
+              "title": "Powering Canada Strong: From Strategy to Action",
+              "url": "https://natural-resources.canada.ca/energy-sources/electricity-infrastructure/powering-canada-strong-strategy-action",
+              "footnote": 2,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Natural Resources Canada"
+            },
+            {
+              "title": "The Daily — Provincial and territorial economic accounts, 2025",
+              "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261105/dq261105a-eng.htm",
+              "footnote": 3,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Statistics Canada"
+            }
+          ]
+        },
+        {
+          "translationKey": "doe-ny-creates-euv-microelectronics-pilot-2026-11-06",
+          "path": "content/issues/2026-11-06/zh-CN/doe-ny-creates-euv-microelectronics-pilot-2026-11-06.md",
+          "eventDate": "2026-11-05",
+          "sourceDate": "2026-11-05",
+          "dataPeriod": "2026-09 kickoff; 2026-11-04 and 2026-11-05 laboratory announcements",
+          "sources": [
+            {
+              "title": "DOE Labs and NY Creates Partner to Advance U.S. Microelectronics",
+              "url": "https://www.bnl.gov/newsroom/news.php?a=123197",
+              "footnote": 1,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Brookhaven National Laboratory"
+            },
+            {
+              "title": "DOE Labs and NY Creates Partner to Advance U.S. Microelectronics",
+              "url": "https://ny-creates.org/doe-labs-and-ny-creates-partner-to-advance-u-s-microelectronics/",
+              "footnote": 2,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "NY Creates"
+            },
+            {
+              "title": "Transforming How Scientists Study Advanced Microchips with AI",
+              "url": "https://www.bnl.gov/newsroom/news.php?a=223173",
+              "footnote": 3,
+              "sourceDate": "2026-11-04",
+              "verificationDate": "2026-11-06",
+              "publisher": "Brookhaven National Laboratory"
+            }
+          ]
+        },
+        {
+          "translationKey": "uk-southampton-ai-work-naacp-health-equity-2026-11-06",
+          "path": "content/issues/2026-11-06/zh-CN/uk-southampton-ai-work-naacp-health-equity-2026-11-06.md",
+          "eventDate": "2026-11-05",
+          "sourceDate": "2026-11-05",
+          "dataPeriod": "2025 regional firm creation; 2026 workforce exposure and 47-state health equity survey",
+          "sources": [
+            {
+              "title": "AI to reshape work in South, says new report",
+              "url": "https://www.southampton.ac.uk/news/2026/11/ai-to-reshape-work-in-south-says-new-report.page",
+              "footnote": 1,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "University of Southampton"
+            },
+            {
+              "title": "AI Could Widen Health Disparities, Warns NAACP in a New Report",
+              "url": "https://naacp.org/articles/ai-could-widen-health-disparities-warns-naacp-new-report",
+              "footnote": 2,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "NAACP"
+            }
+          ]
+        },
+        {
+          "translationKey": "doe-purdue-smr-construction-nasa-irosa-2026-11-06",
+          "path": "content/issues/2026-11-06/zh-CN/doe-purdue-smr-construction-nasa-irosa-2026-11-06.md",
+          "eventDate": "2026-11-05",
+          "sourceDate": "2026-11-05",
+          "dataPeriod": "2026-11-05 DOE/Purdue partnership and NASA/CSA U.S. Spacewalk 101 (2021-02 to 2026-11-05 IROSA program)",
+          "sources": [
+            {
+              "title": "Department of Energy and Purdue partner to improve nuclear reactor construction",
+              "url": "https://inl.gov/news-release/department-of-energy-and-purdue-partner-to-improve-nuclear-reactor-construction/",
+              "footnote": 1,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Idaho National Laboratory"
+            },
+            {
+              "title": "Purdue Applied Research Institute enters into partnership with U.S. Department of Energy to advance nuclear construction technologies",
+              "url": "https://www.purdue.edu/newsroom/2026/Q4/purdue-applied-research-institute-enters-into-partnership-with-u-s-department-of-energy-to-advance-nuclear-construction-technologies",
+              "footnote": 2,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Purdue University"
+            },
+            {
+              "title": "Spacewalkers Install Final Roll-Out Solar Array",
+              "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalkers-install-final-roll-out-solar-array/",
+              "footnote": 3,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "NASA"
+            }
+          ]
+        },
+        {
+          "translationKey": "china-nea-ai-energy-pilots-mofcom-npropanol-2026-11-06",
+          "path": "content/issues/2026-11-06/zh-CN/china-nea-ai-energy-pilots-mofcom-npropanol-2026-11-06.md",
+          "eventDate": "2026-11-05",
+          "sourceDate": "2026-11-05",
+          "dataPeriod": "2026-11-05 to 2026-11-11 NEA publicity window; 5-year countervailing duty renewal from 2026-11-06",
+          "sources": [
+            {
+              "title": "国家能源局综合司关于公示“人工智能+”能源试点项目清单的通知",
+              "url": "https://www.nea.gov.cn/20261105/585304b2c1a64107ac83af585da214d2/c.html",
+              "footnote": 1,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "National Energy Administration of China"
+            },
+            {
+              "title": "商务部裁定继续对原产于美国的进口正丙醇征收反补贴税",
+              "url": "https://www.news.cn/20261105/00099a7d5ac94db49779b9bd600a2d01/c.html",
+              "footnote": 2,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Xinhua News Agency"
+            },
+            {
+              "title": "商务部召开2026年11月5日例行新闻发布会",
+              "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y5r/index.html",
+              "footnote": 3,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-06",
+              "publisher": "Ministry of Commerce of the People’s Republic of China"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

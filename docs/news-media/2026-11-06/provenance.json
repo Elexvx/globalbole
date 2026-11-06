@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "issue": "2026-11-06",
+  "verifiedAt": "2026-11-06T09:15:00Z",
+  "verification": "All six November 6 stories reuse existing pixel-inspected, privacy-sanitized, open-license or public-domain archival assets already present in the repository with verified five-language attributions and SHA-256 hashes.",
+  "assets": [],
+  "reusedAssets": [
+    {
+      "id": "M1",
+      "article": "uk-boe-november-rate-hike-energy-2026-11-06",
+      "localPath": "/news-media/2026-11-05/energy.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-05/provenance.json",
+      "sha256": "fa81b9e2c08e9944cdfc7bda75961fadaaf31c03137f80bffbea964fd9d8f236",
+      "workPage": "https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "captions": {
+        "zh-CN": "英国 Rampion 海上风电场的海上变电站，2025年3月29日。清洁能源设施资料图，并非11月4日议会现场。 摄影：[Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "英國 Rampion 離岸風電場的海上變電站，2025年3月29日。潔淨能源設施資料圖，並非11月4日議會現場。 攝影: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "en": "The offshore substation at the UK’s Rampion wind farm, March 29, 2025. Archival image of clean-energy infrastructure, not the parliamentary proceedings of November 4. Photo: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Морская подстанция британской ветроэлектростанции Rampion, 29 марта 2025 года. Архивное изображение объекта чистой энергетики, не парламентское заседание 4 ноября. Фото: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "La sous-station en mer du parc éolien britannique Rampion, le 29 mars 2025. Photo d’archives d’une infrastructure d’énergie propre, hors des travaux parlementaires du 4 novembre. Photo: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "资料照片：英国Rampion海上风电场的海上变电站，并非议会现场。",
+        "zh-TW": "資料照片：英國Rampion離岸風電場的海上變電站，並非議會現場。",
+        "en": "Archival photo: the offshore substation at the UK’s Rampion wind farm, not a parliamentary scene.",
+        "ru": "Архивное фото: морская подстанция британской ветроэлектростанции Rampion, не парламентское заседание.",
+        "fr": "Photo d’archives : la sous-station en mer du parc éolien britannique Rampion, hors du Parlement."
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M2",
+      "article": "canada-budget-clean-electricity-investment-2026-11-06",
+      "localPath": "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-04/provenance.json",
+      "sha256": "a59a0abfe681f15b60d1fc943e7f1a24a3369a45e25ac0ddd669e2f1aa56d261",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "captions": {
+        "en": "The Reid Gardner battery energy storage project near Moapa, Nevada, photographed on March 24, 2025. Archival photo. The photograph does not depict an identified LG project. Photo: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "fr": "Le projet de stockage d’énergie par batteries Reid Gardner, près de Moapa, au Nevada, photographié le 24 mars 2025. Photo d’archives. Le cliché ne représente pas un projet identifié comme appartenant à LG. Photo: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "ru": "Аккумуляторный комплекс Reid Gardner возле Моапы, Невада, 24 марта 2025 года. Архивное фото. На фото не показан проект, идентифицированный как объект LG. Фото: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "zh-CN": "美国内华达州莫阿帕附近的 Reid Gardner 电池储能项目，摄于2025年3月24日。资料图。 不作为LG项目实景。 摄影: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "zh-TW": "美國內華達州莫阿帕附近的 Reid Gardner 電池儲能專案，攝於2025年3月24日。資料圖。 不作為LG專案實景。 攝影: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)."
+      },
+      "coverAlt": {
+        "en": "Archival photo: Groups of white battery enclosures within the fenced Reid Gardner storage site in the Nevada desert",
+        "fr": "Photo d’archives : Des groupes de conteneurs de batteries blancs dans l’enceinte du site de stockage Reid Gardner, dans le désert du Nevada",
+        "ru": "Архивное фото: Группы белых аккумуляторных контейнеров на огороженной территории комплекса Reid Gardner в пустыне Невады",
+        "zh-CN": "资料图：内华达州沙漠中的Reid Gardner储能项目，围栏内排列着成组白色电池舱",
+        "zh-TW": "資料圖：內華達州沙漠中的Reid Gardner儲能專案，圍欄內排列著成組白色電池艙"
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M3",
+      "article": "doe-ny-creates-euv-microelectronics-pilot-2026-11-06",
+      "localPath": "/news-media/2026-10-30/argonne-battery-xray.jpg",
+      "sourceProvenance": "docs/news-media/2026-10-30/provenance.json",
+      "sha256": "9fc95b5503fdf212a89344f55749650381f7bed09b0baaacf0b4f51e0511fbaf",
+      "workPage": "https://www.flickr.com/photos/departmentofenergy/9404258684/",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/departmentofenergy/9404258684/",
+      "license": "United States government work",
+      "licenseURL": "https://www.usa.gov/government-copyright",
+      "captions": {
+        "zh-CN": "资料图：2010 年 8 月 31 日，阿贡国家实验室先进光子源电池研究实验。摄影：Geo Joch / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258684/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。",
+        "zh-TW": "資料照片：2010 年 8 月 31 日，阿岡國家實驗室先進光子源電池研究實驗。攝影：Geo Joch / Argonne National Laboratory；由[美國能源部發布](https://www.flickr.com/photos/departmentofenergy/9404258684/)，該作品頁標示為[美國政府作品](https://www.usa.gov/government-copyright)。",
+        "en": "Archival photograph: August 31, 2010, a battery research experiment at Argonne National Laboratory's Advanced Photon Source. Photograph: Geo Joch / Argonne National Laboratory; [published by the U.S. Department of Energy](https://www.flickr.com/photos/departmentofenergy/9404258684/), with the individual asset page marked as a [U.S. government work](https://www.usa.gov/government-copyright).",
+        "ru": "Архивная фотография: 31 августа 2010 года, эксперимент по исследованию батарей на источнике Advanced Photon Source Аргоннской национальной лаборатории. Фотография: Geo Joch / Argonne National Laboratory; [опубликовано Министерством энергетики США](https://www.flickr.com/photos/departmentofenergy/9404258684/), на странице работы указано, что это [произведение правительства США](https://www.usa.gov/government-copyright).",
+        "fr": "Archives : 31 août 2010, expérience de recherche sur les batteries à l’Advanced Photon Source du laboratoire national d’Argonne. Photographie : Geo Joch / Argonne National Laboratory ; [publication du département américain de l’Énergie](https://www.flickr.com/photos/departmentofenergy/9404258684/), dont la page propre à l’image la désigne comme une [œuvre du gouvernement des États-Unis](https://www.usa.gov/government-copyright)."
+      },
+      "coverAlt": {
+        "zh-CN": "阿贡国家实验室先进光子源电池研究实验的资料照片。",
+        "zh-TW": "阿岡國家實驗室先進光子源電池研究實驗的資料照片。",
+        "en": "Archival photograph of a battery research experiment at Argonne National Laboratory's Advanced Photon Source.",
+        "ru": "Архивная фотография эксперимента по исследованию батарей на источнике Advanced Photon Source Аргоннской национальной лаборатории.",
+        "fr": "Photographie d’archives d’une expérience de recherche sur les batteries à l’Advanced Photon Source du laboratoire national d’Argonne."
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M4",
+      "article": "uk-southampton-ai-work-naacp-health-equity-2026-11-06",
+      "localPath": "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-04/provenance.json",
+      "sha256": "88760f17fe932ea10a5f4137745b9b77dd4be5569e85907048e6ee3309f0513c",
+      "workPage": "https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "captions": {
+        "en": "Applicants and employers talk at a First Source Jobs Program job fair on October 24, 2014. Archival photo. It is not a photograph of the November 2026 data release. Photo: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Des candidats échangent avec des employeurs lors d’un salon de l’emploi du First Source Jobs Program, le 24 octobre 2014. Photo d’archives. Ce cliché ne montre pas la publication des données de novembre 2026. Photo: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Соискатели общаются с работодателями на ярмарке вакансий First Source Jobs Program 24 октября 2014 года. Архивное фото. На фото не изображено событие, связанное с публикацией данных в ноябре 2026 года. Фото: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "zh-CN": "2014年10月24日，First Source Jobs Program 招聘会上的求职者与雇主交流。资料图。 并非2026年11月数据发布现场。 摄影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "zh-TW": "2014年10月24日，First Source Jobs Program 招聘會上的求職者與雇主交流。資料圖。 並非2026年11月數據發布現場。 攝影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "coverAlt": {
+        "en": "Archival photo: Job seekers and employers talking inside a meeting room at a First Source Jobs Program job fair",
+        "fr": "Photo d’archives : Des candidats et des employeurs discutent dans une salle lors d’un salon de l’emploi du First Source Jobs Program",
+        "ru": "Архивное фото: Соискатели и работодатели беседуют в зале на ярмарке вакансий First Source Jobs Program",
+        "zh-CN": "资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈",
+        "zh-TW": "資料圖：First Source Jobs Program 招聘會上，求職者與雇主站在會議室內交談"
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M5",
+      "article": "doe-purdue-smr-construction-nasa-irosa-2026-11-06",
+      "localPath": "/news-media/2026-10-29/maryland-parkton-solar.jpg",
+      "sourceProvenance": "docs/news-media/2026-10-29/provenance.json",
+      "sha256": "3f14bb77317c9f37d9c38fda06f81bc0a9198bf473fd1092021ce781bfabccf2",
+      "workPage": "https://www.flickr.com/photos/baltimorecounty/54844058516",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/baltimorecounty/54844058516",
+      "license": "Public Domain Mark 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "captions": {
+        "zh-CN": "资料图：2025 年 10 月 9 日，美国马里兰州 Parkton 已关闭填埋场的[太阳能阵列](https://www.flickr.com/photos/baltimorecounty/54844058516)。摄影／供图：Baltimore County Government；[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)。",
+        "zh-TW": "資料照片：2025 年 10 月 9 日，美國馬里蘭州 Parkton 已關閉的掩埋場內的[太陽能陣列](https://www.flickr.com/photos/baltimorecounty/54844058516)。攝影／供圖：Baltimore County Government；[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)。",
+        "en": "Archival photograph: a [solar array](https://www.flickr.com/photos/baltimorecounty/54844058516) at a closed landfill in Parkton, Maryland, United States, October 9, 2025. Photograph / supplied by: Baltimore County Government; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).",
+        "ru": "Архивная фотография: 9 октября 2025 года, [солнечная установка](https://www.flickr.com/photos/baltimorecounty/54844058516) на закрытом полигоне отходов в Парктоне, Мэриленд, США. Фотография и предоставление изображения: Baltimore County Government; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).",
+        "fr": "Photo d’archives : le 9 octobre 2025, [installation solaire](https://www.flickr.com/photos/baltimorecounty/54844058516) sur une décharge fermée de Parkton, dans le Maryland, aux États-Unis. Photographie / image fournie par : Baltimore County Government ; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "马里兰州 Parkton 地面光伏阵列资料照片。",
+        "zh-TW": "馬里蘭州 Parkton 地面型太陽光電陣列資料照片。",
+        "en": "Archival photograph of a ground-mounted solar array in Parkton, Maryland.",
+        "ru": "Архивная фотография наземной солнечной установки в Парктоне, штат Мэриленд.",
+        "fr": "Photo d’archives d’une installation photovoltaïque au sol à Parkton, dans le Maryland."
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M6",
+      "article": "china-nea-ai-energy-pilots-mofcom-npropanol-2026-11-06",
+      "localPath": "/news-media/2026-10-30/argonne-electrode-winding.jpg",
+      "sourceProvenance": "docs/news-media/2026-10-30/provenance.json",
+      "sha256": "989ec0cf824c2c084f370915ac02c9d64007b2131061ed31863e75c4e2b836ae",
+      "workPage": "https://www.flickr.com/photos/departmentofenergy/9404258514/",
+      "rightsEvidenceURL": "https://www.flickr.com/photos/departmentofenergy/9404258514/",
+      "license": "United States government work",
+      "licenseURL": "https://www.usa.gov/government-copyright",
+      "captions": {
+        "zh-CN": "资料图：2011 年 7 月 15 日，阿贡国家实验室电极卷绕实验。摄影：Wes Agresta / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258514/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。",
+        "zh-TW": "資料照片：2011 年 7 月 15 日，阿岡國家實驗室電極捲繞實驗。攝影：Wes Agresta / Argonne National Laboratory；由[美國能源部發布](https://www.flickr.com/photos/departmentofenergy/9404258514/)，該作品頁標示為[美國政府作品](https://www.usa.gov/government-copyright)。",
+        "en": "Archival photograph: July 15, 2011, an electrode-winding experiment at Argonne National Laboratory. Photograph: Wes Agresta / Argonne National Laboratory; [published by the U.S. Department of Energy](https://www.flickr.com/photos/departmentofenergy/9404258514/), with the individual asset page marked as a [U.S. government work](https://www.usa.gov/government-copyright).",
+        "ru": "Архивная фотография: 15 июля 2011 года, эксперимент по намотке электродов в Аргоннской национальной лаборатории. Фотография: Wes Agresta / Argonne National Laboratory; [опубликовано Министерством энергетики США](https://www.flickr.com/photos/departmentofenergy/9404258514/), на странице работы указано, что это [произведение правительства США](https://www.usa.gov/government-copyright).",
+        "fr": "Archives : 15 juillet 2011, travail expérimental d’enroulement d’électrodes au laboratoire national d’Argonne. Photographie : Wes Agresta / Argonne National Laboratory ; [publication du département américain de l’Énergie](https://www.flickr.com/photos/departmentofenergy/9404258514/), dont la page propre à l’image la désigne comme une [œuvre du gouvernement des États-Unis](https://www.usa.gov/government-copyright)."
+      },
+      "coverAlt": {
+        "zh-CN": "阿贡国家实验室电极卷绕实验的资料照片。",
+        "zh-TW": "阿岡國家實驗室電極捲繞實驗的資料照片。",
+        "en": "Archival photograph of an electrode-winding experiment at Argonne National Laboratory.",
+        "ru": "Архивная фотография эксперимента по намотке электродов в Аргоннской национальной лаборатории.",
+        "fr": "Photographie d’archives d’un travail expérimental d’enroulement d’électrodes au laboratoire national d’Argonne."
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    }
+  ]
+}

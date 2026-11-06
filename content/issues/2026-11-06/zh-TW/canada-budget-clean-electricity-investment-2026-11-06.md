@@ -1,0 +1,37 @@
+---
+title: "加拿大提交2026年聯邦預算案，新增520億加元潔淨電力與電網投資承諾"
+slug: "canada-budget-clean-electricity-investment-2026-11-06"
+translationKey: "canada-budget-clean-electricity-investment-2026-11-06"
+issue: "2026-11-06"
+lang: "zh-TW"
+category: "business"
+author: "全球伯乐 News"
+authorRole: "資料整理"
+date: "2026-11-06"
+description: "加拿大財政部將潔淨技術與潔淨電力投資稅收抵免延長至2040年底，同日統計局數據顯示2025年家庭消費增速放緩至2.0%，但電腦設備投資躍升14.1%。"
+cover: "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg"
+coverAlt: "資料圖：內華達州沙漠中的Reid Gardner儲能專案，圍欄內排列著成組白色電池艙"
+tags: ["財政政策", "電網", "資本支出"]
+readTime: 5
+draft: false
+---
+
+![資料圖：內華達州沙漠中的Reid Gardner儲能專案，圍欄內排列著成組白色電池艙](/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg)
+
+美國內華達州莫阿帕附近的 Reid Gardner 電池儲能專案，攝於2025年3月24日。資料圖。 不作為LG專案實景。 攝影: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## 潔淨電力稅收抵免延至2040年底，電氣化總投入規劃超1150億加元
+
+加拿大財政與國家稅務部長商鵬飛（François-Philippe Champagne）於2026年11月5日向眾議院提交題為《做自己命運的主人》的2026年聯邦預算案，加拿大自然資源部同日發布《強力驅動加拿大：從戰略到行動》實施方案。預算案將直接計畫支出增速從8%壓降至**2%**，承諾在2027至2028財年提前一年實現日常營運收支平衡，並旨在未來六年撬動**4000億加元**資本投資。透過新增的「生產力超級抵扣」（Productivity Mega Deduction），加拿大大小企業可將大部分新增投資成本一次性全額抵扣，企業新增投資邊際有效稅率（METR）由13%降至**6.4%**，政府預計未來十年每年可為GDP增加約220億加元並支持最多8萬個職位。[^1][^2]
+
+在能源與電網基礎設施方面，2026年預算案新增**520億加元**潔淨電力與潔淨技術承諾，使聯邦政府截至2041至2042財年的電氣化累計資金規模超過**1150億加元**。其中，政府預計耗資**385億加元**，將30%的潔淨技術投資稅收抵免（Clean Technology ITC）和15%的潔淨電力投資稅收抵免（Clean Electricity ITC）雙雙延長至**2040年底**，並將各省省內高壓輸電線路納入潔淨電力抵免範圍，同時就最高10個和5個百分點的本土含量加成展開磋商。此外，加拿大基礎設施銀行承諾出資**2.85億加元**支持連接新斯科細亞省與新不倫瑞克省的160公里、345千伏 Wasoqonatl 輸電互聯專案，預計可為新斯科細亞省電力用戶帶來2億加元淨現值收益。[^1][^2]
+
+## 民生紓困與2025年省級經濟核算並列，預算承諾需區分現金與權責口徑
+
+針對生活成本壓力，預算案推出五年逾**220億加元**的新增可負擔性措施，包括將聯邦燃油消費稅暫停徵收延長至2027年1月（汽油每公升最高省10加分、柴油每公升省4加分），並在2027年投入**41億加元**發放一次性提高50%的「加拿大食品雜貨與生活必需品福利補充金」，涵蓋逾1200萬名加拿大人（單身無子女最高339加元，雙孩家庭最高679加元）。同日，加拿大統計局發布的《2025年各省及地區經濟核算》顯示，2025年加拿大實質GDP成長**1.9%**（低於2024年的2.1%），家庭支出僅成長**2.0%**，為2020年疫情下滑以來的最低增速；受美國關稅與貿易不確定性影響，國際出口下降1.1%。但與之形成對比的是，2025年加拿大電腦及周邊設備投資逆勢激增**14.1%**，創下2011年以來最大增幅。[^1][^3]
+
+在解讀這組財政與宏觀數據時，需注意三項核算限定：第一，預算案中的跨年資金承諾混合了權責發生制與現金口徑（例如11年447億加元消除無家可歸資金與6年65億加元林業支持明確標註為現金口徑），且1150億加元電氣化總額彙總了本預算新增的520億加元與既往已宣布專案；第二，「到2050年使電網容量翻倍並帶動3兆加元GDP」屬於加拿大自然資源部的長期情景模擬，而非短期預算撥款結果；第三，加拿大統計局說明，各省及地區經濟核算採用鏈式費雪指數公式，其全國彙總值需待2026年11月30日公布第三季GDP年度修訂時才會與國家級收支帳戶完全對齊。[^1][^2][^3]
+
+[^1]: 2026-11-05 · [Government of Canada releases Budget 2026: Masters of our destiny](https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html) · 加拿大財政部.
+[^2]: 2026-11-05 · [Powering Canada Strong: From Strategy to Action](https://natural-resources.canada.ca/energy-sources/electricity-infrastructure/powering-canada-strong-strategy-action) · 加拿大自然資源部.
+[^3]: 2026-11-05 · [The Daily — Provincial and territorial economic accounts, 2025](https://www150.statcan.gc.ca/n1/daily-quotidien/261105/dq261105a-eng.htm) · 加拿大統計局.

@@ -1,0 +1,30 @@
+{
+  "issue": "2026-11-06",
+  "publicationDate": "2026-11-06",
+  "reviewedAt": "2026-11-06T09:15:00Z",
+  "locales": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedArticles": [
+    "uk-boe-november-rate-hike-energy-2026-11-06",
+    "canada-budget-clean-electricity-investment-2026-11-06",
+    "doe-ny-creates-euv-microelectronics-pilot-2026-11-06",
+    "uk-southampton-ai-work-naacp-health-equity-2026-11-06",
+    "doe-purdue-smr-construction-nasa-irosa-2026-11-06",
+    "china-nea-ai-energy-pilots-mofcom-npropanol-2026-11-06"
+  ],
+  "deferredCandidates": [
+    {
+      "candidate": "taiwan-national-day-maritime-tensions-2026-10-11",
+      "reason": "Permanently withdrawn; never republish under any slug or language."
+    },
+    {
+      "candidate": "cross-strait-and-sovereignty-sensitive-political-items",
+      "reason": "Excluded per editorial policy skipping One-China principle and Taiwan sovereignty political disputes."
+    }
+  ]
+}

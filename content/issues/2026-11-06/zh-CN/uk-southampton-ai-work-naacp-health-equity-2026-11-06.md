@@ -1,0 +1,36 @@
+---
+title: "南安普顿大学与NAACP同日发布报告，揭示AI在区域就业与医疗可及性中的结构分化"
+slug: "uk-southampton-ai-work-naacp-health-equity-2026-11-06"
+translationKey: "uk-southampton-ai-work-naacp-health-equity-2026-11-06"
+issue: "2026-11-06"
+lang: "zh-CN"
+category: "work-life"
+author: "全球伯乐 News"
+authorRole: "资料整理"
+date: "2026-11-06"
+description: "英国南安普顿大学评估南部约三成岗位受AI影响且5.5万名高暴露劳动者以女性和兼职为主；美国全国有色人种协进会则警示宽带与医疗荒漠可能放大健康差距。"
+cover: "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg"
+coverAlt: "资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈"
+tags: ["劳动力市场", "就业", "公共政策"]
+readTime: 5
+draft: false
+---
+
+![资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈](/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg)
+
+2014年10月24日，First Source Jobs Program 招聘会上的求职者与雇主交流。资料图。 并非2026年11月数据发布现场。 摄影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## 英格兰南部约30%岗位面临任务重塑，5.5万高暴露岗位集中于女性与兼职群体
+
+英国南安普顿大学于2026年11月5日在“商业南方年度大会”（Business South Annual Conference）上发布《人工智能将如何影响汉普郡与索伦特地区的劳动力市场》及配套报告《汉普郡与索伦特塑造英国AI革命的五十种方式》。报告估算，英格兰南部汉普郡与索伦特地区约**十分之三（约30%）**的岗位处于受AI影响而发生任务重构的职业类别，略高于英格兰平均水平；其中约**5.5万名劳动者**（约占区域劳动力的**5%**）处于日常工作任务可能被AI较大比例接管的高暴露岗位，且这一群体中**女性、兼职人员与职业生涯中期劳动者**占比偏高。信息处理、分析与行政管理集中的金融、专业服务、信息通信及公共行政部门受影响最大，而依赖现场作业与人际互动的建筑、餐饮住宿及护理行业直接暴露度最低。[^1]
+
+同一区域报告同时显示当地AI产业与公共部门应用正在扩张：过去三年报告使用AI的当地企业比例翻了一番，区域内已聚集逾**200家**AI企业，其中仅**2025年就新成立57家**。南安普顿大学自身牵头规模达**3100万英镑**的“英国负责任AI”（Responsible AI UK）联盟，而汉普郡警方与南安普顿大学医院NHS信托基金会已分别将AI用于公众咨询虚拟助手与乳腺筛查影像质量提升。针对岗位分化，报告提出三项政策建议：普及AI技能培训、建立公共部门示范项目，以及设立“转型保障机制”（transition guarantee）以支持高风险岗位人员再培训与转岗。[^1]
+
+## 美国日均健康AI查询达5000万次，但医疗荒漠与380万无宽带人口制约技术普惠
+
+同日（11月5日），美国全国有色人种协进会（NAACP）与赛诺菲（Sanofi）在休斯敦举行的 AfroTech 2026 大会上联合发布“ACE Your Health”系列第三份报告《诊室双方的共同挑战：AI素养》。该研究汇集了全美**47个州、华盛顿特区及波多黎各近2.3万名社区成员**的调查与全国数据集：目前美国民众每天向 Microsoft Copilot 和 Bing 提出约**5000万次**健康相关问题，**81%的医生**表示已在工作中使用AI；在使用AI查询健康信息的受访者中，有**19%**表示是因为无力负担就医费用，且非裔成年人使用AI寻求心理健康建议的比例显著高于白人成年人。[^2]
+
+然而，基础设施与信任缺口限制了医疗AI的均衡落地。NAACP 报告指出，全美约**三分之一**人口生活在“医疗荒漠”中，例如在密西西比三角洲地区，全部**15.4万名**非裔居民居住地距四星或五星级医院均超过**25英里**；同时约有**380万名**非裔美国人家庭没有固定宽带互联网订阅。此外，近**三分之二**的非裔成年人认为种族偏见仍是医疗系统的重大问题，**三分之一**预计AI会加剧医疗场景中的偏见。在解读这两份同日发布的报告时需注意：南安普顿大学的5.5万人指标衡量的是**职业任务暴露度**而非已发生的裁员人数；NAACP 报告则将近2.3万人的社区调查与外部行业统计结合，并由医药企业赛诺菲合作支持。[^1][^2]
+
+[^1]: 2026-11-05 · [AI to reshape work in South, says new report](https://www.southampton.ac.uk/news/2026/11/ai-to-reshape-work-in-south-says-new-report.page) · 南安普顿大学.
+[^2]: 2026-11-05 · [AI Could Widen Health Disparities, Warns NAACP in a New Report](https://naacp.org/articles/ai-could-widen-health-disparities-warns-naacp-new-report) · 美国全国有色人种协进会.
