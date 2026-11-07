@@ -16,7 +16,7 @@ readTime: 5
 draft: false
 ---
 
-L’Office of Foreign Assets Control (OFAC) du Trésor américain a délivré le 9 octobre la licence générale n° 135, autorisant temporairement des transactions sur le gazole d’origine russe. La mesure élargit les possibilités de commerce d’un carburant particulier sans démanteler le système de sanctions. Pour la comprendre, il faut examiner les activités autorisées, les restrictions maintenues et la réalisation des livraisons commerciales.[^2]
+L’Office of Foreign Assets Control (OFAC) du Trésor américain a délivré le 9 octobre la licence générale n° 135, qui autorise temporairement des transactions sur le gazole d’origine russe. Le commerce d’un carburant particulier s’élargit. Le système de sanctions n’est pas démantelé. Pour lire la mesure, il faut regarder les activités autorisées, les restrictions maintenues, et la réalisation effective des livraisons commerciales.[^2]
 
 ![Illustration générée par IA : table ronde de négociation inoccupée, feuilles vierges et barils de carburant](/news-media/2026-10-10/miami-ukraine-talks-russian-diesel-2026-10-10.png)
 
@@ -26,29 +26,29 @@ L’Office of Foreign Assets Control (OFAC) du Trésor américain a délivré le
 
 Selon une source de Reuters, des représentants américains, ukrainiens, européens et de l’OTAN ont discuté six heures à Miami le 9 octobre, en vue d’une proposition commune à présenter à la Russie.[^1]
 
-Hromadske Radio, citant les sources du journaliste de RFE/RL Alex Raufoglu, rapporte une fin anticipée, sans deuxième journée.[^5]
+Hromadske Radio, citant les sources du journaliste de RFE/RL Alex Raufoglu, rapporte une fin anticipée. Il n’y a pas eu de deuxième journée.[^5]
 
-Tout arrangement diplomatique visant à terminer une guerre doit franchir plusieurs étapes : établir un texte pouvant être discuté en commun, déterminer ce que les parties concernées acceptent, puis créer des mécanismes d’application et de contrôle. Progresser à une étape ne signifie pas avoir achevé la suivante. Pour la sécurité à long terme et le redressement économique, savoir qui assume chaque obligation, quand les conditions se déclenchent et comment les violations sont traitées renseigne souvent davantage sur la faisabilité que la durée des discussions.
+Un arrangement diplomatique visant à terminer une guerre ne se boucle pas en une fois. Il faut un texte que l’on puisse discuter en commun, puis ce que les parties concernées acceptent, puis des mécanismes d’application et de contrôle. Passer un cap n’achève pas le suivant. Pour la sécurité à long terme comme pour le redressement économique, savoir qui assume chaque obligation, quand les conditions se déclenchent et comment les violations sont traitées en dit souvent davantage sur la faisabilité que la durée des discussions.
 
 ## La licence sur le gazole a des limites juridiques précises
 
 L’OFAC autorise les transactions normalement interdites par la réglementation sur les activités extérieures préjudiciables de la Russie ou par celle relative à l’Ukraine et à la Russie, lorsqu’elles concernent la vente, la livraison, le déchargement ou l’importation de gazole d’origine russe. Les importations aux États-Unis sont expressément incluses. L’autorisation court jusqu’au 7 avril 2027 à 00 h 01, heure d’été de l’Est des États-Unis. Elle n’autorise pas les débits sur les comptes de la banque centrale russe, du Fonds national de richesse ou du ministère russe des Finances auprès d’établissements financiers américains.[^2]
 
-La mesure modifie donc le cadre juridique d’un commerce de carburant déterminé. Elle ne signifie ni que toutes les transactions énergétiques russes sont permises, ni que le système de sanctions est aboli. Autoriser une opération est distinct de produire, charger et livrer son carburant. La licence seule ne prouve pas que les volumes annoncés ont été livrés et ne garantit pas que chaque dispositif de paiement envisagé respecte les règles applicables.
+C’est le cadre juridique d’un commerce de carburant déterminé qui change. Toutes les transactions énergétiques russes ne deviennent pas permises. Le système de sanctions n’est pas aboli. Autoriser une opération n’est pas produire le carburant, le charger, le livrer. La licence, à elle seule, ne prouve pas que les volumes annoncés ont été livrés. Elle ne garantit pas non plus que chaque dispositif de paiement envisagé respecte les règles applicables.
 
 ## Coût du carburant et pression des sanctions
 
 Selon Mediaite, Trump vise un carburant moins cher ; Zelensky refuse un allègement des sanctions sans désescalade.[^3]
 
-Une opposition publique s’est également exprimée aux États-Unis. Les sénateurs Jeanne Shaheen, Chuck Schumer et Elizabeth Warren ont publié le 9 octobre un communiqué commun affirmant que la mesure sur le gazole affaiblissait le soutien à l’Ukraine et aux alliés européens, ainsi que les efforts visant à limiter les recettes de guerre russes. [^4]
+Une opposition publique s’est également exprimée aux États-Unis. Les sénateurs Jeanne Shaheen, Chuck Schumer et Elizabeth Warren ont publié le 9 octobre un communiqué commun. La mesure sur le gazole, y affirment-ils, affaiblissait le soutien à l’Ukraine et aux alliés européens, ainsi que les efforts visant à limiter les recettes de guerre russes.[^4]
 
-Les deux objectifs ne sont pas automatiquement compatibles. Accroître les volumes commercialisables peut élargir les options des acheteurs, tandis que l’assouplissement des restrictions peut augmenter les recettes des vendeurs. L’effet final sur les prix dépendra de l’offre réellement supplémentaire, d’un éventuel simple changement de destination des flux existants et de l’exécution du transport et des livraisons. Une annonce présidentielle ou une licence ne suffit pas à établir que les prix du gazole baisseront sensiblement.
+Les deux objectifs ne vont pas de soi ensemble. Accroître les volumes commercialisables peut élargir les options des acheteurs. Assouplir les restrictions peut augmenter les recettes des vendeurs. L’effet final sur les prix dépendra de l’offre réellement supplémentaire, d’un éventuel simple changement de destination des flux existants, et de l’exécution du transport et des livraisons. Une annonce présidentielle, ou une licence, ne suffit pas à établir que les prix du gazole baisseront sensiblement.
 
 ## Les prochains repères : le texte et les livraisons
 
-Évaluer la diplomatie suppose d’examiner la cohérence des engagements des parties concernées ; évaluer la mesure sur le gazole suppose de vérifier que les transactions autorisées deviennent des approvisionnements réels. Les arrangements commerciaux ne résolvent pas automatiquement les questions de sécurité à long terme, et poursuivre les discussions ne signifie pas supprimer les désaccords. Autorisation juridique, exécution commerciale et engagements politiques doivent être vérifiés séparément.
+La diplomatie s’apprécie à la cohérence des engagements des parties concernées. La mesure sur le gazole s’apprécie à autre chose : les transactions autorisées deviennent-elles des approvisionnements réels ? Les arrangements commerciaux ne règlent pas, d’eux-mêmes, les questions de sécurité à long terme. Poursuivre les discussions n’efface pas les désaccords. Autorisation juridique, exécution commerciale et engagements politiques se vérifient séparément.
 
-Une politique ne doit pas être jugée seulement sur les réactions du jour de son annonce. Les preuves les plus utiles sont les opérations et les livraisons documentées, accompagnées d’engagements clairs et applicables. Approvisionnement en carburant et diplomatie peuvent suivre des calendriers différents. Seuls l’ordre d’exécution et des résultats vérifiables permettent d’évaluer si une autorisation temporaire atteint ses objectifs.
+Une politique ne se juge pas aux seules réactions du jour de son annonce. Les preuves les plus utiles sont les opérations et les livraisons documentées, avec des engagements clairs et applicables. Approvisionnement en carburant et diplomatie peuvent suivre des calendriers différents. Seuls l’ordre d’exécution et des résultats vérifiables permettent de dire si une autorisation temporaire atteint ses objectifs.
 
 [^1]: 2026-10-09 · [Les négociateurs américains, ukrainiens et européens se réunissent à Miami tandis que Trump annonce un accord sur le gazole avec la Russie](https://www.marketscreener.com/news/us-ukraine-european-negotiators-meet-in-miami-as-trump-announces-diesel-deal-with-russia-ce785ddcda8df322) · Reuters, repris par MarketScreener.
 
