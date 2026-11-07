@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "The National Reactor Innovation Center and Purdue University will build scaled steel-plate composite containment structures, while astronauts raised International Space Station power capacity to roughly 215 kilowatts."
 cover: "/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp"
-coverAlt: "AI-generated editorial illustration: a modular reactor vessel sculpture paired with an unrolling spacecraft solar-array paper model represents modular nuclear construction research and orbital power upgrades, not actual hardware."
+coverAlt: "AI-generated editorial illustration: interlocking cylindrical reactor module models on a stone slab, an unrolling solar blanket model and a blank engineering folder represent modular SMR construction research and orbital solar upgrades, not actual hardware."
 tags: ["Infrastructure", "Energy security", "Renewable energy"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: a modular reactor vessel sculpture paired with an unrolling spacecraft solar-array paper model represents modular nuclear construction research and orbital power upgrades, not actual hardware.](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
+![AI-generated editorial illustration: interlocking cylindrical reactor module models on a stone slab, an unrolling solar blanket model and a blank engineering folder represent modular SMR construction research and orbital solar upgrades, not actual hardware.](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
 
-AI-generated editorial illustration: a modular reactor vessel sculpture paired with an unrolling spacecraft solar-array paper model represents modular nuclear construction research and orbital power upgrades, not actual hardware.
+AI-generated editorial illustration: interlocking cylindrical reactor module models on a stone slab, an unrolling solar blanket model and a blank engineering folder represent modular SMR construction research and orbital solar upgrades, not actual hardware.
 
 ## Steel-plate composite modules and real-time digital twins target small modular reactor construction risk
 

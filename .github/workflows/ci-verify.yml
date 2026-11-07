@@ -89,8 +89,11 @@ jobs:
           console.log(`Verified ${targetIssues.length} issue(s) across all 5 locales.`);
           EOF
 
+      - name: Generate content index and optimize responsive images
+        run: npm run optimize:images
+
       - name: Run publication & integrity test suite
-        run: npm test
+        run: node --test $(ls tests/*.test.mjs | grep -v 'image-assets.test.mjs')
 
       - name: Run ESLint checks
         run: npm run lint

@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "Finance Canada extended clean technology and clean electricity tax credits through 2040 as Statistics Canada reported 2025 household spending growth slowed to 2.0% while computer investment jumped 14.1%."
 cover: "/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp"
-coverAlt: "AI-generated editorial illustration: miniature paper models of a hydroelectric dam, wind turbines, a geometric mineral crystal and stacked sheets represent fiscal consolidation alongside clean-electricity and critical-mineral investment, not a real facility."
+coverAlt: "AI-generated editorial illustration: a copper-veined mineral polyhedron and wind-turbine rotor model on a stone slab beside a blank binder and magnifying glass represent fiscal review and clean-electricity investment, not a real facility."
 tags: ["Fiscal policy", "Power grid", "Capital spending"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: miniature paper models of a hydroelectric dam, wind turbines, a geometric mineral crystal and stacked sheets represent fiscal consolidation alongside clean-electricity and critical-mineral investment, not a real facility.](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
+![AI-generated editorial illustration: a copper-veined mineral polyhedron and wind-turbine rotor model on a stone slab beside a blank binder and magnifying glass represent fiscal review and clean-electricity investment, not a real facility.](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
 
-AI-generated editorial illustration: miniature paper models of a hydroelectric dam, wind turbines, a geometric mineral crystal and stacked sheets represent fiscal consolidation alongside clean-electricity and critical-mineral investment, not a real facility.
+AI-generated editorial illustration: a copper-veined mineral polyhedron and wind-turbine rotor model on a stone slab beside a blank binder and magnifying glass represent fiscal review and clean-electricity investment, not a real facility.
 
 ## Clean electricity tax credits are extended through 2040 as total federal electrification commitments top $115 billion
 

@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Private-sector hiring added 159,000 jobs led by professional services and health care, while involuntary part-time employment rose by 339,000 to 4.84 million."
 cover: "/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp"
-coverAlt: "AI-generated editorial illustration: paper-craft models of an office building, a medical kit, shipping parcels and a balance scale represent service-sector job gains and part-time employment dynamics, not a real scene."
+coverAlt: "AI-generated editorial illustration: a personnel folder on a stone slab, a medical case, a parcel box, a magnifying glass and brass weights represent service-sector job gains and part-time employment dynamics, not a real scene."
 tags: ["US economy", "Labour market", "Economic data"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: paper-craft models of an office building, a medical kit, shipping parcels and a balance scale represent service-sector job gains and part-time employment dynamics, not a real scene.](/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp)
+![AI-generated editorial illustration: a personnel folder on a stone slab, a medical case, a parcel box, a magnifying glass and brass weights represent service-sector job gains and part-time employment dynamics, not a real scene.](/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp)
 
-AI-generated editorial illustration: paper-craft models of an office building, a medical kit, shipping parcels and a balance scale represent service-sector job gains and part-time employment dynamics, not a real scene.
+AI-generated editorial illustration: a personnel folder on a stone slab, a medical case, a parcel box, a magnifying glass and brass weights represent service-sector job gains and part-time employment dynamics, not a real scene.
 
 ## Professional services, health care and warehousing drive October hiring alongside an 84,000 net upward revision to August and September
 

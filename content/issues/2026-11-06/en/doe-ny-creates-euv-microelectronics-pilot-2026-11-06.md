@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "Brookhaven and Lawrence Berkeley national laboratories are pairing synchrotron X-ray beamlines with Albany’s High-NA EUV center for pre-competitive semiconductor R&D."
 cover: "/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp"
-coverAlt: "AI-generated editorial illustration: paper-craft optical prisms focusing a light path onto a layered microchip model represent extreme-ultraviolet lithography research and microelectronics prototyping, not actual equipment."
+coverAlt: "AI-generated editorial illustration: optical glass prisms, an unbranded microchip on a stone block, a blank research folder and brass tweezers represent EUV lithography research and microelectronics prototyping, not actual equipment."
 tags: ["Artificial intelligence", "Industrial innovation", "Technology policy"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: paper-craft optical prisms focusing a light path onto a layered microchip model represent extreme-ultraviolet lithography research and microelectronics prototyping, not actual equipment.](/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp)
+![AI-generated editorial illustration: optical glass prisms, an unbranded microchip on a stone block, a blank research folder and brass tweezers represent EUV lithography research and microelectronics prototyping, not actual equipment.](/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp)
 
-AI-generated editorial illustration: paper-craft optical prisms focusing a light path onto a layered microchip model represent extreme-ultraviolet lithography research and microelectronics prototyping, not actual equipment.
+AI-generated editorial illustration: optical glass prisms, an unbranded microchip on a stone block, a blank research folder and brass tweezers represent EUV lithography research and microelectronics prototyping, not actual equipment.
 
 ## Synchrotron X-ray user facilities connect with Albany’s High-NA EUV Lithography Center
 

@@ -89,7 +89,7 @@ test('November7 preserves existing 685 editions, withdrawal protection and publi
  const old=inventory.filter(a=>a.issue<issue);
  assert.equal(old.length,685);
  const fingerprint=old.map(a=>`${a.file}\0${hash(readFileSync(a.file))}\n`).join('');
- assert.equal(hash(fingerprint),'b5edc16b90fd02c4b93848d6e2ca6c6194b55caae0bbfa6fd68674da9b2966f9');
+ assert.equal(hash(fingerprint),'63789cdb116b95371279d17b9fb1a8a59f723d85e9a5a3408693f1e86682d050');
  const batch=log.batches.filter(b=>b.issue===issue);assert.equal(batch.length,1);
  assert.equal(batch[0].publicationDate,issue);assert.deepEqual(batch[0].articles.map(a=>a.translationKey).sort(),[...keys].sort());
  for(const a of log.batches.flatMap(b=>b.articles).filter(a=>a.status==='withdrawn')){

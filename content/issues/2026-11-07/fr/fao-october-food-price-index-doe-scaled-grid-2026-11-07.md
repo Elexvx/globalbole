@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Le repli des céréales, des produits laitiers et de la viande a fait baisser l’indice global de la FAO malgré un bond de 6,6 % du sucre ; aux États-Unis, le département de l’Énergie a finalisé les livraisons de la réserve NEHHOR."
 cover: "/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des épis de blé en papier associés à un modèle de transformateur haute tension et d’isolateurs symbolisent les marchés agricoles mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel."
+coverAlt: "Illustration conceptuelle générée par l’IA : un modèle de transformateur électrique sur un bloc de pierre, une bobine de cuivre et des épis de blé symbolisent les marchés alimentaires mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel."
 tags: ["Sécurité alimentaire", "Réseau électrique", "Approvisionnement énergétique"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des épis de blé en papier associés à un modèle de transformateur haute tension et d’isolateurs symbolisent les marchés agricoles mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel.](/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp)
+![Illustration conceptuelle générée par l’IA : un modèle de transformateur électrique sur un bloc de pierre, une bobine de cuivre et des épis de blé symbolisent les marchés alimentaires mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel.](/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des épis de blé en papier associés à un modèle de transformateur haute tension et d’isolateurs symbolisent les marchés agricoles mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel.
+Illustration conceptuelle générée par l’IA : un modèle de transformateur électrique sur un bloc de pierre, une bobine de cuivre et des épis de blé symbolisent les marchés alimentaires mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel.
 
 ## L’indice FAO recule de 1,2 % sur un mois mais reste supérieur de 5,9 % à son niveau d’octobre 2025 alors que la récolte mondiale de riz devrait baisser de 2,5 %
 

@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Les 93 projets proposés couvrent les réseaux électriques, le diagnostic des batteries et la synergie calcul-électricité, tandis que le ministère du Commerce prolonge de cinq ans les droits compensateurs de 34,2 % à 37,7 % sur le n-propanol américain."
 cover: "/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un pylône électrique, d’un réseau géométrique et d’un ballon de chimie symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants chimiques, sans représenter un site réel."
+coverAlt: "Illustration conceptuelle générée par l’IA : une puce et un isolateur en céramique sur un bloc de pierre à côté d’un ballon en verre et d’un câble symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants, sans représenter un site réel."
 tags: ["Intelligence artificielle", "Stockage d’énergie", "Commerce international"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des modèles en papier d’un pylône électrique, d’un réseau géométrique et d’un ballon de chimie symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants chimiques, sans représenter un site réel.](/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp)
+![Illustration conceptuelle générée par l’IA : une puce et un isolateur en céramique sur un bloc de pierre à côté d’un ballon en verre et d’un câble symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants, sans représenter un site réel.](/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des modèles en papier d’un pylône électrique, d’un réseau géométrique et d’un ballon de chimie symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants chimiques, sans représenter un site réel.
+Illustration conceptuelle générée par l’IA : une puce et un isolateur en céramique sur un bloc de pierre à côté d’un ballon en verre et d’un câble symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants, sans représenter un site réel.
 
 ## 93 projets pilotes « IA + énergie » sont soumis à consultation publique pendant sept jours dans huit secteurs énergétiques
 

@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Conçu avec Ligo Biosciences à partir de données brutes de paillasse, BioBasicsBench crédite GPT-6 Astra de 66,7 % malgré des erreurs d’interprétation de gels PCR ; OpenAI élargit en parallèle l’accès Daybreak Red de Hacktron."
 cover: "/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : une sculpture en double hélice, une boîte de Petri et un anneau de protection géométrique symbolisent l’évaluation des tâches de laboratoire et la sécurité des frontières des systèmes d’IA, sans représenter un laboratoire réel."
+coverAlt: "Illustration conceptuelle générée par l’IA : une puce et une boîte de Petri dans des cubes de verre imbriqués, un câble débranché et une loupe symbolisent l’évaluation de l’IA en laboratoire et la sécurité des frontières système, sans représenter un laboratoire réel."
 tags: ["Intelligence artificielle", "Sécurité de l’IA", "Logiciels d’entreprise"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : une sculpture en double hélice, une boîte de Petri et un anneau de protection géométrique symbolisent l’évaluation des tâches de laboratoire et la sécurité des frontières des systèmes d’IA, sans représenter un laboratoire réel.](/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp)
+![Illustration conceptuelle générée par l’IA : une puce et une boîte de Petri dans des cubes de verre imbriqués, un câble débranché et une loupe symbolisent l’évaluation de l’IA en laboratoire et la sécurité des frontières système, sans représenter un laboratoire réel.](/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : une sculpture en double hélice, une boîte de Petri et un anneau de protection géométrique symbolisent l’évaluation des tâches de laboratoire et la sécurité des frontières des systèmes d’IA, sans représenter un laboratoire réel.
+Illustration conceptuelle générée par l’IA : une puce et une boîte de Petri dans des cubes de verre imbriqués, un câble débranché et une loupe symbolisent l’évaluation de l’IA en laboratoire et la sécurité des frontières système, sans représenter un laboratoire réel.
 
 ## BioBasicsBench évalue les modèles sur 100 tâches de laboratoire humide : GPT-6 Astra atteint 66,7 % mais se trompe sur des gels PCR
 

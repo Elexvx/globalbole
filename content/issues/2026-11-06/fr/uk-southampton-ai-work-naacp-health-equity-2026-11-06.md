@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Dans le sud de l’Angleterre, 3 emplois sur 10 sont exposés aux transformations liées à l’IA, tandis qu’aux États-Unis la fracture numérique et les déserts médicaux freinent l’équité sanitaire."
 cover: "/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un bureau, d’un stéthoscope et d’une arche multicouche symbolisent la recherche sur l’IA au travail et l’accès aux soins de santé communautaires, sans représenter une scène réelle."
+coverAlt: "Illustration conceptuelle générée par l’IA : un stéthoscope, une puce sur un bloc de pierre, un dossier vierge et une loupe symbolisent la recherche sur l’IA au travail et l’accès équitable aux soins, sans représenter une scène clinique réelle."
 tags: ["Marché du travail", "Emploi", "Politiques publiques"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des modèles en papier d’un bureau, d’un stéthoscope et d’une arche multicouche symbolisent la recherche sur l’IA au travail et l’accès aux soins de santé communautaires, sans représenter une scène réelle.](/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp)
+![Illustration conceptuelle générée par l’IA : un stéthoscope, une puce sur un bloc de pierre, un dossier vierge et une loupe symbolisent la recherche sur l’IA au travail et l’accès équitable aux soins, sans représenter une scène clinique réelle.](/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des modèles en papier d’un bureau, d’un stéthoscope et d’une arche multicouche symbolisent la recherche sur l’IA au travail et l’accès aux soins de santé communautaires, sans représenter une scène réelle.
+Illustration conceptuelle générée par l’IA : un stéthoscope, une puce sur un bloc de pierre, un dossier vierge et une loupe symbolisent la recherche sur l’IA au travail et l’accès équitable aux soins, sans représenter une scène clinique réelle.
 
 ## Environ 30 % des emplois du Hampshire et du Solent verront leurs tâches évoluer, dont 55 000 postes fortement exposés
 

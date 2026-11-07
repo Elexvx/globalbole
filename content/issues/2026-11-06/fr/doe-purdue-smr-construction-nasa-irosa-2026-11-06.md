@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Le National Reactor Innovation Center et Purdue vont bâtir des maquettes d’enceintes en acier-béton, pendant qu’une sortie extravéhiculaire porte la puissance électrique de l’ISS à environ 215 kilowatts."
 cover: "/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : une sculpture modulaire de cuve de réacteur associée à un modèle en papier de panneau solaire spatial déroulant symbolise la construction nucléaire modulaire et l’énergie orbitale, sans représenter d’équipement réel."
+coverAlt: "Illustration conceptuelle générée par l’IA : des modules cylindriques assemblés sur une dalle de pierre, un panneau solaire déroulant et un dossier d’ingénierie symbolisent la construction nucléaire modulaire et l’énergie solaire orbitale, sans représenter d’équipement réel."
 tags: ["Infrastructures", "Sécurité énergétique", "Énergies renouvelables"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : une sculpture modulaire de cuve de réacteur associée à un modèle en papier de panneau solaire spatial déroulant symbolise la construction nucléaire modulaire et l’énergie orbitale, sans représenter d’équipement réel.](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
+![Illustration conceptuelle générée par l’IA : des modules cylindriques assemblés sur une dalle de pierre, un panneau solaire déroulant et un dossier d’ingénierie symbolisent la construction nucléaire modulaire et l’énergie solaire orbitale, sans représenter d’équipement réel.](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : une sculpture modulaire de cuve de réacteur associée à un modèle en papier de panneau solaire spatial déroulant symbolise la construction nucléaire modulaire et l’énergie orbitale, sans représenter d’équipement réel.
+Illustration conceptuelle générée par l’IA : des modules cylindriques assemblés sur une dalle de pierre, un panneau solaire déroulant et un dossier d’ingénierie symbolisent la construction nucléaire modulaire et l’énergie solaire orbitale, sans représenter d’équipement réel.
 
 ## Les structures composites acier-béton et les jumeaux numériques visent à réduire les risques de génie civil des SMR
 

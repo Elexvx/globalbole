@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Lower cereal, dairy, and meat quotes pulled the headline FAO index down in October despite a 6.6% jump in sugar and higher rice prices, while the US Department of Energy completed NEHHOR fuel deliveries."
 cover: "/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp"
-coverAlt: "AI-generated editorial illustration: paper sculptures of wheat stalks alongside a high-voltage transformer and ceramic bushings represent global agricultural supply and electrical-grid equipment manufacturing, not an actual site."
+coverAlt: "AI-generated editorial illustration: a finned electrical transformer model on a stone block, a copper winding spool and wheat stalks in a burlap sack represent global food markets and grid equipment supply chains, not an actual site."
 tags: ["Food security", "Power grid", "Energy supply"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: paper sculptures of wheat stalks alongside a high-voltage transformer and ceramic bushings represent global agricultural supply and electrical-grid equipment manufacturing, not an actual site.](/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp)
+![AI-generated editorial illustration: a finned electrical transformer model on a stone block, a copper winding spool and wheat stalks in a burlap sack represent global food markets and grid equipment supply chains, not an actual site.](/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp)
 
-AI-generated editorial illustration: paper sculptures of wheat stalks alongside a high-voltage transformer and ceramic bushings represent global agricultural supply and electrical-grid equipment manufacturing, not an actual site.
+AI-generated editorial illustration: a finned electrical transformer model on a stone block, a copper winding spool and wheat stalks in a burlap sack represent global food markets and grid equipment supply chains, not an actual site.
 
 ## The FAO Food Price Index edges down 1.2% in October while remaining 5.9% above a year ago as 2026 rice output is forecast to contract 2.5%
 

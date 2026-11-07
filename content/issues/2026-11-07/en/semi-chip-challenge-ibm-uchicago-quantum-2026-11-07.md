@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Backed by Micron and Galatek across eight regions, the SEMI student competition coincides with IBM’s Nighthawk quantum deployment at UChicago and a WashU selection for Anthropic’s AI for Science program."
 cover: "/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp"
-coverAlt: "AI-generated editorial illustration: a chandelier-style quantum cryostat sculpture suspended above a circular silicon-wafer paper model represents quantum computing hardware and semiconductor talent pipelines, not an actual facility."
+coverAlt: "AI-generated editorial illustration: a brass quantum cryostat structure in a glass cylinder, a silicon wafer disc, a microchip, a blank notebook and a magnifying glass represent quantum hardware and semiconductor talent development, not an actual facility."
 tags: ["Industrial innovation", "Artificial intelligence", "Technology policy"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: a chandelier-style quantum cryostat sculpture suspended above a circular silicon-wafer paper model represents quantum computing hardware and semiconductor talent pipelines, not an actual facility.](/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp)
+![AI-generated editorial illustration: a brass quantum cryostat structure in a glass cylinder, a silicon wafer disc, a microchip, a blank notebook and a magnifying glass represent quantum hardware and semiconductor talent development, not an actual facility.](/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp)
 
-AI-generated editorial illustration: a chandelier-style quantum cryostat sculpture suspended above a circular silicon-wafer paper model represents quantum computing hardware and semiconductor talent pipelines, not an actual facility.
+AI-generated editorial illustration: a brass quantum cryostat structure in a glass cylinder, a silicon wafer disc, a microchip, a blank notebook and a magnifying glass represent quantum hardware and semiconductor talent development, not an actual facility.
 
 ## SEMI’s eight-region semiconductor competition exhibits prize and deadline differences between the press release and official guide
 

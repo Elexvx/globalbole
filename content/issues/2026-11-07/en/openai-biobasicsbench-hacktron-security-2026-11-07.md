@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Built with Ligo Biosciences from raw benchtop data, BioBasicsBench shows GPT-6 Astra reaching 66.7% while still misreading PCR gels; separately, OpenAI expanded Daybreak Red access for Hacktron."
 cover: "/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp"
-coverAlt: "AI-generated editorial illustration: a double-helix sculpture, a Petri dish and a geometric shield ring represent wet-lab science evaluation and AI boundary security, not a real laboratory scene."
+coverAlt: "AI-generated editorial illustration: a microchip and Petri dish inside nested glass protective enclosures, a disconnected network cable and a magnifying glass represent wet-lab AI evaluation and boundary security, not a real laboratory."
 tags: ["Artificial intelligence", "AI safety", "Enterprise software"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: a double-helix sculpture, a Petri dish and a geometric shield ring represent wet-lab science evaluation and AI boundary security, not a real laboratory scene.](/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp)
+![AI-generated editorial illustration: a microchip and Petri dish inside nested glass protective enclosures, a disconnected network cable and a magnifying glass represent wet-lab AI evaluation and boundary security, not a real laboratory.](/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp)
 
-AI-generated editorial illustration: a double-helix sculpture, a Petri dish and a geometric shield ring represent wet-lab science evaluation and AI boundary security, not a real laboratory scene.
+AI-generated editorial illustration: a microchip and Petri dish inside nested glass protective enclosures, a disconnected network cable and a magnifying glass represent wet-lab AI evaluation and boundary security, not a real laboratory.
 
 ## BioBasicsBench tests AI models on 100 messy wet-lab tasks as GPT-6 Astra scores 66.7% but misinterprets colony PCR gels
 

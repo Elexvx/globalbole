@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Statistics Canada reported overall employment was virtually unchanged (-4,700) at 21.10 million as private-sector payrolls fell by 53,000 and 29.7% of Canadians reported difficulty meeting financial needs."
 cover: "/news-media/2026-11-07/canada-october-labour-editorial.webp"
-coverAlt: "AI-generated editorial illustration: miniature paper models of a house, a briefcase, an arched bridge and a key represent labor-market slack and household financial pressure, not an actual scene."
+coverAlt: "AI-generated editorial illustration: a clay house model on a stone slab, a briefcase, a blank kraft folder and a bronze key represent labor-market slack and household financial pressure, not an actual scene."
 tags: ["Employment", "Labour market", "Macroeconomic data"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: miniature paper models of a house, a briefcase, an arched bridge and a key represent labor-market slack and household financial pressure, not an actual scene.](/news-media/2026-11-07/canada-october-labour-editorial.webp)
+![AI-generated editorial illustration: a clay house model on a stone slab, a briefcase, a blank kraft folder and a bronze key represent labor-market slack and household financial pressure, not an actual scene.](/news-media/2026-11-07/canada-october-labour-editorial.webp)
 
-AI-generated editorial illustration: miniature paper models of a house, a briefcase, an arched bridge and a key represent labor-market slack and household financial pressure, not an actual scene.
+AI-generated editorial illustration: a clay house model on a stone slab, a briefcase, a blank kraft folder and a bronze key represent labor-market slack and household financial pressure, not an actual scene.
 
 ## More job seekers push the unemployment rate to 6.7% as private-sector employment drops by 53,000
 

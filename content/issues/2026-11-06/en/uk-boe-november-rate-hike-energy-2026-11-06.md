@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "The Monetary Policy Committee voted 8–1 to lift Bank Rate by 25 basis points to 4.0%, while splitting over whether the move is a one-off insurance hike or the start of further tightening."
 cover: "/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp"
-coverAlt: "AI-generated editorial illustration: paper-craft models of a classical bank portico, a balance scale and a heating radiator represent monetary-policy tightening and energy-driven inflation pressures, not an actual scene."
+coverAlt: "AI-generated editorial illustration: a heating radiator block and classical column capital on a stone slab, a blank policy folder and brass weights represent monetary-policy tightening and energy inflation pressures, not an actual scene."
 tags: ["Inflation", "Energy prices", "Macroeconomic data"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: paper-craft models of a classical bank portico, a balance scale and a heating radiator represent monetary-policy tightening and energy-driven inflation pressures, not an actual scene.](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
+![AI-generated editorial illustration: a heating radiator block and classical column capital on a stone slab, a blank policy folder and brass weights represent monetary-policy tightening and energy inflation pressures, not an actual scene.](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
 
-AI-generated editorial illustration: paper-craft models of a classical bank portico, a balance scale and a heating radiator represent monetary-policy tightening and energy-driven inflation pressures, not an actual scene.
+AI-generated editorial illustration: a heating radiator block and classical column capital on a stone slab, a blank policy folder and brass weights represent monetary-policy tightening and energy inflation pressures, not an actual scene.
 
 ## An 8–1 vote lifts Bank Rate to 4.0% as wholesale oil and gas curves push up near-term CPI projections
 

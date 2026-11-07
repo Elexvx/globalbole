@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Le secteur privé américain a créé 159 000 postes en octobre et le taux de chômage s’établit à 4,1 %, tandis que le temps partiel subi progresse de 339 000 à 4,84 millions."
 cover: "/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un immeuble de bureaux, d’une trousse médicale, de colis et d’une balance symbolisent la croissance de l’emploi dans les services et l’équilibre du temps partiel, sans représenter une scène réelle."
+coverAlt: "Illustration conceptuelle générée par l’IA : un dossier sur une dalle de pierre, une trousse médicale, un colis, une loupe et des poids en laiton symbolisent la croissance de l’emploi dans les services et le travail à temps partiel, sans représenter une scène réelle."
 tags: ["Économie américaine", "Marché du travail", "Données économiques"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des modèles en papier d’un immeuble de bureaux, d’une trousse médicale, de colis et d’une balance symbolisent la croissance de l’emploi dans les services et l’équilibre du temps partiel, sans représenter une scène réelle.](/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp)
+![Illustration conceptuelle générée par l’IA : un dossier sur une dalle de pierre, une trousse médicale, un colis, une loupe et des poids en laiton symbolisent la croissance de l’emploi dans les services et le travail à temps partiel, sans représenter une scène réelle.](/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des modèles en papier d’un immeuble de bureaux, d’une trousse médicale, de colis et d’une balance symbolisent la croissance de l’emploi dans les services et l’équilibre du temps partiel, sans représenter une scène réelle.
+Illustration conceptuelle générée par l’IA : un dossier sur une dalle de pierre, une trousse médicale, un colis, une loupe et des poids en laiton symbolisent la croissance de l’emploi dans les services et le travail à temps partiel, sans représenter une scène réelle.
 
 ## Les services professionnels, la santé et la logistique tirent l’embauche, accompagnés d’un relèvement cumulé de 84 000 postes sur août et septembre
 

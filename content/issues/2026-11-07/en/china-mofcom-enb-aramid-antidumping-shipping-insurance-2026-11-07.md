@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "MOFCOM Announcements No. 56 and No. 57 opened 12-month investigations into imported ethylidene norbornene and para-aramid filament, while seven central agencies unveiled 17 measures to strengthen marine insurance."
 cover: "/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp"
-coverAlt: "AI-generated editorial illustration: paper-craft models of a container vessel, a specialty fiber spool and a lifebuoy over layered paper waves represent chemical trade remedies and maritime insurance risk sharing, not a real port scene."
+coverAlt: "AI-generated editorial illustration: a miniature cargo container on a stone slab, specialty fiber spools, a glass reagent bottle, a lifebuoy and a blank folder represent chemical trade remedies and shipping insurance, not a real port scene."
 tags: ["International trade", "Supply chains", "Public policy"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: paper-craft models of a container vessel, a specialty fiber spool and a lifebuoy over layered paper waves represent chemical trade remedies and maritime insurance risk sharing, not a real port scene.](/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp)
+![AI-generated editorial illustration: a miniature cargo container on a stone slab, specialty fiber spools, a glass reagent bottle, a lifebuoy and a blank folder represent chemical trade remedies and shipping insurance, not a real port scene.](/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp)
 
-AI-generated editorial illustration: paper-craft models of a container vessel, a specialty fiber spool and a lifebuoy over layered paper waves represent chemical trade remedies and maritime insurance risk sharing, not a real port scene.
+AI-generated editorial illustration: a miniature cargo container on a stone slab, specialty fiber spools, a glass reagent bottle, a lifebuoy and a blank folder represent chemical trade remedies and shipping insurance, not a real port scene.
 
 ## Announcements No. 56 and No. 57 target EPDM rubber monomers and para-aramid filament amid 16 EU trade probes in 2026
 

@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Finances Canada prolonge les crédits d’impôt pour les technologies et l’électricité propres jusqu’en 2040, tandis que Statistique Canada relève une hausse de 14,1 % des investissements informatiques en 2025."
 cover: "/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un barrage hydroélectrique, d’éoliennes, d’un cristal minéral géométrique et de feuillets empilés symbolisent la consolidation budgétaire et l’investissement dans l’électricité propre et les minéraux critiques, sans représenter un site réel."
+coverAlt: "Illustration conceptuelle générée par l’IA : un polyèdre minéral et un rotor d’éolienne sur une dalle de pierre à côté d’un classeur vierge et d’une loupe symbolisent la révision budgétaire et l’investissement dans l’électricité propre, sans représenter un site réel."
 tags: ["Politique budgétaire", "Réseau électrique", "Dépenses d’investissement"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des modèles en papier d’un barrage hydroélectrique, d’éoliennes, d’un cristal minéral géométrique et de feuillets empilés symbolisent la consolidation budgétaire et l’investissement dans l’électricité propre et les minéraux critiques, sans représenter un site réel.](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
+![Illustration conceptuelle générée par l’IA : un polyèdre minéral et un rotor d’éolienne sur une dalle de pierre à côté d’un classeur vierge et d’une loupe symbolisent la révision budgétaire et l’investissement dans l’électricité propre, sans représenter un site réel.](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des modèles en papier d’un barrage hydroélectrique, d’éoliennes, d’un cristal minéral géométrique et de feuillets empilés symbolisent la consolidation budgétaire et l’investissement dans l’électricité propre et les minéraux critiques, sans représenter un site réel.
+Illustration conceptuelle générée par l’IA : un polyèdre minéral et un rotor d’éolienne sur une dalle de pierre à côté d’un classeur vierge et d’une loupe symbolisent la révision budgétaire et l’investissement dans l’électricité propre, sans représenter un site réel.
 
 ## Les crédits d’impôt pour l’électricité propre sont prolongés jusqu’en 2040 dans un plan d’électrification dépassant 115 milliards de dollars
 

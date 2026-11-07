@@ -10,15 +10,15 @@ authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "A Southampton study finds 3 in 10 regional jobs face AI task shifts—with 55,000 high-exposure workers disproportionately female and part-time—while an NAACP report warns broadband and hospital gaps risk widening health disparities."
 cover: "/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp"
-coverAlt: "AI-generated editorial illustration: miniature paper models of an office desk, a stethoscope and a layered archway represent workplace AI transition research and community healthcare access, not a real scene."
+coverAlt: "AI-generated editorial illustration: a stethoscope, an unbranded microchip on a stone block, a blank case folder and a magnifying glass represent workplace AI research and community healthcare equity, not an actual clinical scene."
 tags: ["Labour market", "Employment", "Public policy"]
 readTime: 5
 draft: false
 ---
 
-![AI-generated editorial illustration: miniature paper models of an office desk, a stethoscope and a layered archway represent workplace AI transition research and community healthcare access, not a real scene.](/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp)
+![AI-generated editorial illustration: a stethoscope, an unbranded microchip on a stone block, a blank case folder and a magnifying glass represent workplace AI research and community healthcare equity, not an actual clinical scene.](/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp)
 
-AI-generated editorial illustration: miniature paper models of an office desk, a stethoscope and a layered archway represent workplace AI transition research and community healthcare access, not a real scene.
+AI-generated editorial illustration: a stethoscope, an unbranded microchip on a stone block, a blank case folder and a magnifying glass represent workplace AI research and community healthcare equity, not an actual clinical scene.
 
 ## Around 30% of jobs in Hampshire and the Solent face AI task changes, led by 55,000 high-exposure workers
 

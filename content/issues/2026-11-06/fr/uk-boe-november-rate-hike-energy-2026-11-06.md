@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Le Comité de politique monétaire a voté par 8 voix contre 1 une hausse de 25 points de base à 4,0 %, tout en se divisant sur la nécessité de nouveaux resserrements à court terme."
 cover: "/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un portique bancaire classique, d’une balance et d’un radiateur symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle."
+coverAlt: "Illustration conceptuelle générée par l’IA : un bloc de radiateur et un chapiteau de colonne sur une dalle de pierre, un dossier vierge et des poids en laiton symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle."
 tags: ["Inflation", "Prix de l’énergie", "Données macroéconomiques"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des modèles en papier d’un portique bancaire classique, d’une balance et d’un radiateur symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle.](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
+![Illustration conceptuelle générée par l’IA : un bloc de radiateur et un chapiteau de colonne sur une dalle de pierre, un dossier vierge et des poids en laiton symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle.](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des modèles en papier d’un portique bancaire classique, d’une balance et d’un radiateur symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle.
+Illustration conceptuelle générée par l’IA : un bloc de radiateur et un chapiteau de colonne sur une dalle de pierre, un dossier vierge et des poids en laiton symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle.
 
 ## Un vote à 8 contre 1 porte le taux directeur à 4,0 % alors que le pétrole et le gaz relèvent la trajectoire d’inflation 2027
 

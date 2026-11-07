@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Statistique Canada indique que l’emploi total est demeuré quasi inchangé (-4 700 à 21,10 millions) alors que le secteur privé a perdu 53 000 postes et que 29,7 % des ménages éprouvent des difficultés financières."
 cover: "/news-media/2026-11-07/canada-october-labour-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’une maison, d’une mallette, d’un pont arqué et d’une clé symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle."
+coverAlt: "Illustration conceptuelle générée par l’IA : une maison en argile sur une dalle de pierre, une mallette, un dossier en papier kraft et une clé en bronze symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle."
 tags: ["Emploi", "Marché du travail", "Données macroéconomiques"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des modèles en papier d’une maison, d’une mallette, d’un pont arqué et d’une clé symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle.](/news-media/2026-11-07/canada-october-labour-editorial.webp)
+![Illustration conceptuelle générée par l’IA : une maison en argile sur une dalle de pierre, une mallette, un dossier en papier kraft et une clé en bronze symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle.](/news-media/2026-11-07/canada-october-labour-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des modèles en papier d’une maison, d’une mallette, d’un pont arqué et d’une clé symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle.
+Illustration conceptuelle générée par l’IA : une maison en argile sur une dalle de pierre, une mallette, un dossier en papier kraft et une clé en bronze symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle.
 
 ## L’afflux de chercheurs d’emploi porte le chômage à 6,7 % tandis que l’emploi salarié privé recule de 53 000 postes
 

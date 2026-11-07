@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Soutenu par Micron et Galatek dans huit régions, le concours étudiant de SEMI s’accompagne du déploiement du processeur quantique Nighthawk d’IBM à Chicago et d’une bourse AI for Science d’Anthropic à l’Université Washington."
 cover: "/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : une sculpture de cryostat quantique suspendue au-dessus d’un modèle en papier de plaquette de silicium symbolise le calcul quantique et la formation en microélectronique, sans représenter une installation réelle."
+coverAlt: "Illustration conceptuelle générée par l’IA : une structure de cryostat quantique sous verre, une plaquette de silicium, une puce, un carnet vierge et une loupe symbolisent le matériel quantique et la formation en semi-conducteurs, sans représenter une installation réelle."
 tags: ["Innovation industrielle", "Intelligence artificielle", "Politique technologique"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : une sculpture de cryostat quantique suspendue au-dessus d’un modèle en papier de plaquette de silicium symbolise le calcul quantique et la formation en microélectronique, sans représenter une installation réelle.](/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp)
+![Illustration conceptuelle générée par l’IA : une structure de cryostat quantique sous verre, une plaquette de silicium, une puce, un carnet vierge et une loupe symbolisent le matériel quantique et la formation en semi-conducteurs, sans représenter une installation réelle.](/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : une sculpture de cryostat quantique suspendue au-dessus d’un modèle en papier de plaquette de silicium symbolise le calcul quantique et la formation en microélectronique, sans représenter une installation réelle.
+Illustration conceptuelle générée par l’IA : une structure de cryostat quantique sous verre, une plaquette de silicium, une puce, un carnet vierge et une loupe symbolisent le matériel quantique et la formation en semi-conducteurs, sans représenter une installation réelle.
 
 ## Le concours universitaire de semi-conducteurs de SEMI couvre huit régions mais présente des écarts entre le communiqué et le règlement officiel
 

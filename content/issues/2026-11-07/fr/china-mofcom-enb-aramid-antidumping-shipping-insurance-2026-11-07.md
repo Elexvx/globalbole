@@ -10,15 +10,15 @@ authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Les avis n° 56 et n° 57 du ministère du Commerce visent l’éthylidène-norbornène et le filament para-aramide importés, tandis que sept ministères publient 17 mesures pour renforcer l’assurance maritime."
 cover: "/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp"
-coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un porte-conteneurs, d’une bobine de fibre spéciale et d’une bouée sur des vagues de papier symbolisent les mesures commerciales dans la chimie et l’assurance maritime, sans représenter un port réel."
+coverAlt: "Illustration conceptuelle générée par l’IA : un conteneur miniature sur une dalle de pierre, des bobines de fibre spéciale, un flacon en verre, une bouée et un dossier symbolisent les mesures commerciales dans la chimie et l’assurance maritime, sans représenter un port réel."
 tags: ["Commerce international", "Chaînes d’approvisionnement", "Politiques publiques"]
 readTime: 5
 draft: false
 ---
 
-![Illustration conceptuelle générée par l’IA : des modèles en papier d’un porte-conteneurs, d’une bobine de fibre spéciale et d’une bouée sur des vagues de papier symbolisent les mesures commerciales dans la chimie et l’assurance maritime, sans représenter un port réel.](/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp)
+![Illustration conceptuelle générée par l’IA : un conteneur miniature sur une dalle de pierre, des bobines de fibre spéciale, un flacon en verre, une bouée et un dossier symbolisent les mesures commerciales dans la chimie et l’assurance maritime, sans représenter un port réel.](/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp)
 
-Illustration conceptuelle générée par l’IA : des modèles en papier d’un porte-conteneurs, d’une bobine de fibre spéciale et d’une bouée sur des vagues de papier symbolisent les mesures commerciales dans la chimie et l’assurance maritime, sans représenter un port réel.
+Illustration conceptuelle générée par l’IA : un conteneur miniature sur une dalle de pierre, des bobines de fibre spéciale, un flacon en verre, une bouée et un dossier symbolisent les mesures commerciales dans la chimie et l’assurance maritime, sans représenter un port réel.
 
 ## Les avis n° 56 et n° 57 ciblent un monomère du caoutchouc EPDM et le filament para-aramide face aux 16 enquêtes européennes de 2026
 
