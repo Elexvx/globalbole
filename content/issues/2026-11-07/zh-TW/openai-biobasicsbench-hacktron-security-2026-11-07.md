@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-07"
 description: "OpenAI聯合Ligo建構基於真實實驗原始數據的BioBasicsBench，GPT-6 Astra最高得分為66.7%但仍會出現凝膠條帶誤判；同日宣布與曾發現其論壇RCE漏洞的Hacktron展開紅隊合作。"
-cover: "/news-media/2026-11-05/coding.jpg"
-coverAlt: "資料圖：筆記型電腦上的 Rust 程式碼，並非 Pierre 或 Codex 產品截圖"
+cover: "/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp"
+coverAlt: "AI生成概念示意圖：以雙螺旋分子雕塑、培養皿與幾何防護環模型表現生命科學濕實驗評估與系統安全邊界防護，並非真實實驗室或產品介面。"
 tags: ["人工智慧", "AI安全", "企業軟體"]
 readTime: 5
 draft: false
 ---
 
-![資料圖：筆記型電腦上的 Rust 程式碼，並非 Pierre 或 Codex 產品截圖](/news-media/2026-11-05/coding.jpg)
+![AI生成概念示意圖：以雙螺旋分子雕塑、培養皿與幾何防護環模型表現生命科學濕實驗評估與系統安全邊界防護，並非真實實驗室或產品介面。](/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp)
 
-筆記型電腦上的 Rust 程式碼，2026年2月11日。軟體開發資料圖，並非Pierre或Codex產品截圖。 攝影：[Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
+AI生成概念示意圖：以雙螺旋分子雕塑、培養皿與幾何防護環模型表現生命科學濕實驗評估與系統安全邊界防護，並非真實實驗室或產品介面。
 
 ## BioBasicsBench以100項真實濕實驗原始數據測試模型，GPT-6 Astra平均得分66.7%但仍會誤讀凝膠與菌落
 

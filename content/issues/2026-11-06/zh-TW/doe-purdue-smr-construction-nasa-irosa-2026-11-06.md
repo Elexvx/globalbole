@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-06"
 description: "國家反應爐創新中心與普渡大學將建造縮尺鋼板複合安全殼與數位孿生樣機；同日美加太空人完成第8套捲展太陽翼安裝，將太空站供電能力提升至約215千瓦。"
-cover: "/news-media/2026-10-29/maryland-parkton-solar.jpg"
-coverAlt: "馬里蘭州 Parkton 地面型太陽光電陣列資料照片。"
+cover: "/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp"
+coverAlt: "AI生成概念示意圖：以幾何模組化反應爐容器雕塑與卷軸式航太太陽翼紙藝模型表現模組化小堆建造研究與軌道能源升級，並非真實核設施或航太器照片。"
 tags: ["基礎設施", "能源安全", "新能源"]
 readTime: 5
 draft: false
 ---
 
-![馬里蘭州 Parkton 地面型太陽光電陣列資料照片。](/news-media/2026-10-29/maryland-parkton-solar.jpg)
+![AI生成概念示意圖：以幾何模組化反應爐容器雕塑與卷軸式航太太陽翼紙藝模型表現模組化小堆建造研究與軌道能源升級，並非真實核設施或航太器照片。](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
 
-資料照片：2025 年 10 月 9 日，美國馬里蘭州 Parkton 已關閉的掩埋場內的[太陽能陣列](https://www.flickr.com/photos/baltimorecounty/54844058516)。攝影／供圖：Baltimore County Government；[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)。
+AI生成概念示意圖：以幾何模組化反應爐容器雕塑與卷軸式航太太陽翼紙藝模型表現模組化小堆建造研究與軌道能源升級，並非真實核設施或航太器照片。
 
 ## 鋼板複合模組化結構與即時數位孿生旨在降低小型模組化反應爐土建風險
 

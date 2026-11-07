@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Le repli des céréales, des produits laitiers et de la viande a fait baisser l’indice global de la FAO malgré un bond de 6,6 % du sucre ; aux États-Unis, le département de l’Énergie a finalisé les livraisons de la réserve NEHHOR."
-cover: "/news-media/2026-10-30/las-vegas-supermarket.jpg"
-coverAlt: "Photographie d’archives de l’intérieur d’un supermarché de Las Vegas."
+cover: "/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : des épis de blé en papier associés à un modèle de transformateur haute tension et d’isolateurs symbolisent les marchés agricoles mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel."
 tags: ["Sécurité alimentaire", "Réseau électrique", "Approvisionnement énergétique"]
 readTime: 5
 draft: false
 ---
 
-![Photographie d’archives de l’intérieur d’un supermarché de Las Vegas.](/news-media/2026-10-30/las-vegas-supermarket.jpg)
+![Illustration conceptuelle générée par l’IA : des épis de blé en papier associés à un modèle de transformateur haute tension et d’isolateurs symbolisent les marchés agricoles mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel.](/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp)
 
-Archives : 4 mai 2023, Las Vegas, Nevada, États-Unis. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg). Photographie et droits d’auteur : Harrison Keely ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Illustration conceptuelle générée par l’IA : des épis de blé en papier associés à un modèle de transformateur haute tension et d’isolateurs symbolisent les marchés agricoles mondiaux et la chaîne d’approvisionnement électrique, sans représenter un site réel.
 
 ## L’indice FAO recule de 1,2 % sur un mois mais reste supérieur de 5,9 % à son niveau d’octobre 2025 alors que la récolte mondiale de riz devrait baisser de 2,5 %
 

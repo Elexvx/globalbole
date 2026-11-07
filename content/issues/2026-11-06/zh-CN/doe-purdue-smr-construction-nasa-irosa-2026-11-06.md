@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-06"
 description: "国家反应堆创新中心与普渡大学将建造缩尺钢板复合安全壳与数字孪生样机；同日美加宇航员完成第8套卷展太阳翼安装，将空间站供电能力提升至约215千瓦。"
-cover: "/news-media/2026-10-29/maryland-parkton-solar.jpg"
-coverAlt: "马里兰州 Parkton 地面光伏阵列资料照片。"
+cover: "/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp"
+coverAlt: "AI生成概念示意图：以几何模块化反应堆容器雕塑与卷轴式航天太阳翼纸艺模型表现模块化小堆建造研究与轨道能源升级，并非真实核设施或航天器照片。"
 tags: ["基础设施", "能源安全", "新能源"]
 readTime: 5
 draft: false
 ---
 
-![马里兰州 Parkton 地面光伏阵列资料照片。](/news-media/2026-10-29/maryland-parkton-solar.jpg)
+![AI生成概念示意图：以几何模块化反应堆容器雕塑与卷轴式航天太阳翼纸艺模型表现模块化小堆建造研究与轨道能源升级，并非真实核设施或航天器照片。](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
 
-资料图：2025 年 10 月 9 日，美国马里兰州 Parkton 已关闭填埋场的[太阳能阵列](https://www.flickr.com/photos/baltimorecounty/54844058516)。摄影／供图：Baltimore County Government；[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)。
+AI生成概念示意图：以几何模块化反应堆容器雕塑与卷轴式航天太阳翼纸艺模型表现模块化小堆建造研究与轨道能源升级，并非真实核设施或航天器照片。
 
 ## 钢板复合模块化结构与实时数字孪生旨在降低小型模块化反应堆土建风险
 

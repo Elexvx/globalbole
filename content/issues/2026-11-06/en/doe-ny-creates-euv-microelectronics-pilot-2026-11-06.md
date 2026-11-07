@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "Brookhaven and Lawrence Berkeley national laboratories are pairing synchrotron X-ray beamlines with Albany’s High-NA EUV center for pre-competitive semiconductor R&D."
-cover: "/news-media/2026-10-30/argonne-battery-xray.jpg"
-coverAlt: "Archival photograph of a battery research experiment at Argonne National Laboratory's Advanced Photon Source."
+cover: "/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp"
+coverAlt: "AI-generated editorial illustration: paper-craft optical prisms focusing a light path onto a layered microchip model represent extreme-ultraviolet lithography research and microelectronics prototyping, not actual equipment."
 tags: ["Artificial intelligence", "Industrial innovation", "Technology policy"]
 readTime: 5
 draft: false
 ---
 
-![Archival photograph of a battery research experiment at Argonne National Laboratory's Advanced Photon Source.](/news-media/2026-10-30/argonne-battery-xray.jpg)
+![AI-generated editorial illustration: paper-craft optical prisms focusing a light path onto a layered microchip model represent extreme-ultraviolet lithography research and microelectronics prototyping, not actual equipment.](/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp)
 
-Archival photograph: August 31, 2010, a battery research experiment at Argonne National Laboratory's Advanced Photon Source. Photograph: Geo Joch / Argonne National Laboratory; [published by the U.S. Department of Energy](https://www.flickr.com/photos/departmentofenergy/9404258684/), with the individual asset page marked as a [U.S. government work](https://www.usa.gov/government-copyright).
+AI-generated editorial illustration: paper-craft optical prisms focusing a light path onto a layered microchip model represent extreme-ultraviolet lithography research and microelectronics prototyping, not actual equipment.
 
 ## Synchrotron X-ray user facilities connect with Albany’s High-NA EUV Lithography Center
 

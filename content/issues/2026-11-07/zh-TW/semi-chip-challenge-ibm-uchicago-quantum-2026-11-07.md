@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-07"
 description: "SEMI聯合美光與Galatek面向全球八大區域高校徵集晶片研究與創新方案；同日IBM在芝加哥大學部署搭載Nighthawk處理器的Quantum System Two，華盛頓大學入選Anthropic科學AI計畫。"
-cover: "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg"
-coverAlt: "資料圖：深色桌面上的兩塊綠色印刷電路板，可見晶片、連接器和線路"
+cover: "/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp"
+coverAlt: "AI生成概念示意圖：以層疊吊燈式量子恆溫器雕塑與圓形晶圓紙藝模型表現量子算力與半導體工程人才生態的協同，並非真實機房或晶片照片。"
 tags: ["產業創新", "人工智慧", "科技政策"]
 readTime: 5
 draft: false
 ---
 
-![資料圖：深色桌面上的兩塊綠色印刷電路板，可見晶片、連接器和線路](/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg)
+![AI生成概念示意圖：以層疊吊燈式量子恆溫器雕塑與圓形晶圓紙藝模型表現量子算力與半導體工程人才生態的協同，並非真實機房或晶片照片。](/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp)
 
-兩塊印刷電路板，攝於2024年8月31日。資料圖。 並非OpenAI原型。 攝影: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+AI生成概念示意圖：以層疊吊燈式量子恆溫器雕塑與圓形晶圓紙藝模型表現量子算力與半導體工程人才生態的協同，並非真實機房或晶片照片。
 
 ## SEMI全球高校半導體挑戰賽涵蓋八大區域，新聞稿與官方競賽指南存在獎金與截稿日差異
 

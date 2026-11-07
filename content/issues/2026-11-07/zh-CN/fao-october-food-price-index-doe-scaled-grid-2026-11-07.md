@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-07"
 description: "谷物、乳制品与肉类回落带动10月FAO食品价格指数环比下降1.2%，但食糖与大米逆势上涨；美国能源部于11月6日完成东北取暖油储备置换交割并征集变压器与储能供应链方案。"
-cover: "/news-media/2026-10-30/las-vegas-supermarket.jpg"
-coverAlt: "拉斯维加斯超市内部的资料照片。"
+cover: "/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp"
+coverAlt: "AI生成概念示意图：以麦穗剪纸雕塑、高压变压器与绝缘套管模型表现全球农产品供需与电网关键设备供应链建设，并非真实农田或变电站照片。"
 tags: ["粮食安全", "电网", "能源供应"]
 readTime: 5
 draft: false
 ---
 
-![拉斯维加斯超市内部的资料照片。](/news-media/2026-10-30/las-vegas-supermarket.jpg)
+![AI生成概念示意图：以麦穗剪纸雕塑、高压变压器与绝缘套管模型表现全球农产品供需与电网关键设备供应链建设，并非真实农田或变电站照片。](/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp)
 
-资料图：2023 年 5 月 4 日，美国内华达州拉斯维加斯。[The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，摄影及版权：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
+AI生成概念示意图：以麦穗剪纸雕塑、高压变压器与绝缘套管模型表现全球农产品供需与电网关键设备供应链建设，并非真实农田或变电站照片。
 
 ## FAO食品价格指数环比回落1.2%但同比仍高5.9%，大米产量预计四年首降2.5%
 

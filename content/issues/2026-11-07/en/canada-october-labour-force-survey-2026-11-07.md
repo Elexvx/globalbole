@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Statistics Canada reported overall employment was virtually unchanged (-4,700) at 21.10 million as private-sector payrolls fell by 53,000 and 29.7% of Canadians reported difficulty meeting financial needs."
-cover: "/news-media/2026-10-30/manhattan-apartments.jpg"
-coverAlt: "Archival photograph of apartment buildings along the East River in Manhattan, New York."
+cover: "/news-media/2026-11-07/canada-october-labour-editorial.webp"
+coverAlt: "AI-generated editorial illustration: miniature paper models of a house, a briefcase, an arched bridge and a key represent labor-market slack and household financial pressure, not an actual scene."
 tags: ["Employment", "Labour market", "Macroeconomic data"]
 readTime: 5
 draft: false
 ---
 
-![Archival photograph of apartment buildings along the East River in Manhattan, New York.](/news-media/2026-10-30/manhattan-apartments.jpg)
+![AI-generated editorial illustration: miniature paper models of a house, a briefcase, an arched bridge and a key represent labor-market slack and household financial pressure, not an actual scene.](/news-media/2026-11-07/canada-october-labour-editorial.webp)
 
-Archival photograph: October 1, 2023, Manhattan, New York, United States. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg). Photograph and copyright: Jakub Hałun; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+AI-generated editorial illustration: miniature paper models of a house, a briefcase, an arched bridge and a key represent labor-market slack and household financial pressure, not an actual scene.
 
 ## More job seekers push the unemployment rate to 6.7% as private-sector employment drops by 53,000
 

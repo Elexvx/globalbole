@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Soutenu par Micron et Galatek dans huit régions, le concours étudiant de SEMI s’accompagne du déploiement du processeur quantique Nighthawk d’IBM à Chicago et d’une bourse AI for Science d’Anthropic à l’Université Washington."
-cover: "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg"
-coverAlt: "Photo d’archives : Deux circuits imprimés verts avec des puces, des connecteurs et des pistes sur une table sombre"
+cover: "/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : une sculpture de cryostat quantique suspendue au-dessus d’un modèle en papier de plaquette de silicium symbolise le calcul quantique et la formation en microélectronique, sans représenter une installation réelle."
 tags: ["Innovation industrielle", "Intelligence artificielle", "Politique technologique"]
 readTime: 5
 draft: false
 ---
 
-![Photo d’archives : Deux circuits imprimés verts avec des puces, des connecteurs et des pistes sur une table sombre](/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg)
+![Illustration conceptuelle générée par l’IA : une sculpture de cryostat quantique suspendue au-dessus d’un modèle en papier de plaquette de silicium symbolise le calcul quantique et la formation en microélectronique, sans représenter une installation réelle.](/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp)
 
-Deux circuits imprimés photographiés le 31 août 2024. Photo d’archives. Il ne s’agit pas de prototypes d’OpenAI. Photo: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+Illustration conceptuelle générée par l’IA : une sculpture de cryostat quantique suspendue au-dessus d’un modèle en papier de plaquette de silicium symbolise le calcul quantique et la formation en microélectronique, sans représenter une installation réelle.
 
 ## Le concours universitaire de semi-conducteurs de SEMI couvre huit régions mais présente des écarts entre le communiqué et le règlement officiel
 

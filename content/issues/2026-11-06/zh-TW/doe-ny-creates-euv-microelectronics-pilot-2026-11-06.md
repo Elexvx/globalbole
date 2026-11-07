@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-06"
 description: "布魯克海文、勞倫斯伯克利國家實驗室聯合奧爾巴尼奈米技術綜合體，圍繞極紫外光刻與奈米X射線計量展開競爭前研發合作。"
-cover: "/news-media/2026-10-30/argonne-battery-xray.jpg"
-coverAlt: "阿岡國家實驗室先進光子源電池研究實驗的資料照片。"
+cover: "/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp"
+coverAlt: "AI生成概念示意圖：以光學反射稜鏡、聚焦光束與多層晶片剖面紙藝模型表現極紫外光刻研發與微電子中試協同，並非真實光刻設備或實驗室照片。"
 tags: ["人工智慧", "產業創新", "科技政策"]
 readTime: 5
 draft: false
 ---
 
-![阿岡國家實驗室先進光子源電池研究實驗的資料照片。](/news-media/2026-10-30/argonne-battery-xray.jpg)
+![AI生成概念示意圖：以光學反射稜鏡、聚焦光束與多層晶片剖面紙藝模型表現極紫外光刻研發與微電子中試協同，並非真實光刻設備或實驗室照片。](/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp)
 
-資料照片：2010 年 8 月 31 日，阿岡國家實驗室先進光子源電池研究實驗。攝影：Geo Joch / Argonne National Laboratory；由[美國能源部發布](https://www.flickr.com/photos/departmentofenergy/9404258684/)，該作品頁標示為[美國政府作品](https://www.usa.gov/government-copyright)。
+AI生成概念示意圖：以光學反射稜鏡、聚焦光束與多層晶片剖面紙藝模型表現極紫外光刻研發與微電子中試協同，並非真實光刻設備或實驗室照片。
 
 ## 同步輻射X射線束線對接奧爾巴尼高數值孔徑EUV光刻中心
 

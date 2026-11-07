@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-07"
 description: "穀物、乳製品與肉類回落帶動10月FAO食品價格指數月減1.2%，但食糖與稻米逆勢上漲；美國能源部於11月6日完成東北取暖油儲備置換交割並徵集變壓器與儲能供應鏈方案。"
-cover: "/news-media/2026-10-30/las-vegas-supermarket.jpg"
-coverAlt: "拉斯維加斯超市內部的資料照片。"
+cover: "/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp"
+coverAlt: "AI生成概念示意圖：以麥穗剪紙雕塑、高壓變壓器與絕緣套管模型表現全球農產品供需與電網關鍵設備供應鏈建設，並非真實農田或變電站照片。"
 tags: ["糧食安全", "電網", "能源供應"]
 readTime: 5
 draft: false
 ---
 
-![拉斯維加斯超市內部的資料照片。](/news-media/2026-10-30/las-vegas-supermarket.jpg)
+![AI生成概念示意圖：以麥穗剪紙雕塑、高壓變壓器與絕緣套管模型表現全球農產品供需與電網關鍵設備供應鏈建設，並非真實農田或變電站照片。](/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp)
 
-資料照片：2023 年 5 月 4 日，美國內華達州拉斯維加斯。[內華達州拉斯維加斯 Smith’s 超市內部](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，攝影及著作權：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
+AI生成概念示意圖：以麥穗剪紙雕塑、高壓變壓器與絕緣套管模型表現全球農產品供需與電網關鍵設備供應鏈建設，並非真實農田或變電站照片。
 
 ## FAO食品價格指數月減1.2%但年增仍達5.9%，稻米產量預計四年首降2.5%
 

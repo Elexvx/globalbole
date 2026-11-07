@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Le Comité de politique monétaire a voté par 8 voix contre 1 une hausse de 25 points de base à 4,0 %, tout en se divisant sur la nécessité de nouveaux resserrements à court terme."
-cover: "/news-media/2026-11-05/energy.jpg"
-coverAlt: "Photo d’archives : la sous-station en mer du parc éolien britannique Rampion, hors du Parlement."
+cover: "/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un portique bancaire classique, d’une balance et d’un radiateur symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle."
 tags: ["Inflation", "Prix de l’énergie", "Données macroéconomiques"]
 readTime: 5
 draft: false
 ---
 
-![Photo d’archives : la sous-station en mer du parc éolien britannique Rampion, hors du Parlement.](/news-media/2026-11-05/energy.jpg)
+![Illustration conceptuelle générée par l’IA : des modèles en papier d’un portique bancaire classique, d’une balance et d’un radiateur symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle.](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
 
-La sous-station en mer du parc éolien britannique Rampion, le 29 mars 2025. Photo d’archives d’une infrastructure d’énergie propre, hors des travaux parlementaires du 4 novembre. Photo: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Illustration conceptuelle générée par l’IA : des modèles en papier d’un portique bancaire classique, d’une balance et d’un radiateur symbolisent l’arbitrage entre politique monétaire et inflation énergétique, sans représenter une scène réelle.
 
 ## Un vote à 8 contre 1 porte le taux directeur à 4,0 % alors que le pétrole et le gaz relèvent la trajectoire d’inflation 2027
 

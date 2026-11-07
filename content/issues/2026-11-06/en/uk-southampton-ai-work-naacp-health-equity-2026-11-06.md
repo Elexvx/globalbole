@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "A Southampton study finds 3 in 10 regional jobs face AI task shifts—with 55,000 high-exposure workers disproportionately female and part-time—while an NAACP report warns broadband and hospital gaps risk widening health disparities."
-cover: "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg"
-coverAlt: "Archival photo: Job seekers and employers talking inside a meeting room at a First Source Jobs Program job fair"
+cover: "/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp"
+coverAlt: "AI-generated editorial illustration: miniature paper models of an office desk, a stethoscope and a layered archway represent workplace AI transition research and community healthcare access, not a real scene."
 tags: ["Labour market", "Employment", "Public policy"]
 readTime: 5
 draft: false
 ---
 
-![Archival photo: Job seekers and employers talking inside a meeting room at a First Source Jobs Program job fair](/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg)
+![AI-generated editorial illustration: miniature paper models of an office desk, a stethoscope and a layered archway represent workplace AI transition research and community healthcare access, not a real scene.](/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp)
 
-Applicants and employers talk at a First Source Jobs Program job fair on October 24, 2014. Archival photo. It is not a photograph of the November 2026 data release. Photo: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+AI-generated editorial illustration: miniature paper models of an office desk, a stethoscope and a layered archway represent workplace AI transition research and community healthcare access, not a real scene.
 
 ## Around 30% of jobs in Hampshire and the Solent face AI task changes, led by 55,000 high-exposure workers
 

@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-06"
 description: "英国南安普顿大学评估南部约三成岗位受AI影响且5.5万名高暴露劳动者以女性和兼职为主；美国全国有色人种协进会则警示宽带与医疗荒漠可能放大健康差距。"
-cover: "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg"
-coverAlt: "资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈"
+cover: "/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp"
+coverAlt: "AI生成概念示意图：以简约办公桌椅、听诊器雕塑与多层纸艺拱门表现人工智能职场转型研究与社区医疗可及性，并非真实办公或医疗现场。"
 tags: ["劳动力市场", "就业", "公共政策"]
 readTime: 5
 draft: false
 ---
 
-![资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈](/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg)
+![AI生成概念示意图：以简约办公桌椅、听诊器雕塑与多层纸艺拱门表现人工智能职场转型研究与社区医疗可及性，并非真实办公或医疗现场。](/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp)
 
-2014年10月24日，First Source Jobs Program 招聘会上的求职者与雇主交流。资料图。 并非2026年11月数据发布现场。 摄影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+AI生成概念示意图：以简约办公桌椅、听诊器雕塑与多层纸艺拱门表现人工智能职场转型研究与社区医疗可及性，并非真实办公或医疗现场。
 
 ## 英格兰南部约30%岗位面临任务重塑，5.5万高暴露岗位集中于女性与兼职群体
 

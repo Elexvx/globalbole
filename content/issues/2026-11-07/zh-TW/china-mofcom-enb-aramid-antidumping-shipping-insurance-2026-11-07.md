@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-07"
 description: "商務部2026年第56、57號公告同日對進口乙叉降冰片烯與對位芳綸長絲立案調查；金融監管總局等七部門聯合推出17條措施強化「國船國貨」與新能源出海航運保險保障。"
-cover: "/news-media/2026-11-05/trade.jpg"
-coverAlt: "資料照片：2026年5月31日希臘比雷埃夫斯貨櫃港"
+cover: "/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp"
+coverAlt: "AI生成概念示意圖：以遠洋貨櫃船、特種纖維線軸與救生圈紙藝模型表現工業材料貿易救濟與航運保險風險保障，並非真實港口或涉案貨物照片。"
 tags: ["國際貿易", "供應鏈", "公共政策"]
 readTime: 5
 draft: false
 ---
 
-![資料照片：2026年5月31日希臘比雷埃夫斯貨櫃港](/news-media/2026-11-05/trade.jpg)
+![AI生成概念示意圖：以遠洋貨櫃船、特種纖維線軸與救生圈紙藝模型表現工業材料貿易救濟與航運保險風險保障，並非真實港口或涉案貨物照片。](/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp)
 
-希臘比雷埃夫斯港，2026年5月31日。航運資料圖，並非美國9月貿易數據對應的新聞現場。 攝影：[Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。
+AI生成概念示意圖：以遠洋貨櫃船、特種纖維線軸與救生圈紙藝模型表現工業材料貿易救濟與航運保險風險保障，並非真實港口或涉案貨物照片。
 
 ## 第56號與第57號公告鎖定三元乙丙橡膠第三單體與芳綸1414長絲，回應歐盟年內16起對華調查
 

@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "The National Reactor Innovation Center and Purdue University will build scaled steel-plate composite containment structures, while astronauts raised International Space Station power capacity to roughly 215 kilowatts."
-cover: "/news-media/2026-10-29/maryland-parkton-solar.jpg"
-coverAlt: "Archival photograph of a ground-mounted solar array in Parkton, Maryland."
+cover: "/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp"
+coverAlt: "AI-generated editorial illustration: a modular reactor vessel sculpture paired with an unrolling spacecraft solar-array paper model represents modular nuclear construction research and orbital power upgrades, not actual hardware."
 tags: ["Infrastructure", "Energy security", "Renewable energy"]
 readTime: 5
 draft: false
 ---
 
-![Archival photograph of a ground-mounted solar array in Parkton, Maryland.](/news-media/2026-10-29/maryland-parkton-solar.jpg)
+![AI-generated editorial illustration: a modular reactor vessel sculpture paired with an unrolling spacecraft solar-array paper model represents modular nuclear construction research and orbital power upgrades, not actual hardware.](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
 
-Archival photograph: a [solar array](https://www.flickr.com/photos/baltimorecounty/54844058516) at a closed landfill in Parkton, Maryland, United States, October 9, 2025. Photograph / supplied by: Baltimore County Government; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).
+AI-generated editorial illustration: a modular reactor vessel sculpture paired with an unrolling spacecraft solar-array paper model represents modular nuclear construction research and orbital power upgrades, not actual hardware.
 
 ## Steel-plate composite modules and real-time digital twins target small modular reactor construction risk
 

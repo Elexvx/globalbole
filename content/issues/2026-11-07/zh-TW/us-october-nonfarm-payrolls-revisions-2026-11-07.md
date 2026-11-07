@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-07"
 description: "美國勞工統計局公布10月私人部門新增15.9萬個職位，專業服務與醫療領跑；但因經濟原因從事兼職人數增至484萬。"
-cover: "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg"
-coverAlt: "資料圖：First Source Jobs Program 招聘會上，求職者與雇主站在會議室內交談"
+cover: "/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp"
+coverAlt: "AI生成概念示意圖：以辦公大樓、醫護箱、物流箱與平衡天平的紙藝模型表現服務業職位增長與兼職用工結構的平衡關係，並非真實建築或新聞現場。"
 tags: ["美國經濟", "勞動力市場", "經濟數據"]
 readTime: 5
 draft: false
 ---
 
-![資料圖：First Source Jobs Program 招聘會上，求職者與雇主站在會議室內交談](/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg)
+![AI生成概念示意圖：以辦公大樓、醫護箱、物流箱與平衡天平的紙藝模型表現服務業職位增長與兼職用工結構的平衡關係，並非真實建築或新聞現場。](/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp)
 
-2014年10月24日，First Source Jobs Program 招聘會上的求職者與雇主交流。資料圖。 並非2026年11月數據發布現場。 攝影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+AI生成概念示意圖：以辦公大樓、醫護箱、物流箱與平衡天平的紙藝模型表現服務業職位增長與兼職用工結構的平衡關係，並非真實建築或新聞現場。
 
 ## 專業服務、醫療與運輸倉儲帶動成長，8月和9月新增就業累計上修8.4萬人
 

@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Finances Canada prolonge les crédits d’impôt pour les technologies et l’électricité propres jusqu’en 2040, tandis que Statistique Canada relève une hausse de 14,1 % des investissements informatiques en 2025."
-cover: "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg"
-coverAlt: "Photo d’archives : Des groupes de conteneurs de batteries blancs dans l’enceinte du site de stockage Reid Gardner, dans le désert du Nevada"
+cover: "/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un barrage hydroélectrique, d’éoliennes, d’un cristal minéral géométrique et de feuillets empilés symbolisent la consolidation budgétaire et l’investissement dans l’électricité propre et les minéraux critiques, sans représenter un site réel."
 tags: ["Politique budgétaire", "Réseau électrique", "Dépenses d’investissement"]
 readTime: 5
 draft: false
 ---
 
-![Photo d’archives : Des groupes de conteneurs de batteries blancs dans l’enceinte du site de stockage Reid Gardner, dans le désert du Nevada](/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg)
+![Illustration conceptuelle générée par l’IA : des modèles en papier d’un barrage hydroélectrique, d’éoliennes, d’un cristal minéral géométrique et de feuillets empilés symbolisent la consolidation budgétaire et l’investissement dans l’électricité propre et les minéraux critiques, sans représenter un site réel.](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
 
-Le projet de stockage d’énergie par batteries Reid Gardner, près de Moapa, au Nevada, photographié le 24 mars 2025. Photo d’archives. Le cliché ne représente pas un projet identifié comme appartenant à LG. Photo: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+Illustration conceptuelle générée par l’IA : des modèles en papier d’un barrage hydroélectrique, d’éoliennes, d’un cristal minéral géométrique et de feuillets empilés symbolisent la consolidation budgétaire et l’investissement dans l’électricité propre et les minéraux critiques, sans représenter un site réel.
 
 ## Les crédits d’impôt pour l’électricité propre sont prolongés jusqu’en 2040 dans un plan d’électrification dépassant 115 milliards de dollars
 

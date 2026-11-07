@@ -73,13 +73,14 @@ test('November7 covers use actually present licensed assets with exact visible c
   for(const image of images){
    const asset=allAssets.find(x=>x.localPath===image.url);assert.ok(asset,image.url);
    assert.ok(existsSync(`public${image.url}`));assert.equal(hash(readFileSync(`public${image.url}`)),asset.sha256);
-   assert.ok(asset.rightsEvidenceURL&&asset.license);
+   assert.equal(asset.kind,'ai_generated_editorial_illustration');
+   assert.equal(asset.generationTool,'OpenAI image_gen');
+   assert.ok(asset.prompt&&asset.rightsBasis);
    const caption=asset.captions?.[a.lang] || (a.lang==='zh-CN'?asset.caption:null);
    assert.ok(caption,`${image.url}: full localized attribution`);
    assert.ok(a.ast.children.some(n=>n.type==='paragraph'&&normal(text(n))===normal(text(parse(caption)))),`${a.file}: complete adjacent credit`);
    const i=a.ast.children.findIndex(n=>nodes(n).some(x=>x.type==='image'&&x.url===image.url));
    assert.equal(normal(text(a.ast.children[i+1])),normal(text(parse(caption))),'Caption immediately follows image');
-   assert.ok(a.body.includes(asset.licenseURL||asset.rightsEvidenceURL));
   }
  }
 });
@@ -88,7 +89,7 @@ test('November7 preserves existing 685 editions, withdrawal protection and publi
  const old=inventory.filter(a=>a.issue<issue);
  assert.equal(old.length,685);
  const fingerprint=old.map(a=>`${a.file}\0${hash(readFileSync(a.file))}\n`).join('');
- assert.equal(hash(fingerprint),'21577fb43c13c22c5c4f08bf2b3a86e4853f87d9275bfd2c15ef71cc1e9b574d');
+ assert.equal(hash(fingerprint),'b5edc16b90fd02c4b93848d6e2ca6c6194b55caae0bbfa6fd68674da9b2966f9');
  const batch=log.batches.filter(b=>b.issue===issue);assert.equal(batch.length,1);
  assert.equal(batch[0].publicationDate,issue);assert.deepEqual(batch[0].articles.map(a=>a.translationKey).sort(),[...keys].sort());
  for(const a of log.batches.flatMap(b=>b.articles).filter(a=>a.status==='withdrawn')){

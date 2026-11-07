@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Les laboratoires nationaux de Brookhaven et de Lawrence Berkeley associent leurs lignes de lumière synchrotron X au centre EUV High-NA d’Albany pour la R&D précompétitive."
-cover: "/news-media/2026-10-30/argonne-battery-xray.jpg"
-coverAlt: "Photographie d’archives d’une expérience de recherche sur les batteries à l’Advanced Photon Source du laboratoire national d’Argonne."
+cover: "/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : des prismes optiques en papier concentrant un faisceau lumineux sur un modèle de puce multicouche symbolisent la recherche en lithographie EUV et la microélectronique, sans représenter un équipement réel."
 tags: ["Intelligence artificielle", "Innovation industrielle", "Politique technologique"]
 readTime: 5
 draft: false
 ---
 
-![Photographie d’archives d’une expérience de recherche sur les batteries à l’Advanced Photon Source du laboratoire national d’Argonne.](/news-media/2026-10-30/argonne-battery-xray.jpg)
+![Illustration conceptuelle générée par l’IA : des prismes optiques en papier concentrant un faisceau lumineux sur un modèle de puce multicouche symbolisent la recherche en lithographie EUV et la microélectronique, sans représenter un équipement réel.](/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp)
 
-Archives : 31 août 2010, expérience de recherche sur les batteries à l’Advanced Photon Source du laboratoire national d’Argonne. Photographie : Geo Joch / Argonne National Laboratory ; [publication du département américain de l’Énergie](https://www.flickr.com/photos/departmentofenergy/9404258684/), dont la page propre à l’image la désigne comme une [œuvre du gouvernement des États-Unis](https://www.usa.gov/government-copyright).
+Illustration conceptuelle générée par l’IA : des prismes optiques en papier concentrant un faisceau lumineux sur un modèle de puce multicouche symbolisent la recherche en lithographie EUV et la microélectronique, sans représenter un équipement réel.
 
 ## Les installations synchrotron à rayons X s’articulent avec le centre de lithographie EUV High-NA d’Albany
 

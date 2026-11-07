@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-07"
 description: "加拿大统计局数据显示10月就业总人数微降4700人至2110万，私人部门就业减少5.3万人，29.7%受访家庭反映难以应对日常财务开支。"
-cover: "/news-media/2026-10-30/manhattan-apartments.jpg"
-coverAlt: "纽约曼哈顿东河岸住宅楼的资料照片。"
+cover: "/news-media/2026-11-07/canada-october-labour-editorial.webp"
+coverAlt: "AI生成概念示意图：以小型住宅、公文包、纸艺拱桥与钥匙模型表现就业市场波动与家庭日常财务压力之间的关系，并非真实街景或新闻现场。"
 tags: ["就业", "劳动力市场", "宏观数据"]
 readTime: 5
 draft: false
 ---
 
-![纽约曼哈顿东河岸住宅楼的资料照片。](/news-media/2026-10-30/manhattan-apartments.jpg)
+![AI生成概念示意图：以小型住宅、公文包、纸艺拱桥与钥匙模型表现就业市场波动与家庭日常财务压力之间的关系，并非真实街景或新闻现场。](/news-media/2026-11-07/canada-october-labour-editorial.webp)
 
-资料图：2023 年 10 月 1 日，美国纽约曼哈顿。[Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg)，摄影及版权：Jakub Hałun；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
+AI生成概念示意图：以小型住宅、公文包、纸艺拱桥与钥匙模型表现就业市场波动与家庭日常财务压力之间的关系，并非真实街景或新闻现场。
 
 ## 求职人数增加推升失业率至6.7%，私人部门减少5.3万岗位而公共部门回升
 

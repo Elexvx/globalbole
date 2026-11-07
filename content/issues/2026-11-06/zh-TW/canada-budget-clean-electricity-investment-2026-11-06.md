@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-06"
 description: "加拿大財政部將潔淨技術與潔淨電力投資稅收抵免延長至2040年底，同日統計局數據顯示2025年家庭消費增速放緩至2.0%，但電腦設備投資躍升14.1%。"
-cover: "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg"
-coverAlt: "資料圖：內華達州沙漠中的Reid Gardner儲能專案，圍欄內排列著成組白色電池艙"
+cover: "/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp"
+coverAlt: "AI生成概念示意圖：以水壩、風機、多面體礦石晶體與紙頁模型表現財政預算整合與潔淨電力及關鍵礦產投資配置，並非真實工程現場。"
 tags: ["財政政策", "電網", "資本支出"]
 readTime: 5
 draft: false
 ---
 
-![資料圖：內華達州沙漠中的Reid Gardner儲能專案，圍欄內排列著成組白色電池艙](/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg)
+![AI生成概念示意圖：以水壩、風機、多面體礦石晶體與紙頁模型表現財政預算整合與潔淨電力及關鍵礦產投資配置，並非真實工程現場。](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
 
-美國內華達州莫阿帕附近的 Reid Gardner 電池儲能專案，攝於2025年3月24日。資料圖。 不作為LG專案實景。 攝影: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+AI生成概念示意圖：以水壩、風機、多面體礦石晶體與紙頁模型表現財政預算整合與潔淨電力及關鍵礦產投資配置，並非真實工程現場。
 
 ## 潔淨電力稅收抵免延至2040年底，電氣化總投入規劃超1150億加元
 

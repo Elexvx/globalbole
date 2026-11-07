@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "The proposed 93 energy pilots span grid maintenance, battery storage diagnostics, and computing-power synergy, while MOFCOM extended 34.2%–37.7% countervailing duties on US n-propanol for five years."
-cover: "/news-media/2026-10-30/argonne-electrode-winding.jpg"
-coverAlt: "Archival photograph of an electrode-winding experiment at Argonne National Laboratory."
+cover: "/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp"
+coverAlt: "AI-generated editorial illustration: paper-craft models of a transmission tower, a geometric node network and a chemical flask represent AI-enabled grid dispatch pilots and chemical-solvent trade measures, not an actual facility."
 tags: ["Artificial intelligence", "Energy storage", "International trade"]
 readTime: 5
 draft: false
 ---
 
-![Archival photograph of an electrode-winding experiment at Argonne National Laboratory.](/news-media/2026-10-30/argonne-electrode-winding.jpg)
+![AI-generated editorial illustration: paper-craft models of a transmission tower, a geometric node network and a chemical flask represent AI-enabled grid dispatch pilots and chemical-solvent trade measures, not an actual facility.](/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp)
 
-Archival photograph: July 15, 2011, an electrode-winding experiment at Argonne National Laboratory. Photograph: Wes Agresta / Argonne National Laboratory; [published by the U.S. Department of Energy](https://www.flickr.com/photos/departmentofenergy/9404258514/), with the individual asset page marked as a [U.S. government work](https://www.usa.gov/government-copyright).
+AI-generated editorial illustration: paper-craft models of a transmission tower, a geometric node network and a chemical flask represent AI-enabled grid dispatch pilots and chemical-solvent trade measures, not an actual facility.
 
 ## 93 proposed AI-plus-energy pilot projects enter a seven-day public comment window across eight energy sectors
 

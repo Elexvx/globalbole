@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Le National Reactor Innovation Center et Purdue vont bâtir des maquettes d’enceintes en acier-béton, pendant qu’une sortie extravéhiculaire porte la puissance électrique de l’ISS à environ 215 kilowatts."
-cover: "/news-media/2026-10-29/maryland-parkton-solar.jpg"
-coverAlt: "Photo d’archives d’une installation photovoltaïque au sol à Parkton, dans le Maryland."
+cover: "/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : une sculpture modulaire de cuve de réacteur associée à un modèle en papier de panneau solaire spatial déroulant symbolise la construction nucléaire modulaire et l’énergie orbitale, sans représenter d’équipement réel."
 tags: ["Infrastructures", "Sécurité énergétique", "Énergies renouvelables"]
 readTime: 5
 draft: false
 ---
 
-![Photo d’archives d’une installation photovoltaïque au sol à Parkton, dans le Maryland.](/news-media/2026-10-29/maryland-parkton-solar.jpg)
+![Illustration conceptuelle générée par l’IA : une sculpture modulaire de cuve de réacteur associée à un modèle en papier de panneau solaire spatial déroulant symbolise la construction nucléaire modulaire et l’énergie orbitale, sans représenter d’équipement réel.](/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp)
 
-Photo d’archives : le 9 octobre 2025, [installation solaire](https://www.flickr.com/photos/baltimorecounty/54844058516) sur une décharge fermée de Parkton, dans le Maryland, aux États-Unis. Photographie / image fournie par : Baltimore County Government ; [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).
+Illustration conceptuelle générée par l’IA : une sculpture modulaire de cuve de réacteur associée à un modèle en papier de panneau solaire spatial déroulant symbolise la construction nucléaire modulaire et l’énergie orbitale, sans représenter d’équipement réel.
 
 ## Les structures composites acier-béton et les jumeaux numériques visent à réduire les risques de génie civil des SMR
 

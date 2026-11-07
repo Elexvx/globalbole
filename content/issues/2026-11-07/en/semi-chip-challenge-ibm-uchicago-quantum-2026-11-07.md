@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Backed by Micron and Galatek across eight regions, the SEMI student competition coincides with IBM’s Nighthawk quantum deployment at UChicago and a WashU selection for Anthropic’s AI for Science program."
-cover: "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg"
-coverAlt: "Archival photo: Two green printed circuit boards with chips, connectors and traces on a dark tabletop"
+cover: "/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp"
+coverAlt: "AI-generated editorial illustration: a chandelier-style quantum cryostat sculpture suspended above a circular silicon-wafer paper model represents quantum computing hardware and semiconductor talent pipelines, not an actual facility."
 tags: ["Industrial innovation", "Artificial intelligence", "Technology policy"]
 readTime: 5
 draft: false
 ---
 
-![Archival photo: Two green printed circuit boards with chips, connectors and traces on a dark tabletop](/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg)
+![AI-generated editorial illustration: a chandelier-style quantum cryostat sculpture suspended above a circular silicon-wafer paper model represents quantum computing hardware and semiconductor talent pipelines, not an actual facility.](/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp)
 
-Two printed circuit boards, photographed on August 31, 2024. Archival photo. These are not OpenAI prototypes. Photo: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+AI-generated editorial illustration: a chandelier-style quantum cryostat sculpture suspended above a circular silicon-wafer paper model represents quantum computing hardware and semiconductor talent pipelines, not an actual facility.
 
 ## SEMI’s eight-region semiconductor competition exhibits prize and deadline differences between the press release and official guide
 

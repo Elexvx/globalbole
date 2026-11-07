@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Statistique Canada indique que l’emploi total est demeuré quasi inchangé (-4 700 à 21,10 millions) alors que le secteur privé a perdu 53 000 postes et que 29,7 % des ménages éprouvent des difficultés financières."
-cover: "/news-media/2026-10-30/manhattan-apartments.jpg"
-coverAlt: "Photographie d’archives d’immeubles résidentiels au bord de l’East River, à Manhattan, New York."
+cover: "/news-media/2026-11-07/canada-october-labour-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’une maison, d’une mallette, d’un pont arqué et d’une clé symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle."
 tags: ["Emploi", "Marché du travail", "Données macroéconomiques"]
 readTime: 5
 draft: false
 ---
 
-![Photographie d’archives d’immeubles résidentiels au bord de l’East River, à Manhattan, New York.](/news-media/2026-10-30/manhattan-apartments.jpg)
+![Illustration conceptuelle générée par l’IA : des modèles en papier d’une maison, d’une mallette, d’un pont arqué et d’une clé symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle.](/news-media/2026-11-07/canada-october-labour-editorial.webp)
 
-Archives : 1er octobre 2023, Manhattan, New York, États-Unis. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg). Photographie et droits d’auteur : Jakub Hałun ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Illustration conceptuelle générée par l’IA : des modèles en papier d’une maison, d’une mallette, d’un pont arqué et d’une clé symbolisent le ralentissement de l’emploi et la pression financière sur les ménages, sans représenter une scène réelle.
 
 ## L’afflux de chercheurs d’emploi porte le chômage à 6,7 % tandis que l’emploi salarié privé recule de 53 000 postes
 

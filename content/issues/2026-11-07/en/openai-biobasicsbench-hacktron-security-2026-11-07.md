@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "Built with Ligo Biosciences from raw benchtop data, BioBasicsBench shows GPT-6 Astra reaching 66.7% while still misreading PCR gels; separately, OpenAI expanded Daybreak Red access for Hacktron."
-cover: "/news-media/2026-11-05/coding.jpg"
-coverAlt: "Archival photo: Rust code on a laptop, not a Pierre or Codex product screenshot"
+cover: "/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp"
+coverAlt: "AI-generated editorial illustration: a double-helix sculpture, a Petri dish and a geometric shield ring represent wet-lab science evaluation and AI boundary security, not a real laboratory scene."
 tags: ["Artificial intelligence", "AI safety", "Enterprise software"]
 readTime: 5
 draft: false
 ---
 
-![Archival photo: Rust code on a laptop, not a Pierre or Codex product screenshot](/news-media/2026-11-05/coding.jpg)
+![AI-generated editorial illustration: a double-helix sculpture, a Petri dish and a geometric shield ring represent wet-lab science evaluation and AI boundary security, not a real laboratory scene.](/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp)
 
-Rust code on a laptop, February 11, 2026. Software-development reference photo, not a Pierre or Codex product screenshot. Photo: [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+AI-generated editorial illustration: a double-helix sculpture, a Petri dish and a geometric shield ring represent wet-lab science evaluation and AI boundary security, not a real laboratory scene.
 
 ## BioBasicsBench tests AI models on 100 messy wet-lab tasks as GPT-6 Astra scores 66.7% but misinterprets colony PCR gels
 

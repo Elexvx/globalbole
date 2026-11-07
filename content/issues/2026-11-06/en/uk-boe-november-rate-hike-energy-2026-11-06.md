@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "The Monetary Policy Committee voted 8–1 to lift Bank Rate by 25 basis points to 4.0%, while splitting over whether the move is a one-off insurance hike or the start of further tightening."
-cover: "/news-media/2026-11-05/energy.jpg"
-coverAlt: "Archival photo: the offshore substation at the UK’s Rampion wind farm, not a parliamentary scene."
+cover: "/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp"
+coverAlt: "AI-generated editorial illustration: paper-craft models of a classical bank portico, a balance scale and a heating radiator represent monetary-policy tightening and energy-driven inflation pressures, not an actual scene."
 tags: ["Inflation", "Energy prices", "Macroeconomic data"]
 readTime: 5
 draft: false
 ---
 
-![Archival photo: the offshore substation at the UK’s Rampion wind farm, not a parliamentary scene.](/news-media/2026-11-05/energy.jpg)
+![AI-generated editorial illustration: paper-craft models of a classical bank portico, a balance scale and a heating radiator represent monetary-policy tightening and energy-driven inflation pressures, not an actual scene.](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
 
-The offshore substation at the UK’s Rampion wind farm, March 29, 2025. Archival image of clean-energy infrastructure, not the parliamentary proceedings of November 4. Photo: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+AI-generated editorial illustration: paper-craft models of a classical bank portico, a balance scale and a heating radiator represent monetary-policy tightening and energy-driven inflation pressures, not an actual scene.
 
 ## An 8–1 vote lifts Bank Rate to 4.0% as wholesale oil and gas curves push up near-term CPI projections
 

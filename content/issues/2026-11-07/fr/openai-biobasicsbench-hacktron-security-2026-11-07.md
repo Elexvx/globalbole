@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-07"
 description: "Conçu avec Ligo Biosciences à partir de données brutes de paillasse, BioBasicsBench crédite GPT-6 Astra de 66,7 % malgré des erreurs d’interprétation de gels PCR ; OpenAI élargit en parallèle l’accès Daybreak Red de Hacktron."
-cover: "/news-media/2026-11-05/coding.jpg"
-coverAlt: "Photo d’illustration : code Rust sur un ordinateur portable, et non une capture d’un produit Pierre ou Codex"
+cover: "/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : une sculpture en double hélice, une boîte de Petri et un anneau de protection géométrique symbolisent l’évaluation des tâches de laboratoire et la sécurité des frontières des systèmes d’IA, sans représenter un laboratoire réel."
 tags: ["Intelligence artificielle", "Sécurité de l’IA", "Logiciels d’entreprise"]
 readTime: 5
 draft: false
 ---
 
-![Photo d’illustration : code Rust sur un ordinateur portable, et non une capture d’un produit Pierre ou Codex](/news-media/2026-11-05/coding.jpg)
+![Illustration conceptuelle générée par l’IA : une sculpture en double hélice, une boîte de Petri et un anneau de protection géométrique symbolisent l’évaluation des tâches de laboratoire et la sécurité des frontières des systèmes d’IA, sans représenter un laboratoire réel.](/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp)
 
-Code Rust sur un ordinateur portable, le 11 février 2026. Photo d’illustration du développement logiciel, et non capture d’écran d’un produit Pierre ou Codex. Photo : [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+Illustration conceptuelle générée par l’IA : une sculpture en double hélice, une boîte de Petri et un anneau de protection géométrique symbolisent l’évaluation des tâches de laboratoire et la sécurité des frontières des systèmes d’IA, sans représenter un laboratoire réel.
 
 ## BioBasicsBench évalue les modèles sur 100 tâches de laboratoire humide : GPT-6 Astra atteint 66,7 % mais se trompe sur des gels PCR
 

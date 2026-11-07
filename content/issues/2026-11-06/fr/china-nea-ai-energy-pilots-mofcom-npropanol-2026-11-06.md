@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Recherche et compilation"
 date: "2026-11-06"
 description: "Les 93 projets proposés couvrent les réseaux électriques, le diagnostic des batteries et la synergie calcul-électricité, tandis que le ministère du Commerce prolonge de cinq ans les droits compensateurs de 34,2 % à 37,7 % sur le n-propanol américain."
-cover: "/news-media/2026-10-30/argonne-electrode-winding.jpg"
-coverAlt: "Photographie d’archives d’un travail expérimental d’enroulement d’électrodes au laboratoire national d’Argonne."
+cover: "/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp"
+coverAlt: "Illustration conceptuelle générée par l’IA : des modèles en papier d’un pylône électrique, d’un réseau géométrique et d’un ballon de chimie symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants chimiques, sans représenter un site réel."
 tags: ["Intelligence artificielle", "Stockage d’énergie", "Commerce international"]
 readTime: 5
 draft: false
 ---
 
-![Photographie d’archives d’un travail expérimental d’enroulement d’électrodes au laboratoire national d’Argonne.](/news-media/2026-10-30/argonne-electrode-winding.jpg)
+![Illustration conceptuelle générée par l’IA : des modèles en papier d’un pylône électrique, d’un réseau géométrique et d’un ballon de chimie symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants chimiques, sans représenter un site réel.](/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp)
 
-Archives : 15 juillet 2011, travail expérimental d’enroulement d’électrodes au laboratoire national d’Argonne. Photographie : Wes Agresta / Argonne National Laboratory ; [publication du département américain de l’Énergie](https://www.flickr.com/photos/departmentofenergy/9404258514/), dont la page propre à l’image la désigne comme une [œuvre du gouvernement des États-Unis](https://www.usa.gov/government-copyright).
+Illustration conceptuelle générée par l’IA : des modèles en papier d’un pylône électrique, d’un réseau géométrique et d’un ballon de chimie symbolisent les projets pilotes d’IA dans l’énergie et les mesures commerciales sur les solvants chimiques, sans représenter un site réel.
 
 ## 93 projets pilotes « IA + énergie » sont soumis à consultation publique pendant sept jours dans huit secteurs énergétiques
 

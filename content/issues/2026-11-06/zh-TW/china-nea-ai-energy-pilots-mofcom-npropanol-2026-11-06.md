@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-06"
 description: "93個擬入選試點涵蓋電網、儲能安全診斷與算電協同等八大方向；商務部同日裁定自11月6日起繼續對原產於美國的進口正丙醇徵收34.2%至37.7%反補貼稅。"
-cover: "/news-media/2026-10-30/argonne-electrode-winding.jpg"
-coverAlt: "阿岡國家實驗室電極捲繞實驗的資料照片。"
+cover: "/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp"
+coverAlt: "AI生成概念示意圖：以輸電塔、幾何節點網路與化學燒瓶紙藝模型表現電力智慧調度試點與化工溶劑貿易措施，並非真實電網或化工廠照片。"
 tags: ["人工智慧", "儲能", "國際貿易"]
 readTime: 5
 draft: false
 ---
 
-![阿岡國家實驗室電極捲繞實驗的資料照片。](/news-media/2026-10-30/argonne-electrode-winding.jpg)
+![AI生成概念示意圖：以輸電塔、幾何節點網路與化學燒瓶紙藝模型表現電力智慧調度試點與化工溶劑貿易措施，並非真實電網或化工廠照片。](/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp)
 
-資料照片：2011 年 7 月 15 日，阿岡國家實驗室電極捲繞實驗。攝影：Wes Agresta / Argonne National Laboratory；由[美國能源部發布](https://www.flickr.com/photos/departmentofenergy/9404258514/)，該作品頁標示為[美國政府作品](https://www.usa.gov/government-copyright)。
+AI生成概念示意圖：以輸電塔、幾何節點網路與化學燒瓶紙藝模型表現電力智慧調度試點與化工溶劑貿易措施，並非真實電網或化工廠照片。
 
 ## 93個「人工智慧+」能源試點進入公示期，涵蓋變電檢修、儲能安全與算電協同
 

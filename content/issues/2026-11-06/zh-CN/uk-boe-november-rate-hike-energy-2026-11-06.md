@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-06"
 description: "货币政策委员会以8比1把银行利率上调25个基点至4.0%，但内部对“单次保险式加息”与“后续继续收紧”存在明显分歧。"
-cover: "/news-media/2026-11-05/energy.jpg"
-coverAlt: "资料照片：英国Rampion海上风电场的海上变电站，并非议会现场。"
+cover: "/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp"
+coverAlt: "AI生成概念示意图：以古典银行门廊、平衡天平与暖气散热片纸艺模型表现央行利率政策与能源通胀压力之间的权衡，并非真实机构建筑或会议现场。"
 tags: ["通货膨胀", "能源价格", "宏观数据"]
 readTime: 5
 draft: false
 ---
 
-![资料照片：英国Rampion海上风电场的海上变电站，并非议会现场。](/news-media/2026-11-05/energy.jpg)
+![AI生成概念示意图：以古典银行门廊、平衡天平与暖气散热片纸艺模型表现央行利率政策与能源通胀压力之间的权衡，并非真实机构建筑或会议现场。](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
 
-英国 Rampion 海上风电场的海上变电站，2025年3月29日。清洁能源设施资料图，并非11月4日议会现场。 摄影：[Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。
+AI生成概念示意图：以古典银行门廊、平衡天平与暖气散热片纸艺模型表现央行利率政策与能源通胀压力之间的权衡，并非真实机构建筑或会议现场。
 
 ## 8比1上调利率25个基点，批发能源曲线推升明年通胀路径
 

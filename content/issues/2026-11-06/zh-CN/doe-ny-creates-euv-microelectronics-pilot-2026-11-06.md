@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-06"
 description: "布鲁克海文、劳伦斯伯克利国家实验室联合奥尔巴尼纳米技术综合体，围绕极紫外光刻与纳米X射线计量开展竞争前研发合作。"
-cover: "/news-media/2026-10-30/argonne-battery-xray.jpg"
-coverAlt: "阿贡国家实验室先进光子源电池研究实验的资料照片。"
+cover: "/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp"
+coverAlt: "AI生成概念示意图：以光学反射棱镜、聚焦光束与多层芯片剖面纸艺模型表现极紫外光刻研发与微电子中试协同，并非真实光刻设备或实验室照片。"
 tags: ["人工智能", "产业创新", "科技政策"]
 readTime: 5
 draft: false
 ---
 
-![阿贡国家实验室先进光子源电池研究实验的资料照片。](/news-media/2026-10-30/argonne-battery-xray.jpg)
+![AI生成概念示意图：以光学反射棱镜、聚焦光束与多层芯片剖面纸艺模型表现极紫外光刻研发与微电子中试协同，并非真实光刻设备或实验室照片。](/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp)
 
-资料图：2010 年 8 月 31 日，阿贡国家实验室先进光子源电池研究实验。摄影：Geo Joch / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258684/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。
+AI生成概念示意图：以光学反射棱镜、聚焦光束与多层芯片剖面纸艺模型表现极紫外光刻研发与微电子中试协同，并非真实光刻设备或实验室照片。
 
 ## 同步辐射X射线束线对接奥尔巴尼高数值孔径EUV光刻中心
 

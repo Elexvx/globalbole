@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-06"
 description: "Finance Canada extended clean technology and clean electricity tax credits through 2040 as Statistics Canada reported 2025 household spending growth slowed to 2.0% while computer investment jumped 14.1%."
-cover: "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg"
-coverAlt: "Archival photo: Groups of white battery enclosures within the fenced Reid Gardner storage site in the Nevada desert"
+cover: "/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp"
+coverAlt: "AI-generated editorial illustration: miniature paper models of a hydroelectric dam, wind turbines, a geometric mineral crystal and stacked sheets represent fiscal consolidation alongside clean-electricity and critical-mineral investment, not a real facility."
 tags: ["Fiscal policy", "Power grid", "Capital spending"]
 readTime: 5
 draft: false
 ---
 
-![Archival photo: Groups of white battery enclosures within the fenced Reid Gardner storage site in the Nevada desert](/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg)
+![AI-generated editorial illustration: miniature paper models of a hydroelectric dam, wind turbines, a geometric mineral crystal and stacked sheets represent fiscal consolidation alongside clean-electricity and critical-mineral investment, not a real facility.](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
 
-The Reid Gardner battery energy storage project near Moapa, Nevada, photographed on March 24, 2025. Archival photo. The photograph does not depict an identified LG project. Photo: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+AI-generated editorial illustration: miniature paper models of a hydroelectric dam, wind turbines, a geometric mineral crystal and stacked sheets represent fiscal consolidation alongside clean-electricity and critical-mineral investment, not a real facility.
 
 ## Clean electricity tax credits are extended through 2040 as total federal electrification commitments top $115 billion
 

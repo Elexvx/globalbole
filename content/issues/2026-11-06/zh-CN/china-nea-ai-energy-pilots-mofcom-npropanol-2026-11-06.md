@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-06"
 description: "93个拟入选试点覆盖电网、储能安全诊断与算电协同等八大方向；商务部同日裁定自11月6日起继续对原产于美国的进口正丙醇征收34.2%至37.7%反补贴税。"
-cover: "/news-media/2026-10-30/argonne-electrode-winding.jpg"
-coverAlt: "阿贡国家实验室电极卷绕实验的资料照片。"
+cover: "/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp"
+coverAlt: "AI生成概念示意图：以输电塔、几何节点网络与化学烧瓶纸艺模型表现电力智能调度试点与化工溶剂贸易措施，并非真实电网或化工厂照片。"
 tags: ["人工智能", "储能", "国际贸易"]
 readTime: 5
 draft: false
 ---
 
-![阿贡国家实验室电极卷绕实验的资料照片。](/news-media/2026-10-30/argonne-electrode-winding.jpg)
+![AI生成概念示意图：以输电塔、几何节点网络与化学烧瓶纸艺模型表现电力智能调度试点与化工溶剂贸易措施，并非真实电网或化工厂照片。](/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp)
 
-资料图：2011 年 7 月 15 日，阿贡国家实验室电极卷绕实验。摄影：Wes Agresta / Argonne National Laboratory；[美国能源部发布](https://www.flickr.com/photos/departmentofenergy/9404258514/)，逐作品页标为[美国政府作品](https://www.usa.gov/government-copyright)。
+AI生成概念示意图：以输电塔、几何节点网络与化学烧瓶纸艺模型表现电力智能调度试点与化工溶剂贸易措施，并非真实电网或化工厂照片。
 
 ## 93个“人工智能+”能源试点进入公示期，涵盖变电检修、储能安全与算电协同
 

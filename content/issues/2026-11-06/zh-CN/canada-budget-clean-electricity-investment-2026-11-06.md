@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-06"
 description: "加拿大财政部将清洁技术与清洁电力投资税收抵免延长至2040年底，同日统计局数据显示2025年家庭消费增速放缓至2.0%，但计算机设备投资跃升14.1%。"
-cover: "/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg"
-coverAlt: "资料图：内华达州沙漠中的Reid Gardner储能项目，围栏内排列着成组白色电池舱"
+cover: "/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp"
+coverAlt: "AI生成概念示意图：以水坝、风机、多面体矿石晶体与纸页模型表现财政预算整合与清洁电力及关键矿产投资配置，并非真实工程现场。"
 tags: ["财政政策", "电网", "资本开支"]
 readTime: 5
 draft: false
 ---
 
-![资料图：内华达州沙漠中的Reid Gardner储能项目，围栏内排列着成组白色电池舱](/news-media/2026-11-04/reid-gardner-bess-2025-chiocciola.jpg)
+![AI生成概念示意图：以水坝、风机、多面体矿石晶体与纸页模型表现财政预算整合与清洁电力及关键矿产投资配置，并非真实工程现场。](/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp)
 
-美国内华达州莫阿帕附近的 Reid Gardner 电池储能项目，摄于2025年3月24日。资料图。 不作为LG项目实景。 摄影: [Sig. Chiocciola](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+AI生成概念示意图：以水坝、风机、多面体矿石晶体与纸页模型表现财政预算整合与清洁电力及关键矿产投资配置，并非真实工程现场。
 
 ## 清洁电力税收抵免延至2040年底，电气化总投入规划超1150亿加元
 

@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-06"
 description: "貨幣政策委員會以8比1將銀行利率調升25個基點至4.0%，但內部對「單次保險式升息」與「後續繼續緊縮」存在明顯分歧。"
-cover: "/news-media/2026-11-05/energy.jpg"
-coverAlt: "資料照片：英國Rampion離岸風電場的海上變電站，並非議會現場。"
+cover: "/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp"
+coverAlt: "AI生成概念示意圖：以古典銀行門廊、平衡天平與暖氣散熱片紙藝模型表現央行利率政策與能源通膨壓力之間的權衡，並非真實機構建築或會議現場。"
 tags: ["通貨膨脹", "能源價格", "宏觀數據"]
 readTime: 5
 draft: false
 ---
 
-![資料照片：英國Rampion離岸風電場的海上變電站，並非議會現場。](/news-media/2026-11-05/energy.jpg)
+![AI生成概念示意圖：以古典銀行門廊、平衡天平與暖氣散熱片紙藝模型表現央行利率政策與能源通膨壓力之間的權衡，並非真實機構建築或會議現場。](/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp)
 
-英國 Rampion 離岸風電場的海上變電站，2025年3月29日。潔淨能源設施資料圖，並非11月4日議會現場。 攝影: [Russss (Russ Garrett)](https://commons.wikimedia.org/wiki/File:20250329_-_Rampion_Wind_Farm_offshore_substation.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+AI生成概念示意圖：以古典銀行門廊、平衡天平與暖氣散熱片紙藝模型表現央行利率政策與能源通膨壓力之間的權衡，並非真實機構建築或會議現場。
 
 ## 8比1調升利率25個基點，批發能源曲線推升明年通膨路徑
 

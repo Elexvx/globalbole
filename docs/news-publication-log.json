@@ -5421,7 +5421,9 @@
               "verificationDate": "2026-11-06",
               "publisher": "Office for National Statistics"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-06/uk-boe-rate-energy-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "canada-budget-clean-electricity-investment-2026-11-06",
@@ -5454,7 +5456,9 @@
               "verificationDate": "2026-11-06",
               "publisher": "Statistics Canada"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-06/canada-budget-clean-electricity-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "doe-ny-creates-euv-microelectronics-pilot-2026-11-06",
@@ -5487,7 +5491,9 @@
               "verificationDate": "2026-11-06",
               "publisher": "Brookhaven National Laboratory"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-06/doe-ny-creates-euv-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "uk-southampton-ai-work-naacp-health-equity-2026-11-06",
@@ -5512,7 +5518,9 @@
               "verificationDate": "2026-11-06",
               "publisher": "NAACP"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-06/uk-southampton-ai-work-health-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "doe-purdue-smr-construction-nasa-irosa-2026-11-06",
@@ -5545,7 +5553,9 @@
               "verificationDate": "2026-11-06",
               "publisher": "NASA"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-06/doe-purdue-smr-nasa-solar-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "china-nea-ai-energy-pilots-mofcom-npropanol-2026-11-06",
@@ -5578,7 +5588,9 @@
               "verificationDate": "2026-11-06",
               "publisher": "Ministry of Commerce of the People’s Republic of China"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-06/china-nea-ai-grid-npropanol-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         }
       ]
     },
@@ -5620,7 +5632,9 @@
               "verificationDate": "2026-11-07",
               "publisher": "U.S. Bureau of Labor Statistics"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "canada-october-labour-force-survey-2026-11-07",
@@ -5645,7 +5659,9 @@
               "verificationDate": "2026-11-07",
               "publisher": "Statistics Canada"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-07/canada-october-labour-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "openai-biobasicsbench-hacktron-security-2026-11-07",
@@ -5678,7 +5694,9 @@
               "verificationDate": "2026-11-07",
               "publisher": "Hacktron"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-07/openai-biobasicsbench-security-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "semi-chip-challenge-ibm-uchicago-quantum-2026-11-07",
@@ -5719,7 +5737,9 @@
               "verificationDate": "2026-11-07",
               "publisher": "Washington University in St. Louis"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-07/semi-chip-ibm-quantum-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "china-mofcom-enb-aramid-antidumping-shipping-insurance-2026-11-07",
@@ -5760,7 +5780,9 @@
               "verificationDate": "2026-11-07",
               "publisher": "Ministry of Commerce of the People’s Republic of China"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         },
         {
           "translationKey": "fao-october-food-price-index-doe-scaled-grid-2026-11-07",
@@ -5801,7 +5823,9 @@
               "verificationDate": "2026-11-07",
               "publisher": "U.S. Department of Energy"
             }
-          ]
+          ],
+          "cover": "/news-media/2026-11-07/fao-food-price-doe-grid-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
         }
       ]
     }

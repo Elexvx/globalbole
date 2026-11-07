@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "Research and compilation"
 date: "2026-11-07"
 description: "MOFCOM Announcements No. 56 and No. 57 opened 12-month investigations into imported ethylidene norbornene and para-aramid filament, while seven central agencies unveiled 17 measures to strengthen marine insurance."
-cover: "/news-media/2026-11-05/trade.jpg"
-coverAlt: "Archival photo: the container port of Piraeus, Greece, on May 31, 2026"
+cover: "/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp"
+coverAlt: "AI-generated editorial illustration: paper-craft models of a container vessel, a specialty fiber spool and a lifebuoy over layered paper waves represent chemical trade remedies and maritime insurance risk sharing, not a real port scene."
 tags: ["International trade", "Supply chains", "Public policy"]
 readTime: 5
 draft: false
 ---
 
-![Archival photo: the container port of Piraeus, Greece, on May 31, 2026](/news-media/2026-11-05/trade.jpg)
+![AI-generated editorial illustration: paper-craft models of a container vessel, a specialty fiber spool and a lifebuoy over layered paper waves represent chemical trade remedies and maritime insurance risk sharing, not a real port scene.](/news-media/2026-11-07/china-mofcom-chemical-shipping-editorial.webp)
 
-Port of Piraeus, Greece, May 31, 2026. Archival shipping photograph, not a scene of the events covered by the US September trade data. Photo: [Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+AI-generated editorial illustration: paper-craft models of a container vessel, a specialty fiber spool and a lifebuoy over layered paper waves represent chemical trade remedies and maritime insurance risk sharing, not a real port scene.
 
 ## Announcements No. 56 and No. 57 target EPDM rubber monomers and para-aramid filament amid 16 EU trade probes in 2026
 

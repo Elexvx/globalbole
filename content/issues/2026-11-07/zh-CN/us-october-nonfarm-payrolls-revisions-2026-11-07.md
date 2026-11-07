@@ -9,16 +9,16 @@ author: "全球伯乐 News"
 authorRole: "资料整理"
 date: "2026-11-07"
 description: "美国劳工统计局公布10月私人部门新增15.9万个岗位，专业服务与医疗领跑；但因经济原因从事兼职人数增至484万。"
-cover: "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg"
-coverAlt: "资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈"
+cover: "/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp"
+coverAlt: "AI生成概念示意图：以办公楼、医护箱、物流箱与平衡天平的纸艺模型表现服务业岗位增长与兼职用工结构的平衡关系，并非真实建筑或新闻现场。"
 tags: ["美国经济", "劳动力市场", "经济数据"]
 readTime: 5
 draft: false
 ---
 
-![资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈](/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg)
+![AI生成概念示意图：以办公楼、医护箱、物流箱与平衡天平的纸艺模型表现服务业岗位增长与兼职用工结构的平衡关系，并非真实建筑或新闻现场。](/news-media/2026-11-07/us-october-nonfarm-payrolls-editorial.webp)
 
-2014年10月24日，First Source Jobs Program 招聘会上的求职者与雇主交流。资料图。 并非2026年11月数据发布现场。 摄影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+AI生成概念示意图：以办公楼、医护箱、物流箱与平衡天平的纸艺模型表现服务业岗位增长与兼职用工结构的平衡关系，并非真实建筑或新闻现场。
 
 ## 专业服务、医疗与运输仓储带动增长，8月和9月新增就业累计上修8.4万人
 
