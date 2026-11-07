@@ -1,0 +1,30 @@
+{
+  "issue": "2026-11-07",
+  "publicationDate": "2026-11-07",
+  "reviewedAt": "2026-11-07T03:58:00Z",
+  "locales": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedArticles": [
+    "us-october-nonfarm-payrolls-revisions-2026-11-07",
+    "canada-october-labour-force-survey-2026-11-07",
+    "openai-biobasicsbench-hacktron-security-2026-11-07",
+    "semi-chip-challenge-ibm-uchicago-quantum-2026-11-07",
+    "china-mofcom-enb-aramid-antidumping-shipping-insurance-2026-11-07",
+    "fao-october-food-price-index-doe-scaled-grid-2026-11-07"
+  ],
+  "deferredCandidates": [
+    {
+      "candidate": "anthropic-ipo-valuation-expectations-secondary-report-2026-11-06",
+      "reason": "Deferred because November 6 secondary reports rely on unnamed investor commentary without a new dated SEC EDGAR filing beyond the November 2 amended S-1 already covered."
+    },
+    {
+      "candidate": "hawaii-ai-and-cloud-innovation-summit-2026-11-06",
+      "reason": "Deferred because the November 6 Governor of Hawaii release is a regional conference recap without new statutory measures, quantitative economic datasets, or technical benchmarks."
+    }
+  ]
+}

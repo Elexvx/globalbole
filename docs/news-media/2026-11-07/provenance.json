@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "issue": "2026-11-07",
+  "verifiedAt": "2026-11-07T03:58:00Z",
+  "verification": "All six November 7 stories reuse existing pixel-inspected, privacy-sanitized, open-license or public-domain archival assets already present in the repository with verified five-language attributions and SHA-256 hashes, supplemented by 12 newly verified Wikimedia Commons and federal public-domain candidate images documented for editorial review.",
+  "assets": [],
+  "reusedAssets": [
+    {
+      "id": "M1",
+      "article": "us-october-nonfarm-payrolls-revisions-2026-11-07",
+      "localPath": "/news-media/2026-11-04/first-source-job-fair-2014-mscala.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-04/provenance.json",
+      "sha256": "88760f17fe932ea10a5f4137745b9b77dd4be5569e85907048e6ee3309f0513c",
+      "workPage": "https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "captions": {
+        "en": "Applicants and employers talk at a First Source Jobs Program job fair on October 24, 2014. Archival photo. It is not a photograph of the November 2026 data release. Photo: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Des candidats échangent avec des employeurs lors d’un salon de l’emploi du First Source Jobs Program, le 24 octobre 2014. Photo d’archives. Ce cliché ne montre pas la publication des données de novembre 2026. Photo: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Соискатели общаются с работодателями на ярмарке вакансий First Source Jobs Program 24 октября 2014 года. Архивное фото. На фото не изображено событие, связанное с публикацией данных в ноябре 2026 года. Фото: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "zh-CN": "2014年10月24日，First Source Jobs Program 招聘会上的求职者与雇主交流。资料图。 并非2026年11月数据发布现场。 摄影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "zh-TW": "2014年10月24日，First Source Jobs Program 招聘會上的求職者與雇主交流。資料圖。 並非2026年11月數據發布現場。 攝影: [Mscalafani](https://commons.wikimedia.org/wiki/File:First_Source_Jobs_Program_job_fair.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "coverAlt": {
+        "en": "Archival photo: Job seekers and employers talking inside a meeting room at a First Source Jobs Program job fair",
+        "fr": "Photo d’archives : Des candidats et des employeurs discutent dans une salle lors d’un salon de l’emploi du First Source Jobs Program",
+        "ru": "Архивное фото: Соискатели и работодатели беседуют в зале на ярмарке вакансий First Source Jobs Program",
+        "zh-CN": "资料图：First Source Jobs Program 招聘会上，求职者与雇主站在会议室内交谈",
+        "zh-TW": "資料圖：First Source Jobs Program 招聘會上，求職者與雇主站在會議室內交談"
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M2",
+      "article": "canada-october-labour-force-survey-2026-11-07",
+      "localPath": "/news-media/2026-10-30/manhattan-apartments.jpg",
+      "sourceProvenance": "docs/news-media/2026-10-30/provenance.json",
+      "sha256": "38f324b85208fcb9e53a5b643ffd1f00ba34b53998ddf72cdb1b792df39b852d",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "captions": {
+        "zh-CN": "资料图：2023 年 10 月 1 日，美国纽约曼哈顿。[Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg)，摄影及版权：Jakub Hałun；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "zh-TW": "資料照片：2023 年 10 月 1 日，美國紐約曼哈頓。[紐約市曼哈頓東河岸住宅樓](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg)，攝影及著作權：Jakub Hałun；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "en": "Archival photograph: October 1, 2023, Manhattan, New York, United States. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg). Photograph and copyright: Jakub Hałun; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "ru": "Архивная фотография: 1 октября 2023 года, Манхэттен, Нью-Йорк, США. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg), фотография и авторские права: Jakub Hałun; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "fr": "Archives : 1er octobre 2023, Manhattan, New York, États-Unis. [Apartment buildings on the bank of East River, Manhattan, New York City](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg). Photographie et droits d’auteur : Jakub Hałun ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "纽约曼哈顿东河岸住宅楼的资料照片。",
+        "zh-TW": "紐約曼哈頓東河岸住宅樓的資料照片。",
+        "en": "Archival photograph of apartment buildings along the East River in Manhattan, New York.",
+        "ru": "Архивная фотография жилых домов на берегу Ист-Ривер в Манхэттене, Нью-Йорк.",
+        "fr": "Photographie d’archives d’immeubles résidentiels au bord de l’East River, à Manhattan, New York."
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M3",
+      "article": "openai-biobasicsbench-hacktron-security-2026-11-07",
+      "localPath": "/news-media/2026-11-05/coding.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-05/provenance.json",
+      "sha256": "4d03b4e778d47129439b16acca57fbfa6c2c1f8322ea762990f3dce1e8d44d8c",
+      "workPage": "https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "captions": {
+        "zh-CN": "笔记本电脑上的 Rust 代码，2026年2月11日。软件开发资料图，并非Pierre或Codex产品截图。 摄影：[Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "zh-TW": "筆記型電腦上的 Rust 程式碼，2026年2月11日。軟體開發資料圖，並非Pierre或Codex產品截圖。 攝影：[Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。",
+        "en": "Rust code on a laptop, February 11, 2026. Software-development reference photo, not a Pierre or Codex product screenshot. Photo: [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "ru": "Код Rust на ноутбуке, 11 февраля 2026 года. Иллюстративная фотография разработки программного обеспечения, а не снимок экрана продукта Pierre или Codex. Фото: [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "fr": "Code Rust sur un ordinateur portable, le 11 février 2026. Photo d’illustration du développement logiciel, et non capture d’écran d’un produit Pierre ou Codex. Photo : [Slashme](https://commons.wikimedia.org/wiki/File:RustCodeOnScreen.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "资料图：笔记本电脑上的 Rust 代码，并非 Pierre 或 Codex 产品截图",
+        "zh-TW": "資料圖：筆記型電腦上的 Rust 程式碼，並非 Pierre 或 Codex 產品截圖",
+        "en": "Archival photo: Rust code on a laptop, not a Pierre or Codex product screenshot",
+        "ru": "Иллюстративное фото: код Rust на ноутбуке, не снимок экрана продукта Pierre или Codex",
+        "fr": "Photo d’illustration : code Rust sur un ordinateur portable, et non une capture d’un produit Pierre ou Codex"
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M4",
+      "article": "semi-chip-challenge-ibm-uchicago-quantum-2026-11-07",
+      "localPath": "/news-media/2026-11-04/printed-circuit-boards-2024-img4512.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-04/provenance.json",
+      "sha256": "f983aae6b4bf69721fa01cdf1792cafc0b393b8ffc7c93edfa97bc41dbb61bc4",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "captions": {
+        "en": "Two printed circuit boards, photographed on August 31, 2024. Archival photo. These are not OpenAI prototypes. Photo: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "fr": "Deux circuits imprimés photographiés le 31 août 2024. Photo d’archives. Il ne s’agit pas de prototypes d’OpenAI. Photo: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "ru": "Две печатные платы, сфотографированные 31 августа 2024 года. Архивное фото. На фото не прототипы OpenAI. Фото: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "zh-CN": "两块印刷电路板，摄于2024年8月31日。资料图。 并非OpenAI原型。 摄影: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+        "zh-TW": "兩塊印刷電路板，攝於2024年8月31日。資料圖。 並非OpenAI原型。 攝影: [IMG 4512](https://commons.wikimedia.org/wiki/File:Printed_circuit_boards_20240831_083726.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)."
+      },
+      "coverAlt": {
+        "en": "Archival photo: Two green printed circuit boards with chips, connectors and traces on a dark tabletop",
+        "fr": "Photo d’archives : Deux circuits imprimés verts avec des puces, des connecteurs et des pistes sur une table sombre",
+        "ru": "Архивное фото: Две зелёные печатные платы с микросхемами, разъёмами и дорожками на тёмном столе",
+        "zh-CN": "资料图：深色桌面上的两块绿色印刷电路板，可见芯片、连接器和线路",
+        "zh-TW": "資料圖：深色桌面上的兩塊綠色印刷電路板，可見晶片、連接器和線路"
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M5",
+      "article": "china-mofcom-enb-aramid-antidumping-shipping-insurance-2026-11-07",
+      "localPath": "/news-media/2026-11-05/trade.jpg",
+      "sourceProvenance": "docs/news-media/2026-11-05/provenance.json",
+      "sha256": "478dc47cb2475cc95d2ba801eea7a835c19aa19550ce444122159b7a163cd737",
+      "workPage": "https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "captions": {
+        "zh-CN": "希腊比雷埃夫斯港，2026年5月31日。航运资料图，并非美国9月贸易数据对应的新闻现场。 摄影：[Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "zh-TW": "希臘比雷埃夫斯港，2026年5月31日。航運資料圖，並非美國9月貿易數據對應的新聞現場。 攝影：[Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。",
+        "en": "Port of Piraeus, Greece, May 31, 2026. Archival shipping photograph, not a scene of the events covered by the US September trade data. Photo: [Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "ru": "Порт Пирея, Греция, 31 мая 2026 года. Архивная фотография судоходства, а не снимок событий, отражённых в сентябрьской торговой статистике США. Фото: [Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+        "fr": "Port du Pirée, Grèce, le 31 mai 2026. Photo d’archives du transport maritime, et non des événements couverts par les données commerciales américaines de septembre. Photo : [Aaaatu](https://commons.wikimedia.org/wiki/File:Container_port_of_Piraeus_2026.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "资料照片：2026年5月31日希腊比雷埃夫斯集装箱港",
+        "zh-TW": "資料照片：2026年5月31日希臘比雷埃夫斯貨櫃港",
+        "en": "Archival photo: the container port of Piraeus, Greece, on May 31, 2026",
+        "ru": "Архивное фото: контейнерный порт Пирея, Греция, 31 мая 2026 года",
+        "fr": "Photo d’archives : le port à conteneurs du Pirée, en Grèce, le 31 mai 2026"
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    },
+    {
+      "id": "M6",
+      "article": "fao-october-food-price-index-doe-scaled-grid-2026-11-07",
+      "localPath": "/news-media/2026-10-30/las-vegas-supermarket.jpg",
+      "sourceProvenance": "docs/news-media/2026-10-30/provenance.json",
+      "sha256": "4cad414779021fe6011c6c8c27bdfdd7704773ca42e5bfead77b9e613841abdc",
+      "workPage": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith's_supermarket_in_Las_Vegas,_Nevada.jpg",
+      "rightsEvidenceURL": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith's_supermarket_in_Las_Vegas,_Nevada.jpg",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "captions": {
+        "zh-CN": "资料图：2023 年 5 月 4 日，美国内华达州拉斯维加斯。[The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，摄影及版权：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "zh-TW": "資料照片：2023 年 5 月 4 日，美國內華達州拉斯維加斯。[內華達州拉斯維加斯 Smith’s 超市內部](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，攝影及著作權：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。",
+        "en": "Archival photograph: May 4, 2023, Las Vegas, Nevada, United States. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg). Photograph and copyright: Harrison Keely; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "ru": "Архивная фотография: 4 мая 2023 года, Лас-Вегас, Невада, США. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg), фотография и авторские права: Harrison Keely; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+        "fr": "Archives : 4 mai 2023, Las Vegas, Nevada, États-Unis. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg). Photographie et droits d’auteur : Harrison Keely ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+      },
+      "coverAlt": {
+        "zh-CN": "拉斯维加斯超市内部的资料照片。",
+        "zh-TW": "拉斯維加斯超市內部的資料照片。",
+        "en": "Archival photograph of the interior of a Las Vegas supermarket.",
+        "ru": "Архивная фотография интерьера супермаркета в Лас-Вегасе.",
+        "fr": "Photographie d’archives de l’intérieur d’un supermarché de Las Vegas."
+      },
+      "verification": "Work page rights/date/author rechecked and existing sanitized local image reused byte-for-byte with identical five-language captions and coverAlt."
+    }
+  ]
+}

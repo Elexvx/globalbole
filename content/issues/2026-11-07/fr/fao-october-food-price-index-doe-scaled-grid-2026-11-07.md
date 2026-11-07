@@ -1,0 +1,38 @@
+---
+title: "L’indice FAO des prix des produits alimentaires fléchit de 1,2 % à 133,9 en octobre tandis que Washington achève la livraison de 300 000 barils de fioul et l’appel à projets réseau de 237 millions de dollars"
+slug: "fao-october-food-price-index-doe-scaled-grid-2026-11-07"
+translationKey: "fao-october-food-price-index-doe-scaled-grid-2026-11-07"
+issue: "2026-11-07"
+lang: "fr"
+category: "energy"
+author: "全球伯乐 News"
+authorRole: "Recherche et compilation"
+date: "2026-11-07"
+description: "Le repli des céréales, des produits laitiers et de la viande a fait baisser l’indice global de la FAO malgré un bond de 6,6 % du sucre ; aux États-Unis, le département de l’Énergie a finalisé les livraisons de la réserve NEHHOR."
+cover: "/news-media/2026-10-30/las-vegas-supermarket.jpg"
+coverAlt: "Photographie d’archives de l’intérieur d’un supermarché de Las Vegas."
+tags: ["Sécurité alimentaire", "Réseau électrique", "Approvisionnement énergétique"]
+readTime: 5
+draft: false
+---
+
+![Photographie d’archives de l’intérieur d’un supermarché de Las Vegas.](/news-media/2026-10-30/las-vegas-supermarket.jpg)
+
+Archives : 4 mai 2023, Las Vegas, Nevada, États-Unis. [The interior of a Smith’s supermarket in Las Vegas, Nevada](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg). Photographie et droits d’auteur : Harrison Keely ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## L’indice FAO recule de 1,2 % sur un mois mais reste supérieur de 5,9 % à son niveau d’octobre 2025 alors que la récolte mondiale de riz devrait baisser de 2,5 %
+
+L’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO) a annoncé le 6 novembre 2026 que l’**Indice FAO des prix des produits alimentaires (FFPI)** s’est établi en moyenne à **133,9 points** en octobre 2026, en baisse de **1,6 point (-1,2 %)** par rapport au niveau révisé de septembre (135,6 points), tout en demeurant supérieur de **7,5 points (+5,9 %)** à celui d’octobre 2025 et inférieur de 26,3 points (-16,4 %) à son pic de mars 2022. Parmi les cinq sous-indices, l’**indice des céréales** a reculé de **4,5 %** (-5,5 points) sur un mois à **116,8 points** (-12,6 % sur un an) sous l’effet du repli du blé et du maïs, bien que l’**indice FAO de tous les riz ait progressé de 1,6 %** en raison de retards de récolte et de coûts accrus ; l’**indice des produits laitiers** a cédé **1,1 %** à **117,8 points** (le beurre et le fromage chutant de 31,1 % et 29,3 % sur un an malgré une hausse de 45,8 % de la poudre de lait écrémé) ; et l’**indice de la viande** a fléchi de **1,2 %** à **125,5 points**. À l’inverse, l’**indice du sucre** a bondi de **6,6 % (+7,5 points)** pour un quatrième mois consécutif à **121,3 points** (**+28,8 %** sur un an, au plus haut depuis décembre 2024) en raison des pluies freinant le broyage au Brésil et des inquiétudes sur les récoltes 2026/27 en Inde, dans l’UE et en Thaïlande, tandis que l’**indice des huiles végétales** a gagné **0,3 %** à **199,2 points**, porté par l’huile de soja au plus haut depuis fin 2022.[^1]
+
+Dans son *Bulletin sur l’offre et la demande de céréales* (CSDB) et son rapport *Perspectives de récolte et situation alimentaire* publiés le 6 novembre, la FAO prévoit une production mondiale de céréales de **2 999 millions de tonnes** en 2026 — deuxième niveau historique après le record de 2025 — mais anticipe une première contraction en quatre campagnes pour la production mondiale de riz, en baisse de **2,5 % à 552,0 millions de tonnes** sous l’effet de marges réduites et d’El Niño. L’utilisation mondiale de céréales en 2026/27 est attendue en hausse de 0,2 % à **2 971 millions de tonnes**, et les stocks de clôture en 2027 devraient croître de 17,2 millions de tonnes (+1,8 %) pour un ratio stocks/utilisation de **32,4 %** (gonflé par l’accumulation de stocks de blé en Russie et en Ukraine liée aux perturbations logistiques en mer Noire). Les échanges mondiaux de céréales devraient reculer de 3,3 % à **507,7 millions de tonnes**, tandis que **41 pays et territoires** (dont 31 en Afrique) ont besoin d’une aide alimentaire extérieure.[^1][^2]
+
+## Le département américain de l’Énergie achève la livraison de 300 000 barils de fioul de la réserve NEHHOR et déploie l’appel d’offres réseau SCALED de 237 millions de dollars
+
+Sur le front de l’approvisionnement énergétique et du réseau électrique américain, le 6 novembre 2026 marquait l’échéance d’achèvement des livraisons de carburant au titre de l’échange d’urgence de la **Northeast Home Heating Oil Reserve (NEHHOR)**. Face aux tensions au Moyen-Orient ayant porté le gazole de détail au-dessus de 6,50 dollars le gallon, le département de l’Énergie (DOE) avait attribué le 4 novembre des contrats portant sur **300 000 barils** de distillat à très faible teneur en soufre (**30 %** du stock total d’un million de barils) depuis les terminaux de Boston (Massachusetts) et de New Haven (Connecticut) à Global Companies LLC, Sprague Operating Resources LLC, Trafigura Trading LLC et Vitol Inc., à charge pour ces sociétés de restituer le volume assorti d’une prime avant la **saison de chauffe 2027-2028**. S’il s’agit seulement du deuxième déblocage de la NEHHOR depuis l’ouragan Sandy en 2012, ces 300 000 barils ne représentent qu’environ **1,3 %** des stocks commerciaux de distillats de la côte Est (22,551 millions de barils).[^4]
+
+Parallèlement, le Bureau de l’électricité du DOE met en œuvre son appel à propositions *Grid Supply Chain Alternatives to Lead Energy Dominance* (**SCALED**, **DE-FOA-0003641**) doté d’un plafond de **237 millions de dollars** : le **volet 1 (50 millions de dollars)** finance la remise à neuf et la recertification de transformateurs, disjoncteurs et appareillages de commutation retirés du service ou endommagés (3 à 20 subventions de 2,5 à 15 millions de dollars sur 24 mois maximum), tandis que le **volet 2 (187 millions de dollars)** soutient l’industrialisation de matériaux et sous-composants nationaux de substitution — acier électrique, traversées en céramique, enroulements en cuivre, isolateurs et sous-composants de stockage par batteries (BESS) — sur deux phases de 12 et 36 mois (7 à 50 subventions de 1 à 25 millions de dollars, avec un **partage des coûts non fédéral d’au moins 50 %**). Les notes conceptuelles sont attendues le **20 novembre 2026** et les dossiers complets le **8 février 2027**. Deux précisions s’imposent : l’indice FAO de la viande intègre pour le mois le plus récent des estimations susceptibles de révision, et l’enveloppe SCALED de 237 millions de dollars se trouve au stade de la présélection avant notification prévue en juin 2027.[^1][^3][^4]
+
+[^1]: 2026-11-06 · [FAO Food Price Index edges down in October amid subdued demand](https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en) · Food and Agriculture Organization of the United Nations.
+[^2]: 2026-11-06 · [FAO Cereal Supply and Demand Brief](https://www.fao.org/worldfoodsituation/csdb/en) · Food and Agriculture Organization of the United Nations.
+[^3]: 2026-10-30 · [Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America’s Grid](https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid) · U.S. Department of Energy.
+[^4]: 2026-11-04 · [Energy Department Awards Contracts from Northeast Home Heating Oil Reserve](https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve) · U.S. Department of Energy.

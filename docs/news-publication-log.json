@@ -5581,6 +5581,229 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-07-zh-CN",
+      "issue": "2026-11-07",
+      "publicationDate": "2026-11-07",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication metadata. Principal source releases are dated November 6, 2026 (with September 2026 SEMI guide PDF, September 13 Hacktron disclosure, October 30 DOE SCALED announcement, and November 4 DOE NEHHOR award explicitly dated). No precise original publication timestamp is invented.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "us-october-nonfarm-payrolls-revisions-2026-11-07",
+          "path": "content/issues/2026-11-07/zh-CN/us-october-nonfarm-payrolls-revisions-2026-11-07.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-10 establishment and household surveys; Aug–Sep 2026 revisions",
+          "sources": [
+            {
+              "title": "Employment Situation Summary - 2026 M10 Results",
+              "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "U.S. Bureau of Labor Statistics"
+            },
+            {
+              "title": "The Employment Situation — October 2026",
+              "url": "https://www.bls.gov/news.release/pdf/empsit.pdf",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "U.S. Bureau of Labor Statistics"
+            }
+          ]
+        },
+        {
+          "translationKey": "canada-october-labour-force-survey-2026-11-07",
+          "path": "content/issues/2026-11-07/zh-CN/canada-october-labour-force-survey-2026-11-07.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-10 reference week (October 11–17, 2026)",
+          "sources": [
+            {
+              "title": "The Daily — Labour Force Survey, October 2026",
+              "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Statistics Canada"
+            },
+            {
+              "title": "Labour Force Survey, October 2026 (PDF)",
+              "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.pdf",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Statistics Canada"
+            }
+          ]
+        },
+        {
+          "translationKey": "openai-biobasicsbench-hacktron-security-2026-11-07",
+          "path": "content/issues/2026-11-07/zh-CN/openai-biobasicsbench-hacktron-security-2026-11-07.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-11-06 OpenAI BioBasicsBench and Hacktron security partnership releases; 2026-07-25 bug bounty disclosure background",
+          "sources": [
+            {
+              "title": "Measuring how AI agents handle everyday wet-lab science",
+              "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "OpenAI"
+            },
+            {
+              "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems",
+              "url": "https://openai.com/index/partnering-with-hacktron/",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "OpenAI"
+            },
+            {
+              "title": "Hacking OpenAI",
+              "url": "https://www.hacktron.ai/blog/hacking-openai",
+              "footnote": 3,
+              "sourceDate": "2026-09-13",
+              "verificationDate": "2026-11-07",
+              "publisher": "Hacktron"
+            }
+          ]
+        },
+        {
+          "translationKey": "semi-chip-challenge-ibm-uchicago-quantum-2026-11-07",
+          "path": "content/issues/2026-11-07/zh-CN/semi-chip-challenge-ibm-uchicago-quantum-2026-11-07.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-11-06 SEMI Foundation, IBM/UChicago IQMP, and WashU/Anthropic announcements",
+          "sources": [
+            {
+              "title": "SEMI Foundation Launches Global Chip the Future Challenge to Inspire the Next Generation of Semiconductor Innovators",
+              "url": "https://www.semi.org/en/semi-foundation-launches-global-chip-the-future-challenge-to-inspire-the-next-generation-of-semiconductor-nnovators",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "SEMI Foundation"
+            },
+            {
+              "title": "SEMI Chip the Future Challenge — Official Competition Guide (PDF)",
+              "url": "https://semifoundation.org/wp-content/uploads/2026/09/SEMI_CTF-Competition-Guide_Final.pdf",
+              "footnote": 2,
+              "sourceDate": "2026-09-01",
+              "verificationDate": "2026-11-07",
+              "publisher": "SEMI Foundation"
+            },
+            {
+              "title": "IBM Unveils its Most Advanced Quantum Computer in Chicago, Marking a Milestone for Illinois's Quantum Future",
+              "url": "https://newsroom.ibm.com/2026-11-06-ibm-unveils-its-most-advanced-quantum-computer-in-chicago,-marking-a-milestone-for-illinoiss-quantum-future",
+              "footnote": 3,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "IBM"
+            },
+            {
+              "title": "WashU student selected for Anthropic AI for Science program",
+              "url": "https://source.washu.edu/2026/11/washu-student-selected-for-anthropic-ai-for-science-program/",
+              "footnote": 4,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Washington University in St. Louis"
+            }
+          ]
+        },
+        {
+          "translationKey": "china-mofcom-enb-aramid-antidumping-shipping-insurance-2026-11-07",
+          "path": "content/issues/2026-11-07/zh-CN/china-mofcom-enb-aramid-antidumping-shipping-insurance-2026-11-07.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2025-07-01 to 2026-06-30 dumping period; 2023-01-01 to 2026-06-30 injury period; 2026-11-06 policy release",
+          "sources": [
+            {
+              "title": "商务部公告2026年第56号 公布对原产于欧盟、日本的进口乙叉降冰片烯发起反倾销立案调查",
+              "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_f587eac1695442ba86f2db6135b943b9.html",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Ministry of Commerce of the People’s Republic of China"
+            },
+            {
+              "title": "商务部公告2026年第57号 公布对原产于欧盟的进口对位芳纶长丝发起反倾销立案调查",
+              "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_e6c3b466b3c24b698a9fc6a649e2db94.html",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Ministry of Commerce of the People’s Republic of China"
+            },
+            {
+              "title": "商务部贸易救济调查局负责人就对原产于欧盟的对位芳纶长丝及原产于欧盟、日本的乙叉降冰片烯发起反倾销调查答记者问",
+              "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_337d9e1ef6fb4138a1cdf1952597eca1.html",
+              "footnote": 3,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Ministry of Commerce of the People’s Republic of China"
+            },
+            {
+              "title": "金融监管总局 交通运输部 国家发展改革委 财政部 商务部 中国人民银行 国务院国资委关于加快航运保险高质量发展的指导意见",
+              "url": "https://www.mofcom.gov.cn/zcfb/zhzc/art/2026/art_2951584d7cfb4d8ab959dc7d592c026b.html",
+              "footnote": 4,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Ministry of Commerce of the People’s Republic of China"
+            }
+          ]
+        },
+        {
+          "translationKey": "fao-october-food-price-index-doe-scaled-grid-2026-11-07",
+          "path": "content/issues/2026-11-07/zh-CN/fao-october-food-price-index-doe-scaled-grid-2026-11-07.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-10 FAO Food Price Index and 2026/27 cereal forecast; 2026-11-06 DOE NEHHOR completion and SCALED NOFO",
+          "sources": [
+            {
+              "title": "FAO Food Price Index edges down in October amid subdued demand",
+              "url": "https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Food and Agriculture Organization of the United Nations"
+            },
+            {
+              "title": "FAO Cereal Supply and Demand Brief",
+              "url": "https://www.fao.org/worldfoodsituation/csdb/en",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-07",
+              "publisher": "Food and Agriculture Organization of the United Nations"
+            },
+            {
+              "title": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America’s Grid",
+              "url": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
+              "footnote": 3,
+              "sourceDate": "2026-10-30",
+              "verificationDate": "2026-11-07",
+              "publisher": "U.S. Department of Energy"
+            },
+            {
+              "title": "Energy Department Awards Contracts from Northeast Home Heating Oil Reserve",
+              "url": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve",
+              "footnote": 4,
+              "sourceDate": "2026-11-04",
+              "verificationDate": "2026-11-07",
+              "publisher": "U.S. Department of Energy"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

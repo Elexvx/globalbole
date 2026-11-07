@@ -1,0 +1,38 @@
+---
+title: "聯合國糧農組織10月全球食品價格指數微降至133.9點，美國完成30萬桶東北取暖油儲備交割並推進2.37億美元電網設備資助"
+slug: "fao-october-food-price-index-doe-scaled-grid-2026-11-07"
+translationKey: "fao-october-food-price-index-doe-scaled-grid-2026-11-07"
+issue: "2026-11-07"
+lang: "zh-TW"
+category: "energy"
+author: "全球伯乐 News"
+authorRole: "資料整理"
+date: "2026-11-07"
+description: "穀物、乳製品與肉類回落帶動10月FAO食品價格指數月減1.2%，但食糖與稻米逆勢上漲；美國能源部於11月6日完成東北取暖油儲備置換交割並徵集變壓器與儲能供應鏈方案。"
+cover: "/news-media/2026-10-30/las-vegas-supermarket.jpg"
+coverAlt: "拉斯維加斯超市內部的資料照片。"
+tags: ["糧食安全", "電網", "能源供應"]
+readTime: 5
+draft: false
+---
+
+![拉斯維加斯超市內部的資料照片。](/news-media/2026-10-30/las-vegas-supermarket.jpg)
+
+資料照片：2023 年 5 月 4 日，美國內華達州拉斯維加斯。[內華達州拉斯維加斯 Smith’s 超市內部](https://commons.wikimedia.org/wiki/File:The_interior_of_a_Smith%27s_supermarket_in_Las_Vegas,_Nevada.jpg)，攝影及著作權：Harrison Keely；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
+
+## FAO食品價格指數月減1.2%但年增仍達5.9%，稻米產量預計四年首降2.5%
+
+聯合國糧食及農業組織（FAO）於2026年11月6日發布2026年10月全球食品價格指數（FFPI）：10月綜合指數均值為**133.9點**，較修訂後的9月（135.6點）月減**1.6點（-1.2%）**，但仍較2025年10月年增**7.5點（+5.9%）**，距2022年3月歷史峰值低26.3點（-16.4%）。五大分項呈現分化：**穀物價格指數**月跌**4.5%**（-5.5點）至**116.8點**（年減12.6%），主要受小麥在連續四個月上漲後因需求平淡及阿根廷前景改善回落、玉米自9月三年高點回調帶動，但**全球稻米價格指數月增1.6%**；**乳製品價格指數**月減**1.1%**至**117.8點**（奶油與起司年減分別達31.1%和29.3%，但脫脂奶粉年增45.8%）；**肉類價格指數**月減**1.2%**至**125.5點**。相比之下，受巴西中南部降雨阻礙甘蔗壓榨及印度、歐盟與泰國2026/27年度作物擔憂推動，**食糖價格指數**月增**6.6%（+7.5點）**至**121.3點**（連續第四個月上漲，年增**28.8%**，創2024年12月以來新高）；**植物油價格指數**月增**0.3%**至**199.2點**，其中大豆油因生質燃料需求強勁升至2022年底以來最高水準。[^1]
+
+同日發布的《穀物供求簡報》（CSDB）與《作物前景與糧食形勢》報告指出，2026年全球穀物總產量預計為**29.99億噸**（僅次於2025年紀錄的歷史第二高位），但受生產者利潤率偏低及聖嬰天氣影響，全球稻米產量預計四年來首次萎縮，年減**2.5%至5.520億噸**。2026/27年度全球穀物消費量預計微增0.2%至**29.71億噸**，2027年季末全球穀物期末庫存預計增加1720萬噸（+1.8%），全球穀物庫存消費比為**32.4%**（很大程度上反映俄羅斯與烏克蘭受黑海物流受阻影響而累積的小麥庫存），2026/27年度全球穀物貿易量預計縮減3.3%至**5.077億噸**。FAO同時警示，受衝突與聖嬰現象強化影響，全球仍有**41個國家和地區**（其中非洲31個）需要外部糧食援助。[^1][^2]
+
+## 美國能源部按期完成30萬桶東北取暖油儲備交割，並開放2.37億美元電網設備供應鏈申報
+
+在能源與電網基礎設施方面，美國能源部（DOE）於2026年11月6日迎來「東北家用取暖油儲備」（NEHHOR）緊急置換合約的法定交割截止日：為應對中東衝突推升美東超低硫餾分油及零售柴油價格突破每加侖6.50美元，能源部從麻薩諸塞州波士頓和康乃狄克州紐黑文油庫向 Global Companies、Sprague Operating Resources、Trafigura Trading 與 Vitol 四家交易商撥付**30萬桶**超低硫餾分取暖油（占該儲備100萬桶總庫容的**30%**），相關油品須在11月6日前完成交割提貨，並由得標企業在**2027至2028年採暖季前**歸還等量油品及附加溢價。這也是自2012年「珊迪」颶風以來美國第二次動用該儲備，但30萬桶僅相當於美東地區2255.1萬桶餾分油商業庫存的約**1.3%**。[^4]
+
+與此同時，美國能源部電力辦公室正推進總額最高**2.37億美元**的「電網供應鏈替代方案以引領能源主導地位」（**SCALED**，資助編號 **DE-FOA-0003641**）招標：其中**議題一（5000萬美元）**支持退役或風暴受損配電與電力變壓器、斷路器及開關設備的翻新複用（擬資助3至20個專案，單項250萬至1500萬美元，週期最長24個月）；**議題二（1.87億美元）**支持電工鋼、陶瓷套管、銅繞組、絕緣子及電池儲能系統（BESS）子部件的本土替代材料量產放大（擬資助7至50個專案，單項100萬至2500萬美元，分12個月與36個月兩階段實施，兩類議題均要求至少**50%非聯邦成本分攤**）。概念書提交截止日為**2026年11月20日**，完整申請截止日為**2027年2月8日**。在分析方法上需注意，FAO肉類價格指數近期月份結合了預測值與實測值，後續可能出現顯著修訂；而DOE的2.37億美元電網供應鏈資金目前處於概念書徵集階段，預計2027年6月通知遴選結果。[^1][^3][^4]
+
+[^1]: 2026-11-06 · [FAO Food Price Index edges down in October amid subdued demand](https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en) · 聯合國糧食及農業組織.
+[^2]: 2026-11-06 · [FAO Cereal Supply and Demand Brief](https://www.fao.org/worldfoodsituation/csdb/en) · 聯合國糧食及農業組織.
+[^3]: 2026-10-30 · [Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America’s Grid](https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid) · 美國能源部.
+[^4]: 2026-11-04 · [Energy Department Awards Contracts from Northeast Home Heating Oil Reserve](https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve) · 美國能源部.
