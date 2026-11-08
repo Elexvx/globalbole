@@ -5828,6 +5828,217 @@
           "mediaKind": "ai_generated_editorial_illustration"
         }
       ]
+    },
+    {
+      "id": "2026-11-08-zh-CN",
+      "issue": "2026-11-08",
+      "publicationDate": "2026-11-08",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication metadata. Principal source releases are dated November 6–8, 2026 (SAFE/PBOC November 7, FTC/SEC/Fed/FDA/DOE/IAEA/EU Council/WMO/UC Berkeley November 6–8, and WHO wearable TPP consultation launched November 8, 2026). No precise original publication timestamp is invented.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-safe-october-forex-gold-reserves-2026-11-08",
+          "path": "content/issues/2026-11-08/zh-CN/china-safe-october-forex-gold-reserves-2026-11-08.md",
+          "eventDate": "2026-11-07",
+          "sourceDate": "2026-11-07",
+          "dataPeriod": "截至 2026-10 末官方外汇储备与黄金储备；2026 年前三季度集成电路出口",
+          "sources": [
+            {
+              "title": "国家外汇管理局公布2026年10月末外汇储备规模数据",
+              "url": "http://www.safe.gov.cn/pc.html",
+              "footnote": 1,
+              "sourceDate": "2026-11-07",
+              "verificationDate": "2026-11-08",
+              "publisher": "国家外汇管理局"
+            },
+            {
+              "title": "截至10月末外汇储备规模超3.4万亿美元 黄金储备连续24个月增加",
+              "url": "http://finance.people.com.cn/n1/2026/1107/c1004-40829675.html",
+              "footnote": 2,
+              "sourceDate": "2026-11-07",
+              "verificationDate": "2026-11-08",
+              "publisher": "人民网"
+            },
+            {
+              "title": "10月末我国外汇储备规模为34052亿美元",
+              "url": "https://www.xinhuanet.com/20261107/c1614dae1e844fa1a338147fd14c10bb/c.html",
+              "footnote": 3,
+              "sourceDate": "2026-11-07",
+              "verificationDate": "2026-11-08",
+              "publisher": "新华网"
+            }
+          ],
+          "cover": "/news-media/2026-11-08/china-safe-forex-gold-reserves-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "ftc-amazon-ads-auction-fox-roku-acquisition-2026-11-08",
+          "path": "content/issues/2026-11-08/zh-CN/ftc-amazon-ads-auction-fox-roku-acquisition-2026-11-08.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2021–2023 年亚马逊广告竞价内部邮件与附加费记录；2026-11-06 福克斯收购 Roku 交割文件",
+          "sources": [
+            {
+              "title": "New Details Emerge in Amazon Ads Auction-Rigging Case",
+              "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/new-details-emerge-amazon-ads-auction-rigging-case",
+              "footnote": 1,
+              "sourceDate": "2026-11-05",
+              "verificationDate": "2026-11-08",
+              "publisher": "U.S. Federal Trade Commission"
+            },
+            {
+              "title": "Form 8-K Exhibit 99.1: Fox Corporation Completes Acquisition of Roku",
+              "url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526451888/d141597dex991.htm",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "U.S. Securities and Exchange Commission / Fox Corporation"
+            }
+          ],
+          "cover": "/news-media/2026-11-08/ftc-amazon-ads-fox-roku-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "ftc-progress-residential-settlement-fed-consumer-credit-2026-11-08",
+          "path": "content/issues/2026-11-08/zh-CN/ftc-progress-residential-settlement-fed-consumer-credit-2026-11-08.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-11-06 FTC 住房租赁和解案；2026 年 9 月及第三季度美联储 G.19 消费信贷统计",
+          "sources": [
+            {
+              "title": "Progress Residential, LLC (FTC Matter No. 2423073 / Civil Action No. 1:26-cv-06782-VMC)",
+              "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2423073-progress-residential-llc",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "U.S. Federal Trade Commission"
+            },
+            {
+              "title": "Consumer Credit - G.19 (September 2026)",
+              "url": "https://www.federalreserve.gov/releases/g19/current/",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "Board of Governors of the Federal Reserve System"
+            }
+          ],
+          "cover": "/news-media/2026-11-08/ftc-rental-housing-fed-credit-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "who-wearable-tpp-fda-zolgensma-safety-2026-11-08",
+          "path": "content/issues/2026-11-08/zh-CN/who-wearable-tpp-fda-zolgensma-safety-2026-11-08.md",
+          "eventDate": "2026-11-08",
+          "sourceDate": "2026-11-08",
+          "dataPeriod": "2026-11-08 至 2026-12-06 WHO 可穿戴设备 TPP 草案咨询期；2026-11-06 FDA Zolgensma 上市后安全性调查通告",
+          "sources": [
+            {
+              "title": "WHO invites feedback on a draft target product profile for wearable devices to measure physical activity and sedentary behaviour in population health monitoring systems",
+              "url": "https://www.who.int/news/item/08-11-2026-who-invites-feedback-on-a-draft-target-product-profile-for-wearable-devices-to-measure-physical-activity-and-sedentary-behaviour-in-population-health-monitoring-systems",
+              "footnote": 1,
+              "sourceDate": "2026-11-08",
+              "verificationDate": "2026-11-08",
+              "publisher": "World Health Organization"
+            },
+            {
+              "title": "FDA Investigating Serious Risk of Malignancy Linked to Zolgensma Gene Therapy",
+              "url": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "U.S. Food and Drug Administration"
+            }
+          ],
+          "cover": "/news-media/2026-11-08/who-wearable-tpp-fda-gene-therapy-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "doe-puerto-rico-grid-order-iaea-labonet-waste-2026-11-08",
+          "path": "content/issues/2026-11-08/zh-CN/doe-puerto-rico-grid-order-iaea-labonet-waste-2026-11-08.md",
+          "eventDate": "2026-11-08",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-11-08 至 2027-02-05 美国能源部第 202-25-2F 号紧急命令执行期；2026-11-06 IAEA LABONET 15 周年公报",
+          "sources": [
+            {
+              "title": "Energy Secretary Builds on Progress to Strengthen Puerto Rico's Energy Reliability",
+              "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "U.S. Department of Energy"
+            },
+            {
+              "title": "Department of Energy Order No. 202-25-2F (Puerto Rico Electric Power Authority)",
+              "url": "https://www.energy.gov/documents/doe-order-no-202-25-2f",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "U.S. Department of Energy"
+            },
+            {
+              "title": "International Cooperation Strengthens Radioactive Waste Characterization",
+              "url": "https://www.iaea.org/newscenter/news/international-cooperation-strengthens-radioactive-waste-characterization",
+              "footnote": 3,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "International Atomic Energy Agency"
+            }
+          ],
+          "cover": "/news-media/2026-11-08/doe-puerto-rico-grid-iaea-waste-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "eu-montenegro-accession-chapters-wmo-ocean-heat-2026-11-08",
+          "path": "content/issues/2026-11-08/zh-CN/eu-montenegro-accession-chapters-wmo-ocean-heat-2026-11-08.md",
+          "eventDate": "2026-11-06",
+          "sourceDate": "2026-11-06",
+          "dataPeriod": "2026-11-06 欧盟—黑山第 30 次入盟会议；WMO 公报第 75 卷第 2 期（2004–2026 年海洋热含量与地球能量失衡评估）",
+          "sources": [
+            {
+              "title": "Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/enlargement-eu-and-montenegro-close-accession-negotiations-on-free-movement-of-goods-and-food-safety/",
+              "footnote": 1,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "Council of the European Union"
+            },
+            {
+              "title": "Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety (DG ENEST)",
+              "url": "https://enlargement.ec.europa.eu/news/enlargement-eu-and-montenegro-close-accession-negotiations-free-movement-goods-and-food-safety-2026-11-06_en",
+              "footnote": 2,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "European Commission"
+            },
+            {
+              "title": "WMO Bulletin Vol. 75 (2): Ocean Heat Reveals Earth's Energy Imbalance",
+              "url": "https://wmo.int/resources/wmo-bulletin/vol-75-2/ocean-heat-reveals-earths-energy-imbalance",
+              "footnote": 3,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "World Meteorological Organization"
+            },
+            {
+              "title": "John Hartwig wins 2026 Eni Award for breakthrough in plastics recycling",
+              "url": "https://chemistry.berkeley.edu/news/john-hartwig-wins-2026-eni-award-breakthrough-plastics-recycling",
+              "footnote": 4,
+              "sourceDate": "2026-11-06",
+              "verificationDate": "2026-11-08",
+              "publisher": "UC Berkeley College of Chemistry"
+            }
+          ],
+          "cover": "/news-media/2026-11-08/eu-montenegro-accession-wmo-ocean-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        }
+      ]
     }
   ],
   "revisions": [

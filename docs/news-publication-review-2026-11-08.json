@@ -1,0 +1,31 @@
+{
+  "issue": "2026-11-08",
+  "publicationDate": "2026-11-08",
+  "reviewedAt": "2026-11-08T08:38:00Z",
+  "locales": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedArticles": [
+    "china-safe-october-forex-gold-reserves-2026-11-08",
+    "ftc-amazon-ads-auction-fox-roku-acquisition-2026-11-08",
+    "ftc-progress-residential-settlement-fed-consumer-credit-2026-11-08",
+    "who-wearable-tpp-fda-zolgensma-safety-2026-11-08",
+    "doe-puerto-rico-grid-order-iaea-labonet-waste-2026-11-08",
+    "eu-montenegro-accession-chapters-wmo-ocean-heat-2026-11-08"
+  ],
+  "deferredCandidates": [
+    {
+      "candidate": "who-bundibugyo-disease-outbreak-news-don625-2026-11-07",
+      "reason": "Deferred because the November 5 batch already published a complete five-language report on the WHO Bundibugyo vaccine trial recommendation (who-bundibugyo-vaccine-trial-2026-11-05) and the November 6/7 DON625 update reports routine surveillance totals as of November 3 without new clinical trial approvals."
+    },
+    {
+      "candidate": "statcan-weekly-review-and-hormuz-shipping-claims-2026-11-07",
+      "reason": "Deferred because Canada October Labour Force Survey data was already published in full in the 2026-11-07 issue, and November 6–7 media claims of commercial vessels striking naval mines in the Strait of Hormuz have not been corroborated by UKMTO."
+    }
+  ],
+  "mediaSummary": "All six 2026-11-08 stories use dedicated 16:9 tactile tabletop still-life conceptual editorial illustrations visibly labeled in all five language editions."
+}
