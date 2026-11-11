@@ -6039,6 +6039,388 @@
           "mediaKind": "ai_generated_editorial_illustration"
         }
       ]
+    },
+    {
+      "id": "2026-11-09-zh-CN",
+      "issue": "2026-11-09",
+      "publicationDate": "2026-11-09",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication metadata. Principal source releases are dated November 8–9, 2026 (China NBS CPI/PPI, China Customs Tariff Commission, UK 10 Downing Street, EU Council ECOFIN, NVIDIA/MSIT, WMO COP31 Update, DOE Order 202-25-1F, DOE PF 2027-04 Acronis Exclusion, SEC Roundtable, WHO Africa Kampala Accord, and HHS Islet RFI closing November 8, 2026). No precise original publication timestamp is invented.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-nbs-october-cpi-ppi-divergence-2026-11-09",
+          "path": "content/issues/2026-11-09/zh-CN/china-nbs-october-cpi-ppi-divergence-2026-11-09.md",
+          "eventDate": "2026-11-09",
+          "sourceDate": "2026-11-09",
+          "dataPeriod": "2026 年 10 月及 1—10 月中国全国 CPI 与 PPI 统计数据（2025 年基期）",
+          "sources": [
+            {
+              "title": "2026年10月份居民消费价格同比上涨0.7%",
+              "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html",
+              "footnote": 1,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "National Bureau of Statistics of China (NBS)"
+            },
+            {
+              "title": "2026年10月份工业生产者出厂价格同比上涨5.7% 环比上涨0.7%",
+              "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965794.html",
+              "footnote": 2,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "National Bureau of Statistics of China (NBS)"
+            },
+            {
+              "title": "国家统计局城市司首席统计师董莉娟解读2026年10月份CPI和PPI数据",
+              "url": "https://www.stats.gov.cn/sj/sjjd/202611/t20261109_1965796.html",
+              "footnote": 3,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "National Bureau of Statistics of China (NBS)"
+            }
+          ],
+          "cover": "/news-media/2026-11-09/china-nbs-october-cpi-ppi-divergence-2026-11-09-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "china-us-tariff-suspension-extension-uk-finland-security-2026-11-09",
+          "path": "content/issues/2026-11-09/zh-CN/china-us-tariff-suspension-extension-uk-finland-security-2026-11-09.md",
+          "eventDate": "2026-11-09",
+          "sourceDate": "2026-11-09",
+          "dataPeriod": "2026-11-10 13:01 起两个月对美 24% 加征关税继续暂停期；2026-11-08 至 11-09 英芬通话与欧盟 ECOFIN 会议",
+          "sources": [
+            {
+              "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+              "url": "http://gss.mof.gov.cn/gzdt/zhengcejiedu/202611/t20261109_4004261.htm",
+              "footnote": 1,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "Customs Tariff Commission of the State Council / Ministry of Finance of China"
+            },
+            {
+              "title": "PM call with President Stubb of Finland: 8 November 2026",
+              "url": "https://www.gov.uk/government/news/pm-call-with-president-stubb-of-finland-8-november-2026",
+              "footnote": 2,
+              "sourceDate": "2026-11-08",
+              "verificationDate": "2026-11-09",
+              "publisher": "UK Prime Minister's Office, 10 Downing Street"
+            },
+            {
+              "title": "Economic and Financial Affairs Council - November 2026",
+              "url": "https://newsroom.consilium.europa.eu/permalink/274373",
+              "footnote": 3,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "Council of the European Union"
+            }
+          ],
+          "cover": "/news-media/2026-11-09/china-us-tariff-suspension-extension-uk-finland-security-2026-11-09-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "nvidia-korea-sovereign-ai-nvlink-board-inquiry-2026-11-09",
+          "path": "content/issues/2026-11-09/zh-CN/nvidia-korea-sovereign-ai-nvlink-board-inquiry-2026-11-09.md",
+          "eventDate": "2026-11-09",
+          "sourceDate": "2026-11-09",
+          "dataPeriod": "2026-11-08 至 11-09 英伟达与韩国主权 AI 合作公告及英伟达董事会独立调查声明",
+          "sources": [
+            {
+              "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+              "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+              "footnote": 1,
+              "sourceDate": "2026-11-08",
+              "verificationDate": "2026-11-09",
+              "publisher": "NVIDIA Blog"
+            },
+            {
+              "title": "Statement From NVIDIA Board of Directors",
+              "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+              "footnote": 2,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "NVIDIA Newsroom"
+            }
+          ],
+          "cover": "/news-media/2026-11-09/nvidia-korea-sovereign-ai-nvlink-board-inquiry-2026-11-09-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "wmo-cop31-climate-update-doe-puerto-rico-generation-2026-11-09",
+          "path": "content/issues/2026-11-09/zh-CN/wmo-cop31-climate-update-doe-puerto-rico-generation-2026-11-09.md",
+          "eventDate": "2026-11-09",
+          "sourceDate": "2026-11-09",
+          "dataPeriod": "2026 年 1—9 月全球近地表气温与 2025 年冰川及温室气体公报；2026-11-08 至 2027-02-05 美国能源部第 202-25-1F 号发电资源命令",
+          "sources": [
+            {
+              "title": "State of the climate in 2026 gives new meaning to phrase “off the charts”",
+              "url": "https://wmo.int/news/media-centre/state-of-climate-2026-gives-new-meaning-phrase-charts",
+              "footnote": 1,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "World Meteorological Organization (WMO)"
+            },
+            {
+              "title": "State of the Climate Update for COP31",
+              "url": "https://wmo.int/resources/publication-series/state-of-climate-update-cop/state-of-climate-update-cop31",
+              "footnote": 2,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "World Meteorological Organization (WMO)"
+            },
+            {
+              "title": "DOE Order No. 202-25-1F (Puerto Rico Electric Power Authority Specified Generation Resources)",
+              "url": "https://www.energy.gov/documents/doe-order-no-202-25-1f",
+              "footnote": 3,
+              "sourceDate": "2026-11-08",
+              "verificationDate": "2026-11-09",
+              "publisher": "U.S. Department of Energy (DOE)"
+            }
+          ],
+          "cover": "/news-media/2026-11-09/wmo-cop31-climate-update-doe-puerto-rico-generation-2026-11-09-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "doe-fascsa-acronis-exclusion-sec-super-intelligence-data-2026-11-09",
+          "path": "content/issues/2026-11-09/zh-CN/doe-fascsa-acronis-exclusion-sec-super-intelligence-data-2026-11-09.md",
+          "eventDate": "2026-11-09",
+          "sourceDate": "2026-11-09",
+          "dataPeriod": "2026-11-09 至 2027-01-27 美国能源部执行 FASCSA 第 2026-02 号清退令；2026-11-09 SEC 机器可理解数据圆桌会议",
+          "sources": [
+            {
+              "title": "PF 2027-04 Notice of Order Regarding Exclusion and Removal of Acronis Products and Services from Federal Civilian Executive Branch Information Technology Systems and Procurements",
+              "url": "https://www.energy.gov/management/pf-2027-04-notice-order-regarding-exclusion-and-removal-acronis-products-and-services",
+              "footnote": 1,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "U.S. Department of Energy (DOE) Office of Acquisition Management"
+            },
+            {
+              "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+              "footnote": 2,
+              "sourceDate": "2026-10-19",
+              "verificationDate": "2026-11-09",
+              "publisher": "U.S. Securities and Exchange Commission (SEC)"
+            }
+          ],
+          "cover": "/news-media/2026-11-09/doe-fascsa-acronis-exclusion-sec-super-intelligence-data-2026-11-09-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "who-uganda-drc-crossborder-health-hhs-islet-transplant-2026-11-09",
+          "path": "content/issues/2026-11-09/zh-CN/who-uganda-drc-crossborder-health-hhs-islet-transplant-2026-11-09.md",
+          "eventDate": "2026-11-09",
+          "sourceDate": "2026-11-09",
+          "dataPeriod": "2026 年 6—11 月乌干达与刚果（金）跨境防疫路线图；截至 2026-11-08 美国 HHS 逝世捐献者胰岛细胞监管征询期",
+          "sources": [
+            {
+              "title": "Uganda and the Democratic Republic of the Congo strengthen cross-border collaboration on health security",
+              "url": "https://www.afro.who.int/countries/uganda/news/uganda-and-democratic-republic-congo-strengthen-cross-border-collaboration-health-security",
+              "footnote": 1,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-09",
+              "publisher": "World Health Organization (WHO) Regional Office for Africa"
+            },
+            {
+              "title": "HHS Seeks Public Input to Improve Access to Deceased Donor Islet Cell Treatments",
+              "url": "https://www.hhs.gov/press-room/hhs-seeks-public-input-deceased-donor-islet-cell-treatments.html",
+              "footnote": 2,
+              "sourceDate": "2026-09-23",
+              "verificationDate": "2026-11-09",
+              "publisher": "U.S. Department of Health and Human Services (HHS)"
+            }
+          ],
+          "cover": "/news-media/2026-11-09/who-uganda-drc-crossborder-health-hhs-islet-transplant-2026-11-09-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-zh-CN",
+      "issue": "2026-11-10",
+      "publicationDate": "2026-11-10",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication metadata. Principal source releases and official sessions are dated November 9–10, 2026 (China MOFCOM Dual-Use Export Control Suspension Q&A, EU Council ECOFIN Budget Conciliation, Quantinuum/RIKEN Reimei H2 & SoftBank Quantum-AI Datacenter, UNFCCC COP31 Yearbook & Singapore Pavilion, NASA ESCAPADE Powered Earth Flybys, FDA Transcranial Ultrasound Roundtable, UNGA Resolution 76/262 Plenary, WMO Europe Drought Forum, and ILO/OECD November 10 releases). No precise original publication timestamp is invented.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "china-mofcom-export-control-suspension-eu-2027-budget-2026-11-10",
+          "path": "content/issues/2026-11-10/zh-CN/china-mofcom-export-control-suspension-eu-2027-budget-2026-11-10.md",
+          "eventDate": "2026-11-10",
+          "sourceDate": "2026-11-10",
+          "dataPeriod": "2026-11-10 起两个月两用物项出口管制暂停窗口；欧盟 2027 财政年度预算调解程序",
+          "sources": [
+            {
+              "title": "商务部新闻发言人就调整出口管制管控名单措施答记者问",
+              "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/mzdyzc/tpxw_552/202611/t20261110_7246825.htm",
+              "footnote": 1,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "Ministry of Commerce of China (MOFCOM) Press Office"
+            },
+            {
+              "title": "Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/",
+              "footnote": 2,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-10",
+              "publisher": "Council of the European Union"
+            }
+          ],
+          "cover": "/news-media/2026-11-10/china-mofcom-export-control-suspension-eu-2027-budget-2026-11-10-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "quantinuum-riken-reimei-h2-quantum-ai-softbank-2026-11-10",
+          "path": "content/issues/2026-11-10/zh-CN/quantinuum-riken-reimei-h2-quantum-ai-softbank-2026-11-10.md",
+          "eventDate": "2026-11-10",
+          "sourceDate": "2026-11-10",
+          "dataPeriod": "2026-11-10 日本理研 Reimei 量子计算机 H2 升级公告；NEDO JPNP20017 项目及 OECD 2026 年 11–12 月算力与半导体报告日程",
+          "sources": [
+            {
+              "title": "Quantinuum and RIKEN Expand Partnership to Accelerate the Commercialization of Quantum-AI Hybrid Supercomputing in Japan",
+              "url": "https://www.eqs-news.com/news/corporate/quantinuum-and-riken-expand-partnership-to-accelerate-the-commercialization-of-quantum-ai-hybrid-supercomputing-in-japan/7e1d1d54-663b-4c82-9b86-ad4d4429fff1_en",
+              "footnote": 1,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "Quantinuum and RIKEN (EQS Corporate News)"
+            },
+            {
+              "title": "Forthcoming titles",
+              "url": "https://www.oecd.org/en/publications/forthcoming.html",
+              "footnote": 2,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "Organisation for Economic Co-operation and Development (OECD)"
+            }
+          ],
+          "cover": "/news-media/2026-11-10/quantinuum-riken-reimei-h2-quantum-ai-softbank-2026-11-10-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "unfccc-cop31-yearbook-clean-power-overtakes-coal-2026-11-10",
+          "path": "content/issues/2026-11-10/zh-CN/unfccc-cop31-yearbook-clean-power-overtakes-coal-2026-11-10.md",
+          "eventDate": "2026-11-10",
+          "sourceDate": "2026-11-10",
+          "dataPeriod": "2026 年全球气候行动年鉴 96 项全球盘点对齐指标；2026-11-10 COP31 安塔利亚新加坡馆揭幕",
+          "sources": [
+            {
+              "title": "Yearbook of Global Climate Action 2026 provides new evidence that climate action is delivering results and driving implementation",
+              "url": "https://unfccc.int/news/yearbook-of-global-climate-action-2026-provides-new-evidence-that-climate-action-is-delivering",
+              "footnote": 1,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-10",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+            },
+            {
+              "title": "Singapore Pavilion Returns for the Fifth Year at COP31 to Advance Climate Action and Partnerships",
+              "url": "https://www.mse.gov.sg/latest-news/singapore-pavilion-returns-for-the-fifth-year-at-cop31-to-advance-climate-action-and-partnerships/",
+              "footnote": 2,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "Ministry of Sustainability and the Environment of Singapore (MSE)"
+            }
+          ],
+          "cover": "/news-media/2026-11-10/unfccc-cop31-yearbook-clean-power-overtakes-coal-2026-11-10-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "nasa-escapade-mars-earth-flyby-fda-transcranial-ultrasound-2026-11-10",
+          "path": "content/issues/2026-11-10/zh-CN/nasa-escapade-mars-earth-flyby-fda-transcranial-ultrasound-2026-11-10.md",
+          "eventDate": "2026-11-10",
+          "sourceDate": "2026-11-09",
+          "dataPeriod": "2026-11-07 至 2026-11-09 NASA ESCAPADE 双星地球动力飞掠；2026-11-10 FDA 经颅聚焦超声公开研讨会",
+          "sources": [
+            {
+              "title": "NASA's ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+              "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+              "footnote": 1,
+              "sourceDate": "2026-11-09",
+              "verificationDate": "2026-11-10",
+              "publisher": "NASA Science Mission Directorate"
+            },
+            {
+              "title": "FDA and the Focused Ultrasound Foundation Co-sponsored Public Workshop: Research Roundtable on the Development of Transcranial Ultrasound for Neurological and Psychiatric Applications - 11/10/2026",
+              "url": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-and-focused-ultrasound-foundation-co-sponsored-public-workshop-research-roundtable-development",
+              "footnote": 2,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "U.S. Food and Drug Administration (FDA)"
+            }
+          ],
+          "cover": "/news-media/2026-11-10/nasa-escapade-mars-earth-flyby-fda-transcranial-ultrasound-2026-11-10-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "unga-veto-accountability-plenary-wmo-europe-drought-2026-11-10",
+          "path": "content/issues/2026-11-10/zh-CN/unga-veto-accountability-plenary-wmo-europe-drought-2026-11-10.md",
+          "eventDate": "2026-11-10",
+          "sourceDate": "2026-11-10",
+          "dataPeriod": "2026-11-10 第81届联大议程第62项否决权全会；2026-11-10 WMO 欧洲区与欧盟主动抗旱管理会议",
+          "sources": [
+            {
+              "title": "Letter convening the General Assembly meeting on the use of the veto, 10 November 2026",
+              "url": "https://www.un.org/pga/81/documents/letters/letter-veto-initiative-meeting-2-november-2026/",
+              "footnote": 1,
+              "sourceDate": "2026-11-02",
+              "verificationDate": "2026-11-10",
+              "publisher": "Office of the President of the 81st Session of the UN General Assembly"
+            },
+            {
+              "title": "Proactive Drought Management – How to achieve it? Governance and Planning for Proactive and Prospective Drought Management",
+              "url": "https://wmo.int/sites/default/files/2026-11/RA%20VI%20Proactive%20Drought%20Management%20Webinar%20-%20Tentative%20Agenda.pdf",
+              "footnote": 2,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "World Meteorological Organization Regional Association VI (Europe)"
+            }
+          ],
+          "cover": "/news-media/2026-11-10/unga-veto-accountability-plenary-wmo-europe-drought-2026-11-10-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        },
+        {
+          "translationKey": "ilo-decent-work-recovery-programme-oecd-workforce-ageing-2026-11-10",
+          "path": "content/issues/2026-11-10/zh-CN/ilo-decent-work-recovery-programme-oecd-workforce-ageing-2026-11-10.md",
+          "eventDate": "2026-11-10",
+          "sourceDate": "2026-11-10",
+          "dataPeriod": "2026-11-10 日内瓦 ILO 2026–2029 体面劳动与复苏计划会议；OECD 32 国 2008–2023 年行业老龄化与生产率面板数据",
+          "sources": [
+            {
+              "title": "Partners' meeting in support of the ILO programme of assistance for the Occupied Palestinian Territory (OPT)",
+              "url": "https://www.ilo.org/meetings-and-events/partners%E2%80%99-meeting-support-ilo-programme-assistance-occupied-palestinian",
+              "footnote": 1,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "International Labour Organization (ILO)"
+            },
+            {
+              "title": "Forthcoming titles",
+              "url": "https://www.oecd.org/en/publications/forthcoming.html",
+              "footnote": 2,
+              "sourceDate": "2026-11-10",
+              "verificationDate": "2026-11-10",
+              "publisher": "Organisation for Economic Co-operation and Development (OECD)"
+            }
+          ],
+          "cover": "/news-media/2026-11-10/ilo-decent-work-recovery-programme-oecd-workforce-ageing-2026-11-10-editorial.webp",
+          "mediaKind": "ai_generated_editorial_illustration"
+        }
+      ]
     }
   ],
   "revisions": [

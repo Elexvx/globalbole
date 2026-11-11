@@ -1,0 +1,31 @@
+{
+  "issue": "2026-11-10",
+  "publicationDate": "2026-11-10",
+  "reviewedAt": "2026-11-10T09:00:00Z",
+  "locales": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedArticles": [
+    "china-mofcom-export-control-suspension-eu-2027-budget-2026-11-10",
+    "quantinuum-riken-reimei-h2-quantum-ai-softbank-2026-11-10",
+    "unfccc-cop31-yearbook-clean-power-overtakes-coal-2026-11-10",
+    "nasa-escapade-mars-earth-flyby-fda-transcranial-ultrasound-2026-11-10",
+    "unga-veto-accountability-plenary-wmo-europe-drought-2026-11-10",
+    "ilo-decent-work-recovery-programme-oecd-workforce-ageing-2026-11-10"
+  ],
+  "deferredCandidates": [
+    {
+      "candidate": "shanghai-minhang-planned-grid-maintenance-2026-11-10",
+      "reason": "Deferred because municipal district distribution line maintenance schedules are routine local utility notices rather than national energy policy or grid capacity developments."
+    },
+    {
+      "candidate": "nasa-apod-saturn-behind-the-moon-2026-11-10",
+      "reason": "Deferred because NASA Astronomy Picture of the Day is a daily skywatching image feature rather than a new spaceflight engineering or scientific research milestone."
+    }
+  ],
+  "mediaSummary": "All six 2026-11-10 stories use dedicated 16:9 tactile tabletop still-life conceptual editorial illustrations visibly labeled in all five language editions."
+}
