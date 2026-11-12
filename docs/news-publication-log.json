@@ -6421,6 +6421,338 @@
           "mediaKind": "ai_generated_editorial_illustration"
         }
       ]
+    },
+    {
+      "issue": "2026-11-11",
+      "publicationDate": "2026-11-11",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "ibm-quantum-nighthawk-r3-amd-epyc-9006-agentic-ai-2026-11-11",
+          "slug": "ibm-quantum-nighthawk-r3-amd-epyc-9006-agentic-ai-2026-11-11",
+          "category": "technology",
+          "status": "published",
+          "cover": "/news-media/2026-11-11/ibm-quantum-nighthawk-r3-amd-epyc-9006-agentic-ai-2026-11-11-editorial.webp",
+          "sources": [
+            {
+              "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+              "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality, with Plans to Scale Beyond 1,000 Qubits in 2027",
+              "publisher": "IBM Newsroom",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://newsroom.amd.com/press-kits/6th-gen-epyc-venice/",
+              "title": "Press Kit: 6th Gen AMD EPYC Now Available",
+              "publisher": "AMD Newsroom",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "translationKey": "boe-hall-ai-agents-financial-stability-ecb-wealth-inequality-2026-11-11",
+          "slug": "boe-hall-ai-agents-financial-stability-ecb-wealth-inequality-2026-11-11",
+          "category": "business",
+          "status": "published",
+          "cover": "/news-media/2026-11-11/boe-hall-ai-agents-financial-stability-ecb-wealth-inequality-2026-11-11-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop",
+              "title": "Principals and Agents – speech by Jonathan Hall",
+              "publisher": "Bank of England",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html",
+              "title": "How the sovereign debt crisis shaped wealth inequality in the euro area",
+              "publisher": "European Central Bank",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://www.bis.org/speeches/20261110-introductory-remarks-official-monetary-and-financial-institutions-forum-omfif",
+              "title": "Introductory remarks - Official Monetary and Financial Institutions Forum (OMFIF)",
+              "publisher": "Bank for International Settlements",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "translationKey": "cop31-antalya-35-by-35-electrification-doe-elkhorn-loan-2026-11-11",
+          "slug": "cop31-antalya-35-by-35-electrification-doe-elkhorn-loan-2026-11-11",
+          "category": "energy",
+          "status": "published",
+          "cover": "/news-media/2026-11-11/cop31-antalya-35-by-35-electrification-doe-elkhorn-loan-2026-11-11-editorial.webp",
+          "sources": [
+            {
+              "url": "https://unfccc.int/news/transcript-of-press-conference-opening-remarks-today-of-cop31-president-president-of-negotiations-un",
+              "title": "Transcript of press conference opening remarks today of COP31 President, President of Negotiations, UN Climate Change Executive Secretary",
+              "publisher": "UNFCCC",
+              "publishedDate": "2026-11-10"
+            },
+            {
+              "url": "https://unfccc.int/cop31",
+              "title": "UN Climate Change Conference - Antalya, November 2026",
+              "publisher": "UNFCCC",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen",
+              "title": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America",
+              "publisher": "U.S. Department of Energy",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "translationKey": "fda-pimicotinib-tgct-approval-who-science-health-movement-2026-11-11",
+          "slug": "fda-pimicotinib-tgct-approval-who-science-health-movement-2026-11-11",
+          "category": "innovation",
+          "status": "published",
+          "cover": "/news-media/2026-11-11/fda-pimicotinib-tgct-approval-who-science-health-movement-2026-11-11-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-pimicotinib-symptomatic-tenosynovial-giant-cell-tumor",
+              "title": "FDA approves pimicotinib for symptomatic tenosynovial giant cell tumor",
+              "publisher": "U.S. Food and Drug Administration",
+              "publishedDate": "2026-11-10"
+            },
+            {
+              "url": "https://www.who.int/news/item/10-11-2026-who-launches-together-for-science-and-health-movement-to-strengthen-trust-worldwide",
+              "title": "WHO launches “Together for Science and Health” movement to strengthen trust worldwide",
+              "publisher": "World Health Organization",
+              "publishedDate": "2026-11-10"
+            },
+            {
+              "url": "https://www.who.int/news/item/10-11-2026-from-commitments-to-implementation--atach-day-at-cop31-delivers-practical-solutions-for-climate-and-health",
+              "title": "From commitments to implementation: ATACH Day at COP31 delivers practical solutions for climate and health",
+              "publisher": "World Health Organization",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "translationKey": "eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11",
+          "slug": "eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11",
+          "category": "current-affairs",
+          "status": "published",
+          "cover": "/news-media/2026-11-11/eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/",
+              "title": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons",
+              "publisher": "Council of the European Union",
+              "publishedDate": "2026-11-10"
+            },
+            {
+              "url": "https://www.gov.uk/government/publications/decision-no-22026-of-the-joint-committee-established-by-the-agreement-on-the-withdrawal-of-the-uk-from-the-eu-amending-part-i-of-annex-i-to-the-agreem",
+              "title": "Decision No 2/2026 of the Joint Committee established by the Agreement on the withdrawal of the UK from the EU: amending Part I of Annex I to the Agreement",
+              "publisher": "UK Cabinet Office",
+              "publishedDate": "2026-11-10"
+            },
+            {
+              "url": "https://nvd.nist.gov/vuln/detail/cve-2026-124194",
+              "title": "NVD-CVE-2026-124194",
+              "publisher": "National Institute of Standards and Technology",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "translationKey": "ilo-gb358-regular-budget-contingency-ftc-hims-health-privacy-2026-11-11",
+          "slug": "ilo-gb358-regular-budget-contingency-ftc-hims-health-privacy-2026-11-11",
+          "category": "work-life",
+          "status": "published",
+          "cover": "/news-media/2026-11-11/ilo-gb358-regular-budget-contingency-ftc-hims-health-privacy-2026-11-11-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.ilo.org/resource/record-decisions/gb/gb358/decision-concerning-update-financial-position-regular-budget-and",
+              "title": "Decision concerning the update on the financial position of the regular budget and on the implementation of the contingency measures",
+              "publisher": "International Labour Organization",
+              "publishedDate": "2026-11-10"
+            },
+            {
+              "url": "https://www.ilo.org/resource/record-decisions/gb/gb358/decision-concerning-update-implementation-ilo-reform",
+              "title": "Decision concerning the update on the implementation of the ILO reform",
+              "publisher": "International Labour Organization",
+              "publishedDate": "2026-11-10"
+            },
+            {
+              "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices",
+              "title": "Five States Join FTC Lawsuit Alleging Hims and Hers Engaged in Deceptive and Unlawful Privacy Practices",
+              "publisher": "Federal Trade Commission",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "issue": "2026-11-12",
+      "publicationDate": "2026-11-12",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "uk-ons-q3-gdp-ai-services-growth-business-investment-2026-11-12",
+          "slug": "uk-ons-q3-gdp-ai-services-growth-business-investment-2026-11-12",
+          "category": "business",
+          "status": "published",
+          "cover": "/news-media/2026-11-12/uk-ons-q3-gdp-ai-services-growth-business-investment-2026-11-12-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/julytoseptember2026",
+              "title": "GDP first quarterly estimate, UK: July to September 2026",
+              "publisher": "Office for National Statistics",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.oecd.org/en/publications/forthcoming.html",
+              "title": "Forthcoming titles - OECD",
+              "publisher": "OECD",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "translationKey": "amd-agentic-ai-token-economics-nasa-lisa-gravitational-exoplanets-2026-11-12",
+          "slug": "amd-agentic-ai-token-economics-nasa-lisa-gravitational-exoplanets-2026-11-12",
+          "category": "technology",
+          "status": "published",
+          "cover": "/news-media/2026-11-12/amd-agentic-ai-token-economics-nasa-lisa-gravitational-exoplanets-2026-11-12-editorial.webp",
+          "sources": [
+            {
+              "url": "https://newsroom.amd.com/news/ai-new-electricity-meter-running/",
+              "title": "AI Is the New Electricity. And the Meter Is Running.",
+              "publisher": "AMD Newsroom",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://svs.gsfc.nasa.gov/15117",
+              "title": "How Gravitational Waves Can Reveal New Worlds",
+              "publisher": "NASA Goddard Space Flight Center",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "translationKey": "cop31-antalya-leaders-methane-summit-oecd-climate-club-2026-11-12",
+          "slug": "cop31-antalya-leaders-methane-summit-oecd-climate-club-2026-11-12",
+          "category": "energy",
+          "status": "published",
+          "cover": "/news-media/2026-11-12/cop31-antalya-leaders-methane-summit-oecd-climate-club-2026-11-12-editorial.webp",
+          "sources": [
+            {
+              "url": "https://unfccc.int/zh/node/662632",
+              "title": "Antalya Leaders' Summit at COP 31",
+              "publisher": "UNFCCC",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://unfccc.int/cop31",
+              "title": "UN Climate Change Conference - Antalya, November 2026",
+              "publisher": "UNFCCC",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.oecd.org/en/publications/forthcoming.html",
+              "title": "Forthcoming titles - OECD",
+              "publisher": "OECD",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "translationKey": "epc-dublin-ninth-summit-wmo-multi-hazard-early-warning-2026-11-12",
+          "slug": "epc-dublin-ninth-summit-wmo-multi-hazard-early-warning-2026-11-12",
+          "category": "current-affairs",
+          "status": "published",
+          "cover": "/news-media/2026-11-12/epc-dublin-ninth-summit-wmo-multi-hazard-early-warning-2026-11-12-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
+              "title": "Media advisory - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026",
+              "publisher": "European Council",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://wmo.int/resources/publication-series/global-status-of-multi-hazard-early-warning-systems/gsmhews-2026",
+              "title": "Global Status of Multi-Hazard Early Warning Systems 2026",
+              "publisher": "World Meteorological Organization",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://wmo.int/secretariat/celeste-saulo/cop31-intervention-state-of-climate-update-high-level-segment-of-leaders-summit",
+              "title": "COP31: Intervention on State of the Climate Update at high-level segment of Leaders' Summit",
+              "publisher": "World Meteorological Organization",
+              "publishedDate": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "translationKey": "fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12",
+          "slug": "fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12",
+          "category": "innovation",
+          "status": "published",
+          "cover": "/news-media/2026-11-12/fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-public-virtual-only-workshop-maintenance-treatment-ovarian-cancer-workshop-weighing-benefit-and",
+              "title": "FDA Public Virtual Only Workshop: Maintenance Treatment for Ovarian Cancer Workshop: Weighing Benefit and Toxicity in an Evolving Landscape - 11/12/2026",
+              "publisher": "U.S. Food and Drug Administration",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.afro.who.int/countries/kenya/news/kenyas-last-ebola-patient-goes-home-42-day-countdown-begins",
+              "title": "Kenya's last Ebola patient goes home as 42-day countdown begins",
+              "publisher": "WHO Regional Office for Africa",
+              "publishedDate": "2026-11-11"
+            },
+            {
+              "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026",
+              "title": "WHO Director-General's opening remarks at the Member State briefing on Ebola outbreak in the Democratic Republic of the Congo – 11 November 2026",
+              "publisher": "World Health Organization",
+              "publishedDate": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "translationKey": "oecd-international-migration-outlook-2026-ilo-opt-recovery-funding-2026-11-12",
+          "slug": "oecd-international-migration-outlook-2026-ilo-opt-recovery-funding-2026-11-12",
+          "category": "work-life",
+          "status": "published",
+          "cover": "/news-media/2026-11-12/oecd-international-migration-outlook-2026-ilo-opt-recovery-funding-2026-11-12-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.oecd.org/en/events/2026/11/launch-of-international-migration-outlook-2026.html",
+              "title": "Launch of International Migration Outlook 2026",
+              "publisher": "OECD",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.oecd.org/en/publications/oecd-observer-roundtable-on-small-and-medium-sized-enterprises_7b7e35d4-en.html",
+              "title": "OECD Observer Roundtable on small and medium-sized enterprises",
+              "publisher": "OECD",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.ilo.org/resource/news/ilo-and-partners-mobilize-support-palestinian-jobs-and-recovery",
+              "title": "ILO and partners mobilize support for Palestinian jobs and recovery",
+              "publisher": "International Labour Organization",
+              "publishedDate": "2026-11-10"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

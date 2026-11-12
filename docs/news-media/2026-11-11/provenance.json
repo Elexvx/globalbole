@@ -1,0 +1,120 @@
+{
+  "issue": "2026-11-11",
+  "reviewedAt": "2026-11-11T09:00:00Z",
+  "assets": [
+    {
+      "localPath": "/news-media/2026-11-11/ibm-quantum-nighthawk-r3-amd-epyc-9006-agentic-ai-2026-11-11-editorial.webp",
+      "sha256": "7544aa507c9095d9c02e8dd74e5dad3f0847dba8fc511241000efa5504bd38dd",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「IBM 发布 Nighthawk r3 模块化量子处理器架构与第六代 AMD EPYC 数据中心服务器处理器」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（深藏蓝、灰蓝、暖象牙白、暖石色，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的浅灰天然石板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩科研与算力器物——置于双层透明方型玻璃罩内的精密黄铜与深蓝晶圆芯片模型、一台哑光深蓝金属微型服务器刀片机箱、以及一根带金属接头的编织光纤数据线缆——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-11 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性展示模块化量子处理器与数据中心服务器CPU协同演进的编辑静物插画，非真实实验室或机房现场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性展示模块化量子处理器与数据中心服务器CPU协同演进的编辑静物插画，非真实实验室或机房现场摄影。",
+        "zh-TW": "AI生成示意圖：概念性展示模組化量子處理器與資料中心伺服器CPU協同演進的編輯靜物插畫，非真實實驗室或機房現場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept depicting the convergence of modular quantum processors and data-center server CPUs, not a photograph of an actual laboratory or server room.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий конвергенцию модульных квантовых процессоров и серверных ЦП дата-центров, не является фотографией реальной лаборатории.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant la convergence entre processeurs quantiques modulaires et processeurs serveurs de centres de données, et non une photographie de laboratoire."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-11/boe-hall-ai-agents-financial-stability-ecb-wealth-inequality-2026-11-11-editorial.webp",
+      "sha256": "4c07183a0ff5126936d6df3b29f982642841bee517c07d117750e79a799b1f6c",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「英国央行探讨金融市场 AI 智能体委托代理风险与欧洲央行家庭财富结构研究」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（深藏蓝、鼠尾草绿、暖象牙白、暖石色，少量低饱和酒红点缀），桌面平铺一块低矮平整的暖米色天然石板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩财经与治理器物——一座极简哑光黄铜平衡天平与两枚大小不同的金属圆柱砝码、一枚嵌在磨砂玻璃方框内的微型黑色芯片模块、以及一把胡桃木柄黑框放大镜——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-11 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现金融市场算法智能体监管与宏观家庭资产分配研究的编辑静物插画，非真实金融机构现场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现金融市场算法智能体监管与宏观家庭资产分配研究的编辑静物插画，非真实金融机构现场摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現金融市場演算法智慧體監管與宏觀家庭資產分配研究的編輯靜物插畫，非真實金融機構現場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept representing algorithmic agent oversight and household wealth distribution research, not a photograph of an actual financial institution.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий надзор за алгоритмическими ИИ-агентами и анализ распределения богатства домохозяйств, не является фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant la supervision des agents algorithmiques financiers et l’étude de la répartition du patrimoine des ménages, et non une photographie réelle."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-11/cop31-antalya-35-by-35-electrification-doe-elkhorn-loan-2026-11-11-editorial.webp",
+      "sha256": "c8bc0ae40d14a1d621b5d250dd7d590775c841cd0474cb530838216bb970d0f6",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「联合国 COP31 推进 2035 年全球终端电气化率 35% 倡议与美国能源部海上能源基础设施改造」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（鼠尾草绿、灰蓝、深藏蓝、暖石色，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的灰绿色板岩切片（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩能源与工业器物——一座哑光陶瓷与黄铜质感的微型高压电网绝缘子模块、一只深蓝色涂装的精密金属工业管道阀门、以及一截带铜芯切面的编织高压电力线缆——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-11 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现全球终端电气化加速与传统海上能源基础设施投资并行的编辑静物插画，非真实电站或钻井平台摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现全球终端电气化加速与传统海上能源基础设施投资并行的编辑静物插画，非真实电站或钻井平台摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現全球終端電氣化加速與傳統海上能源基礎設施投資並行的編輯靜物插畫，非真實電站或鑽井平台攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept contrasting global end-use electrification with offshore hydrocarbon infrastructure financing, not a photograph of an actual energy facility.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, сопоставляющий глобальную электрификацию и финансирование морской нефтегазовой инфраструктуры, не является фотографией объекта.",
+        "fr": "Illustration générée par IA : nature morte éditoriale mettant en regard l’électrification mondiale des usages finaux et le financement d’infrastructures pétrolières offshore, et non une photographie industrielle."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-11/fda-pimicotinib-tgct-approval-who-science-health-movement-2026-11-11-editorial.webp",
+      "sha256": "d5417e4ca8c1e6d30bbf522b37c678acb0aedec3b8ff0ec75f816d875add62d4",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「美国 FDA 批准腱鞘巨细胞瘤激酶抑制剂靶向疗法与世界卫生组织发起科学与健康全球信任行动」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（暖象牙白、鼠尾草绿、灰蓝、暖石色，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的磨砂玻璃托板与天然浅色石块（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩医学与科研器物——一副墨绿色软管配哑光银金属听诊头的听诊器、一只装有两颗双色哑光陶瓷胶囊模型的透明玻璃培养皿、以及一架极简黄铜与黑钢材质的单筒光学显微镜模型——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-11 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性展示肿瘤靶向新药审评突破与全球循证医学公共卫生协作的编辑静物插画，非真实临床药品或医疗现场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性展示肿瘤靶向新药审评突破与全球循证医学公共卫生协作的编辑静物插画，非真实临床药品或医疗现场摄影。",
+        "zh-TW": "AI生成示意圖：概念性展示腫瘤標靶新藥審評突破與全球實證醫學公共衛生協作的編輯靜物插畫，非真實臨床藥品或醫療現場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept representing targeted oncology drug review and global evidence-based public health cooperation, not a clinical photograph.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий одобрение таргетной онкотерапии и международное сотрудничество в области доказательной медицины, не является клинической фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale évoquant l’homologation de thérapies oncologiques ciblées et la coopération mondiale en santé publique fondée sur les preuves, et non une photographie clinique."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-11/eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11-editorial.webp",
+      "sha256": "72196f16710bf539942604fa5d408c9334b20f32f1ff5f00e32b50a3a416a208",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「欧盟延长反化学武器扩散限制措施、英欧温莎框架联合委员会决定与联邦网络安全强制修复指令」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（深藏蓝、灰蓝、暖石色、暖象牙白，少量低饱和酒红点缀），桌面平铺一块低矮平整的深灰玄武岩石板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩外交安全与数字防务器物——一把沉稳的哑光黄铜与黑胡桃木机械挂锁、一只带透明密封塞的厚壁硼硅玻璃安全采样瓶、以及一个立式无字牛皮纸档案卷宗夹——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-11 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性展示多边防扩散制裁延展、跨境条约法制修订与政府网络安全强制修复令的编辑静物插画，非真实外交或安全现场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性展示多边防扩散制裁延展、跨境条约法制修订与政府网络安全强制修复令的编辑静物插画，非真实外交或安全现场摄影。",
+        "zh-TW": "AI生成示意圖：概念性展示多邊防擴散制裁延展、跨境條約法制修訂與政府網路安全強制修復令的編輯靜物插畫，非真實外交或安全現場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept representing multilateral non-proliferation sanctions, cross-border treaty amendments, and mandatory federal cybersecurity directives, not an actual scene.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий многосторонний режим нераспространения, договорное регулирование и директивы кибербезопасности, не является репортажным фото.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant la prorogation des régimes de non-prolifération, l’ajustement des traités européens et les directives fédérales de cybersécurité, et non une scène réelle."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-11/ilo-gb358-regular-budget-contingency-ftc-hims-health-privacy-2026-11-11-editorial.webp",
+      "sha256": "66134a2e7b65e1ee221ae72a0b491f49f41e8ff0ff3830915ccaf672f3b89c31",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「国际劳工组织理事会审议常规预算节支与人员调整方案及美国 FTC 联合五州加强远程医疗订阅与隐私执法」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（暖石色、暖象牙白、深藏蓝、鼠尾草绿，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的浅米色石灰岩石板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩职场治理与隐私合规器物——一只温润胡桃木公文收纳盒、一枚置于磨砂玻璃片上的哑光深蓝金属盾牌锁扣模型、以及一支黑金配色的无字金属钢笔与空白牛皮纸卡片——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-11 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现国际机构人事预算审慎调整与数字医疗消费者隐私执法的编辑静物插画，非真实办公或法庭现场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现国际机构人事预算审慎调整与数字医疗消费者隐私执法的编辑静物插画，非真实办公或法庭现场摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現國際機構人事預算審慎調整與數位醫療消費者隱私執法的編輯靜物插畫，非真實辦公或法庭現場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept depicting institutional workforce budget stewardship and digital health privacy enforcement, not a photograph of an actual office or courtroom.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий кадровую и бюджетную политику международных организаций и защиту конфиденциальности медицинских данных, не является фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant la gestion budgétaire des effectifs internationaux et la protection des données médicales des consommateurs, et non une photographie réelle."
+      }
+    }
+  ]
+}

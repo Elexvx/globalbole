@@ -1,0 +1,120 @@
+{
+  "issue": "2026-11-12",
+  "reviewedAt": "2026-11-12T09:00:00Z",
+  "assets": [
+    {
+      "localPath": "/news-media/2026-11-12/uk-ons-q3-gdp-ai-services-growth-business-investment-2026-11-12-editorial.webp",
+      "sha256": "9ad19cd0a221fec7fc775bfe5fb78e2b08c7e7a3dd79cc8c9c4645e625642d41",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「英国统计局发布 2026 年第三季度 GDP 增长 0.7% 报告与 AI 编程及电子制造投资拉动」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（深藏蓝、鼠尾草绿、暖象牙白、暖石色，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的浅米色石灰岩石板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩经济与产业器物——一组三枚阶梯式排列的无字哑光黄铜与磨砂玻璃方柱体模块、一枚精致的深蓝色硅晶圆光学透镜组件、以及一把黑胡桃木柄黄铜卡尺（无刻度无数字）——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-12 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现人工智能与云服务产出拉动宏观经济增长及固定资本形成回升的编辑静物插画，非真实统计机构或工厂现场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现人工智能与云服务产出拉动宏观经济增长及固定资本形成回升的编辑静物插画，非真实统计机构或工厂现场摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現人工智慧與雲端服務產出拉動宏觀經濟成長及固定資本形成回升的編輯靜物插畫，非真實統計機構或工廠現場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept depicting artificial intelligence services output and fixed capital formation growth in national accounts, not a photograph of an actual facility.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий вклад ИИ-услуг и инвестиций в основной капитал в динамику национальных счетов, не является фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant la contribution des services d’intelligence artificielle et de la formation brute de capital fixe à la croissance macroéconomique, et non une photographie réelle."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-12/amd-agentic-ai-token-economics-nasa-lisa-gravitational-exoplanets-2026-11-12-editorial.webp",
+      "sha256": "76d27750c1d4abb5e3638c1fdbdf6733ed73a5ab377617687ea3791f80d44ba4",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「AMD 智能体 AI 算力成本优化框架与 NASA LISA 空间激光干涉引力波探测系外行星研究」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（深藏蓝、灰蓝、暖石色、暖象牙白，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的深灰板岩切片（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩科研与算力器物——三枚呈等边三角形平放于透明磨砂玻璃板上的精密黄铜光学反射镜座模型、一颗悬浮于黄铜细环上的哑光陶土小行星球体模型、以及一台哑光深蓝金属微型 GPU 加速卡散热模组——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-12 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现企业智能体AI算力路由优化与空间激光干涉引力波天体物理建模的编辑静物插画，非真实数据中心或航天器摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现企业智能体AI算力路由优化与空间激光干涉引力波天体物理建模的编辑静物插画，非真实数据中心或航天器摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現企業智慧體AI算力路由最佳化與空間雷射干涉重力波天體物理建模的編輯靜物插畫，非真實資料中心或太空船攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept depicting enterprise agentic AI token routing and space-based gravitational-wave astrophysics modeling, not an actual laboratory or spacecraft photograph.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий маршрутизацию вычислительных потоков ИИ и космическую гравитационно-волновую интерферометрию, не является фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale évoquant le routage des charges d’IA agentique et l’interférométrie gravitationnelle spatiale, et non une photographie de laboratoire ou d’engin spatial."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-12/cop31-antalya-leaders-methane-summit-oecd-climate-club-2026-11-12-editorial.webp",
+      "sha256": "baacd1a9ccb866e7a0050673c4477e57b29a41aef72a3f2a1e4b6a767587c306",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「联合国 COP31 安塔利亚甲烷减排峰会与 OECD 气候俱乐部工业脱碳国别平台指南」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（鼠尾草绿、深藏蓝、暖象牙白、暖石色，少量低饱和酒红点缀），桌面平铺一块低矮平整的浅灰花岗岩石板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩能源与工业减排器物——一只密封在透明厚壁方型玻璃罩内的无字哑光黄铜气体密封球阀模型、一座微型磨砂绿玻璃与哑光银金属储氢罐模型、以及一本无字鼠尾草绿亚麻布面精装手册——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-12 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现甲烷与非二氧化碳排放控制及重工业脱碳国别融资平台建设的编辑静物插画，非真实工业或会场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现甲烷与非二氧化碳排放控制及重工业脱碳国别融资平台建设的编辑静物插画，非真实工业或会场摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現甲烷與非二氧化碳排放控制及重工業脫碳國別融資平台建設的編輯靜物插畫，非真實工業或會場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept representing methane abatement and industrial decarbonization country platforms, not a photograph of an actual industrial facility or summit venue.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий сокращение выбросов метана и страновые платформы декарбонизации тяжелой индустрии, не является фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant la réduction des émissions de méthane et les plateformes nationales de décarbonation de l’industrie lourde, et non une photographie réelle."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-12/epc-dublin-ninth-summit-wmo-multi-hazard-early-warning-2026-11-12-editorial.webp",
+      "sha256": "b629f702b2317020139f3b21de0425d66af5e3b5360c88bad69132724079019c",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「第九届欧洲政治共同体都柏林领导人峰会与世界气象组织 2026 全球多灾种早期预警系统现状报告」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（灰蓝、深藏蓝、暖石色、暖象牙白，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的灰蓝色天然板岩（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩气象观测与多边治理器物——一架精密黄铜与哑光白陶瓷质感的微型三杯风速计模型、一只透明玻璃水文观测烧杯、以及一只置于胡桃木托盘上的哑光黄铜会议桌铃——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-12 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现跨欧首脑多边峰会协调与全球多灾种气象水文早期预警网络建设的编辑静物插画，非真实会场或气象站摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现跨欧首脑多边峰会协调与全球多灾种气象水文早期预警网络建设的编辑静物插画，非真实会场或气象站摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現跨歐元首多邊峰會協調與全球多災種氣象水文早期預警網路建設的編輯靜物插畫，非真實會場或氣象站攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept depicting pan-European summit diplomacy and global multi-hazard meteorological early warning infrastructure, not an actual summit or weather station photo.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий общеевропейскую дипломатию и глобальную сеть раннего метеорологического предупреждения, не является фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant la concertation diplomatique paneuropéenne et les réseaux mondiaux d’alerte météorologique précoce, et non une photographie réelle."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-12/fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12-editorial.webp",
+      "sha256": "75724468bac686a27d6e563c111c73992733284e170bfa8bdf8654aa8cdb8137",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「美国 FDA 卵巢癌抗体偶联药物维持治疗获益风险研讨会与世卫组织宣布肯尼亚启动埃博拉清零倒计时」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（暖象牙白、鼠尾草绿、深藏蓝、暖石色，少量低饱和琥珀色点缀），桌面平铺一块低矮平整的透明磨砂玻璃长方板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩医学与生物安全器物——一座插有三支密封透明玻璃安瓿瓶的胡桃木试管架、一枚精致的哑光白陶与黄铜双链分子结构模型、以及一只流淌暖琥珀色细沙的极简木框玻璃沙漏——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-12 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现肿瘤维持治疗获益风险审评框架与传染病42天清零监测倒计时的编辑静物插画，非真实实验室或病房摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现肿瘤维持治疗获益风险审评框架与传染病42天清零监测倒计时的编辑静物插画，非真实实验室或病房摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現腫瘤維持治療獲益風險審評框架與傳染病42天清零監測倒數計時的編輯靜物插畫，非真實實驗室或病房攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept representing oncology maintenance benefit-risk trial evaluation and infectious disease surveillance countdowns, not a clinical photograph.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий оценку соотношения пользы и риска в онкологии и эпидемиологический отсчет ВОЗ, не является клинической фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant l’évaluation du rapport bénéfice-risque en oncologie et le compte à rebours épidémiologique de l’OMS, et non une photographie clinique."
+      }
+    },
+    {
+      "localPath": "/news-media/2026-11-12/oecd-international-migration-outlook-2026-ilo-opt-recovery-funding-2026-11-12-editorial.webp",
+      "sha256": "1fa78613ab3f063379fddcff5e43d852e6bb133f05a81702b1f0cb13f9b1e9b2",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "prompt": "为「OECD 发布第 50 期《2026 国际移民展望》旗舰报告与国际劳工组织推进就业复苏计划筹资」创作一张精致的国际新闻杂志编辑概念静物插画，采用微距工作室桌面静物摄影与手作纸艺、哑光陶土、天然石材、磨砂玻璃、温润木质与哑光金属结合的质感。画面设定在安静的工作室工作台面上，背景为柔和交叠的哑光大色块卡纸平面（暖石色、灰蓝、鼠尾草绿、暖象牙白，少量低饱和酒红点缀），桌面平铺一块低矮平整的暖米色砂岩石板（不要多层圆盘蛋糕底座或神坛式阶梯台座）。以 3 件高度具象、做工考究的微缩劳动流动与重建器物——一只复古哑光深蓝皮革与黄铜搭扣的微缩公文手提箱模型、两块精确咬合的胡桃木与哑光白陶拼图砌块、以及一把木柄黄铜泥瓦匠抹刀模型——构成克制、平衡的桌面静物组合，柔和侧光与真实细腻的桌面接触阴影。横向 16:9，核心静物集中在画面中央约 55% 区域。画面必须明显是编辑概念静物作品，不要伪装成真实新闻现场；严禁出现任何文字、字母、数字、刻度、Logo、水印、真实人物或人脸、旗帜、地图、图表曲线或箭头。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-12 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "caption": "AI生成示意图：概念性呈现跨国劳动力流动融合与冲突地区就业岗位重建筹资的编辑静物插画，非真实口岸或工地现场摄影。",
+      "captions": {
+        "zh-CN": "AI生成示意图：概念性呈现跨国劳动力流动融合与冲突地区就业岗位重建筹资的编辑静物插画，非真实口岸或工地现场摄影。",
+        "zh-TW": "AI生成示意圖：概念性呈現跨國勞動力流動融合與衝突地區就業職位重建籌資的編輯靜物插畫，非真實口岸或工地現場攝影。",
+        "en": "AI-generated illustration: Editorial still-life concept depicting cross-border labor mobility integration and post-crisis employment reconstruction funding, not an actual field photograph.",
+        "ru": "Иллюстрация ИИ: концептуальный редакционный натюрморт, символизирующий интеграцию трудовых мигрантов и финансирование программ восстановления рабочих мест, не является фотографией.",
+        "fr": "Illustration générée par IA : nature morte éditoriale illustrant l’intégration professionnelle des travailleurs migrants et le financement de la reconstruction de l’emploi, et non une photographie de terrain."
+      }
+    }
+  ]
+}

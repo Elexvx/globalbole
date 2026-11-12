@@ -1,0 +1,31 @@
+{
+  "issue": "2026-11-12",
+  "publicationDate": "2026-11-12",
+  "reviewedAt": "2026-11-12T09:00:00Z",
+  "locales": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedArticles": [
+    "uk-ons-q3-gdp-ai-services-growth-business-investment-2026-11-12",
+    "amd-agentic-ai-token-economics-nasa-lisa-gravitational-exoplanets-2026-11-12",
+    "cop31-antalya-leaders-methane-summit-oecd-climate-club-2026-11-12",
+    "epc-dublin-ninth-summit-wmo-multi-hazard-early-warning-2026-11-12",
+    "fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12",
+    "oecd-international-migration-outlook-2026-ilo-opt-recovery-funding-2026-11-12"
+  ],
+  "deferredCandidates": [
+    {
+      "candidate": "shanghai-minhang-grid-planned-outage-notice-2026-11-12",
+      "reason": "Deferred because the State Grid 95598 Minhang District planned outage notice concerns routine municipal distribution maintenance rather than national energy policy or grid capacity developments."
+    },
+    {
+      "candidate": "nasa-apod-moon-venus-spica-conjunction-2026-11-12",
+      "reason": "Deferred because NASA Astronomy Picture of the Day is a daily skywatching outreach feature rather than a new spaceflight engineering or scientific research milestone."
+    }
+  ],
+  "mediaSummary": "All six 2026-11-12 stories use dedicated 16:9 tactile tabletop still-life conceptual editorial illustrations visibly labeled in all five language editions."
+}

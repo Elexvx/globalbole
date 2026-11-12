@@ -1,0 +1,39 @@
+---
+title: "Neuf pays européens s’alignent sur la prorogation à 2031 des sanctions de l’UE contre les armes chimiques tandis que la CISA impose un correctif Outlook"
+slug: "eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11"
+translationKey: "eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11"
+issue: "2026-11-11"
+lang: "fr"
+category: "current-affairs"
+author: "全球伯乐 News"
+authorRole: "Rédaction Affaires internationales et Conformité sécuritaire"
+date: "2026-11-11"
+description: "Neuf États partenaires se sont alignés sur la décision (PESC) 2026/2286 prolongeant le régime de sanctions contre les armes chimiques jusqu’en 2031, le Comité mixte Royaume-Uni–UE a adopté la décision n° 2/2026 et l’agence américaine CISA a fixé au 24 novembre la correction de la faille CVE-2026-124194."
+cover: "/news-media/2026-11-11/eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11-editorial.webp"
+coverAlt: "Illustration générée par IA : nature morte sur table réunissant un cadenas en laiton mat et noyer, un flacon d’échantillonnage scellé en verre borosilicaté et un dossier en papier kraft vierge sur une dalle de basalte"
+tags: ["Affaires internationales","Union européenne","Politique technologique"]
+readTime: 5
+draft: false
+---
+
+Entre le 10 et le 11 novembre 2026, les autorités européennes et nord-américaines ont officialisé une série de mesures touchant à la non-prolifération, à la gouvernance des traités et à la cyberdéfense : à Bruxelles, [le Haut Représentant de l’Union européenne a annoncé l’alignement de neuf pays partenaires sur la décision (PESC) 2026/2286 du Conseil prorogeant jusqu’au 30 octobre 2031 le cadre de mesures restrictives contre la prolifération et l’utilisation d’armes chimiques](https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/)[^1]. Le même jour à Londres, [le Cabinet Office britannique a publié la décision n° 2/2026 adoptée par le Comité mixte de l’accord de retrait Royaume-Uni–UE ainsi qu’une déclaration commune sur l’article 5 du cadre de Windsor](https://www.gov.uk/government/publications/decision-no-22026-of-the-joint-committee-established-by-the-agreement-on-the-withdrawal-of-the-uk-from-the-eu-amending-part-i-of-annex-i-to-the-agreem)[^2], tandis qu’à Washington [le NIST et l’agence CISA ont inscrit la vulnérabilité Microsoft Office Outlook CVE-2026-124194 au catalogue des failles activement exploitées (KEV)](https://nvd.nist.gov/vuln/detail/cve-2026-124194) avec une échéance de correction fixée au 24 novembre[^3].
+
+![Illustration générée par IA : nature morte sur table réunissant un cadenas en laiton mat et noyer, un flacon d’échantillonnage scellé en verre borosilicaté et un dossier en papier kraft vierge sur une dalle de basalte](/news-media/2026-11-11/eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11-editorial.webp)
+
+Illustration générée par IA : nature morte éditoriale illustrant la prorogation des régimes de non-prolifération, l’ajustement des traités européens et les directives fédérales de cybersécurité, et non une scène réelle.
+
+## Prorogation quinquennale du régime européen contre les armes chimiques et décision n° 2/2026 du Comité mixte Royaume-Uni–UE
+
+Selon [le communiqué officiel du Conseil de l’Union européenne](https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/), la décision (PESC) 2026/2286 modifiant la décision (PESC) 2018/1544 prolonge de cinq ans, jusqu’au 30 octobre 2031, l’application générale du régime de lutte contre les armes chimiques, tout en reconduisant jusqu’au 30 octobre 2027 les gels d’avoirs et restrictions visant les personnes et entités inscrites en annexe[^1]. L’Albanie, la Bosnie-Herzégovine, l’Islande, le Liechtenstein, la République de Moldavie, le Monténégro, la Macédoine du Nord, la Norvège et l’Ukraine se sont formellement engagés à aligner leurs politiques nationales sur cette décision du Conseil[^1].
+
+Dans le même temps, [le Cabinet Office du Royaume-Uni a rendu publique le 10 novembre la décision n° 2/2026 adoptée lors de la réunion du Comité mixte de l’accord de retrait](https://www.gov.uk/government/publications/decision-no-22026-of-the-joint-committee-established-by-the-agreement-on-the-withdrawal-of-the-uk-from-the-eu-amending-part-i-of-annex-i-to-the-agreem), qui modifie la partie I de l’annexe I relative à la coordination des régimes de sécurité sociale, accompagnée d’une déclaration conjointe sur l’application de l’article 5 du cadre de Windsor (Windsor Framework) régissant les flux douaniers[^2]. Ces textes témoignent d’une gestion technique continue des engagements post-Brexit entre Londres et Bruxelles[^2].
+
+## Directive BOD 26-04 de la CISA et obligation de correctif avant le 24 novembre pour la faille Outlook CVE-2026-124194
+
+Sur le terrain de la cybersécurité gouvernementale, [la fiche CVE-2026-124194 publiée le 10 novembre par la base nationale des vulnérabilités (NVD) du NIST](https://nvd.nist.gov/vuln/detail/cve-2026-124194) documente un défaut d’interface utilisateur dans Microsoft Office Outlook (CWE-356, score CVSS 3.1 de 6,5) qui omet d’avertir l’utilisateur lors d’actions potentiellement dangereuses et permet à un attaquant distant non authentifié de mener une usurpation (spoofing) sur le réseau avec un impact élevé sur la confidentialité[^3]. Sont concernées les éditions 32 bits et 64 bits de Microsoft 365 Apps for Enterprise, Microsoft Office LTSC 2021 (versions antérieures à 16.0.14334.21048) et Microsoft Office LTSC 2024 (versions antérieures à 16.0.17932.21140)[^3].
+
+Cette faille faisant l’objet d’une exploitation active, [l’agence américaine CISA l’a ajoutée le 10 novembre à son catalogue KEV en imposant aux agences fédérales d’appliquer les correctifs d’ici le 24 novembre 2026](https://nvd.nist.gov/vuln/detail/cve-2026-124194)[^3]. L’injonction exige le respect conjoint de la directive BOD 22-01, de la nouvelle directive BOD 26-04 (« Priorisation des mises à jour de sécurité fondée sur les risques ») et des exigences de triage médico-légal (Forensics Triage Requirements) de la CISA, ou l’arrêt immédiat du logiciel si aucune mesure d’atténuation n’est disponible[^3]. Qu’il s’agisse des régimes de non-prolifération à horizon 2031, des annexes douanières du cadre de Windsor ou des délais de 14 jours imposés par la CISA, les juridictions occidentales resserrent simultanément leurs mécanismes de conformité juridique et technique[^1][^2][^3].
+
+[^1]: 2026-11-10 · [Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons](https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/) · Conseil de l’Union européenne.
+[^2]: 2026-11-10 · [Decision No 2/2026 of the Joint Committee established by the Agreement on the withdrawal of the UK from the EU: amending Part I of Annex I to the Agreement](https://www.gov.uk/government/publications/decision-no-22026-of-the-joint-committee-established-by-the-agreement-on-the-withdrawal-of-the-uk-from-the-eu-amending-part-i-of-annex-i-to-the-agreem) · Cabinet Office du Royaume-Uni.
+[^3]: 2026-11-10 · [NVD-CVE-2026-124194](https://nvd.nist.gov/vuln/detail/cve-2026-124194) · National Institute of Standards and Technology (NIST / CISA).

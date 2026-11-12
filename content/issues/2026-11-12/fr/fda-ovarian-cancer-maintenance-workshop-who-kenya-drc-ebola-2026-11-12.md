@@ -1,0 +1,39 @@
+---
+title: "La FDA réévalue le rapport bénéfice-risque des traitements d’entretien du cancer de l’ovaire tandis que le Kenya entame son compte à rebours Ebola"
+slug: "fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12"
+translationKey: "fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12"
+issue: "2026-11-12"
+lang: "fr"
+category: "innovation"
+author: "全球伯乐 News"
+authorRole: "Rédaction R&D médicale et Sécurité sanitaire mondiale"
+date: "2026-11-12"
+description: "Le centre d’oncologie de la FDA américaine a ouvert un atelier public sur l’évaluation de la survie et de la toxicité des conjugués anticorps-médicament (ADC) dans le cancer de l’ovaire, tandis que le Kenya a lancé son compte à rebours de 42 jours après la sortie de son dernier patient Ebola et que l’OMS a recommandé deux candidats vaccins contre le virus Bundibugyo."
+cover: "/news-media/2026-11-12/fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12-editorial.webp"
+coverAlt: "Illustration générée par IA : nature morte sur table réunissant un portoir en noyer à trois ampoules de verre scellées, un modèle moléculaire en céramique blanche mate et laiton et un sablier à sable ambré sur verre dépoli"
+tags: ["Innovation industrielle","Politiques publiques","États-Unis"]
+readTime: 5
+draft: false
+---
+
+Entre le 11 et le 12 novembre 2026, la réglementation oncologique et la veille épidémiologique internationale ont franchi deux étapes notables : le 12 novembre, [le centre d’excellence en oncologie de la Food and Drug Administration (FDA) américaine a ouvert la première journée de son atelier public consacré à la balance bénéfice-toxicité des traitements d’entretien du cancer de l’ovaire](https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-public-virtual-only-workshop-maintenance-treatment-ovarian-cancer-workshop-weighing-benefit-and), notamment les conjugués anticorps-médicament (ADC)[^1]. Le même jour, [le ministère kényan de la Santé et le bureau régional de l’OMS pour l’Afrique ont annoncé le démarrage, le 12 novembre, d’un compte à rebours de 42 jours vers la déclaration de fin d’épidémie d’Ebola après la sortie du dernier patient guéri](https://www.afro.who.int/countries/kenya/news/kenyas-last-ebola-patient-goes-home-42-day-countdown-begins)[^2], tandis qu’à Genève [le directeur général de l’OMS, Tedros Adhanom Ghebreyesus, a annoncé la recommandation de deux candidats vaccins spécifiques au virus Bundibugyo face à l’épidémie en République démocratique du Congo (RDC)](https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026)[^3].
+
+![Illustration générée par IA : nature morte sur table réunissant un portoir en noyer à trois ampoules de verre scellées, un modèle moléculaire en céramique blanche mate et laiton et un sablier à sable ambré sur verre dépoli](/news-media/2026-11-12/fda-ovarian-cancer-maintenance-workshop-who-kenya-drc-ebola-2026-11-12-editorial.webp)
+
+Illustration générée par IA : nature morte éditoriale illustrant l’évaluation du rapport bénéfice-risque en oncologie et le compte à rebours épidémiologique de l’OMS, et non une photographie clinique.
+
+## Atelier de la FDA sur le cancer de l’ovaire : survie sans progression, surveillance de la survie globale et biomarqueurs prédictifs
+
+Selon [le document de cadrage publié par la FDA](https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-public-virtual-only-workshop-maintenance-treatment-ovarian-cancer-workshop-weighing-benefit-and) (pour les sessions des 12 et 19 novembre 2026), l’essor de nouvelles molécules d’entretien du cancer de l’ovaire — en particulier les conjugués anticorps-médicament (ADC) — s’accompagne de toxicités cumulatives importantes chez des patientes traitées au long cours[^1]. Les travaux visent à préciser l’ampleur du gain de survie sans progression (PFS) requis pour justifier ces traitements dans les décisions d’homologation[^1].
+
+Surtout, [la FDA insiste sur l’intégration systématique de la survie globale (OS) dans l’architecture des essais cliniques afin de détecter tout effet délétère potentiel sur la survie globale (OS detriment) lié à la toxicité à long terme](https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-public-virtual-only-workshop-maintenance-treatment-ovarian-cancer-workshop-weighing-benefit-and), tout en optimisant les schémas posologiques et l’usage de biomarqueurs prédictifs[^1].
+
+## Le Kenya entame son compte à rebours de 42 jours après le suivi de 135 contacts, tandis que l’OMS élargit les essais vaccinaux en RDC
+
+En Afrique de l’Est, la réactivité du traçage épidémiologique a permis de circonscrire une importation virale. Comme l’ont détaillé [le ministre kényan de la Santé Aden Duale et le Dr Abdourahmane Diallo pour l’OMS Afrique](https://www.afro.who.int/countries/kenya/news/kenyas-last-ebola-patient-goes-home-42-day-countdown-begins), après la confirmation le 6 octobre 2026 d’un premier cas de maladie à virus Bundibugyo chez un voyageur rentré de RDC via l’Ouganda, les équipes sanitaires ont identifié et placé en quarantaine l’intégralité des 135 personnes contacts[^2]. Les huit cas secondaires (quatre proches et quatre soignants) se trouvaient déjà en quarantaine lors de l’apparition des symptômes, empêchant toute transmission communautaire ; aucun nouveau cas n’a été enregistré depuis le 19 octobre, et sur les neuf cas confirmés, sept patients ont guéri et deux sont décédés[^2]. La sortie du dernier patient et des 11 derniers contacts le 11 novembre ouvre, à compter du 12 novembre, un compte à rebours de 42 jours qui permettra de déclarer le Kenya exempt d’Ebola le 23 décembre 2026 en l’absence de nouveau cas[^2].
+
+En revanche, l’épidémie demeure critique en République démocratique du Congo, où [le directeur général de l’OMS a fait état le 11 novembre de près de 11 000 cas confirmés, plus de 5 300 décès et près de 3 000 guérisons dans huit provinces](https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026)[^3]. Soulignant que l’insécurité entrave gravement la riposte — une attaque à Cantine-Aloya ayant coûté la vie la semaine dernière à 66 civils dont trois soignants, détruit trois centres de santé et fait perdre la trace de plus de 1 000 contacts —, le Dr Tedros a annoncé qu’en sus de l’essai du vaccin Ervebo lancé en octobre, les groupes d’experts de l’OMS ont recommandé d’inclure deux candidats vaccins ciblant spécifiquement le virus Bundibugyo, tandis que Kinshasa a actualisé son plan national de riposte jusqu’en janvier 2027[^2][^3].
+
+[^1]: 2026-11-12 · [FDA Public Virtual Only Workshop: Maintenance Treatment for Ovarian Cancer Workshop: Weighing Benefit and Toxicity in an Evolving Landscape - 11/12/2026](https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-public-virtual-only-workshop-maintenance-treatment-ovarian-cancer-workshop-weighing-benefit-and) · Food and Drug Administration des États-Unis (FDA).
+[^2]: 2026-11-11 · [Kenya's last Ebola patient goes home as 42-day countdown begins](https://www.afro.who.int/countries/kenya/news/kenyas-last-ebola-patient-goes-home-42-day-countdown-begins) · Bureau régional de l’OMS pour l’Afrique.
+[^3]: 2026-11-11 · [WHO Director-General's opening remarks at the Member State briefing on Ebola outbreak in the Democratic Republic of the Congo – 11 November 2026](https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026) · Organisation mondiale de la santé (OMS).

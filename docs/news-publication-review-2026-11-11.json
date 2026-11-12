@@ -1,0 +1,31 @@
+{
+  "issue": "2026-11-11",
+  "publicationDate": "2026-11-11",
+  "reviewedAt": "2026-11-11T09:00:00Z",
+  "locales": [
+    "zh-CN",
+    "zh-TW",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "selectedArticles": [
+    "ibm-quantum-nighthawk-r3-amd-epyc-9006-agentic-ai-2026-11-11",
+    "boe-hall-ai-agents-financial-stability-ecb-wealth-inequality-2026-11-11",
+    "cop31-antalya-35-by-35-electrification-doe-elkhorn-loan-2026-11-11",
+    "fda-pimicotinib-tgct-approval-who-science-health-movement-2026-11-11",
+    "eu-chemical-weapons-sanctions-alignment-uk-windsor-framework-2026-11-11",
+    "ilo-gb358-regular-budget-contingency-ftc-hims-health-privacy-2026-11-11"
+  ],
+  "deferredCandidates": [
+    {
+      "candidate": "nea-shanxi-jincheng-power-license-representative-change-2026-11-11",
+      "reason": "Deferred because the Shanxi Energy Regulatory Office public notice (No. 289 of 2026) concerns a routine corporate legal representative registration change for a local power generation license rather than national energy policy or grid capacity developments."
+    },
+    {
+      "candidate": "yingkou-municipal-marine-wave-forecast-2026-11-11",
+      "reason": "Deferred because the Yingkou Municipal Marine and Fishery Development Service Center bulletin is a routine 24-hour local coastal wave height forecast rather than a major scientific, environmental, or policy event."
+    }
+  ],
+  "mediaSummary": "All six 2026-11-11 stories use dedicated 16:9 tactile tabletop still-life conceptual editorial illustrations visibly labeled in all five language editions."
+}
