@@ -26,29 +26,29 @@ Le 10 octobre, la RBI encadre les couvertures et fournit des dollars.[^1]
 
 Dès le 12 octobre, la RBI couvrira tous les besoins quotidiens en dollars d’Indian Oil, Hindustan Petroleum et Bharat Petroleum jusqu’à nouvel ordre.[^2]
 
-Déplacer une transaction hors du marché ouvert ne supprime pas le besoin économique sous-jacent. Le pétrole doit toujours être payé. Un guichet dédié change le fournisseur immédiat de devises et peut réduire la concurrence entre les autres acheteurs de dollars. Il ne fait disparaître ni la facture d’importation ni les contraintes économiques liées à l’achat de pétrole.
+Sortir une transaction du marché ouvert ne fait pas disparaître le besoin économique. Le pétrole doit toujours être payé. Un guichet dédié change le fournisseur immédiat de devises. Il peut réduire la concurrence entre les autres acheteurs de dollars. La facture d’importation demeure. Les contraintes économiques liées à l’achat de pétrole aussi.
 
-L’évaluation de la politique doit donc distinguer deux résultats : une éventuelle stabilisation du change et la quantité de devises officielles nécessaire pour l’obtenir. Une stabilité apparente identique peut correspondre à des pressions très différentes sur le bilan de la banque centrale.
+Pour juger la politique, deux résultats. Le change s’est-il stabilisé ? Et quelle quantité de devises officielles a-t-il fallu pour y parvenir ? Une stabilité apparente identique peut correspondre à des pressions très différentes sur le bilan de la banque centrale.
 
 ## Vérification et financement : deux mécanismes
 
-Le plafond d’encours sans justificatif passe de 100 à 5 millions de dollars, agrégé séparément par intermédiaires et Bourses. La réouverture des contrats annulés en roupies est interdite ; les reconductions à échéance restent permises.[^3]
+Le plafond d’encours sans justificatif passe de 100 à 5 millions de dollars, agrégé séparément par intermédiaires et Bourses. La réouverture des contrats annulés en roupies est interdite. Les reconductions à échéance restent permises.[^3]
 
-Couvertures supérieures possibles avec justificatifs.[^1]
+Avec justificatifs, des couvertures supérieures restent possibles.[^1]
 
-Pour les couvertures d’achats de devises sur opérations courantes supérieures à 2 millions de dollars conclues après publication des instructions, les banques immobilisent en espèces 20% du notionnel converti en roupies jusqu’à cessation du contrat.[^4]  Les intermédiaires exigent une déclaration contre les doubles couvertures.[^1]
+Pour les couvertures d’achats de devises sur opérations courantes supérieures à 2 millions de dollars conclues après publication des instructions, les banques immobilisent en espèces 20% du notionnel converti en roupies jusqu’à cessation du contrat.[^4] Les intermédiaires exigent une déclaration contre les doubles couvertures.[^1]
 
-Ces différences comptent pour distinguer paiement d’importation, contrat de couverture de ce paiement et position spéculative.
+Paiement d’importation, contrat de couverture de ce paiement, position spéculative : ces différences comptent, et les trois ne se confondent pas.
 
-La vérification cherche à relier une position financière à une obligation sous-jacente. Une réserve détermine les ressources mobilisées pendant la détention du contrat. Les deux outils peuvent se renforcer, mais traitent des problèmes distincts. De meilleurs documents ne fournissent pas de devises ; une couverture plus coûteuse ne supprime pas le risque commercial qu’elle vise à gérer.
+La vérification cherche à relier une position financière à une obligation sous-jacente. Une réserve détermine les ressources mobilisées pendant la détention du contrat. Les deux outils peuvent se renforcer. Ils traitent des problèmes distincts. De meilleurs documents ne fournissent pas de devises. Une couverture plus coûteuse ne supprime pas le risque commercial qu’elle vise à gérer.
 
 ## Un premier mouvement ne suffit pas
 
 Reuters fait état d’une baisse annuelle de la roupie supérieure à 7%, puis d’un rebond offshore d’environ 0,6% après l’annonce, dans des échanges peu fournis.[^5]
 
-Cette réaction ne démontre pas un changement durable de l’offre et de la demande de dollars. Un marché peu actif donne une indication moins complète de la manière dont l’ensemble des participants absorbera les règles. Le test utile viendra avec la reprise des transactions ordinaires et les décisions des entreprises sur leur niveau de protection.
+Ce rebond ne démontre pas un changement durable de l’offre et de la demande de dollars. Un marché peu actif donne une indication moins complète de la manière dont l’ensemble des participants absorbera les règles. Le test utile viendra avec la reprise des transactions ordinaires, et avec les décisions des entreprises sur leur niveau de protection.
 
-L’arbitrage dépasse ainsi la hausse ponctuelle de la roupie. Soulager un marché peut transférer la pression aux réserves officielles, au financement bancaire ou à la trésorerie des entreprises. Une appréciation durable doit examiner ces canaux ensemble, ainsi que les besoins persistants en devises de l’économie réelle.
+L’arbitrage dépasse la hausse ponctuelle de la roupie. Soulager un marché peut transférer la pression aux réserves officielles, au financement bancaire ou à la trésorerie des entreprises. Une appréciation durable s’examine sur ces canaux ensemble, avec les besoins persistants en devises de l’économie réelle.
 
 [^1]: 2026-10-10 · [RBI Announces Regulatory Measures for the Foreign Exchange Market](https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63783) · RBI
 
