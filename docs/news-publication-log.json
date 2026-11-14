@@ -6753,6 +6753,288 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-13-five-locales",
+      "issue": "2026-11-13",
+      "publicationDate": "2026-11-13",
+      "publicationStatus": "release-ready",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13",
+          "slug": "mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13",
+          "category": "business",
+          "status": "published",
+          "cover": "/news-media/2026-11-13/mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y12r/index.html",
+              "title": "商务部召开例行新闻发布会（2026年11月12日）",
+              "publisher": "中华人民共和国商务部",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202611/t20261112_1408795.html",
+              "title": "2026年11月12日国内成品油价格调整",
+              "publisher": "中华人民共和国国家发展和改革委员会",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "translationKey": "itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13",
+          "slug": "itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13",
+          "category": "technology",
+          "status": "published",
+          "cover": "/news-media/2026-11-13/itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-12-SG-Election.aspx",
+              "title": "ITU Member States re-elect Doreen Bogdan-Martin as Secretary-General",
+              "publisher": "International Telecommunication Union (ITU)",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en",
+              "title": "EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals",
+              "publisher": "European Commission",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission",
+              "title": "The Genesis Mission",
+              "publisher": "U.S. Department of Energy",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "translationKey": "who-global-tuberculosis-report-domestic-investment-2026-11-13",
+          "slug": "who-global-tuberculosis-report-domestic-investment-2026-11-13",
+          "category": "innovation",
+          "status": "published",
+          "cover": "/news-media/2026-11-13/who-global-tuberculosis-report-domestic-investment-2026-11-13-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+              "title": "Amid challenges, countries increase domestic investment to protect progress against tuberculosis",
+              "publisher": "World Health Organization (WHO)",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "translationKey": "unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13",
+          "slug": "unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13",
+          "category": "energy",
+          "status": "published",
+          "cover": "/news-media/2026-11-13/unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13-editorial.webp",
+          "sources": [
+            {
+              "url": "https://unfccc.int/news/new-un-climate-change-report-highlights-what-it-takes-to-scale-up-industrial-climate-action",
+              "title": "New UN Climate Change report highlights what it takes to scale up industrial climate action",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://unfccc.int/news/in-a-world-of-suffocating-disasters-action-on-methane-offers-breathing-space-un-climate-chief-at",
+              "title": "“Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" UN Climate Chief at COP31 today",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "translationKey": "wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13",
+          "slug": "wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13",
+          "category": "current-affairs",
+          "status": "published",
+          "cover": "/news-media/2026-11-13/wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13-editorial.webp",
+          "sources": [
+            {
+              "url": "https://wmo.int/media/news/escalating-hazards-demand-escalated-action",
+              "title": "Escalating hazards demand escalated action",
+              "publisher": "World Meteorological Organization (WMO)",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "translationKey": "ilo-governing-body-social-dialogue-youth-skills-2026-11-13",
+          "slug": "ilo-governing-body-social-dialogue-youth-skills-2026-11-13",
+          "category": "work-life",
+          "status": "published",
+          "cover": "/news-media/2026-11-13/ilo-governing-body-social-dialogue-youth-skills-2026-11-13-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.ilo.org/resource/record-decisions/gb/gb358/decision-concerning-follow-resolution-concerning-third-recurrent-discussion",
+              "title": "Decision concerning the follow-up to the resolution concerning the third recurrent discussion on social dialogue and tripartism",
+              "publisher": "International Labour Organization (ILO)",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.ilo.org/resource/news/international-conference-baghdad-highlights-how-decent-work-strengthens",
+              "title": "International conference in Baghdad highlights how decent work strengthens youth opportunities and active citizenship",
+              "publisher": "International Labour Organization (ILO)",
+              "publishedDate": "2026-11-12"
+            },
+            {
+              "url": "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity",
+              "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
+              "publisher": "Bank for International Settlements (BIS)",
+              "publishedDate": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-five-locales",
+      "issue": "2026-11-14",
+      "publicationDate": "2026-11-14",
+      "publicationStatus": "release-ready",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14",
+          "slug": "unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14",
+          "category": "technology",
+          "status": "published",
+          "cover": "/news-media/2026-11-14/unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14-editorial.webp",
+          "sources": [
+            {
+              "url": "https://unfccc.int/news/cop31-new-global-priorities-target-role-of-ai-in-climate-information-integrity",
+              "title": "COP31: New global priorities target role of AI in climate information integrity",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)",
+              "publishedDate": "2026-11-13"
+            },
+            {
+              "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-13-Directors-Election.aspx",
+              "title": "ITU elects senior leaders in radiocommunication, standardization and development",
+              "publisher": "International Telecommunication Union (ITU)",
+              "publishedDate": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "translationKey": "fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14",
+          "slug": "fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14",
+          "category": "innovation",
+          "status": "published",
+          "cover": "/news-media/2026-11-14/fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-durvalumab-enfortumab-vedotin-ejfv-muscle-invasive-bladder-cancer",
+              "title": "FDA approves durvalumab with enfortumab vedotin-ejfv for muscle invasive bladder cancer",
+              "publisher": "U.S. Food and Drug Administration (FDA)",
+              "publishedDate": "2026-11-13"
+            },
+            {
+              "url": "https://www.who.int/news/item/13-11-2026-put-health-in-the-treaty---youth-delegates-at-the-global-model-who-2026-adopt-declaration-on-plastics-and-health",
+              "title": "\"Put health in the treaty\": youth delegates at the Global Model WHO 2026 adopt declaration on plastics and health",
+              "publisher": "World Health Organization (WHO)",
+              "publishedDate": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "translationKey": "doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14",
+          "slug": "doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14",
+          "category": "energy",
+          "status": "published",
+          "cover": "/news-media/2026-11-14/doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/accelerating-delivery-fusion-energy",
+              "title": "Accelerating Delivery of Fusion Energy",
+              "publisher": "U.S. Department of Energy (DOE)",
+              "publishedDate": "2026-11-13"
+            },
+            {
+              "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/transforming-nuclear-cleanup-and-restoration",
+              "title": "Transforming Nuclear Cleanup and Restoration",
+              "publisher": "U.S. Department of Energy (DOE)",
+              "publishedDate": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "translationKey": "eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14",
+          "slug": "eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14",
+          "category": "current-affairs",
+          "status": "published",
+          "cover": "/news-media/2026-11-14/eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14-editorial.webp",
+          "sources": [
+            {
+              "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+              "title": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
+              "publisher": "European Commission Directorate-General for International Partnerships",
+              "publishedDate": "2026-11-13"
+            },
+            {
+              "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
+              "title": "Oil Coordination Group confirms continued supply stability across the EU",
+              "publisher": "European Commission Directorate-General for Energy",
+              "publishedDate": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "translationKey": "imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14",
+          "slug": "imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14",
+          "category": "business",
+          "status": "published",
+          "cover": "/news-media/2026-11-14/imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.imf.org/en/news/articles/2026/11/13/pr26361-vietnam-imf-staff-completes-2026-article-iv-mission",
+              "title": "IMF Staff Completes 2026 Article IV Mission to Vietnam",
+              "publisher": "International Monetary Fund (IMF)",
+              "publishedDate": "2026-11-13"
+            },
+            {
+              "url": "https://www.csrc.gov.cn/csrc/c100102/c7670715/content.shtml",
+              "title": "从事证券服务业务资产评估机构注销备案名单（2026年11月13日）",
+              "publisher": "中国证券监督管理委员会",
+              "publishedDate": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "translationKey": "ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14",
+          "slug": "ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14",
+          "category": "work-life",
+          "status": "published",
+          "cover": "/news-media/2026-11-14/ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14-editorial.webp",
+          "sources": [
+            {
+              "url": "https://www.ilo.org/resource/news/just-transition-pavilion-opens-cop31-decent-work-and-social-justice-gain",
+              "title": "Just Transition Pavilion opens at COP31 as decent work and social justice gain prominence in climate discussions",
+              "publisher": "International Labour Organization (ILO)",
+              "publishedDate": "2026-11-13"
+            },
+            {
+              "url": "https://unfccc.int/news/un-climate-chief-at-cop31-today-climate-finance-must-help-countries-break-free",
+              "title": "UN Climate Chief at COP31 today: \"Climate finance must help countries break free\"",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)",
+              "publishedDate": "2026-11-13"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [

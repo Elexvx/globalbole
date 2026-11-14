@@ -1,0 +1,125 @@
+{
+  "issue": "2026-11-14",
+  "reviewedAt": "2026-11-14T08:50:00Z",
+  "screenedCandidates": 8,
+  "publishedCount": 6,
+  "deferredCount": 2,
+  "published": [
+    {
+      "slug": "unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14",
+      "category": "technology",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://unfccc.int/news/cop31-new-global-priorities-target-role-of-ai-in-climate-information-integrity",
+        "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-13-Directors-Election.aspx"
+      ]
+    },
+    {
+      "slug": "fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14",
+      "category": "innovation",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.fda.gov/drugs/cancer-approvals/fda-approves-durvalumab-enfortumab-vedotin-ejfv-muscle-invasive-bladder-cancer",
+        "https://www.who.int/news/item/13-11-2026-put-health-in-the-treaty---youth-delegates-at-the-global-model-who-2026-adopt-declaration-on-plastics-and-health"
+      ]
+    },
+    {
+      "slug": "doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14",
+      "category": "energy",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.energy.gov/undersecretaryforscience/genesis-mission/accelerating-delivery-fusion-energy",
+        "https://www.energy.gov/undersecretaryforscience/genesis-mission/transforming-nuclear-cleanup-and-restoration"
+      ]
+    },
+    {
+      "slug": "eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14",
+      "category": "current-affairs",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+        "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en"
+      ]
+    },
+    {
+      "slug": "imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14",
+      "category": "business",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.imf.org/en/news/articles/2026/11/13/pr26361-vietnam-imf-staff-completes-2026-article-iv-mission",
+        "https://www.csrc.gov.cn/csrc/c100102/c7670715/content.shtml"
+      ]
+    },
+    {
+      "slug": "ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14",
+      "category": "work-life",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.ilo.org/resource/news/just-transition-pavilion-opens-cop31-decent-work-and-social-justice-gain",
+        "https://unfccc.int/news/un-climate-chief-at-cop31-today-climate-finance-must-help-countries-break-free"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "slug": "mot-yangtze-river-tidal-level-bulletin-2026-11-14",
+      "date": "2026-11-14",
+      "title": "2026年11月14日长江潮位",
+      "sourceUrl": "https://www.mot.gov.cn/fuwu/yujingtishi/cjshuiweichaowei/202611/t20261114_4227731.html",
+      "publisher": "中华人民共和国交通运输部长江航务管理局",
+      "status": "deferred",
+      "reason": "镇江（2.69米）、南京（2.73米）、白茆（1.64米）、芜湖（3.76米）站点每日08:00常规水文潮位表，无航运政策或应急响应变化，按编辑规范暂缓成稿。"
+    },
+    {
+      "slug": "mot-jiangyin-channel-buoy-68-unlit-notice-2026-11-13",
+      "date": "2026-11-13",
+      "title": "长江镇江航道处关于江阴水道航标失常的航道通告",
+      "sourceUrl": "https://www.mot.gov.cn/fuwu/yujingtishi/cjhangdaotonggao/202611/t20261113_4227726.html",
+      "publisher": "中华人民共和国交通运输部长江航务管理局（长江镇江航道处）",
+      "status": "deferred",
+      "reason": "江阴水道#68黑浮自11月13日19:40起单点航标夜间熄灯待修的局部航务例行通告，不涉及航道封航或宏观航运政策，按编辑规范暂缓成稿。"
+    }
+  ]
+}

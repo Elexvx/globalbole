@@ -1,0 +1,270 @@
+{
+  "issue": "2026-11-14",
+  "generatedAt": "2026-11-14T08:45:00Z",
+  "sourceDocument": {
+    "title": "Globalbole_2026_11_14_Issue_and_Illustrations",
+    "googleDocId": "1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls",
+    "url": "https://docs.google.com/document/d/1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls/edit"
+  },
+  "processingPipeline": "sharp(src).rotate().webp({ quality: 90, effort: 6 }) / libwebp q=90 m=6 with EXIF/IPTC/XMP stripped",
+  "assets": [
+    {
+      "slug": "unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14",
+      "category": "technology",
+      "publicPath": "/news-media/2026-11-14/unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14-editorial.webp",
+      "fileName": "unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls",
+      "docxRelationId": "rId9",
+      "docxMediaEntry": "word/media/image6.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 113280,
+      "sha256": "ac07fcdd1d4809ee6a6cdfda673ba0c3eb7258145342e30ca803c33633322778",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色板岩底座上嵌有拉丝黄铜音叉的透明光学玻璃立方体、哑光深海蓝矩形波导号角天线与盘绕编织紫铜线缆静物，象征人工智能气候信息完整性校准、全球无线电频谱治理与数据中心算力基础设施，并非COP31或国际电联会议现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色板岩底座上嵌有拉絲黃銅音叉的透明光學玻璃立方體、啞光深海藍矩形波導號角天線與盤繞編織紫銅線纜靜物，象徵人工智慧氣候資訊完整性校準、全球無線電頻譜治理與資料中心算力基礎設施，並非COP31或國際電聯會議現場照片。",
+        "en": "AI-generated editorial illustration: a clear optical glass cube encasing a brushed-brass tuning fork, a matte navy-blue rectangular horn waveguide antenna, and a coiled braided copper cable on a dark slate slab represent AI climate information integrity calibration, global radiocommunication spectrum governance, and data center connectivity, not a real COP31 or ITU conference photograph.",
+        "ru": "Иллюстрация, созданная ИИ: прозрачный куб из оптического стекла с латунным камертоном внутри, матовый тёмно-синий рупорный волновод и бухта плетёного медного кабеля на сланцевой плите символизируют выверку достоверности климатической ИИ-информации, управление радиочастотным спектром и инфраструктуру дата-центров; это не реальная фотография конференций COP31 или МСЭ.",
+        "fr": "Illustration conceptuelle générée par l'IA : un cube en verre optique renfermant un diapason en laiton brossé, un cornet guide d'ondes bleu marine mat et un câble en cuivre tressé lové sur une dalle d'ardoise symbolisent la fiabilité de l'information climatique liée à l'IA, la gouvernance mondiale du spectre radioélectrique et les centres de données, et non une photographie réelle de la COP31 ou de l'UIT."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "COP31: New global priorities target role of AI in climate information integrity",
+          "url": "https://unfccc.int/news/cop31-new-global-priorities-target-role-of-ai-in-climate-information-integrity",
+          "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "ITU elects senior leaders in radiocommunication, standardization and development",
+          "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-13-Directors-Election.aspx",
+          "publisher": "International Telecommunication Union (ITU)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-14/unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14-editorial.webp",
+      "caption": "AI生成概念示意图：深色板岩底座上嵌有拉丝黄铜音叉的透明光学玻璃立方体、哑光深海蓝矩形波导号角天线与盘绕编织紫铜线缆静物，象征人工智能气候信息完整性校准、全球无线电频谱治理与数据中心算力基础设施，并非COP31或国际电联会议现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for unfccc-cop31-ai-climate-information-integrity-gggi-facility-2026-11-14: AI生成概念示意图：深色板岩底座上嵌有拉丝黄铜音叉的透明光学玻璃立方体、哑光深海蓝矩形波导号角天线与盘绕编织紫铜线缆静物，象征人工智能气候信息完整性校准、全球无线电频谱治理与数据中心算力基础设施，并非COP31或国际电联会议现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-14 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14",
+      "category": "innovation",
+      "publicPath": "/news-media/2026-11-14/fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14-editorial.webp",
+      "fileName": "fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls",
+      "docxRelationId": "rId14",
+      "docxMediaEntry": "word/media/image5.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 117154,
+      "sha256": "fe5ef4fba65856a2d6e74cbb06e0911929cfd3e61985de172bab44b2e65abf4c",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：交叠磨砂海玻璃与多孔洞石台面上的两支银盖琥珀色药瓶、盛有四颗半透明聚合物微珠的玻璃培养皿及哑光黑听诊器胸件静物，象征膀胱癌围术期双药联合获批与全球塑料健康风险评估，并非临床医院或世卫大会现场照片。",
+        "zh-TW": "AI生成概念示意圖：交疊磨砂海玻璃與多孔洞石檯面上的兩支銀蓋琥珀色藥瓶、盛有四顆半透明聚合物微珠的玻璃培養皿及啞光黑聽診器胸件靜物，象徵膀胱癌圍術期雙藥聯合獲批與全球塑膠健康風險評估，並非臨床醫院或世衛大會現場照片。",
+        "en": "AI-generated editorial illustration: two silver-capped amber glass vials, a clear glass Petri dish holding four translucent polymer beads, and a matte-black stethoscope chestpiece on overlapping frosted glass and travertine slabs represent perioperative dual-drug bladder cancer approval and global plastics-and-health risk scrutiny, not a real clinical or WHO assembly photograph.",
+        "ru": "Иллюстрация, созданная ИИ: два флакона из тёмного янтарного стекла с серебристыми крышками, стеклянная чашка Петри с четырьмя полупрозрачными полимерными гранулами и матовая чёрная головка стетоскопа на матовом стекле и травертине символизируют одобрение комбинированной иммунотерапии рака мочевого пузыря и оценку влияния пластика на здоровье; это не реальная фотография клиники или ВОЗ.",
+        "fr": "Illustration conceptuelle générée par l'IA : deux flacons cliniques en verre ambré à capsule argentée, une boîte de Petri contenant quatre billes de polymère translucides et un pavillon de stéthoscope noir mat sur verre dépoli et travertin symbolisent l'approbation périopératoire contre le cancer de la vessie et la déclaration sur les plastiques et la santé, et non une photographie médicale réelle."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "FDA approves durvalumab with enfortumab vedotin-ejfv for muscle invasive bladder cancer",
+          "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-durvalumab-enfortumab-vedotin-ejfv-muscle-invasive-bladder-cancer",
+          "publisher": "U.S. Food and Drug Administration (FDA)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "\"Put health in the treaty\": youth delegates at the Global Model WHO 2026 adopt declaration on plastics and health",
+          "url": "https://www.who.int/news/item/13-11-2026-put-health-in-the-treaty---youth-delegates-at-the-global-model-who-2026-adopt-declaration-on-plastics-and-health",
+          "publisher": "World Health Organization (WHO)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-14/fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14-editorial.webp",
+      "caption": "AI生成概念示意图：交叠磨砂海玻璃与多孔洞石台面上的两支银盖琥珀色药瓶、盛有四颗半透明聚合物微珠的玻璃培养皿及哑光黑听诊器胸件静物，象征膀胱癌围术期双药联合获批与全球塑料健康风险评估，并非临床医院或世卫大会现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for fda-mibc-durvalumab-approval-who-plastics-health-2026-11-14: AI生成概念示意图：交叠磨砂海玻璃与多孔洞石台面上的两支银盖琥珀色药瓶、盛有四颗半透明聚合物微珠的玻璃培养皿及哑光黑听诊器胸件静物，象征膀胱癌围术期双药联合获批与全球塑料健康风险评估，并非临床医院或世卫大会现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-14 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14",
+      "category": "energy",
+      "publicPath": "/news-media/2026-11-14/doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14-editorial.webp",
+      "fileName": "doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls",
+      "docxRelationId": "rId18",
+      "docxMediaEntry": "word/media/image2.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 78642,
+      "sha256": "7e2f5378ad07cdc7e05996e3cfb218bcf3e88d0b52934222524fc9ab733701f7",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色板岩底座上的紫铜绕线环形磁约束线圈、横置厚壁透明光学玻璃密封圆筒与深海蓝阳极氧化铝鳍片超算散热块静物，象征聚变能源数字孪生平台与超算赋能放射性废物治理，并非美国国家实验室或核设施现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色板岩底座上的紫銅繞線環形磁約束線圈、橫置厚壁透明光學玻璃密封圓筒與深海藍陽極氧化鋁鰭片超算散熱塊靜物，象徵聚變能源數位孿生平台與超算賦能放射性廢物治理，並非美國國家實驗室或核設施現場照片。",
+        "en": "AI-generated editorial illustration: a wound copper toroidal magnetic coil, a thick-walled clear optical glass containment cylinder, and a matte navy anodized finned supercomputing heatsink on a dark slate slab represent the AI-Fusion Digital Convergence Platform and supercomputer-guided nuclear waste remediation, not a real national laboratory or nuclear site photograph.",
+        "ru": "Иллюстрация, созданная ИИ: медная тороидальная магнитная катушка, толстостенный прозрачный стеклянный защитный цилиндр и тёмно-синий ребристый радиатор суперкомпьютера на сланцевой плите символизируют платформу цифровых двойников термоядерного синтеза и ИИ-моделирование ядерной очистки; это не реальная фотография национальной лаборатории или ядерного объекта.",
+        "fr": "Illustration conceptuelle générée par l'IA : une bobine magnétique toroïdale en cuivre, un cylindre de confinement en verre optique épais et un dissipateur thermique à ailettes bleu marine mat sur une dalle d'ardoise symbolisent la plateforme numérique de fusion et la décontamination nucléaire assistée par supercalculateur, et non une photographie réelle de laboratoire national."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "Accelerating Delivery of Fusion Energy",
+          "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/accelerating-delivery-fusion-energy",
+          "publisher": "U.S. Department of Energy (DOE)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Transforming Nuclear Cleanup and Restoration",
+          "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/transforming-nuclear-cleanup-and-restoration",
+          "publisher": "U.S. Department of Energy (DOE)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-14/doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14-editorial.webp",
+      "caption": "AI生成概念示意图：深色板岩底座上的紫铜绕线环形磁约束线圈、横置厚壁透明光学玻璃密封圆筒与深海蓝阳极氧化铝鳍片超算散热块静物，象征聚变能源数字孪生平台与超算赋能放射性废物治理，并非美国国家实验室或核设施现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for doe-genesis-fusion-digital-convergence-nuclear-cleanup-ai-2026-11-14: AI生成概念示意图：深色板岩底座上的紫铜绕线环形磁约束线圈、横置厚壁透明光学玻璃密封圆筒与深海蓝阳极氧化铝鳍片超算散热块静物，象征聚变能源数字孪生平台与超算赋能放射性废物治理，并非美国国家实验室或核设施现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-14 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14",
+      "category": "current-affairs",
+      "publicPath": "/news-media/2026-11-14/eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14-editorial.webp",
+      "fileName": "eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls",
+      "docxRelationId": "rId23",
+      "docxMediaEntry": "word/media/image1.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 70940,
+      "sha256": "c8e0f527ee0869be46993f330651b19d4b2842ebb602a7086be9b29ee49bf8ad",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：粗琢浅色石灰岩台面上的拉丝青铜法兰工业管道阀门、倾斜鼠尾草绿哑光陶瓷百叶构件与三枚叠置光滑河石静物，象征欧盟原油与柴油供应协调机制及全球门户绿色基础设施融资平衡，并非炼油厂或签约仪式现场照片。",
+        "zh-TW": "AI生成概念示意圖：粗琢淺色石灰岩檯面上的拉絲青銅法蘭工業管道閥門、傾斜鼠尾草綠啞光陶瓷百葉構件與三枚疊置光滑河石靜物，象徵歐盟原油與柴油供應協調機制及全球門戶綠色基礎設施融資平衡，並非煉油廠或簽約儀式現場照片。",
+        "en": "AI-generated editorial illustration: a brushed-bronze flanged pipeline valve, a tilted matte sage-green ceramic louvered architectural panel, and three stacked smooth river stones on a rough-hewn limestone slab represent European crude and diesel supply coordination alongside Global Gateway climate-aligned investment mobilization, not a real refinery or signing ceremony photograph.",
+        "ru": "Иллюстрация, созданная ИИ: фланцевый трубопроводный клапан из матовой бронзы, наклонённая серо-зелёная керамическая жалюзийная панель и три сложенных гладких речных камня на известняковой плите символизируют стабильность поставок нефти в ЕС и привлечение зелёных инвестиций Global Gateway; это не реальная фотография нефтеперерабатывающего завода.",
+        "fr": "Illustration conceptuelle générée par l'IA : une vanne industrielle à brides en bronze brossé, un panneau architectural à persiennes en céramique vert sauge mat et trois galets empilés sur une dalle de calcaire brut symbolisent la stabilité des approvisionnements pétroliers européens et la mobilisation d'investissements climatiques Global Gateway, et non une photographie réelle de raffinerie."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
+          "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+          "publisher": "European Commission Directorate-General for International Partnerships"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Oil Coordination Group confirms continued supply stability across the EU",
+          "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
+          "publisher": "European Commission Directorate-General for Energy"
+        }
+      ],
+      "localPath": "/news-media/2026-11-14/eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14-editorial.webp",
+      "caption": "AI生成概念示意图：粗琢浅色石灰岩台面上的拉丝青铜法兰工业管道阀门、倾斜鼠尾草绿哑光陶瓷百叶构件与三枚叠置光滑河石静物，象征欧盟原油与柴油供应协调机制及全球门户绿色基础设施融资平衡，并非炼油厂或签约仪式现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for eu-gggi-climate-investment-facility-oil-supply-stability-2026-11-14: AI生成概念示意图：粗琢浅色石灰岩台面上的拉丝青铜法兰工业管道阀门、倾斜鼠尾草绿哑光陶瓷百叶构件与三枚叠置光滑河石静物，象征欧盟原油与柴油供应协调机制及全球门户绿色基础设施融资平衡，并非炼油厂或签约仪式现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-14 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14",
+      "category": "business",
+      "publicPath": "/news-media/2026-11-14/imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14-editorial.webp",
+      "fileName": "imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls",
+      "docxRelationId": "rId28",
+      "docxMediaEntry": "word/media/image4.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 107510,
+      "sha256": "fc1978047f3895910ce800a9fcd4e09353be0af5a78028c40bdfde5a69104a1b",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：磨砂玻璃与抛光大理石台面上玻璃钟罩内的虹彩硅晶圆、极简拉丝黄铜横梁天平及牛皮纸绕线档案夹静物，象征AI半导体硬件出口周期拉动经济增长、宏观信贷审慎校准与资本市场评估机构备案监管，并非晶圆厂或监管机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：磨砂玻璃與拋光大理石檯面上玻璃鐘罩內的虹彩矽晶圓、極簡拉絲黃銅橫樑天平及牛皮紙繞線檔案夾靜物，象徵AI半導體硬體出口週期拉動經濟增長、宏觀信貸審慎校準與資本市場評估機構備案監管，並非晶圓廠或監管機構現場照片。",
+        "en": "AI-generated editorial illustration: an iridescent silicon semiconductor wafer beneath a clear glass bell jar, a minimalist brushed-brass balance beam, and a string-tied kraft archival dossier folder on frosted glass and marble slabs represent AI hardware export growth, IMF macroeconomic calibration, and securities appraisal registry oversight, not a real fab or regulatory office photograph.",
+        "ru": "Иллюстрация, созданная ИИ: переливающаяся кремниевая полупроводниковая пластина под стеклянным колпаком, латунное коромысло весов и крафтовая архивная папка на шнурке на матовом стекле и мраморе символизируют экспортный ИИ-цикл Вьетнама, макрофинансовый баланс МВФ и реестр оценщиков КНР; это не реальная фотография фабрики чипов или ведомства.",
+        "fr": "Illustration conceptuelle générée par l'IA : une tranche de silicium irisée sous cloche de verre, un fléau de balance en laiton brossé et une chemise d'archives en papier kraft à ficelle sur verre dépoli et marbre symbolisent la croissance tirée par les semi-conducteurs d'IA au Vietnam, le cadrage macroéconomique du FMI et le registre chinois des évaluateurs, et non une photographie réelle d'usine."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "IMF Staff Completes 2026 Article IV Mission to Vietnam",
+          "url": "https://www.imf.org/en/news/articles/2026/11/13/pr26361-vietnam-imf-staff-completes-2026-article-iv-mission",
+          "publisher": "International Monetary Fund (IMF)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "从事证券服务业务资产评估机构注销备案名单（2026年11月13日）",
+          "url": "https://www.csrc.gov.cn/csrc/c100102/c7670715/content.shtml",
+          "publisher": "中国证券监督管理委员会"
+        }
+      ],
+      "localPath": "/news-media/2026-11-14/imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14-editorial.webp",
+      "caption": "AI生成概念示意图：磨砂玻璃与抛光大理石台面上玻璃钟罩内的虹彩硅晶圆、极简拉丝黄铜横梁天平及牛皮纸绕线档案夹静物，象征AI半导体硬件出口周期拉动经济增长、宏观信贷审慎校准与资本市场评估机构备案监管，并非晶圆厂或监管机构现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for imf-vietnam-article-iv-ai-tech-cycle-csrc-appraisal-registry-2026-11-14: AI生成概念示意图：磨砂玻璃与抛光大理石台面上玻璃钟罩内的虹彩硅晶圆、极简拉丝黄铜横梁天平及牛皮纸绕线档案夹静物，象征AI半导体硬件出口周期拉动经济增长、宏观信贷审慎校准与资本市场评估机构备案监管，并非晶圆厂或监管机构现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-14 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14",
+      "category": "work-life",
+      "publicPath": "/news-media/2026-11-14/ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14-editorial.webp",
+      "fileName": "ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1F32P7cJN01zM9iyJ3B0AHHXCEL-nbmYA2cxrFzq5Vls",
+      "docxRelationId": "rId33",
+      "docxMediaEntry": "word/media/image3.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 117748,
+      "sha256": "32cedb6474e69648354e35549ffba3d307c0cb379cfbeac5aa26995ad8c2fe97",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：多孔洞石台面上的鼠尾草绿哑光工业安全帽、三枚啮合拉丝精钢与胡桃木齿轮及配黄铜D形环的原色帆布安全织带静物，象征COP31公正转型馆绿色技能培训、职业安全健康保障与气候融资护航体面就业，并非施工现场或峰会展馆照片。",
+        "zh-TW": "AI生成概念示意圖：多孔洞石檯面上的鼠尾草綠啞光工業安全帽、三枚嚙合拉絲精鋼與胡桃木齒輪及配黃銅D形環的原色帆布安全織帶靜物，象徵COP31公正轉型館綠色技能培訓、職業安全健康保障與氣候融資護航體面就業，並非施工現場或峰會展館照片。",
+        "en": "AI-generated editorial illustration: a matte sage-green industrial safety hard hat, three interlocking brushed-steel and carved-wood cogwheels, and a woven canvas safety strap with brass D-rings on a porous travertine slab represent COP31 Just Transition Pavilion green skills training, occupational safety, and debt-responsive climate finance for decent work, not a real worksite or summit pavilion photograph.",
+        "ru": "Иллюстрация, созданная ИИ: матовая серо-зелёная защитная каска, три сцепленные стальные и деревянные шестерни и холщовый страховочный ремень с латунными кольцами на плите из травертина символизируют зелёные навыки, охрану труда в Павильоне справедливого перехода на COP31 и доступное климатическое финансирование; это не реальная фотография стройплощадки или павильона.",
+        "fr": "Illustration conceptuelle générée par l'IA : un casque de chantier vert sauge mat, trois engrenages imbriqués en acier brossé et en bois sculpté ainsi qu'une sangle de sécurité en toile à anneaux en laiton sur une dalle de travertin symbolisent les compétences vertes, la sécurité au travail au Pavillon de la transition juste de la COP31 et une finance climatique soutenable, et non une photographie réelle."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "Just Transition Pavilion opens at COP31 as decent work and social justice gain prominence in climate discussions",
+          "url": "https://www.ilo.org/resource/news/just-transition-pavilion-opens-cop31-decent-work-and-social-justice-gain",
+          "publisher": "International Labour Organization (ILO)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "UN Climate Chief at COP31 today: \"Climate finance must help countries break free\"",
+          "url": "https://unfccc.int/news/un-climate-chief-at-cop31-today-climate-finance-must-help-countries-break-free",
+          "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-14/ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14-editorial.webp",
+      "caption": "AI生成概念示意图：多孔洞石台面上的鼠尾草绿哑光工业安全帽、三枚啮合拉丝精钢与胡桃木齿轮及配黄铜D形环的原色帆布安全织带静物，象征COP31公正转型馆绿色技能培训、职业安全健康保障与气候融资护航体面就业，并非施工现场或峰会展馆照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for ilo-cop31-just-transition-pavilion-green-skills-workforce-2026-11-14: AI生成概念示意图：多孔洞石台面上的鼠尾草绿哑光工业安全帽、三枚啮合拉丝精钢与胡桃木齿轮及配黄铜D形环的原色帆布安全织带静物，象征COP31公正转型馆绿色技能培训、职业安全健康保障与气候融资护航体面就业，并非施工现场或峰会展馆照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-14 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    }
+  ]
+}

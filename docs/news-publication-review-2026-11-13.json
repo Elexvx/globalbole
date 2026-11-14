@@ -1,0 +1,125 @@
+{
+  "issue": "2026-11-13",
+  "reviewedAt": "2026-11-13T14:20:00Z",
+  "screenedCandidates": 8,
+  "publishedCount": 6,
+  "deferredCount": 2,
+  "published": [
+    {
+      "slug": "mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13",
+      "category": "business",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y12r/index.html",
+        "https://www.ndrc.gov.cn/xwdt/xwfb/202611/t20261112_1408795.html"
+      ]
+    },
+    {
+      "slug": "itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13",
+      "category": "technology",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-12-SG-Election.aspx",
+        "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en",
+        "https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission"
+      ]
+    },
+    {
+      "slug": "who-global-tuberculosis-report-domestic-investment-2026-11-13",
+      "category": "innovation",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis"
+      ]
+    },
+    {
+      "slug": "unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13",
+      "category": "energy",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://unfccc.int/news/new-un-climate-change-report-highlights-what-it-takes-to-scale-up-industrial-climate-action",
+        "https://unfccc.int/news/in-a-world-of-suffocating-disasters-action-on-methane-offers-breathing-space-un-climate-chief-at"
+      ]
+    },
+    {
+      "slug": "wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13",
+      "category": "current-affairs",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://wmo.int/media/news/escalating-hazards-demand-escalated-action"
+      ]
+    },
+    {
+      "slug": "ilo-governing-body-social-dialogue-youth-skills-2026-11-13",
+      "category": "work-life",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.ilo.org/resource/record-decisions/gb/gb358/decision-concerning-follow-resolution-concerning-third-recurrent-discussion",
+        "https://www.ilo.org/resource/news/international-conference-baghdad-highlights-how-decent-work-strengthens",
+        "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "slug": "mot-yangtze-river-tidal-level-bulletin-2026-11-13",
+      "date": "2026-11-13",
+      "title": "2026年11月13日长江潮位",
+      "sourceUrl": "https://www.mot.gov.cn/fuwu/yujingtishi/cjshuiweichaowei/202611/t20261113_4227689.html",
+      "publisher": "中华人民共和国交通运输部长江航务管理局",
+      "status": "deferred",
+      "reason": "白茆、南京、镇江、芜湖等站点每日08:00常规水文潮位播报，无航道管制或航运政策调整，按编辑规范暂缓成稿。"
+    },
+    {
+      "slug": "shanghai-minhang-grid-planned-outage-notice-2026-11-13",
+      "date": "2026-11-13",
+      "title": "注意！2026年11月13日闵行区电网检修公告",
+      "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261113/abc6705dda3d4c3fac5b395a96259c17.html",
+      "publisher": "上海市人民政府（闵行区人民政府）",
+      "status": "deferred",
+      "reason": "区级配电网常规计划检修停电通知，属地方公用事业例行维护，不具备全国或行业级政策增量，暂缓成稿。"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "issue": "2026-11-13",
+  "generatedAt": "2026-11-13T14:12:00Z",
+  "sourceDocument": {
+    "title": "Globalbole_2026_11_13_Issue_and_Illustrations",
+    "googleDocId": "13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg",
+    "url": "https://docs.google.com/document/d/13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg/edit"
+  },
+  "processingPipeline": "sharp(src).rotate().webp({ quality: 90, effort: 6 }) / libwebp q=90 m=6 with EXIF/IPTC/XMP stripped",
+  "assets": [
+    {
+      "slug": "mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13",
+      "category": "business",
+      "publicPath": "/news-media/2026-11-13/mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13-editorial.webp",
+      "fileName": "mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg",
+      "docxRelationId": "rId7",
+      "docxMediaEntry": "word/media/image3.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 108528,
+      "sha256": "514877ab5c0e9040385bb72d765ddf32190011ca170aeddcc254b8c997089e9c",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：低平石灰岩台面上的双层拉丝黄铜集装箱模型、倾斜磨砂光学玻璃圆盘透镜与深琥珀色玻璃油滴静物，象征第九届进博会跨境贸易、中欧医疗器械合作意向及国内成品油调价，并非展会或港口现场照片。",
+        "zh-TW": "AI生成概念示意圖：低平石灰岩檯面上的雙層拉絲黃銅貨櫃模型、傾斜磨砂光學玻璃圓盤透鏡與深琥珀色玻璃油滴靜物，象徵第九屆進博會跨境貿易、中歐醫療器械合作意向及國內成品油調價，並非展會或港口現場照片。",
+        "en": "AI-generated editorial illustration: stacked brushed-brass shipping containers, a tilted frosted optical glass lens disc, and a dark amber glass droplet on a flat limestone slab represent CIIE cross-border trade, EU-China medtech cooperation, and domestic fuel price adjustments, not a real exhibition hall or port photograph.",
+        "ru": "Иллюстрация, созданная ИИ: два латунных контейнера, наклонённый матовый стеклянный оптический диск и тёмно-янтарная стеклянная капля на плоской известняковой плите символизируют трансграничную торговлю на CIIE, медицинское сотрудничество КНР и ЕС и снижение цен на топливо; это не реальная фотография выставки или порта.",
+        "fr": "Illustration conceptuelle générée par l'IA : deux conteneurs miniatures en laiton brossé, un disque optique en verre dépoli incliné et une goutte en verre ambré foncé sur une dalle de calcaire symbolisent les échanges de la CIIE, les accords médicaux UE-Chine et l'ajustement des prix des carburants, et non une photographie réelle de salon ou de port."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-12",
+          "title": "商务部召开例行新闻发布会（2026年11月12日）",
+          "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y12r/index.html",
+          "publisher": "中华人民共和国商务部"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "2026年11月12日国内成品油价格调整",
+          "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202611/t20261112_1408795.html",
+          "publisher": "中华人民共和国国家发展和改革委员会"
+        }
+      ],
+      "localPath": "/news-media/2026-11-13/mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13-editorial.webp",
+      "caption": "AI生成概念示意图：低平石灰岩台面上的双层拉丝黄铜集装箱模型、倾斜磨砂光学玻璃圆盘透镜与深琥珀色玻璃油滴静物，象征第九届进博会跨境贸易、中欧医疗器械合作意向及国内成品油调价，并非展会或港口现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for mofcom-ciie-eu-medtech-us-tariff-framework-2026-11-13: AI生成概念示意图：低平石灰岩台面上的双层拉丝黄铜集装箱模型、倾斜磨砂光学玻璃圆盘透镜与深琥珀色玻璃油滴静物，象征第九届进博会跨境贸易、中欧医疗器械合作意向及国内成品油调价，并非展会或港口现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-13 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13",
+      "category": "technology",
+      "publicPath": "/news-media/2026-11-13/itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13-editorial.webp",
+      "fileName": "itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg",
+      "docxRelationId": "rId12",
+      "docxMediaEntry": "word/media/image1.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 53322,
+      "sha256": "420a97d437eef2bad77c222f07e6204128a43be1a1655a206d21b2caa5c209e0",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色板岩底座上的透明光学玻璃三棱镜、拉丝紫铜抛物面通信天线模型与互锁哑光石质几何印章双环，象征全球电信频谱互联、跨洲电子签名信任互认与科研超算平台，并非多哈会议或实验室真实照片。",
+        "zh-TW": "AI生成概念示意圖：深色板岩底座上的透明光學玻璃三稜鏡、拉絲紫銅拋物面通信天線模型與互鎖啞光石質幾何印章雙環，象徵全球電信頻譜互聯、跨洲電子簽名信任互認與科研超算平台，並非多哈會議或實驗室真實照片。",
+        "en": "AI-generated editorial illustration: a clear optical glass prism, a brushed-copper parabolic dish receiver, and interlocked matte stone geometric seal rings on a low dark slate slab represent global spectrum connectivity, cross-border electronic trust alignment, and scientific computing platforms, not a real conference venue or laboratory photograph.",
+        "ru": "Иллюстрация, созданная ИИ: прозрачная стеклянная призма, медная параболическая антенна и сцепленные каменные кольца-печати на тёмной сланцевой плите символизируют глобальную цифровую связность, взаимное признание электронных подписей и научные суперкомпьютерные платформы; это не реальная фотография конференции или лаборатории.",
+        "fr": "Illustration conceptuelle générée par l'IA : un prisme en verre optique, une antenne parabolique en cuivre brossé et deux anneaux-sceaux imbriqués en pierre mate sur une dalle d'ardoise symbolisent la connectivité mondiale, la reconnaissance mutuelle des signatures électroniques et les plateformes scientifiques de calcul, et non une photographie réelle de conférence ou de laboratoire."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-12",
+          "title": "ITU Member States re-elect Doreen Bogdan-Martin as Secretary-General",
+          "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-12-SG-Election.aspx",
+          "publisher": "International Telecommunication Union (ITU)"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals",
+          "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en",
+          "publisher": "European Commission"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "The Genesis Mission",
+          "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission",
+          "publisher": "U.S. Department of Energy"
+        }
+      ],
+      "localPath": "/news-media/2026-11-13/itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13-editorial.webp",
+      "caption": "AI生成概念示意图：深色板岩底座上的透明光学玻璃三棱镜、拉丝紫铜抛物面通信天线模型与互锁哑光石质几何印章双环，象征全球电信频谱互联、跨洲电子签名信任互认与科研超算平台，并非多哈会议或实验室真实照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for itu-pp26-global-connectivity-eu-egypt-digital-trust-2026-11-13: AI生成概念示意图：深色板岩底座上的透明光学玻璃三棱镜、拉丝紫铜抛物面通信天线模型与互锁哑光石质几何印章双环，象征全球电信频谱互联、跨洲电子签名信任互认与科研超算平台，并非多哈会议或实验室真实照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-13 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "who-global-tuberculosis-report-domestic-investment-2026-11-13",
+      "category": "innovation",
+      "publicPath": "/news-media/2026-11-13/who-global-tuberculosis-report-domestic-investment-2026-11-13-editorial.webp",
+      "fileName": "who-global-tuberculosis-report-domestic-investment-2026-11-13-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg",
+      "docxRelationId": "rId19",
+      "docxMediaEntry": "word/media/image2.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 86416,
+      "sha256": "b543608ce0c3dddcadb80f5b219bfb5db149eed590fd08feea5d04033178c4ba",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：磨砂玻璃板上的透明锥形实验烧瓶与圆柱形拉丝黄铜砝码，以及洞石台面上的两枚鼠尾草绿与象牙白双色胶囊模型，象征全球结核病国内防治资金投入、分子诊断与六个月短程口服疗法，并非临床医疗机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：磨砂玻璃板上的透明錐形實驗燒瓶與圓柱形拉絲黃銅砝碼，以及洞石檯面上的兩枚鼠尾草綠與象牙白雙色膠囊模型，象徵全球結核病國內防治資金投入、分子診斷與六個月短程口服療法，並非臨床醫療機構現場照片。",
+        "en": "AI-generated editorial illustration: a clear glass Erlenmeyer flask and brushed-brass calibration weight on frosted glass alongside two sage-and-ivory capsules on travertine stone represent domestic tuberculosis financing, rapid diagnostics, and six-month oral treatment regimens, not a real clinical or pharmaceutical facility photograph.",
+        "ru": "Иллюстрация, созданная ИИ: стеклянная коническая колба и латунная гиря на матовом стекле рядом с двумя двухцветными капсулами на травертине символизируют внутреннее финансирование борьбы с туберкулёзом, диагностику и шестимесячные схемы терапии; это не реальная фотография клиники или лаборатории.",
+        "fr": "Illustration conceptuelle générée par l'IA : une fiole conique en verre et un poids en laiton brossé sur verre dépoli aux côtés de deux gélules bicolores sur travertin symbolisent les financements nationaux contre la tuberculose, le diagnostic moléculaire et les traitements courts de six mois, et non une photographie clinique réelle."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-12",
+          "title": "Amid challenges, countries increase domestic investment to protect progress against tuberculosis",
+          "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+          "publisher": "World Health Organization (WHO)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-13/who-global-tuberculosis-report-domestic-investment-2026-11-13-editorial.webp",
+      "caption": "AI生成概念示意图：磨砂玻璃板上的透明锥形实验烧瓶与圆柱形拉丝黄铜砝码，以及洞石台面上的两枚鼠尾草绿与象牙白双色胶囊模型，象征全球结核病国内防治资金投入、分子诊断与六个月短程口服疗法，并非临床医疗机构现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for who-global-tuberculosis-report-domestic-investment-2026-11-13: AI生成概念示意图：磨砂玻璃板上的透明锥形实验烧瓶与圆柱形拉丝黄铜砝码，以及洞石台面上的两枚鼠尾草绿与象牙白双色胶囊模型，象征全球结核病国内防治资金投入、分子诊断与六个月短程口服疗法，并非临床医疗机构现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-13 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13",
+      "category": "energy",
+      "publicPath": "/news-media/2026-11-13/unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13-editorial.webp",
+      "fileName": "unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg",
+      "docxRelationId": "rId22",
+      "docxMediaEntry": "word/media/image5.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 71982,
+      "sha256": "b971c65a5fe1ea161987a5892bc2f3789f849b99a125c5defa27c60dba9bbf7c",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：粗砺深色板岩底座上的不锈钢翅片换热器模型、透明吹制玻璃集气球罩与哑光灰绿陶瓷涡轮叶片雕塑，象征工业能效电气化转型、伴生甲烷回收与难减排行业脱碳路径，并非工业厂区或COP31会场照片。",
+        "zh-TW": "AI生成概念示意圖：粗礪深色板岩底座上的不鏽鋼翅片換熱器模型、透明吹製玻璃集氣球罩與啞光灰綠陶瓷渦輪葉片雕塑，象徵工業能效電氣化轉型、伴生甲烷回收與難減排行業脫碳路徑，並非工業廠區或COP31會場照片。",
+        "en": "AI-generated editorial illustration: a stainless-steel finned heat exchanger block, a clear glass gas containment sphere, and a matte sage ceramic turbine blade on rough dark slate represent industrial electrification, methane capture, and hard-to-abate sector decarbonization, not a real industrial plant or COP31 venue photograph.",
+        "ru": "Иллюстрация, созданная ИИ: стальной пластинчато-трубчатый теплообменник, прозрачная стеклянная сфера улавливания газа и матовая керамическая лопатка турбины на тёмном сланце символизируют промышленную декарбонизацию и сокращение выбросов метана; это не реальная фотография завода или площадки COP31.",
+        "fr": "Illustration conceptuelle générée par l'IA : un échangeur thermique en acier inoxydable, une sphère de captage en verre soufflé et une aube de turbine en céramique vert sauge sur ardoise brute symbolisent la décarbonation industrielle et la réduction des émissions de méthane, et non une photographie réelle d'usine ou de la COP31."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-12",
+          "title": "New UN Climate Change report highlights what it takes to scale up industrial climate action",
+          "url": "https://unfccc.int/news/new-un-climate-change-report-highlights-what-it-takes-to-scale-up-industrial-climate-action",
+          "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "“Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" UN Climate Chief at COP31 today",
+          "url": "https://unfccc.int/news/in-a-world-of-suffocating-disasters-action-on-methane-offers-breathing-space-un-climate-chief-at",
+          "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-13/unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13-editorial.webp",
+      "caption": "AI生成概念示意图：粗砺深色板岩底座上的不锈钢翅片换热器模型、透明吹制玻璃集气球罩与哑光灰绿陶瓷涡轮叶片雕塑，象征工业能效电气化转型、伴生甲烷回收与难减排行业脱碳路径，并非工业厂区或COP31会场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for unfccc-cop31-industrial-decarbonization-methane-action-2026-11-13: AI生成概念示意图：粗砺深色板岩底座上的不锈钢翅片换热器模型、透明吹制玻璃集气球罩与哑光灰绿陶瓷涡轮叶片雕塑，象征工业能效电气化转型、伴生甲烷回收与难减排行业脱碳路径，并非工业厂区或COP31会场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-13 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13",
+      "category": "current-affairs",
+      "publicPath": "/news-media/2026-11-13/wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13-editorial.webp",
+      "fileName": "wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg",
+      "docxRelationId": "rId27",
+      "docxMediaEntry": "word/media/image4.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 96486,
+      "sha256": "f9a48bab9a72b95495bd18697e22ab135d3da78346cc29c6f67d33e50312e65a",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：多孔洞石台面上的拉丝黄铜空盒气压计鼓盒、半透明灰蓝玻璃波浪体块与浅色木质三杯风速计转子模型，象征全球多灾种早期气象水文监测与前瞻性防灾行动，并非气象台站或受灾现场照片。",
+        "zh-TW": "AI生成概念示意圖：多孔洞石檯面上的拉絲黃銅空盒氣壓計鼓盒、半透明灰藍玻璃波浪體塊與淺色木質三杯風速計轉子模型，象徵全球多災種早期氣象水文監測與前瞻性防災行動，並非氣象台站或受災現場照片。",
+        "en": "AI-generated editorial illustration: a ribbed brushed-brass barometer drum, a translucent slate-blue glass wave block, and a pale-wood three-cup anemometer rotor on porous travertine represent global multi-hazard hydrometeorological monitoring and anticipatory disaster action, not a real weather station or hazard site photograph.",
+        "ru": "Иллюстрация, созданная ИИ: ребристый латунный барабан барометра, полупрозрачный серо-синий стеклянный волновой блок и деревянный трёхчашечный ротор анемометра на травертине символизируют многофакторный гидрометеорологический мониторинг и раннее предупреждение; это не реальная фотография метеостанции.",
+        "fr": "Illustration conceptuelle générée par l'IA : un tambour de baromètre en laiton brossé, un bloc ondulé en verre bleu ardoise translucide et un rotor d'anémomètre à trois coupelles en bois clair sur travertin symbolisent la surveillance hydrométéorologique et les systèmes d'alerte précoce multirisques, et non une photographie réelle de station météorologique."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-12",
+          "title": "Escalating hazards demand escalated action",
+          "url": "https://wmo.int/media/news/escalating-hazards-demand-escalated-action",
+          "publisher": "World Meteorological Organization (WMO)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-13/wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13-editorial.webp",
+      "caption": "AI生成概念示意图：多孔洞石台面上的拉丝黄铜空盒气压计鼓盒、半透明灰蓝玻璃波浪体块与浅色木质三杯风速计转子模型，象征全球多灾种早期气象水文监测与前瞻性防灾行动，并非气象台站或受灾现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for wmo-undrr-early-warnings-for-all-cop31-report-2026-11-13: AI生成概念示意图：多孔洞石台面上的拉丝黄铜空盒气压计鼓盒、半透明灰蓝玻璃波浪体块与浅色木质三杯风速计转子模型，象征全球多灾种早期气象水文监测与前瞻性防灾行动，并非气象台站或受灾现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-13 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    },
+    {
+      "slug": "ilo-governing-body-social-dialogue-youth-skills-2026-11-13",
+      "category": "work-life",
+      "publicPath": "/news-media/2026-11-13/ilo-governing-body-social-dialogue-youth-skills-2026-11-13-editorial.webp",
+      "fileName": "ilo-governing-body-social-dialogue-youth-skills-2026-11-13-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "13PSNpn_j22dwP3tK1Ickj7I20KyIp_Lb14V0m2MZSpg",
+      "docxRelationId": "rId30",
+      "docxMediaEntry": "word/media/image6.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 67536,
+      "sha256": "9065cb465637789f8360ea9e066e47d78ba55dad5504c359de77671df9cfeb22",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "captions": {
+        "zh-CN": "AI生成概念示意图：磨砂玻璃与砂岩底座上依次嵌套的赤陶红、深岩蓝与暖象牙白三色哑光拱门模型及拉丝黄铜圆锥铅锤，象征劳资政三方社会对话机制、青年技能衔接与宏观金融稳定，并非国际劳工组织或会议现场照片。",
+        "zh-TW": "AI生成概念示意圖：磨砂玻璃與砂岩底座上依次嵌套的赤陶紅、深岩藍與暖象牙白三色啞光拱門模型及拉絲黃銅圓錐鉛錘，象徵勞資政三方社會對話機制、青年技能銜接與宏觀金融穩定，並非國際勞工組織或會議現場照片。",
+        "en": "AI-generated editorial illustration: three nested matte terracotta, slate-blue, and warm ivory arches beside a brushed-brass conical plumb bob on frosted glass and sandstone represent tripartite social dialogue, youth skill alignment, and macroeconomic financial stability, not a real ILO session or conference photograph.",
+        "ru": "Иллюстрация, созданная ИИ: три вложенные матовые арки терракотового, сланцево-синего и кремового цветов рядом с латунным коническим отвесом на матовом стекле и песчанике символизируют трёхсторонний социальный диалог, подготовку кадров для молодёжи и макрофинансовую устойчивость; это не реальная фотография заседания МОТ.",
+        "fr": "Illustration conceptuelle générée par l'IA : trois arches imbriquées mates en terre cuite, bleu ardoise et ivoire chaud à côté d'un fil à plomb conique en laiton brossé sur verre dépoli et grès symbolisent le dialogue social tripartite, l'adéquation des compétences des jeunes et la stabilité macrofinancière, et non une photographie réelle de session de l'OIT."
+      },
+      "primarySources": [
+        {
+          "date": "2026-11-12",
+          "title": "Decision concerning the follow-up to the resolution concerning the third recurrent discussion on social dialogue and tripartism",
+          "url": "https://www.ilo.org/resource/record-decisions/gb/gb358/decision-concerning-follow-resolution-concerning-third-recurrent-discussion",
+          "publisher": "International Labour Organization (ILO)"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "International conference in Baghdad highlights how decent work strengthens youth opportunities and active citizenship",
+          "url": "https://www.ilo.org/resource/news/international-conference-baghdad-highlights-how-decent-work-strengthens",
+          "publisher": "International Labour Organization (ILO)"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
+          "url": "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity",
+          "publisher": "Bank for International Settlements (BIS)"
+        }
+      ],
+      "localPath": "/news-media/2026-11-13/ilo-governing-body-social-dialogue-youth-skills-2026-11-13-editorial.webp",
+      "caption": "AI生成概念示意图：磨砂玻璃与砂岩底座上依次嵌套的赤陶红、深岩蓝与暖象牙白三色哑光拱门模型及拉丝黄铜圆锥铅锤，象征劳资政三方社会对话机制、青年技能衔接与宏观金融稳定，并非国际劳工组织或会议现场照片。",
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for ilo-governing-body-social-dialogue-youth-skills-2026-11-13: AI生成概念示意图：磨砂玻璃与砂岩底座上依次嵌套的赤陶红、深岩蓝与暖象牙白三色哑光拱门模型及拉丝黄铜圆锥铅锤，象征劳资政三方社会对话机制、青年技能衔接与宏观金融稳定，并非国际劳工组织或会议现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-13 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions."
+    }
+  ]
+}
