@@ -30,25 +30,25 @@ Amazon’s July announcement plans over US$21 billion for Indian cloud and AI in
 
 S&P projects high water stress for 60–80% of operating Indian and Australian data centers in the 2020s, not measured Thane consumption.[^4]
 
-For a process benchmark, the UK Cabinet Office’s 2018 Consultation principles offer a useful comparison. The guidance calls for understandable questions and enough information to support informed responses. It concerns British government consultation; it does not establish Indian legal obligations or determine whether this project has met them. Its value here is methodological.[^5]
+The UK Cabinet Office’s Consultation principles, issued in 2018, are a useful benchmark for the process, and only for that. They ask for questions people can understand, and for enough information to support an informed response. They concern consultation by the British government. They do not establish Indian legal obligations, and they do not determine whether this project has met them. The comparison is methodological.[^5]
 
 ## Start with decisions that remain open
 
-The guidance distinguishes consultation while a policy or implementation plan is still being developed from questions on which a final view has already been reached. It also recommends providing validated assessments of the costs and benefits of the options where possible. Applied as a general design principle, the invitation should explain what a response could change before asking people to spend time preparing one.[^5]
+The guidance draws a line between a consultation held while a policy or an implementation plan is still being written and questions on which the view is already final. Where it can, it also wants validated assessments of what the options would cost and what they would bring. As a rule of design, the invitation should say what a reply could still change before it asks anyone to spend time writing one.[^5]
 
-Consider a hypothetical redevelopment discussion offering two layouts. Publishing both layouts without explaining the choice between them would leave participants guessing about the purpose of their comments. A clearer question would identify the trade-off, provide comparable evidence and state which aspects remain undecided. This is an illustrative application of the guidance, not a description of alternatives offered in Thane.[^5]
+Imagine a redevelopment discussion that offers two layouts and publishes both, without saying how the choice will be made. People are left guessing why they were asked. A clearer question names the trade-off, puts comparable evidence beside it, and says what is still open. That is an illustration of the guidance. It is not a description of alternatives offered in Thane.[^5]
 
 ## Access affects whose views appear
 
-The British guidance asks departments to consider the full range of affected people and organizations, tailor consultation to different groups and allow a proportionate response period. It specifically recognizes that conventional methods may not work equally well for older people, younger people or people with disabilities. It also treats formal documents as only one part of continuing engagement.[^5]
+The British guidance asks departments to consider the full range of affected people and organizations, to tailor consultation to different groups, and to allow a proportionate response period. It specifically recognizes that conventional methods may not work equally well for older people, younger people or people with disabilities. It also treats formal documents as only one part of continuing engagement.[^5]
 
-The practical implication is to examine how an invitation reaches people, not simply whether it exists. In a hypothetical neighborhood process, a long technical document and one fixed meeting time could produce a narrower range of responses than several accessible ways to participate. That would be a limitation of the process, not proof that absent residents agree or disagree. This is an editorial application of the guidance’s accessibility principle.[^5]
+An invitation that exists on paper can still fail to reach anyone. In a hypothetical neighborhood process, a long technical document and a single meeting time would draw a narrower set of replies than several ways of taking part that people can actually use. That would be a limit of the process. It would not prove that absent residents agree, or that they disagree. This is an editorial application of the guidance’s point on access.[^5]
 
 ## An answer should show what followed
 
-The guidance recommends publishing the response alongside the consultation, stating how many submissions arrived and explaining how they informed the policy. It asks for a response within 12 weeks or an explanation of delay. These are features of that British guidance, not deadlines asserted for the Indian project.[^5]
+The guidance recommends publishing the response alongside the consultation, stating how many submissions arrived, and explaining how they informed the policy. It asks for a response within 12 weeks or an explanation of delay. These are features of that British guidance, not deadlines asserted for the Indian project.[^5]
 
-As a comparative standard, this approach shifts attention from the existence of a meeting to the traceability of a decision. A reader should be able to follow a question, the information considered and the eventual explanation. Such a process need not produce unanimity. It should make disagreement visible and help participants understand which arguments changed the outcome and which did not.[^5]
+Set against that standard, the fact of a meeting is the small part. A reader should be able to follow the question that was asked, the information that was weighed, and the explanation that came back. The process does not have to end in unanimity. It should leave the disagreement visible, so people can see which arguments moved the outcome and which did not.[^5]
 
 [^1]: 2026-10-09 · [Modi wants India to power the AI age. Residents are pushing back](https://www.reuters.com/world/india/modi-wants-india-power-ai-age-residents-are-pushing-back-2026-10-09/) · Reuters.
 

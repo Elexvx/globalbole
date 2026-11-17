@@ -16,7 +16,7 @@ readTime: 4
 draft: false
 ---
 
-Le 9 octobre, TCS indiquait un nombre à un chiffre de demandes PERM sur deux ans, sans effet attendu de la suspension sur sa stratégie d’emploi. [^1] Cette prévision ne garantit pas les résultats migratoires individuels.
+Le 9 octobre, TCS indiquait un nombre à un chiffre de demandes PERM sur deux ans, et n’attendait aucun effet de la suspension sur sa stratégie d’emploi.[^1] Cette prévision ne garantit pas les résultats migratoires individuels.
 
 ![Illustration générée par IA : dossiers vierges, pochettes de documents et ordinateur portable](/news-media/2026-10-10/us-perm-suspension-tcs-2026-10-10.png)
 
@@ -24,23 +24,23 @@ Le 9 octobre, TCS indiquait un nombre à un chiffre de demandes PERM sur deux an
 
 ## À quel changement l’entreprise répond-elle ?
 
-Selon Reuters le 9 octobre, la suspension du PERM annoncée la veille concerne plusieurs sociétés, dont TCS, et arrête nouvelles demandes et traitement des dossiers en attente. [^2] Les entités et cas précis nécessitent les notifications officielles applicables.
+Selon Reuters, le 9 octobre, la suspension du PERM annoncée la veille concerne plusieurs sociétés, dont TCS. Elle arrête les nouvelles demandes et le traitement des dossiers en attente.[^2] Les entités et les cas précis nécessitent les notifications officielles applicables.
 
-Le département du Travail décrit le PERM comme une certification précédant de nombreuses demandes d’immigration professionnelle, examinant disponibilité des travailleurs américains et effets salariaux ; l’USCIS traite les demandes suivantes. [^3]
+Le département du Travail décrit le PERM comme une certification précédant de nombreuses demandes d’immigration professionnelle. L’examen porte sur la disponibilité des travailleurs américains et sur les effets salariaux. L’USCIS traite les demandes suivantes.[^3]
 
-Cette distinction procédurale compte. Un obstacle à la certification peut affecter le parcours de résidence permanente concerné, mais une suspension du PERM ne prouve pas que toutes les voies professionnelles vers la carte verte sont fermées ni que les visas de travail, cartes vertes et autorisations de travail existants sont tous invalidés. L’étape atteinte par le salarié et l’entité juridique qui le parraine peuvent déterminer les points à vérifier.
+Le détail de la procédure change la lecture. Un obstacle à la certification peut affecter le parcours de résidence permanente concerné. Une suspension du PERM ne prouve pas que toutes les voies professionnelles vers la carte verte sont fermées, ni que les visas de travail, les cartes vertes et les autorisations de travail existants sont tous invalidés. L’étape atteinte par le salarié, et l’entité juridique qui le parraine, disent souvent ce qu’il reste à vérifier.
 
 ## Le nombre de demandes ne mesure pas les besoins des salariés
 
-Le nombre de demandes ne mesure pas l’intérêt de tous les salariés pour la résidence permanente et ne démontre pas que différentes entreprises suivent le même modèle de recrutement. Demandes déposées, effectifs, statuts migratoires existants et personnes susceptibles de nécessiter un parrainage ultérieur ne sont pas des quantités interchangeables.
+Le nombre de demandes ne mesure pas l’intérêt de tous les salariés pour la résidence permanente. Il ne démontre pas non plus que les entreprises suivent toutes le même modèle de recrutement. Demandes déposées, effectifs, statuts migratoires existants, personnes susceptibles de nécessiter un parrainage ultérieur : ces quantités ne s’échangent pas.
 
 ## Part sectorielle et conséquences individuelles diffèrent
 
-Selon ICICI Securities, l’informatique indienne représentait moins de 2 % des dossiers PERM déposés d’octobre 2024 à septembre 2025. [^4] Le dénominateur désigne les demandes, pas les salariés ou cartes vertes approuvées.
+Selon ICICI Securities, l’informatique indienne représentait moins de 2 % des dossiers PERM déposés d’octobre 2024 à septembre 2025.[^4] Le dénominateur désigne les demandes. Pas les salariés. Pas les cartes vertes approuvées.
 
-Pour une entreprise, le recours limité à une voie donnée peut réduire la probabilité de perturbations immédiates des prestations. Pour un salarié, le faible nombre de personnes touchées ne diminue pas l’incertitude pesant sur le projet professionnel de sa famille. Ces deux observations sont compatibles, mais doivent être évaluées séparément.
+Un recours limité à cette voie peut réduire, pour l’entreprise, le risque d’une perturbation immédiate des prestations. Côté salarié, le petit nombre de personnes touchées n’enlève rien à l’incertitude qui pèse sur le projet professionnel de sa famille. Les deux constats sont vrais en même temps. On ne les juge pas de la même manière.
 
-L’enjeu sera de préserver les compétences, la continuité des équipes et les coûts de recrutement nécessaires aux projets, tout en expliquant aux salariés concernés l’articulation des démarches. Une exposition directe limitée ne résout pas toutes les questions d’application ou de fidélisation à long terme et ne prouve pas que les revenus d’un secteur entier seront épargnés.
+L’enjeu sera de préserver les compétences, la continuité des équipes et les coûts de recrutement nécessaires aux projets, tout en expliquant aux salariés concernés comment les démarches s’articulent. Une exposition directe limitée ne résout pas toutes les questions d’application ou de fidélisation à long terme. Elle ne prouve pas que les revenus d’un secteur entier seront épargnés.
 
 [^1]: 2026-10-09 · [Déclaration de l’entreprise concernant l’annonce du gouvernement américain sur le programme de certification permanente du travail](https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09102026080757_SE_TCS_Statement_f.pdf) · TCS, archives de la National Stock Exchange of India, document TCS/SE/104/2026-27 · Titre original : Statement of the Company regarding the announcement by the US Government on the Permanent Labor Certification Program
 

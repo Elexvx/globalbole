@@ -16,37 +16,37 @@ readTime: 5
 draft: false
 ---
 
-Geopolitics is BYD’s biggest challenge to expansion, executive vice-president Stella Li said at the Milken Institute Asia Summit in Singapore on October 8. Reuters reported that she described a predictable, stable business environment as necessary for investment. BYD has decided not to sell passenger cars in the United States for now because of the market’s complexity and lack of policy clarity. Her remarks describe the current pace of market entry, not a permanent decision to abandon the US market.[^1]
+Geopolitics is BYD’s biggest challenge to expansion, executive vice-president Stella Li said at the Milken Institute Asia Summit in Singapore on October 8. She told Reuters that investment needs a predictable, stable business environment. BYD has decided not to sell passenger cars in the United States for now, because of the market’s complexity and the lack of policy clarity. Her remarks describe the current pace of market entry. They are not a permanent decision to abandon the US market.[^1]
 
 ![AI-generated illustration: unbranded cars, a vehicle carrier and port elements](/news-media/2026-10-09/byd-overseas-geopolitics-2026-10-09.png)
 
 *AI-generated illustration: unbranded cars, a vehicle carrier and port elements represent overseas automotive expansion; these are not BYD models, a real port or a news-event scene.*
 
-The Milken Institute’s official programme lists Li’s session at 1:30 pm Singapore time on October 8 and identifies her additional role as CEO of BYD Americas. The programme confirms the event arrangements; Reuters’ reporting is the basis for her specific remarks discussed here.[^2][^1]
+The Milken Institute’s official programme lists Li’s session at 1:30 pm Singapore time on October 8, and identifies her additional role as CEO of BYD Americas. The programme confirms the event arrangements. Reuters’ reporting is the basis for the specific remarks discussed here.[^2][^1]
 
 ## The US position concerns passenger cars for now
 
-Li said BYD had operated in the United States for many years but was currently holding back from the passenger-car market. She stressed the absence of clear, stable and predictable conditions. Her wording is limited both by time and business activity. It does not establish an exit from every US operation or a timetable for entering the market later.[^1]
+Li said BYD had operated in the United States for many years, but was currently holding back from the passenger-car market. She stressed that clear, stable and predictable conditions were missing. The remark is bounded in time, and it is about passenger cars. It is not an exit from every US operation, and it sets no date for entering that market later.[^1]
 
-For overseas expansion, policy uncertainty affects assessments of returns on factories, sales networks and service systems. Even a manufacturer with product and cost advantages needs to know whether market-access rules will remain stable long enough. That is the commercial significance of placing geopolitics first: expansion depends not only on the number of vehicles produced, but also on which investments can proceed under predictable conditions.
+Policy uncertainty feeds into the returns expected from factories, sales networks and service systems. A manufacturer can have advantages in product and cost and still need to know that market-access rules will hold still long enough. That is the commercial weight of putting geopolitics first. Expansion depends on how many vehicles are produced. It also depends on which investments can proceed when the conditions are predictable.
 
 ## A diversified business is management’s positioning
 
-Reuters noted that BYD’s chairman had previously set an ambition to become the world’s largest automaker within five years. Li, meanwhile, emphasized that the company operates beyond cars, including energy storage and solar panels. She said it currently had no plans to partner with other Chinese companies, citing its leadership across several fields. These statements about competitive standing and partnership intentions are management’s assessments.[^1]
+Reuters noted that BYD’s chairman had previously set an ambition to become the world’s largest automaker within five years. Li emphasized a wider company, operating beyond cars in energy storage and solar panels. She said BYD currently had no plans to partner with other Chinese companies, citing its leadership across several fields. Statements about competitive standing and about partnership intentions are management’s assessments.[^1]
 
-She also argued that BYD’s Hong Kong-listed shares were undervalued relative to US companies because it should be understood as an engineering business rather than solely a carmaker. That is Li’s view of the company’s positioning and valuation, not an independent valuation analysis. The contribution of different businesses to revenue, profit and returns on capital still has to be tested against their operating results.
+She also argued that BYD’s Hong Kong-listed shares were undervalued relative to US companies, because the group should be understood as an engineering business rather than solely a carmaker. That is Li’s view of positioning and of valuation. It is not an independent valuation analysis. What each business contributes to revenue, profit and returns on capital still has to be tested against operating results.
 
 ## Hiring difficulties prompt interest in automation
 
-Li also said hiring enough workers in China had become difficult and that the company hoped to use industrial robots in the future. She described Nvidia as a strong chip partner. The Reuters report provides no new robotics investment amount, implementation schedule or additional Nvidia contract. An assessment of an existing partner and a direction for future automation should be distinguished from a completed new transaction.[^1]
+Hiring enough workers in China had become difficult, Li said, and the company hoped to use industrial robots in the future. She described Nvidia as a strong chip partner. The Reuters report gives no new robotics investment amount, no implementation schedule and no additional Nvidia contract. An assessment of an existing partner, and a direction for automation later, should be kept apart from a new transaction that has been completed.[^1]
 
-Automation can address some staffing and production-organization problems, but its effectiveness depends on particular processes, equipment spending, maintenance and integration with production lines. An intention to increase robot use alone cannot establish future headcount, unit costs or capacity gains. Recruitment pressures and overseas policy risks are also separate problems: one concerns production organization, the other whether a company can enter and operate in a target market on stable terms.
+Robots can take pressure off hiring, and off the way a production line is organized. They do that only for a given process, and only once the equipment is paid for, maintained and fitted in. Wanting more of them does not settle future headcount, unit costs or capacity. Hiring trouble at home and policy risk abroad are different problems. One concerns how production is organized. The other concerns whether the company can enter a target market, and operate there, on stable terms.
 
 ## Execution conditions will test global ambitions
 
-The remarks connect the constraints on BYD’s expansion: externally, predictable rules; internally, the allocation of people and manufacturing capability. The former affects where and when investment happens, while the latter shapes whether growth plans can be delivered. A diversified business provides options without automatically removing market-access and execution risks.
+The remarks put two constraints on the table. Rules have to be predictable before anyone can say where and when investment happens. People and manufacturing capability have to be available before a growth plan can be delivered. A diversified business provides options. It does not remove market-access risk, or the risk that execution slips.
 
-Progress can be checked against concrete sales arrangements, projects entering production and confirmed automation investment. The clearest signal from October 8 is that BYD retains global growth ambitions while waiting on the US passenger-car market. Describing that stance as a permanent withdrawal, or turning praise for a partner into a new order, would go beyond the information disclosed.
+Sales arrangements, projects that enter production and automation investment that has been confirmed are the concrete checks. The clearest signal from October 8 is that BYD retains global growth ambitions while waiting on the US passenger-car market. To describe that stance as a permanent withdrawal, or to turn praise for a partner into a new order, would go beyond the information disclosed.
 
 [^1]: 2026-10-08 · [BYD exec says biggest challenge to expansion is geopolitics](https://theedgemalaysia.com/node/821035) · Reuters, by Xinghui Kok, via The Edge Malaysia.
 
