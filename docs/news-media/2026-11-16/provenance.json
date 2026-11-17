@@ -1,0 +1,268 @@
+{
+  "issue": "2026-11-16",
+  "generatedAt": "2026-11-16T18:20:00Z",
+  "sourceDocument": {
+    "title": "Globalbole_2026_11_16_Direct_Release_Package"
+  },
+  "processingPipeline": "Pillow Image.frombytes('RGB', im.size, im.tobytes()).save(out_path, format='WEBP', quality=90, method=6) with EXIF/IPTC/XMP/ICCP stripped",
+  "assets": [
+    {
+      "slug": "itu-cop31-antalya-ai-pledge-council-election-2026-11-16",
+      "category": "technology",
+      "localPath": "/news-media/2026-11-16/itu-cop31-antalya-ai-pledge-council-election-2026-11-16-editorial.webp",
+      "publicPath": "/news-media/2026-11-16/itu-cop31-antalya-ai-pledge-council-election-2026-11-16-editorial.webp",
+      "fileName": "itu-cop31-antalya-ai-pledge-council-election-2026-11-16-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 57478,
+      "sha256": "4ef389636d0527e11a42d86f16d116c0244ff9474c86b9c11ba0f1b86b0dbeab",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅色石灰岩板与透明光学玻璃棱柱底座上的拉丝铝制服务器散热鳍片、极简黄铜抛物面通信接收器模型与半透明翠绿玻璃叶片静物，象征低碳算力基础设施、全球无线电频谱治理与人工智能气候承诺，并非安塔利亚COP31或多哈全权代表大会现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅色石灰岩板与透明光学玻璃棱柱底座上的拉丝铝制服务器散热鳍片、极简黄铜抛物面通信接收器模型与半透明翠绿玻璃叶片静物，象征低碳算力基础设施、全球无线电频谱治理与人工智能气候承诺，并非安塔利亚COP31或多哈全权代表大会现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺色石灰岩板與透明光學玻璃稜柱底座上的拉絲鋁製伺服器散熱鰭片、極簡黃銅拋物面通信接收器模型與半透明翠綠玻璃葉片靜物，象徵低碳算力基礎設施、全球無線電頻譜治理與人工智慧氣候承諾，並非安塔利亞COP31或多哈全權代表大會現場照片。",
+        "en": "AI-generated editorial illustration: a brushed aluminum server heatsink fin module, a minimalist brass parabolic receiver model, and a translucent emerald-green glass leaf on a honed pale limestone slab and clear optical glass prism block symbolize low-emission AI infrastructure, global radio-spectrum governance, and climate commitments, not an actual photograph from COP31 in Antalya or PP-26 in Doha.",
+        "ru": "Иллюстрация, созданная ИИ: ребристый алюминиевый серверный радиатор, латунная модель параболической приемной антенны и полупрозрачный зеленый стеклянный лист на плите из светлого известняка и блоке оптического стекла символизируют низкоуглеродную вычислительную инфраструктуру, глобальное регулирование радиочастотного спектра и климатические обязательства в сфере ИИ, не являясь реальной фотографией с конференций COP31 в Анталье или ПК-26 в Дохе.",
+        "fr": "Illustration conceptuelle générée par l'IA : un dissipateur thermique de serveur en aluminium brossé, une maquette minimaliste d'antenne parabolique en laiton et une feuille translucide en verre vert émeraude posés sur une dalle de calcaire clair et un prisme de verre optique symbolisent les infrastructures de calcul bas carbone, la gouvernance mondiale du spectre radioélectrique et les engagements climatiques sur l'IA, sans constituer une photographie réelle de la COP31 à Antalya ni de la PP-26 à Doha."
+      },
+      "prompt": "Studio tabletop conceptual still-life photography, 16:9 widescreen composition. Flat matte sage-green and warm sand architectural paper backdrop and tabletop surface with soft directional studio lighting and crisp geometric shadows. Resting directly on the tabletop are a low flat rectangular honed pale limestone slab and a solid clear optical glass prism block. Arranged cleanly on top are three physical miniature objects: a brushed silver anodized aluminum server heatsink fin block, a small minimalist brushed brass parabolic satellite dish receiver model, and a smooth translucent emerald-green glass botanical leaf sculpture. Ultra-clean editorial aesthetic. Strictly NO tiered circular cake stands or round pedestals, NO text, NO letters, NO numbers, NO dial markings or graduations, NO corporate or institutional logos, NO human faces or figures, NO flags, NO maps, NO charts or graphs.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-16 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "COP31's Antalya AI Pledge to tackle artificial intelligence's climate footprint",
+          "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-COP31-Antalya-AI-Pledge.aspx",
+          "publisher": "International Telecommunication Union"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "ITU elects members of ITU Council and Radio Regulations Board",
+          "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx",
+          "publisher": "International Telecommunication Union"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "UN Climate Chief on artificial intelligence: \"The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work\"",
+          "url": "https://unfccc.int/news/un-climate-chief-on-artificial-intelligence-the-task-ahead-is-to-blunt-their-dangerous-edges-sharpen",
+          "publisher": "United Nations Framework Convention on Climate Change"
+        }
+      ]
+    },
+    {
+      "slug": "china-nbs-october-industrial-output-investment-macro-2026-11-16",
+      "category": "business",
+      "localPath": "/news-media/2026-11-16/china-nbs-october-industrial-output-investment-macro-2026-11-16-editorial.webp",
+      "publicPath": "/news-media/2026-11-16/china-nbs-october-industrial-output-investment-macro-2026-11-16-editorial.webp",
+      "fileName": "china-nbs-october-industrial-output-investment-macro-2026-11-16-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 46728,
+      "sha256": "41fdd79a51a4681ddcdd7bb289294d51c87dd8ecc7afa66091190e17977249a9",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深灰天然板岩与透明光学亚克力块底座上的无字虹彩硅半导体晶圆、拉丝不锈钢微型多轴机械臂关节与精密铣削紫铜齿轮静物，象征高技术装备制造、集成电路产出与工业设备更新投资，并非晶圆厂车间或新闻发布会现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深灰天然板岩与透明光学亚克力块底座上的无字虹彩硅半导体晶圆、拉丝不锈钢微型多轴机械臂关节与精密铣削紫铜齿轮静物，象征高技术装备制造、集成电路产出与工业设备更新投资，并非晶圆厂车间或新闻发布会现场照片。",
+        "zh-TW": "AI生成概念示意圖：深灰天然板岩與透明光學壓克力塊底座上的無字虹彩矽半導體晶圓、拉絲不鏽鋼微型多軸機械臂關節與精密銑削紫銅齒輪靜物，象徵高技術裝備製造、積體電路產出與工業設備更新投資，並非晶圓廠車間或新聞發布會現場照片。",
+        "en": "AI-generated editorial illustration: an unprinted iridescent silicon semiconductor wafer, a brushed stainless-steel articulated miniature robotic joint, and a milled copper precision gear resting on a dark natural cleft slate slab and clear optical acrylic block symbolize high-tech equipment output, semiconductor fabrication, and industrial capital upgrading, not a real factory floor or press briefing photograph.",
+        "ru": "Иллюстрация, созданная ИИ: чистая радужная кремниевая полупроводниковая пластина, стальной шарнирный узел миниатюрного робототехнического манипулятора и фрезерованная медная шестерня на плите из темного натурального сланца и прозрачном акриловом блоке символизируют выпуск высокотехнологичного оборудования, микроэлектронику и обновление промышленных фондов, не являясь реальной фотографией завода или брифинга.",
+        "fr": "Illustration conceptuelle générée par l'IA : une tranche de silicium semi-conducteur irisée sans inscription, une articulation miniature de bras robotisé en acier inoxydable brossé et une roue dentée en cuivre usiné disposés sur une dalle d'ardoise brute et un bloc d'acrylique optique symbolisent la fabrication d'équipements de haute technologie, les circuits intégrés et le renouvellement industriel, sans constituer une photographie réelle d'usine ou de conférence de presse."
+      },
+      "prompt": "Studio tabletop conceptual still-life photography, 16:9 widescreen composition. Flat matte slate-blue and warm alabaster architectural paper backdrop and surface with soft directional studio lighting and clean shadows. Resting low on the tabletop are a flat rectangular dark charcoal natural cleft slate slab and a solid clear optical acrylic block. Arranged cleanly on the slabs are three physical miniature industrial objects: a blank iridescent silicon semiconductor wafer disc leaning subtly without any printed text, a precision-machined brushed stainless-steel miniature articulated robotic arm joint, and a milled solid copper precision gear wheel. Minimalist editorial product still life. Strictly NO tiered circular cake stands or round pedestals, NO text, NO letters, NO numbers, NO ruler or scale markings, NO logos, NO human faces or hands, NO flags, NO maps, NO charts or graphs.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-16 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "国家统计局新闻发言人就2026年10月份国民经济运行情况答记者问",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965869.html",
+          "publisher": "国家统计局"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "2026年10月份规模以上工业增加值增长4.8%",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965842.html",
+          "publisher": "国家统计局"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "2026年1—10月份全国固定资产投资基本情况",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965841.html",
+          "publisher": "国家统计局"
+        }
+      ]
+    },
+    {
+      "slug": "china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16",
+      "category": "energy",
+      "localPath": "/news-media/2026-11-16/china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16-editorial.webp",
+      "publicPath": "/news-media/2026-11-16/china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16-editorial.webp",
+      "fileName": "china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 102996,
+      "sha256": "be8e29f4acfb2ff475c582869ac0068bfc97b4167e128eb48877712879b0157f",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅米色多孔天然洞石板与透明光学玻璃立方体上的纯白微型三叶风力涡轮轮毂、无字深蓝单晶硅太阳能电池片及配白瓷绝缘子的编织紫铜高压母线静物，象征风光清洁能源替代与人工智能数据中心高压并网扩容，并非风电场或变电站现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅米色多孔天然洞石板与透明光学玻璃立方体上的纯白微型三叶风力涡轮轮毂、无字深蓝单晶硅太阳能电池片及配白瓷绝缘子的编织紫铜高压母线静物，象征风光清洁能源替代与人工智能数据中心高压并网扩容，并非风电场或变电站现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺米色多孔天然洞石板與透明光學玻璃立方體上的純白微型三葉風力渦輪輪轂、無字深藍單晶矽太陽能電池片及配白瓷絕緣子的編織紫銅高壓母線靜物，象徵風光清潔能源替代與人工智慧資料中心高壓併網擴容，並非風電場或變電站現場照片。",
+        "en": "AI-generated editorial illustration: a matte white miniature three-blade wind turbine rotor hub, an unprinted deep-blue monocrystalline solar cell tile, and braided bare copper high-voltage conductors with white porcelain insulator discs on beige travertine and clear optical glass symbolize renewable generation expansion and AI grid interconnection buildouts, not a real power plant or substation photograph.",
+        "ru": "Иллюстрация, созданная ИИ: матовая белая трехлопастная втулка ветротурбины, темно-синяя монокристаллическая солнечная пластина без маркировки и плетеные медные высоковольтные шины с белыми фарфоровыми изоляторами на пористом бежевом травертине и кубе оптического стекла символизируют рост возобновляемой генерации и расширение электросетей для дата-центров ИИ, не являясь реальной фотографией электростанции или подстанции.",
+        "fr": "Illustration conceptuelle générée par l'IA : un moyeu miniature d'éolienne blanc mat à trois pales, une cellule photovoltaïque monocristalline bleu profond sans marquage et des conducteurs haute tension en cuivre tressé munis d'isolateurs en porcelaine blanche sur du travertin beige et un cube de verre optique symbolisent l'essor des énergies renouvelables et le raccordement électrique des centres de données d'IA, sans constituer une photographie réelle de centrale ou de poste électrique."
+      },
+      "prompt": "Studio tabletop conceptual still-life photography, 16:9 widescreen composition. Flat matte terracotta-ochre and pale mist-grey architectural paper backdrop and tabletop plane with soft directional studio lighting. Resting flat on the tabletop are a low rectangular natural beige porous travertine stone slab and a clear solid optical glass cube. Arranged cleanly on the stone and glass blocks are three physical miniature energy objects: a smooth matte white three-blade miniature wind turbine rotor hub, a deep-blue blank monocrystalline solar cell tile without labels, and braided bare copper high-voltage conductor bars paired with glazed white porcelain insulator discs. Clean architectural still life. Strictly NO tiered circular cake stands or round pedestals, NO text, NO letters, NO numbers, NO meter dials, NO logos, NO people, NO flags, NO maps, NO charts or graphs.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-16 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "2026年10月份能源生产情况",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+          "publisher": "国家统计局"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Some Potential Financial Stability Implications of Artificial Intelligence",
+          "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+          "publisher": "Board of Governors of the Federal Reserve System"
+        }
+      ]
+    },
+    {
+      "slug": "ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16",
+      "category": "work-life",
+      "localPath": "/news-media/2026-11-16/ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16-editorial.webp",
+      "publicPath": "/news-media/2026-11-16/ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16-editorial.webp",
+      "fileName": "ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 60368,
+      "sha256": "0842a5b0984db647cc6cf6ecb561ae0257b5749a5e5aa46395fc6a6ce3140c07",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深灰玄武岩板与透明光学玻璃块底座上的哑光黄色无标微型工业安全帽、无文字纯几何金线绿色印刷电路板与两枚互扣拉丝不锈钢链环静物，象征三方社会对话、制造业职业安全保障与电子汽车供应链劳工尽职调查，并非日内瓦投票或泰国工厂现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深灰玄武岩板与透明光学玻璃块底座上的哑光黄色无标微型工业安全帽、无文字纯几何金线绿色印刷电路板与两枚互扣拉丝不锈钢链环静物，象征三方社会对话、制造业职业安全保障与电子汽车供应链劳工尽职调查，并非日内瓦投票或泰国工厂现场照片。",
+        "zh-TW": "AI生成概念示意圖：深灰玄武岩板與透明光學玻璃塊底座上的啞光黃色無標微型工業安全帽、無文字純幾何金線綠色印刷電路板與兩枚互扣拉絲不鏽鋼鏈環靜物，象徵三方社會對話、製造業職業安全保障與電子汽車供應鏈勞工盡職調查，並非日內瓦投票或泰國工廠現場照片。",
+        "en": "AI-generated editorial illustration: an emblem-free matte yellow miniature industrial hard hat, an unprinted emerald-green circuit board with pure geometric gold traces, and two interlocking brushed stainless-steel chain links resting on honed dark grey basalt and clear optical glass symbolize tripartite labour dialogue, workplace safety, and electronics-automotive supply chain due diligence, not a real Geneva ballot or Thai factory photograph.",
+        "ru": "Иллюстрация, созданная ИИ: матовая желтая миниатюрная каска без логотипов, изумрудно-зеленая печатная плата с геометрическим рисунком позолоченных дорожек без текста и два сцепленных стальных звена на плите из темного базальта и прозрачном оптическом стекле символизируют трехсторонний социальный диалог, охрану труда и проверку цепочек поставок в электронике и автопроме, не являясь реальной фотографией из Женевы или Таиланда.",
+        "fr": "Illustration conceptuelle générée par l'IA : un mini-casque industriel jaune mat sans emblème, une carte de circuit imprimé vert émeraude aux pistes dorées purement géométriques sans texte et deux maillons en acier inoxydable brossé entrelacés sur une dalle de basalte sombre et un bloc de verre optique symbolisent le dialogue social tripartite, la sécurité au travail et le devoir de vigilance dans les chaînes automobiles et électroniques, sans constituer une photographie réelle prise à Genève ou en Thaïlande."
+      },
+      "prompt": "Studio tabletop conceptual still-life photography, 16:9 widescreen composition. Flat matte muted cobalt-grey and warm cream architectural paper backdrop and tabletop surface with soft studio lighting. Resting low on the surface are a flat rectangular honed dark grey basalt stone slab and a clear solid optical glass rectangular block. Arranged cleanly on top are three physical miniature objects: a smooth matte yellow miniature industrial safety hard hat completely free of stickers or emblems, an unprinted emerald-green circuit board square with pure geometric gold copper traces and zero text, and two interlocking brushed stainless-steel heavy chain links symbolizing workplace cooperation. Minimalist editorial photography. Strictly NO tiered circular cake stands or round pedestals, NO text, NO letters, NO numbers, NO logos, NO human faces or hands, NO flags, NO maps, NO charts or graphs.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-16 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "Gilbert F. Houngbo re-elected Director-General of the International Labour Organization",
+          "url": "https://www.ilo.org/resource/news/gilbert-f-houngbo-re-elected-director-general-international-labour",
+          "publisher": "International Labour Organization"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "ILO strengthens workers' role in human rights due diligence in Thailand's auto and electronics sectors",
+          "url": "https://www.ilo.org/resource/news/ilo-strengthens-workers%E2%80%99-role-human-rights-due-diligence-thailand%E2%80%99s-auto",
+          "publisher": "International Labour Organization"
+        }
+      ]
+    },
+    {
+      "slug": "who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16",
+      "category": "innovation",
+      "localPath": "/news-media/2026-11-16/who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16-editorial.webp",
+      "publicPath": "/news-media/2026-11-16/who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16-editorial.webp",
+      "fileName": "who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 61544,
+      "sha256": "c3380046d74ae891db67545acc3ba5dc88a6f140b5a78fb26c8b5a2015ba4c7b",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅奶油色天然洞石板与透明光学玻璃块底座上的拉丝黄铜环双凸光学玻璃透镜、盛有净水的透明硼硅玻璃水滴器皿与折射洁净光束的光学三棱镜静物，象征公共卫生眼病消除、安全水源干预与欧盟数字算法透明度研究，并非临床医疗或实验室现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅奶油色天然洞石板与透明光学玻璃块底座上的拉丝黄铜环双凸光学玻璃透镜、盛有净水的透明硼硅玻璃水滴器皿与折射洁净光束的光学三棱镜静物，象征公共卫生眼病消除、安全水源干预与欧盟数字算法透明度研究，并非临床医疗或实验室现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺奶油色天然洞石板與透明光學玻璃塊底座上的拉絲黃銅環雙凸光學玻璃透鏡、盛有淨水的透明硼矽玻璃水滴器皿與折射潔淨光束的光學三稜鏡靜物，象徵公共衛生眼病消除、安全水源干預與歐盟數位演算法透明度研究，並非臨床醫療或實驗室現場照片。",
+        "en": "AI-generated editorial illustration: a biconvex optical glass lens in a minimalist brushed-brass ring, a clear borosilicate glass water-drop vessel, and a triangular optical prism casting a clean spectrum ray onto pale travertine and clear optical glass symbolize blindness-prevention validation, clean-water sanitation, and European digital algorithmic transparency research, not a real clinical or laboratory photograph.",
+        "ru": "Иллюстрация, созданная ИИ: двояковыпуклая оптическая линза в латунном кольце, прозрачный боросиликатный сосуд в форме капли с чистой водой и треугольная стеклянная призма, преломляющая луч света на светлом травертине и блоке оптического стекла, символизируют профилактику инфекционной слепоты, санитарно-водные программы и европейские исследования алгоритмической прозрачности, не являясь реальной клинической или лабораторной фотографией.",
+        "fr": "Illustration conceptuelle générée par l'IA : une lentille optique biconvexe montée sur un anneau en laiton brossé, un flacon goutte en verre borosilicaté rempli d'eau limpide et un prisme triangulaire projetant un faisceau lumineux sur du travertin clair et un bloc de verre optique symbolisent l'élimination de la cécité infectieuse, l'accès à l'eau propre et la recherche européenne sur la transparence algorithmique, sans constituer une photographie médicale ou scientifique réelle."
+      },
+      "prompt": "Studio tabletop conceptual still-life photography, 16:9 widescreen composition. Flat matte celadon-teal and warm ivory architectural paper backdrop and tabletop surface with soft natural-feeling studio light. Resting flat on the tabletop are a low rectangular pale cream travertine stone slab and a solid clear optical glass block. Arranged cleanly on top are three physical miniature scientific objects: a precision biconvex optical glass lens mounted in a minimalist brushed brass ring holder, a pure clear borosilicate glass water-drop vessel filled with crystal-clear water, and a triangular optical glass prism casting a subtle clean spectrum ray onto the stone slab. Refined editorial still life. Strictly NO tiered circular cake stands or round pedestals, NO medicine bottles with labels, NO text, NO letters, NO numbers, NO logos, NO human eyes or faces, NO flags, NO maps, NO charts or graphs.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-16 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "Eritrea eliminates trachoma: a major public health milestone",
+          "url": "https://www.who.int/news/item/16-11-2026-eritrea-eliminates-trachoma-a-major-public-health-milestone",
+          "publisher": "World Health Organization"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Persuasion mechanisms in influencer marketing - Challenges for consumer protection in the digital age",
+          "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC148205",
+          "publisher": "European Commission Joint Research Centre"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Nonlinear economic damages from compound heat and drought events",
+          "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC147759",
+          "publisher": "European Commission Joint Research Centre"
+        }
+      ]
+    },
+    {
+      "slug": "switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16",
+      "category": "current-affairs",
+      "localPath": "/news-media/2026-11-16/switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16-editorial.webp",
+      "publicPath": "/news-media/2026-11-16/switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16-editorial.webp",
+      "fileName": "switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 63342,
+      "sha256": "968b76843ef5616b2eae464cde9dd7415bf34128be147225e5846c74e0fed154",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：灰色磨光石灰岩板与透明光学玻璃块底座上的无刻度拉丝黄铜平衡天平、精密铣削精钢工字梁十字结构节点与细钢拱悬挂琥珀色玻璃铅锤静物，象征战时中小企业产能重建援助与各国央行在多重外部冲击下的宏观政策校准，并非基辅或利马会议现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：灰色磨光石灰岩板与透明光学玻璃块底座上的无刻度拉丝黄铜平衡天平、精密铣削精钢工字梁十字结构节点与细钢拱悬挂琥珀色玻璃铅锤静物，象征战时中小企业产能重建援助与各国央行在多重外部冲击下的宏观政策校准，并非基辅或利马会议现场照片。",
+        "zh-TW": "AI生成概念示意圖：灰色磨光石灰岩板與透明光學玻璃塊底座上的無刻度拉絲黃銅平衡天平、精密銑削精鋼工字梁十字結構節點與細鋼拱懸掛琥珀色玻璃鉛錘靜物，象徵戰時中小企業產能重建援助與各國央行在多重外部衝擊下的宏觀政策校準，並非基輔或利馬會議現場照片。",
+        "en": "AI-generated editorial illustration: a minimalist brushed-brass balance beam without graduations, a precision-milled steel structural I-beam cross-joint, and a suspended amber glass plumb bob on honed grey limestone and clear optical glass symbolize industrial reconstruction financing and central bank macroeconomic stabilization amid global uncertainty, not a real photograph from Kyiv or Lima.",
+        "ru": "Иллюстрация, созданная ИИ: минималистичные латунные весы в равновесии без делений, фрезерованный стальной крестообразный узел двутавровой балки и подвешенный отвес из янтарного стекла на плите из серого известняка и прозрачном оптическом стекле символизируют финансирование промышленного восстановления и выверку макроэкономической политики центральных банков, не являясь реальной фотографией из Киева или Лимы.",
+        "fr": "Illustration conceptuelle générée par l'IA : un fléau de balance minimaliste en laiton brossé sans graduation, un nœud structurel de poutrelle en acier usiné et un fil à plomb en verre ambré suspendu sous une arche métallique sur une dalle de calcaire gris et un bloc de verre optique symbolisent le financement de la résilience industrielle et l'équilibrage des politiques macroéconomiques des banques centrales, sans constituer une photographie réelle prise à Kiev ou à Lima."
+      },
+      "prompt": "Studio tabletop conceptual still-life photography, 16:9 widescreen composition. Flat matte mineral-navy and warm stone-beige architectural paper backdrop and tabletop plane with soft directional studio lighting. Resting flat on the surface are a low rectangular honed grey limestone slab and a solid clear optical glass block. Arranged cleanly on top are three physical miniature architectural objects: a minimalist brushed brass balance beam resting horizontally in equilibrium with smooth blank pans and zero markings, a precision-milled steel miniature structural I-beam cross-joint, and a smooth amber glass plumb bob suspended from a slender matte steel arch. Calm, authoritative editorial still life. Strictly NO tiered circular cake stands or round pedestals, NO coins or currency symbols, NO text, NO letters, NO numbers, NO scale graduations, NO logos, NO faces, NO flags, NO maps, NO charts or graphs.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-16 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "Switzerland invests CHF 30 million in ILO-supported Ukrainian business competitiveness programme",
+          "url": "https://www.ilo.org/resource/news/switzerland-invests-chf-30-million-ilo-supported-ukrainian-business",
+          "publisher": "International Labour Organization"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Uncertainty, policymaking and the role of research",
+          "url": "https://www.bis.org/speeches/20261116-uncertainty-policymaking-and-role-research",
+          "publisher": "Bank for International Settlements"
+        }
+      ]
+    }
+  ]
+}

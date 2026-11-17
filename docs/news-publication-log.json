@@ -7035,6 +7035,489 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-11-15-zh-CN",
+      "issue": "2026-11-15",
+      "publicationDate": "2026-11-15",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15",
+          "slug": "doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15",
+          "category": "technology",
+          "status": "published",
+          "path": "content/issues/2026-11-15/zh-CN/doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15.md",
+          "cover": "/news-media/2026-11-15/doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-13",
+              "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy",
+              "title": "Predicting U.S. Water for Energy",
+              "publisher": "U.S. Department of Energy (DOE)"
+            },
+            {
+              "date": "2026-11-13",
+              "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/scaling-grid-power-american-economy",
+              "title": "Scaling the Grid to Power the American Economy",
+              "publisher": "U.S. Department of Energy (DOE)"
+            }
+          ]
+        },
+        {
+          "translationKey": "who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15",
+          "slug": "who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15",
+          "category": "innovation",
+          "status": "published",
+          "path": "content/issues/2026-11-15/zh-CN/who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15.md",
+          "cover": "/news-media/2026-11-15/who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-14",
+              "url": "https://www.who.int/news/item/14-11-2026-who-issues-first-guidelines-on-type-1-diabetes-for-adults",
+              "title": "WHO issues first guidelines on type 1 diabetes for adults",
+              "publisher": "World Health Organization (WHO)"
+            },
+            {
+              "date": "2026-11-13",
+              "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026",
+              "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2026",
+              "publisher": "European Medicines Agency (EMA)"
+            }
+          ]
+        },
+        {
+          "translationKey": "imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15",
+          "slug": "imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15",
+          "category": "business",
+          "status": "published",
+          "path": "content/issues/2026-11-15/zh-CN/imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15.md",
+          "cover": "/news-media/2026-11-15/imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-15",
+              "url": "https://www.imf.org/en/news/articles/2026/11/15/sp111526-aseans-brave-new-frontier",
+              "title": "ASEAN's Brave New Frontier",
+              "publisher": "International Monetary Fund (IMF)"
+            },
+            {
+              "date": "2026-11-13",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+              "title": "Agencies extend comment period for proposed third-party risk management guidance",
+              "publisher": "Board of Governors of the Federal Reserve System"
+            }
+          ]
+        },
+        {
+          "translationKey": "doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15",
+          "slug": "doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15",
+          "category": "energy",
+          "status": "published",
+          "path": "content/issues/2026-11-15/zh-CN/doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15.md",
+          "cover": "/news-media/2026-11-15/doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-13",
+              "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/unleashing-subsurface-strategic-energy-assets",
+              "title": "Unleashing Subsurface Strategic Energy Assets",
+              "publisher": "U.S. Department of Energy (DOE)"
+            },
+            {
+              "date": "2026-11-13",
+              "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/collection-national-science-and-technology-challenges",
+              "title": "Collection: National Science and Technology Challenges",
+              "publisher": "U.S. Department of Energy (DOE)"
+            }
+          ]
+        },
+        {
+          "translationKey": "unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15",
+          "slug": "unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15",
+          "category": "current-affairs",
+          "status": "published",
+          "path": "content/issues/2026-11-15/zh-CN/unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15.md",
+          "cover": "/news-media/2026-11-15/unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-14",
+              "url": "https://unfccc.int/news/un-climate-chief-today-at-halfway-point-of-cop31-no-collective-success-without-compromise-from-every",
+              "title": "UN Climate Chief today at halfway point of COP31: \"no collective success without compromise from every Party\"",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+            },
+            {
+              "date": "2026-11-13",
+              "url": "https://unfccc.int/news/face-the-facts-follow-the-science-choose-the-future-and-never-give-up-un-secretary-general-at-his",
+              "title": "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+            }
+          ]
+        },
+        {
+          "translationKey": "us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15",
+          "slug": "us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15",
+          "category": "work-life",
+          "status": "published",
+          "path": "content/issues/2026-11-15/zh-CN/us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15.md",
+          "cover": "/news-media/2026-11-15/us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-13",
+              "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm",
+              "title": "Producer Price Index News Release - 2026 M10 Results",
+              "publisher": "U.S. Bureau of Labor Statistics (BLS)"
+            },
+            {
+              "date": "2026-11-13",
+              "url": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-23.html",
+              "title": "Tip Sheet Number 23 — November 13, 2026",
+              "publisher": "U.S. Census Bureau"
+            }
+          ]
+        }
+      ],
+      "deferredSlugs": [
+        "mot-coastal-marine-weather-bulletin-2026-11-15",
+        "jpl-night-sky-star-quest-observing-event-2026-11-15"
+      ],
+      "reviewFile": "docs/news-publication-review-2026-11-15.json",
+      "provenanceFile": "docs/news-media/2026-11-15/provenance.json"
+    },
+    {
+      "id": "2026-11-16-zh-CN",
+      "issue": "2026-11-16",
+      "publicationDate": "2026-11-16",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "itu-cop31-antalya-ai-pledge-council-election-2026-11-16",
+          "slug": "itu-cop31-antalya-ai-pledge-council-election-2026-11-16",
+          "category": "technology",
+          "status": "published",
+          "path": "content/issues/2026-11-16/zh-CN/itu-cop31-antalya-ai-pledge-council-election-2026-11-16.md",
+          "cover": "/news-media/2026-11-16/itu-cop31-antalya-ai-pledge-council-election-2026-11-16-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-COP31-Antalya-AI-Pledge.aspx",
+              "title": "COP31's Antalya AI Pledge to tackle artificial intelligence's climate footprint",
+              "publisher": "International Telecommunication Union"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx",
+              "title": "ITU elects members of ITU Council and Radio Regulations Board",
+              "publisher": "International Telecommunication Union"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://unfccc.int/news/un-climate-chief-on-artificial-intelligence-the-task-ahead-is-to-blunt-their-dangerous-edges-sharpen",
+              "title": "UN Climate Chief on artificial intelligence: \"The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work\"",
+              "publisher": "United Nations Framework Convention on Climate Change"
+            }
+          ]
+        },
+        {
+          "translationKey": "china-nbs-october-industrial-output-investment-macro-2026-11-16",
+          "slug": "china-nbs-october-industrial-output-investment-macro-2026-11-16",
+          "category": "business",
+          "status": "published",
+          "path": "content/issues/2026-11-16/zh-CN/china-nbs-october-industrial-output-investment-macro-2026-11-16.md",
+          "cover": "/news-media/2026-11-16/china-nbs-october-industrial-output-investment-macro-2026-11-16-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965869.html",
+              "title": "国家统计局新闻发言人就2026年10月份国民经济运行情况答记者问",
+              "publisher": "国家统计局"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965842.html",
+              "title": "2026年10月份规模以上工业增加值增长4.8%",
+              "publisher": "国家统计局"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965841.html",
+              "title": "2026年1—10月份全国固定资产投资基本情况",
+              "publisher": "国家统计局"
+            }
+          ]
+        },
+        {
+          "translationKey": "china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16",
+          "slug": "china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16",
+          "category": "energy",
+          "status": "published",
+          "path": "content/issues/2026-11-16/zh-CN/china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16.md",
+          "cover": "/news-media/2026-11-16/china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+              "title": "2026年10月份能源生产情况",
+              "publisher": "国家统计局"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+              "title": "Some Potential Financial Stability Implications of Artificial Intelligence",
+              "publisher": "Board of Governors of the Federal Reserve System"
+            }
+          ]
+        },
+        {
+          "translationKey": "ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16",
+          "slug": "ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16",
+          "category": "work-life",
+          "status": "published",
+          "path": "content/issues/2026-11-16/zh-CN/ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16.md",
+          "cover": "/news-media/2026-11-16/ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.ilo.org/resource/news/gilbert-f-houngbo-re-elected-director-general-international-labour",
+              "title": "Gilbert F. Houngbo re-elected Director-General of the International Labour Organization",
+              "publisher": "International Labour Organization"
+            },
+            {
+              "date": "2026-11-15",
+              "url": "https://www.ilo.org/resource/news/ilo-strengthens-workers%E2%80%99-role-human-rights-due-diligence-thailand%E2%80%99s-auto",
+              "title": "ILO strengthens workers' role in human rights due diligence in Thailand's auto and electronics sectors",
+              "publisher": "International Labour Organization"
+            }
+          ]
+        },
+        {
+          "translationKey": "who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16",
+          "slug": "who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16",
+          "category": "innovation",
+          "status": "published",
+          "path": "content/issues/2026-11-16/zh-CN/who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16.md",
+          "cover": "/news-media/2026-11-16/who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.who.int/news/item/16-11-2026-eritrea-eliminates-trachoma-a-major-public-health-milestone",
+              "title": "Eritrea eliminates trachoma: a major public health milestone",
+              "publisher": "World Health Organization"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC148205",
+              "title": "Persuasion mechanisms in influencer marketing - Challenges for consumer protection in the digital age",
+              "publisher": "European Commission Joint Research Centre"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC147759",
+              "title": "Nonlinear economic damages from compound heat and drought events",
+              "publisher": "European Commission Joint Research Centre"
+            }
+          ]
+        },
+        {
+          "translationKey": "switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16",
+          "slug": "switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16",
+          "category": "current-affairs",
+          "status": "published",
+          "path": "content/issues/2026-11-16/zh-CN/switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16.md",
+          "cover": "/news-media/2026-11-16/switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.ilo.org/resource/news/switzerland-invests-chf-30-million-ilo-supported-ukrainian-business",
+              "title": "Switzerland invests CHF 30 million in ILO-supported Ukrainian business competitiveness programme",
+              "publisher": "International Labour Organization"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.bis.org/speeches/20261116-uncertainty-policymaking-and-role-research",
+              "title": "Uncertainty, policymaking and the role of research",
+              "publisher": "Bank for International Settlements"
+            }
+          ]
+        }
+      ],
+      "deferredSlugs": [
+        "guangzhou-natural-resources-reception-schedule-2026-11-16",
+        "liyang-hazardous-waste-transfer-notice-2026-11-16"
+      ],
+      "reviewFile": "docs/news-publication-review-2026-11-16.json",
+      "provenanceFile": "docs/news-media/2026-11-16/provenance.json"
+    },
+    {
+      "id": "2026-11-17-zh-CN",
+      "issue": "2026-11-17",
+      "publicationDate": "2026-11-17",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17",
+          "slug": "eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17",
+          "category": "technology",
+          "status": "published",
+          "path": "content/issues/2026-11-17/zh-CN/eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17.md",
+          "cover": "/news-media/2026-11-17/eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ai-requires-rigorous-safeguards-and-rules-keep-pace-technological-advances-experts-tell-european-2026-11-16_en",
+              "title": "AI requires rigorous safeguards and rules that keep pace with technological advances– experts tell the European Commission",
+              "publisher": "European Commission Directorate-General for Research and Innovation"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.fda.gov/science-research/fda-and-super-intelligence/fdas-use-super-intelligence-and-si-under-executive-order-14434",
+              "title": "FDA's Use of “Super Intelligence” and “SI” Under Executive Order 14434",
+              "publisher": "U.S. Food and Drug Administration (FDA)"
+            }
+          ]
+        },
+        {
+          "translationKey": "who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17",
+          "slug": "who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17",
+          "category": "innovation",
+          "status": "published",
+          "path": "content/issues/2026-11-17/zh-CN/who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17.md",
+          "cover": "/news-media/2026-11-17/who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.who.int/news/item/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+              "title": "More countries have antimicrobial resistance plans but patients still lack testing and treatment",
+              "publisher": "World Health Organization (WHO)"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en",
+              "title": "Commission publishes technical guidance to support implementation of the Digital Product Passport Registry",
+              "publisher": "European Commission Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs"
+            }
+          ]
+        },
+        {
+          "translationKey": "eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17",
+          "slug": "eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17",
+          "category": "business",
+          "status": "published",
+          "path": "content/issues/2026-11-17/zh-CN/eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17.md",
+          "cover": "/news-media/2026-11-17/eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+              "title": "Commission imposes anti-dumping duties on certain cold-rolled flat steel products",
+              "publisher": "European Commission Directorate-General for Trade and Economic Security"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7671195/content.shtml",
+              "title": "中国证监会在沪召开国际顾问委员会第23次会议",
+              "publisher": "中国证券监督管理委员会"
+            }
+          ]
+        },
+        {
+          "translationKey": "cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17",
+          "slug": "cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17",
+          "category": "energy",
+          "status": "published",
+          "path": "content/issues/2026-11-17/zh-CN/cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17.md",
+          "cover": "/news-media/2026-11-17/cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+              "title": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
+              "publisher": "European Commission Directorate-General for Climate Action"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://unfccc.int/sites/default/files/resource/Information_Note_2026_HLMRT.pdf",
+              "title": "Information Note on the 2026 High-level ministerial round table on pre-2030 ambition",
+              "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+            }
+          ]
+        },
+        {
+          "translationKey": "imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17",
+          "slug": "imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17",
+          "category": "current-affairs",
+          "status": "published",
+          "path": "content/issues/2026-11-17/zh-CN/imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17.md",
+          "cover": "/news-media/2026-11-17/imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.imf.org/en/news/articles/2026/11/16/pr26366-ukraine-imf-staff-authorities-second-third-review-eff-arrangement",
+              "title": "IMF Staff and the Ukrainian Authorities have made important progress on policy discussions on the Second and Third Review of the Extended Fund Facility Arrangement, with discussions continuing virtually",
+              "publisher": "International Monetary Fund (IMF)"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026",
+              "title": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
+              "publisher": "Prime Minister's Office, 10 Downing Street"
+            }
+          ]
+        },
+        {
+          "translationKey": "fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17",
+          "slug": "fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17",
+          "category": "work-life",
+          "status": "published",
+          "path": "content/issues/2026-11-17/zh-CN/fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17.md",
+          "cover": "/news-media/2026-11-17/fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-16",
+              "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+              "title": "Opening remarks by Chairman Warsh at the Federal Reserve's Productivity and Jobs Task Force Conference",
+              "publisher": "Board of Governors of the Federal Reserve System"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://www.imf.org/en/news/seminars/conferences/2026/11/17/imf-oecd-piie-world-bank-conference",
+              "title": "IMF-OECD-PIIE-World Bank Conference: Labor Markets and Structural Transformation in Times of Change: AI and Demographic Shifts",
+              "publisher": "International Monetary Fund (IMF)"
+            },
+            {
+              "date": "2026-11-16",
+              "url": "https://www.gov.uk/government/publications/civil-service-pension-recovery-plan-updates/civil-service-pensions-recovery-plan-update-16-november-2026",
+              "title": "Civil Service Pensions Recovery Plan Update - 16 November 2026",
+              "publisher": "UK Cabinet Office"
+            }
+          ]
+        }
+      ],
+      "deferredSlugs": [
+        "mot-pearl-river-hydrological-bulletin-2026-11-17",
+        "safe-kashgar-county-branch-official-seal-notice-2026-11-16"
+      ],
+      "reviewFile": "docs/news-publication-review-2026-11-17.json",
+      "provenanceFile": "docs/news-media/2026-11-17/provenance.json"
     }
   ],
   "revisions": [

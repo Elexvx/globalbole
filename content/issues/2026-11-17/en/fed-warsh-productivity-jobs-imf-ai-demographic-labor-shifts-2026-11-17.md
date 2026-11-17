@@ -1,0 +1,39 @@
+---
+title: "Fed Chairman Warsh Outlines Three Super Intelligence Labor Scenarios as IMF-OECD Conference and UK Pension Recovery Address Workforce Shifts"
+slug: "fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17"
+translationKey: "fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17"
+issue: "2026-11-17"
+lang: "en"
+category: "work-life"
+author: "全球伯乐 News"
+authorRole: "Source compilation"
+date: "2026-11-17"
+description: "Federal Reserve Chairman Kevin Warsh detailed three model-based scenarios for productivity and unemployment at the San Francisco Fed, while an IMF-OECD-PIIE-World Bank conference examined AI and demographic aging and the UK Cabinet Office reported Civil Service Pensions backlog metrics."
+cover: "/news-media/2026-11-17/fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17-editorial.webp"
+coverAlt: "Studio tabletop still-life of interlocking brass and walnut gears, a solid clear glass hourglass sculpture, and a linen work strap on travertine"
+tags: ["Labour market","Employment","Economic data"]
+readTime: 5
+draft: false
+---
+
+Central bank scenario modeling, multilateral labor economics research, and public-sector pension administration converged across three official releases on November 16–17, 2026. Speaking at the Federal Reserve Bank of San Francisco on November 16, Chairman Kevin Warsh of the [Board of Governors of the Federal Reserve System](https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm) opened the Productivity and Jobs Task Force Conference by outlining three staff-modeled macroeconomic contingencies for the era of "super intelligence" (SI)[^1]. On November 17 in Washington, the [International Monetary Fund (IMF)](https://www.imf.org/en/news/seminars/conferences/2026/11/17/imf-oecd-piie-world-bank-conference), OECD, Peterson Institute for International Economics (PIIE), and World Bank convened a two-day conference on AI and demographic shifts[^2], while the [UK Cabinet Office](https://www.gov.uk/government/publications/civil-service-pension-recovery-plan-updates/civil-service-pensions-recovery-plan-update-16-november-2026) published its November 16 Civil Service Pensions Recovery Plan progress report[^3].
+
+![Studio tabletop still-life of interlocking brass and walnut gears, a solid clear glass hourglass sculpture, and a linen work strap on travertine](/news-media/2026-11-17/fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17-editorial.webp)
+
+AI-generated editorial illustration: two interlocking brushed-brass and walnut-wood spur gears, a solid clear glass hourglass sculpture, and a folded linen work strap with a brushed-steel clasp on a porous travertine slab represent the Federal Reserve Productivity and Jobs Task Force scenarios, the IMF-OECD-PIIE-World Bank labor transformation conference, and the UK Civil Service Pensions recovery update, not a real conference photograph.
+
+## Federal Reserve Chairman Warsh Evaluates Idea-Generation Productivity Against Job-Displacement Friction
+
+Making his first visit to a regional Reserve Bank as Chairman, Kevin Warsh noted that the Productivity and Jobs Task Force—co-led by Marc, Chad, and Asha—is one of five intellectual task forces he has established to prepare monetary policy for structural shifts beyond daily data releases. Citing endogenous growth theory developed by Nobel laureate Paul Romer alongside empirical findings by Nicholas Bloom and Charles I. Jones showing that U.S. research inputs have risen more than twentyfold since the 1930s while research productivity declined, Warsh observed that slowing population growth and harder-to-find breakthrough ideas previously fueled secular-stagnation concerns. Unlike historical general-purpose technologies such as electricity or the internal combustion engine, Warsh argued, super intelligence (SI) may directly automate and accelerate the generation of new ideas while driving the marginal cost of accessing specialized knowledge toward zero[^1].
+
+Emphasizing that human judgment and responsibility remain irreplaceable and that the Federal Reserve acts neither as technology advocate nor opponent, Warsh presented three illustrative staff scenarios. In the first scenario, SI lifts total factor productivity and shares gains broadly across labor and capital, keeping real U.S. GDP growth persistently above its long-run average near full employment. In the second scenario, GDP growth still exceeds its historical trend, but rapid task automation displaces workers faster than labor-market frictions allow reabsorption, pushing unemployment above full-employment benchmarks. In the third scenario, SI returns disappoint following heavy capital expenditure and equity appreciation, triggering a valuation correction, economic slowdown, and higher unemployment before the economy recovers without lasting productivity gains[^1].
+
+## IMF-OECD-PIIE-World Bank Conference Analyzes Demographic Divergence as UK Civil Service Pensions Uploads 528,729 Benefit Statements
+
+Complementing the Fed's macroeconomic scenarios, the IMF-OECD-PIIE-World Bank conference held November 17–18 at PIIE headquarters in Washington examined how demographic trajectories mediate AI diffusion across advanced and developing economies. While population aging in advanced and many emerging economies shrinks labor supply and raises wage costs—strengthening corporate incentives to deploy labor-saving automation—rapid youth-population growth in lower-income regions frequently coincides with weaker digital connectivity, creating risks of "disruption without dividend." Featuring opening remarks by PIIE President Adam Posen, a keynote by Harvard University's Gordon Hanson, and policy panels with World Bank, IMF, and OECD directors, the sessions assessed whether U.S. retraining programs shield workers from automation, how generative AI alters college wage premiums, and how informal labor markets buffer technological displacement[^2].
+
+Meanwhile, on the operational side of public-sector workforce administration, the UK Cabinet Office's November 16 update detailed administrator Capita's progress since establishing a new Management Information (MI) baseline on October 5, 2026. Although total open pension administration cases rose from 150,000 to 156,000 as new intake exceeded clearances—with Workstream 1 complex cases increasing by 2,100 to 32,600 as oldest root-cause fixes await employer data, Workstream 2 normal cases processed in line with intake (two-thirds aged 30 days or younger), and Workstream 3 other cases rising from 106,000 to 111,300 amid duplicate-query consolidation—call-center answer rates reached 99.8%, with calls answered within 30 seconds jumping from 67.5% to 79.9%. Out of 577,458 Annual Benefit Statements (ABS), 528,729 have been uploaded or posted (including 3,027 on November 9, another 38,000 targeted by November 20, and roughly 9,000 to follow, while 842 members with remedy-period pension sharing orders from April 2015 to March 2022 will receive dedicated letters before year-end)[^3].
+
+[^1]: 2026-11-16 · [Opening remarks by Chairman Warsh at the Federal Reserve's Productivity and Jobs Task Force Conference](https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm) · Board of Governors of the Federal Reserve System.
+[^2]: 2026-11-17 · [IMF-OECD-PIIE-World Bank Conference: Labor Markets and Structural Transformation in Times of Change: AI and Demographic Shifts](https://www.imf.org/en/news/seminars/conferences/2026/11/17/imf-oecd-piie-world-bank-conference) · International Monetary Fund (IMF).
+[^3]: 2026-11-16 · [Civil Service Pensions Recovery Plan Update - 16 November 2026](https://www.gov.uk/government/publications/civil-service-pension-recovery-plan-updates/civil-service-pensions-recovery-plan-update-16-november-2026) · UK Cabinet Office.

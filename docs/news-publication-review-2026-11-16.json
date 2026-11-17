@@ -1,0 +1,128 @@
+{
+  "issue": "2026-11-16",
+  "reviewedAt": "2026-11-16T18:20:00Z",
+  "screenedCandidates": 8,
+  "publishedCount": 6,
+  "deferredCount": 2,
+  "published": [
+    {
+      "slug": "itu-cop31-antalya-ai-pledge-council-election-2026-11-16",
+      "category": "technology",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-COP31-Antalya-AI-Pledge.aspx",
+        "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx",
+        "https://unfccc.int/news/un-climate-chief-on-artificial-intelligence-the-task-ahead-is-to-blunt-their-dangerous-edges-sharpen"
+      ]
+    },
+    {
+      "slug": "china-nbs-october-industrial-output-investment-macro-2026-11-16",
+      "category": "business",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965869.html",
+        "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965842.html",
+        "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965841.html"
+      ]
+    },
+    {
+      "slug": "china-nbs-october-energy-production-fed-ai-datacenter-power-2026-11-16",
+      "category": "energy",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+        "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"
+      ]
+    },
+    {
+      "slug": "ilo-houngbo-reelection-thailand-auto-electronics-workers-2026-11-16",
+      "category": "work-life",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.ilo.org/resource/news/gilbert-f-houngbo-re-elected-director-general-international-labour",
+        "https://www.ilo.org/resource/news/ilo-strengthens-workers%E2%80%99-role-human-rights-due-diligence-thailand%E2%80%99s-auto"
+      ]
+    },
+    {
+      "slug": "who-eritrea-trachoma-elimination-eu-jrc-digital-marketing-2026-11-16",
+      "category": "innovation",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.who.int/news/item/16-11-2026-eritrea-eliminates-trachoma-a-major-public-health-milestone",
+        "https://publications.jrc.ec.europa.eu/repository/handle/JRC148205",
+        "https://publications.jrc.ec.europa.eu/repository/handle/JRC147759"
+      ]
+    },
+    {
+      "slug": "switzerland-ilo-ukraine-business-fund-bis-policy-uncertainty-2026-11-16",
+      "category": "current-affairs",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.ilo.org/resource/news/switzerland-invests-chf-30-million-ilo-supported-ukrainian-business",
+        "https://www.bis.org/speeches/20261116-uncertainty-policymaking-and-role-research"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "slug": "guangzhou-natural-resources-reception-schedule-2026-11-16",
+      "date": "2026-11-16",
+      "title": "广州市规划和自然资源局局领导接访安排(2026年11月16日-11月20日)",
+      "sourceUrl": "https://ghzyj.gz.gov.cn/hdjl/jfzl/content/post_11103325.html",
+      "publisher": "广州市规划和自然资源局",
+      "status": "deferred",
+      "reason": "广州市规划和自然资源局信访处例行发布的11月16日至11月20日局领导人民来访接待大厅预约接访排班表，属市级部门日常行政接待安排，无宏观土地规划或房地产政策增量信息，按编辑规范暂缓成稿。"
+    },
+    {
+      "slug": "liyang-hazardous-waste-transfer-notice-2026-11-16",
+      "date": "2026-11-16",
+      "title": "危险废物跨省转移相关信息材料公示",
+      "sourceUrl": "https://www.liyang.gov.cn/html/czly/2026/AQDAAJQI_1116/35995.html",
+      "publisher": "常州市溧阳生态环境局",
+      "status": "deferred",
+      "reason": "常州市溧阳生态环境局对江苏嘉盛旺环境科技有限公司接受上海巴斯夫聚氨酯有限公司共260吨废活性炭（HW49 900-039-49）跨省综合利用转移申请的初审例行公示（公示期11月16日至19日），属县级单批次行政许可程序，不涉及环保监管政策调整，按编辑规范暂缓成稿。"
+    }
+  ]
+}

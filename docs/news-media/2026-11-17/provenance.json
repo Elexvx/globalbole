@@ -1,0 +1,276 @@
+{
+  "issue": "2026-11-17",
+  "generatedAt": "2026-11-17T04:18:00Z",
+  "sourceDocument": {
+    "title": "Globalbole_2026_11_17_Issue_and_Illustrations",
+    "googleDocId": "1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80",
+    "url": "https://docs.google.com/document/d/1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80/edit"
+  },
+  "processingPipeline": "sharp(src).rotate().webp({ quality: 90, effort: 6 }) / libwebp q=90 m=6 with EXIF/IPTC/XMP stripped",
+  "assets": [
+    {
+      "slug": "eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17",
+      "category": "technology",
+      "localPath": "/news-media/2026-11-17/eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17-editorial.webp",
+      "publicPath": "/news-media/2026-11-17/eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17-editorial.webp",
+      "fileName": "eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80",
+      "docxRelationId": "rId6",
+      "docxMediaEntry": "word/media/image3.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 79962,
+      "sha256": "5db11f718cf6ef2a9ca1ab7ade7f7260f48aeb1803ac2aa8a37b50aa6746d5e0",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深色玄武岩台面上的透明光学玻璃棱镜方块、拉丝黄铜平衡横梁与缎面阳极氧化铝精密铰链静物，象征欧盟人工智能独立评估与安全护栏机制以及美国联邦监管术语规范更新，并非欧盟委员会或美国食药监局办公现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色玄武岩台面上的透明光学玻璃棱镜方块、拉丝黄铜平衡横梁与缎面阳极氧化铝精密铰链静物，象征欧盟人工智能独立评估与安全护栏机制以及美国联邦监管术语规范更新，并非欧盟委员会或美国食药监局办公现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色玄武岩檯面上的透明光學玻璃稜鏡方塊、拉絲黃銅平衡橫樑與緞面陽極氧化鋁精密鉸鏈靜物，象徵歐盟人工智慧獨立評估與安全護欄機制以及美國聯邦監管術語規範更新，並非歐盟委員會或美國食藥監局辦公現場照片。",
+        "en": "AI-generated editorial illustration: a clear optical glass prism block, a minimalist brushed-brass balance beam arm, and a satin-aluminum precision hinge on a dark basalt slab represent European independent AI model evaluation safeguards and U.S. federal regulatory terminology alignment, not a real European Commission or FDA office photograph.",
+        "ru": "Иллюстрация, созданная ИИ: прозрачный куб из оптического стекла, матовое латунное коромысло весов и алюминиевый прецизионный шарнир на базальтовой плите символизируют независимую оценку безопасности ИИ-моделей в ЕС и обновление регуляторной терминологии FDA США; это не реальная фотография ведомств.",
+        "fr": "Illustration conceptuelle générée par l'IA : un bloc prismatique en verre optique, un fléau d'équilibrage en laiton brossé et une charnière de précision en aluminium satiné sur une dalle de basalte symbolisent les garde-fous européens d'évaluation indépendante de l'IA et l'harmonisation terminologique de la FDA américaine, et non une photographie réelle."
+      },
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17: AI生成概念示意图：深色玄武岩台面上的透明光学玻璃棱镜方块、拉丝黄铜平衡横梁与缎面阳极氧化铝精密铰链静物，象征欧盟人工智能独立评估与安全护栏机制以及美国联邦监管术语规范更新，并非欧盟委员会或美国食药监局办公现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-17 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "AI requires rigorous safeguards and rules that keep pace with technological advances– experts tell the European Commission",
+          "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ai-requires-rigorous-safeguards-and-rules-keep-pace-technological-advances-experts-tell-european-2026-11-16_en",
+          "publisher": "European Commission Directorate-General for Research and Innovation"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "FDA's Use of “Super Intelligence” and “SI” Under Executive Order 14434",
+          "url": "https://www.fda.gov/science-research/fda-and-super-intelligence/fdas-use-super-intelligence-and-si-under-executive-order-14434",
+          "publisher": "U.S. Food and Drug Administration (FDA)"
+        }
+      ]
+    },
+    {
+      "slug": "who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17",
+      "category": "innovation",
+      "localPath": "/news-media/2026-11-17/who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17-editorial.webp",
+      "publicPath": "/news-media/2026-11-17/who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17-editorial.webp",
+      "fileName": "who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80",
+      "docxRelationId": "rId8",
+      "docxMediaEntry": "word/media/image6.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 175876,
+      "sha256": "47e499c5d12836f514d7ccfd8ae3309c6039dbc6bfe3c7251c444bf245f6ce53",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：多孔洞石台面上的两只盛有半透明琼脂圆片的硼硅酸盐玻璃培养皿、拉丝不锈钢实验镊子与方形磨砂石英晶圆薄片静物，象征全球抗微生物药物耐药性细菌真菌诊断工具包与欧盟数字产品护照注册库技术规范，并非临床实验室或工业现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：多孔洞石台面上的两只盛有半透明琼脂圆片的硼硅酸盐玻璃培养皿、拉丝不锈钢实验镊子与方形磨砂石英晶圆薄片静物，象征全球抗微生物药物耐药性细菌真菌诊断工具包与欧盟数字产品护照注册库技术规范，并非临床实验室或工业现场照片。",
+        "zh-TW": "AI生成概念示意圖：多孔洞石檯面上的兩隻盛有半透明瓊脂圓片的硼矽酸鹽玻璃培養皿、拉絲不鏽鋼實驗鑷子與方形磨砂石英晶圓薄片靜物，象徵全球抗微生物藥物耐藥性細菌真菌診斷工具包與歐盟數位產品護照註冊庫技術規範，並非臨床實驗室或工業現場照片。",
+        "en": "AI-generated editorial illustration: two clear borosilicate glass Petri dishes with translucent agar discs, brushed stainless-steel laboratory forceps, and a square frosted-quartz wafer tile on a porous travertine slab represent global antimicrobial resistance diagnostic toolkits and the EU Digital Product Passport Registry technical specifications, not a real clinical laboratory photograph.",
+        "ru": "Иллюстрация, созданная ИИ: две стеклянные чашки Петри с полупрозрачным агаром, стальной лабораторный пинцет и квадратная пластина из матового кварца на травертиновой плите символизируют диагностику устойчивости к противомикробным препаратам ВОЗ и технические стандарты реестра цифровых паспортов продукции ЕС; это не реальная фотография лаборатории.",
+        "fr": "Illustration conceptuelle générée par l'IA : deux boîtes de Petri en verre borosilicaté contenant de la gélose translucide, une pince de laboratoire en acier brossé et une plaquette carrée en quartz dépoli sur une dalle de travertin symbolisent les outils diagnostiques de l'OMS contre l'antibiorésistance et le registre européen du passeport numérique des produits, et non une photographie réelle."
+      },
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17: AI生成概念示意图：多孔洞石台面上的两只盛有半透明琼脂圆片的硼硅酸盐玻璃培养皿、拉丝不锈钢实验镊子与方形磨砂石英晶圆薄片静物，象征全球抗微生物药物耐药性细菌真菌诊断工具包与欧盟数字产品护照注册库技术规范，并非临床实验室或工业现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-17 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "More countries have antimicrobial resistance plans but patients still lack testing and treatment",
+          "url": "https://www.who.int/news/item/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+          "publisher": "World Health Organization (WHO)"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Commission publishes technical guidance to support implementation of the Digital Product Passport Registry",
+          "url": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en",
+          "publisher": "European Commission Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs"
+        }
+      ]
+    },
+    {
+      "slug": "eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17",
+      "category": "business",
+      "localPath": "/news-media/2026-11-17/eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17-editorial.webp",
+      "publicPath": "/news-media/2026-11-17/eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17-editorial.webp",
+      "fileName": "eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80",
+      "docxRelationId": "rId10",
+      "docxMediaEntry": "word/media/image5.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 90016,
+      "sha256": "1679a1a874f91f1c07443ad6f2c13ee819bbca25db613feedcaebbcddf26aa67",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅灰色粗琢石灰岩台面上紧密盘绕的拉丝冷轧不锈钢带卷、两枚圆柱形实心青铜配重块与透明亚克力建筑方体静物，象征欧盟对冷轧扁平钢材征收最终反倾销税并首次认定“特殊市场状况”以及中国证监会国际顾问委员会资本市场韧性研讨，并非钢厂或会议现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅灰色粗琢石灰岩台面上紧密盘绕的拉丝冷轧不锈钢带卷、两枚圆柱形实心青铜配重块与透明亚克力建筑方体静物，象征欧盟对冷轧扁平钢材征收最终反倾销税并首次认定“特殊市场状况”以及中国证监会国际顾问委员会资本市场韧性研讨，并非钢厂或会议现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺灰色粗琢石灰岩檯面上緊密盤繞的拉絲冷軋不鏽鋼帶卷、兩枚圓柱形實心青銅配重塊與透明壓克力建築方體靜物，象徵歐盟對冷軋扁平鋼材徵收最終反傾銷稅並首次認定「特殊市場狀況」以及中國證監會國際顧問委員會資本市場韌性研討，並非鋼廠或會議現場照片。",
+        "en": "AI-generated editorial illustration: a tightly coiled roll of brushed cold-rolled stainless steel strip, two solid cylindrical bronze counterweights, and a clear acrylic architectural block on a grey limestone slab represent EU definitive anti-dumping duties on cold-rolled flat steel and China Securities Regulatory Commission international advisory deliberations on capital-market resilience, not a real steel mill or conference photograph.",
+        "ru": "Иллюстрация, созданная ИИ: плотно свёрнутый рулон матовой холоднокатаной стальной ленты, два бронзовых цилиндрических противовеса и прозрачный акриловый блок на известняковой плите символизируют окончательные антидемпинговые пошлины ЕС на холоднокатаный плоский прокат и заседание Международного консультативного совета CSRC КНР; это не реальная фотография металлургического завода.",
+        "fr": "Illustration conceptuelle générée par l'IA : un rouleau serré de bande d'acier inoxydable laminé à froid brossé, deux contrepoids cylindriques en bronze massif et un bloc architectural en acrylique transparent sur une dalle de calcaire gris symbolisent les droits antidumping définitifs de l'UE sur l'acier plat laminé à froid et les travaux du conseil consultatif international de la CSRC chinoise, et non une photographie réelle."
+      },
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17: AI生成概念示意图：浅灰色粗琢石灰岩台面上紧密盘绕的拉丝冷轧不锈钢带卷、两枚圆柱形实心青铜配重块与透明亚克力建筑方体静物，象征欧盟对冷轧扁平钢材征收最终反倾销税并首次认定“特殊市场状况”以及中国证监会国际顾问委员会资本市场韧性研讨，并非钢厂或会议现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-17 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "Commission imposes anti-dumping duties on certain cold-rolled flat steel products",
+          "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+          "publisher": "European Commission Directorate-General for Trade and Economic Security"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "中国证监会在沪召开国际顾问委员会第23次会议",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7671195/content.shtml",
+          "publisher": "中国证券监督管理委员会"
+        }
+      ]
+    },
+    {
+      "slug": "cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17",
+      "category": "energy",
+      "localPath": "/news-media/2026-11-17/cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17-editorial.webp",
+      "publicPath": "/news-media/2026-11-17/cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17-editorial.webp",
+      "fileName": "cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80",
+      "docxRelationId": "rId12",
+      "docxMediaEntry": "word/media/image2.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 108246,
+      "sha256": "bb0adb6c47f93294db1b484876d8bb73e39a8d88d9b49b2c2698f1c28fc9d502",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深色板岩台面上三枚交错咬合的透明与烟灰光学玻璃立方体、拉丝紫铜母排连接件及白色带棱高压陶瓷绝缘子静物，象征合规碳市场开放联盟《COP31宣言》碳定价互操作工作组与2030年前减排雄心部长级圆桌机制，并非安塔利亚气候大会现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色板岩台面上三枚交错咬合的透明与烟灰光学玻璃立方体、拉丝紫铜母排连接件及白色带棱高压陶瓷绝缘子静物，象征合规碳市场开放联盟《COP31宣言》碳定价互操作工作组与2030年前减排雄心部长级圆桌机制，并非安塔利亚气候大会现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色板岩檯面上三枚交錯咬合的透明與煙灰光學玻璃立方體、拉絲紫銅母排連接件及白色帶稜高壓陶瓷絕緣子靜物，象徵合規碳市場開放聯盟《COP31宣言》碳定價互操作工作組與2030年前減排雄心部長級圓桌機制，並非安塔利亞氣候大會現場照片。",
+        "en": "AI-generated editorial illustration: three interlocking clear and smoked optical glass cubes, a brushed-copper busbar connector bar, and a ribbed white ceramic high-voltage insulator ring on a dark slate slab represent the Open Coalition on Compliance Carbon Markets COP31 Declaration and the pre-2030 mitigation ambition ministerial roundtable, not a real Antalya summit photograph.",
+        "ru": "Иллюстрация, созданная ИИ: три сцепленных прозрачных и дымчатых куба из оптического стекла, медная соединительная шина и ребристый фарфоровый высоковольтный изолятор на сланцевой плите символизируют Декларацию COP31 Открытой коалиции по регулируемым углеродным рынкам и министерский круглый стол по климатическим целям до 2030 года; это не реальная фотография саммита в Анталье.",
+        "fr": "Illustration conceptuelle générée par l'IA : trois cubes imbriqués en verre optique clair et fumé, une barre omnibus en cuivre brossé et un isolateur haute tension en céramique blanche nervurée sur une dalle d'ardoise symbolisent la Déclaration COP31 de la Coalition ouverte sur les marchés du carbone de conformité et la table ronde ministérielle sur l'ambition pré-2030, et non une photographie réelle."
+      },
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17: AI生成概念示意图：深色板岩台面上三枚交错咬合的透明与烟灰光学玻璃立方体、拉丝紫铜母排连接件及白色带棱高压陶瓷绝缘子静物，象征合规碳市场开放联盟《COP31宣言》碳定价互操作工作组与2030年前减排雄心部长级圆桌机制，并非安塔利亚气候大会现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-17 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
+          "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+          "publisher": "European Commission Directorate-General for Climate Action"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Information Note on the 2026 High-level ministerial round table on pre-2030 ambition",
+          "url": "https://unfccc.int/sites/default/files/resource/Information_Note_2026_HLMRT.pdf",
+          "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+        }
+      ]
+    },
+    {
+      "slug": "imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17",
+      "category": "current-affairs",
+      "localPath": "/news-media/2026-11-17/imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17-editorial.webp",
+      "publicPath": "/news-media/2026-11-17/imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17-editorial.webp",
+      "fileName": "imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80",
+      "docxRelationId": "rId14",
+      "docxMediaEntry": "word/media/image4.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 83702,
+      "sha256": "ef4f9ce256f39a01808472e85c167967f1fa6284fef292063ce7394ae8aaab10",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅色磨光大理石台面上的微缩铸铁桁架桥跨、悬挂于极简黑钢拱架下的实心黄铜铅锤与叠置鹅卵石静物，象征国际货币基金组织乌克兰中期贷款审查与英国首相“梅克菲尔德测试”外交及英欧关系重置框架，并非基辅或伦敦金融城晚宴现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅色磨光大理石台面上的微缩铸铁桁架桥跨、悬挂于极简黑钢拱架下的实心黄铜铅锤与叠置鹅卵石静物，象征国际货币基金组织乌克兰中期贷款审查与英国首相“梅克菲尔德测试”外交及英欧关系重置框架，并非基辅或伦敦金融城晚宴现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺色磨光大理石檯面上的微縮鑄鐵桁架橋跨、懸掛於極簡黑鋼拱架下的實心黃銅鉛錘與疊置鵝卵石靜物，象徵國際貨幣基金組織烏克蘭中期貸款審查與英國首相「梅克菲爾德測試」外交及英歐關係重置框架，並非基輔或倫敦金融城晚宴現場照片。",
+        "en": "AI-generated editorial illustration: a miniature cast-iron bridge truss span on a honed pale marble slab alongside a solid brass plumb bob suspended from a minimalist black steel arch and stacked river stones represent IMF Extended Fund Facility review discussions with Ukraine and the UK Prime Minister's \"Makerfield Test\" foreign-policy reset, not a real Kyiv or Guildhall banquet photograph.",
+        "ru": "Иллюстрация, созданная ИИ: миниатюрный чугунный ферменный пролёт моста на мраморной плите, латунный отвес на стальной дуге и стопка гладких речных камней символизируют обзор программы МВФ для Украины и внешнеполитическую доктрину «теста Мейкерфилда» премьер-министра Великобритании; это не реальная фотография Киева или Лондона.",
+        "fr": "Illustration conceptuelle générée par l'IA : une travée miniature de pont en treillis de fonte sur une dalle de marbre pâle adouci, un fil à plomb en laiton massif suspendu à une arche en acier noir et des galets empilés symbolisent les revues du mécanisme élargi de crédit du FMI pour l'Ukraine et la réorientation diplomatique britannique du « test de Makerfield », et non une photographie réelle."
+      },
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17: AI生成概念示意图：浅色磨光大理石台面上的微缩铸铁桁架桥跨、悬挂于极简黑钢拱架下的实心黄铜铅锤与叠置鹅卵石静物，象征国际货币基金组织乌克兰中期贷款审查与英国首相“梅克菲尔德测试”外交及英欧关系重置框架，并非基辅或伦敦金融城晚宴现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-17 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "IMF Staff and the Ukrainian Authorities have made important progress on policy discussions on the Second and Third Review of the Extended Fund Facility Arrangement, with discussions continuing virtually",
+          "url": "https://www.imf.org/en/news/articles/2026/11/16/pr26366-ukraine-imf-staff-authorities-second-third-review-eff-arrangement",
+          "publisher": "International Monetary Fund (IMF)"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
+          "url": "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026",
+          "publisher": "Prime Minister's Office, 10 Downing Street"
+        }
+      ]
+    },
+    {
+      "slug": "fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17",
+      "category": "work-life",
+      "localPath": "/news-media/2026-11-17/fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17-editorial.webp",
+      "publicPath": "/news-media/2026-11-17/fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17-editorial.webp",
+      "fileName": "fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1yFQgwzwXtrFyrV5uiDKrONWCVHp5B9-6MrAiXqdjY80",
+      "docxRelationId": "rId16",
+      "docxMediaEntry": "word/media/image1.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 155464,
+      "sha256": "6089b4b8578c1ccbbf1b79e26d10c288e9912ba8dce5a75411fd48235c025562",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：多孔洞石台面上相互啮合的拉丝黄铜与胡桃木直齿轮、透明实心玻璃沙漏雕塑及配拉丝钢扣的原色亚麻工装织带静物，象征美联储生产率与就业工作组三种宏观情景、IMF-OECD人工智能与人口结构转型研讨以及英国文官养老金积压案件清理进展，并非旧金山联储或华盛顿会议现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：多孔洞石台面上相互啮合的拉丝黄铜与胡桃木直齿轮、透明实心玻璃沙漏雕塑及配拉丝钢扣的原色亚麻工装织带静物，象征美联储生产率与就业工作组三种宏观情景、IMF-OECD人工智能与人口结构转型研讨以及英国文官养老金积压案件清理进展，并非旧金山联储或华盛顿会议现场照片。",
+        "zh-TW": "AI生成概念示意圖：多孔洞石檯面上相互嚙合的拉絲黃銅與胡桃木直齒輪、透明實心玻璃沙漏雕塑及配拉絲鋼扣的原色亞麻工裝織帶靜物，象徵聯準會生產率與就業工作組三種宏觀情景、IMF-OECD人工智慧與人口結構轉型研討以及英國文官養老金積壓案件清理進展，並非舊金山聯準銀行或華盛頓會議現場照片。",
+        "en": "AI-generated editorial illustration: two interlocking brushed-brass and walnut-wood spur gears, a solid clear glass hourglass sculpture, and a folded linen work strap with a brushed-steel clasp on a porous travertine slab represent the Federal Reserve Productivity and Jobs Task Force scenarios, the IMF-OECD-PIIE-World Bank labor transformation conference, and the UK Civil Service Pensions recovery update, not a real conference photograph.",
+        "ru": "Иллюстрация, созданная ИИ: две сцепленные шестерни из матовой латуни и орехового дерева, стеклянная скульптура в форме песочных часов и льняной рабочий ремень со стальной пряжкой на плите из травертина символизируют сценарии Рабочей группы ФРС по производительности и занятости, конференцию МВФ-ОЭСР по рынку труда и отчёт по пенсиям госслужащих Великобритании; это не реальная фотография.",
+        "fr": "Illustration conceptuelle générée par l'IA : deux engrenages droits imbriqués en laiton brossé et en noyer sculpté, une sculpture en verre massif en forme de sablier et une sangle de travail en lin à boucle d'acier sur une dalle de travertin symbolisent les scénarios du groupe de travail de la Réserve fédérale sur la productivité et l'emploi, la conférence FMI-OCDE sur les mutations démographiques et le plan de redressement des retraites de la fonction publique britannique, et non une photographie réelle."
+      },
+      "prompt": "16:9 studio tabletop still-life conceptual editorial illustration for fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17: AI生成概念示意图：多孔洞石台面上相互啮合的拉丝黄铜与胡桃木直齿轮、透明实心玻璃沙漏雕塑及配拉丝钢扣的原色亚麻工装织带静物，象征美联储生产率与就业工作组三种宏观情景、IMF-OECD人工智能与人口结构转型研讨以及英国文官养老金积压案件清理进展，并非旧金山联储或华盛顿会议现场照片。",
+      "rightsBasis": "First-party AI-generated conceptual editorial still-life illustration created specifically for Globalbole's 2026-11-17 issue after confirming no directly matching open-license documentary photography was available in the cited primary releases; stripped of all EXIF/IPTC/XMP metadata and explicitly labeled as AI-generated across all five language editions.",
+      "primarySources": [
+        {
+          "date": "2026-11-16",
+          "title": "Opening remarks by Chairman Warsh at the Federal Reserve's Productivity and Jobs Task Force Conference",
+          "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+          "publisher": "Board of Governors of the Federal Reserve System"
+        },
+        {
+          "date": "2026-11-17",
+          "title": "IMF-OECD-PIIE-World Bank Conference: Labor Markets and Structural Transformation in Times of Change: AI and Demographic Shifts",
+          "url": "https://www.imf.org/en/news/seminars/conferences/2026/11/17/imf-oecd-piie-world-bank-conference",
+          "publisher": "International Monetary Fund (IMF)"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Civil Service Pensions Recovery Plan Update - 16 November 2026",
+          "url": "https://www.gov.uk/government/publications/civil-service-pension-recovery-plan-updates/civil-service-pensions-recovery-plan-update-16-november-2026",
+          "publisher": "UK Cabinet Office"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "issue": "2026-11-15",
+  "reviewedAt": "2026-11-16T18:05:00Z",
+  "screenedCandidates": 8,
+  "publishedCount": 6,
+  "deferredCount": 2,
+  "published": [
+    {
+      "slug": "doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15",
+      "category": "technology",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy",
+        "https://www.energy.gov/undersecretaryforscience/genesis-mission/scaling-grid-power-american-economy"
+      ]
+    },
+    {
+      "slug": "who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15",
+      "category": "innovation",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.who.int/news/item/14-11-2026-who-issues-first-guidelines-on-type-1-diabetes-for-adults",
+        "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026"
+      ]
+    },
+    {
+      "slug": "imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15",
+      "category": "business",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.imf.org/en/news/articles/2026/11/15/sp111526-aseans-brave-new-frontier",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm"
+      ]
+    },
+    {
+      "slug": "doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15",
+      "category": "energy",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.energy.gov/undersecretaryforscience/genesis-mission/unleashing-subsurface-strategic-energy-assets",
+        "https://www.energy.gov/undersecretaryforscience/genesis-mission/collection-national-science-and-technology-challenges"
+      ]
+    },
+    {
+      "slug": "unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15",
+      "category": "current-affairs",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://unfccc.int/news/un-climate-chief-today-at-halfway-point-of-cop31-no-collective-success-without-compromise-from-every",
+        "https://unfccc.int/news/face-the-facts-follow-the-science-choose-the-future-and-never-give-up-un-secretary-general-at-his"
+      ]
+    },
+    {
+      "slug": "us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15",
+      "category": "work-life",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.bls.gov/news.release/archives/ppi_11132026.htm",
+        "https://www.census.gov/newsroom/tip-sheets/2026/tp26-23.html"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "slug": "mot-coastal-marine-weather-bulletin-2026-11-15",
+      "date": "2026-11-15",
+      "title": "2026年11月15日14时近海海区天气预报",
+      "sourceUrl": "https://www.mot.gov.cn/fuwu/yujingtishi/jinhaihaiqutqyb/202611/t20261115_4227753.html",
+      "publisher": "中华人民共和国交通运输部（中国气象局中央气象台）",
+      "status": "deferred",
+      "reason": "渤海、黄海、东海及南海等近海海区常规24小时风力（东北风3～6级）与浪高（0.5～3.0米）例行海事气象预报，无港口封航或航运监管政策变化，按编辑规范暂缓成稿。"
+    },
+    {
+      "slug": "jpl-night-sky-star-quest-observing-event-2026-11-15",
+      "date": "2026-11-15",
+      "title": "Saturday Night Public Observing at Star*Quest Observatory",
+      "sourceUrl": "https://nightsky.jpl.nasa.gov/events/view/127574/?view=sky_chart",
+      "publisher": "NASA Jet Propulsion Laboratory Night Sky Network (Fort Wayne Astronomical Society)",
+      "status": "deferred",
+      "reason": "印第安纳州新黑文Star*Quest天文台面向当地公众的周六晚间免费业余观星科普活动日历通告，不涉及NASA深空探测任务进展或科研政策发布，按编辑规范暂缓成稿。"
+    }
+  ]
+}

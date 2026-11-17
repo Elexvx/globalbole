@@ -1,0 +1,270 @@
+{
+  "issue": "2026-11-15",
+  "generatedAt": "2026-11-16T18:05:00Z",
+  "sourceDocument": {
+    "title": "Globalbole_2026_11_15_Direct_Release_Package",
+    "googleDocId": "1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g",
+    "url": "https://docs.google.com/document/d/1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g/edit"
+  },
+  "processingPipeline": "Pillow Image.frombytes('RGB', im.size, im.tobytes()).save(out_path, format='WEBP', quality=90, method=6) / libwebp q=90 m=6 with EXIF/IPTC/XMP/ICCP stripped",
+  "assets": [
+    {
+      "slug": "doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15",
+      "category": "technology",
+      "localPath": "/news-media/2026-11-15/doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15-editorial.webp",
+      "publicPath": "/news-media/2026-11-15/doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15-editorial.webp",
+      "fileName": "doe-genesis-orbit-water-energy-ai-grid-scaling-2026-11-15-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g",
+      "docxRelationId": "rId6",
+      "docxMediaEntry": "word/media/image5.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 173346,
+      "sha256": "ed19deda3a1794389d9815982c00e05205f1e9536c29007219800f166ee12f85",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深色矩形板岩底座上摆放的内嵌水波曲面透明光学玻璃块、拉丝紫铜与阳极氧化铝高压绝缘子线圈及无标硅基镀金服务器散热鳍片模块，象征百亿亿次水文气象预测、电网扩容调度与数据中心算力负荷协同，并非美国国家实验室现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色矩形板岩底座上摆放的内嵌水波曲面透明光学玻璃块、拉丝紫铜与阳极氧化铝高压绝缘子线圈及无标硅基镀金服务器散热鳍片模块，象征百亿亿次水文气象预测、电网扩容调度与数据中心算力负荷协同，并非美国国家实验室现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色矩形板岩底座上擺放的內嵌水波曲面透明光學玻璃塊、拉絲紫銅與陽極氧化鋁高壓絕緣子線圈及無標矽基鍍金伺服器散熱鰭片模組，象徵百億億次水文氣象預測、電網擴容調度與資料中心算力負荷協同，並非美國國家實驗室現場照片。",
+        "en": "AI-generated editorial illustration: a clear optical glass block sculpted with an internal wave form, a brushed copper and anodized aluminum high-voltage insulator coil, and an unmarked gold-pin server heatsink on a flat dark slate slab symbolize exascale water forecasting, grid capacity expansion, and data center load management, not a photograph of a national laboratory.",
+        "ru": "Иллюстрация, созданная ИИ: блок прозрачного оптического стекла с рельефом волны внутри, медный высоковольтный изолятор и серверный радиатор без маркировки на плоской сланцевой плите символизируют экзафлопсное прогнозирование водных ресурсов, расширение электросетей и нагрузку дата-центров, не являясь фотографией национальной лаборатории.",
+        "fr": "Illustration conceptuelle générée par l'IA : un bloc de verre optique sculpté d'une onde interne, un isolateur électrique en cuivre brossé et un dissipateur thermique de serveur sans marquage posés sur une dalle plate d'ardoise sombre évoquent la prévision hydrologique exascale, l'extension du réseau et la charge des centres de données, sans constituer une photographie réelle."
+      },
+      "prompt": "Studio tabletop editorial still-life photography on flat matte slate-blue and warm sand-gray seamless paper planes. Resting flush on the tabletop is a single low, flat rectangular slab of honed dark charcoal slate (no circular base, no tiered pedestal). Arranged cleanly on the flat rectangular slate slab are three physical miniature objects: a clear solid optical glass block sculpted with an internal undulating wave form evoking water flow, a miniature brushed copper and anodized aluminum high-voltage electrical insulator coil, and a clean unbranded gold-and-silicon server heatsink module. Soft directional studio lighting with crisp architectural shadows. Strictly no text, no letters, no numbers, no measurement scales or tick marks, no logos, no screens, no charts, no maps, no flags, no faces, and no circular or tiered pedestals.",
+      "rightsBasis": "Original first-party AI-generated studio still-life editorial illustration created specifically for Globalbole 2026-11-15 issue with zero third-party logos, trademarks, or copyrighted elements; localized AI disclosure captions provided across all five languages.",
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "Predicting U.S. Water for Energy",
+          "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy",
+          "publisher": "U.S. Department of Energy (DOE)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Scaling the Grid to Power the American Economy",
+          "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/scaling-grid-power-american-economy",
+          "publisher": "U.S. Department of Energy (DOE)"
+        }
+      ]
+    },
+    {
+      "slug": "who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15",
+      "category": "innovation",
+      "localPath": "/news-media/2026-11-15/who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15-editorial.webp",
+      "publicPath": "/news-media/2026-11-15/who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15-editorial.webp",
+      "fileName": "who-adult-type1-diabetes-guidelines-clinical-access-2026-11-15-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g",
+      "docxRelationId": "rId8",
+      "docxMediaEntry": "word/media/image2.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 81206,
+      "sha256": "41d9ce2cf293acf565548f3e667a509301406c8ec50f09b9f488238d2d9f8d3c",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅色矩形洞石底座上的两支无刻度银盖透明硼硅玻璃药瓶、配钴蓝笔帽的极简哑光铝制注射笔造型器物与白色陶瓷冷链蓄冷块，象征全球胰岛素临床可及性与生物类似药审评扩容，并非医院药房或监管机构现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅色矩形洞石底座上的两支无刻度银盖透明硼硅玻璃药瓶、配钴蓝笔帽的极简哑光铝制注射笔造型器物与白色陶瓷冷链蓄冷块，象征全球胰岛素临床可及性与生物类似药审评扩容，并非医院药房或监管机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺色矩形洞石底座上的兩支無刻度銀蓋透明硼矽玻璃藥瓶、配鈷藍筆帽的極簡啞光鋁製注射筆造型器物與白色陶瓷冷鏈蓄冷塊，象徵全球胰島素臨床可及性與生物相似藥審評擴容，並非醫院藥房或監管機構現場照片。",
+        "en": "AI-generated editorial illustration: two completely unmarked clear borosilicate glass vials with silver caps, a smooth satin-aluminum injector pen form with a cobalt cap, and a matte white ceramic cold-chain block on flat pale travertine represent global insulin clinical access and biosimilar regulatory review, not a real clinical or agency photograph.",
+        "ru": "Иллюстрация, созданная ИИ: два гладких прозрачных стеклянных флакона с серебристыми крышками без шкал, минималистичный алюминиевый корпус инъектора с синим колпачком и матовый белый керамический блок холодовой цепи на плите травертина символизируют доступность инсулина и экспертизу биосимиляров, не являясь клинической фотографией.",
+        "fr": "Illustration conceptuelle générée par l'IA : deux flacons en verre borosilicaté lisse sans graduation à capsule argentée, un cylindre d'injecteur en aluminium satiné à capuchon bleu cobalt et un bloc thermique en céramique blanche sur une dalle de travertin évoquent l'accès mondial à l'insuline et l'évaluation des biosimilaires, sans constituer une photographie médicale réelle."
+      },
+      "prompt": "Studio tabletop editorial still-life photography on flat matte sage-green and warm cream seamless paper planes. Resting flush on the tabletop is a single low, flat rectangular block of pale honed travertine stone (no circular base, no tiered pedestal). Arranged cleanly on the flat rectangular travertine slab are three physical miniature objects: two smooth completely blank clear borosilicate glass apothecary vials filled with crystal-clear liquid and sealed with plain brushed silver caps (completely ungraduated glass with zero markings or labels), a minimalist smooth satin-aluminum cylindrical injector pen form with a solid cobalt-blue cap (completely smooth body with zero dial numbers, zero windows, and zero markings), and a smooth matte white ceramic thermal cold-chain block. Soft diffused studio lighting. Strictly no text, no letters, no numbers, no graduation lines or scales, no medical symbols or logos, no faces, no flags, no maps, no charts, and no circular or tiered pedestals.",
+      "rightsBasis": "Original first-party AI-generated studio still-life editorial illustration created specifically for Globalbole 2026-11-15 issue with zero third-party logos, trademarks, or copyrighted elements; localized AI disclosure captions provided across all five languages.",
+      "primarySources": [
+        {
+          "date": "2026-11-14",
+          "title": "WHO issues first guidelines on type 1 diabetes for adults",
+          "url": "https://www.who.int/news/item/14-11-2026-who-issues-first-guidelines-on-type-1-diabetes-for-adults",
+          "publisher": "World Health Organization (WHO)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2026",
+          "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026",
+          "publisher": "European Medicines Agency (EMA)"
+        }
+      ]
+    },
+    {
+      "slug": "imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15",
+      "category": "business",
+      "localPath": "/news-media/2026-11-15/imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15-editorial.webp",
+      "publicPath": "/news-media/2026-11-15/imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15-editorial.webp",
+      "fileName": "imf-asean-ai-capital-markets-us-third-party-bank-risk-2026-11-15-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g",
+      "docxRelationId": "rId9",
+      "docxMediaEntry": "word/media/image1.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 88568,
+      "sha256": "49b61230ddd46abc5f96ade743ae8f4634b3abea41481771f48d38970625ee68",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：低平矩形透明光学玻璃底座上的拉丝黄铜与精钢互锁链环、无刻字青铜与金色金属叠板及琥珀色光学玻璃立方体，象征区域资本市场互联、人工智能投资浪潮与银行第三方供应商风险审慎监管，并非峰会或央行现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：低平矩形透明光学玻璃底座上的拉丝黄铜与精钢互锁链环、无刻字青铜与金色金属叠板及琥珀色光学玻璃立方体，象征区域资本市场互联、人工智能投资浪潮与银行第三方供应商风险审慎监管，并非峰会或央行现场照片。",
+        "zh-TW": "AI生成概念示意圖：低平矩形透明光學玻璃底座上的拉絲黃銅與精鋼互鎖鏈環、無刻字青銅與金色金屬疊板及琥珀色光學玻璃立方體，象徵區域資本市場互聯、人工智慧投資浪潮與銀行第三方供應商風險審慎監管，並非峰會或央行現場照片。",
+        "en": "AI-generated editorial illustration: interlocking brushed brass and steel links, a stack of unmarked anodized gold and bronze rectangular plates, and a translucent amber glass cube beside a flat clear optical glass block symbolize regional capital market integration, AI investment momentum, and banking third-party risk oversight, not a summit or central bank photograph.",
+        "ru": "Иллюстрация, созданная ИИ: переплетённые звенья из матовой латуни и стали, стопка гладких анодированных металлических пластин без гравировки и полупрозрачный янтарный куб у плоского блока оптического стекла символизируют интеграцию рынков капитала, инвестиции в ИИ и банковский надзор за внешними подрядчиками, не являясь фотографией саммита.",
+        "fr": "Illustration conceptuelle générée par l'IA : des maillons entrelacés en laiton brossé et acier satiné, une pile de plaques métalliques dorées et bronze sans gravure et un cube en verre optique ambré près d'un bloc rectangulaire transparent évoquent l'intégration des marchés de capitaux, l'investissement dans l'IA et la supervision des prestataires bancaires tiers, sans constituer une photographie réelle."
+      },
+      "prompt": "Studio tabletop editorial still-life photography on flat matte deep teal and warm terracotta-sand seamless paper planes. Resting flush on the tabletop is a single low, flat rectangular block of clear solid optical glass (no circular base, no tiered pedestal). Arranged cleanly on and beside the flat rectangular glass block are three physical miniature objects: interlocking brushed brass and satin steel architectural vault links representing financial resilience, a neat geometric stack of smooth completely blank anodized bronze and brushed gold rectangular metal plates (zero engravings, zero stamps), and a translucent amber optical glass cube catching warm light. Crisp directional studio lighting with clean shadows. Strictly no text, no letters, no numbers, no currency symbols, no coins, no logos, no flags, no maps, no charts or graphs, no faces, and no circular or tiered pedestals.",
+      "rightsBasis": "Original first-party AI-generated studio still-life editorial illustration created specifically for Globalbole 2026-11-15 issue with zero third-party logos, trademarks, or copyrighted elements; localized AI disclosure captions provided across all five languages.",
+      "primarySources": [
+        {
+          "date": "2026-11-15",
+          "title": "ASEAN's Brave New Frontier",
+          "url": "https://www.imf.org/en/news/articles/2026/11/15/sp111526-aseans-brave-new-frontier",
+          "publisher": "International Monetary Fund (IMF)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Agencies extend comment period for proposed third-party risk management guidance",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+          "publisher": "Board of Governors of the Federal Reserve System"
+        }
+      ]
+    },
+    {
+      "slug": "doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15",
+      "category": "energy",
+      "localPath": "/news-media/2026-11-15/doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15-editorial.webp",
+      "publicPath": "/news-media/2026-11-15/doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15-editorial.webp",
+      "fileName": "doe-genesis-subsurface-strategic-energy-science-challenges-2026-11-15-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g",
+      "docxRelationId": "rId10",
+      "docxMediaEntry": "word/media/image4.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 110638,
+      "sha256": "305822d8d4d84c2e71feafb8013d377c848971cbaee8631dcf445bd79897355c",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：低平矩形粗劈浅色石灰岩底座上的层理玄武岩与沉积岩裂隙标本、置于黄铜底座的精密钛合金钻头模型及内含琥珀暖光核心的透明光学玻璃立方体，象征深部地热储层开发与超算数字孪生建模，并非油气田或实验室现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：低平矩形粗劈浅色石灰岩底座上的层理玄武岩与沉积岩裂隙标本、置于黄铜底座的精密钛合金钻头模型及内含琥珀暖光核心的透明光学玻璃立方体，象征深部地热储层开发与超算数字孪生建模，并非油气田或实验室现场照片。",
+        "zh-TW": "AI生成概念示意圖：低平矩形粗劈淺色石灰岩底座上的層理玄武岩與沉積岩裂隙標本、置於黃銅底座的精密鈦合金鑽頭模型及內含琥珀暖光核心的透明光學玻璃立方體，象徵深部地熱儲層開發與超算數位孿生建模，並非油氣田或實驗室現場照片。",
+        "en": "AI-generated editorial illustration: a natural layered sedimentary and basalt rock specimen, a miniature machined titanium drill bit on a rectangular brass cradle, and a clear optical glass cube with a warm amber core on flat split limestone symbolize geothermal subsurface engineering and supercomputing digital twins, not a field site or laboratory photograph.",
+        "ru": "Иллюстрация, созданная ИИ: образец слоистой горной породы с естественными трещинами, миниатюрное титановое буровое долото на латунной опоре и куб оптического стекла с тёплым янтарным ядром на плоской известняковой плите символизируют геотермальную инженерию недр и суперкомпьютерные цифровые двойники, не являясь полевой фотографией.",
+        "fr": "Illustration conceptuelle générée par l'IA : un bloc naturel de basalte et de roche sédimentaire fissurée, un trépan miniature en titane usiné sur support en laiton et un cube de verre optique au cœur ambré lumineux sur une dalle plate de calcaire évoquent l'ingénierie géothermique profonde et les jumeaux numériques, sans constituer une photographie de chantier."
+      },
+      "prompt": "Studio tabletop editorial still-life photography on flat matte warm ochre-terracotta and charcoal-gray seamless paper planes. Resting flush on the tabletop is a single low, flat rectangular slab of raw split pale limestone (no circular base, no tiered pedestal). Arranged cleanly on the flat rectangular limestone slab are three physical miniature objects: a natural layered sedimentary and dark basalt rock block showing natural mineral veins and micro-fractures, a miniature precision-machined titanium subsurface drill bit resting on a low rectangular brass cradle, and a clear optical glass cube softly glowing with a warm amber internal core suggesting geothermal heat and computational modeling. Warm directional studio lighting. Strictly no text, no letters, no numbers, no scales or rulers, no logos, no flags, no maps, no charts, no faces, and no circular or tiered pedestals.",
+      "rightsBasis": "Original first-party AI-generated studio still-life editorial illustration created specifically for Globalbole 2026-11-15 issue with zero third-party logos, trademarks, or copyrighted elements; localized AI disclosure captions provided across all five languages.",
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "Unleashing Subsurface Strategic Energy Assets",
+          "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/unleashing-subsurface-strategic-energy-assets",
+          "publisher": "U.S. Department of Energy (DOE)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Collection: National Science and Technology Challenges",
+          "url": "https://www.energy.gov/undersecretaryforscience/genesis-mission/collection-national-science-and-technology-challenges",
+          "publisher": "U.S. Department of Energy (DOE)"
+        }
+      ]
+    },
+    {
+      "slug": "unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15",
+      "category": "current-affairs",
+      "localPath": "/news-media/2026-11-15/unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15-editorial.webp",
+      "publicPath": "/news-media/2026-11-15/unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15-editorial.webp",
+      "fileName": "unfccc-cop31-midpoint-assessment-un-chief-climate-appeal-2026-11-15-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g",
+      "docxRelationId": "rId12",
+      "docxMediaEntry": "word/media/image3.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 56202,
+      "sha256": "e4a1d3c2abbde8527f5b45c8e09529b95c47aaf26dea9af38d3ff8bc7c4a430f",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅色矩形石灰岩底座上处于水平均衡状态的无刻度拉丝黄铜平衡梁、白色陶瓷三叶风机转子与深色无标单晶光伏片及封存翠绿橄榄叶的透明光学块，象征多边气候谈判妥协与清洁能源加速转型，并非安塔利亚COP31会场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅色矩形石灰岩底座上处于水平均衡状态的无刻度拉丝黄铜平衡梁、白色陶瓷三叶风机转子与深色无标单晶光伏片及封存翠绿橄榄叶的透明光学块，象征多边气候谈判妥协与清洁能源加速转型，并非安塔利亚COP31会场照片。",
+        "zh-TW": "AI生成概念示意圖：淺色矩形石灰岩底座上處於水平均衡狀態的無刻度拉絲黃銅平衡樑、白色陶瓷三葉風機轉子與深色無標單晶光伏片及封存翠綠橄欖葉的透明光學塊，象徵多邊氣候談判妥協與清潔能源加速轉型，並非安塔利亞COP31會場照片。",
+        "en": "AI-generated editorial illustration: a horizontal brushed-brass equilibrium beam on a rectangular fulcrum, a miniature white ceramic wind turbine rotor beside an unmarked dark solar wafer tile, and an olive-leaf sprig encased in clear optical acrylic on flat cream limestone symbolize multilateral climate compromise and clean-energy transition, not a COP31 venue photograph.",
+        "ru": "Иллюстрация, созданная ИИ: горизонтально уравновешенный латунный балансир на прямоугольной опоре, миниатюрный белый керамический ротор ветряка рядом с гладкой фотоэлектрической плиткой и оливковая ветвь в прозрачном акриловом блоке на известняке символизируют климатический компромисс и энергопереход, не являясь фотографией COP31.",
+        "fr": "Illustration conceptuelle générée par l'IA : un fléau en laiton brossé en équilibre horizontal sur un pivot rectangulaire, un rotor éolien miniature en céramique blanche jouxtant une plaquette photovoltaïque sombre sans marquage et un rameau d'olivier inclus dans un bloc acrylique sur calcaire évoquent le compromis multilatéral et la transition énergétique, sans constituer une photographie de la COP31."
+      },
+      "prompt": "Studio tabletop editorial still-life photography on flat matte cerulean-blue and warm pale sandstone seamless paper planes. Resting flush on the tabletop is a single low, flat rectangular slab of honed cream limestone (no circular base, no tiered pedestal). Arranged cleanly on the flat rectangular limestone slab are three physical miniature objects: a minimalist unmarked brushed-brass architectural balance beam resting in horizontal equilibrium on a rectangular fulcrum block, a sleek miniature white ceramic three-blade wind turbine rotor resting beside a smooth dark blue-black crystalline solar tile without markings, and a clear solid optical acrylic block encasing a small green olive-branch leaf sprig. Soft natural-style studio lighting. Strictly no text, no letters, no numbers, no thermometer scales, no globes or world maps, no logos or emblems, no flags, no charts, no faces, and no circular or tiered pedestals.",
+      "rightsBasis": "Original first-party AI-generated studio still-life editorial illustration created specifically for Globalbole 2026-11-15 issue with zero third-party logos, trademarks, or copyrighted elements; localized AI disclosure captions provided across all five languages.",
+      "primarySources": [
+        {
+          "date": "2026-11-14",
+          "title": "UN Climate Chief today at halfway point of COP31: \"no collective success without compromise from every Party\"",
+          "url": "https://unfccc.int/news/un-climate-chief-today-at-halfway-point-of-cop31-no-collective-success-without-compromise-from-every",
+          "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31",
+          "url": "https://unfccc.int/news/face-the-facts-follow-the-science-choose-the-future-and-never-give-up-un-secretary-general-at-his",
+          "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)"
+        }
+      ]
+    },
+    {
+      "slug": "us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15",
+      "category": "work-life",
+      "localPath": "/news-media/2026-11-15/us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15-editorial.webp",
+      "publicPath": "/news-media/2026-11-15/us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15-editorial.webp",
+      "fileName": "us-bls-october-ppi-wholesale-inflation-census-data-2026-11-15-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "sourceDocId": "1YH_551l6oRucddnzgQ8Xc-izpZAo1glVeG_zh5aAC2g",
+      "docxRelationId": "rId13",
+      "docxMediaEntry": "word/media/image6.jpg",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 102134,
+      "sha256": "0d7a6ec25f88c8fc98c765729b5e275edb4f74261592167fa5267d8756f0d13b",
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深灰色矩形板岩底座上的无印字赤陶红波纹集装箱微缩模型、承托素面牛皮纸方块的原木物流托盘以及实心黄铜齿轮与拉丝精钢滑轮，象征批发物价货运成本传导与劳动力就业统计追踪，并非港口仓库或统计机构现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深灰色矩形板岩底座上的无印字赤陶红波纹集装箱微缩模型、承托素面牛皮纸方块的原木物流托盘以及实心黄铜齿轮与拉丝精钢滑轮，象征批发物价货运成本传导与劳动力就业统计追踪，并非港口仓库或统计机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：深灰色矩形板岩底座上的無印字赤陶紅波紋貨櫃微縮模型、承托素面牛皮紙方塊的原木物流棧板以及實心黃銅齒輪與拉絲精鋼滑輪，象徵批發物價貨運成本傳導與勞動力就業統計追蹤，並非港口倉庫或統計機構現場照片。",
+        "en": "AI-generated editorial illustration: a miniature unmarked terracotta-red corrugated freight container, two natural wood pallets holding plain kraft cubes, and a solid brass gear wheel beside a brushed steel pulley block on flat dark slate symbolize wholesale freight cost transmission and workforce statistical tracking, not a warehouse or government office photograph.",
+        "ru": "Иллюстрация, созданная ИИ: гофрированный терракотово-красный контейнер без маркировки, два деревянных паллета с гладкими картонными кубами, латунная шестерня и стальной шкив на плоской сланцевой плите символизируют динамику оптовых логистических издержек и статистику рынка труда, не являясь фотографией склада.",
+        "fr": "Illustration conceptuelle générée par l'IA : un conteneur maritime miniature en acier ondulé rouge brique sans inscription, deux palettes en bois brut portant des cubes kraft unis, une roue dentée en laiton massif et une poulie en acier brossé sur une dalle d'ardoise évoquent les coûts logistiques de gros et le suivi statistique de l'emploi, sans constituer une photographie d'entrepôt."
+      },
+      "prompt": "Studio tabletop editorial still-life photography on flat matte muted navy-gray and warm kraft-ochre seamless paper planes. Resting flush on the tabletop is a single low, flat rectangular slab of matte dark gray slate (no circular base, no tiered pedestal). Arranged cleanly on the flat rectangular slate slab are three physical miniature objects: a miniature corrugated matte terracotta-red steel intermodal freight container model with completely blank ribbed sides (zero stencils, zero numbers, zero logos), two miniature natural unfinished wood logistics pallets holding smooth plain unmarked kraft cubes, and a precision-machined solid brass industrial gear wheel beside a brushed steel pulley block. Crisp studio lighting. Strictly no text, no letters, no numbers, no barcodes, no price tags, no scales, no logos, no flags, no maps, no charts, no faces, and no circular or tiered pedestals.",
+      "rightsBasis": "Original first-party AI-generated studio still-life editorial illustration created specifically for Globalbole 2026-11-15 issue with zero third-party logos, trademarks, or copyrighted elements; localized AI disclosure captions provided across all five languages.",
+      "primarySources": [
+        {
+          "date": "2026-11-13",
+          "title": "Producer Price Index News Release - 2026 M10 Results",
+          "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm",
+          "publisher": "U.S. Bureau of Labor Statistics (BLS)"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Tip Sheet Number 23 — November 13, 2026",
+          "url": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-23.html",
+          "publisher": "U.S. Census Bureau"
+        }
+      ]
+    }
+  ]
+}

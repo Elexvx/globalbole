@@ -1,0 +1,126 @@
+{
+  "issue": "2026-11-17",
+  "reviewedAt": "2026-11-17T04:15:00Z",
+  "screenedCandidates": 8,
+  "publishedCount": 6,
+  "deferredCount": 2,
+  "published": [
+    {
+      "slug": "eu-ai-safeguards-statement-fda-super-intelligence-terminology-2026-11-17",
+      "category": "technology",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ai-requires-rigorous-safeguards-and-rules-keep-pace-technological-advances-experts-tell-european-2026-11-16_en",
+        "https://www.fda.gov/science-research/fda-and-super-intelligence/fdas-use-super-intelligence-and-si-under-executive-order-14434"
+      ]
+    },
+    {
+      "slug": "who-amr-diagnostic-gap-eu-digital-product-passport-registry-2026-11-17",
+      "category": "innovation",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.who.int/news/item/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+        "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en"
+      ]
+    },
+    {
+      "slug": "eu-cold-rolled-steel-antidumping-csrc-international-advisory-2026-11-17",
+      "category": "business",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+        "https://www.csrc.gov.cn/csrc/c100028/c7671195/content.shtml"
+      ]
+    },
+    {
+      "slug": "cop31-compliance-carbon-markets-coalition-pre2030-ambition-2026-11-17",
+      "category": "energy",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+        "https://unfccc.int/sites/default/files/resource/Information_Note_2026_HLMRT.pdf"
+      ]
+    },
+    {
+      "slug": "imf-ukraine-eff-review-uk-foreign-policy-makerfield-reset-2026-11-17",
+      "category": "current-affairs",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.imf.org/en/news/articles/2026/11/16/pr26366-ukraine-imf-staff-authorities-second-third-review-eff-arrangement",
+        "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026"
+      ]
+    },
+    {
+      "slug": "fed-warsh-productivity-jobs-imf-ai-demographic-labor-shifts-2026-11-17",
+      "category": "work-life",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+        "https://www.imf.org/en/news/seminars/conferences/2026/11/17/imf-oecd-piie-world-bank-conference",
+        "https://www.gov.uk/government/publications/civil-service-pension-recovery-plan-updates/civil-service-pensions-recovery-plan-update-16-november-2026"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "slug": "mot-pearl-river-hydrological-bulletin-2026-11-17",
+      "date": "2026-11-17",
+      "title": "2026年11月17日珠江水情信息",
+      "sourceUrl": "https://www.mot.gov.cn/fuwu/yujingtishi/zhujiangshuiqingxx/202611/t20261117_4227895.html",
+      "publisher": "中华人民共和国交通运输部（珠江水利委员会水文水资源局）",
+      "status": "deferred",
+      "reason": "梧州（2.68米）、柳州（77.44米）、迁江（62.96米）、南宁（66.83米）等站点每日08:00常规水文水位与流量监测表，不涉及航运政策或应急响应变化，按编辑规范暂缓成稿。"
+    },
+    {
+      "slug": "safe-kashgar-county-branch-official-seal-notice-2026-11-16",
+      "date": "2026-11-16",
+      "title": "国家外汇管理局新疆维吾尔自治区分局关于启用喀什地区分局县域派出机构行政许可专用章和经常项目外汇业务监管章的公告",
+      "sourceUrl": "https://www.safe.gov.cn/xinjiang/2026/1116/1748.html",
+      "publisher": "国家外汇管理局新疆维吾尔自治区分局",
+      "status": "deferred",
+      "reason": "喀什地区分局莎车和巴楚营业管理部启用行政许可专用章及经常项目外汇业务监管章的地方例行印章规格公告，无宏观外汇管理政策增量，按编辑规范暂缓成稿。"
+    }
+  ]
+}
