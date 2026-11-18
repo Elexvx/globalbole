@@ -7518,6 +7518,165 @@
       ],
       "reviewFile": "docs/news-publication-review-2026-11-17.json",
       "provenanceFile": "docs/news-media/2026-11-17/provenance.json"
+    },
+    {
+      "id": "2026-11-18-zh-CN",
+      "issue": "2026-11-18",
+      "publicationDate": "2026-11-18",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18",
+          "slug": "eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18",
+          "category": "technology",
+          "status": "published",
+          "path": "content/issues/2026-11-18/zh-CN/eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18.md",
+          "cover": "/news-media/2026-11-18/eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-17",
+              "url": "https://digital-strategy.ec.europa.eu/en/news/commission-launches-over-eu290-million-boost-eu-tech-sovereignty-and-beyond",
+              "title": "Commission launches over €290 million to boost EU tech sovereignty and beyond",
+              "publisher": "European Commission"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://space.commerce.gov/eu-space-act-update-november-17-2026/",
+              "title": "EU Space Act Update (November 17, 2026)",
+              "publisher": "U.S. Department of Commerce Office of Space Commerce"
+            }
+          ]
+        },
+        {
+          "translationKey": "fda-global-reliance-disclosure-niemann-pick-who-obesity-compact-2026-11-18",
+          "slug": "fda-global-reliance-disclosure-niemann-pick-who-obesity-compact-2026-11-18",
+          "category": "innovation",
+          "status": "published",
+          "path": "content/issues/2026-11-18/zh-CN/fda-global-reliance-disclosure-niemann-pick-who-obesity-compact-2026-11-18.md",
+          "cover": "/news-media/2026-11-18/fda-global-reliance-disclosure-niemann-pick-who-obesity-compact-2026-11-18-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-17",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
+              "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
+              "publisher": "U.S. Food and Drug Administration"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
+              "title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
+              "publisher": "U.S. Food and Drug Administration"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://www.who.int/news/item/17-11-2026-leaders-commit-to-accelerate-action-on-obesity-prevention-and-control",
+              "title": "Leaders commit to accelerate action on obesity prevention and control",
+              "publisher": "World Health Organization"
+            }
+          ]
+        },
+        {
+          "translationKey": "imf-korea-ai-semiconductor-upcycle-qatar-lng-buffer-assessment-2026-11-18",
+          "slug": "imf-korea-ai-semiconductor-upcycle-qatar-lng-buffer-assessment-2026-11-18",
+          "category": "business",
+          "status": "published",
+          "path": "content/issues/2026-11-18/zh-CN/imf-korea-ai-semiconductor-upcycle-qatar-lng-buffer-assessment-2026-11-18.md",
+          "cover": "/news-media/2026-11-18/imf-korea-ai-semiconductor-upcycle-qatar-lng-buffer-assessment-2026-11-18-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-17",
+              "url": "https://www.imf.org/en/news/articles/2026/11/17/pr26367-republic-of-korea-imf-staff-completes-2026-aiv-mission",
+              "title": "IMF Staff Completes 2026 Article IV Mission to the Republic of Korea",
+              "publisher": "International Monetary Fund"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://www.imf.org/en/news/articles/2026/11/17/pr26368-qatar-imf-staff-concludes-staff-visit",
+              "title": "IMF Staff Concludes Staff Visit to Qatar",
+              "publisher": "International Monetary Fund"
+            }
+          ]
+        },
+        {
+          "translationKey": "unfccc-cop31-article6-international-registry-transparency-btr-2026-11-18",
+          "slug": "unfccc-cop31-article6-international-registry-transparency-btr-2026-11-18",
+          "category": "energy",
+          "status": "published",
+          "path": "content/issues/2026-11-18/zh-CN/unfccc-cop31-article6-international-registry-transparency-btr-2026-11-18.md",
+          "cover": "/news-media/2026-11-18/unfccc-cop31-article6-international-registry-transparency-btr-2026-11-18-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-17",
+              "url": "https://unfccc.int/news/cop31-sees-launch-of-first-version-of-article-62-international-registry",
+              "title": "COP31 Sees Launch of First Version of Article 6.2 International Registry",
+              "publisher": "United Nations Framework Convention on Climate Change"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://unfccc.int/news/transparency-is-essential-to-ensuring-climate-action-is-grounded-in-solid-evidence-un-climate-chief",
+              "title": "“Transparency is essential to ensuring climate action is grounded in solid evidence” – UN Climate Chief",
+              "publisher": "United Nations Framework Convention on Climate Change"
+            }
+          ]
+        },
+        {
+          "translationKey": "china-ten-ministries-workplace-safety-funds-uk-neet-youth-guarantee-2026-11-18",
+          "slug": "china-ten-ministries-workplace-safety-funds-uk-neet-youth-guarantee-2026-11-18",
+          "category": "work-life",
+          "status": "published",
+          "path": "content/issues/2026-11-18/zh-CN/china-ten-ministries-workplace-safety-funds-uk-neet-youth-guarantee-2026-11-18.md",
+          "cover": "/news-media/2026-11-18/china-ten-ministries-workplace-safety-funds-uk-neet-youth-guarantee-2026-11-18-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-18",
+              "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202611/t20261118_739805.shtml",
+              "title": "应急管理部财政部工业和信息化部住房城乡建设部交通运输部水利部国家能源局国家国防科工局国家铁路局国家矿山安监局关于进一步推动企业加强安全生产费用管理助力安全生产治理模式向事前预防转型的指导意见",
+              "publisher": "中华人民共和国应急管理部等十部门"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://www.gov.uk/government/news/the-independent-young-people-and-work-review-what-it-means-for-young-people",
+              "title": "The independent Young People and Work Review: what it means for young people",
+              "publisher": "UK Department for Work and Pensions"
+            }
+          ]
+        },
+        {
+          "translationKey": "imf-sierra-leone-ecf-rsf-agreement-eu-court-article255-report-2026-11-18",
+          "slug": "imf-sierra-leone-ecf-rsf-agreement-eu-court-article255-report-2026-11-18",
+          "category": "current-affairs",
+          "status": "published",
+          "path": "content/issues/2026-11-18/zh-CN/imf-sierra-leone-ecf-rsf-agreement-eu-court-article255-report-2026-11-18.md",
+          "cover": "/news-media/2026-11-18/imf-sierra-leone-ecf-rsf-agreement-eu-court-article255-report-2026-11-18-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-17",
+              "url": "https://www.imf.org/en/news/articles/2026/11/17/pr26365-sierra-leone-imf-staff-level-agreement-fourth-review-extended-credit-facility-arrangement",
+              "title": "Sierra Leone: IMF Staff Reaches Staff-Level Agreement on the Fourth Review Under the Extended Credit Facility Arrangement and the First Review Under the Resilience and Sustainability Facility",
+              "publisher": "International Monetary Fund"
+            },
+            {
+              "date": "2026-11-17",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/17/appointments-to-the-eu-court-of-justice-eighth-activity-report-of-the-article-255-panel-published/",
+              "title": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published",
+              "publisher": "Council of the European Union"
+            }
+          ]
+        }
+      ],
+      "deferredSlugs": [
+        "mot-wushan-yangtze-fog-navigation-warning-2026-11-18",
+        "china-information-news-issue-8175-2026-11-18"
+      ],
+      "reviewFile": "docs/news-publication-review-2026-11-18.json",
+      "provenanceFile": "docs/news-media/2026-11-18/provenance.json"
     }
   ],
   "revisions": [

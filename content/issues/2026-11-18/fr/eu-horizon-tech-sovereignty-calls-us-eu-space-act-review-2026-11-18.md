@@ -1,0 +1,44 @@
+---
+title: "La Commission européenne lance 297 millions d'euros d'appels Horizon Europe pour la souveraineté technologique pendant que Washington examine le projet d'EU Space Act"
+slug: "eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18"
+translationKey: "eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18"
+issue: "2026-11-18"
+lang: "fr"
+category: "technology"
+author: "全球伯乐 News"
+authorRole: "Compilation des sources"
+date: "2026-11-18"
+description: "Le 17 novembre, la Commission européenne a ouvert deux appels Horizon Europe totalisant 297 millions d'euros sur 12 sujets dédiés à l'IA de frontière sûre, à la photonique basse consommation et aux centres de données durables, tandis que le département américain du Commerce a engagé l'examen interministériel du texte de compromis de l'EU Space Act."
+cover: "/news-media/2026-11-18/eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18-editorial.webp"
+coverAlt: "Nature morte de studio comprenant un bloc de verre optique transparent, une plaquette photonique sur silicium irisée et une maquette d'antenne parabolique en titane sur du basalte sombre"
+tags: ["Intelligence artificielle","Centres de données","Politique technologique"]
+readTime: 5
+draft: false
+---
+
+Le 17 novembre, la Direction générale des réseaux de communication, du contenu et des technologies de la Commission européenne (DG CONNECT) a officiellement lancé [deux nouveaux appels à projets totalisant 297 millions d'euros répartis sur 12 thématiques du volet numérique d'Horizon Europe](https://digital-strategy.ec.europa.eu/en/news/commission-launches-over-eu290-million-boost-eu-tech-sovereignty-and-beyond), ciblant l'intelligence artificielle de frontière sécurisée dès la conception, la photonique intégrée à très basse consommation, l'efficacité énergétique des centres de données et les composants matériels du Web 4.0 jusqu'au 18 mars 2027[^1]. Le même jour, à la veille du vote prévu le 19 novembre au sein de la commission de l'industrie, de la recherche et de l'énergie (ITRE) du Parlement européen, le Bureau du commerce spatial du département du Commerce des États-Unis (OSC) a publié une [note d'information et de consultation sur le règlement spatial européen (EU Space Act)](https://space.commerce.gov/eu-space-act-update-november-17-2026/), annonçant un examen interministériel du texte de compromis parlementaire et invitant les acteurs américains du secteur spatial à soumettre leurs propositions d'amendements[^2].
+
+![Nature morte de studio comprenant un bloc de verre optique transparent, une plaquette photonique sur silicium irisée et une maquette d'antenne parabolique en titane sur du basalte sombre](/news-media/2026-11-18/eu-horizon-tech-sovereignty-calls-us-eu-space-act-review-2026-11-18-editorial.webp)
+
+Illustration conceptuelle générée par l'IA : un bloc prismatique en verre optique transparent, une plaquette photonique sur silicium irisée sans marquage et une maquette d'antenne parabolique en titane brossé à cornet de cuivre posés sur une dalle de basalte sombre symbolisent les investissements européens dans la souveraineté technologique en IA et photonique ainsi que les consultations transatlantiques sur la législation spatiale, sans constituer une photographie réelle de la Commission européenne ou des agences américaines.
+
+## 136 millions d'euros dédiés à l'autonomie stratégique ouverte dans l'IA de frontière, la robotique et la photonique intégrée
+
+Selon le [communiqué de la Commission européenne relatif au programme de travail Horizon Europe 2026-2027 pour le numérique, l'industrie et l'espace](https://digital-strategy.ec.europa.eu/en/news/commission-launches-over-eu290-million-boost-eu-tech-sovereignty-and-beyond), l'enveloppe globale de 297 millions d'euros s'articule autour de trois grandes destinations visant à combler le déficit de déploiement industriel et à réduire les dépendances technologiques excessives de l'Union[^1]. La première destination, consacrée à l'autonomie stratégique ouverte dans les technologies numériques et génériques, mobilise 136 millions d'euros, dont 107 millions d'euros pour quatre sujets portant sur l'intelligence artificielle : l'initiative européenne sur l'IA de frontière sûre et économe en calcul en lien avec la Ressource pour la science de l'IA en Europe (RAISE), l'intégration de systèmes robotiques industriels pilotés par l'IA dans le cadre d'Apply AI, l'accélération de l'adoption sectorielle de l'IA et la coopération internationale au profit des pays à revenu faible ou intermédiaire[^1].
+
+Au sein de cette même priorité, une dotation supplémentaire de 29 millions d'euros finance deux sujets consacrés aux composants physiques et à la prospective : le développement, avec le partenariat européen pour la photonique, de dispositifs et circuits photoniques intégrés avancés à très faible consommation électrique, ainsi que la création d'un forum européen de veille stratégique sur les matériaux émergents et les technologies de rupture[^1]. Bruxelles précise que ce dispositif de veille s'inscrit directement dans le prolongement du rapport Draghi et de la Boussole pour la compétitivité afin de consolider une base industrielle européenne souveraine[^1].
+
+## 112 millions d'euros pour les centres de données d'IA sobres et l'informatique cloud-edge, complétés par 49 millions pour le Web 4.0
+
+Pour répondre à la hausse rapide des besoins énergétiques liés au calcul intensif, la deuxième destination consacre 112 millions d'euros à trois thématiques visant à bâtir un marché unique agile et sécurisé pour les services de données et l'IA de confiance[^1]. Ces appels soutiennent de nouvelles approches de traitement des données d'IA décentralisées, fédérées et durables sur l'ensemble du continuum cloud-edge et du cycle de vie des modèles, des démonstrateurs pilotes orientés vers la demande industrielle sur l'infrastructure convergente d'informatique connectée et collaborative (3C), ainsi que des sites pilotes améliorant l'efficacité énergétique et la durabilité des centres de données d'IA en Europe[^1].
+
+La troisième destination dote de 49 millions d'euros trois sujets axés sur l'innovation numérique centrée sur l'humain : la mise au point de composants matériels avancés pour les mondes virtuels (casques de réalité étendue XR, écrans, composants haptiques, capteurs et puces multisensorielles), la structuration d'un écosystème interopérable de mondes virtuels et de Web 4.0, ainsi que le soutien à la participation des acteurs européens aux travaux internationaux de normalisation numérique[^1]. L'ensemble des 12 sujets est ouvert aux candidatures du 17 novembre 2026 au 18 mars 2027[^1].
+
+## Washington sollicite les propositions de modifications de l'industrie spatiale américaine avant le vote parlementaire sur l'EU Space Act
+
+Parallèlement à cet effort budgétaire européen, l'encadrement réglementaire des activités spatiales fait l'objet d'un suivi transatlantique serré. Dans son [point de situation réglementaire publié le 17 novembre sur l'EU Space Act (EUSA)](https://space.commerce.gov/eu-space-act-update-november-17-2026/), le Bureau du commerce spatial du département américain du Commerce indique que la commission ITRE du Parlement européen a rendu public son « texte de compromis » avant le vote en commission programmé le 19 novembre[^2]. L'administration américaine rappelle que cette version parlementaire est distincte du texte actualisé sans consensus diffusé en octobre par la présidence irlandaise du Conseil de l'Union européenne, et que l'adoption de positions respectives par le Parlement et le Conseil conditionne l'ouverture du trilogue législatif final[^2].
+
+Compte tenu des obligations prévues par le projet de règlement européen en matière de sécurité orbitale, de limitation des débris spatiaux, de gestion du trafic spatial et d'accès au marché européen des services satellitaires, le département du Commerce examine le texte de la commission ITRE en coordination avec le département d'État et les agences fédérales concernées[^2]. Le Bureau du commerce spatial invite formellement les opérateurs de satellites et entreprises spatiales américaines à transmettre leurs observations techniques et propositions de réécriture (redlines) par courrier électronique afin d'alimenter les discussions bilatérales avec Bruxelles avant l'étape du trilogue[^2].
+
+[^1]: 2026-11-17 · [Commission launches over €290 million to boost EU tech sovereignty and beyond](https://digital-strategy.ec.europa.eu/en/news/commission-launches-over-eu290-million-boost-eu-tech-sovereignty-and-beyond) · Direction générale des réseaux de communication, du contenu et des technologies de la Commission européenne (DG CONNECT).
+[^2]: 2026-11-17 · [EU Space Act Update (November 17, 2026)](https://space.commerce.gov/eu-space-act-update-november-17-2026/) · Bureau du commerce spatial du département du Commerce des États-Unis (OSC).
