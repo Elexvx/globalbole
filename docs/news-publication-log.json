@@ -7677,6 +7677,165 @@
       ],
       "reviewFile": "docs/news-publication-review-2026-11-18.json",
       "provenanceFile": "docs/news-media/2026-11-18/provenance.json"
+    },
+    {
+      "id": "2026-11-19-zh-CN",
+      "issue": "2026-11-19",
+      "publicationDate": "2026-11-19",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "articles": [
+        {
+          "translationKey": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19",
+          "slug": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19",
+          "category": "technology",
+          "status": "published",
+          "path": "content/issues/2026-11-19/zh-CN/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19.md",
+          "cover": "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-18",
+              "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+              "title": "Quantum Physics Can Verify a Person's Location, NIST Researchers Show",
+              "publisher": "National Institute of Standards and Technology (NIST)"
+            },
+            {
+              "date": "2026-11-18",
+              "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+              "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+              "publisher": "Cybersecurity and Infrastructure Security Agency (CISA)"
+            }
+          ]
+        },
+        {
+          "translationKey": "who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19",
+          "slug": "who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19",
+          "category": "innovation",
+          "status": "published",
+          "path": "content/issues/2026-11-19/zh-CN/who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19.md",
+          "cover": "/news-media/2026-11-19/who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-18",
+              "url": "https://www.who.int/news/item/18-11-2026-new-who-collaborating-centre-established-to-support-work-on-foodborne-disease-burden",
+              "title": "New WHO collaborating centre established to support work on foodborne disease burden",
+              "publisher": "World Health Organization"
+            },
+            {
+              "date": "2026-11-18",
+              "url": "https://www.ecdc.europa.eu/en/publications-data/rapid-risk-assessment-carbapenem-resistant-enterobacterales-fourth-update",
+              "title": "Rapid risk assessment – Carbapenem-resistant Enterobacterales, fourth update",
+              "publisher": "European Centre for Disease Prevention and Control (ECDC)"
+            },
+            {
+              "date": "2026-11-18",
+              "url": "https://www.ema.europa.eu/en/events/clinical-trials-information-system-ctis-bitesize-talk-ctis-training-environment-role-management",
+              "title": "Clinical Trials Information System (CTIS) bitesize talk: CTIS training environment and role management",
+              "publisher": "European Medicines Agency (EMA)"
+            }
+          ]
+        },
+        {
+          "translationKey": "ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19",
+          "slug": "ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19",
+          "category": "business",
+          "status": "published",
+          "path": "content/issues/2026-11-19/zh-CN/ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19.md",
+          "cover": "/news-media/2026-11-19/ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-18",
+              "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+              "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+              "publisher": "European Central Bank"
+            },
+            {
+              "date": "2026-11-18",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+              "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+              "publisher": "Board of Governors of the Federal Reserve System"
+            }
+          ]
+        },
+        {
+          "translationKey": "unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19",
+          "slug": "unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19",
+          "category": "energy",
+          "status": "published",
+          "path": "content/issues/2026-11-19/zh-CN/unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19.md",
+          "cover": "/news-media/2026-11-19/unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-18",
+              "url": "https://unfccc.int/news/an-ambitious-outcome-is-within-reach-un-climate-chief-at-cop31-event-to-launch-the-second-global",
+              "title": "“An ambitious outcome is within reach,” UN Climate Chief at COP31 event to launch the second global stocktake",
+              "publisher": "United Nations Framework Convention on Climate Change"
+            },
+            {
+              "date": "2026-11-18",
+              "url": "https://www.mee.gov.cn/ywdt/gsgg/gongshi/gsq/202611/t20261118_1186940.shtml",
+              "title": "2026年11月18日生态环境部关于XHZS项目生态环境影响评价文件拟进行审查公示",
+              "publisher": "中华人民共和国生态环境部"
+            }
+          ]
+        },
+        {
+          "translationKey": "ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19",
+          "slug": "ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19",
+          "category": "work-life",
+          "status": "published",
+          "path": "content/issues/2026-11-19/zh-CN/ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19.md",
+          "cover": "/news-media/2026-11-19/ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-18",
+              "url": "https://www.ilo.org/resource/news/bahamas-ratifies-1986-instrument-amendment-ilo-constitution",
+              "title": "The Bahamas ratifies the 1986 Instrument of Amendment to the ILO Constitution",
+              "publisher": "International Labour Organization"
+            },
+            {
+              "date": "2026-11-18",
+              "url": "https://www.gov.uk/government/publications/dfe-update-18-november-2026/dfe-update-local-authorities-18-november-2026",
+              "title": "DfE Update local authorities : 18 November 2026",
+              "publisher": "UK Department for Education"
+            }
+          ]
+        },
+        {
+          "translationKey": "apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19",
+          "slug": "apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19",
+          "category": "current-affairs",
+          "status": "published",
+          "path": "content/issues/2026-11-19/zh-CN/apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19.md",
+          "cover": "/news-media/2026-11-19/apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19-editorial.webp",
+          "sources": [
+            {
+              "date": "2026-11-18",
+              "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_22eeb85877ae44faad288c66a207a257.html",
+              "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
+              "publisher": "中华人民共和国商务部"
+            },
+            {
+              "date": "2026-11-18",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/media-advisory-general-affairs-council-and-accession-conference-with-montenegro-of-19-november-2026/",
+              "title": "Media advisory - General Affairs Council and accession conference with Montenegro of 19 November 2026",
+              "publisher": "Council of the European Union"
+            }
+          ]
+        }
+      ],
+      "deferredSlugs": [
+        "suzhou-jiqing-street-gas-repair-outage-notice-2026-11-19",
+        "china-information-news-issue-8177-2026-11-19"
+      ],
+      "reviewFile": "docs/news-publication-review-2026-11-19.json",
+      "provenanceFile": "docs/news-media/2026-11-19/provenance.json"
     }
   ],
   "revisions": [

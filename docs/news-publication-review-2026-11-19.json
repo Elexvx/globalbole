@@ -1,0 +1,126 @@
+{
+  "issue": "2026-11-19",
+  "reviewedAt": "2026-11-19T04:49:11Z",
+  "screenedCandidates": 8,
+  "publishedCount": 6,
+  "deferredCount": 2,
+  "published": [
+    {
+      "slug": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19",
+      "category": "technology",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+        "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+      ]
+    },
+    {
+      "slug": "who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19",
+      "category": "innovation",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.who.int/news/item/18-11-2026-new-who-collaborating-centre-established-to-support-work-on-foodborne-disease-burden",
+        "https://www.ecdc.europa.eu/en/publications-data/rapid-risk-assessment-carbapenem-resistant-enterobacterales-fourth-update",
+        "https://www.ema.europa.eu/en/events/clinical-trials-information-system-ctis-bitesize-talk-ctis-training-environment-role-management"
+      ]
+    },
+    {
+      "slug": "ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19",
+      "category": "business",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+      ]
+    },
+    {
+      "slug": "unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19",
+      "category": "energy",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://unfccc.int/news/an-ambitious-outcome-is-within-reach-un-climate-chief-at-cop31-event-to-launch-the-second-global",
+        "https://www.mee.gov.cn/ywdt/gsgg/gongshi/gsq/202611/t20261118_1186940.shtml"
+      ]
+    },
+    {
+      "slug": "ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19",
+      "category": "work-life",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.ilo.org/resource/news/bahamas-ratifies-1986-instrument-amendment-ilo-constitution",
+        "https://www.gov.uk/government/publications/dfe-update-18-november-2026/dfe-update-local-authorities-18-november-2026"
+      ]
+    },
+    {
+      "slug": "apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19",
+      "category": "current-affairs",
+      "status": "published",
+      "locales": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "primarySources": [
+        "https://www.mofcom.gov.cn/syxwfb/art/2026/art_22eeb85877ae44faad288c66a207a257.html",
+        "https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/media-advisory-general-affairs-council-and-accession-conference-with-montenegro-of-19-november-2026/"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "slug": "suzhou-jiqing-street-gas-repair-outage-notice-2026-11-19",
+      "date": "2026-11-18",
+      "title": "2026年11月18日抢修停气通知 - 苏州市人民政府",
+      "sourceUrl": "https://www.suzhou.gov.cn/szsrmzf/bmzx/202611/3a25740af534405cabcdba3b58c8a91a.shtml",
+      "publisher": "苏州市人民政府 / 苏州港华燃气有限公司",
+      "status": "deferred",
+      "reason": "系苏州市吉庆街单个市政路段的临时管道抢修停气通知（当日13:10至17:00），属纯地方日常市政维护通告，无全国性能源监管或公共政策增量，故暂缓单列成稿。"
+    },
+    {
+      "slug": "china-information-news-issue-8177-2026-11-19",
+      "date": "2026-11-19",
+      "title": "中国信息报2026年11月19日（第8177期）",
+      "sourceUrl": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202611/t20261119_1965908.html",
+      "publisher": "国家统计局",
+      "status": "deferred",
+      "reason": "系国家统计局网站例行挂载的《中国信息报》第8177期报刊版面目录索引页，页面本身不含独立增量宏观统计公报数据表或新增统计核算政策条文，故记入暂缓归档。"
+    }
+  ]
+}

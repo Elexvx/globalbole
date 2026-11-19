@@ -1,0 +1,264 @@
+{
+  "issue": "2026-11-19",
+  "generatedAt": "2026-11-19T04:49:11Z",
+  "sourceDocument": {
+    "title": "Globalbole_2026_11_19_Issue_and_Illustrations",
+    "documentId": "1rfe6jLN7_Ilz_sd7V3_RFIqDhwDTnW8ZO8uoYTVdkAc",
+    "url": "https://docs.google.com/document/d/1rfe6jLN7_Ilz_sd7V3_RFIqDhwDTnW8ZO8uoYTVdkAc/edit"
+  },
+  "processingPipeline": "cwebp -q 90 -m 6 -metadata none (EXIF/IPTC/XMP/ICCP stripped)",
+  "assets": [
+    {
+      "slug": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19",
+      "category": "technology",
+      "localPath": "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
+      "publicPath": "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
+      "fileName": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 114800,
+      "sha256": "7ecba4331f5b697653e20f329e9d83e618207c9eba114ad5866ab89ef543e114",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深色磨光花岗岩平板底座上的两枚透明光学分光玻璃立方体、无标盘绕光纤环与拉丝不锈钢硬件安全密钥静物，象征基于纠缠光子与光速测距的量子位置认证协议及人工智能与科研基础设施漏洞防御，并非美国国家标准与技术研究院或网络安全机构现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色磨光花岗岩平板底座上的两枚透明光学分光玻璃立方体、无标盘绕光纤环与拉丝不锈钢硬件安全密钥静物，象征基于纠缠光子与光速测距的量子位置认证协议及人工智能与科研基础设施漏洞防御，并非美国国家标准与技术研究院或网络安全机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色磨光花崗岩平板底座上的兩枚透明光學分光玻璃立方體、無標盤繞光纖環與拉絲不鏽鋼硬體安全金鑰靜物，象徵基於糾纏光子與光速測距的量子位置認證協定及人工智慧與科研基礎設施漏洞防禦，並非美國國家標準與技術研究院或網路安全機構現場照片。",
+        "en": "AI-generated editorial illustration: two clear optical beam-splitter glass cubes, a coiled translucent fiber-optic loop, and an unbranded brushed stainless-steel security token resting on dark honed granite symbolize entanglement-based quantum position verification and AI infrastructure vulnerability defense, not an actual photograph from NIST or CISA.",
+        "ru": "Иллюстрация, созданная ИИ: два прозрачных оптических светоделительных куба, виток оптоволокна и стальной аппаратный ключ без маркировки на плите из темного гранита символизируют квантовую верификацию координат и защиту ИИ-инфраструктуры от уязвимостей, не являясь реальной фотографией из лабораторий NIST или CISA.",
+        "fr": "Illustration conceptuelle générée par l'IA : deux cubes séparateurs en verre optique transparent, une boucle de fibre optique translucide et un jeton de sécurité en acier inoxydable brossé sans marquage sur du granit sombre symbolisent la vérification quantique de position et la sécurisation des infrastructures d'IA, sans constituer une photographie réelle du NIST ou de la CISA."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph set on flat geometric sheets of matte slate blue and warm ivory cardstock. On a low flat rectangular slab of dark honed granite sit two clear optical beam-splitter glass cubes, a coiled translucent fiber-optic loop, and an unbranded brushed stainless-steel hardware security key token. Soft directional studio side-lighting with crisp optical refractions. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-19 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-18",
+          "title": "Quantum Physics Can Verify a Person's Location, NIST Researchers Show",
+          "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+          "publisher": "National Institute of Standards and Technology (NIST)"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+          "publisher": "Cybersecurity and Infrastructure Security Agency (CISA)"
+        }
+      ]
+    },
+    {
+      "slug": "who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19",
+      "category": "innovation",
+      "localPath": "/news-media/2026-11-19/who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19-editorial.webp",
+      "publicPath": "/news-media/2026-11-19/who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19-editorial.webp",
+      "fileName": "who-foodborne-disease-collaborating-centre-ecdc-cre-ema-ctis-2026-11-19-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 41412,
+      "sha256": "a763ebc352f4de93d2c60c9d4fcfac5e2242e47170ed44c13a72603c1a1373a7",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：灰白纹理大理石平板底座上的琥珀色琼脂硼硅玻璃培养皿、无标不锈钢实验镊、透明玻璃样品瓶与素白瓷钵静物，象征全球食源性疾病统计建模、耐碳青霉烯类耐药菌基因组监测与临床试验信息系统安全权限治理，并非世卫组织或欧盟卫生机构现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：灰白纹理大理石平板底座上的琥珀色琼脂硼硅玻璃培养皿、无标不锈钢实验镊、透明玻璃样品瓶与素白瓷钵静物，象征全球食源性疾病统计建模、耐碳青霉烯类耐药菌基因组监测与临床试验信息系统安全权限治理，并非世卫组织或欧盟卫生机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：灰白紋理大理石平板底座上的琥珀色瓊脂硼矽玻璃培養皿、無標不鏽鋼實驗鑷、透明玻璃樣品瓶與素白瓷缽靜物，象徵全球食源性疾病統計建模、耐碳青黴烯類抗藥菌基因組監測與臨床試驗資訊系統安全權限治理，並非世衛組織或歐盟衛生機構現場照片。",
+        "en": "AI-generated editorial illustration: a clear borosilicate Petri dish holding amber agar, unbranded stainless-steel forceps, a miniature glass vial, and a white porcelain bowl on veined white marble symbolize global foodborne disease modeling, antimicrobial resistance genomic surveillance, and clinical trial safety governance, not an actual photograph from the WHO, ECDC, or EMA.",
+        "ru": "Иллюстрация, созданная ИИ: стеклянная чашка Петри с янтарным агаром, стальной лабораторный пинцет без маркировки, прозрачный флакон и белая фарфоровая чаша на мраморной плите символизируют моделирование пищевых инфекций, геномный надзор за супербактериями и управление клиническими испытаниями, не являясь реальной фотографией ВОЗ, ECDC или EMA.",
+        "fr": "Illustration conceptuelle générée par l'IA : une boîte de Petri en verre borosilicaté contenant une gélose ambrée, une pince de laboratoire en acier inoxydable sans marquage, un flacon transparent et un bol en porcelaine blanche sur du marbre veiné symbolisent la modélisation des maladies alimentaires, la surveillance génomique de l'antibiorésistance et la gouvernance des essais cliniques, sans constituer une photographie réelle de l'OMS, de l'ECDC ou de l'EMA."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph arranged on flat planes of muted sage green and cream matte cardstock. On a low rectangular slab of veined white marble rest a clear borosilicate glass Petri dish containing amber agar medium, unbranded stainless-steel laboratory forceps, a small clear glass sample vial, and a smooth white porcelain mortar bowl. Soft diffused studio lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-19 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-18",
+          "title": "New WHO collaborating centre established to support work on foodborne disease burden",
+          "url": "https://www.who.int/news/item/18-11-2026-new-who-collaborating-centre-established-to-support-work-on-foodborne-disease-burden",
+          "publisher": "World Health Organization"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "Rapid risk assessment – Carbapenem-resistant Enterobacterales, fourth update",
+          "url": "https://www.ecdc.europa.eu/en/publications-data/rapid-risk-assessment-carbapenem-resistant-enterobacterales-fourth-update",
+          "publisher": "European Centre for Disease Prevention and Control (ECDC)"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "Clinical Trials Information System (CTIS) bitesize talk: CTIS training environment and role management",
+          "url": "https://www.ema.europa.eu/en/events/clinical-trials-information-system-ctis-bitesize-talk-ctis-training-environment-role-management",
+          "publisher": "European Medicines Agency (EMA)"
+        }
+      ]
+    },
+    {
+      "slug": "ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19",
+      "category": "business",
+      "localPath": "/news-media/2026-11-19/ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19-editorial.webp",
+      "publicPath": "/news-media/2026-11-19/ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19-editorial.webp",
+      "fileName": "ecb-financial-stability-review-ai-debt-fed-october-fomc-minutes-2026-11-19-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 103668,
+      "sha256": "ce93521acad51a66199fd51cb31d4afd890b5b6db45e9635c1b04197a5709d20",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：灰色磨光石灰岩平板底座上的无字紫铜基板硅处理器裸片、三枚递升拉丝黄铜圆柱砝码与透明实心水滴玻璃体静物，象征债务驱动型人工智能算力基建杠杆、私募信贷风险重估与跨大西洋货币政策及主权债利差约束，并非欧洲央行或美联储会议现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：灰色磨光石灰岩平板底座上的无字紫铜基板硅处理器裸片、三枚递升拉丝黄铜圆柱砝码与透明实心水滴玻璃体静物，象征债务驱动型人工智能算力基建杠杆、私募信贷风险重估与跨大西洋货币政策及主权债利差约束，并非欧洲央行或美联储会议现场照片。",
+        "zh-TW": "AI生成概念示意圖：灰色磨光石灰岩平板底座上的無字紫銅基板矽處理器裸片、三枚遞升拉絲黃銅圓柱砝碼與透明實心水滴玻璃體靜物，象徵債務驅動型人工智慧算力基建槓桿、私募信貸風險重估與跨大西洋貨幣政策及主權債利差約束，並非歐洲央行或聯準會會議現場照片。",
+        "en": "AI-generated editorial illustration: an unbranded silicon processor die mounted on a copper plate, three brushed-brass cylindrical weights, and a clear solid glass teardrop resting on honed grey limestone symbolize debt-fueled AI compute leverage, private credit stress, and transatlantic monetary and sovereign spread pressures, not an actual photograph from the ECB or the Federal Reserve.",
+        "ru": "Иллюстрация, созданная ИИ: кремниевый процессорный кристалл на медной пластине без маркировки, три латунных цилиндрических груза и прозрачная стеклянная капля на плите из серого известняка символизируют долговое финансирование ИИ-инфраструктуры, риски частного кредитования и давление на суверенные спреды, не являясь реальной фотографией из ЕЦБ или ФРС США.",
+        "fr": "Illustration conceptuelle générée par l'IA : une puce de silicium sans marquage montée sur cuivre, trois poids cylindriques en laiton brossé et une goutte en verre massif sur une dalle de calcaire gris symbolisent le levier d'endettement des infrastructures d'IA, les tensions du crédit privé et la vigilance monétaire transatlantique, sans constituer une photographie réelle de la BCE ou de la Réserve fédérale."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph set on flat geometric sheets of deep navy blue and warm sand matte cardstock. On a low rectangular slab of honed grey limestone sit an unbranded silicon processor die mounted on a copper heat-spreader plate, three solid brushed-brass cylindrical weights of ascending height, and a clear solid glass teardrop weight. Warm directional studio side-lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-19 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-18",
+          "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+          "publisher": "European Central Bank"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+          "publisher": "Board of Governors of the Federal Reserve System"
+        }
+      ]
+    },
+    {
+      "slug": "unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19",
+      "category": "energy",
+      "localPath": "/news-media/2026-11-19/unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19-editorial.webp",
+      "publicPath": "/news-media/2026-11-19/unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19-editorial.webp",
+      "fileName": "unfccc-cop31-second-global-stocktake-china-mee-east-sea-subsea-gas-2026-11-19-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 107926,
+      "sha256": "f008467b2a4587def209a404049fd356b15a38b6b078358c82c91e487b6c644c",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深炭色板岩平板底座上的紫铜手轮拉丝不锈钢法兰海底管阀模型、无标深蓝单晶硅光伏片与透明光学玻璃立方体静物，象征《巴黎协定》第二次全球盘点可再生能源倍增目标与大型海底输气及陆岸二氧化碳封存配套工程的生态合规约束，并非安塔利亚COP31或东海工程现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深炭色板岩平板底座上的紫铜手轮拉丝不锈钢法兰海底管阀模型、无标深蓝单晶硅光伏片与透明光学玻璃立方体静物，象征《巴黎协定》第二次全球盘点可再生能源倍增目标与大型海底输气及陆岸二氧化碳封存配套工程的生态合规约束，并非安塔利亚COP31或东海工程现场照片。",
+        "zh-TW": "AI生成概念示意圖：深炭色板岩平板底座上的紫銅手輪拉絲不鏽鋼法蘭海底管閥模型、無標深藍單晶矽光伏片與透明光學玻璃立方體靜物，象徵《巴黎協定》第二次全球盤點再生能源倍增目標與大型海底輸氣及陸岸二氧化碳封存配套工程的生態合規約束，並非安塔利亞COP31或東海工程現場照片。",
+        "en": "AI-generated editorial illustration: a miniature brushed stainless-steel flanged pipeline valve with a copper handwheel, an unbranded monocrystalline solar wafer, and a clear optical glass cube on dark charcoal slate symbolize the COP31 Second Global Stocktake renewable goals alongside regulated subsea gas and onshore CO2 storage infrastructure, not an actual photograph from Antalya or the East China Sea.",
+        "ru": "Иллюстрация, созданная ИИ: миниатюрный стальной фланцевый клапан морского газопровода с медным штурвалом, монокристаллическая солнечная пластина без маркировки и прозрачный стеклянный куб на темном сланце символизируют второе глобальное подведение итогов на COP31 и экологические стандарты морской газовой и CO2-инфраструктуры, не являясь реальной фотографией из Антальи или Восточно-Китайского моря.",
+        "fr": "Illustration conceptuelle générée par l'IA : une vanne miniature de gazoduc à bride en acier inoxydable munie d'un volant en cuivre, une cellule photovoltaïque monocristalline sans marquage et un cube en verre optique sur une dalle d'ardoise anthracite symbolisent le deuxième bilan mondial lancé à la COP31 et l'encadrement écologique des infrastructures gazières sous-marines et de stockage de CO2, sans constituer une photographie réelle d'Antalya ou de mer de Chine orientale."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph composed on flat planes of deep teal green and warm stone grey matte cardstock. On a low rectangular slab of dark charcoal slate rest a miniature brushed stainless-steel flanged subsea pipeline valve with a copper handwheel, an unbranded dark blue monocrystalline solar wafer cell, and a clear optical glass cube. Crisp studio daylighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-19 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-18",
+          "title": "“An ambitious outcome is within reach,” UN Climate Chief at COP31 event to launch the second global stocktake",
+          "url": "https://unfccc.int/news/an-ambitious-outcome-is-within-reach-un-climate-chief-at-cop31-event-to-launch-the-second-global",
+          "publisher": "United Nations Framework Convention on Climate Change"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "2026年11月18日生态环境部关于XHZS项目生态环境影响评价文件拟进行审查公示",
+          "url": "https://www.mee.gov.cn/ywdt/gsgg/gongshi/gsq/202611/t20261118_1186940.shtml",
+          "publisher": "中华人民共和国生态环境部"
+        }
+      ]
+    },
+    {
+      "slug": "ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19",
+      "category": "work-life",
+      "localPath": "/news-media/2026-11-19/ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19-editorial.webp",
+      "publicPath": "/news-media/2026-11-19/ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19-editorial.webp",
+      "fileName": "ilo-bahamas-1986-constitutional-amendment-uk-dfe-adult-skills-tlevel-2026-11-19-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 104124,
+      "sha256": "79601e2cbcb354212afb6773c234b4dd587e46bef5c937e4f9cfd3fe3bd30d44",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅米色天然洞石平板底座上的三枚精密啮合青铜齿轮、无标深胡桃木微型工匠台钳与实心黄铜校准铅锤静物，象征国际劳工组织1986年章程修正案多边治理改革与英国成人技能基金及青年技术资格拨款核算，并非日内瓦或伦敦政府机构现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅米色天然洞石平板底座上的三枚精密啮合青铜齿轮、无标深胡桃木微型工匠台钳与实心黄铜校准铅锤静物，象征国际劳工组织1986年章程修正案多边治理改革与英国成人技能基金及青年技术资格拨款核算，并非日内瓦或伦敦政府机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺米色天然洞石平板底座上的三枚精密嚙合青銅齒輪、無標深胡桃木微型工匠台鉗與實心黃銅校準鉛錘靜物，象徵國際勞工組織1986年章程修正案多邊治理改革與英國成人技能基金及青年技術資格撥款核算，並非日內瓦或倫敦政府機構現場照片。",
+        "en": "AI-generated editorial illustration: three interlocking bronze spur gears, an unbranded dark walnut woodworker vise, and a turned solid brass plumb bob resting on beige travertine stone symbolize multilateral ILO constitutional governance reform alongside UK adult vocational skills funding and technical qualification audits, not an actual photograph from Geneva or London.",
+        "ru": "Иллюстрация, созданная ИИ: три зацепленные бронзовые шестерни, миниатюрные тиски из темного ореха без маркировки и точеный латунный отвес на плите из бежевого травертина символизируют конституционную реформу МОТ и аудит фондов профессионального обучения в Великобритании, не являясь реальной фотографией из Женевы или Лондона.",
+        "fr": "Illustration conceptuelle générée par l'IA : trois engrenages en bronze, un étau d'atelier miniature en noyer foncé sans marquage et un fil à plomb en laiton massif posés sur une dalle de travertin beige symbolisent la réforme constitutionnelle de l'OIT et le pilotage britannique des fonds de formation professionnelle, sans constituer une photographie réelle prise à Genève ou à Londres."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph arranged on flat planes of warm terracotta rust and pale cream matte cardstock. On a low rectangular slab of porous beige travertine stone rest three interlocking bronze spur gears, a miniature dark walnut woodworker vise, and a turned solid brass plumb bob. Soft warm architectural studio lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-19 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-18",
+          "title": "The Bahamas ratifies the 1986 Instrument of Amendment to the ILO Constitution",
+          "url": "https://www.ilo.org/resource/news/bahamas-ratifies-1986-instrument-amendment-ilo-constitution",
+          "publisher": "International Labour Organization"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "DfE Update local authorities : 18 November 2026",
+          "url": "https://www.gov.uk/government/publications/dfe-update-18-november-2026/dfe-update-local-authorities-18-november-2026",
+          "publisher": "UK Department for Education"
+        }
+      ]
+    },
+    {
+      "slug": "apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19",
+      "category": "current-affairs",
+      "localPath": "/news-media/2026-11-19/apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19-editorial.webp",
+      "publicPath": "/news-media/2026-11-19/apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19-editorial.webp",
+      "fileName": "apec-shenzhen-ceo-summit-open-trade-eu-general-affairs-montenegro-2026-11-19-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 111530,
+      "sha256": "5cbf72ca0963ea78ee0dd57d243121d792240809c5b8b7bd95febb0a763c5262",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：白色卡拉拉大理石平板底座上的无标拉丝黄铜拱桥模型、两只哑光银色微型集装箱与折射微光的透明三棱光学玻璃静物，象征深圳亚太经合组织工商峰会开放贸易与世界湾区合作倡议以及欧盟多年期财政框架与西巴尔干入盟治理协调，并非深圳或布鲁塞尔会场现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：白色卡拉拉大理石平板底座上的无标拉丝黄铜拱桥模型、两只哑光银色微型集装箱与折射微光的透明三棱光学玻璃静物，象征深圳亚太经合组织工商峰会开放贸易与世界湾区合作倡议以及欧盟多年期财政框架与西巴尔干入盟治理协调，并非深圳或布鲁塞尔会场现场照片。",
+        "zh-TW": "AI生成概念示意圖：白色卡拉拉大理石平板底座上的無標拉絲黃銅拱橋模型、兩隻啞光銀色微型貨櫃與折射微光的透明三稜光學玻璃靜物，象徵深圳亞太經合組織工商峰會開放貿易與世界灣區合作倡議以及歐盟多年期財政框架與西巴爾幹入盟治理協調，並非深圳或布魯塞爾會場現場照片。",
+        "en": "AI-generated editorial illustration: a miniature brushed-brass tied-arch bridge, two unbranded silver shipping container blocks, and a clear triangular glass prism on veined white marble symbolize Shenzhen APEC open-trade and bay-area cooperation proposals alongside European Union budgetary and enlargement governance, not an actual photograph from Shenzhen or Brussels.",
+        "ru": "Иллюстрация, созданная ИИ: миниатюрная латунная модель арочного моста, два серебристых контейнерных блока без маркировки и треугольная стеклянная призма на белом мраморе символизируют инициативы открытой торговли и сотрудничества регионов заливов на саммите АТЭС в Шэньчжэне, а также бюджетную и институциональную повестку Совета ЕС, не являясь реальной фотографией из Шэньчжэня или Брюсселя.",
+        "fr": "Illustration conceptuelle générée par l'IA : une maquette de pont en arc en laiton brossé, deux conteneurs miniatures argentés sans marquage et un prisme triangulaire en verre optique sur du marbre blanc symbolisent les propositions d'intégration commerciale et d'alliance des régions de baie à l'APEC de Shenzhen ainsi que la gouvernance budgétaire et d'élargissement de l'Union européenne, sans constituer une photographie réelle prise à Shenzhen ou à Bruxelles."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph set on flat geometric planes of muted crimson burgundy and slate grey matte cardstock. On a low rectangular slab of veined white Carrara marble sit a miniature brushed-brass tied-arch bridge model, two unbranded matte silver miniature intermodal shipping containers, and a clear triangular optical glass prism casting subtle light refractions alongside four small natural river stones. Soft directional studio lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-19 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-18",
+          "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
+          "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_22eeb85877ae44faad288c66a207a257.html",
+          "publisher": "中华人民共和国商务部"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "Media advisory - General Affairs Council and accession conference with Montenegro of 19 November 2026",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/media-advisory-general-affairs-council-and-accession-conference-with-montenegro-of-19-november-2026/",
+          "publisher": "Council of the European Union"
+        }
+      ]
+    }
+  ]
+}
