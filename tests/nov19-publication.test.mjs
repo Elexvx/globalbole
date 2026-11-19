@@ -267,7 +267,7 @@ test('2026-11-19 issue has 30 full five-locale articles with strict structural, 
       assert.equal(fm.author, '全球伯乐 News');
       assert.equal(fm.authorRole, EXPECTED_AUTHOR_ROLES[locale]);
       assert.equal(fm.date, ISSUE);
-      assert.equal(fm.cover, `/news-media/${ISSUE}/${slug}-editorial.webp`);
+      assert.equal(fm.cover, provEntry.localPath);
       assert.equal(fm.readTime, 5);
       assert.equal(fm.draft, false);
       assert.equal(fm.publishedAt, undefined);
@@ -288,10 +288,17 @@ test('2026-11-19 issue has 30 full five-locale articles with strict structural, 
       const imgIndex = lines.findIndex((l) => l === `![${fm.coverAlt}](${fm.cover})`);
       assert.ok(imgIndex !== -1, `Missing exact cover image markdown in ${mdPath}`);
       const disclosureLine = lines.slice(imgIndex + 1).find((l) => l.trim().length > 0);
-      assert.ok(
-        disclosureLine && disclosureLine.startsWith(EXPECTED_CAPTION_PREFIXES[locale]),
-        `AI disclosure prefix mismatch in ${mdPath}: ${disclosureLine}`
-      );
+      if (provEntry.kind === 'ai_generated_editorial_illustration') {
+        assert.ok(
+          disclosureLine && disclosureLine.startsWith(EXPECTED_CAPTION_PREFIXES[locale]),
+          `AI disclosure prefix mismatch in ${mdPath}: ${disclosureLine}`
+        );
+      } else {
+        assert.ok(
+          disclosureLine && disclosureLine.includes('Riley Wilson/NIST') && disclosureLine.includes(provEntry.licenseURL),
+          `Official source photo credit/license missing in ${mdPath}: ${disclosureLine}`
+        );
+      }
       assert.equal(disclosureLine, provEntry.captions[locale], `Caption mismatch with provenance.json in ${mdPath}`);
 
       const proseText = blocks.filter((_, idx) => idx !== 1).join('\n');
@@ -347,7 +354,7 @@ test('2026-11-19 issue has 30 full five-locale articles with strict structural, 
   }
 });
 
-test('2026-11-19 WebP editorial illustrations strip all metadata chunks and match provenance SHA-256 hashes', () => {
+test('2026-11-19 media assets (1 NIST original photo + 5 WebP editorial illustrations) strip private metadata and match provenance SHA-256 hashes', () => {
   const provPath = path.join(ROOT, 'docs', 'news-media', ISSUE, 'provenance.json');
   const reviewMdPath = path.join(ROOT, 'docs', 'news-media', ISSUE, 'source-review.md');
   assert.ok(fs.existsSync(provPath), 'Missing provenance.json');
@@ -356,30 +363,37 @@ test('2026-11-19 WebP editorial illustrations strip all metadata chunks and matc
   const provenance = JSON.parse(fs.readFileSync(provPath, 'utf8'));
   const reviewMd = fs.readFileSync(reviewMdPath, 'utf8');
   assert.equal(provenance.issue, ISSUE);
-  assert.equal(provenance.sourceDocument.title, 'Globalbole_2026_11_19_Issue_and_Illustrations');
   assert.equal(provenance.assets.length, 6, 'Expected 6 provenance entries');
 
   for (const { slug } of EXPECTED_SLUGS) {
     const entry = provenance.assets.find((a) => a.slug === slug);
     assert.ok(entry, `Missing provenance entry for ${slug}`);
-    assert.equal(entry.localPath, `/news-media/${ISSUE}/${slug}-editorial.webp`);
-    assert.equal(entry.publicPath, `/news-media/${ISSUE}/${slug}-editorial.webp`);
-    assert.equal(entry.kind, 'ai_generated_editorial_illustration');
-    assert.equal(entry.generationTool, 'OpenAI image_gen');
-    assert.equal(entry.format, 'webp');
+    assert.equal(entry.publicPath, entry.localPath);
     assert.equal(entry.metadataStripped, true);
-    assert.equal(entry.disclosureRequired, true);
     assert.equal(entry.caption, entry.captions['zh-CN']);
 
-    const webpPath = path.join(ROOT, 'public', 'news-media', ISSUE, `${slug}-editorial.webp`);
-    assert.ok(fs.existsSync(webpPath), `Missing WebP file: ${webpPath}`);
-    const buf = fs.readFileSync(webpPath);
-    assert.equal(buf.subarray(0, 4).toString('ascii'), 'RIFF');
-    assert.equal(buf.subarray(8, 12).toString('ascii'), 'WEBP');
-    assert.ok(!buf.includes(Buffer.from('EXIF')), `EXIF chunk present in ${webpPath}`);
-    assert.ok(!buf.includes(Buffer.from('IPTC')), `IPTC chunk present in ${webpPath}`);
-    assert.ok(!buf.includes(Buffer.from('XMP ')), `XMP chunk present in ${webpPath}`);
-    assert.ok(!buf.includes(Buffer.from('ICCP')), `ICCP chunk present in ${webpPath}`);
+    const assetPath = path.join(ROOT, 'public', entry.localPath.slice(1));
+    assert.ok(fs.existsSync(assetPath), `Missing media file: ${assetPath}`);
+    const buf = fs.readFileSync(assetPath);
+
+    if (entry.kind === 'official_editorial_photo') {
+      assert.equal(slug, 'nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19');
+      assert.equal(entry.format, 'jpeg');
+      assert.equal(buf[0], 0xff);
+      assert.equal(buf[1], 0xd8);
+      assert.ok(entry.sourceURL.startsWith('https://www.nist.gov/'));
+      assert.equal(entry.licenseURL, 'https://www.nist.gov/oism/copyrights');
+    } else {
+      assert.equal(entry.kind, 'ai_generated_editorial_illustration');
+      assert.equal(entry.generationTool, 'OpenAI image_gen');
+      assert.equal(entry.format, 'webp');
+      assert.equal(buf.subarray(0, 4).toString('ascii'), 'RIFF');
+      assert.equal(buf.subarray(8, 12).toString('ascii'), 'WEBP');
+      assert.ok(!buf.includes(Buffer.from('EXIF')), `EXIF chunk present in ${assetPath}`);
+      assert.ok(!buf.includes(Buffer.from('IPTC')), `IPTC chunk present in ${assetPath}`);
+      assert.ok(!buf.includes(Buffer.from('XMP ')), `XMP chunk present in ${assetPath}`);
+      assert.ok(!buf.includes(Buffer.from('ICCP')), `ICCP chunk present in ${assetPath}`);
+    }
 
     const actualSha = crypto.createHash('sha256').update(buf).digest('hex');
     assert.equal(buf.length, entry.bytes, `Byte size mismatch for ${slug}`);

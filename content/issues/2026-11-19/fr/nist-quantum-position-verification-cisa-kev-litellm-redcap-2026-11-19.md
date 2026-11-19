@@ -9,8 +9,8 @@ author: "全球伯乐 News"
 authorRole: "Compilation des sources"
 date: "2026-11-19"
 description: "Les physiciens du NIST ont publié dans Nature la première démonstration complète de vérification quantique de position avec des appareils non fiables, tandis que la CISA a inscrit quatre failles activement exploitées à son catalogue KEV."
-cover: "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp"
-coverAlt: "Nature morte de studio réunissant deux cubes séparateurs en verre optique, une boucle de fibre optique et une clé matérielle en acier brossé sur du granit sombre"
+cover: "/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg"
+coverAlt: "Les chercheurs du NIST Krister Shalm (à gauche) et Marty Stevens portant des lunettes de protection laser et guidant des photons intriqués dans une fibre optique"
 tags: ["Intelligence artificielle","Cybersécurité","Politique technologique"]
 readTime: 5
 draft: false
@@ -18,9 +18,9 @@ draft: false
 
 Le 18 novembre 2026, l'[Institut national des normes et de la technologie (NIST)](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show) des États-Unis a annoncé la première démonstration expérimentale complète d'un protocole de vérification quantique de position (Quantum Position Verification, QPV) fonctionnant avec des terminaux distants non approuvés. Le même jour, l'[Agence de cybersécurité et de sécurité des infrastructures (CISA)](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog) a inscrit quatre vulnérabilités activement exploitées — touchant la passerelle d'intelligence artificielle BerriAI LiteLLM, la plateforme de données cliniques REDCap, le système Synology DiskStation Manager et Apache Axis — à son catalogue des vulnérabilités connues pour être exploitées (KEV). Ces deux annonces simultanées illustrent à la fois l'avenir de l'authentification physique à confiance zéro et l'urgence des menaces pesant sur les chaînes logicielles actuelles[^1][^2].
 
-![Nature morte de studio réunissant deux cubes séparateurs en verre optique, une boucle de fibre optique et une clé matérielle en acier brossé sur du granit sombre](/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp)
+![Les chercheurs du NIST Krister Shalm (à gauche) et Marty Stevens portant des lunettes de protection laser et guidant des photons intriqués dans une fibre optique](/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg)
 
-Illustration conceptuelle générée par l'IA : deux cubes séparateurs en verre optique transparent, une boucle de fibre optique translucide et un jeton de sécurité en acier inoxydable brossé sans marquage sur du granit sombre symbolisent la vérification quantique de position et la sécurisation des infrastructures d'IA, sans constituer une photographie réelle du NIST ou de la CISA.
+Les chercheurs du NIST Krister Shalm (à gauche) et Marty Stevens utilisent des composants optiques pour guider des photons intriqués dans une fibre optique afin de vérifier la position physique d'un tiers distant. Crédit : Riley Wilson/NIST ; source : [communiqué officiel du NIST](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show), [œuvre du gouvernement fédéral des États-Unis relevant du domaine public et conditions d'utilisation](https://www.nist.gov/oism/copyrights). L'utilisation de cette image n'implique aucune approbation par le NIST ou le gouvernement américain.
 
 ## Photons intriqués et triangulation à la vitesse de la lumière forgent une preuve physique infalsifiable
 

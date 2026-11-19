@@ -9,8 +9,8 @@ author: "全球伯乐 News"
 authorRole: "Source compilation"
 date: "2026-11-19"
 description: "NIST physicists published the first complete Quantum Position Verification experiment using untrusted devices in Nature, while CISA added four actively exploited flaws in BerriAI LiteLLM, REDCap, Synology DSM, and Apache Axis to its Known Exploited Vulnerabilities Catalog."
-cover: "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp"
-coverAlt: "Studio tabletop still life of two clear optical beam-splitter cubes, a coiled fiber-optic loop, and a brushed steel security token on dark honed granite"
+cover: "/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg"
+coverAlt: "NIST researchers Krister Shalm (left) and Marty Stevens wearing laser safety glasses while guiding entangled photons into an optical fiber"
 tags: ["Artificial intelligence","Cybersecurity","Technology policy"]
 readTime: 5
 draft: false
@@ -18,9 +18,9 @@ draft: false
 
 On November 18, 2026, the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show) announced the first complete experimental demonstration of Quantum Position Verification (QPV) operating across remote, untrusted hardware. On the same day, the [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog) added four actively exploited security flaws—spanning the BerriAI LiteLLM artificial intelligence gateway, the Research Electronic Data Capture (REDCap) clinical trial platform, Synology DiskStation Manager, and Apache Axis—to its Known Exploited Vulnerabilities (KEV) Catalog. Together, the dual disclosures illustrate both the physical-layer future of zero-trust authentication and the urgent operational vulnerabilities confronting today's enterprise AI and scientific software stacks[^1][^2].
 
-![Studio tabletop still life of two clear optical beam-splitter cubes, a coiled fiber-optic loop, and a brushed steel security token on dark honed granite](/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp)
+![NIST researchers Krister Shalm (left) and Marty Stevens wearing laser safety glasses while guiding entangled photons into an optical fiber](/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg)
 
-AI-generated editorial illustration: two clear optical beam-splitter glass cubes, a coiled translucent fiber-optic loop, and an unbranded brushed stainless-steel security token resting on dark honed granite symbolize entanglement-based quantum position verification and AI infrastructure vulnerability defense, not an actual photograph from NIST or CISA.
+NIST researchers Krister Shalm (left) and Marty Stevens use optical components to guide entangled photons into an optical fiber to verify the physical location of a distant party. Credit: Riley Wilson/NIST; source: [NIST news release](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show), [U.S. federal government public-domain work and copyright terms](https://www.nist.gov/oism/copyrights). Use of this image does not imply endorsement by NIST or the U.S. government.
 
 ## Entangled Photons and Speed-of-Light Triangulation Forge Unforgeable Physical Location Proofs
 

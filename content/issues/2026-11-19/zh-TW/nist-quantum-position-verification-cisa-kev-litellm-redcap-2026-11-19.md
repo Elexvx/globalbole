@@ -9,8 +9,8 @@ author: "全球伯乐 News"
 authorRole: "資料整理"
 date: "2026-11-19"
 description: "美國國家標準與技術研究院在《自然》發表首套基於糾纏光子與無漏洞貝爾測試的完整量子位置認證實驗，美國網路安全和基礎設施安全局同日將 BerriAI LiteLLM 與 REDCap 等四項高危漏洞列入已知被利用漏洞目錄。"
-cover: "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp"
-coverAlt: "深色磨光花崗岩平板底座上的兩枚透明光學分光玻璃立方體、盤繞光纖環與拉絲不鏽鋼安全金鑰器物靜物"
+cover: "/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg"
+coverAlt: "美國國家標準與技術研究院研究人員 Krister Shalm（左）與 Marty Stevens 佩戴雷射護目鏡將糾纏光子導入光纖的實驗現場照片"
 tags: ["人工智慧","網路安全","科技政策"]
 readTime: 5
 draft: false
@@ -18,9 +18,9 @@ draft: false
 
 當地時間2026年11月18日，[美國國家標準與技術研究院（NIST）](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show)正式公布全球首套使用遠端非受信任設備的完整量子位置認證（Quantum Position Verification, QPV）實驗成果；同日，[美國網路安全和基礎設施安全局（CISA）](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)將開源大模型代理閘道 BerriAI LiteLLM 與臨床科研電子資料採集系統 REDCap 等四項正在遭受在野利用的漏洞增補進已知被利用漏洞（KEV）目錄。這兩項同日發布的權威公告，分別從下一代量子物理層身分校驗與當下人工智慧及科研軟體供應鏈應急防禦兩個維度，揭示了關鍵數位基礎設施安全架構的深刻演進[^1][^2]。
 
-![深色磨光花崗岩平板底座上的兩枚透明光學分光玻璃立方體、盤繞光纖環與拉絲不鏽鋼安全金鑰器物靜物](/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp)
+![美國國家標準與技術研究院研究人員 Krister Shalm（左）與 Marty Stevens 佩戴雷射護目鏡將糾纏光子導入光纖的實驗現場照片](/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg)
 
-AI生成概念示意圖：深色磨光花崗岩平板底座上的兩枚透明光學分光玻璃立方體、無標盤繞光纖環與拉絲不鏽鋼硬體安全金鑰靜物，象徵基於糾纏光子與光速測距的量子位置認證協定及人工智慧與科研基礎設施漏洞防禦，並非美國國家標準與技術研究院或網路安全機構現場照片。
+美國國家標準與技術研究院（NIST）研究人員克里斯特·沙爾姆（Krister Shalm，左）與馬蒂·史蒂文斯（Marty Stevens）使用光學組件將糾纏光子導入光纖，用於驗證遠端當事方的真實物理位置。攝影：Riley Wilson/NIST；圖源：[NIST 官方新聞公報](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show)，[美國聯邦政府公有領域作品及使用說明](https://www.nist.gov/oism/copyrights)。使用此圖不代表 NIST 或美國政府認可本站。
 
 ## 量子糾纏與光速三角測距構築不可偽造的物理位置憑證
 

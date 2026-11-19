@@ -6,34 +6,49 @@
     "documentId": "1rfe6jLN7_Ilz_sd7V3_RFIqDhwDTnW8ZO8uoYTVdkAc",
     "url": "https://docs.google.com/document/d/1rfe6jLN7_Ilz_sd7V3_RFIqDhwDTnW8ZO8uoYTVdkAc/edit"
   },
-  "processingPipeline": "cwebp -q 90 -m 6 -metadata none (EXIF/IPTC/XMP/ICCP stripped)",
+  "processingPipeline": "Primary-source public-domain JPEG retained with zero EXIF/IPTC/XMP metadata for NIST; cwebp -q 90 -m 6 -metadata none for 5 text-only/restricted-photo topics",
   "assets": [
     {
       "slug": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19",
+      "article": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19",
       "category": "technology",
-      "localPath": "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
-      "publicPath": "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
-      "fileName": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
-      "kind": "ai_generated_editorial_illustration",
-      "generationTool": "OpenAI image_gen",
-      "width": 1376,
-      "height": 768,
-      "format": "webp",
-      "bytes": 114800,
-      "sha256": "7ecba4331f5b697653e20f329e9d83e618207c9eba114ad5866ab89ef543e114",
+      "localPath": "/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg",
+      "publicPath": "/news-media/2026-11-19/nist-quantum-position-verification-2026-11-18.jpg",
+      "fileName": "nist-quantum-position-verification-2026-11-18.jpg",
+      "filename": "nist-quantum-position-verification-2026-11-18.jpg",
+      "kind": "official_editorial_photo",
+      "creator": "Riley Wilson/NIST",
+      "photographer": "Riley Wilson/NIST",
+      "sourcePageURL": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+      "sourceURL": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/11/17/QPV.jpg?itok=l4e1_VCB",
+      "rightsEvidenceURL": "https://www.nist.gov/oism/copyrights",
+      "license": "Public domain — United States federal government work (NIST)",
+      "licenseURL": "https://www.nist.gov/oism/copyrights",
+      "width": 2400,
+      "height": 1602,
+      "format": "jpeg",
+      "bytes": 274398,
+      "byteSize": 274398,
+      "sha256": "a1e1101be637ef5de665a292a329478c4ee0618e74993eb0398cce507955c77d",
       "pixelsInspected": true,
       "metadataStripped": true,
-      "disclosureRequired": true,
-      "caption": "AI生成概念示意图：深色磨光花岗岩平板底座上的两枚透明光学分光玻璃立方体、无标盘绕光纤环与拉丝不锈钢硬件安全密钥静物，象征基于纠缠光子与光速测距的量子位置认证协议及人工智能与科研基础设施漏洞防御，并非美国国家标准与技术研究院或网络安全机构现场照片。",
+      "disclosureRequired": false,
+      "caption": "美国国家标准与技术研究院（NIST）研究人员克里斯特·沙尔姆（Krister Shalm，左）与马蒂·史蒂文斯（Marty Stevens）使用光学组件将纠缠光子导入光纤，用于验证远程当事方的真实物理位置。摄影：Riley Wilson/NIST；图源：[NIST 官方新闻公报](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show)，[美国联邦政府公有领域作品及使用说明](https://www.nist.gov/oism/copyrights)。使用此图不代表 NIST 或美国政府认可本站。",
       "captions": {
-        "zh-CN": "AI生成概念示意图：深色磨光花岗岩平板底座上的两枚透明光学分光玻璃立方体、无标盘绕光纤环与拉丝不锈钢硬件安全密钥静物，象征基于纠缠光子与光速测距的量子位置认证协议及人工智能与科研基础设施漏洞防御，并非美国国家标准与技术研究院或网络安全机构现场照片。",
-        "zh-TW": "AI生成概念示意圖：深色磨光花崗岩平板底座上的兩枚透明光學分光玻璃立方體、無標盤繞光纖環與拉絲不鏽鋼硬體安全金鑰靜物，象徵基於糾纏光子與光速測距的量子位置認證協定及人工智慧與科研基礎設施漏洞防禦，並非美國國家標準與技術研究院或網路安全機構現場照片。",
-        "en": "AI-generated editorial illustration: two clear optical beam-splitter glass cubes, a coiled translucent fiber-optic loop, and an unbranded brushed stainless-steel security token resting on dark honed granite symbolize entanglement-based quantum position verification and AI infrastructure vulnerability defense, not an actual photograph from NIST or CISA.",
-        "ru": "Иллюстрация, созданная ИИ: два прозрачных оптических светоделительных куба, виток оптоволокна и стальной аппаратный ключ без маркировки на плите из темного гранита символизируют квантовую верификацию координат и защиту ИИ-инфраструктуры от уязвимостей, не являясь реальной фотографией из лабораторий NIST или CISA.",
-        "fr": "Illustration conceptuelle générée par l'IA : deux cubes séparateurs en verre optique transparent, une boucle de fibre optique translucide et un jeton de sécurité en acier inoxydable brossé sans marquage sur du granit sombre symbolisent la vérification quantique de position et la sécurisation des infrastructures d'IA, sans constituer une photographie réelle du NIST ou de la CISA."
+        "zh-CN": "美国国家标准与技术研究院（NIST）研究人员克里斯特·沙尔姆（Krister Shalm，左）与马蒂·史蒂文斯（Marty Stevens）使用光学组件将纠缠光子导入光纤，用于验证远程当事方的真实物理位置。摄影：Riley Wilson/NIST；图源：[NIST 官方新闻公报](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show)，[美国联邦政府公有领域作品及使用说明](https://www.nist.gov/oism/copyrights)。使用此图不代表 NIST 或美国政府认可本站。",
+        "zh-TW": "美國國家標準與技術研究院（NIST）研究人員克里斯特·沙爾姆（Krister Shalm，左）與馬蒂·史蒂文斯（Marty Stevens）使用光學組件將糾纏光子導入光纖，用於驗證遠端當事方的真實物理位置。攝影：Riley Wilson/NIST；圖源：[NIST 官方新聞公報](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show)，[美國聯邦政府公有領域作品及使用說明](https://www.nist.gov/oism/copyrights)。使用此圖不代表 NIST 或美國政府認可本站。",
+        "en": "NIST researchers Krister Shalm (left) and Marty Stevens use optical components to guide entangled photons into an optical fiber to verify the physical location of a distant party. Credit: Riley Wilson/NIST; source: [NIST news release](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show), [U.S. federal government public-domain work and copyright terms](https://www.nist.gov/oism/copyrights). Use of this image does not imply endorsement by NIST or the U.S. government.",
+        "ru": "Исследователи NIST Кристер Шалм (слева) и Марти Стивенс с помощью оптических компонентов направляют запутанные фотоны в оптоволокно для проверки физического местоположения удаленной стороны. Фото: Riley Wilson/NIST; источник: [официальный пресс-релиз NIST](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show), [произведение федерального правительства США в общественном достоянии и условия использования](https://www.nist.gov/oism/copyrights). Использование снимка не означает одобрения сайта со стороны NIST или правительства США.",
+        "fr": "Les chercheurs du NIST Krister Shalm (à gauche) et Marty Stevens utilisent des composants optiques pour guider des photons intriqués dans une fibre optique afin de vérifier la position physique d'un tiers distant. Crédit : Riley Wilson/NIST ; source : [communiqué officiel du NIST](https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show), [œuvre du gouvernement fédéral des États-Unis relevant du domaine public et conditions d'utilisation](https://www.nist.gov/oism/copyrights). L'utilisation de cette image n'implique aucune approbation par le NIST ou le gouvernement américain."
       },
-      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph set on flat geometric sheets of matte slate blue and warm ivory cardstock. On a low flat rectangular slab of dark honed granite sit two clear optical beam-splitter glass cubes, a coiled translucent fiber-optic loop, and an unbranded brushed stainless-steel hardware security key token. Soft directional studio side-lighting with crisp optical refractions. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
-      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-19 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "coverAlt": {
+        "zh-CN": "美国国家标准与技术研究院研究人员 Krister Shalm（左）与 Marty Stevens 佩戴激光护目镜将纠缠光子导入光纤的实验现场照片",
+        "zh-TW": "美國國家標準與技術研究院研究人員 Krister Shalm（左）與 Marty Stevens 佩戴雷射護目鏡將糾纏光子導入光纖的實驗現場照片",
+        "en": "NIST researchers Krister Shalm (left) and Marty Stevens wearing laser safety glasses while guiding entangled photons into an optical fiber",
+        "ru": "Исследователи NIST Кристер Шалм (слева) и Марти Стивенс в защитных очках направляют запутанные фотоны в оптическое волокно",
+        "fr": "Les chercheurs du NIST Krister Shalm (à gauche) et Marty Stevens portant des lunettes de protection laser et guidant des photons intriqués dans une fibre optique"
+      },
+      "rightsBasis": "Official NIST news release photograph credited to Riley Wilson/NIST; public information not subject to copyright in the United States per NIST Copyrights & Disclaimers, with requested credit retained and non-endorsement noted.",
       "primarySources": [
         {
           "date": "2026-11-18",
@@ -259,6 +274,15 @@
           "publisher": "Council of the European Union"
         }
       ]
+    }
+  ],
+  "retiredAssets": [
+    {
+      "slug": "nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19",
+      "localPath": "/news-media/2026-11-19/nist-quantum-position-verification-cisa-kev-litellm-redcap-2026-11-19-editorial.webp",
+      "status": "removed_from_public_site",
+      "removedAt": "2026-11-19",
+      "removalReason": "Replaced AI conceptual illustration with verified public-domain original NIST laboratory photograph from the cited primary source."
     }
   ]
 }
