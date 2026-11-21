@@ -1,0 +1,294 @@
+{
+  "issue": "2026-11-21",
+  "generatedAt": "2026-11-21T04:30:00Z",
+  "assets": [
+    {
+      "slug": "nist-tls-1-3-revision-mdl-identity-eu-cra-standard-2026-11-21",
+      "category": "technology",
+      "localPath": "/news-media/2026-11-21/nist-tls-1-3-revision-mdl-identity-eu-cra-standard-2026-11-21-editorial.webp",
+      "publicPath": "/news-media/2026-11-21/nist-tls-1-3-revision-mdl-identity-eu-cra-standard-2026-11-21-editorial.webp",
+      "fileName": "nist-tls-1-3-revision-mdl-identity-eu-cra-standard-2026-11-21-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 94124,
+      "sha256": "9fbcbb11962c30816d539d19d2c433880a03870c70f65e66cb55ad66d8ffdf47",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深色磨光玄武岩平板底座上的切面透明光学玻璃立方体、无字拉丝钛金属几何钥匙胚与精密黄铜同轴连接器静物，象征传输层安全（TLS 1.3）后量子密码迁移、移动驾驶证在线身份核验以及欧盟《网络韧性法案》全生命周期安全标准与数字教育主权基建，并非美国国家标准与技术研究院或欧盟委员会现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色磨光玄武岩平板底座上的切面透明光学玻璃立方体、无字拉丝钛金属几何钥匙胚与精密黄铜同轴连接器静物，象征传输层安全（TLS 1.3）后量子密码迁移、移动驾驶证在线身份核验以及欧盟《网络韧性法案》全生命周期安全标准与数字教育主权基建，并非美国国家标准与技术研究院或欧盟委员会现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色磨光玄武岩平板底座上的切面透明光學玻璃立方體、無字拉絲鈦金屬幾何鑰匙胚與精密黃銅同軸連接器靜物，象徵傳輸層安全（TLS 1.3）後量子密碼遷移、行動駕駛證線上身分核驗以及歐盟《網路韌性法案》全生命周期安全標準與數位教育主權基建，並非美國國家標準與技術研究院或歐盟委員會現場照片。",
+        "en": "AI-generated editorial illustration: a faceted clear optical glass cube, an unbranded brushed-titanium geometric key blank, and a solid brass coaxial connector cylinder on honed dark basalt symbolize TLS 1.3 post-quantum cryptographic migration, mobile driver license online authentication, and EU Cyber Resilience Act and EDU-EDIC digital sovereignty standards, not an actual photograph from NIST or the European Commission.",
+        "ru": "Иллюстрация, созданная ИИ: граненый куб из прозрачного оптического стекла, геометрическая заготовка ключа из матового титана без маркировки и латунный коаксиальный соединитель на темном базальте символизируют переход на постквантовый протокол TLS 1.3, цифровую аутентификацию водительских удостоверений и стандарты Акта о киберустойчивости ЕС, не являясь реальной фотографией из NIST или Европейской комиссии.",
+        "fr": "Illustration conceptuelle générée par l'IA : un cube à facettes en verre optique transparent, une ébauche de clé géométrique en titane brossé sans marquage et un connecteur coaxial en laiton massif sur une dalle de basalte sombre symbolisent la migration cryptographique post-quantique TLS 1.3, l'authentification par permis de conduire mobile ainsi que la première norme du Cyber Resilience Act et le consortium EDU-EDIC, sans constituer une photographie réelle du NIST ou de la Commission européenne."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph set on flat geometric planes of slate blue and warm light grey matte cardstock. On a low rectangular slab of dark honed basalt sit a clear faceted optical glass cube, an unbranded brushed-titanium geometric key blank, and a precision solid brass coaxial connector cylinder. Crisp directional studio lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-21 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-19",
+          "title": "NIST to Revise SP 800-52 Rev. 2, Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations",
+          "url": "https://csrc.nist.gov/News/2026/nist-will-revise-tls-guidelines",
+          "publisher": "美国国家标准与技术研究院（NIST）"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "NIST Project Aims to Accelerate Mobile Driver's License Adoption",
+          "url": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+          "publisher": "美国国家标准与技术研究院（NIST）"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "First European standard published to support the Cyber Resilience Act",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/first-european-standard-published-support-cyber-resilience-act",
+          "publisher": "欧盟委员会数字战略司"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Member States join forces to develop sovereign digital infrastructure on education",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/member-states-join-forces-develop-sovereign-digital-infrastructure-education",
+          "publisher": "欧盟委员会数字战略司"
+        }
+      ]
+    },
+    {
+      "slug": "fda-pathogen-agnostic-sequencing-who-gap-f-wipo-india-2026-11-21",
+      "category": "innovation",
+      "localPath": "/news-media/2026-11-21/fda-pathogen-agnostic-sequencing-who-gap-f-wipo-india-2026-11-21-editorial.webp",
+      "publicPath": "/news-media/2026-11-21/fda-pathogen-agnostic-sequencing-who-gap-f-wipo-india-2026-11-21-editorial.webp",
+      "fileName": "fda-pathogen-agnostic-sequencing-who-gap-f-wipo-india-2026-11-21-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 75224,
+      "sha256": "6ca2196c29fe662a5047587448e3ef490745fc30cd4ce58c12f800c0bbdf29a1",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：浅色多孔天然洞石平板底座上的无标透明微流控测序芯片载玻片、两支琥珀色硼硅玻璃密封试剂安瓿与实心黄铜圆柱印章静物，象征病原体非依赖型宏基因组测序体外诊断审评、世卫组织儿童药物制剂全球加速器（GAP-f）临床试验网络以及世界知识产权组织与印度2027至2029年知识产权行动计划，并非美国食药监局、世卫组织或产权组织现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：浅色多孔天然洞石平板底座上的无标透明微流控测序芯片载玻片、两支琥珀色硼硅玻璃密封试剂安瓿与实心黄铜圆柱印章静物，象征病原体非依赖型宏基因组测序体外诊断审评、世卫组织儿童药物制剂全球加速器（GAP-f）临床试验网络以及世界知识产权组织与印度2027至2029年知识产权行动计划，并非美国食药监局、世卫组织或产权组织现场照片。",
+        "zh-TW": "AI生成概念示意圖：淺色多孔天然洞石平板底座上的無標透明微流控定序晶片載玻片、兩支琥珀色硼矽玻璃密封試劑安瓿與實心黃銅圓柱印章靜物，象徵病原體非依賴型宏基因組定序體外診斷審評、世衛組織兒童藥物製劑全球加速器（GAP-f）臨床試驗網絡以及世界智慧財產權組織與印度2027至2029年智慧財產權行動計畫，並非美國食藥署、世衛組織或產權組織現場照片。",
+        "en": "AI-generated editorial illustration: an unbranded clear glass microfluidic flow-cell slide, two sealed amber borosilicate reagent ampoules, and a turned solid brass seal cylinder on pale travertine stone symbolize pathogen-agnostic sequencing diagnostic regulation, WHO GAP-f pediatric formulation clinical networks, and the WIPO-India 2027–2029 IP Action Plan, not an actual photograph from the FDA, WHO, or WIPO.",
+        "ru": "Иллюстрация, созданная ИИ: прозрачный микрофлюидный стеклянный слайд для секвенирования без маркировки, две запаянные янтарные ампулы с реагентами и массивный латунный цилиндр печати на светлом травертине символизируют регулирование метагеномной диагностики патогенов, педиатрическую сеть ВОЗ GAP-f и План действий ВОИС и Индии на 2027–2029 годы, не являясь реальной фотографией из FDA, ВОЗ или ВОИС.",
+        "fr": "Illustration conceptuelle générée par l'IA : une lame microfluidique en verre transparent sans marquage, deux ampoules de réactif scellées en verre ambré et un cylindre de sceau en laiton massif sur du travertin clair symbolisent l'évaluation réglementaire du séquençage agnostique des pathogènes, le réseau pédiatrique GAP-f de l'OMS et le plan d'action 2027-2029 sur la propriété intellectuelle entre l'OMPI et l'Inde, sans constituer une photographie réelle de la FDA, de l'OMS ou de l'OMPI."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph arranged on flat planes of muted sage green and warm ivory matte cardstock. On a low rectangular slab of pale porous travertine stone rest an unbranded clear glass microfluidic flow-cell slide, two sealed amber borosilicate reagent ampoules, and a turned solid brass cylindrical seal stamp. Soft diffused studio daylighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-21 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-19",
+          "title": "November 19, 2026: Microbiology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement",
+          "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/november-19-2026-microbiology-devices-panel-medical-devices-advisory-committee-meeting-announcement",
+          "publisher": "美国食品药品监督管理局（FDA）"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Better medicines for every child: GAP-f partners accelerate action on World Children's Day",
+          "url": "https://www.who.int/news/item/20-11-2026-better-medicines-for-every-child--gap-f-partners-accelerate-action-on-world-children-s-day",
+          "publisher": "世界卫生组织（WHO）"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "WIPO and India Deepen Cooperation on IP and Innovation",
+          "url": "https://www.wipo.int/en/web/director-general/w/daren-tang/news/2026/wipo-and-india-deepen-cooperation-on-ip-and-innovation",
+          "publisher": "世界知识产权组织（WIPO）"
+        }
+      ]
+    },
+    {
+      "slug": "eu-sfdr-simplified-transparency-categories-imf-ieo-monitoring-2026-11-21",
+      "category": "business",
+      "localPath": "/news-media/2026-11-21/eu-sfdr-simplified-transparency-categories-imf-ieo-monitoring-2026-11-21-editorial.webp",
+      "publicPath": "/news-media/2026-11-21/eu-sfdr-simplified-transparency-categories-imf-ieo-monitoring-2026-11-21-editorial.webp",
+      "fileName": "eu-sfdr-simplified-transparency-categories-imf-ieo-monitoring-2026-11-21-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 121112,
+      "sha256": "9fb4805bd3461e3148476a0410166676002783075be996ad69596e0ba5ce89b0",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：灰白纹理大理石平板底座上的三块递进高度拉丝黄铜方柱、透明光学玻璃三棱镜与深翠绿色软玉圆柱静物，象征欧盟《可持续金融披露条例》（SFDR）三档70%门槛金融产品分类改革以及国际货币基金组织（IMF）管理层落实独立评估办公室建议的第16期监测报告，并非欧盟理事会或国际货币基金组织现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：灰白纹理大理石平板底座上的三块递进高度拉丝黄铜方柱、透明光学玻璃三棱镜与深翠绿色软玉圆柱静物，象征欧盟《可持续金融披露条例》（SFDR）三档70%门槛金融产品分类改革以及国际货币基金组织（IMF）管理层落实独立评估办公室建议的第16期监测报告，并非欧盟理事会或国际货币基金组织现场照片。",
+        "zh-TW": "AI生成概念示意圖：灰白紋理大理石平板底座上的三塊遞進高度拉絲黃銅方柱、透明光學玻璃三稜鏡與深翠綠色軟玉圓柱靜物，象徵歐盟《可持續金融揭露條例》（SFDR）三檔70%門檻金融產品分類改革以及國際貨幣基金組織（IMF）管理層落實獨立評估辦公室建議的第16期監測報告，並非歐盟理事會或國際貨幣基金組織現場照片。",
+        "en": "AI-generated editorial illustration: three graduated brushed-brass rectangular blocks, a clear optical glass prism, and a dark green jadeite cylinder on veined white marble symbolize the European Union SFDR three-tier 70 percent sustainable financial product classification reform and the IMF Sixteenth Periodic Monitoring Report on IEO implementation plans, not an actual photograph from the Council of the EU or the IMF.",
+        "ru": "Иллюстрация, созданная ИИ: три ступенчатых прямоугольных блока из матовой латуни, прозрачная стеклянная призма и цилиндр из темно-зеленого жадеита на белом мраморе символизируют реформу трехуровневой классификации устойчивых финансовых продуктов ЕС (SFDR) с порогом 70 % и 16-й периодический отчет МВФ о выполнении рекомендаций Независимого отдела оценки, не являясь реальной фотографией из Совета ЕС или МВФ.",
+        "fr": "Illustration conceptuelle générée par l'IA : trois blocs rectangulaires gradués en laiton brossé, un prisme triangulaire en verre optique et un cylindre en jadéite vert foncé sur du marbre blanc veiné symbolisent la réforme européenne du règlement SFDR instaurant trois catégories de produits financiers durables au seuil de 70 % ainsi que le 16e rapport de suivi du FMI sur les recommandations de son Bureau indépendant d'évaluation, sans constituer une photographie réelle du Conseil de l'UE ou du FMI."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph set on flat planes of deep forest green and warm cream matte cardstock. On a low rectangular slab of veined white marble rest three graduated brushed-brass rectangular blocks, a clear optical glass triangular prism, and a smooth dark green jadeite cylinder. Warm directional studio side-lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-21 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-19",
+          "title": "Sustainability: Council and Parliament strike deal on simpler transparency rules for financial product",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/",
+          "publisher": "欧盟理事会"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "IMF Executive Board Concludes Sixteenth Periodic Monitoring Report on the Status of Management Implementation Plans in Response to Board-Endorsed IEO Recommendations",
+          "url": "https://www.imf.org/en/news/articles/2026/11/19/pr26372-imf-concl-16th-periodic-monitoring-rep-stat-mgmt-implements-plans-board-endorsed-ieo-recs",
+          "publisher": "国际货币基金组织（IMF）"
+        }
+      ]
+    },
+    {
+      "slug": "cop31-electrification-d-grids-iea-weo-2026-ldc-adaptation-2026-11-21",
+      "category": "energy",
+      "localPath": "/news-media/2026-11-21/cop31-electrification-d-grids-iea-weo-2026-ldc-adaptation-2026-11-21-editorial.webp",
+      "publicPath": "/news-media/2026-11-21/cop31-electrification-d-grids-iea-weo-2026-ldc-adaptation-2026-11-21-editorial.webp",
+      "fileName": "cop31-electrification-d-grids-iea-weo-2026-ldc-adaptation-2026-11-21-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 107372,
+      "sha256": "d13b72a4de9f3bad7b66b17ef15d59a9e30c795152a30f069ddd611b6e3f7fb0",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深炭色板岩平板底座上的裸紫铜编织高压导体线圈、白色上釉瓷质伞裙绝缘子与透明实心亚克力方体静物，象征安塔利亚COP31全球电气化交付方案与IRENA“35-by-35”十万亿美元电网投资倡议、国际能源署《2026年世界能源展望》霍尔木兹海峡流量情景及联合国最不发达国家气候适应支持25周年机制，并非COP31或能源机构现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深炭色板岩平板底座上的裸紫铜编织高压导体线圈、白色上釉瓷质伞裙绝缘子与透明实心亚克力方体静物，象征安塔利亚COP31全球电气化交付方案与IRENA“35-by-35”十万亿美元电网投资倡议、国际能源署《2026年世界能源展望》霍尔木兹海峡流量情景及联合国最不发达国家气候适应支持25周年机制，并非COP31或能源机构现场照片。",
+        "zh-TW": "AI生成概念示意圖：深炭色板岩平板底座上的裸紫銅編織高壓導體線圈、白色上釉瓷質傘裙絕緣子與透明實心壓克力方體靜物，象徵安塔利亞COP31全球電氣化交付方案與IRENA「35-by-35」十兆美元電網投資倡議、國際能源署《2026年世界能源展望》荷姆茲海峽流量情景及聯合國最不發達國家氣候適應支持25周年機制，並非COP31或能源機構現場照片。",
+        "en": "AI-generated editorial illustration: a braided bare copper high-voltage conductor coil, a glazed white porcelain ribbed insulator bell, and a clear solid acrylic block on dark charcoal slate symbolize the COP31 Global Electrification Delivery Package and IRENA D-GRIDs initiative, the IEA World Energy Outlook 2026 scenarios, and 25 years of UNFCCC Least Developed Countries adaptation support, not an actual photograph from Antalya or Paris.",
+        "ru": "Иллюстрация, созданная ИИ: витая медная высоковольтная шина, ребристый белый фарфоровый изолятор и прозрачный акриловый куб на плите из темного сланца символизируют пакет электрификации COP31 и инициативу IRENA D-GRIDs, сценарии обзора World Energy Outlook 2026 МЭА и 25-летие программы адаптации наименее развитых стран РКИК ООН, не являясь реальной фотографией из Антальи или Парижа.",
+        "fr": "Illustration conceptuelle générée par l'IA : une bobine de conducteur haute tension en cuivre tressé nu, un isolateur à ailettes en porcelaine blanche émaillée et un cube massif transparent sur une dalle d'ardoise anthracite symbolisent le paquet d'électrification de la COP31 et l'initiative D-GRIDs de l'IRENA, les scénarios du World Energy Outlook 2026 de l'AIE ainsi que les 25 ans de soutien à l'adaptation des pays les moins avancés de la CCNUCC, sans constituer une photographie réelle d'Antalya ou de Paris."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph composed on flat geometric sheets of deep teal and warm stone grey matte cardstock. On a low rectangular slab of dark charcoal slate rest a short section of braided bare copper high-voltage conductor coil, a glazed white porcelain ribbed electrical insulator bell, and a clear solid acrylic block. Crisp studio daylighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-21 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-19",
+          "title": "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
+          "url": "https://www.irena.org/News/pressreleases/2026/Nov/COP31-Businesses-governments-investors-cities-and-initiatives-rally-behind-electrification",
+          "publisher": "国际可再生能源署（IRENA）"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "As an unprecedented shock reshapes the energy world, its duration will determine the scale of the change",
+          "url": "https://www.iea.org/news/as-an-unprecedented-shock-reshapes-the-energy-world-its-duration-will-determine-the-scale-of-the-change",
+          "publisher": "国际能源署（IEA）"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "25 years of Least Developed Countries adaptation support",
+          "url": "https://unfccc.int/zh/node/665826",
+          "publisher": "《联合国气候变化框架公约》秘书处（UNFCCC）"
+        }
+      ]
+    },
+    {
+      "slug": "ilo-china-south-south-healthwise-netherlands-c190-ratification-2026-11-21",
+      "category": "work-life",
+      "localPath": "/news-media/2026-11-21/ilo-china-south-south-healthwise-netherlands-c190-ratification-2026-11-21-editorial.webp",
+      "publicPath": "/news-media/2026-11-21/ilo-china-south-south-healthwise-netherlands-c190-ratification-2026-11-21-editorial.webp",
+      "fileName": "ilo-china-south-south-healthwise-netherlands-c190-ratification-2026-11-21-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 97360,
+      "sha256": "8a217e7137dbc12426837a5fc8097648bb26d18757c91d88f651910fe1aaf489",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：深色胡桃木平板底座上的无标拉丝不锈钢听诊器胸件、两枚交扣缎面青铜圆环与磨砂玻璃方砖静物，象征国际劳工组织与中国人力资源和社会保障部第十二届合作联委会南南合作、中国医疗卫生机构HealthWISE职业安全卫生十年推广以及荷兰批准第190号《暴力与骚扰公约》，并非日内瓦或南宁会议现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：深色胡桃木平板底座上的无标拉丝不锈钢听诊器胸件、两枚交扣缎面青铜圆环与磨砂玻璃方砖静物，象征国际劳工组织与中国人力资源和社会保障部第十二届合作联委会南南合作、中国医疗卫生机构HealthWISE职业安全卫生十年推广以及荷兰批准第190号《暴力与骚扰公约》，并非日内瓦或南宁会议现场照片。",
+        "zh-TW": "AI生成概念示意圖：深色胡桃木平板底座上的無標拉絲不鏽鋼聽診器胸件、兩枚交扣緞面青銅圓環與磨砂玻璃方磚靜物，象徵國際勞工組織與中國人力資源和社會保障部第十二屆合作聯委會南南合作、中國醫療衛生機構HealthWISE職業安全衛生十年推廣以及荷蘭批准第190號《暴力與騷擾公約》，並非日內瓦或南寧會議現場照片。",
+        "en": "AI-generated editorial illustration: an unbranded brushed stainless-steel stethoscope chestpiece, two interlocking satin bronze rings, and a rectangular frosted glass block on dark walnut wood symbolize the 12th ILO-China Joint Committee Meeting on South-South cooperation, a decade of HealthWISE occupational safety deployment in Chinese hospitals, and the Netherlands ratification of ILO Convention No. 190, not an actual photograph from Geneva or Nanning.",
+        "ru": "Иллюстрация, созданная ИИ: головка стетоскопа из матовой нержавеющей стали без маркировки, два сцепленных бронзовых кольца и блок из матового стекла на плите из темного ореха символизируют 12-е заседание Совместного комитета МОТ и Китая по сотрудничеству Юг — Юг, десятилетие внедрения инструмента охраны труда медработников HealthWISE в Китае и ратификацию Нидерландами Конвенции МОТ № 190, не являясь реальной фотографией из Женевы или Наньнина.",
+        "fr": "Illustration conceptuelle générée par l'IA : un pavillon de stéthoscope en acier inoxydable brossé sans marquage, deux anneaux entrelacés en bronze satiné et un bloc rectangulaire en verre dépoli sur du noyer foncé symbolisent la 12e réunion du Comité conjoint OIT-Chine sur la coopération Sud-Sud, dix ans de déploiement de l'outil de santé au travail HealthWISE dans les hôpitaux chinois et la ratification par les Pays-Bas de la convention n° 190 de l'OIT, sans constituer une photographie réelle prise à Genève ou à Nanning."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph arranged on flat planes of warm terracotta and soft grey matte cardstock. On a low rectangular slab of dark walnut wood rest an unbranded brushed stainless-steel acoustic stethoscope chestpiece, two interlocking satin bronze rings, and a rectangular frosted glass block. Soft warm studio lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-21 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-20",
+          "title": "ILO and China reaffirm commitment to South-South cooperation for decent work and social justice",
+          "url": "https://www.ilo.org/resource/news/ilo-and-china-reaffirm-commitment-south-south-cooperation-decent-work-and",
+          "publisher": "国际劳工组织（ILO）"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "ILO HealthWISE tool supports decent work for health workers in China",
+          "url": "https://www.ilo.org/resource/news/ilo-healthwise-tool-supports-decent-work-health-workers-china",
+          "publisher": "国际劳工组织（ILO）"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "The Netherlands ratifies ILO Convention on violence and harassment in the world of work",
+          "url": "https://www.ilo.org/resource/news/netherlands-ratifies-ilo-convention-violence-and-harassment-world-work",
+          "publisher": "国际劳工组织（ILO）"
+        }
+      ]
+    },
+    {
+      "slug": "shenzhen-trilateral-peace-declaration-eu-uk-summit-biigc-2026-11-21",
+      "category": "current-affairs",
+      "localPath": "/news-media/2026-11-21/shenzhen-trilateral-peace-declaration-eu-uk-summit-biigc-2026-11-21-editorial.webp",
+      "publicPath": "/news-media/2026-11-21/shenzhen-trilateral-peace-declaration-eu-uk-summit-biigc-2026-11-21-editorial.webp",
+      "fileName": "shenzhen-trilateral-peace-declaration-eu-uk-summit-biigc-2026-11-21-editorial.webp",
+      "kind": "ai_generated_editorial_illustration",
+      "generationTool": "OpenAI image_gen",
+      "width": 1376,
+      "height": 768,
+      "format": "webp",
+      "bytes": 106418,
+      "sha256": "17af46f91aa4008bdcc43d94d21c77ef543aea2927acccfc9ca29de7c70d416a",
+      "pixelsInspected": true,
+      "metadataStripped": true,
+      "disclosureRequired": true,
+      "caption": "AI生成概念示意图：灰色磨光石灰岩平板底座上的三枚等边三角形排列拉丝黄铜圆柱、多面体透明光学水晶与黑色黑曜石长条静物，象征中俄美元首深圳会晤发表四点《和平宣言》以及第二届欧英布鲁塞尔峰会联合声明与英爱政府间会议（BIIGC）都柏林联合公报，并非深圳、布鲁塞尔或都柏林外交会场现场照片。",
+      "captions": {
+        "zh-CN": "AI生成概念示意图：灰色磨光石灰岩平板底座上的三枚等边三角形排列拉丝黄铜圆柱、多面体透明光学水晶与黑色黑曜石长条静物，象征中俄美元首深圳会晤发表四点《和平宣言》以及第二届欧英布鲁塞尔峰会联合声明与英爱政府间会议（BIIGC）都柏林联合公报，并非深圳、布鲁塞尔或都柏林外交会场现场照片。",
+        "zh-TW": "AI生成概念示意圖：灰色磨光石灰岩平板底座上的三枚等邊三角形排列拉絲黃銅圓柱、多面體透明光學水晶與黑色黑曜石長條靜物，象徵中俄美元首深圳會晤發表四點《和平宣言》以及第二屆歐英布魯塞爾峰會聯合聲明與英愛政府間會議（BIIGC）都柏林聯合公報，並非深圳、布魯塞爾或都柏林外交會場現場照片。",
+        "en": "AI-generated editorial illustration: three brushed-brass cylinders arranged in an equilateral triangle around a faceted optical crystal polyhedron and a dark obsidian bar on honed grey limestone symbolize the Shenzhen China-Russia-US Trilateral Peace Declaration alongside the second EU-UK Brussels Summit Joint Statement and the Dublin BIIGC Joint Communiqué, not an actual photograph from Shenzhen, Brussels, or Dublin.",
+        "ru": "Иллюстрация, созданная ИИ: три латунных цилиндра, расположенных треугольником вокруг граненого оптического кристалла и бруска черного обсидиана на плите из серого известняка, символизируют Шэньчжэньскую мирную декларацию лидеров Китая, России и США, а также совместное заявление второго саммита ЕС — Великобритания в Брюсселе и дублинское коммюнике BIIGC, не являясь реальной фотографией из Шэньчжэня, Брюсселя или Дублина.",
+        "fr": "Illustration conceptuelle générée par l'IA : trois cylindres en laiton brossé disposés en triangle équilatéral autour d'un polyèdre en cristal optique à facettes et d'une barre d'obsidienne noire sur du calcaire gris symbolisent la Déclaration de paix trilatérale Chine-Russie-États-Unis de Shenzhen ainsi que la déclaration conjointe du deuxième sommet UE-Royaume-Uni à Bruxelles et le communiqué de la BIIGC à Dublin, sans constituer une photographie réelle prise à Shenzhen, Bruxelles ou Dublin."
+      },
+      "prompt": "A minimalist 16:9 editorial studio tabletop macro still-life photograph set on flat planes of deep burgundy and slate grey matte cardstock. On a low rectangular slab of honed grey limestone sit three identical brushed-brass cylindrical weights arranged in an equilateral triangle around a clear faceted optical crystal polyhedron and a smooth dark obsidian stone bar. Soft directional studio lighting. Pure physical objects only, no circular tiered pedestals, no text, no letters, no numbers, no measurement scales, no logos, no faces, no flags, no maps, no charts.",
+      "rightsBasis": "Original AI-generated conceptual editorial still-life illustration created specifically for Globalbole 2026-11-21 issue; zero third-party logos, trademarks, or copyrighted imagery.",
+      "primarySources": [
+        {
+          "date": "2026-11-19",
+          "title": "中俄美元首和平宣言",
+          "url": "https://www.moj.gov.cn/pub/sfbgw/gwxw/ttxw/202611/t20261119_542064.html",
+          "publisher": "中华人民共和国司法部"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "习近平主持中俄美元首会晤",
+          "url": "https://tr.china-embassy.gov.cn/zgyw/202611/t20261119_12063234.htm",
+          "publisher": "中华人民共和国驻土耳其共和国大使馆"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Joint statement EU-United Kingdom summit, 20 November 2026",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/joint-statement-eu-united-kingdom-summit-20-november-2026/",
+          "publisher": "欧洲理事会"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "BIIGC Joint Communiqué, November 2026",
+          "url": "https://www.gov.uk/government/news/biigc-joint-communique-november-2026",
+          "publisher": "英国北爱尔兰事务部（GOV.UK）"
+        }
+      ]
+    }
+  ]
+}

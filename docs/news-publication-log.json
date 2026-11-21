@@ -7836,6 +7836,231 @@
       ],
       "reviewFile": "docs/news-publication-review-2026-11-19.json",
       "provenanceFile": "docs/news-media/2026-11-19/provenance.json"
+    },
+    {
+      "id": "2026-11-21-zh-CN",
+      "issue": "2026-11-21",
+      "publicationDate": "2026-11-21",
+      "publicationStatus": "release-candidate",
+      "dateNote": "Date-only publication metadata. Principal source releases are dated November 19–20, 2026 across all 6 desks. No precise original publication timestamp is invented.",
+      "language": "zh-CN",
+      "languages": [
+        "zh-CN",
+        "zh-TW",
+        "en",
+        "ru",
+        "fr"
+      ],
+      "review": "docs/news-publication-review-2026-11-21.json",
+      "mediaAudit": "docs/news-media/2026-11-21/provenance.json",
+      "articles": [
+        {
+          "translationKey": "nist-tls-1-3-revision-mdl-identity-eu-cra-standard-2026-11-21",
+          "path": "content/issues/2026-11-21/zh-CN/nist-tls-1-3-revision-mdl-identity-eu-cra-standard-2026-11-21.md",
+          "eventDate": "2026-11-19/2026-11-20",
+          "sourceDate": "2026-11-20",
+          "dataPeriod": "2026-11-19 to 2026-11-20 official releases",
+          "sources": [
+            {
+              "title": "NIST to Revise SP 800-52 Rev. 2, Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations",
+              "url": "https://csrc.nist.gov/News/2026/nist-will-revise-tls-guidelines",
+              "footnote": 1,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "美国国家标准与技术研究院（NIST）"
+            },
+            {
+              "title": "NIST Project Aims to Accelerate Mobile Driver's License Adoption",
+              "url": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+              "footnote": 2,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "美国国家标准与技术研究院（NIST）"
+            },
+            {
+              "title": "First European standard published to support the Cyber Resilience Act",
+              "url": "https://digital-strategy.ec.europa.eu/en/news/first-european-standard-published-support-cyber-resilience-act",
+              "footnote": 3,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "欧盟委员会数字战略司"
+            },
+            {
+              "title": "Member States join forces to develop sovereign digital infrastructure on education",
+              "url": "https://digital-strategy.ec.europa.eu/en/news/member-states-join-forces-develop-sovereign-digital-infrastructure-education",
+              "footnote": 4,
+              "sourceDate": "2026-11-20",
+              "verificationDate": "2026-11-21",
+              "publisher": "欧盟委员会数字战略司"
+            }
+          ]
+        },
+        {
+          "translationKey": "fda-pathogen-agnostic-sequencing-who-gap-f-wipo-india-2026-11-21",
+          "path": "content/issues/2026-11-21/zh-CN/fda-pathogen-agnostic-sequencing-who-gap-f-wipo-india-2026-11-21.md",
+          "eventDate": "2026-11-19/2026-11-20",
+          "sourceDate": "2026-11-20",
+          "dataPeriod": "2026-11-19 to 2026-11-20 official releases",
+          "sources": [
+            {
+              "title": "November 19, 2026: Microbiology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement",
+              "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/november-19-2026-microbiology-devices-panel-medical-devices-advisory-committee-meeting-announcement",
+              "footnote": 1,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "美国食品药品监督管理局（FDA）"
+            },
+            {
+              "title": "Better medicines for every child: GAP-f partners accelerate action on World Children's Day",
+              "url": "https://www.who.int/news/item/20-11-2026-better-medicines-for-every-child--gap-f-partners-accelerate-action-on-world-children-s-day",
+              "footnote": 2,
+              "sourceDate": "2026-11-20",
+              "verificationDate": "2026-11-21",
+              "publisher": "世界卫生组织（WHO）"
+            },
+            {
+              "title": "WIPO and India Deepen Cooperation on IP and Innovation",
+              "url": "https://www.wipo.int/en/web/director-general/w/daren-tang/news/2026/wipo-and-india-deepen-cooperation-on-ip-and-innovation",
+              "footnote": 3,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "世界知识产权组织（WIPO）"
+            }
+          ]
+        },
+        {
+          "translationKey": "eu-sfdr-simplified-transparency-categories-imf-ieo-monitoring-2026-11-21",
+          "path": "content/issues/2026-11-21/zh-CN/eu-sfdr-simplified-transparency-categories-imf-ieo-monitoring-2026-11-21.md",
+          "eventDate": "2026-11-19/2026-11-20",
+          "sourceDate": "2026-11-20",
+          "dataPeriod": "2026-11-19 to 2026-11-20 official releases",
+          "sources": [
+            {
+              "title": "Sustainability: Council and Parliament strike deal on simpler transparency rules for financial product",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/",
+              "footnote": 1,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "欧盟理事会"
+            },
+            {
+              "title": "IMF Executive Board Concludes Sixteenth Periodic Monitoring Report on the Status of Management Implementation Plans in Response to Board-Endorsed IEO Recommendations",
+              "url": "https://www.imf.org/en/news/articles/2026/11/19/pr26372-imf-concl-16th-periodic-monitoring-rep-stat-mgmt-implements-plans-board-endorsed-ieo-recs",
+              "footnote": 2,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "国际货币基金组织（IMF）"
+            }
+          ]
+        },
+        {
+          "translationKey": "cop31-electrification-d-grids-iea-weo-2026-ldc-adaptation-2026-11-21",
+          "path": "content/issues/2026-11-21/zh-CN/cop31-electrification-d-grids-iea-weo-2026-ldc-adaptation-2026-11-21.md",
+          "eventDate": "2026-11-19/2026-11-20",
+          "sourceDate": "2026-11-20",
+          "dataPeriod": "2026-11-19 to 2026-11-20 official releases",
+          "sources": [
+            {
+              "title": "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
+              "url": "https://www.irena.org/News/pressreleases/2026/Nov/COP31-Businesses-governments-investors-cities-and-initiatives-rally-behind-electrification",
+              "footnote": 1,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "国际可再生能源署（IRENA）"
+            },
+            {
+              "title": "As an unprecedented shock reshapes the energy world, its duration will determine the scale of the change",
+              "url": "https://www.iea.org/news/as-an-unprecedented-shock-reshapes-the-energy-world-its-duration-will-determine-the-scale-of-the-change",
+              "footnote": 2,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "国际能源署（IEA）"
+            },
+            {
+              "title": "25 years of Least Developed Countries adaptation support",
+              "url": "https://unfccc.int/zh/node/665826",
+              "footnote": 3,
+              "sourceDate": "2026-11-20",
+              "verificationDate": "2026-11-21",
+              "publisher": "《联合国气候变化框架公约》秘书处（UNFCCC）"
+            }
+          ]
+        },
+        {
+          "translationKey": "ilo-china-south-south-healthwise-netherlands-c190-ratification-2026-11-21",
+          "path": "content/issues/2026-11-21/zh-CN/ilo-china-south-south-healthwise-netherlands-c190-ratification-2026-11-21.md",
+          "eventDate": "2026-11-19/2026-11-20",
+          "sourceDate": "2026-11-20",
+          "dataPeriod": "2026-11-19 to 2026-11-20 official releases",
+          "sources": [
+            {
+              "title": "ILO and China reaffirm commitment to South-South cooperation for decent work and social justice",
+              "url": "https://www.ilo.org/resource/news/ilo-and-china-reaffirm-commitment-south-south-cooperation-decent-work-and",
+              "footnote": 1,
+              "sourceDate": "2026-11-20",
+              "verificationDate": "2026-11-21",
+              "publisher": "国际劳工组织（ILO）"
+            },
+            {
+              "title": "ILO HealthWISE tool supports decent work for health workers in China",
+              "url": "https://www.ilo.org/resource/news/ilo-healthwise-tool-supports-decent-work-health-workers-china",
+              "footnote": 2,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "国际劳工组织（ILO）"
+            },
+            {
+              "title": "The Netherlands ratifies ILO Convention on violence and harassment in the world of work",
+              "url": "https://www.ilo.org/resource/news/netherlands-ratifies-ilo-convention-violence-and-harassment-world-work",
+              "footnote": 3,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "国际劳工组织（ILO）"
+            }
+          ]
+        },
+        {
+          "translationKey": "shenzhen-trilateral-peace-declaration-eu-uk-summit-biigc-2026-11-21",
+          "path": "content/issues/2026-11-21/zh-CN/shenzhen-trilateral-peace-declaration-eu-uk-summit-biigc-2026-11-21.md",
+          "eventDate": "2026-11-19/2026-11-20",
+          "sourceDate": "2026-11-20",
+          "dataPeriod": "2026-11-19 to 2026-11-20 official releases",
+          "sources": [
+            {
+              "title": "中俄美元首和平宣言",
+              "url": "https://www.moj.gov.cn/pub/sfbgw/gwxw/ttxw/202611/t20261119_542064.html",
+              "footnote": 1,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "中华人民共和国司法部"
+            },
+            {
+              "title": "习近平主持中俄美元首会晤",
+              "url": "https://tr.china-embassy.gov.cn/zgyw/202611/t20261119_12063234.htm",
+              "footnote": 2,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "中华人民共和国驻土耳其共和国大使馆"
+            },
+            {
+              "title": "Joint statement EU-United Kingdom summit, 20 November 2026",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/joint-statement-eu-united-kingdom-summit-20-november-2026/",
+              "footnote": 3,
+              "sourceDate": "2026-11-20",
+              "verificationDate": "2026-11-21",
+              "publisher": "欧洲理事会"
+            },
+            {
+              "title": "BIIGC Joint Communiqué, November 2026",
+              "url": "https://www.gov.uk/government/news/biigc-joint-communique-november-2026",
+              "footnote": 4,
+              "sourceDate": "2026-11-19",
+              "verificationDate": "2026-11-21",
+              "publisher": "英国北爱尔兰事务部（GOV.UK）"
+            }
+          ]
+        }
+      ]
     }
   ],
   "revisions": [
